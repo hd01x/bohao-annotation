@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__dc80e30908da11ebbd9cac1f6bf848b6",
+  "sample_id": "dc80e30908da11ebbd9cac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film came out earlier, Hell And Back Again or Buster & Chauncey'S Silent Night?",
+  "gold_answer": "Buster & Chauncey'S Silent Night",
+  "context": [
+    "Hell and Back or Hell and Back Again or To Hell and Back may refer to:",
+    "\" Silent Night\" is a popular Christmas carol. Silent Night( s) may also refer to:",
+    "Silent Night, Bloody Night: The Homecoming is a 2013 British horror film and remake of the 1972 American film\" Silent Night, Bloody Night\".",
+    "Buster& Chauncey's Silent Night is a 1998 direct- to- video animated featurette, inspired by the tale of the creation of the Christmas carol\" Silent Night\". It was directed by Buzz Potamkin and stars the voices of Phil Hartman( in one of his final roles), Jim Cummings, Marie Osmond, Tom Arnold and( a then- unknown) Lea Michele, and the songs were written by Lynn Ahrens and Stephen Flaherty.",
+    "Mike Lerner is a documentary film maker. On January 24, 2012, he was nominated for an Academy Award for the film\" Hell and Back Again\".",
+    "Hell and Back Again is a 2011 American- British- Afghan documentary film produced, shot, and directed by Danfung Dennis, about a sergeant in the United States Marines Corps who returns from the Afghanistan conflict with a badly broken leg and post-traumatic stress disorder. On January 24, 2012, the film was announced as one of the five nominees for the Academy Award for Best Documentary Feature.",
+    "To Hell and Back is the title of the autobiography of rock singer, Meat Loaf. It was later made into a television movie, called\" Meat Loaf: To Hell and Back\", with W. Earl Brown in the title role.",
+    "Silent Night is a 2012 American slasher film directed by Steven C. Miller and starring Jaime King, Malcolm McDowell, Donal Logue, Brendan Fehr, and Ellen Wong. It is a loose remake of Charles E. Sellier Jr.'s 1984 film\" Silent Night, Deadly Night\" and the sixth installment in the\" Silent Night, Deadly Night\" franchise. The film was given a limited theatrical release on November 20, 2012 and was released on DVD and Blu-ray Disc on December 6, 2012.",
+    "There and Back Again is the subtitle to\" The Hobbit\", a 1937 novel by J. R. R. Tolkien. There and Back Again may also refer to:",
+    "Back Again may refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHell and Back Again is a 2011 American-British-Afghan documentary film.\nBuster & Chauncey's Silent Night is a 1998 direct-to-video animated featurette.\n2011 is later than 1998.\nThe film that came out earlier is Buster & Chauncey's Silent Night.\n<answer> Buster & Chauncey's Silent Night",
+  "predicted_answer": "Buster & Chauncey's Silent Night",
+  "claims": [
+    "Hell and Back Again is a 2011 American-British-Afghan documentary film",
+    "Buster & Chauncey's Silent Night is a 1998 direct-to-video animated featurette",
+    "2011 is later than 1998",
+    "The film that came out earlier is Buster & Chauncey's Silent Night"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Hell and Back Again is a 2011 American-British-Afghan documentary film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Buster & Chauncey's Silent Night is a 1998 direct-to-video animated featurette",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "2011 is later than 1998",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The film that came out earlier is Buster & Chauncey's Silent Night",
+      "claim_type": "DR"
+    }
+  ]
+}

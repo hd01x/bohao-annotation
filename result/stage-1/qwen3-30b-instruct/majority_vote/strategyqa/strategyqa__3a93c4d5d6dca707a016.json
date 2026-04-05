@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__3a93c4d5d6dca707a016",
+  "sample_id": "3a93c4d5d6dca707a016",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Superhero fiction invented in the digital format?",
+  "gold_answer": "no",
+  "context": [
+    "The Golden Age of comics occurred between the 1930's and the 1950's.",
+    "Shatter was the first digitally drawn, commercially published comic."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Golden Age of comics occurred between the 1930s and 1950s.\nSuperhero fiction emerged during the Golden Age of comics.\nShatter was the first digitally drawn, commercially published comic.\nShatter was published after the Golden Age of comics.\nDigital format came after the invention of superhero fiction.\nSuperhero fiction was not invented in the digital format.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Golden Age of comics occurred between the 1930s and 1950s",
+    "Superhero fiction emerged during the Golden Age of comics",
+    "Shatter was the first digitally drawn, commercially published comic",
+    "Shatter was published after the Golden Age of comics",
+    "Digital format came after the invention of superhero fiction",
+    "Superhero fiction was not invented in the digital format"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Golden Age of comics occurred between the 1930s and 1950s",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Superhero fiction emerged during the Golden Age of comics",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Shatter was the first digitally drawn, commercially published comic",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Shatter was published after the Golden Age of comics",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Digital format came after the invention of superhero fiction",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Superhero fiction was not invented in the digital format",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

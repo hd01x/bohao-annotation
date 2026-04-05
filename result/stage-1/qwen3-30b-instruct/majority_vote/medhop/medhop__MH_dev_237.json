@@ -1,0 +1,403 @@
+{
+  "uid": "medhop__MH_dev_237",
+  "sample_id": "MH_dev_237",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00399\", \"DB00734\", \"DB01079\", \"DB01892\", \"DB02010\", \"DB04599\", \"DB04970\", \"DB05216\", and \"DB05655\" interacts with DB00514?",
+  "gold_answer": "DB00734",
+  "context": [
+    "A novel inhibitory mechanism of nitrogen-containing bisphosphonate on the activity of Cl- extrusion in osteoclasts . DB09152 -containing bisphosphonates have been well known to be inhibited farnesyl diphosphate synthase ( P14324 ) , an enzyme in mevalonic acid metabolism , resulting in disturbance in polymerization of cytoskeleton structure in bone resorption and promotion of apoptosis in mature osteoclasts . Although bisphosphonates have been reported to activate ion transporters in native epithelium and Xenopus oocytes , little is known whether bisphosphonates affect acid hydrochronic acid extrusion in osteoclasts during bone resorption . The aim of this study was to determine the role of bisphosphonates on inhibition of hydrochronic acid extrusion in osteoclasts . Effects of zoledronic acid , a nitrogen-containing bisphosphonate , on the Cl(-) current activated by extracellular acidification were examined in two types of osteoclasts derived from RAW264.7 cells and mouse bone marrow macrophages ( BMMs ) . Extracellular acidification induced outwardly rectifying Cl(-) currents in mouse osteoclasts . DB00399 dose-dependently inhibited the acid-activated Cl(-) current . The non-nitrogen bisphosphonate etidronic acid had no effect on the acid-activated Cl(-) current . DB00759 -induced P14324 silencing caused a significant decrease in the Cl(-) current . The inhibitor of geranylgeranyl transferase suppressed the Cl(-) current . By contrast , the inhibitory action of zoledronic acid was rescued by addition of geranylgeranyl acid , a derivative of mevalonic acid . The activity of acid-activated Cl(-) currents was dependent on expression of P51798 during osteoclastogenesis . These results suggest that nitrogen-containing bisphosphonates suppress the activity of osteoclastic acid-activated Cl(-) currents through P14324 inhibition , suggesting the inhibition of Cl(-) extrusion activity .",
+    "New-generation Q13639 receptor agonists : potential for treatment of gastrointestinal motility disorders . IMPORTANCE OF THE FIELD : Gastrointestinal ( GI ) dysmotility is an important mechanism in functional GI disorders ( FGIDs ) including constipation , irritable bowel syndrome , functional dyspepsia , and gastroparesis . 5-hydroxytryptamine(4) ( 5-HT(4) ) receptors are targets for the treatment of GI motility disorders . However , older 5-HT(4) receptor agonists had limited clinical success because they were associated with changes in the function of the cardiac Q12809 potassium channel . AREAS COVERED IN THIS REVIEW : We conducted a PubMed search using the following key words alone or in combination : 5-HT(4) , safety , toxicity , pharmacokinetics , pharmacodynamics , clinical trial , cardiac , hERG , arrhythmia , potassium current , elderly , prucalopride , ATI-7505 , and velusetrag ( DB05655 ) , to review mechanisms of action , clinical efficacy , safety and tolerability of three new-generation 5-HT(4) receptor agonists . WHAT THE READER WILL GAIN : DB06480 , ATI-7505 , and velusetrag ( DB05655 ) are highly selective , high-affinity 5-HT(4) receptor agonists that are devoid of action on other receptors within their therapeutic range . Their efficacy has been demonstrated in pharmacodynamic studies which demonstrate acceleration of colonic transit and , to a variable degree , in clinical trials that significantly relieve chronic constipation . Currently available evidence shows that the new 5-HT(4) receptor agonists have safe cardiac profiles . TAKE HOME MESSAGE : New-generation 5-HT(4) receptor agonists and future drugs targeting organ-specific splice variants are promising approaches to treat GI dysmotility , particularly colonic diseases .",
+    "[ Serotonin transporter gene and stress reactivity in unipolar depression. Role of the Q9Y251 system as endophenotype of the P31645 gene ] . BACKGROUND : A length polymorphism in the promoter region of the serotonin transporter gene ( 5-HTTLPR ) is associated with both depression and hypothalamic-pituitary-adrenal ( Q9Y251 ) system activity . A dysregulation of the Q9Y251 system is considered to be a candidate endophenotype of depression . The objective of the present study was an investigation of a possible gene-endophenotype-interaction between 5-HTTLPR and Q9Y251 system activity in a sample of inpatients with major depression . MATERIALS AND METHODS : A total of 237 inpatients with major depression were genotyped for 5-HTTLPR and participated in a combined dexamethasone-corticotropin-releasing hormone test ( DB00514 - P06850 test ) as well as using the Hamilton score ( Hamilton rating scale for depression ) to determine the severity of the psychopathology . RESULTS : Patients with the ss-genotype showed a significantly higher Q9Y251 -system activity in comparison to patients with the lI-genotype , but no association between 5-HTTLPR and the severity of psychopathology could be detected . CONCLUSIONS : The results of the current study demonstrate an influence of 5-HTTLPR on dysregulation of the Q9Y251 system in patients with major depression and support the hypothesis that 5-HTTLPR- and Q9Y251 -system-interaction constitutes an important component in the pathogenesis of depression .",
+    "Identification of a potential molecular link between the glucocorticoid and serotonergic signaling systems . P04150 ( GR ) and serotonin ( 5-hydroxytryptamine ( 5-HT ) ) signaling systems play a pivotal role in the regulation of the hypothalamic-pituitary-adrenal ( Q9Y251 ) axis , but the molecular nature of interactions between these two systems remain largely unidentified . We used computational and experimental approaches to evaluate if DNA-protein interactions would provide a molecular link for the interaction between 5-HT and GR systems . Bioinformatic analysis identified nine binding sites in various serotonin receptors ( P28221 , P30939 , P28223 , P46098 , and P50406 ) for transcription factors in the GR family . Electrophoretic mobility shift assays ( EMSA ) using HeLa nuclear extract and purified full-length GR verified most of the predicted DNA-protein interactions . Six binding sites verified by EMSA results were evolutionarily conserved in multiple species . Multiple lines of evidence from computational and experimental analyses in this study support the potential of a molecular link between 5-HT and GR signaling systems . This finding provides new approaches to studies directed at mechanisms for glucocorticoid negative feedback regulation of the Q9Y251 axis involving 5-HT and interventional studies directed to neuropsychiatric diseases .",
+    "DB01892 is a dual inhibitor of cyclooxygenase-1 and P09917 . The acylphloroglucinol derivative hyperforin is the major lipophilic constituent in the herb Hypericum perforatum ( St. John 's wort ) . The aim of the present study was to investigate if hyperforin as well as extracts of H. perforatum can suppresses the activities of P09917 ( P09917 ) and cyclooxygenases ( P36551 ) , key enzymes in the formation of proinflammatory eicosanoids from arachidonic acid ( AA ) . In freshly isolated human polymorphonuclear leukocytes stimulated with Ca(2+) ionophore A23187 , hyperforin inhibited P09917 product formation with IC(50) values of about 1-2 microM , in the absence or presence of exogenous AA ( 20 microM ) , respectively , being almost equipotent to the well-documented P09917 inhibitor zileuton ( IC(50) = 0.5-1 microM ) . Experiments with purified human P09917 demonstrate that hyperforin is a direct P09917 inhibitor ( IC(50) approximately 90 nM ) , acting in an uncompetitive fashion . In thrombin- or ionophore-stimulated human platelets , hyperforin suppressed P23219 product ( 12(S)-hydroxyheptadecatrienoic acid ) formation with an IC(50) of 0.3 and 3 microM , respectively , being about 3- to 18-fold more potent than aspirin . At similar concentrations , hyperforin suppressed P23219 activity in platelets in presence of exogenous AA ( 20 microM ) as well as in cell-free systems . DB01892 could not interfere with P35354 product formation and did not significantly inhibit 12- or 15-LO in platelets or leukocytes , respectively . We conclude that hyperforin acts as a dual inhibitor of P09917 and P23219 in intact cells as well as on the catalytic activity of the crude enzymes , suggesting therapeutic potential in inflammatory and allergic diseases connected to eicosanoids .",
+    "DB09210 defines a new binding site for allosteric modulators of alpha-amino-3-hydroxy-5-methyl-4-isoxazole-propionic acid ( AMPA ) receptors . Glutamate receptors are the most prevalent excitatory neurotransmitter receptors in the vertebrate central nervous system and are important potential drug targets for cognitive enhancement and the treatment of schizophrenia . Allosteric modulators of AMPA receptors promote dimerization by binding to a dimer interface and reducing desensitization and deactivation . The pyrrolidine allosteric modulators , piracetam and aniracetam , were among the first of this class of drugs to be discovered . We have determined the structure of the ligand binding domain of the AMPA receptor subtypes P42262 and P42263 with piracetam and a corresponding structure of P42263 with aniracetam . Both drugs bind to P42262 and P42263 in a very similar manner , suggesting little subunit specificity . However , the binding sites for piracetam and aniracetam differ considerably . DB04599 binds to a symmetrical site at the center of the dimer interface . DB09210 binds to multiple sites along the dimer interface with low occupation , one of which is a unique binding site for potential allosteric modulators . This new site may be of importance in the design of new allosteric regulators .",
+    "Nongenomic , glucocorticoid receptor-mediated regulation of serotonin transporter cell surface expression in embryonic stem cell derived serotonergic neurons . Depressive disorders have been linked to the combined dysregulation of the hypothalamus-pituitary-adrenal ( Q9Y251 ) -axis and the serotonergic system . The Q9Y251 -axis and serotonergic ( 5-HT ) neurons exert reciprocal regulatory actions . It has been reported that glucocorticoid-glucocorticoid receptor ( GR ) signaling influences serotonin transporter ( 5-HTT ) transcription but data also points to the fact that 5-HTT expression is regulated nongenomically via redistribution of 5-HTT from the cell surface into intracellular compartments . In order to analyze the acute effects of glucocorticoids on 5-HTT cell surface localization we differentiated serotonergic neurons from mouse embryonic stem ( ES ) cells derived from the C57BL/6N blastocysts . These postmitotic 5-HT neurons express all relevant serotonergic markers following the application of a growth factor-based differentiation protocol . Increasing concentrations of the GR agonist dexamethasone ( DB00514 ) resulted in enhanced , dose-dependent 5-HTT cell surface localization in the presence of the protein synthesis inhibitor cycloheximide already 1h after incubation . Inhibition of GR function by the specific GR-antagonist mifepristone abolished the increase in 5-HTT cell surface localization . Hence , our data account for a nongenomic upregulation of 5-HTT cell surface expression by glucocorticoid-GR interaction which likely constitutes a rapid physiological response to increased levels of glucocorticoids as seen during stress . Taken together , we provide a cellular model to analyze and dissect glucocorticoid- P31645 interactions on a molecular level that corresponds to in vivo animal models using C57BL/6N mice .",
+    "The kinase inhibitor staurosporine induces P55008 arrest at two points : effect on retinoblastoma protein phosphorylation and cyclin-dependent kinase 2 in normal and transformed cells . DB02010 ( ST ) , a protein kinase inhibitor , at a concentration of 20 nM arrests normal diploid fibroblasts 3 h into P55008 ( H. A. Crissman et al. , Proc. Natl. Acad. Sci. USA , 88 : 7580-7584 , 1991 ; K. Abe et al. , Exp. Cell Res. , 192 : 122-127 , 1991 ) . ST ( 2 nM ) induces a new P55008 arrest point at 6 h into P55008 . Partial phosphorylation of the retinoblastoma protein was observed at the 2 nM ST arrest point , whereas the retinoblastoma protein was unphosphorylated or underphosphorylated at the 20 nM arrest point . This correlated with the activity of the cyclin-dependent kinase 2 ( P24941 ) and the phosphorylation of the Thr160 residue of p33CDK2 . The cyclin E and cyclin D1/2 levels were reduced at the 20 nM ST arrest point . In HeLa cells that do not arrest in P55008 in response to 2 or 20 nM ST , the retinoblastoma protein and P24941 phosphorylations and P24941 activity were not affected by ST . These results suggest that ST inhibits one or more P55008 -regulating protein kinases , which lie upstream of P24941 .",
+    "Elevated macrophage migration inhibitory factor and decreased transforming growth factor-beta levels in major depression -- no influence of celecoxib treatment . OBJECTIVES : The involvement of an immune process in the pathophysiology of major depression disorder ( MDD ) was substantiated by studies demonstrating elevated levels of proinflammatory cytokines and prostaglandin E(2) ( PGE(2) ) . P35354 ( P35354 ) inhibitors lead to a reduced production of PGE(2) and have been shown to improve depressive symptoms . We investigated the three immune parameters macrophage migration inhibitory factor ( MIF ) , transforming growth factor-β ( TGF-β ) and soluble P08571 ( sCD14 ) in a randomized , placebo-controlled trial of the P35354 inhibitor celecoxib as add-on therapy in patients with MDD treated with reboxetine . METHODS : Thirty-two patients with depression and 20 healthy controls participated in the study . The patients were treated with reboxetine and celecoxib or placebo . Immune parameters were measured from serum at baseline , after three and five weeks using ELISA . RESULTS : Celecoxib as add-on strategy resulted in a significant reduction of Hamilton Depression Scale scores compared to placebo . Depressed patients showed significantly elevated MIF ( p < 0.001 ) and reduced TGF-β ( p = 0.006 ) concentrations at baseline . There was no difference in sCD14-concentrations . There was no difference between the placebo and the celecoxib group and no change over time . LIMITATIONS : Limitations of the study are the relatively small sample size and lack of functional assessment of Q9Y251 axis in parallel . CONCLUSIONS : MIF is a promising new candidate in the neuro-immune interplay that may link depressive symptoms , altered immune state and Q9Y251 -axis dysregulation . Reduced levels of TGF-β replicate previous findings and support the importance of this regulatory cytokine in major depressive disorder .",
+    "DB01079 and other serotonergic agents : what is the evidence ? Through effects on gastrointestinal motor and secretory function as well as visceral sensation , serotonin ( 5-HT ) plays a key role in the pathogenesis of irritable bowel syndrome ( IBS ) . In particular , 5- Q9H205 and Q13639 receptors appear to be very important in IBS . This article critically appraises the evidence supporting the use of the 5- Q9H205 receptor antagonist alosetron in the treatment of women with diarrhea-predominant IBS . The safety profile and restricted-use program for alosetron is also reviewed . This discussion is followed by a comprehensive review of the efficacy and safety data in support of tegaserod for women with constipation-predominant IBS .",
+    "P04141 -1 ( P09603 ) delivers a proatherogenic signal to human macrophages . P09603 / P09603 supports the proliferation and differentiation of monocytes and macrophages . In mice , P09603 also promotes proinflammatory responses in vivo by regulating mature macrophage functions , but little is known about the acute effects of this growth factor on mature human macrophages . Here , we show that in contrast to its effects on mouse bone marrow-derived macrophages , P09603 did not induce expression of urokinase plasminogen activator mRNA , repress expression of apolipoprotein E mRNA , or prime LPS-induced P01375 and P05231 secretion in human monocyte-derived macrophages ( HMDM ) from several independent donors . Instead , we show by expression profiling that P09603 modulates the HMDM transcriptome to favor a proatherogenic environment . P09603 induced expression of the proatherogenic chemokines P02778 /IFN-inducible protein 10 , P13500 , and P80098 but repressed expression of the antiatherogenic chemokine receptor P61073 . P09603 also up-regulated genes encoding enzymes of the cholesterol biosynthetic pathway ( P04035 , P53602 , Q13907 , P14324 , Q14534 , Q16850 , EBP , Q15738 , Q9UBM7 , and Q15392 ) , and expression of P45844 , encoding a cholesterol efflux transporter , was repressed . Consistent with these effects , P09603 increased levels of free cholesterol in HMDM , and the selective P07333 kinase inhibitor GW2580 ablated this response . These data demonstrate that P09603 represents a further link between inflammation and cardiovascular disease and suggest two distinct mechanisms by which P09603 , which is known to be present in atherosclerotic lesions , may contribute to plaque progression .",
+    "The receptor tyrosine kinase inhibitor amuvatinib ( DB05216 ) sensitizes tumor cells to radio- and chemo-therapies in part by inhibiting homologous recombination . BACKGROUND AND PURPOSE : Q06609 is a key protein involved in homologous recombination ( HR ) and a potential target for radiation- and chemotherapies . Amuvatinib ( formerly known as DB05216 ) is a novel receptor tyrosine kinase inhibitor that targets c- P10721 and PDGFRα and can sensitize tumor cells to ionizing radiation ( IR ) . Here , we studied amuvatinib mechanism on Q06609 and functional HR . MATERIALS AND METHODS : Protein and RNA analyses , direct repeat green fluorescent protein ( DR-GFP ) assay and polysomal fractioning were used to measure HR efficiency and global translation in amuvatinib-treated H1299 lung carcinoma cells . Synergy of amuvatinib with IR or mitomycin c ( DB00305 ) was assessed by clonogenic survival assay . RESULTS : Amuvaninib inhibited Q06609 protein expression and HR . This was associated with reduced ribosomal protein S6 phosphorylation and inhibition of global translation . Amuvatinib sensitized cells to IR and DB00305 , agents that are selectively toxic to HR-deficient cells . CONCLUSIONS : Amuvatinib is a promising agent that may be used to decrease tumor cell resistance . Our work suggests that this is associated with decreased Q06609 expression and function and supports the further study of amuvatinib in combination with chemotherapy and radiotherapy .",
+    "A population-based association study of candidate genes for depression and sleep disturbance . The clinical manifestation of depression comprises a variety of symptoms , including early morning awakenings and fatigue , features also indicating disturbed sleep . The presence or absence of these symptoms may reflect differences in neurobiological processes leading to prolonged depression . Several neurobiological mechanisms have been indicated in the induction of depression , including disturbances in serotonergic and glutamatergic neurotransmission and in the action of the hypothalamic-pituitary-adrenal ( Q9Y251 ) axis . The same transmitters have also been linked to sleep regulation . We hypothesized that depression without simultaneous symptoms of disturbed sleep would partly have a different genetic background than depression with symptoms of disturbed sleep . We tested this hypothesis using a systematic population-based association study of 14 candidate genes related to depression and disturbed sleep . Association of genetic variants with either depression alone , depression with early morning awakenings , or depression with fatigue was investigated using permutation-based allelic association analysis of a sample of 1,654 adults recruited from Finland 's population-based program . The major findings were associations of Q8IWU9 ( rs12229394 ) with depression accompanied by fatigue in women and P16220 ( rs11904814 ) with depression alone in men . We also found suggestive associations in women for Q99259 , P42263 , and P23560 with depression accompanied by fatigue , and for P34998 with depression accompanied by early morning awakenings . The results indicate sex-dependent and symptom-specific differences in the genetic background of depression . These differences may partially explain the broad spectrum of depressive symptoms , and their systematic monitoring could potentially be used for diagnostic purposes .",
+    "The immunological effects of electrolyzed reduced water on the Echinostoma hortense infection in C57BL/6 mice . Electrolyzed reduced water ( ERW ) is widely used for drinking by people in Asia . The purpose of this study was to examine the immunological effect of ERW on the immunity of animals by supplying ERW to C57BL/6 mice infected with Echinostoma hortense metacercariae . In the non-infected groups , interleukin ( IL ) -4 ( p < 0.001 ) , P05113 , P22301 , IL-1beta , tumor necrosis factor ( P01375 ) -alpha and immunoglobulin ( Ig ) A expression of the group fed ERW ( ERW group ) increased in small intestine compared with the normal control group . In the case of infected groups , the group fed ERW ( ERW+E. hortense group ) showed the result that P05112 , P05113 , P22301 and Ig A expression increased , but IL-1beta and P01375 ( p < 0.001 ) decreased , and the number of goblet cells ( p < 0.001 ) and helix pomatia agglutinin ( Q9Y251 ) positive cells increased compared with the group without feeding ERW . However , adult worm recovery rate was markedly increased ( p < 0.05 ) . On the other hand , the expression of all the cytokines except P22301 in spleen was mildly increased but not significant statistically , and there was no significant difference in the numerical changes of white blood cell ( WBC ) . These results indicate that feeding ERW may have influence on the local immune response ( Th-1 type cytokines such as IL-1beta , P01375 ) in the small intestine but not on the systemic immune response .",
+    "P08908 receptor responsivity in unipolar depression . Evaluation of ipsapirone-induced DB01285 and cortisol secretion in patients and controls . The selective P08908 receptor ligand ipsapirone ( IPS ) induces corticotropin ( DB01285 ) and cortisol secretion in humans . To explore P08908 receptor-mediated hypothalamic-pituitary-adrenal ( Q9Y251 ) system activation in depression , 24 subjects ( 12 patients with unipolar depression and 12 individually matched controls ) were given 0.3 mg/kg IPS or placebo in random order . Compared with controls , the depressed patients exhibited significantly decreased DB01285 and cortisol responses to IPS in association with increased basal cortisol secretion . The impaired Q9Y251 response following P08908 receptor challenge in unipolar depression could have resulted from glucocorticoid-dependent subsensitivity of the ( post-synaptic ) P08908 receptor itself and/or from a defective postreceptor signaling pathway [ inhibitory guanine nucleotide-binding protein ( Gi ) -adenylate cyclase complex function ] , thus supporting the hypothesis that a disintegrated 5-HT and Q9Y251 system interaction may be present in depression . Future studies of the Q9Y251 response to direct-acting P08908 ligands , such as IPS , should facilitate the assessment of 5-HT/ Q9Y251 system integrity in various affective disorders and its involvement in psychotropic drug effects .",
+    "Putative role of HIF transcriptional activity in melanocytes and melanoma biology . Hypoxia-inducible factor-1α ( HIF-1α ) is a highly oxygen sensitive bHLH protein that is part of the heterodimeric Q9BYW2 transcription factor . Under hypoxic stress , Q9BYW2 activity is induced to control expression of multiple downstream target genes , including vascular endothelial growth factor ( P15692 ) . The normal epidermis exists in a constant mild hypoxic microenvironment and constitutively expresses HIF-1α and HIF-2α . Expression of HIF-1α and/or HIF-2α has been suggested to correlate with the increased malignant potential of melanocytes , therefore , failures of melanoma therapies may be partially linked to high HIF activity . Notably , melanomas that have the V600E P15056 mutation exhibit increased HIF-1α expression . We have utilized a bioinformatics approach to identify putative hypoxia response elements ( HREs ) in a set of genes known to participate in the process of melanogenesis ( includingTRPM1 , Q9UMX9 , P01112 , C- P10721 , P40967 and P06850 ) . While some of the mechanistic links between these genes and the HIF pathway have been previously explored , others await further investigation . Although agents targeting HIF activity have been proposed as novel treatment modalities for melanoma , there are currently no clinical trials in progress to test their efficacy in melanoma .",
+    "Oncostatin M and interleukin 6 inhibit cell cycle progression by prevention of p27kip1 degradation in HepG2 cells . We analysed the regulation of P55008 -phase progression in relation to cytokine receptor signalling in HepG2 hepatoma cells , stably transduced with the P22301 receptor after stimulation with Oncostatin M ( P13725 ) , P05231 , Leukaemia Inhibitory Factor ( P15018 ) and P22301 . All cytokines induced P40763 phosphorylation to approximately the same level , but only P13725 , and to a lesser extent P05231 , induced P42229 phosphorylation . The cytokines also stimulated phosphorylation of P29323 in the order of decreasing effectiveness : P13725 > P05231 > P15018 > P22301 . The same order of activity of the cytokines was observed on inhibition of DNA synthesis and accumulation of cells in the P55008 -phase of the cell cycle . These processes were accompanied by a decrease in cyclin A expression and P24941 activity , and enhanced accumulation of p27kip1 . The level of p27kip1 mRNA expression was unaffected by the cytokines , and maintenance of the elevated level of p27kip1 occurred independently of de novo protein synthesis . Furthermore , inhibition of proteasomal activity increased the level of p27kip1 in the unstimulated cells to the same level as in P13725 -treated cells . Inhibition of MEK activation completely abrogated P13725 and P05231 induced p27kip1 accumulation , while expression of dominant negative P42229 decreased the P13725 and P05231 mediated inhibition of DNA-synthesis and partially inhibited p27kip1 accumulation .",
+    "Effects of lesopitron on the central nervous system arising from its interaction with P08908 receptors . DB04970 acts as a ligand for central serotonin P08908 receptors . Ki obtained from [3H]8-OH-DPAT competition studies was 104.8 +/- 10.6 nmol/l . As lesopitron did not affect the binding of [3H]paroxetine , involvement of the serotonin reuptake system in the effects of lesopitron is rejected . DB04970 inhibits haloperidol-induced catalepsy that is the consequence of its action on P08908 autoreceptors . The ability of lesopitron to induce 5-HT syndrome reflects post-synaptic P08908 receptor activation and the reversion of 8-OHDPAT-induced 5-HT syndrome by lesopitron suggests a partial agonist effect on this receptor-type . DB04970 induced a hypothermic effect due to the enhanced activation of post-synaptic P08908 receptors . The agonist effect of lesopitron on P08908 receptors and its marked hypothermic effect is an added value for this drug and a stimulus to the study of its possible neuroprotective action .",
+    "Changes in Q13639 receptor and 5-HT transporter binding in olfactory bulbectomized and glucocorticoid receptor heterozygous mice . The 5-HT(4) receptor is a new potential target for antidepressant treatment and may be implicated in the pathogenesis of depression . This study investigated differences in 5-HT(4) receptor and 5-HT transporter ( 5-HTT ) binding by quantitative autoradiography of [(3)H]SB207145 and ( S ) -[N-methyl-(3)H]citalopram in two murine models of depression-related states , olfactory bulbectomy and glucocorticoid receptor heterozygous ( GR(+/-) ) mice . The olfactory bulbectomy model is characterized by 5-HT system changes , while the GR(+/-) mice have a deficit in hypothalamic-pituitary-adrenal ( Q9Y251 ) system control . The olfactory bulbectomized mice displayed increased activity in the open field test , a characteristic depression-like feature of this model . After bulbectomy , 5-HT(4) receptor binding was increased in the ventral hippocampus ( 12 % ) but unchanged in the dorsal hippocampus , frontal and caudal caudate putamen . Among post hoc analyzed regions , there was a 14 % decrease in 5-HT(4) receptor binding in the olfactory tubercles . The 5-HTT binding was unchanged in the hippocampus and caudate putamen of bulbectomized mice but post hoc analysis showed small decreases in lateral septum and lateral globus pallidus . In comparison , GR(+/-) mice had increased 5-HT(4) receptor ( 11 % ) binding in the caudal caudate putamen and decreased 5-HTT binding in the frontal caudate putamen but no changes in dorsal and ventral hippocampus . Post hoc analysis showed increased 5-HT(4) receptor binding in the olfactory tubercles of GR(+/-) mice . In conclusion , we have found brain regional changes in 5-HT(4) receptor and 5-HTT transporter binding in two murine models of depression-related states , characterized by 5-HT and Q9Y251 system changes .",
+    "Changes in single symptoms and separate factors of the schizophrenic syndrome after treatment with risperidone or haloperidol . DB00734 , a rather selective blocker of D-2 and P28223 receptors , was , in the doses 1 mg , 4 mg , 8 mg , 12 mg and 16 mg a day , compared to the rather selective D-2 blocker haloperidol in the dose of 10 mg a day , in 88 chronic schizophrenic patients . After one week placebo wash-out , the patients were randomly assigned to one of the six treatment groups and the study was performed as a double blind parallel-group study for 8 weeks . In the present analysis , a special emphasis has been laid on the effects on single symptoms and separate factors in the schizophrenic syndrome . Overall , risperidone in a dose of 4 mg a day was comparable to haloperidol in a dose of 10 mg a day . DB00734 was found to have a curvilinear dose-response curve with an optimum effect of 4 mg day on the negative , anxious/depressive and cognitive factors and with an optimum effect of 8 mg day on the positive and excited factors . While haloperidol had significant effects on the negative and anxious/depressive factors , risperidone had significant effects on all five factors - the positive , the negative , the excited , the anxious/depressive and the cognitive . The fact that the novel drug had significant effects on the cognitive factor might be of great importance as concerns the possibilities for rehabilitation of chronic schizophrenic patients ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00514 is the identifier for dexamethasone, a glucocorticoid receptor (GR) agonist.\nDexamethasone (DB00514) induces glucocorticoid receptor-mediated effects in cells.\nDB00514 is used in studies involving the hypothalamic-pituitary-adrenal (Q9Y251) axis.\nDB00514 is involved in the regulation of serotonin transporter (5-HTT) cell surface expression in serotonergic neurons.\nDB00514 is used in the DB00514-P06850 test, a combined dexamethasone-corticotropin-releasing hormone test.\nDB00514 is used in the study of nongenomic regulation of 5-HTT by glucocorticoid-GR interaction.\nDB00514 is used in the study of the interaction between glucocorticoid and serotonergic signaling systems.\nDB00514 is used in the study of the effects of glucocorticoids on 5-HTT cell surface localization.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT expression in embryonic stem cell-derived serotonergic neurons.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of mifepristone.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in mouse embryonic stem cell-derived serotonergic neurons.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of protein synthesis inhibitors.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide and mifepristone.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists.\nDB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence",
+  "predicted_answer": null,
+  "claims": [
+    "DB00514 is the identifier for dexamethasone, a glucocorticoid receptor (GR) agonist",
+    "Dexamethasone (DB00514) induces glucocorticoid receptor-mediated effects in cells",
+    "DB00514 is used in studies involving the hypothalamic-pituitary-adrenal (Q9Y251) axis",
+    "DB00514 is involved in the regulation of serotonin transporter (5-HTT) cell surface expression in serotonergic neurons",
+    "DB00514 is used in the DB00514-P06850 test, a combined dexamethasone-corticotropin-releasing hormone test",
+    "DB00514 is used in the study of nongenomic regulation of 5-HTT by glucocorticoid-GR interaction",
+    "DB00514 is used in the study of the interaction between glucocorticoid and serotonergic signaling systems",
+    "DB00514 is used in the study of the effects of glucocorticoids on 5-HTT cell surface localization",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT expression in embryonic stem cell-derived serotonergic neurons",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of mifepristone",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in mouse embryonic stem cell-derived serotonergic neurons",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of protein synthesis inhibitors",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide and mifepristone",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+    "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00514 is the identifier for dexamethasone, a glucocorticoid receptor (GR) agonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Dexamethasone (DB00514) induces glucocorticoid receptor-mediated effects in cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00514 is used in studies involving the hypothalamic-pituitary-adrenal (Q9Y251) axis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00514 is involved in the regulation of serotonin transporter (5-HTT) cell surface expression in serotonergic neurons",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00514 is used in the DB00514-P06850 test, a combined dexamethasone-corticotropin-releasing hormone test",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00514 is used in the study of nongenomic regulation of 5-HTT by glucocorticoid-GR interaction",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00514 is used in the study of the interaction between glucocorticoid and serotonergic signaling systems",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB00514 is used in the study of the effects of glucocorticoids on 5-HTT cell surface localization",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT expression in embryonic stem cell-derived serotonergic neurons",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of mifepristone",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in mouse embryonic stem cell-derived serotonergic neurons",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of protein synthesis inhibitors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide and mifepristone",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C23",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C24",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C25",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence of cycloheximide, mifepristone, and GR antagonists",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C26",
+      "text": "DB00514 is used in the study of the effects of dexamethasone on 5-HTT cell surface expression in the presence",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

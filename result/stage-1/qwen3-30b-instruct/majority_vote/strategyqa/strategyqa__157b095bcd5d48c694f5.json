@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__157b095bcd5d48c694f5",
+  "sample_id": "157b095bcd5d48c694f5",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Were Jackson Pollock's parents not required to say The Pledge of Allegiance as children?",
+  "gold_answer": "yes",
+  "context": [
+    "Jackson Pollock's parents were both born and grew up in Tingley, Iowa.",
+    "All states except California, Hawaii, Iowa, Vermont, and Wyoming require a regularly scheduled recitation of the pledge in public schools."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJackson Pollock's parents were born and grew up in Tingley, Iowa.\nIowa is one of the states that does not require a regularly scheduled recitation of the Pledge of Allegiance in public schools.\nChildren in Iowa were not required to say The Pledge of Allegiance as part of public school routine.\nJackson Pollock's parents were children in Iowa during their formative years.\nJackson Pollock's parents were not required to say The Pledge of Allegiance as children.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Jackson Pollock's parents were born and grew up in Tingley, Iowa",
+    "Iowa is one of the states that does not require a regularly scheduled recitation of the Pledge of Allegiance in public schools",
+    "Children in Iowa were not required to say The Pledge of Allegiance as part of public school routine",
+    "Jackson Pollock's parents were children in Iowa during their formative years",
+    "Jackson Pollock's parents were not required to say The Pledge of Allegiance as children"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Jackson Pollock's parents were born and grew up in Tingley, Iowa",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Iowa is one of the states that does not require a regularly scheduled recitation of the Pledge of Allegiance in public schools",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Children in Iowa were not required to say The Pledge of Allegiance as part of public school routine",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Jackson Pollock's parents were children in Iowa during their formative years",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Jackson Pollock's parents were not required to say The Pledge of Allegiance as children",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

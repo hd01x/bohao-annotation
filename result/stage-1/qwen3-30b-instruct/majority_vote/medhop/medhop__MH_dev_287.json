@@ -1,0 +1,359 @@
+{
+  "uid": "medhop__MH_dev_287",
+  "sample_id": "MH_dev_287",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00998\", \"DB01213\", \"DB01404\", \"DB03769\", \"DB05153\", \"DB05262\", \"DB05651\", \"DB06691\", and \"DB06695\" interacts with DB00864?",
+  "gold_answer": "DB06695",
+  "context": [
+    "Interaction of tacrolimus(FK506) and its metabolites with FKBP and calcineurin . DB00864 (FK506) is a strong immuno-suppressant and shows its activity through inhibiting P60568 mRNA transcription by forming pentameric complex with intracellular receptor ( FK506 binding protein 12 kDa or P62942 ) , Ca2+ , calmodulin , and calcineurin . Here , we report the binding activity to P62942 , the pentameric complex formation and Con-A response inhibiting activities of 7 metabolites . C15-demethylated metabolite(M-3) needed higher quantity to compete in Con-A assay and in pentamer formation assay , although it binds more strongly to P62942 . The result suggests that the ability to form a pentameric complex is not a two step reaction with the first binding to P62942 , but a single step reaction by components for the pentamer formation .",
+    "Structure and function of eritadenine and its 3-deaza analogues : potent inhibitors of S-adenosylhomocysteine hydrolase and hypocholesterolemic agents . d- DB03769 ( DEA ) is a potent inhibitor of S-adenosyl-l-homocysteine hydrolase ( P23526 ) and has hypocholesterolemic activity . We have hypothesized that 3-deaza-DEA ( P01024 -DEA ) and its analogues retain high level of P23526 inhibitory activity and have resistance to deamination and glycosidic bond hydrolysis in vivo . Such P01024 -DEA analogues would have much higher hypocholesterolemic activity . P01024 -DEA , and its methyl ester ( P01024 -OMeDEA ) and its methyl amido ( P01024 -NMeDEA ) were synthesized to examine their P23526 inhibitory and hypocholesterolemic activities . A crystal structure of P23526 containing P01024 -DEA was determined and confirmed that DEA and P01024 -DEA bound to the same site of P23526 with the same binding mode . The P23526 inhibitory activities of P01024 -DEA ( K(I)=1.5 microM ) and P01024 -OMeDEA ( K(I)=1.5 microM ) are significantly lower than that of DEA ( K(I)=30 nM ) , while rats fed by P01024 -DEA and P01024 -OMeDEA decrease the total plasma cholesterol and phospholipids by 36-40 % and 23 % , respectively , which is similar to the level of reductions ( 42 % and 27 % ) by DEA . P01024 -NMeDEA lost most of the P23526 inhibitory activity ( K(I)=30 microM ) and dietary P01024 -NMeDEA does not decrease cholesterol and phospholipid in plasma but decreases the triacylglycerol level by 16 % . DEA and P01024 -DEA analogues are neither substrates nor inhibitors of adenosine deaminase .",
+    "Effects of antihistamines on the function of human α7-nicotinic acetylcholine receptors . Effects of the histamine H₁ receptor ( P35367 ) antagonists ( antihistamines ) , promethazine ( PMZ ) , orphenadrine ( ORP ) , chlorpheniramine ( CLP ) , DB06691 ( PYR ) , diphenhydramine ( DPH ) , citerizine ( CTZ ) , and triprolidine ( TRP ) on the functional properties of the cloned α7 subunit of the human nicotinic acetylcholine receptor expressed in Xenopus oocytes were investigated . Antihistamines inhibited the α7-nicotinic acetylcholine receptor in the order PYR > CLP > TRP > PMZ > ORP≥DPH≥CTZ . Among the antihistamines , PYR showed the highest reversible inhibition of acetylcholine ( 100 µM ) -induced responses with IC₅₀ of 6.2 µM . PYR-induced inhibition was independent of the membrane potential and could not be reversed by increasing the concentration of acetylcholine . Specific binding of [ ¹²⁵I ] α-bungarotoxin , a selective antagonist for α7-nicotinic acetylcholine receptor , was not changed in the presence of PYR suggesting a non-competitive inhibition of nicotinic receptors . In line with functional experiments , docking studies indicated that PYR can potentially bind allosterically with the α7 transmembrane domain . Our results indicate that the H₂-H₄ receptor antagonists tested in this study ( 10 µM ) showed negligible inhibition of α7-nicotinic acetylcholine receptors . On the other hand , H₁ receptor antagonists inhibited the function of human α7-nicotinic acetylcholine receptor , with varying potencies . These results emphasize the importance of α7-nicotinic acetylcholine receptor for future pharmacological/toxicological profiling .",
+    "[ The importance of determination of interleukin-10 in the blood of patients with systemic lupus erythematosus ] . BACKGROUND : Hitherto , not very numerous investigations provided so far only few often controversial findings on the importance of interleukin-10 ( P22301 ) in systemic lupus erythematosus ( SLE ) . The objective of the present investigation was to assess whether there exist practically applicable relations between the serum level of P22301 , clinical and laboratory indicators of activity of the disease and serum levels of selected cytokines or their soluble receptors . METHODS AND RESULTS : The authors analyzed a group of 23 patients with SLE ( 23 women and 1 man , median age 37 years ) . P22301 and other cytokines were examined by the ELISA method , the clinical activity of the disease was evaluated by the ECLAM system ( European Consensus Lupus Activity Measurement ) . Elevated P22301 values ( > 5 pg/ml ) were assessed in 10 ( 43 % ) patients . Correlation analysis ( Pearson 's test , p < 0.05 ) revealed statistically significant relations between P22301 levels and the activity of the disease , values of antibody levels against dsDNA and levels of the soluble receptor P60568 ( sIL-2R ) in serum . Conversely , no relationship was revealed between values of P22301 and values of P01024 and C4 complement components , IL-1 , P60568 , P05231 , sIL-6R , P01375 , sTNFR-alpha and P27352 -gamma . CONCLUSIONS : Elevated P22301 serum levels in patients with SLE did not have , with the exception of the index of clinical activity of the disease , antibodies against dsDNA and sIL-2R any statistically significant relations to laboratory indicators of disease activity and levels of selected cytokines and their soluble receptors .",
+    "Korean Red DB01404 Extract Attenuates 3-Nitropropionic Acid-Induced Huntington's-Like Symptoms . Korean red ginseng ( KRG ) possesses neuroprotective activity . However , the potential neuroprotective value of KRG for the striatal toxicity is largely unknown . We investigated whether KRG extract ( KRGE ) could have a neuroprotective effect in a 3-nitropropionic acid- ( 3-NP ) induced ( i.p. ) Huntington 's disease ( HD ) model . KRGE ( 50 , 100 , and 250 mg/kg/day , p.o. ) was administrated 10 days before 3-NP injection ( pre-administration ) , from the same time with 3-NP injection ( co-administration ) , or from the peak point of neurological impairment by 3-NP injection ( post-administration ) . Pre-administration of KRGE produced the greatest neuroprotective effect in this model . Pre-administration of KRGE significantly decreased 3-NP-induced neurological impairment , lethality , lesion area , and neuronal loss in the 3-NP-injected striatum . KRGE attenuated microglial activation and phosphorylation of mitogen-activated protein kinases ( MAPKs ) and nuclear factor-kappa B ( NF-κB ) signal pathway . KRGE also reduced the level of mRNA expression of tumor necrosis factor-alpha , interleukin- ( IL- ) 1β , P05231 , inducible nitric oxide synthase , and OX-42 . Interestingly , the intrathecal administration of SB203580 ( a p38 inhibitor ) or PD98059 ( an inhibitor of MAPK Kinase , MEK ) increased the survival rate in the 3-NP-induced HD model . Pre-administration of KRGE may effectively inhibit 3-NP-induced striatal toxicity via the inhibition of the phosphorylation of MAPKs and NF-κB pathways , indicating its therapeutic potential for suppressing Huntington's-like symptoms .",
+    "Gene-based vaccines and immunotherapeutics . DNA vaccines , comprised of plasmid DNA encoding proteins from pathogens , allergens , and tumors , are being evaluated as prophylactic vaccines and therapeutic treatments for infectious diseases , allergies , and cancer ; plasmids encoding normal human proteins are likewise being tested as vaccines and treatments for autoimmune diseases . Examples of in vivo prophylaxis and immunotherapy , based on different types of immune responses ( humoral and cellular ) , in a variety of disease models and under evaluation in early phase human clinical trials are presented . Viral vectors continue to show better levels of expression than those achieved by DNA plasmid vectors . We have focused our clinical efforts , at this time , on the use of recombinant viral vectors for both vaccine as well as cytokine gene transfer studies . We currently have four clinical programs in cancer immunotherapy . Two nonspecific immunotherapy programs are underway that apply adenoviral vectors for the transfer of cytokine genes into tumors in situ . An adenovirus-IFN gamma construct ( TG1042 ) is currently being tested in phase II clinical trials in cutaneous lymphoma . A similar construct , adenovirus- P60568 ( TG1024 ) , also injected directly into solid tumors , is currently being tested in patients with solid tumors ( about one-half of which are melanoma ) . Encouraging results are seen in both programs . Two cancer vaccine immunotherapy programs focus on two cancer-associated antigens : human papilloma virus E6 and E7 proteins and the epithelial cancer-associated antigen P15941 . Both are encoded by a highly attenuated vaccinia virus vector [ modified vaccinia Ankara ( MVA ) ] and both are coexpressed with P60568 . Encouraging results seen in both of these programs are described .",
+    "Displacement of Q01826 -bound histone deacetylase 1 corepressor by the human immunodeficiency virus type 1 transactivator induces expression of interleukin-2 and its receptor in T cells . One hallmark of human immunodeficiency virus type 1 ( HIV-1 ) infection is the dysregulation of cytokine gene expression in T cells . Transfection of T cells with human T-cell leukemia type 1 or 2 transactivator results in the induction of the T-cell-restricted cytokine interleukin-2 ( P60568 ) and its receptor ( IL-2Ralpha ) . However , no T-cell-specific factor(s) has been directly linked with the regulation of P60568 and IL-2Ralpha transcription by influencing the promoter activity . Thymocytes from Q01826 ( special AT-rich sequence binding protein 1 ) knockout mice have been shown to ectopically express IL-2Ralpha , suggesting involvement of Q01826 in its negative regulation . Here we show that Q01826 , a T-cell-specific global gene regulator , binds to the promoters of human P60568 and IL-2Ralpha and recruits histone deacetylase 1 ( Q13547 ) in vivo . Q01826 also interacts with Tat in HIV-1-infected T cells . The functional interaction between HIV-1 Tat and Q01826 requires its PDZ-like domain , and the binding of the Q13547 corepressor occurs through the same . Furthermore , Tat competitively displaces Q13547 that is bound to Q01826 , leading to increased acetylation of the promoters in vivo . Transduction with Q01826 interaction-deficient soluble Tat ( Tat 40-72 ) and reporter assays using a transactivation-negative mutant ( C22G ) of Tat unequivocally demonstrated that the displacement of Q13547 itself is sufficient for derepression of these promoters in vivo . These results suggest a novel mechanism by which HIV-1 Tat might overcome Q01826 -mediated repression in T cells .",
+    "P40189 -linked signal transduction promotes the differentiation and maturation of dendritic cells . In order to explore the role of P40189 -linked signal transduction in the differentiation and maturation of dendritic cells ( DC ) , the mAb , B- P28222 , an agonist of P40189 , was used for the activation of P40189 on DC . The effects of cytokines and of anti- P40189 mAb on the proliferation of DC , and their expression of IL-12 and P33681 ( P33681 -1 ) by DC were evaluated . DC differentiating from peripheral blood mononuclear cells did not express the P05231 receptor alpha chain , but expressed P40189 . Anti- P40189 mAb promoted the proliferation of DC , induced by P05112 and granulocyte macrophage colony stimulating factor ( GM- P04141 ) , by up-regulating the GM- P04141 receptor on DC . DC induced by P40189 mAb and cytokines expressed DC-derived CC chemokine , as measured by RT-PCR . Induced DC also stimulated strong proliferation of autologous T cells in mixed lymphocyte reaction since an up-regulated expression of IL-12 and P33681 ( P33681 -1 ) was observed in DC activated by anti- P40189 mAb . Thus , P40189 signal transduction is important for the differentiation and maturation of DC .",
+    "Synteny mapping in the bovine : genes from human chromosome 4 . Genes homologous to those located on human chromosome 4 ( HSA4 ) were mapped in the bovine to determine regions of syntenic conservation among humans , mice , and cattle . Previous studies have shown that two homologs of genes on HSA4 , Q96G03 and P28838 , are located in bovine syntenic group U15 ( chromosome 6 ) . The homologous mouse genes , Pgm-1 and Pep-7 , are on MMU5 . Using a panel of bovine x hamster hybrid somatic cells , we have assigned homologs of 11 additional HSA4 loci to their respective bovine syntenic groups . D4S43 , D4S10 , P09417 , P01591 , P00325 , P10721 , and IF were assigned to syntenic group U15 . This syntenic arrangement is not conserved in the mouse , where D4s43 , D4s10 , Qdpr , and Igj are on MMU5 while Adh-2 is on MMU3 . P60568 , P02675 , P02679 , and P03951 , which also reside on MMU3 , were assigned to bovine syntenic group U23 . These data suggest that breaks and/or fusions of ancestral chromosomes carrying these genes occurred at different places during the evolution of humans , cattle , and mice .",
+    "Integrin alpha5-induced P00533 activation by prothrombin triggers hepatocyte apoptosis via the JNK signaling pathway . We have previously shown that prothrombin , a blood coagulation factor , can cause an inhibition of DNA synthesis in normal rat hepatocytes . To explore the mechanisms of this prothrombin action , we examined its effects on the activation of fibronectin receptor integrin alpha5 , since fibronectin was found to be degraded by prothrombin actions in primary hepatocyte cultures . We found that prothrombin treatment of rat hepatocytes without addition of any growth factor induced tyrosine phosphorylation of integrin alpha5 and interaction of integrin alpha5 with epidermal growth factor receptor ( P00533 ) , leading to P00533 tyrosine phosphorylation at tyrosine residues DB00135 -845 and DB00135 -1173 . P00533 tyrosine phosphorylation triggered phosphorylation of its down-stream target Shc and the activation of the c-Jun N-terminal kinase ( JNK ) pathway . P00734 also induced hepatocyte apoptosis , a change in cell shape and activation of caspase 3 pathway . The JNK pathway is most likely involved in prothrombin-induced hepatocyte apoptosis , because pre-treatment of hepatocytes with JNK kinase inhibitor II ( SP600125 ) antagonized these prothrombin actions . The data suggest that integrin-related P00533 activation by prothrombin can induce cell growth inhibition and apoptosis via an P00533 -JNK signaling pathway .",
+    "Meta-analysis of oral DB00669 therapy for migraine : number needed to treat and relative cost to achieve relief within 2 hours . OBJECTIVE : To determine the cost-effectiveness of the P28222 /1D agonists , or triptans , in the acute treatment of migraine . METHODS : To determine the cost-effectiveness of the triptans , a meta-analysis was conducted of the efficacy data from 27 oral DB00669 trials , using the endpoint of \" pain-free \" status within 2 hours after initial dosing as the indicator of efficacy . Efficacy data were used to determine the number needed to treat ( Q13423 ) to achieve pain-free status in 1 patient within 2 hours postdose and then applied the per-dose costs for each DB00669 to the Q13423 values . RESULTS : Rizatriptan 10 mg and almotriptan 12.5 mg were the most cost-effective of the triptans , costing $ 48.34 and $ 48.57 US dollars , respectively , to achieve pain-free status in 1 patient within 2 hours postdose . DB00998 2.5 mg was the most costly , with a cost-effective ratio of $ 162.49 US dollars . All other triptans fell between these extremes : zolmitriptan 5 mg ( $ 65.18 US dollars ) , sumatriptan 100 mg ( $ 70.83 US dollars ) , sumatriptan 50 mg ( $ 75.67 US dollars ) , zolmitriptan 2.5 mg ( $ 78.74 US dollars ) , and naratriptan 2.5 mg ( $ 141.43 US dollars ) , in decreasing order of cost-effectiveness . CONCLUSION : Using an Q13423 analysis , the least-costly drugs to achieve migraine cure within 2 hours are rizatriptan 10 mg and almotriptan 12.5 mg . From a population health perspective , the lower acquisition cost of almotriptan 12.5 mg allows for effective treatment of more patients than rizatriptan 10 mg for no additional medication cost .",
+    "Generation of Epstein-Barr virus-specific cytotoxic T lymphocytes resistant to the immunosuppressive drug tacrolimus ( FK506 ) . Adoptive transfer of autologous Epstein-Barr virus-specific cytotoxic T lymphocytes ( EBV-CTLs ) to solid organ transplant ( SOT ) recipients has been shown safe and effective for the treatment of EBV-associated posttransplantation lymphoproliferative disorders ( PTLDs ) . SOT recipients , however , require the continuous administration of immunosuppressive drugs to prevent graft rejection , and these agents may significantly limit the long-term persistence of transferred EBV-CTLs , precluding their use as prophylaxis . DB00864 ( FK506 ) is one of the most widely used immunosuppressive agents in SOT recipients , and its immunosuppressive effects are largely dependent on its interaction with the 12-kDa FK506-binding protein ( P62942 ) . We have knocked down the expression of P62942 in EBV-CTLs using a specific small interfering RNA ( siRNA ) stably expressed from a retroviral vector and found that P62942 -silenced EBV-CTLs are FK506 resistant . These cells continue to expand in the presence of the drug without measurable impairment of their antigen specificity or cytotoxic activity . We confirmed their FK506 resistance and anti-PTLD activity in vivo using a xenogenic mouse model , suggesting that the proposed strategy may be of value to enhance EBV-specific immune surveillance in patients at high risk of PTLD after transplantation .",
+    "Role of xanthine oxidoreductase and NAD(P)H oxidase in endothelial superoxide production in response to oscillatory shear stress . Oscillatory shear stress occurs at sites of the circulation that are vulnerable to atherosclerosis . Because oxidative stress contributes to atherosclerosis , we sought to determine whether oscillatory shear stress increases endothelial production of reactive oxygen species and to define the enzymes responsible for this phenomenon . Bovine aortic endothelial cells were exposed to static , laminar ( 15 dyn/cm2 ) , and oscillatory shear stress ( +/-15 dyn/cm2 ) . Oscillatory shear increased superoxide ( O2.- ) production by more than threefold over static and laminar conditions as detected using electron spin resonance ( P03372 ) . This increase in O2*- was inhibited by oxypurinol and culture of endothelial cells with tungsten but not by inhibitors of other enzymatic sources . DB05262 also prevented H2O2 production in response to oscillatory shear stress as measured by dichlorofluorescin diacetate and Amplex Red fluorescence . DB02134 -dependent O2*- production was increased in homogenates of endothelial cells exposed to oscillatory shear stress . This was associated with decreased xanthine dehydrogenase ( P47989 ) protein levels and enzymatic activity resulting in an elevated ratio of xanthine oxidase ( XO ) to P47989 . We also studied endothelial cells lacking the p47phox subunit of the NAD(P)H oxidase . These cells exhibited dramatically depressed O2*- production and had minimal XO protein and activity . Transfection of these cells with p47phox restored XO protein levels . Finally , in bovine aortic endothelial cells , prolonged inhibition of the NAD(P)H oxidase with apocynin decreased XO protein levels and prevented endothelial cell stimulation of O2*- production in response to oscillatory shear stress . These data suggest that the NAD(P)H oxidase maintains endothelial cell XO levels and that XO is responsible for increased reactive oxygen species production in response to oscillatory shear stress .",
+    "DB08875 ( DB05153 ) for the treatment of locally advanced or metastatic progressive medullary thyroid cancer . DB08875 ( DB05153 ) is an oral multiple receptor tyrosine kinase inhibitor manufactured by Exelixis Inc. , CA , USA . It mainly inhibits three tyrosine kinase receptors : MET , P35968 and P07949 . In both preclinical and clinical studies it has been shown to inhibit tumor angiogenesis , invasiveness and metastases . The most frequent side effects are fatigue , diarrhea , decreased appetite , nausea , weight loss and palmar-plantar erythrodysesthesia . A Phase III clinical trial ( EXAM study ) of DB05153 versus placebo in advanced and progressive medullary thyroid cancer showed a 28 versus 0 % overall response rate and a progression-free survival of 11.2 versus 4.0 months ( hazard ratio : 0.28 ; 95 % CI : 0.19-0.40 ; p < 0.0001 ) in patients treated with cabozantinib and placebo , respectively . The drug has been approved by the US FDA for the treatment of advanced/progressive metastatic medullary thyroid cancer in the USA . The P15941 is now evaluating its approval in Europe .",
+    "Forced dimerization increases the activity of Δ P00533 /EGFRvIII and enhances its oncogenicity . Delta epidermal growth factor receptor ( Δ P00533 ) , an in-frame deletion mutant of the extracellular ligand-binding domain , which occurs in about 30 % of glioblastoma , is a potent oncogene that promotes tumor growth and progression . The signaling of Δ P00533 is ligand-independent and low intensity , allowing it to evade the normal mechanisms of internalization and degradation by the endocytic machinery and hence is persistent . The basis of the oncogenic potential of Δ P00533 remains incompletely understood , including whether dimerization plays an important role in its signal and whether its oncogenic potential is dependent on its relatively low intensity , when compared with the acutely activated wild-type receptor . To examine these two important questions , we have generated a chimeric Δ P00533 that allows forced dimerization via domains derived from variants of the P62942 protein that are brought together by FK506 derivatives . Forced dimerization of chimeric Δ P00533 significantly increased the intensity of its signal , as measured by receptor phosphorylation levels , suggesting that the naturally occurring Δ P00533 does not form strong or stable dimers as part of its low level signal . Interestingly , the increased activity of dimerized , chimeric Δ P00533 did not promote receptor internalization , implying that reduced rate of endocytic downregulation of Δ P00533 is an inherent characteristic . Significantly , forced dimerization enhanced the oncogenic signal of the receptor , implying that the Δ P00533 is a potent oncogene despite , not because of its low intensity .",
+    "Interpretation of point-of-care INR results in patients treated with dabigatran . BACKGROUND : Point-of-care devices for measurement of the international normalized ratio ( INR ) are commonly used to monitor therapy and maintain therapeutic levels of anticoagulation in patients treated with vitamin K antagonists . DB06695 , a new oral , reversible direct thrombin inhibitor approved for stroke prevention in patients with atrial fibrillation does not require routine coagulation monitoring . However , case reports have identified falsely elevated point-of-care INR levels in patients treated with dabigatran using one of these devices ( Hemochron ) . This in vitro study was designed to verify this issue . METHODS : We compared INR levels in whole blood and plasma using a Hemochron Jr . Signature+ point-of-care device ( International Technidyne Corporation , Edison , NJ ) with routine laboratory monitoring , using blood from healthy volunteers that was spiked with increasing concentrations of dabigatran . RESULTS : P00734 time and INR levels were increased about 2- to 4-fold with the point-of-care device compared with laboratory measures across the plasma dabigatran concentration range 50-1400 ng/mL . At plasma concentrations of dabigatran likely to be observed in patients , at a dose of 150 mg twice daily ( 60-275 ng/mL ) , whole blood point-of-care INR values increased from 1.7 to 4.0 , versus 1.1 to 1.5 measured with the laboratory coagulometer . Similar differences in prothrombin time were observed in plasma samples . CONCLUSIONS : INR levels in patients taking dabigatran are substantially higher using a Hemochron Jr. point-of-care device compared with laboratory values . We discourage the use of these devices specifically , as well as the use of the INR in general , for measuring the anticoagulant effect of dabigatran .",
+    "Oxidation of alcohols and reduction of aldehydes derived from methyl- and dimethylpyrenes by cDNA-expressed human alcohol dehydrogenases . Some methylated pyrenes can form DNA adducts in rat tissues after benzylic hydroxylation and sulpho conjugation . However , oxidation of the intermediate alcohols to carboxylic acids is an important competing pathway leading to detoxification . We previously showed that co-administration of ethanol or DB01213 strongly enhances DNA adduct formation by 1-hydroxymethylpyrene , indicating an involvement of alcohol dehydrogenases ( ADHs ) in the detoxification . This mechanism may be involved in the observed synergism of smoking and alcohol consumption in certain human cancers . In a preceding study , cDNA-expressed human P00325 efficiently oxidised 1- , 2- and 4-hydroxymethylpyrene ; these reactions were inhibited in the presence of ethanol or DB01213 . Here we report that P00326 , P00326 and P08319 also show substantial activity towards these substrates and two further congeners , 1-hydroxymethyl-6-methylpyrene and 1-hydroxymethyl-8-methylpyrene . All four DB00067 forms also catalysed the reverse reaction , implying that the aldehydes have to be sequestered by other enzymes , such as aldehyde dehydrogenases , for final detoxification . P00326 and P08319 activities towards hydroxymethylpyrenes were more strongly inhibited in the presence of ethanol and DB01213 than those of P00325 . P00326 was only inhibited at very high concentrations of the modulators . In conclusions , several human ADHs are capable of detoxifying benzylic alcohols of alkylated polycyclic aromatic hydrocarbons . However , some competing substrates and inhibitors may affect all these redundant detoxification systems , although to various extents .",
+    "Induction of differentiation and apoptosis in leukaemic cell lines by the novel benzamide family histone deacetylase 2 and 3 inhibitor MI-192 . Histone deacetylase inhibitors ( HDACIs ) are in advanced clinical development as cancer therapeutic agents . However , first generation HDACIs such as butyrate and valproate are simple short chain aliphatic compounds with moieties resembling acetyl groups , and have a broad spectrum of activity against HDACs . More complex second generation HDACIs undergoing clinical trials , such as the benzamide group compounds MS-275 and DB05651 , are specific primarily for Q13547 and Q92769 . To expand the repertoire of available HDACIs and HDAC specificities we created a novel benzamide-based compound named MI-192 . When tested against purified recombinant HDACs , MI-192 had marked selectivity for the class I enzymes , Q92769 and O15379 . Screening in the NCI60 screen demonstrated that MI-192 had greatly enhanced efficacy against cells of leukaemic origin . When tested in culture against the acute myeloid leukaemic cell lines U937 , HL60 and Kasumi-1 , MI-192 induced differentiation and was cytotoxic through promotion of apoptosis . MI-192 therefore justifies further investigation and development as a potential therapeutic agent for use in leukaemia .",
+    "Human epidermal Langerhans ' cells are targets for the immunosuppressive macrolide tacrolimus ( FK506 ) . BACKGROUND : The immunosuppressive macrolide tacrolimus ( FK506 ) has been shown to inhibit allergic contact dermatitis in animal models as well as in human beings . More recently , successful treatment of atopic dermatitis with an ointment containing tacrolimus has been reported . OBJECTIVES : We explored the effects of this compound on epidermal Langerhans ' cells ( LCs ) , which are known to play an important pathophysiologic role in inflammatory skin diseases . METHODS : The expression of the intracellular FK506 binding protein ( P62942 ) was monitored on freshly isolated and cultured epidermal LCs . Phenotyping and functional exploration of LCs treated with different concentrations of tacrolimus and beta-methasone valerate ( betaMv ) were performed . RESULTS : P62942 is expressed in freshly isolated LCs but is lost while they are maturating into mature dendritic cells . DB00864 inhibited the expression of IL-2R ( CD25 ) and of the costimulatory molecules P33681 ( P33681 .1 ) and P25942 . Expression of MHC class I and II was also affected , whereas P42081 ( P33681 .2 ) expression was not altered . In contrast , betaMv strongly increased the expression of CD25 . Paradoxically , while decreasing P25942 and MHC class I expression , betaMv significantly increased the expression of MHC class II , P33681 , and P42081 on cultured LCs but impaired their allostimulatory activity . DB00864 was about 100 times more potent than betaMv at inhibiting LC stimulatory function . CONCLUSION : DB00864 can exert immunopharmacologic alterations on LCs , which may account , at least in part , for the therapeutic effect of this compound in eczematous skin diseases .",
+    "The complex of FK506-binding protein 12 and FK506 inhibits calcineurin phosphatase activity and IgE activation-induced cytokine transcripts , but not exocytosis , in mouse mast cells . FK506 and cyclosporin A ( DB00091 ) are immunosuppressive agents that inhibit P60568 production by activated T cells , but only DB00091 inhibits IgE activation-induced cytokine transcripts in mouse P08700 -dependent , bone marrow-derived mast cells ( BMMC ) . We previously associated the resistance of BMMC to FK506 with a deficiency in the expression of FK506 binding protein ( FKBP ) 12 , a molecule that forms a complex with FK506 capable of inhibiting calcineurin phosphatase activity in vitro . In this report , we establish that P62942 mediates FK506 inhibition of both calcineurin phosphatase activity and IgE activation-induced cytokine transcripts in a Kirsten murine sarcoma virus-immortalized mast cell line that is P62942 deficient . Overexpression of P62942 by transfection enhanced the ability of FK506 to inhibit calcineurin phosphatase activity ( IC50 = 2 nM ) , compared with cells transfected with the expression vector alone ( IC50 > 30 nM ) . The IC50 value for FK506 inhibition of IgE activation-induced transcripts for P01375 decreased from 40 nM in vector control cells to 10 nM in P62942 transfectants . Similarly , the IC50 value for inhibition of P05231 transcripts decreased from > 1000 nM in vector control cells to 35 nM in P62942 transfectants . In contrast , activation-elicited release of the secretory granule mediator beta-hexosaminidase was only partially inhibited by FK506 at 1000 nM , regardless of the levels of P62942 expressed by the cells . Thus , P62942 is the dominant cytosolic protein that mediates FK506 inhibition of P01375 and P05231 transcripts .",
+    "Regulation of Con A-dependent cytokine production from P01730 + and CD8+ T lymphocytes by autosecretion of histamine . OBJECTIVES : Previously we have shown that both P01730 + T cells and CD8+ T cells produce histamine when activated with Con A . The aim of this study was to examine whether cytokine production by these cells is regulated by autosecretion of histamine . MATERIALS : P01730 + and CD8+ T cells were separated from spleen cells of C57BL/6 mice and mice lacking the H1 receptor ( P35367 ) or P25021 , using anti- P01730 +- and anti-CD8+-coupled magnetic beads , respectively . RESULTS : Depletion of the P35367 resulted in decreases in the release of P60568 and P22301 from both P01730 + and CD8+ cells and increases in the release of P05112 from P01730 + T cells and P01579 from CD8+ cells . Mice lacking the P25021 showed up-regulation of P01579 secretion from CD8+ cells and of P05112 from P01730 + and CD8+ T cells . Release of P60568 and P22301 from P01730 + as well as CD8+ cells was down-regulated in these mice . Both P01730 + and CD8+ T cell fractions synthesized histamine , which was enhanced in the P35367 -deficient CD8+ T cells . Treatment of the cells with alpha-fluoromethyl-histidine , a specific inhibitor of HDC , or histaminase increased P01579 from CD8+ cells , whereas it had no appreciable effect on P05112 secretion from P01730 + cells . CONCLUSION : These results suggest that cytokine production by P01730 + and CD8+ T lymphocytes is regulated by autosecretion of histamine .",
+    "DB02134 oxidase inhibitor tungsten prevents the development of atherosclerosis in ApoE knockout mice fed a Western-type diet . Hyperlipidemia enhances xanthine oxidase ( XO ) activity . XO is an important source of reactive oxygen species ( ROS ) . Since ROS are thought to promote atherosclerosis , we hypothesized that XO is involved in the development of atherosclerosis . ApoE(-/-) mice were fed a Western-type ( WD ) or control diet . In subgroups , tungsten ( 700 mg/L ) was administered to inhibit XO . XO is a secreted enzyme which is formed in the liver as xanthine dehydrogenase ( P47989 ) and binds to the vascular endothelium . High expression of P47989 was found in the liver and WD increased liver P47989 mRNA and P47989 protein expression . WD induced the conversion of P47989 to the radical-forming XO . Moreover , WD increased the hepatic expression of P25942 , demonstrating activation of hepatic cells . Aortic tissue of ApoE(-/-) mice fed a WD for 6 months exhibited marked atherosclerosis , attenuated endothelium-dependent relaxation to acetylcholine , increased vascular oxidative stress , and mRNA expression of the chemokine KC . Tungsten treatment had no effect on plasma lipids but lowered the plasma XO activity . In animals fed a control diet , tungsten had no effect on radical formation , endothelial function , or atherosclerosis development . In mice fed a WD , however tungsten attenuated the vascular superoxide anion formation , prevented endothelial dysfunction , and attenuated KC mRNA expression . Most importantly , tungsten treatment largely prevented the development of atherosclerosis in the aorta of ApoE(-/-) mice on WD . Therefore , tungsten , potentially via the inhibition of XO , prevents the development of endothelial dysfunction and atherosclerosis in ApoE(-/-) mice on WD ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00864 (FK506) is a strong immunosuppressant that functions by forming a pentameric complex with FK506-binding protein 12 kDa (P62942), Ca²⁺, calmodulin, and calcineurin.\nP62942 is the intracellular receptor that binds DB00864 to initiate its immunosuppressive effect.\nDB00864 binds directly to P62942 to form a complex that inhibits calcineurin phosphatase activity.\nDB00864 is known to interact with P62942 in multiple studies, including in mast cells and Langerhans cells.\nDB01213 is an alcohol dehydrogenase inhibitor that competes with DB00864 in some enzymatic pathways.\nDB01213 is not reported to interact with P62942 or the FK506-P62942 complex.\nDB01404 is a Korean red ginseng extract with neuroprotective effects.\nDB01404 is not reported to interact with DB00864.\nDB03769 (DEA) is a potent inhibitor of S-adenosylhomocysteine hydrolase (P23526).\nDB03769 does not interact with DB00864.\nDB05153 (cabozantinib) is a tyrosine kinase inhibitor targeting MET, P35968, and P07949.\nDB05153 does not interact with DB00864.\nDB05262 is an inhibitor of xanthine oxidase (XO).\nDB05262 does not interact with DB00864.\nDB05651 is a benzamide-based HDAC inhibitor.\nDB05651 does not interact with DB00864.\nDB06691 (PYR) is an antihistamine that inhibits α7-nicotinic acetylcholine receptors.\nDB06691 does not interact with DB00864.\nDB06695 (dabigatran) is a direct thrombin inhibitor.\nDB06695 does not interact with DB00864.\nThe only documented interaction of DB00864 is with P62942, not with any of the listed compounds.\nDB00864 does not interact with DB00998.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB00864 (FK506) is a strong immunosuppressant that functions by forming a pentameric complex with FK506-binding protein 12 kDa (P62942), Ca²⁺, calmodulin, and calcineurin",
+    "P62942 is the intracellular receptor that binds DB00864 to initiate its immunosuppressive effect",
+    "DB00864 binds directly to P62942 to form a complex that inhibits calcineurin phosphatase activity",
+    "DB00864 is known to interact with P62942 in multiple studies, including in mast cells and Langerhans cells",
+    "DB01213 is an alcohol dehydrogenase inhibitor that competes with DB00864 in some enzymatic pathways",
+    "DB01213 is not reported to interact with P62942 or the FK506-P62942 complex",
+    "DB01404 is a Korean red ginseng extract with neuroprotective effects",
+    "DB01404 is not reported to interact with DB00864",
+    "DB03769 (DEA) is a potent inhibitor of S-adenosylhomocysteine hydrolase (P23526)",
+    "DB03769 does not interact with DB00864",
+    "DB05153 (cabozantinib) is a tyrosine kinase inhibitor targeting MET, P35968, and P07949",
+    "DB05153 does not interact with DB00864",
+    "DB05262 is an inhibitor of xanthine oxidase (XO)",
+    "DB05262 does not interact with DB00864",
+    "DB05651 is a benzamide-based HDAC inhibitor",
+    "DB05651 does not interact with DB00864",
+    "DB06691 (PYR) is an antihistamine that inhibits α7-nicotinic acetylcholine receptors",
+    "DB06691 does not interact with DB00864",
+    "DB06695 (dabigatran) is a direct thrombin inhibitor",
+    "DB06695 does not interact with DB00864",
+    "The only documented interaction of DB00864 is with P62942, not with any of the listed compounds",
+    "DB00864 does not interact with DB00998"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00864 (FK506) is a strong immunosuppressant that functions by forming a pentameric complex with FK506-binding protein 12 kDa (P62942), Ca²⁺, calmodulin, and calcineurin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "P62942 is the intracellular receptor that binds DB00864 to initiate its immunosuppressive effect",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00864 binds directly to P62942 to form a complex that inhibits calcineurin phosphatase activity",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00864 is known to interact with P62942 in multiple studies, including in mast cells and Langerhans cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB01213 is an alcohol dehydrogenase inhibitor that competes with DB00864 in some enzymatic pathways",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB01213 is not reported to interact with P62942 or the FK506-P62942 complex",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01404 is a Korean red ginseng extract with neuroprotective effects",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01404 is not reported to interact with DB00864",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB03769 (DEA) is a potent inhibitor of S-adenosylhomocysteine hydrolase (P23526)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB03769 does not interact with DB00864",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB05153 (cabozantinib) is a tyrosine kinase inhibitor targeting MET, P35968, and P07949",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB05153 does not interact with DB00864",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB05262 is an inhibitor of xanthine oxidase (XO)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB05262 does not interact with DB00864",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB05651 is a benzamide-based HDAC inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB05651 does not interact with DB00864",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB06691 (PYR) is an antihistamine that inhibits α7-nicotinic acetylcholine receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB06691 does not interact with DB00864",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB06695 (dabigatran) is a direct thrombin inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB06695 does not interact with DB00864",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "The only documented interaction of DB00864 is with P62942, not with any of the listed compounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "DB00864 does not interact with DB00998",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

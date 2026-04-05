@@ -1,0 +1,179 @@
+{
+  "uid": "musique__4hop1__13170_32392_823060_610794",
+  "sample_id": "4hop1__13170_32392_823060_610794",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "In which county is the city sharing a border with the capitol of the first state to formally secede?",
+  "gold_answer": "Richland County",
+  "context": [
+    "Nigeria is divided into thirty-six states and one Federal Capital Territory, which are further sub-divided into 774 Local Government Areas (LGAs). The plethora of states, of which there were only three at independence, reflect the country's tumultuous history and the difficulties of managing such a heterogeneous national entity at all levels of government. In some contexts, the states are aggregated into six geopolitical zones: North West, North East, North Central, South East, South South, and South West.",
+    "Oklahoma (/ ˌoʊkləˈhoʊmə / (listen); Pawnee: Uukuhuúwa, Cayuga: Gahnawiyoˀgeh) is a state in the South Central region of the United States. It is the 20th-most extensive and the 28th-most populous of the 50 United States. The state's name is derived from the Choctaw words okla and humma, meaning ``red people. ''It is also known informally by its nickname,`` The Sooner State,'' in reference to the non-Native settlers who staked their claims on land before the official opening date and the Indian Appropriations Act of 1889, which dramatically increased European - American settlement in the Indian Territory. Oklahoma Territory and Indian Territory were merged and Indian was dropped from the name. On November 16, 1907, Oklahoma became the 46th state to enter the union. Its residents are known as Oklahomans, or informally as Okies, and its capital and largest city is Oklahoma City.",
+    "Washington, D.C. is the current federal capital city of the United States, as it has been since 1800. Each U.S. state has its own capital city, as do many of its Insular areas. Historically, most states have not changed their capital city since becoming a state, but the capital cities of their respective preceding colonies, territories, kingdoms, and republics typically changed multiple times. There have also been other governments within the current borders of the United States with their own capitals, such as the Republic of Texas, Native American nations, and other unrecognized governments.",
+    "The Mormon pioneers organized a new state called Deseret and petitioned for its recognition in 1849. The United States Congress rebuffed the settlers in 1850 and established the Utah Territory, vastly reducing its size, and designated Fillmore as its capital city. Great Salt Lake City replaced Fillmore as the territorial capital in 1858, and the name was later abbreviated to Salt Lake City. The city's population continued to swell with an influx of Mormon converts and Gold Rush gold seekers, making it one of the most populous cities in the American Old West.",
+    "Each state and major mainland territory has its own parliament — unicameral in the Northern Territory, the ACT and Queensland, and bicameral in the other states. The states are sovereign entities, although subject to certain powers of the Commonwealth as defined by the Constitution. The lower houses are known as the Legislative Assembly (the House of Assembly in South Australia and Tasmania); the upper houses are known as the Legislative Council. The head of the government in each state is the Premier and in each territory the Chief Minister. The Queen is represented in each state by a governor; and in the Northern Territory, the Administrator. In the Commonwealth, the Queen's representative is the Governor-General.The Commonwealth Parliament also directly administers the following external territories: Ashmore and Cartier Islands; Australian Antarctic Territory; Christmas Island; Cocos (Keeling) Islands; Coral Sea Islands; Heard Island and McDonald Islands; and Jervis Bay Territory, a naval base and sea port for the national capital in land that was formerly part of New South Wales. The external territory of Norfolk Island previously exercised considerable autonomy under the Norfolk Island Act 1979 through its own legislative assembly and an Administrator to represent the Queen. In 2015, the Commonwealth Parliament abolished self-government, integrating Norfolk Island into the Australian tax and welfare systems and replacing its legislative assembly with a council. Macquarie Island is administered by Tasmania, and Lord Howe Island by New South Wales.",
+    "Forest Acres is a city in Richland County, South Carolina, United States. The population was 10,361 at the 2010 census. It is part of the Columbia, South Carolina, Metropolitan Statistical Area.",
+    "Usually, a federation is formed at two levels: the central government and the regions (states, provinces, territories), and little to nothing is said about second or third level administrative political entities. Brazil is an exception, because the 1988 Constitution included the municipalities as autonomous political entities making the federation tripartite, encompassing the Union, the States, and the municipalities. Each state is divided into municipalities (municípios) with their own legislative council (câmara de vereadores) and a mayor (prefeito), which are partly autonomous from both Federal and State Government. Each municipality has a \"little constitution\", called \"organic law\" (lei orgânica). Mexico is an intermediate case, in that municipalities are granted full-autonomy by the federal constitution and their existence as autonomous entities (municipio libre, \"free municipality\") is established by the federal government and cannot be revoked by the states' constitutions. Moreover, the federal constitution determines which powers and competencies belong exclusively to the municipalities and not to the constituent states. However, municipalities do not have an elected legislative assembly.",
+    "Date Events Map 1960 - 1963 At the time of independence in 1960, Nigeria was a Federal State of three Regions: Northern, Western, and Eastern. Additionally, provinces, which were a legacy of colonial times, remained extant until they were abolished in 1976. 1963 - 1967 In 1963, two provinces were detached from the Western Region to form the new Mid-Western Region. 1967 - 1976 In 1967, the regions were replaced by 12 states due to a military decree; only the former Mid-Western Region escaped division, and formed a single state following the restructuring. From 1967 to 1970 the areas of Mid-Western State and the Eastern Region attempted to secede, as a nation called Biafra during the Nigerian civil war. 1976 - 1987 In 1976, seven new states were created, making 19 altogether. 1987 - 1991 During this period, there were 21 states and later, Abuja, the Federal Capital Territory. 1991 - 1996 During this period, there were 30 states and the Federal Capital Territory. The Federal Capital Territory was established in 1991. In 1987 two new states were established, followed by another nine in 1991, bringing the total to 30. The latest change, in 1996, resulted in the present number of 36 states.",
+    "Confederate Arizona, commonly referred to as Arizona Territory, and officially the Territory of Arizona, was a territory claimed by the Confederate States of America during the American Civil War, between 1861 and 1865. Delegates to secession conventions had voted in March 1861 to secede from the New Mexico Territory and the United States, and seek to join the Confederacy. It consisted of the portion of the New Mexico Territory south of the 34th parallel, including parts of the modern states of New Mexico and Arizona. Its capital was Mesilla along the southern border. The Confederate territory overlapped the Arizona Territory later established by the Union government in 1863.",
+    "Redenção is a municipality in the state of Ceará, in the Northeast region of Brazil. located 55 km away from Fortaleza, the capital of the state. Redenção in Portuguese means redemption, and the city has this name because it was the first city in Brazil that abolished its slaves.",
+    "The United States shares land borders with Canada (to the north) and Mexico (to the south), and a territorial water border with Russia in the northwest, and two territorial water borders in the southeast between Florida and Cuba, and Florida and the Bahamas. The contiguous forty-eight states are otherwise bounded by the Pacific Ocean on the west, the Atlantic Ocean on the east, and the Gulf of Mexico to the southeast. Alaska borders the Pacific Ocean to the south, the Bering Strait to the west, and the Arctic Ocean to the north, while Hawaii lies far to the southwest of the mainland in the Pacific Ocean.",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city. It shares borders with the city in two areas, but is surrounded mostly by other suburbs.",
+    "WWNQ is a radio station licensed to Forest Acres, South Carolina, serving the Columbia, South Carolina market. Owned by Midlands Media Group LLC, the station broadcasts a country music format branded as 94.3 The Dude.",
+    "Sectional tensions had long existed between the states located north of the Mason–Dixon line and those south of it, primarily centered on the \"peculiar institution\" of slavery and the ability of states to overrule the decisions of the national government. During the 1840s and 1850s, conflicts between the two sides became progressively more violent. After the election of Abraham Lincoln in 1860 (who southerners thought would work to end slavery) states in the South seceded from the United States, beginning with South Carolina in late 1860. On April 12, 1861, forces of the South (known as the Confederate States of America or simply the Confederacy) opened fire on Fort Sumter, whose garrison was loyal to the Union.",
+    "Tallahassee / ˌtæləˈhæsi / is the capital of the U.S. state of Florida. It is the county seat and only incorporated municipality in Leon County. Tallahassee became the capital of Florida, then the Florida Territory, in 1824. In 2016, the population was 190,894, making it the 7th - largest city in the U.S state of Florida, and the 126th - largest city in the United States. The population of the Tallahassee metropolitan area was 379,627 as of 2016. Tallahassee is the largest city in the Florida Panhandle region, and the main center for trade and agriculture in the Florida Big Bend and Southwest Georgia regions.",
+    "The Province of Maryland was an English and later British colony in North America that existed from 1632 until 1776, when it joined the other twelve of the Thirteen Colonies in rebellion against Great Britain and became the U.S. state of Maryland. Its first settlement and capital was St. Mary's City, in the southern end of St. Mary's County, which is a peninsula in the Chesapeake Bay and is also bordered by four tidal rivers.",
+    "Tennessee (i/tɛnᵻˈsiː/) (Cherokee: ᏔᎾᏏ, Tanasi) is a state located in the southeastern United States. Tennessee is the 36th largest and the 17th most populous of the 50 United States. Tennessee is bordered by Kentucky and Virginia to the north, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, and Arkansas and Missouri to the west. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms the state's western border. Tennessee's capital and second largest city is Nashville, which has a population of 601,222. Memphis is the state's largest city, with a population of 653,450.",
+    "A Nigerian State is a federated political entity, which shares sovereignty with the Federal Government of Nigeria, There are 36 States in Nigeria, which are bound together by a federal agreement. There is also a territory called the Federal Capital Territory (FCT), which is not a state, but a territory, under the direct control of the Federal Government. The States are further divided into a total of 774 Local Government Areas. Under the Nigerian Constitution, states have the power to ratify constitutional amendments.",
+    "Minsk Region or Minsk Voblasć or Minsk Oblast (, \"Minskaja vobłasć\" ; , \"Minskaja oblastj\") is one of the regions of Belarus. Its administrative center is Minsk, although it is a separate administrative territorial entity of Belarus. As of 2011, the region's population is 1,411,500.",
+    "Although the city lost the status of state capital to Columbia in 1786, Charleston became even more prosperous in the plantation-dominated economy of the post-Revolutionary years. The invention of the cotton gin in 1793 revolutionized the processing of this crop, making short-staple cotton profitable. It was more easily grown in the upland areas, and cotton quickly became South Carolina's major export commodity. The Piedmont region was developed into cotton plantations, to which the sea islands and Lowcountry were already devoted. Slaves were also the primary labor force within the city, working as domestics, artisans, market workers, and laborers."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe first state to formally secede from the United States was South Carolina.\nSouth Carolina's capital is Columbia.\nOak Lawn is a suburb of Chicago that shares borders with the city of Chicago.\nChicago is located in Cook County, Illinois.\nThe city of Chicago is not located in South Carolina.\nOak Lawn does not share a border with Columbia, South Carolina.\nThe city sharing a border with the capital of the first state to formally secede is not Oak Lawn.\nNo city in the context is described as sharing a border with Columbia, South Carolina.\nThe question asks for a county, but no such city is identified in the context.\nThe county of the city sharing a border with the capital of the first state to formally secede is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "The first state to formally secede from the United States was South Carolina",
+    "South Carolina's capital is Columbia",
+    "Oak Lawn is a suburb of Chicago that shares borders with the city of Chicago",
+    "Chicago is located in Cook County, Illinois",
+    "The city of Chicago is not located in South Carolina",
+    "Oak Lawn does not share a border with Columbia, South Carolina",
+    "The city sharing a border with the capital of the first state to formally secede is not Oak Lawn",
+    "No city in the context is described as sharing a border with Columbia, South Carolina",
+    "The question asks for a county, but no such city is identified in the context",
+    "The county of the city sharing a border with the capital of the first state to formally secede is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The first state to formally secede from the United States was South Carolina",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "South Carolina's capital is Columbia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Oak Lawn is a suburb of Chicago that shares borders with the city of Chicago",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Chicago is located in Cook County, Illinois",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The city of Chicago is not located in South Carolina",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Oak Lawn does not share a border with Columbia, South Carolina",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The city sharing a border with the capital of the first state to formally secede is not Oak Lawn",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "No city in the context is described as sharing a border with Columbia, South Carolina",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The question asks for a county, but no such city is identified in the context",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "The county of the city sharing a border with the capital of the first state to formally secede is not specified",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

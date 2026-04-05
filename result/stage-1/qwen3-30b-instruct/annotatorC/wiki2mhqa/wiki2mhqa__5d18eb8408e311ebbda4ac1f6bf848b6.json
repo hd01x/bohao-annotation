@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__5d18eb8408e311ebbda4ac1f6bf848b6",
+  "sample_id": "5d18eb8408e311ebbda4ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?",
+  "gold_answer": "Hanuman Patal Vijay",
+  "context": [
+    "Young and Dangerous 2 is a 1996 Hong Kong triad film directed by Andrew Lau. It is the first sequel in the\" Young and Dangerous\" film series.",
+    "Hanuman Patal Vijay(\" Hanuman's Victory Over Hell\") is a 1951 Hindi mythological film directed by Homi Wadia for his Basant Pictures banner. Meena Kumari starred in this devotional film with S. N. Tripathi playing Hanuman. Following her career as a child actress, Meena Kumari did heroine roles in mythologies made by Basant Pictures and directed by Homi Wadia. She had an extremely successful career for some years playing goddesses before her big commercial break in\" Baiju Bawra\"( 1951). S. N. Tripathi, besides acting in the film, also composed the music. His costars were Meena Kumari, Mahipal, Niranjan Sharma, Dalpat and Amarnath. The story was about Hanuman's devotion to Ram and his battle with the two demon brothers Ahiravan and Mahiravan.",
+    "Young and Dangerous 4( Literal Title\" 97 Wise Guys: No War Can not Be Won\") is a 1997 Hong Kong triad film directed by Andrew Lau. It is the third sequel to the\" Young and Dangerous\" film series.",
+    "Young and Dangerous 3 is a 1996 Hong Kong triad film directed by Andrew Lau. It is the second sequel in the\" Young and Dangerous\" film series. Starting from this movie, it is distributed by Golden Harvest Company.",
+    "Vijay or Vijaya is an Indian film. It was released in 1942. The film also had Baby Meena Meena Kumari, as a child artist.",
+    "Young and Dangerous: The Prequel is a 1998 Hong Kong crime film directed by Andrew Lau. It is the second prequel in the\" Young and Dangerous\" film series. The film shows Chan Ho-nam( Nicholas Tse), Chicken Chiu( Sam Lee) and their friends being recruited by Uncle Bee( Ng Chi- Hung) and joining the\" Hung Hing\" triad.",
+    "Young and Dangerous 5 is a 1998 Hong Kong triad film. It is the fourth sequel in the\" Young and Dangerous\" film series.",
+    "Homi Wadia( 22 May 1911 – 10 December 2004) was an Indian film director and producer in Bollywood( Hindi cinema). He was the co-founder of Wadia Movietone productions, established in 1933 and later after the closure of Wadiatone, he founded Basant Pictures in 1942. In a career spanning five decades, he directed over 40 films, including\" Hunterwali\"( 1935),\" Miss Frontier Mail\"( 1936),\" Diamond Queen\"( 1940) and fantasy film\" Hatim Tai\"( 1956). He was also a founding member of the Film& Television Producers Guild of India, established in 1954. Homi Wadia was married to actress and stunt woman Fearless Nadia. Homi was the younger brother of JBH Wadia, who was himself a movie director.",
+    "Shri Ganesh Mahima also called \"Shri Krishna Vivah\" is a 1950 Hindi mythological film directed by Homi Wadia. The film was made under Wadia's Basant Pictures Banner with music composed by S. N. Tripathi. Meena Kumari, after her career as a child artist, started doing adult roles as heroines in mythologicals and fantasy genres before she made it in mainstream cinema with \"Baiju Bawra\" (1952). The cast included Meena Kumari, Mahipal, S. N. Tripathi, Amarnath and Dalpat.. It's a side story and indirect sequel to Hanuman Patal Vijay.",
+    "Andrew Lau Wai-Keung( born 4 April 1960) is a Hong Kong film director, producer, and cinematographer. Lau began his career in the 1980s and 1990s, serving as a cinematographer to filmmakers such as Ringo Lam, Wong Jing and Wong Kar-wai. In the 1990s, Lau decided to have more creative freedom as a cinematographer by becoming a film director and producer. Apart from making films in his native Hong Kong, Lau has also made films in China, Korea and the United States. A highly prolific filmmaker, Lau has made films in a variety of genres, and is most notable in the West for his action and crime films which include the\" Young and Dangerous\" film series, the\" Infernal Affairs\" trilogy( the latter co-directed together with Alan Mak), and\" Revenge of the Green Dragons\"( executive produced by Martin Scorsese)."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHanuman Patal Vijay was directed by Homi Wadia.\nHomi Wadia was born on 22 May 1911.\nYoung and Dangerous: The Prequel was directed by Andrew Lau.\nAndrew Lau was born on 4 April 1960.\n1911 is earlier than 1960.\nThe film directed by the person born first is Hanuman Patal Vijay.\n<answer> Hanuman Patal Vijay",
+  "predicted_answer": "Hanuman Patal Vijay",
+  "claims": [
+    "Hanuman Patal Vijay was directed by Homi Wadia",
+    "Homi Wadia was born on 22 May 1911",
+    "Young and Dangerous: The Prequel was directed by Andrew Lau",
+    "Andrew Lau was born on 4 April 1960",
+    "1911 is earlier than 1960",
+    "The film directed by the person born first is Hanuman Patal Vijay"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Hanuman Patal Vijay was directed by Homi Wadia",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Homi Wadia was born on 22 May 1911",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Young and Dangerous: The Prequel was directed by Andrew Lau",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Andrew Lau was born on 4 April 1960",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1911 is earlier than 1960",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The film directed by the person born first is Hanuman Patal Vijay",
+      "claim_type": "DR"
+    }
+  ]
+}

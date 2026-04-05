@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__eb3fdf6208bb11ebbd88ac1f6bf848b6",
+  "sample_id": "eb3fdf6208bb11ebbd88ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who died later, The Devil And Miss Jones or The Man In The Funny Suit?",
+  "gold_answer": "The Man In The Funny Suit",
+  "context": [
+    "Ralph Nelson( August 12, 1916 – December 21, 1987) was an American film and television director, producer, writer, and actor. He was best known for directing\" Lilies of the Field\"( 1963),\" Father Goose\"( 1964), and\" Charly\"( 1968), films which won Academy Awards.",
+    "Charles Douville Coburn( June 19, 1877 – August 30, 1961) was an American actor. He was nominated for a Best Supporting Actor Academy Award three times – in\" The Devil and Miss Jones\"( 1941),\" The More the Merrier\"( 1943), and\" The Green Years\"( 1946) – winning for his performance in\" The More the Merrier\". He was honored with a star on the Hollywood Walk of Fame in 1960 for his contribution to the film industry.",
+    "Charles Clarence Robert Orville Cummings( June 9, 1910 – December 2, 1990) was an American film and television actor known mainly for his roles in comedy films such as\" The Devil and Miss Jones\"( 1941) and\" Princess O'Rourke\"( 1943), but was also effective in dramatic films, especially two of Alfred Hitchcock's thrillers,\" Saboteur\"( 1942) and\" Dial M for Murder\"( 1954). Cummings received five Primetime Emmy Award nominations, and won the Primetime Emmy Award for Best Actor in a Single Performance in 1955. On February 8, 1960, he received two stars on the Hollywood Walk of Fame for his contributions to the motion picture and television industries. The motion picture star is at 6816 Hollywood Boulevard, the television star is on 1718 Vine Street.",
+    "Tarsha Nicole Jones( born October 24, 1969), better known as Miss Jones, is a former R&B artist and radio personality. She previously worked for WQHT in New York City and 1039 The Beat and WUSL in Philadelphia. Miss Jones was the first black woman to host Morning Radio on a hip hop radio format.",
+    "Samuel Grosvenor Wood( July 10, 1883 – September 22, 1949) was an American film director and producer, who was best known for directing such Hollywood hits as\" A Night at the OperaA Day at the RacesGoodbye, Mr. Chips\", and\" The Pride of the Yankees\". He was also involved in a few acting and writing projects.",
+    "The Devil and Miss Jones is a 1941 comedy film starring Jean Arthur, Robert Cummings, and Charles Coburn. Directed by Sam Wood from a screenplay by Norman Krasna, the film was the product of an independent collaboration between Krasna and producer Frank Ross( Jean Arthur's husband). Their short- lived production company released two films through RKO Radio Pictures(\" Miss Jones\" and the later\" A Lady Takes a Chance\" released in 1943). The film was well received by critics upon its release and garnered Oscar nominations for Coburn and Krasna.",
+    "The Devil in Miss Jones is a 1973 pornographic film, written, directed and produced by Gerard Damiano and starring Georgina Spelvin and Harry Reems. It is widely regarded as a classic adult film, released during the Golden Age of Porn (1969–1984). After his 1972 success with \"Deep Throat\", Damiano shot the film in a converted apple-packing plant in Milanville, Pennsylvania. Along with \"Deep Throat\" and \"Behind the Green Door\", the film is associated with a time in American culture known as \"porno chic\", in which adult erotic films were just beginning to be widely released, publicly discussed by celebrities (like Johnny Carson and Bob Hope) and taken seriously by film critics (like Roger Ebert). The film's plot was inspired by the 1944 play \"No Exit\" by French philosopher Jean-Paul Sartre. \" The Devil in Miss Jones\" went on to spawn numerous remakes and sequels. As with many films of the Golden Age of Porn, the copyright status of \"The Devil in Miss Jones\" is unresolved. VCX claims a copyright; rival distributor Arrow Productions distributed unauthorized copies of the film for a time before 2009, when (as part of a mutual truce between the companies) Arrow agreed to accept VCX's copyright claim in exchange for not challenging Arrow's copyright claim on \"Deep Throat\".",
+    "The Devil and Daniel Webster is a 1941 fantasy film, adapted by Stephen Vincent Benét and Dan Totheroh from Benét's short story,\" The Devil and Daniel Webster\". The film's title was changed to All That Money Can Buy to avoid confusion with another film released by RKO that year,\" The Devil and Miss Jones\", but later had the title restored on some prints. It has also been released under the titles Mr. Scratch, Daniel and the Devil and Here Is a Man. The film stars Edward Arnold, Walter Huston, and James Craig. A retelling of the Faust legend, set in 1840s rural New Hampshire, it was directed by German- born actor- director William Dieterle who( under his original name, Wilhelm Dieterle) played a featured role in F. W. Murnau's epic silent version of\" Faust\" in 1926.",
+    "The Man in the Funny Suit( 1960) is a television drama detailing the agony endured by actor Keenan Wynn while helping his father, comedian Ed Wynn, play a serious role in the original television production of Rod Serling's\" Requiem for a Heavyweight\". \" Requiem\" was the elder Wynn's first dramatic role after decades of comedy. When Wynn flubbed a line or was uncertain of how to proceed, he would fall back on his old comedic catchphrases and jokes, mostly out of habit. As\" Requiem\" was an intense drama scheduled for live broadcast, this caused much consternation and worry among the staff and cast. When the time came for the show, however, Ed Wynn surprised everyone with his flawlessly heartfelt performance. The Wynns, Ned Glass, Maxie Rosenbloom,\" PLAYHOUSE 90\" announcer Dick Joy, Ralph Nelson, Serling, and Red Skelton play themselves in this installment of\" The Westinghouse Desilu Playhouse\", originally broadcast on 15 April 1960. \" The Man in the Funny Suit\" was written and directed by Ralph Nelson, the director of both the original 1956\" Playhouse 90\" television\" Requiem for a Heavyweight\" and the later 1962 movie version, which stars Jackie Gleason and Mickey Rooney in Keenan and Ed Wynn's roles.",
+    "Georgina Spelvin( born March 1, 1936) is the stage name of Shelley Bob Graham, a former American actress and pornographic performer who is best known as the star of the classic pornographic film\" The Devil in Miss Jones\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Devil and Miss Jones (1941) was directed by Sam Wood.\nSam Wood died on September 22, 1949.\nThe Man in the Funny Suit (1960) was directed by Ralph Nelson.\nRalph Nelson died on December 21, 1987.\n1987 is later than 1949.\nThe film directed by the person who died later is The Man in the Funny Suit.\n<answer> The Man in the Funny Suit",
+  "predicted_answer": "The Man in the Funny Suit",
+  "claims": [
+    "The Devil and Miss Jones (1941) was directed by Sam Wood",
+    "Sam Wood died on September 22, 1949",
+    "The Man in the Funny Suit (1960) was directed by Ralph Nelson",
+    "Ralph Nelson died on December 21, 1987",
+    "1987 is later than 1949",
+    "The film directed by the person who died later is The Man in the Funny Suit"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Devil and Miss Jones (1941) was directed by Sam Wood",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Sam Wood died on September 22, 1949",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The Man in the Funny Suit (1960) was directed by Ralph Nelson",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Ralph Nelson died on December 21, 1987",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1987 is later than 1949",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The film directed by the person who died later is The Man in the Funny Suit",
+      "claim_type": "DR"
+    }
+  ]
+}

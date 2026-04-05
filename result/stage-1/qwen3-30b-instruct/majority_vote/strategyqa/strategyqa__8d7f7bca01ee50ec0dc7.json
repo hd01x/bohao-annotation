@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__8d7f7bca01ee50ec0dc7",
+  "sample_id": "8d7f7bca01ee50ec0dc7",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Christopher Columbus sail representing a different country than his original home?",
+  "gold_answer": "yes",
+  "context": [
+    "Columbus was originally from Genoa in what is now Italy.",
+    "His expeditions were funded by the Spanish monarchy."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nChristopher Columbus was originally from Genoa, which is in present-day Italy.\nColumbus's expeditions were funded by the Spanish monarchy.\nHe sailed under the sponsorship of Spain.\nColumbus represented Spain during his voyages.\nColumbus sailed for a country different from his original home.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Christopher Columbus was originally from Genoa, which is in present-day Italy",
+    "Columbus's expeditions were funded by the Spanish monarchy",
+    "He sailed under the sponsorship of Spain",
+    "Columbus represented Spain during his voyages",
+    "Columbus sailed for a country different from his original home"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Christopher Columbus was originally from Genoa, which is in present-day Italy",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Columbus's expeditions were funded by the Spanish monarchy",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "He sailed under the sponsorship of Spain",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Columbus represented Spain during his voyages",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Columbus sailed for a country different from his original home",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

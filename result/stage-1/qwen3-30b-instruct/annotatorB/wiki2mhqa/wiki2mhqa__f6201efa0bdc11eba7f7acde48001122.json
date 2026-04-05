@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__f6201efa0bdc11eba7f7acde48001122",
+  "sample_id": "f6201efa0bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the spouse of the director of film Confidentially Connie?",
+  "gold_answer": "Ona Munson",
+  "context": [
+    "Princess Auguste of Bavaria( 28 April 1877 – 25 June 1964) was a member of the Bavarian Royal House of Wittelsbach and the spouse of Archduke Joseph August of Austria.",
+    "Heather Denise Gibson is a Scottish economist currently serving as Director- Advisor to the Bank of Greece( since 2011). She is the spouse of Euclid Tsakalotos, former Greek Minister of Finance.",
+    "Adib Kheir was a leading Syrian nationalist of the 1920s. He was the owner of the Librairie Universelle in Damascus. His granddaughter is the spouse of Manaf Tlass.",
+    "Confidentially Connie is a 1953 film directed by Edward Buzzell. It stars Van Johnson and Janet Leigh. Maine housewife Connie Bedloe is pregnant, but the family's limited income from her husband Joe's teaching job means that they can't buy meat. When the father-in-law Opie, a Texas cattle rancher, comes to visit and finds out that the family is not eating meat, he convinces the butcher to sell him a giant steak, halving the price. At a party, the guests find out that the butcher sold it to Opie at half price, and so they all head to the butcher shop, causing a price war. In the end, it comes time for the family to decide whether to stay in Maine or return to Texas.",
+    "Edward Buzzell (November 13, 1895 – January 11, 1985) was an American film director whose credits include \"Child of Manhattan\" (1933); \"Honolulu\" (1939); the Marx Brothers films \"At the Circus\" (1939) and \"Go West\" (1940); the musicals \"Best Foot Forward\" (1943), \"Song of the Thin Man\" (1947), and \"Neptune's Daughter\" (1949); and \"Easy to Wed\". Born in Brooklyn, Buzzell appeared in vaudeville and on Broadway, and he was hired to star in the 1929 film version of George M. Cohan's \"Little Johnny Jones\" with Alice Day. Buzzell appeared in a few Vitaphone shorts and the two-strip Technicolor short \"The Devil's Cabaret\" (1930) as Satan's assistant. He wrote screenplays in the early 1930s and later produced the popular \"The Milton Berle Show\", which premiered on television in 1948. In 1926, Buzzell married actress Ona Munson, who later played Belle Watling in \"Gone with the Wind\". They divorced in 1931. He married socialite Sara Clark on August 11, 1934, but the marriage only lasted five weeks. He married actress Lorraine Miller on December 10, 1949. He died in Los Angeles in 1985 at the age of 89.",
+    "Maria Teresa, Grand Duchess of Luxembourg( born María Teresa Mestre y Batista; on 22 March 1956), is the spouse of Grand Duke Henri.",
+    "Sophia Magdalena of Denmark (3 July 1746 – 21 August 1813) was Queen of Sweden as the spouse of King Gustav III.",
+    "Marie Louise Coidavid( 1778 – March 11, 1851), was the Queen of the Kingdom of Haiti 1811 – 20 as the spouse of Henri I of Haiti.",
+    "Mehdi Abrishamchi is an Iranian People's Mujahedin of Iran( MEK) politician who has been described as\" the right hand man of Massoud Rajavi\". He is the former spouse of the group's current leader, Maryam Rajavi, whom he divorced so that she could become the spouse of Massoud Rajavi.",
+    "Gertrude of Saxony and Bavaria( 1152/55–1197) was Duchess of Swabia as the spouse of Duke Frederick IV, and Queen of Denmark as the spouse of King Canute VI."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nConfidentially Connie is a 1953 film directed by Edward Buzzell.\nEdward Buzzell was married to actress Ona Munson from 1926 to 1931.\nHe married socialite Sara Clark on August 11, 1934, but the marriage lasted only five weeks.\nHe married actress Lorraine Miller on December 10, 1949.\nThe spouse of the director of Confidentially Connie is Lorraine Miller.\n<answer> Lorraine Miller",
+  "predicted_answer": "Lorraine Miller",
+  "claims": [
+    "Confidentially Connie is a 1953 film directed by Edward Buzzell",
+    "Edward Buzzell was married to actress Ona Munson from 1926 to 1931",
+    "He married socialite Sara Clark on August 11, 1934, but the marriage lasted only five weeks",
+    "He married actress Lorraine Miller on December 10, 1949",
+    "The spouse of the director of Confidentially Connie is Lorraine Miller"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Confidentially Connie is a 1953 film directed by Edward Buzzell",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Edward Buzzell was married to actress Ona Munson from 1926 to 1931",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "He married socialite Sara Clark on August 11, 1934, but the marriage lasted only five weeks",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "He married actress Lorraine Miller on December 10, 1949",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The spouse of the director of Confidentially Connie is Lorraine Miller",
+      "claim_type": "DR"
+    }
+  ]
+}

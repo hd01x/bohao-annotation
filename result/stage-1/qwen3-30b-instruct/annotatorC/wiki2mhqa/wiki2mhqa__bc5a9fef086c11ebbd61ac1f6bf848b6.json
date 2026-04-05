@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__bc5a9fef086c11ebbd61ac1f6bf848b6",
+  "sample_id": "bc5a9fef086c11ebbd61ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who died later, Giovanni Dei Conti Di Segni or Sakari Simelius?",
+  "gold_answer": "Sakari Simelius",
+  "context": [
+    "Giacomo Di Segni( 30 November 1919 – 1995) was an Italian boxer. He competed at the 1948 Summer Olympics and the 1952 Summer Olympics.",
+    "Ottaviano dei Conti di Segni( died January 29, 1234) was an Italian cardinal and cardinal- nephew of Pope Innocent III, his cousin who elevated him probably in May 1206. He was canon of the Vatican Basilica, Camerlengo of the Holy Roman Church( 1200 until May 1206) and protodeacon of the Sacred College of Cardinals( from 1221).",
+    "Giovanni dei Tagliacozzi( died 1540) was a Roman Catholic prelate who served as Bishop of Chioggia( 1535 – 1540).",
+    "Blessed Andrea dei Conti (1240 - 1 February 1302) was an Italian Roman Catholic priest and a professed member of the Order of Friars Minor who was also a member of the noble house of Conti di Segni. The priest was best known for his humble life of solitude in which he was subjected to demonic visions and attacks though his faith in God saw him emerge time and time again as the victor. He lived his life in a small grotto in the Apennines. Conti was the paternal nephew of Pope Alexander IV and is reported to be the maternal uncle or cousin - though related in some form - of Pope Boniface VIII in addition to being both the ancestor of Pope Innocent XIII and medieval pontiffs Pope Innocent III and Pope Gregory IX; he was also related to a total of five Italian cardinals from his noble stock. His descendant Innocent XIII approved the Franciscan's beatification on 11 December 1724.",
+    "Giovanni dei Porcari( died 1486) was a Roman Catholic prelate who served as Bishop of Lacedonia( 1481 – 1486).",
+    "Donna Bianca Brandolini d' Adda dei conti di Valmareno( born June 25, 1987) is an Italian model, actress and socialite.",
+    "Jaakko Sakari Simelius( 13 November 1900, Kuopio – 18 May 1985, Helsinki) was a Finnish General of the Infantry. He was the Chief of Defence of the Finnish Defence Forces between 1959 and 1965.",
+    "Donna Cornelia Brandolini d' Adda dei conti di Valmareno, better known as Coco Brandolini d' Adda,( born June 27, 1979) is a French- born Italian fashion executive, editor and consultant.",
+    "Gaetano dei Conti di Thiene( 6 October 1480 – 7 August 1547), known as Saint Cajetan, was an Italian Catholic priest and religious reformer, co-founder of the Theatines. He is recognised as a saint in the Catholic Church, and his feast day is 7 August.",
+    "Giovanni dei Conti di Segni( died June 14, 1213) was an Italian cardinal and cardinal- nephew of Pope Innocent III, his cousin, who elevated him in 1200 with the deaconry of Santa Maria in Cosmedin. He was also Chancellor of the Holy Roman Church 1205 – 1213 and Protodeacon of the Sacred College from 1210 or 1211."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGiovanni dei Conti di Segni died on June 14, 1213.\nJaakko Sakari Simelius died on May 18, 1985.\n1213 is earlier than 1985.\nThe person who died later is Jaakko Sakari Simelius.\n<answer> Jaakko Sakari Simelius",
+  "predicted_answer": "Jaakko Sakari Simelius",
+  "claims": [
+    "Giovanni dei Conti di Segni died on June 14, 1213",
+    "Jaakko Sakari Simelius died on May 18, 1985",
+    "1213 is earlier than 1985",
+    "The person who died later is Jaakko Sakari Simelius"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Giovanni dei Conti di Segni died on June 14, 1213",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Jaakko Sakari Simelius died on May 18, 1985",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1213 is earlier than 1985",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The person who died later is Jaakko Sakari Simelius",
+      "claim_type": "DR"
+    }
+  ]
+}

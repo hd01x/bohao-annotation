@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__ce9cda1608a111ebbd79ac1f6bf848b6",
+  "sample_id": "ce9cda1608a111ebbd79ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film was released first, My Friend Pinto or Vindhyarani?",
+  "gold_answer": "Vindhyarani",
+  "context": [
+    "My Friend Pinto is a 2011 Indian musical comedy film written and directed by Raaghav Dar, in his feature- length directorial debut. It stars Prateik Babbar as Michael Pinto, a well intentioned simpleton and follows his misadventures over the course of a New Year's Eve in Mumbai. Produced by Sanjay Leela Bhansali and Ronnie Screwvala, and distributed by UTV Motion Pictures, it has elements of picaresque, slapstick comedy and multiple musical sequences. The film features Kalki Koechlin, Arjun Mathur, Shruti Seth, Makrand Deshpande, Raj Zutshi and Divya Dutta in supporting roles. Although Dar had written the script while working as an assistant director on\" Jaane Tu ... Ya Jaane Na\"( 2008), it was not until he met Bhansali that he began working on a proper screenplay. Conceived as a musical comedy,\" My Friend Pinto\" had multiple sequences choreographed by Longinus Fernandes, featuring Babbar and Koechlin primarily. Principal photography was done over a period of two and a half years in South Mumbai, mostly during night. The film's soundtrack and background score was composed by the music director duo of Ajay and Atul Gogavale. \" My Friend Pinto\" released theatrically on 14 October 2011 to mixed response from film critics. While the performances of majority of the cast were favourably reviewed, the film drew criticism for its scattered screenplay and the several underdeveloped subplots. It performed poorly at the box-office, collecting a meager total of in its entire theatrical run, and failed to recover its production costs of approximately. The film was released on DVD in February 2012.",
+    "O filos mou o Lefterakis ( Greek:, Alternate translations:\" My Friend, Lefterakis\" or\" Lefterakis, My Friend\") is a 1964 Greek comedy film starring Dinos Iliopoulos, Kostas Voutsas and Maro Kontou.",
+    "Vindhyarani( English title: Queen of the Vindhyas; Telugu: వింధ్యరాణి) is a 1948 Telugu film directed by C. Pullayya. It is a film based on a drama written by Pingali Nagendra Rao. Pushpavalli played the title role of Vindhyarani.",
+    "The film was released in Japan on 10 October 2009.",
+    "My Friend Ganesha 3 is an animated movie under the banner of BaBa Arts Limited production and which released on 26 March 2010. It's a sequel to 2009 film My Friend Ganesha 2.",
+    "My Friend Flicka is a 1943 coming- of- age Technicolor film about a young boy, played by Roddy McDowall, who is given a young horse to raise. It is based on Mary O' Hara's popular 1941 children's novel. \" Thunderhead, Son of Flicka\", released in March 15, 1945, was the sequel to My Friend Flicka.",
+    "My Friend Irma Goes West is a 1950 American comedy film based on the radio show \"My Friend Irma\", and featuring the comedy team of Martin and Lewis (Dean Martin and Jerry Lewis). The film is directed by Hal Walker. This sequel to \"My Friend Irma\" (1949) was released May 31, 1950, by Paramount Pictures.",
+    "My Friend Irma is a 1949 American comedy film directed by George Marshall, and is most notable as the film debut of the comedy team Dean Martin and Jerry Lewis. The film was released on August 16, 1949, by Paramount, and is based upon the CBS radio series\" My Friend Irma\" that first aired in 1947.",
+    "My Friend Joe is a 1996 film directed by Chris Bould starring Schuyler Fisk and John Cleere. The film is based on the 1985 Swedish novel \"Janne, min vänJohnny, My Friend\") by Peter Pohl.",
+    "Devil, My Friend is a 1988 Turkish comedy film directed by Atıf Yılmaz."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMy Friend Pinto was released theatrically on 14 October 2011.\nVindhyarani was released in 1948.\n1948 is earlier than 2011.\nVindhyarani was released before My Friend Pinto.\n<answer> Vindhyarani",
+  "predicted_answer": "Vindhyarani",
+  "claims": [
+    "My Friend Pinto was released theatrically on 14 October 2011",
+    "Vindhyarani was released in 1948",
+    "1948 is earlier than 2011",
+    "Vindhyarani was released before My Friend Pinto"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "My Friend Pinto was released theatrically on 14 October 2011",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Vindhyarani was released in 1948",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1948 is earlier than 2011",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Vindhyarani was released before My Friend Pinto",
+      "claim_type": "DR"
+    }
+  ]
+}

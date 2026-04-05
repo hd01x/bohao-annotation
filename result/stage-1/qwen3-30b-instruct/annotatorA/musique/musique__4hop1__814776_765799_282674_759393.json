@@ -1,0 +1,69 @@
+{
+  "uid": "musique__4hop1__814776_765799_282674_759393",
+  "sample_id": "4hop1__814776_765799_282674_759393",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What is the seat of the county sharing a border with the county where Western Islands is headquartered?",
+  "gold_answer": "Green Bay",
+  "context": [
+    "Namibia (i/nəˈmɪbiə/, /næˈ-/), officially the Republic of Namibia (German:  Republik Namibia (help·info); Afrikaans: Republiek van Namibië) is a country in southern Africa whose western border is the Atlantic Ocean. It shares land borders with Zambia and Angola to the north, Botswana to the east and South Africa to the south and east. Although it does not border Zimbabwe, a part of less than 200 metres of the Zambezi River (essentially a small bulge in Botswana to achieve a Botswana/Zambia micro-border) separates it from that country. Namibia gained independence from South Africa on 21 March 1990, following the Namibian War of Independence. Its capital and largest city is Windhoek, and it is a member state of the United Nations (UN), the Southern African Development Community (SADC), the African Union (AU), and the Commonwealth of Nations.",
+    "Born in Green Bay, Wisconsin, Quinn was a realtor and served on the Green Bay Common Council, the Brown County, Wisconsin Board of Supervisors, the local Board of Education, and the Wisconsin State Assembly from 1955 until 1973. He was a Republican.",
+    "Toledo is a province of central Spain, in the western part of the autonomous community of Castile–La Mancha. It is bordered by the provinces of Madrid, Cuenca, Ciudad Real, Badajoz, Cáceres, and Ávila. Its capital is the city of Toledo.",
+    "Pulaski High School is a public high school in Pulaski, Wisconsin, in Brown County, Wisconsin (school district also serves parts of Shawano, Outagamie and Oconto counties), that serves students in grades 9 through 12. Its mascot is the Red Raider.",
+    "John C. Petersen (November 2, 1842 – July 10, 1887) was an American butcher and farmer from Appleton, Wisconsin who served as a member of the Wisconsin State Assembly from Outagamie County. He was elected in 1878 as a Greenbacker, and was re-elected the next year as a \"Greenback Democrat\" (even though he was opposed by a Democrat).",
+    "The Western Region is located in south Ghana, spreads from the Ivory Coast border in the west to the Central region in the east, includes the capital and large twin city of Sekondi - Takoradi on the coast, coastal Axim, and a hilly inland area including Elubo. It includes Ghana's southernmost location, Cape Three Points, where crude oil was discovered in commercial quantities in June 2007. The Western Region enjoys a long coastline that stretches from South Ghana's border with Ivory Coast to the Western region's boundary with the Central Region on the east.",
+    "Port Blair (pronunciation (help info)) is the capital of the Andaman and Nicobar Islands, a union territory of India situated in the Bay of Bengal. It is also the local administrative sub-division (tehsil) of the islands, the headquarters for the district of South Andaman, and is the territory's only notified town. It houses the headquarters of the Andaman and Nicobar Police and the Andaman and Nicobar Command, the first integrated tri-command of the armed forces of India.",
+    "Western Islands is the publishing arm of the John Birch Society; it is located in Appleton, Wisconsin, USA, where the society has its headquarters.",
+    "Gmina Paczków is an urban-rural gmina (administrative district) in Nysa County, Opole Voivodeship, in south-western Poland, on the Czech border. Its seat is the town of Paczków, which lies approximately west of Nysa and west of the regional capital Opole.",
+    "The county lies in southern Hungary, on the border with Croatia. The River Drava forms part of its southern border, and the River Danube its eastern border. It shares borders with the Hungarian counties Somogy, Tolna, and Bács-Kiskun. The capital of Baranya county is Pécs.",
+    "Gmina Głuchołazy is an urban-rural gmina (administrative district) in Nysa County, Opole Voivodeship, in south-western Poland, on the Czech border. Its seat is the town of Głuchołazy, which lies approximately south of Nysa and south-west of the regional capital Opole.",
+    "Fatumanongi is an island in Tonga. It is located within the Ha'apai Group in the centre of the country, to the northeast of the national capital of Nukualofa.",
+    "Zambezi District is a district of Zambia, located in North-Western Province. The capital lies at Zambezi. As of the 2000 Zambian Census, the district had a population of 64,963 people.",
+    "The Cayman Islands (/ ˈkeɪmən / or / keɪˈmæn /) is an autonomous British Overseas Territory in the western Caribbean Sea. The 264 - square - kilometre (102 - square - mile) territory comprises the three islands of Grand Cayman, Cayman Brac and Little Cayman located south of Cuba, northeast of Costa Rica, north of Panama, east of Mexico and northwest of Jamaica. Its population is approximately 60,765, and its capital is George Town.",
+    "Widuchowa () is a village in Gryfino County, West Pomeranian Voivodeship, in north-western Poland, close to the German border. It is the seat of the gmina (administrative district) called Gmina Widuchowa. It lies approximately south-west of Gryfino and south of the regional capital Szczecin.",
+    "Krouch Chhmar District () is a district (\"srok\") located in Tboung Khmum Province, Cambodia. The district capital is Krouch Chhmar town located around 35 kilometres north east of the provincial capital of Kampong Cham by water. The Mekong River forms western and northern borders of the districts and includes the Mekong island of Koh Pir in its area. Not surprisingly, communities in this isolated district are mostly clustered along the banks of the river and boats are an important form of transport.",
+    "Paramun () is a village in Tran Municipality, Pernik Province. It is located in western Bulgaria, 66 km from the capital city of Sofia and 14 km from the town of Tran, near the Serbian border. The toponym is of Byzantine Greek origin, from the loanword \"paramun\" meaning \"guard, watch, sentry\". It was rendered as παραμονή in Greek and was retained in medieval Serbian as . The name was first mentioned in 1451 and 1453.",
+    "Gmina Chojna is an urban-rural gmina (administrative district) in Gryfino County, West Pomeranian Voivodeship, in north-western Poland, on the German border. Its seat is the town of Chojna, which lies approximately south of Gryfino and south of the regional capital Szczecin.",
+    "Jaar (Arabic: جعار \"Jaʿār\") is a small town and capital of Khanfir District in south-western Yemen. One of the largest settlements in the Abyan Governorate, it is located in the south of the Abyan Governorate to the north of Al Kawd and the regional capital of Zinjibar. The town is located about 2 kilometres east of the right bank of the Wadi Bana.",
+    "The Dominican Republic (Spanish: República Dominicana (reˈpuβliˌka ðoˌminiˈkana)) is a country located in the island of Hispaniola, in the Greater Antilles archipelago of the Caribbean region. It occupies the eastern five - eighths of the island, which it shares with the nation of Haiti, making Hispaniola one of two Caribbean islands, along with Saint Martin, that are shared by two countries. The Dominican Republic is the second - largest Caribbean nation by area (after Cuba) at 48,445 square kilometers (18,705 sq mi), and third by population with approximately 10 million people, of which approximately three million live in the metropolitan area of Santo Domingo, the capital city."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nWestern Islands is headquartered in Appleton, Wisconsin, USA.\nAppleton is located in Brown County, Wisconsin.\nThe county that shares a border with Brown County, Wisconsin is Outagamie County.\nThe seat of Outagamie County is the city of Appleton.\nThe seat of the county sharing a border with the county where Western Islands is headquartered is Appleton.\n<answer> Appleton",
+  "predicted_answer": "Appleton",
+  "claims": [
+    "Western Islands is headquartered in Appleton, Wisconsin, USA",
+    "Appleton is located in Brown County, Wisconsin",
+    "The county that shares a border with Brown County, Wisconsin is Outagamie County",
+    "The seat of Outagamie County is the city of Appleton",
+    "The seat of the county sharing a border with the county where Western Islands is headquartered is Appleton"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Western Islands is headquartered in Appleton, Wisconsin, USA",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Appleton is located in Brown County, Wisconsin",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The county that shares a border with Brown County, Wisconsin is Outagamie County",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The seat of Outagamie County is the city of Appleton",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The seat of the county sharing a border with the county where Western Islands is headquartered is Appleton",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "uid": "wiki2mhqa__3bb9590e0bb011ebab90acde48001122",
+  "sample_id": "3bb9590e0bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the paternal grandfather of Uskhal Khan Tögüs Temür?",
+  "gold_answer": "Khutughtu Khan",
+  "context": [
+    "Henry J.\" Red\" Krause, Jr.( August 28, 1913 – February 20, 1987) was an American football offensive lineman in the National Football League for the Brooklyn Dodgers and the Washington Redskins. He played college football at St. Louis University. He is the grandfather of Jennifer Krause He is the great grandfather of Payton Hoeing",
+    "Toghon Temür (\"Togoontömör\"; 25 May 1320 – 23 May 1370), also known by the temple name Emperor Huizong  bestowed by the Northern Yuan dynasty in Mongolia and by the posthumous name Shundi  bestowed by the Hongwu Emperor of the Ming dynasty China, was a son of Khutughtu Khan Kusala who ruled as emperor of the Yuan dynasty. Apart from Emperor of China, he is also considered the last Khagan of the Mongol Empire, although it was only nominal due to the division of the empire at the start of the Yuan dynasty. During the last years of his reign, the Yuan dynasty was overthrown by the Red Turban Rebellion, which established the Ming dynasty, although the Mongols remained in control of Mongolia. As such, he was the final monarch of the Yuan dynasty and the first ruler of the Northern Yuan dynasty. Emperor Huizong was a Buddhist student of the Karmapas (heads of the Karma Kagyu school of Tibetan Buddhism) and is considered a previous incarnation of the Tai Situpas. He also notably invited the Jonang savant Dölpopa Shérab Gyeltsen to teach him, but was rebuffed.",
+    "Rev. John Westley( 1636 – 78) was an English nonconformist minister. He was the grandfather of John Wesley( founder of Methodism).",
+    "Frederick\" Fred\" Le Deux( born 4 December 1934) was an Australian rules footballer who played with Geelong in the Victorian Football League( VFL). He is the grandfather of Tom Hawkins.",
+    "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist. He was the grandfather of singer/ poet Leonard Cohen.",
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "Zhao Shoushan( 12 November 1894 – 20 June 1965) was a KMT general and later Chinese Communist Party politician. He is the grandfather of Zhao Leji.",
+    "Uskhal Khan or the Emperor Yizong of Northern Yuan (北元益宗), born Tögüs Temür (r. 1378–1388), was a Mongol Emperor of the Northern Yuan dynasty based in Mongolia. He was the last powerful khan of the Mongols until the reign of Dayan Khan. Tögüs Temür was Biligtü Khan's younger brother and son of Toghon Temür, the last Yuan emperor in China. He succeeded to the throne with the title of Uskhal Khan (Усхал хаан) after Biligtü Khan died in 1378. During the funeral of the late king, the Ming court sent an embassy to participate in it and released the Mongol prince, Maidarbal, who had been captured at the battle of Yingchang in 1378. Uskhal Khan Tögüs Temür mobilized troops near Yingchang and Karakorum. He continued to press the Ming from the north, cooperating with Naghachu of the Jalayir in Manchuria. The Ming launched a massive attack on Mongolia in return in 1380, sacking Karakorum. The Ming army crushed the Mongol garrison under Iliyasan in North China in June 1380. Uskhal Khan's commanders, Öljei-Buqa and Nair-Buqa, invaded Lulun city, killing the Ming officer Liu Guang in the same year. The Ming dispatched a large army against the Mongols the next year. Hongwu Emperor decided to exterminate Naghachu's force in Manchuria in 1387 and two sides suffered heavier losses at a battle near Changchung city. Tögüs Temür suddenly faced a predicament in 1387 when Naghachu surrendered to the Ming due to a devastating famine. The Ming now turned their attention to the Uskhal Khan Tögüs Temür who lived in Yingchang. In 1388 he was raided by the Ming on the Buir Lake. In his escape to Karakorum, he was suddenly attacked and defeated on the Tuul River by Yesüder, a descendant of Ariq Böke, who allied with the Oirats. Yesüder's general killed the king and his son, though, Uskhal Khan intended to flee westwards to join his commander Markhas. This marked the decline of the Kublaid power and the rise of the Oirats in Mongolia.",
+    "Jorightu Khan( Yesüder?) ( Mongolian: Зоригт хаан, 1358 – 1392) was a Mongol Khagan of the Northern Yuan dynasty based in Mongolia. There are questions about the identity of Jorightu: some scholars believe that Jorightu was Yesüder who was a descendant of Ariq Böke and that Engke Khan was Yesüder's son succeeding him, while other believe that the two were the same person with different titles. His title or name\" Jorightu Khagan\" means\" Brave King\" in the Mongolian language. After the murder of Uskhal Khan by Yesüder, the Mongols quickly disintegrated. Gunashiri, a descendant of Chagatai Khan, founded his own small state Qara Del in Hami. Uskhal Khan's former minister, Necelai, submitted to Ming China in 1389 and the Ming established a Mongol guard of Tyuanin( also known as Three Guards) under him in Daiying, modern Inner Mongolia. However, the late khan's chingsang, Shirmen, allied with Yesüder, killed Necelai. The former prince of Liaodang and one of the leaders of the Three Guards, Ajashir, threw his allegiance to Yesüder some time after 1389. In 1392, the Ming army invaded Mongolia and captured many cattle and men and Jorightu Khan most likely died in the battle."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nUskhal Khan Tögüs Temür was the son of Toghon Temür, the last Yuan emperor in China.\nToghon Temür was the father of Uskhal Khan Tögüs Temür.\nThe paternal grandfather of Uskhal Khan Tögüs Temür is Toghon Temür.\n<answer> Toghon Temür",
+  "predicted_answer": "Toghon Temür",
+  "claims": [
+    "Uskhal Khan Tögüs Temür was the son of Toghon Temür, the last Yuan emperor in China",
+    "Toghon Temür was the father of Uskhal Khan Tögüs Temür",
+    "The paternal grandfather of Uskhal Khan Tögüs Temür is Toghon Temür"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Uskhal Khan Tögüs Temür was the son of Toghon Temür, the last Yuan emperor in China",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Toghon Temür was the father of Uskhal Khan Tögüs Temür",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C3",
+      "text": "The paternal grandfather of Uskhal Khan Tögüs Temür is Toghon Temür",
+      "claim_type": "DR"
+    }
+  ]
+}

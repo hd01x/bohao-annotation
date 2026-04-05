@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__c8eac5cc49c449e28e6e",
+  "sample_id": "c8eac5cc49c449e28e6e",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does the history of Europe include the age of dinosaurs?",
+  "gold_answer": "no",
+  "context": [
+    "Dinosaurs went extinct many millions of years ago.",
+    "In contrast, ancient humans only started recording history several thousand years ago."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDinosaurs went extinct many millions of years ago.\nAncient humans began recording history only several thousand years ago.\nThe history of Europe refers to recorded human events and civilizations.\nThe age of dinosaurs predates human civilization and recorded history.\nThe history of Europe does not include the age of dinosaurs.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Dinosaurs went extinct many millions of years ago",
+    "Ancient humans began recording history only several thousand years ago",
+    "The history of Europe refers to recorded human events and civilizations",
+    "The age of dinosaurs predates human civilization and recorded history",
+    "The history of Europe does not include the age of dinosaurs"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Dinosaurs went extinct many millions of years ago",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Ancient humans began recording history only several thousand years ago",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The history of Europe refers to recorded human events and civilizations",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The age of dinosaurs predates human civilization and recorded history",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The history of Europe does not include the age of dinosaurs",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__51678920a34b51e1e355",
+  "sample_id": "51678920a34b51e1e355",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does Rusev have to worry about human overpopulation in his homeland?",
+  "gold_answer": "no",
+  "context": [
+    "Human overpopulation results from the birthrate exceeding the death rate in a country.",
+    "Rusev is a professional wrestler who was born in Bulgaria.",
+    "The population of Bulgaria decreased by .7% in 2018."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRusev is a professional wrestler born in Bulgaria.\nThe population of Bulgaria decreased by 0.7% in 2018.\nA population decrease indicates that the death rate exceeded the birth rate in Bulgaria.\nHuman overpopulation occurs when the birth rate exceeds the death rate.\nBulgaria is experiencing population decline, not overpopulation.\nRusev does not have to worry about human overpopulation in his homeland.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Rusev is a professional wrestler born in Bulgaria",
+    "The population of Bulgaria decreased by 0.7% in 2018",
+    "A population decrease indicates that the death rate exceeded the birth rate in Bulgaria",
+    "Human overpopulation occurs when the birth rate exceeds the death rate",
+    "Bulgaria is experiencing population decline, not overpopulation",
+    "Rusev does not have to worry about human overpopulation in his homeland"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Rusev is a professional wrestler born in Bulgaria",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The population of Bulgaria decreased by 0.7% in 2018",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A population decrease indicates that the death rate exceeded the birth rate in Bulgaria",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Human overpopulation occurs when the birth rate exceeds the death rate",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Bulgaria is experiencing population decline, not overpopulation",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Rusev does not have to worry about human overpopulation in his homeland",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

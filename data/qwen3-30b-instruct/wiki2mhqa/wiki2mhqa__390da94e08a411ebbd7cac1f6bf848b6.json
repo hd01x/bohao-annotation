@@ -1,0 +1,35 @@
+{
+  "uid": "wiki2mhqa__390da94e08a411ebbd7cac1f6bf848b6",
+  "sample_id": "390da94e08a411ebbd7cac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director died later, The Life And Loves Of Tschaikovsky or Dokuz Dağın Efesi?",
+  "gold_answer": "Dokuz Dağın Efesi",
+  "context": [
+    "Dokuz Dağın Efesi, or Dokuz Dağın Efesi: Çakici Geliyor is a 1958 Turkish drama film directed by Metin Erksan. It stars Fikret Hakan, Serpil Gül, and Hayri Esen.",
+    "Mozart( also known as\" The Life and Loves of Mozart\") is a 1955 Austrian drama film directed by Karl Hartl. It was entered into the 1956 Cannes Film Festival. The plot explores the mental state of Mozart during production of his final opera Die Zauberflöte.",
+    "Beethoven's Great Love( French title: Un grand amour de Beethoven, US title: The Life and Loves of Beethoven) is a 1937 French film directed by Abel Gance. It stars Harry Baur( as Ludwig van Beethoven), Annie Ducaux, Jany Holt, Jane Marken, Jean- Louis Barrault, and Marcel Dalio. Dalméras plays the part of Franz Schubert.",
+    "The Life and Loves of Tschaikovsky or It Was a Lovely Night at the Ball is a 1939 German historical drama film directed by Carl Froelich and starring Zarah Leander, Aribert Wäscher and Hans Stüwe. The film portrays the fictional relationship between the Russian composer Pjotr Iljitsch Tschaikowsky and an aristocratic woman who, unhappily married, falls in love with him and decides to secretly support his work financially. It premiered on 13 August 1939 at the Venice Film Festival. It was shot at the Tempelhof Studios in Berlin. The film's sets were designed by the art director Franz Schroedter.",
+    "Honey Bruce Friedman, born Harriett Jolliff, also known by her professional name Honey Harlow( August 15, 1927 – September 12, 2005) was an American stripper and showgirl who was the wife of stand- up comedian Lenny Bruce. In 1976 she released her autobiography, titled\" Honey: The Life and Loves of Lenny's Shady Lady\".",
+    "Metin Erksan( January 1, 1929 – August 4, 2012), born İsmail Metin Karamanbey, was a Turkish film director and art historian.",
+    "The Magic Bow is a 1946 British musical film based on the life and loves of the Italian violinist and composer Niccolò Paganini. It was directed by Bernard Knowles. The film was entered into the 1946 Cannes Film Festival.",
+    "Carl August Hugo Froelich ( 5 September 1875 – 12 February 1953) was a German film pioneer and film director. He was born and died in Berlin.",
+    "The Barefoot Contessa is a 1954 American drama film written and directed by Joseph L. Mankiewicz about the life and loves of fictional Spanish sex symbol Maria Vargas. It stars Humphrey Bogart, Ava Gardner, and Edmond O'Brien. For his performance, O' Brien won the Academy Award for Best Supporting Actor and the corresponding Golden Globe. Mankiewicz was nominated for the Academy Award for Best Original Screenplay.",
+    "Christine Collister( born 28 December 1961) is a Manx folk, blues and jazz singer- songwriter. She was born and grew up on the Isle of Man and first came to public attention in 1986 as the singer of the theme song for the BBC's television adaptation of Fay Weldon's book\" The Life and Loves of a She- Devil\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Life and Loves of Tschaikovsky was directed by Carl Froelich.\nCarl Froelich died on 12 February 1953.\nDokuz Dağın Efesi was directed by Metin Erksan.\nMetin Erksan died on 4 August 2012.\n12 February 1953 is earlier than 4 August 2012.\nMetin Erksan died later than Carl Froelich.\nThe film with the director who died later is Dokuz Dağın Efesi.\nSo, the answer is Dokuz Dağın Efesi.\n<answer> Dokuz Dağın Efesi",
+  "claims": [
+    "The Life and Loves of Tschaikovsky was directed by Carl Froelich",
+    "Carl Froelich died on 12 February 1953",
+    "Dokuz Dağın Efesi was directed by Metin Erksan",
+    "Metin Erksan died on 4 August 2012",
+    "12 February 1953 is earlier than 4 August 2012",
+    "Metin Erksan died later than Carl Froelich",
+    "The film with the director who died later is Dokuz Dağın Efesi",
+    "So, the answer is Dokuz Dağın Efesi"
+  ],
+  "predicted_answer": "Dokuz Dağın Efesi"
+}

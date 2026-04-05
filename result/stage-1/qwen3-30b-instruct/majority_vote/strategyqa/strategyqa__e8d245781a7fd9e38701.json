@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__e8d245781a7fd9e38701",
+  "sample_id": "e8d245781a7fd9e38701",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can Paprika be made without a dehydrator?",
+  "gold_answer": "yes",
+  "context": [
+    "Peppers can be dehydrated in the oven in lieu of a dehydrator.",
+    "Sunlight and heat have been used for centuries to dry peppers and other foods."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPaprika is made from dried and ground peppers.\nPeppers can be dehydrated in the oven without a dehydrator.\nSunlight and heat have historically been used to dry peppers.\nDehydrating peppers without a dehydrator is possible using oven or sun drying methods.\nPaprika can be made from peppers dried using alternative methods.\nPaprika can be made without a dehydrator.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Paprika is made from dried and ground peppers",
+    "Peppers can be dehydrated in the oven without a dehydrator",
+    "Sunlight and heat have historically been used to dry peppers",
+    "Dehydrating peppers without a dehydrator is possible using oven or sun drying methods",
+    "Paprika can be made from peppers dried using alternative methods",
+    "Paprika can be made without a dehydrator"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Paprika is made from dried and ground peppers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Peppers can be dehydrated in the oven without a dehydrator",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Sunlight and heat have historically been used to dry peppers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Dehydrating peppers without a dehydrator is possible using oven or sun drying methods",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Paprika can be made from peppers dried using alternative methods",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Paprika can be made without a dehydrator",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

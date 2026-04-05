@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__95561eb008e111ebbda2ac1f6bf848b6",
+  "sample_id": "95561eb008e111ebbda2ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director born later, Best Of The Best 3: No Turning Back or Ven Mi Corazón Te Llama?",
+  "gold_answer": "Best Of The Best 3: No Turning Back",
+  "context": [
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Quintana Saravia Haydée Mercedes, known as Mercedes Quintana( 1910 – 1996 in Buenos Aires) was an Argentine classical dancer, choreographer, director and actress of stage, screen and television. She had a prominent stage career in Argentina in the 1930s. She appeared in films such as\" Yo quiero ser bataclana\"( 1941),\" Ven ... mi corazón te llama\"( 1942) and\" Mujeres que bailan\"( 1949).",
+    "Bryan Anderson is an American veteran of the Iraq War, triple amputee, and spokesperson. He is the author of his memoir,\" No Turning Back.\" Anderson has acted in a handful of television shows and movies, and also works as a stuntman.",
+    "Manuel Romeo (September 21, 1891 – October 3, 1954 in Buenos Aires) was an Argentine film director, screenwriter, dramatist and score composer, and one of the influential directors in the cinema of Argentina of the classic era. He directed and wrote over films between 1931 and 1951 even composing the musical scores for several. He was a pioneer of Variety Theatre, and one of the few tango lyrical writers that has reached timeless classical success. When he was a teenager, he began his journalist job in the Magacine Fray Mochoy, and in the newspapers Crítica y Última Hora. His first play, \"Teatro breve\" is from 1919 with the collaboration of Ivo Pelay. He wrote 180 more. In 1922 the most famous, \"El bailarín del cabaret\", was staged with the César Ratti's company, where Corsini triunfó (had a success) with \"Patotero sentimental\". In 1923 he travelled to Europe with Luis Bayón Herrera. In Paris, where he acted on several plays, he met Carlos Gardel and the idea of filmmaking was born. He wrote the plot and songs for \"Luces de Buenos Aires\", directed by the Chilean Adelqui Millar. It starred Gloria Guzmán, Sofía Bozán, Pedro Quartucci and the Julio De Caro musical group. He returned to Buenos Aires, where he introduced the new ideas taken from music hall and varieties shows. He started to work at the Lumitón cinema company, with Enrique Telémaco Susini . With that film company, released in February 1935, \"Noches de Buenos Aires\", written and directed by Romero, his cinema career began. The film starred Tita Merello, Irma Córdoba, Enrique Serrano and Fernando Ochoa. He filmed very quickly, he only wanted to finish and achieve a good result. His films were rejected by critics and intellectuals as a result, but ordinary people liked his style because they knew him from radio of variety shows. He directed films such as Adiós pampa mía in 1946.",
+    "Best of the Best 3: No Turning Back is a 1995 martial arts action film directed by the film's star Phillip Rhee. It is the second sequel in the \"Best of the Best\" film series. The film co-stars Christopher McDonald, Gina Gershon, Dee Wallace and an uncredited R. Lee Ermey. Rhee's Tommy Lee returns to his small hometown to find it under siege by a neo-Nazi gang whose leader is played by Mark Rolston.",
+    "Phillip Rhee( born September 7, 1960) is a Korean American actor, director, martial artist, and film producer, most famous for his role in the\" Best of the Best\" movie series.",
+    "Ven mi corazón te llama is a 1942 Argentine film directed by Manuel Romero.",
+    "David Peters( born April 16, 1987) is an American professional poker player from Toledo, Ohio, currently considered to be one of the best no limit Texas hold' em tournament players in the world.",
+    "Claude Weisz is a French film director born in Paris.",
+    "The Lane That Had No Turning is a lost 1922 American silent drama film that was directed by Victor Fleming. It was produced by Famous Players-Lasky and released through Paramount Pictures. It is based on the short novel with the same title by Gilbert Parker, which is included as the title story of Parker's 1900 collection \"The Lane that Had No Turning, and Other Tales Concerning the People of Pontiac\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBest of the Best 3: No Turning Back was directed by Phillip Rhee.\nPhillip Rhee was born on September 7, 1960.\nVen mi corazón te llama was directed by Manuel Romero.\nManuel Romero was born on September 21, 1891.\n1960 is later than 1891.\nThe film with the director born later is Best of the Best 3: No Turning Back.\n<answer> Best of the Best 3: No Turning Back",
+  "predicted_answer": "Best of the Best 3: No Turning Back",
+  "claims": [
+    "Best of the Best 3: No Turning Back was directed by Phillip Rhee",
+    "Phillip Rhee was born on September 7, 1960",
+    "Ven mi corazón te llama was directed by Manuel Romero",
+    "Manuel Romero was born on September 21, 1891",
+    "1960 is later than 1891",
+    "The film with the director born later is Best of the Best 3: No Turning Back"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Best of the Best 3: No Turning Back was directed by Phillip Rhee",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Phillip Rhee was born on September 7, 1960",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Ven mi corazón te llama was directed by Manuel Romero",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Manuel Romero was born on September 21, 1891",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1960 is later than 1891",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The film with the director born later is Best of the Best 3: No Turning Back",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,264 @@
+{
+  "uid": "medhop__MH_dev_112",
+  "sample_id": "MH_dev_112",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00009\", \"DB00514\", \"DB00707\", \"DB00864\", \"DB01109\", \"DB01285\", \"DB04844\", \"DB06822\", and \"DB08881\" interacts with DB01101?",
+  "gold_answer": "DB00864",
+  "context": [
+    "Synergistic effect of curcumin and cisplatin via down-regulation of thymidine phosphorylase and excision repair cross-complementary 1 ( P07992 ) . Curcumin ( diferuloylmethane ) , a phenolic compound obtained from the rhizome of Curcuma longa , is known to have antiproliferative and antitumor properties . P19971 ( TP ) , an enzyme of the pyrimidine salvage pathway , is considered an attractive therapeutic target , and its expression could suppress cancer cell death induced by DNA damage agents . Excision repair cross-complementary 1 ( P07992 ) is a protein involved the process of nucleotide excision repair . The P07992 gene is expressed at high levels in cancers and has been associated with resistance to platinum-based chemotherapy . In this study , the effects of curcumin on TP and P07992 expression induced by cisplatin in non-small-cell lung cancer ( NSCLC ) cell lines was investigated . Exposure of the NSCLC cells to various concentrations of curcumin ( 5-40 μM ) down-regulates the mRNA and protein levels of TP and P07992 through destabilization of the mRNA and proteins via a mechanism involving inactivation of Q02750 /2-extracellular signal-regulated kinase ( P27361 /2 ) . Depletion of endogenous TP or P07992 expression by transfection with specific small interfering RNAs significantly decreases cell viability in curcumin-exposed NSCLC cells . Curcumin enhances the sensitivity of cisplatin treatment for NSCLC through inactivation of P27361 /2 and by decreasing the TP and P07992 protein levels . Enhancement of P27361 /2 signaling by constitutively active Q02750 /2 causes an increase in TP and P07992 protein levels and promotes cell viability after cotreatment with curcumin and cisplatin . Enhancement of the cytotoxicity to cisplatin by administration of curcumin is mediated by down-regulation of the expression levels of TP and P07992 and by inactivation of P27361 /2 .",
+    "Acute lymphoblastic leukemia-derived dendritic cells express tumor associated antigens : Q8TCS8 , O75439 , O75330 , P35613 and P07992 . In all types of leukemia both in children and adults there is a need for novel therapies that could reduce the risk of relapse after standard treatment . Acute lymphoblastic leukemia ( ALL ) cells are ineffective antigen presenting cells , but as shown by many authors including results from our laboratory , stimulation with P29965 restores their antigen expressing capacity . The development of T-cell therapies for leukemic patients can be based on discovery of leukemia-associated antigens ( LAA ) which could be recognized by the host immune system . The aim of our present study was to test the hypothesis that leukemia-derived dendritic cells maintain the expression of tumor associated antigens . Twenty five children with B-cell precursor ALL were prospectively enrolled into the study . The mononuclear cells from peripheral blood or bone marrow were cultured and stimulated ( or not ) with P29965 and P05112 . The assessment of costimulatory/adhesion molecules with the use of flow cytometry and real-time RT PCR were used to confirm the possibility of turning ALL cells into dendritic-like cells . Additionally 22 tumor associated antigens mRNA levels were determined by real-time PCR technique with the TaqMan chemistry using ready-to-use Low Density Arrays for Gene Expression . The results of the study showed maintained expression and even up-regulation of some ( Q8TCS8 , O75439 , O75330 / O75330 , P35613 and P07992 ) tumor associated antigens in P25942 -activated leukemic cells . P29965 stimulation leading to the differentiation of leukemic cells into DCs which combine both antigen presenting function and expression of tumor associated antigens represents an interesting approach in cancer immunotherapy .",
+    "Nongenomic , glucocorticoid receptor-mediated regulation of serotonin transporter cell surface expression in embryonic stem cell derived serotonergic neurons . Depressive disorders have been linked to the combined dysregulation of the hypothalamus-pituitary-adrenal ( Q9Y251 ) -axis and the serotonergic system . The Q9Y251 -axis and serotonergic ( 5-HT ) neurons exert reciprocal regulatory actions . It has been reported that glucocorticoid-glucocorticoid receptor ( GR ) signaling influences serotonin transporter ( 5-HTT ) transcription but data also points to the fact that 5-HTT expression is regulated nongenomically via redistribution of 5-HTT from the cell surface into intracellular compartments . In order to analyze the acute effects of glucocorticoids on 5-HTT cell surface localization we differentiated serotonergic neurons from mouse embryonic stem ( ES ) cells derived from the C57BL/6N blastocysts . These postmitotic 5-HT neurons express all relevant serotonergic markers following the application of a growth factor-based differentiation protocol . Increasing concentrations of the GR agonist dexamethasone ( DB00514 ) resulted in enhanced , dose-dependent 5-HTT cell surface localization in the presence of the protein synthesis inhibitor cycloheximide already 1h after incubation . Inhibition of GR function by the specific GR-antagonist mifepristone abolished the increase in 5-HTT cell surface localization . Hence , our data account for a nongenomic upregulation of 5-HTT cell surface expression by glucocorticoid-GR interaction which likely constitutes a rapid physiological response to increased levels of glucocorticoids as seen during stress . Taken together , we provide a cellular model to analyze and dissect glucocorticoid- P31645 interactions on a molecular level that corresponds to in vivo animal models using C57BL/6N mice .",
+    "Modulatory effects of heparin and short-length oligosaccharides of heparin on the metastasis and growth of LMD MDA-MB 231 breast cancer cells in vivo . Expression of the chemokine receptor P61073 allows breast cancer cells to migrate towards specific metastatic target sites which constitutively express P48061 . In this study , we determined whether this interaction could be disrupted using short-chain length heparin oligosaccharides . Radioligand competition binding assays were performed using a range of heparin oligosaccharides to compete with polymeric heparin or heparan sulphate binding to I(125) P48061 . DB01109 dodecasaccharides were found to be the minimal chain length required to efficiently bind P48061 ( 71 % inhibition ; P < 0.001 ) . These oligosaccharides also significantly inhibited P48061 -induced migration of P61073 -expressing LMD MDA-MB 231 breast cancer cells . In addition , heparin dodecasaccharides were found to have less anticoagulant activity than either a smaller quantity of polymeric heparin or a similar amount of the low molecular weight heparin pharmaceutical product , DB06822 . When given subcutaneously in a SCID mouse model of human breast cancer , heparin dodecasaccharides had no effect on the number of lung metastases , but did however inhibit ( P < 0.05 ) tumour growth ( lesion area ) compared to control groups . In contrast , polymeric heparin significantly inhibited both the number ( P < 0.001 ) and area of metastases , suggesting a differing mechanism for the action of polymeric and heparin-derived oligosaccharides in the inhibition of tumour growth and metastases .",
+    "The immunological effects of electrolyzed reduced water on the Echinostoma hortense infection in C57BL/6 mice . Electrolyzed reduced water ( ERW ) is widely used for drinking by people in Asia . The purpose of this study was to examine the immunological effect of ERW on the immunity of animals by supplying ERW to C57BL/6 mice infected with Echinostoma hortense metacercariae . In the non-infected groups , interleukin ( IL ) -4 ( p < 0.001 ) , P05113 , P22301 , IL-1beta , tumor necrosis factor ( P01375 ) -alpha and immunoglobulin ( Ig ) A expression of the group fed ERW ( ERW group ) increased in small intestine compared with the normal control group . In the case of infected groups , the group fed ERW ( ERW+E. hortense group ) showed the result that P05112 , P05113 , P22301 and Ig A expression increased , but IL-1beta and P01375 ( p < 0.001 ) decreased , and the number of goblet cells ( p < 0.001 ) and helix pomatia agglutinin ( Q9Y251 ) positive cells increased compared with the group without feeding ERW . However , adult worm recovery rate was markedly increased ( p < 0.05 ) . On the other hand , the expression of all the cytokines except P22301 in spleen was mildly increased but not significant statistically , and there was no significant difference in the numerical changes of white blood cell ( WBC ) . These results indicate that feeding ERW may have influence on the local immune response ( Th-1 type cytokines such as IL-1beta , P01375 ) in the small intestine but not on the systemic immune response .",
+    "Phase II study of weekly intravenous oxaliplatin combined with oral daily capecitabine and radiotherapy with biologic correlates in neoadjuvant treatment of rectal adenocarcinoma . PURPOSE : To evaluate the efficacy of a combination of capecitabine , oxaliplatin , and radiotherapy ( RT ) in the neoadjuvant treatment of Stage II and III rectal cancers . METHODS : DB01101 was given at 725 mg/m(2) orally twice daily Monday through Friday concurrently with RT . DB00526 was given intravenously at 50 mg/m(2) once weekly five times starting the first day of RT . The radiation dose was 50.4 Gy in 28 fractions ( 1.8 Gy/fraction ) , five fractions weekly . Endorectal tumor biopsies were obtained before treatment and on the third day of treatment to explore the effects of treatment on thymidine phosphorylase , thymidylate synthase , excision repair cross-complementing rodent repair deficiency complementation group 1 ( P07992 ) , and apoptosis . RESULTS : A total of 25 patients were enrolled in this study ; 6 patients ( 24 % ) had a complete pathologic response . T-downstaging occurred in 52 % of patients , and N-downstaging occurred in 53 % . Grade 3 diarrhea was the most common Grade 3-4 toxicity , occurring in 20 % of patients . Only 2 patients experienced disease recurrence , with a median of 20 months of follow-up . P04818 , thymidine phosphorylase , P07992 , and apoptosis did not vary significantly between the pretreatment and Day 3 tumor biopsies , nor did they predict for T-downstaging or a complete pathologic response . CONCLUSION : DB01101 at 725 mg/m(2) orally twice daily , oxaliplatin 50 mg/m(2)/wk , and RT at 50.4 Gy is an effective neoadjuvant combination for Stage II and III rectal cancer and results in a greater rate of complete pathologic responses than historically shown in fluoropyrimidine plus RT controls .",
+    "Pituitary-adrenal axis regulation in P06850 -deficient mice . P06850 ( P06850 ) -deficient ( knockout ( KO ) ) mice demonstrate severely impaired adrenal responses to restraint , ether , and fasting , and lack the normal diurnal glucocorticoid ( GC ) rhythm . Here , we summarize recent studies determining the role of P06850 in augmenting plasma adrenocorticotrophic hormone ( DB01285 ) concentration after glucocorticoid withdrawal and pituitary-adrenal axis stimulation in the context of inflammation . Even though GC insufficient , basal pituitary proopiomelanocortin ( P01189 ) mRNA , DB01285 peptide content within the pituitary , and plasma DB01285 concentrations are not elevated in P06850 KO mice . P01189 mRNA content in P06850 KO mice increases following adrenalectomy , and this increase is reversed by GC , but not aldosterone , replacement . In marked contrast to the increase in P01189 mRNA , plasma DB01285 does not increase in the P06850 KO mice following adrenalectomy . Administration of P06850 to adrenalectomized P06850 KO mice results in acute , robust DB01285 secretion . Thus , loss of GC feedback can increase P01189 gene expression in the pituitary , but P06850 action is essential for increased secretion of DB01285 into the circulation . While GC secretion is impaired in P06850 KO mice after most stimuli , we have found near-normal GC responses to inflammation and systemic immune challenge . Studies in mice with P06850 and P05231 deficiency reveal that P05231 is essential for activation of the pituitary-adrenal axis during inflammatory and other stressors in the absence of P06850 .",
+    "Expression profiling of cancer-related genes in human keratinocytes following non-lethal ultraviolet B irradiation . Ultraviolet B irradiation initiates and promotes skin cancers , photo-aging , and immune suppression . In order to elucidate the effect of these processes at the level of gene expression , we used cDNA microarray technology to examine the effect of ultraviolet B irradiation on 588 cancer-related genes in human keratinocytes at 1 , 6 , and 24 h post-irradiation with a mildly cytotoxic dose of ultraviolet B ( 170 mJ/cm(2) ) . The viability of the irradiated keratinocytes was 75 % at 24 h post-irradiation . Various cytokeratins and transcription factors were up-regulated within 1 h post-irradiation . After 6 h , expression of a variety of genes related to growth regulation ( e.g. P38936 ( P38936 ) , notch 4 , and smoothened ) , apoptosis ( e.g. caspase 10 , hTRIP , and Q13114 ) , DNA repair ( P07992 , P18887 ) , cytokines ( e.g. P05231 , P35225 , TGF-beta , and endothelin 2 ) , and cell adhesion ( e.g. RhoE , and RhoGDI ) were altered in human keratinocytes . These data suggest the changes in a cascade of gene expression in human keratinocytes occurring within 24 h after UVB exposure . Although the roles of these cellular genes after UVB-irradiation remain to be elucidated , microarray analysis may provide a new view of gene expression in epidermal keratinocytes following UVB exposure .",
+    "Successful thrombolysis of a stroke with a pulmonary embolism in a young woman . BACKGROUND : Paradoxical embolism is a rare event , accounting for < 2 % of all arterial emboli . The diagnosis is often difficult , and consequences for the patient can be severe . CASE REPORT : We describe the case of a 35-year-old female physician who presented to our Emergency Department ( ED ) in severe hemodynamic compromise , with an altered level of consciousness and major expressive aphasia 1 day after undergoing a leg varicosal stripping procedure under regional anesthesia . She was successfully thrombolyzed with 0.9 mg/kg of Recombinant Tissue P00747 Activator ( rtPA , DB00009 ) and had a full recovery . CONCLUSION : To our knowledge , this is the first description of a case of massive pulmonary embolism associated with a paradoxical stroke related to patent foramen ovale that was thrombolyzed for both conditions with a \" neurological dose \" of rtPA . Although thrombolysis was completely successful in this case , indications and contraindications should be thoroughly respected . A more conservative approach with anticoagulation , or a more aggressive approach with surgical thrombectomy , can each potentially have a place in particular cases . Intra-arterial catheter-directed thrombolysis and percutaneous embolectomy are additional options to be considered when available , especially if there are contraindications for systemic thrombolysis .",
+    "Fucoxanthin enhances cisplatin-induced cytotoxicity via NFκB-mediated pathway and downregulates DNA repair gene expression in human hepatoma HepG2 cells . Cisplain , a platinum-containing anticancer drug , has been shown to enhance DNA repair and to inhibit cell apoptosis , leading to drug resistance . Thus , the combination of anticancer drugs with nutritional factors is a potential strategy for improving the efficacy of cisplatin chemotherapy . In this study , we investigated the anti-proliferative effects of a combination of fucoxanthin , the major non-provitamin A carotenoid found in Undaria Pinnatifida , and cisplatin in human hepatoma HepG2 cells . We found that fucoxanthin ( 1-10 μΜ ) pretreatment for 24 h followed by cisplatin ( 10 μΜ ) for 24 h significantly decreased cell proliferation , as compared with cisplatin treatment alone . Mechanistically , we showed that fucoxanthin attenuated cisplatin-induced NFκB expression and enhanced the NFκB-regulated Bax/Bcl-2 mRNA ratio . DB00515 alone induced mRNA expression of excision repair cross complementation 1 ( P07992 ) and thymidine phosphorylase ( TP ) through phosphorylation of P29323 , p38 and PI3K/AKT pathways . However , fucoxanthin pretreatment significantly attenuated cisplatin-induced P07992 and TP mRNA expression , leading to improvement of chemotherapeutic efficacy of cisplatin . The results suggest that a combined treatment with fucoxanthin and cisplatin could lead to a potentially important new therapeutic strategy against human hepatoma cells .",
+    "Glioma cell activation by Alzheimer 's peptide Abeta1-42 , alpha1-antichymotrypsin , and their mixture . We compared the effects ofAlzheimer 's peptide ( Abeta1-42 ) , a,-antichymotrypsin ( ACT ) and an ACT/Abeta1-42 mixture on human glioma DK-MG cells . The solution of Abeta ( 5 microM ) formed by 2-h incubation at room temperature induced tumour necrosis factor-alpha ( P01375 ) and interleukin ( IL ) -6 levels by 55 and 45 % , respectively , and increased gelatinase B activity by 67 % , while exposure of cells to the ACT/Abeta1-42 mixture ( 1:10 molar ratio ACT : Abeta1-42 ) under the same experimental conditions showed no effect on P05231 levels or gelatinase B activity , but strongly induced P01375 ( by 190 % ) , compared to the controls . Stimulation of the cells with Abeta1-42 alone , but not with ACT , increased by about 20 % low-density lipoprotein ( LDL ) uptake and mRNA levels for P01130 and P04035 , while the ACT/Abeta1-42 mixture significantly increased LDL uptake ( by 50 % ) , up-regulated mRNA levels for P01130 and P04035 by 48 and 63 % , respectively , and increased lipid accumulation by about 20-fold . These data suggest a possible new role for Abeta in Alzheimer 's disease through its interaction with the inflammatory reactant , ACT .",
+    "Sources contributing to the average extracellular concentration of dopamine in the nucleus accumbens . Mesolimbic dopamine neurons fire in both tonic and phasic modes resulting in detectable extracellular levels of dopamine in the nucleus accumbens ( NAc ) . In the past , different techniques have targeted dopamine levels in the NAc to establish a basal concentration . In this study , we used in vivo fast scan cyclic voltammetry ( FSCV ) in the NAc of awake , freely moving rats . The experiments were primarily designed to capture changes in dopamine caused by phasic firing - that is , the measurement of dopamine ' transients ' . These FSCV measurements revealed for the first time that spontaneous dopamine transients constitute a major component of extracellular dopamine levels in the NAc . A series of experiments were designed to probe regulation of extracellular dopamine . DB00281 was infused into the ventral tegmental area , the site of dopamine cell bodies , to arrest neuronal firing . While there was virtually no instantaneous change in dopamine concentration , longer sampling revealed a decrease in dopamine transients and a time-averaged decrease in the extracellular level . Dopamine transporter inhibition using intravenous GBR12909 injections increased extracellular dopamine levels changing both frequency and size of dopamine transients in the NAc . To further unmask the mechanics governing extracellular dopamine levels we used intravenous injection of the vesicular monoamine transporter ( Q05940 ) inhibitor , tetrabenazine , to deplete dopamine storage and increase cytoplasmic dopamine in the nerve terminals . DB04844 almost abolished phasic dopamine release but increased extracellular dopamine to ∼500 nM , presumably by inducing reverse transport by dopamine transporter ( Q01959 ) . Taken together , data presented here show that average extracellular dopamine in the NAc is low ( 20-30 nM ) and largely arises from phasic dopamine transients .",
+    "Characterization and analysis of Chinese hamster ovary cell P07992 mutant alleles . We isolated and characterized the P07992 coding sequence from three Chinese hamster ovary ( CHO ) parental ( CHO-AA8 , CHO- P01008 -2 and CHO-9 ) and 10 P07992 mutant cell lines . Two general classes of mutations were observed : two mutant cell lines exhibited nucleotide additions or deletions to produce frameshift mutations and seven mutant cell lines exhibited point mutations that resulted in transitions or transversions , including nonsense mutations and mutations that generated intron/exon splicing errors . One mutant ( UV201 ) which had been provisionally assigned to P07992 complementation group 1 ( CG1 ) had no detectable mutation in its coding sequence . Of the nine P07992 mutant alleles characterized two mutations were identified in the XpA binding region of the Ercc1 protein ; no mutations were found in the N-terminal portion of the Ercc1 protein . Results of Northern hybridization analysis showed that the relative levels of P07992 mRNA differed significantly both among the parental cell lines and among the mutant cell lines derived from each parental cell line . Western analysis with a CHO Ercc1-specific antibody detected Ercc1 protein in each of the parental cell lines and also in UV201 . The marked reduction in Ercc1 protein levels observed in all the other mutants examined supports the hypothesis that P07992 mutations may destabilize this polypeptide .",
+    "Increase in proinflammatory cytokines in peripheral blood without haemostatic changes after LPS inhalation . INTRODUCTION : Bronchoalveolar fibrin deposition is a characteristic of various lung disorders including acute lung injury , acute respiratory distress syndrome and sepsis . It is secondary to the activation of coagulation and inhibition of fibrinolysis in the alveolar space , and can be stimulated by lipopolysaccharide ( LPS ) inhalation . The aim of this study was to determine the relation between compartmental stress in the lung and systemic response after LPS inhalation by measuring haemostatic parameters . PATIENTS AND METHODS : 12 healthy subjects underwent a bronchial challenge test with LPS ; sequential dosages were performed for 5 biological markers ( P05231 ( P05231 ) , C-Reactive Protein ( CRP ) , P00734 Fragments 1 and 2 ( F 1+2 ) , cortisol and P00747 Activator Inhibitor 1 ( P05121 ) before endotoxin inhalation and 2 , 4 , 6 , 8 and 24 hours afterwards . RESULTS : P05231 and CRP levels in the peripheral blood were higher after LPS inhalation ; there was no activation of coagulation and no increase in P05121 level . CONCLUSION : This study confirms that despite systemic release of proinflammatory cytokines , LPS inhalation does not induce systemic haemostatic response to LPS challenge .",
+    "Advances in genomic and proteomic studies of non-small-cell lung cancer : clinical and translational research perspective . Recent years have brought tremendous progress in the development of genomic and proteomic platforms to study cancer biology . Tests based on these platforms are helpful in early diagnosis , prognosis , and prediction of treatment benefit . Molecular studies performed on minimally invasive material ( plasma , sputum ) from individuals participating in longitudinal or case-control studies have approximately 70 % -90 % sensitivity and specificity to detect lung cancer . In operable non-small-cell lung cancer , genomic and proteomic studies yield better prognostic information than pathologic staging . There are several examples of successful identification of predictive assays for benefit from chemotherapy ( P07992 , P23921 , P46527 , and p53 expression ) or targeted therapies ( epidermal growth factor receptor [ P00533 ] gene copy number , P00533 activating mutations , P00533 protein expression , serum proteomic profile ) . These markers should be prospectively tested in clinical studies before they can be routinely used in the clinic .",
+    "P15056 inhibitors suppress apoptosis through off-target inhibition of JNK signaling . DB08881 and dabrafenib selectively inhibit the P15056 ( P15056 ) kinase , resulting in high response rates and increased survival in melanoma . Approximately 22 % of individuals treated with vemurafenib develop cutaneous squamous cell carcinoma ( cSCC ) during therapy . The prevailing explanation for this is drug-induced paradoxical P29323 activation , resulting in hyperproliferation . Here we show an unexpected and novel effect of vemurafenib/PLX4720 in suppressing apoptosis through the inhibition of multiple off-target kinases upstream of c-Jun N-terminal kinase ( JNK ) , principally Q9NYL2 . JNK signaling is suppressed in multiple contexts , including in cSCC of vemurafenib-treated patients , as well as in mice . Expression of a mutant Q9NYL2 that can not be inhibited reverses the suppression of JNK activation and apoptosis . Our results implicate suppression of JNK-dependent apoptosis as a significant , independent mechanism that cooperates with paradoxical P29323 activation to induce cSCC , suggesting broad implications for understanding toxicities associated with P15056 inhibitors and for their use in combination therapies . DOI : http://dx.doi.org/10.7554/eLife.00969.001 .",
+    "[ Effect of the monophase oral contraceptive combination with 20 ug ethinyl estradiol/150 ug desogestrel on haemostasis ] . The authors examined the changes in the haemostasis during the use of the oral contraceptive combination with 20 microg ethynil estradiol/150 microg desogestrel at 35 women , a basic group , who used the oral contraceptive in the duration of 12 months and a control group ( n=35 ) , who do not use the pills . We found statistically significant increase of Antithrombin III ( P01008 ) ( p < 0.011 ) , Cofactor II of DB01109 ( HCII ) ( p < 0.001 ) , the activity of plasminogen ( p < 0.026 ) and beta2-antiplasmin ( 0.026 ) , significant decrease of P02810 ( PrC ) ( p < 0.0001 ) and of total Protein S ( TPrS ) ( p < 0.03 ) in the basic group in comparision with the control one . We do not observe significant changes in the rest of the haemostatic variables between the two groups . During the use of the oral contraceptive combination with 20 microg ethynil estradiol/150 microg desogestrel the changes in the system of the natural inhibitors are balanced by these in the system of fibrinolysis .",
+    "Human epidermal Langerhans ' cells are targets for the immunosuppressive macrolide tacrolimus ( FK506 ) . BACKGROUND : The immunosuppressive macrolide tacrolimus ( FK506 ) has been shown to inhibit allergic contact dermatitis in animal models as well as in human beings . More recently , successful treatment of atopic dermatitis with an ointment containing tacrolimus has been reported . OBJECTIVES : We explored the effects of this compound on epidermal Langerhans ' cells ( LCs ) , which are known to play an important pathophysiologic role in inflammatory skin diseases . METHODS : The expression of the intracellular FK506 binding protein ( P62942 ) was monitored on freshly isolated and cultured epidermal LCs . Phenotyping and functional exploration of LCs treated with different concentrations of tacrolimus and beta-methasone valerate ( betaMv ) were performed . RESULTS : P62942 is expressed in freshly isolated LCs but is lost while they are maturating into mature dendritic cells . DB00864 inhibited the expression of IL-2R ( CD25 ) and of the costimulatory molecules P33681 ( P33681 .1 ) and P25942 . Expression of MHC class I and II was also affected , whereas P42081 ( P33681 .2 ) expression was not altered . In contrast , betaMv strongly increased the expression of CD25 . Paradoxically , while decreasing P25942 and MHC class I expression , betaMv significantly increased the expression of MHC class II , P33681 , and P42081 on cultured LCs but impaired their allostimulatory activity . DB00864 was about 100 times more potent than betaMv at inhibiting LC stimulatory function . CONCLUSION : DB00864 can exert immunopharmacologic alterations on LCs , which may account , at least in part , for the therapeutic effect of this compound in eczematous skin diseases .",
+    "[ DB00707 sodium ( Photofrin-II ) ] . DB00707 sodium ( DB00707 ) is a photosensitizer which distributes selectively to tumor tissues , and causes tumor cell death by combination with light irradiation . Photodynamic therapy ( PDT ) by combination of porfimer sodium and laser was developed as a new cancer therapy . Tumor selectivity of porfimer sodium are based on the following reasons ; 1 ) high affinity for lipoprotein , especially , low density lipoprotein ( LDL ) , 2 ) elevation of P01130 activity in cancer tissue , and 3 ) lack or imcompleteness of lymphatic system in cancer tissue . DB00707 sodium is activated by laser irradiation at 630 nm , which can reacts with tissue oxygen to produce highly reactive excited siglet oxygen ( 1O2 ) . This highly reactive molecule is subsequently capable of killing tumor cells through oxidation of cellular component like mitochondrial enzymes . In addition , this highly reactive intermediate causes destruction of the tumor capillaries , which accelerates tumor cell death . The growth suppression or lethal damage to tumor cells by PDT of porfimer sodium and excimer dye laser were observed in experimental tumor models . In human clinical trials , the rates of complete response ( CR ) for roentgenographically occult lung cancer , stage I lung cancer , superficial esophageal cancer , superficial gastric cancer and carcinoma in situ or dysplasia of the cervix were 84.8 % , 50.0 % , 90.0 % , 87.5 % and 94.4 % , respectively . The major side effects were cutaneous symptoms e.g. photosensitivity , pigmentation , increasing GOT , GPT but these symptoms were not severe . PDT using porfimer sodium and excimer dye laser must be clinically useful for the treatment of inoperable early cancer or conservation of organ functions .",
+    "P48061 and [N33A] P48061 in 5637 and HeLa cells : regulating P00533 phosphorylation via calmodulin/calcineurin . In the human neoplastic cell lines 5637 and HeLa , recombinant P48061 elicited , as expected , downstream signals via both G-protein-dependent and β-arrestin-dependent pathways responsible for inducing a rapid and a late wave , respectively , of P27361 /2 phosphorylation . In contrast , the structural variant [N33A] P48061 triggered no β-arrestin-dependent phosphorylation of P27361 /2 , and signaled via G protein-dependent pathways alone . Both P48061 and [N33A] P48061 , however , generated signals that transinhibited P00533 phosphorylation via intracellular pathways . 1 ) Prestimulation of P61073 / P00533 -positive 5637 or HeLa cells with P48061 modified the HB- P01133 -dependent activation of P00533 by delaying the peak phosphorylation of tyrosine 1068 or 1173 . 2 ) Prestimulation with the synthetic variant [N33A] P48061 , while preserving P61073 -related chemotaxis and P61073 internalization , abolished P00533 phosphorylation . 3 ) In cells knockdown of β-arrestin 2 , P48061 induced a full inhibition of P00533 like [N33A] P48061 in non-silenced cells . 4 ) P00533 phosphorylation was restored as usual by inhibiting PCK , calmodulin or calcineurin , whereas the inhibition of CaMKII had no discernable effect . We conclude that both recombinant P48061 and its structural variant [N33A] P48061 may transinhibit P00533 via G-proteins/calmodulin/calcineurin , but [N33A] P48061 does not activate β-arrestin-dependent P27361 /2 phosphorylation and retains a stronger inhibitory effect . Therefore , we demonstrated that P48061 may influence the magnitude and the persistence of signaling downstream of P00533 in turn involved in the proliferative potential of numerous epithelial cancer . In addition , we recognized that [N33A] P48061 activates preferentially G-protein-dependent pathways and is an inhibitor of P00533 .",
+    "Translational research in bipolar disorder : emerging insights from genetically based models . Bipolar disorder ( BPD ) is characterized by vulnerability to episodic depression and mania and spontaneous cycling . Because of marked advances in candidate-gene and genome-wide association studies , the list of risk genes for BPD is growing rapidly , creating an unprecedented opportunity to understand the pathophysiology of BPD and to develop novel therapeutics for its treatment . However , genetic findings are associated with major unresolved issues , including whether and how risk variance leads to behavioral abnormalities . Although animal studies are key to resolving these issues , consensus is needed regarding how to define and monitor phenotypes related to mania , depression and mood swing vulnerability in genetically manipulated rodents . In this study we discuss multiple facets of this challenging area , including theoretical considerations , available tests , limitations associated with rodent behavioral modeling and promising molecular-behavioral findings . These include O15516 , glycogen synthase kinase 3beta ( GSK-3beta ) , glutamate receptor 6 ( Q13002 ) , extracellular signal-regulated kinase-1 ( P27361 ) , p11 ( or P60903 ) , vesicular monoamine transporter 2 ( Q05940 or Q05940 ) , glucocorticoid receptors ( GRs ) , Bcl-2-associated athanogene-1 ( Q99933 ) and mitochondrial DNA polymerase-gamma ( P54098 ) . Some mutant rodent strains show behavioral clusters or activity patterns that cross-species phenocopy objective/observable facets of mood syndromes , and changes in these clustered behaviors can be used as outcome measures in genetic-behavioral research in BPD ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB01101 is a drug used in combination with oxaliplatin and radiotherapy for neoadjuvant treatment of rectal adenocarcinoma.\nDB01101 is capecitabine, an oral fluoropyrimidine-based chemotherapy agent.\nDB00009 is recombinant tissue plasminogen activator (rtPA), used for thrombolysis in stroke and pulmonary embolism.\nDB00514 is dexamethasone, a glucocorticoid receptor agonist.\nDB00707 is porfimer sodium, a photosensitizer used in photodynamic therapy.\nDB00864 is tacrolimus, an immunosuppressive macrolide.\nDB01109 is heparin, an anticoagulant.\nDB01285 is adrenocorticotrophic hormone (ACTH).\nDB04844 is tetrabenazine, a vesicular monoamine transporter inhibitor.\nDB06822 is a low molecular weight heparin pharmaceutical product.\nDB08881 is a P15056 inhibitor used in melanoma treatment.\nDB01101 (capecitabine) is administered orally twice daily in combination with oxaliplatin and radiotherapy.\nNo direct interaction between DB01101 and any of the listed compounds is described in the context.\nThe context does not mention any pharmacological interaction between DB01101 and DB00009, DB00514, DB00707, DB00864, DB01109, DB01285, DB04844, DB06822, or DB08881.\nThe only interaction described in the context involving DB01101 is with oxaliplatin and radiotherapy.\nDB01101 does not interact with any of the listed compounds.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB01101 is a drug used in combination with oxaliplatin and radiotherapy for neoadjuvant treatment of rectal adenocarcinoma",
+    "DB01101 is capecitabine, an oral fluoropyrimidine-based chemotherapy agent",
+    "DB00009 is recombinant tissue plasminogen activator (rtPA), used for thrombolysis in stroke and pulmonary embolism",
+    "DB00514 is dexamethasone, a glucocorticoid receptor agonist",
+    "DB00707 is porfimer sodium, a photosensitizer used in photodynamic therapy",
+    "DB00864 is tacrolimus, an immunosuppressive macrolide",
+    "DB01109 is heparin, an anticoagulant",
+    "DB01285 is adrenocorticotrophic hormone (ACTH)",
+    "DB04844 is tetrabenazine, a vesicular monoamine transporter inhibitor",
+    "DB06822 is a low molecular weight heparin pharmaceutical product",
+    "DB08881 is a P15056 inhibitor used in melanoma treatment",
+    "DB01101 (capecitabine) is administered orally twice daily in combination with oxaliplatin and radiotherapy",
+    "No direct interaction between DB01101 and any of the listed compounds is described in the context",
+    "The context does not mention any pharmacological interaction between DB01101 and DB00009, DB00514, DB00707, DB00864, DB01109, DB01285, DB04844, DB06822, or DB08881",
+    "The only interaction described in the context involving DB01101 is with oxaliplatin and radiotherapy",
+    "DB01101 does not interact with any of the listed compounds"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB01101 is a drug used in combination with oxaliplatin and radiotherapy for neoadjuvant treatment of rectal adenocarcinoma",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB01101 is capecitabine, an oral fluoropyrimidine-based chemotherapy agent",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00009 is recombinant tissue plasminogen activator (rtPA), used for thrombolysis in stroke and pulmonary embolism",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00514 is dexamethasone, a glucocorticoid receptor agonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00707 is porfimer sodium, a photosensitizer used in photodynamic therapy",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00864 is tacrolimus, an immunosuppressive macrolide",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01109 is heparin, an anticoagulant",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01285 is adrenocorticotrophic hormone (ACTH)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB04844 is tetrabenazine, a vesicular monoamine transporter inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB06822 is a low molecular weight heparin pharmaceutical product",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB08881 is a P15056 inhibitor used in melanoma treatment",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB01101 (capecitabine) is administered orally twice daily in combination with oxaliplatin and radiotherapy",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "No direct interaction between DB01101 and any of the listed compounds is described in the context",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "The context does not mention any pharmacological interaction between DB01101 and DB00009, DB00514, DB00707, DB00864, DB01109, DB01285, DB04844, DB06822, or DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "The only interaction described in the context involving DB01101 is with oxaliplatin and radiotherapy",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB01101 does not interact with any of the listed compounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

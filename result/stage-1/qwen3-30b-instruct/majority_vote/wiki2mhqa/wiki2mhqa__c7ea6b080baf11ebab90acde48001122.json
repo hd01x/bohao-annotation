@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__c7ea6b080baf11ebab90acde48001122",
+  "sample_id": "c7ea6b080baf11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the maternal grandmother of Flavia Julia Constantia?",
+  "gold_answer": "Eutropia",
+  "context": [
+    "Flavia Maximiana Theodora, also known as Theodora, was a Roman Empress, wife of Constantius Chlorus. She is often referred to as a stepdaughter of Emperor Maximian by ancient sources, leading to claims by historians Otto Seeck and Ernest Stein that she was born from an earlier marriage between Eutropia, wife of Maximian, and Afranius Hannibalianus. This man was consul in 292 and praetorian prefect under Diocletian. Timothy Barnes challenges this view stating that all \"stepdaughter sources\" derive their information from the partially unreliable work \"Kaisergeschichte\" (written in the 4th century), while more reliable sources refer Theodora as Maximian's natural daughter. He concludes that she was born no later than c. 275 to an unnamed earlier wife of Maximian, possibly one of Hannibalianus' daughters. In 293, Theodora married Flavius Valerius Julius Constantius (later known as Constantius Chlorus), after he had divorced from his first wife, Helena, to strengthen his political position. The couple had six children:",
+    "Hubba bint Hulail was the grandmother of Hashim ibn' Abd Manaf, thus the great- great- great- grandmother of the Islamic\" Nabī\"( Prophet) Muhammad ibn Abdullah.",
+    "Anne Denman( 1587–1661) was born in Olde Hall, Retford, Nottinghamshire. Through a fortunate second marriage with Thomas Aylesbury, she became the grandmother of Lady Anne Hyde, Duchess of York and great- grandmother of Queen Mary II and Queen Anne.",
+    "Hannah Arnold, also known as Hannah Waterman King, was the grandmother of Benedict Arnolds children.",
+    "Mona Hopton Bell( 1867- 1940) was a British artist, best known for her portraits of civic figures. She was the grandmother of the painter Jean H. Bell.",
+    "Flavia Julia Constantia (after 293 – c. 330) was the daughter of the Roman Emperor Constantius Chlorus and his second wife, Flavia Maximiana Theodora. In 313, Emperor Constantine the Great, who was the half-brother of Constantia, gave her in marriage to his co-emperor Licinius, on occasion of their meeting in Mediolanum. She bore a son, Valerius Licinianus Licinius, in 315, and when the struggle between Constantine and Licinius began in 316, she stayed on her husband's side. A second war started between the two emperors in 324; after Licinius' defeat, Constantia interceded with Constantine for her husband's life. Constantine spared Licinius' life, and obliged him to live in Thessalonica as a private citizen, but the following year (325), he ordered that Licinius be killed. A second blow for Constantia was the death, also by order of Constantine, of her son Valerius. In the following years, Constantia lived at her brother's court, receiving honors (her title was \"nobilissima femina\"). Constantia was her brother's favourite sister and proof of such favour is that he minted coins with her image and with the title \"Constantia Soror Constantini AVG,\" or, \"Constantia, Sister of Constantine AugustusAVG\" is an abbreviation of \"Augustus,\" the center consonant being a \"manuscript U,\" not a \"V\"). She converted to Christianity, supporting the Arian party at the First Council of Nicaea (325). The city of Constanţa, Romania is named after her.",
+    "Tjuyu( sometimes transliterated as Thuya or Thuyu) was an Egyptian noblewoman and the mother of queen Tiye, and the wife of Yuya. She is the grandmother of Akhenaten, and great grandmother of Tutankhamun.",
+    "Diana Guardato was a member of the aristocratic Patrician Guardato family, and had three children with King Ferdinand I: Diana Guardato is the 16th- Great Grandmother of His Royal Highness Albert II of Belgium, 15th- Great Grandmother of His Majesty Juan Carlos I of Spain, 17th- Great Grandmother of Philippe of Belgium, 14th- Great Grandmother of His Majesty Manuel II of Portugal, 16th- Great Grandmother of Grand Duke Henri, as well as many others.",
+    "Purnima Das Verma( born Meherbhano Mohammad Ali) was an Indian film actress who worked predominantly in Hindi language films. She is the grandmother of actor Emraan Hashmi.",
+    "After the elections of 2009, she became more widely known as the grandmother of Prime Minister Yukio Hatoyama and his politician brother Kunio Hatoyama."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFlavia Julia Constantia was the daughter of Roman Emperor Constantius Chlorus and his second wife, Flavia Maximiana Theodora.\nFlavia Maximiana Theodora was the wife of Constantius Chlorus.\nThe maternal grandmother of Flavia Julia Constantia is the mother of Flavia Maximiana Theodora.\nThe mother of Flavia Maximiana Theodora is not explicitly named in the provided text.\nThe identity of Flavia Maximiana Theodora's mother is not specified.\nThe maternal grandmother of Flavia Julia Constantia is not stated.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Flavia Julia Constantia was the daughter of Roman Emperor Constantius Chlorus and his second wife, Flavia Maximiana Theodora",
+    "Flavia Maximiana Theodora was the wife of Constantius Chlorus",
+    "The maternal grandmother of Flavia Julia Constantia is the mother of Flavia Maximiana Theodora",
+    "The mother of Flavia Maximiana Theodora is not explicitly named in the provided text",
+    "The identity of Flavia Maximiana Theodora's mother is not specified",
+    "The maternal grandmother of Flavia Julia Constantia is not stated"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Flavia Julia Constantia was the daughter of Roman Emperor Constantius Chlorus and his second wife, Flavia Maximiana Theodora",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Flavia Maximiana Theodora was the wife of Constantius Chlorus",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The maternal grandmother of Flavia Julia Constantia is the mother of Flavia Maximiana Theodora",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The mother of Flavia Maximiana Theodora is not explicitly named in the provided text",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The identity of Flavia Maximiana Theodora's mother is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The maternal grandmother of Flavia Julia Constantia is not stated",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

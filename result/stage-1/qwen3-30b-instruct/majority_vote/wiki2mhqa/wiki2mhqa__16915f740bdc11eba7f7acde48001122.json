@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__16915f740bdc11eba7f7acde48001122",
+  "sample_id": "16915f740bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of death of the director of film Romulus And The Sabines?",
+  "gold_answer": "Le Plessis-Bouchard",
+  "context": [
+    "Romulus and the Sabines( Italian: Il ratto delle sabine) is a 1945 Italian comedy film directed by Mario Bonnard and starring Totò, Carlo Campanini and Clelia Matania. It was one of several of Totò's postwar comedies to use elements of neorealism. The film is based on the German comedy( 1884) by and.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "Richard Pottier (6 June 1906, Graz – 2 November 1994, Le Plessis-Bouchard) was an Austrian-born French film director. He was born in the Austro-Hungarian Empire as Ernst Deutsch.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980. He was also the Director General of Police in Punjab.",
+    "Il ratto delle sabine  is an Italian adventure comedy film from 1961, directed by Richard Pottier, written by Edoardo Anton, starring Roger Moore and Jean Marais. The scenario was based on a novel of André Castelot. The film was also known under the title \"L'Enlèvement des Sabines\" (France), \"Il ratto delle sabine\" (Italy), \"Les femmes de Sabine\" (Canada, French title) , \"Der Raub der Sabinerinnen \" (West Germany), \" El rapto de las sabinas\" (Spain), \"Romulus and the Sabines\" (USA), \" O Rapto das Sabinas\" (Portugal)."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRomulus and the Sabines (1945) was directed by Mario Bonnard.\nMario Bonnard is not the director of the 1961 film Il ratto delle sabine.\nThe 1961 film Il ratto delle sabine was directed by Richard Pottier.\nRichard Pottier was born on 6 June 1906 in Graz, Austria.\nRichard Pottier died on 2 November 1994 in Le Plessis-Bouchard, France.\nThe place of death of the director of the film Romulus and the Sabines is Le Plessis-Bouchard.\n<answer> Le Plessis-Bouchard",
+  "predicted_answer": "Le Plessis-Bouchard",
+  "claims": [
+    "Romulus and the Sabines (1945) was directed by Mario Bonnard",
+    "Mario Bonnard is not the director of the 1961 film Il ratto delle sabine",
+    "The 1961 film Il ratto delle sabine was directed by Richard Pottier",
+    "Richard Pottier was born on 6 June 1906 in Graz, Austria",
+    "Richard Pottier died on 2 November 1994 in Le Plessis-Bouchard, France",
+    "The place of death of the director of the film Romulus and the Sabines is Le Plessis-Bouchard"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Romulus and the Sabines (1945) was directed by Mario Bonnard",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Mario Bonnard is not the director of the 1961 film Il ratto delle sabine",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The 1961 film Il ratto delle sabine was directed by Richard Pottier",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Richard Pottier was born on 6 June 1906 in Graz, Austria",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Richard Pottier died on 2 November 1994 in Le Plessis-Bouchard, France",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The place of death of the director of the film Romulus and the Sabines is Le Plessis-Bouchard",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

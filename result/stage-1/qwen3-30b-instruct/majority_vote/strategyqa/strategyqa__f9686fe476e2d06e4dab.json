@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__f9686fe476e2d06e4dab",
+  "sample_id": "f9686fe476e2d06e4dab",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can a computer be programmed entirely in Boolean algebra?",
+  "gold_answer": "yes",
+  "context": [
+    "Boolean algebra is the branch of algebra in which the values of the variables are the truth values true and false, usually denoted 1 and 0 respectively. ",
+    "Mathematics in 1 and 0 is also called binary or machine language.",
+    "Computers are programmed in machine language."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBoolean algebra uses truth values true and false, represented as 1 and 0.\nBinary or machine language is based on the values 1 and 0.\nComputers are programmed in machine language.\nMachine language is a direct implementation of Boolean algebra principles.\nProgramming in machine language is equivalent to programming using Boolean logic.\nA computer can be programmed entirely using Boolean algebra through machine language.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Boolean algebra uses truth values true and false, represented as 1 and 0",
+    "Binary or machine language is based on the values 1 and 0",
+    "Computers are programmed in machine language",
+    "Machine language is a direct implementation of Boolean algebra principles",
+    "Programming in machine language is equivalent to programming using Boolean logic",
+    "A computer can be programmed entirely using Boolean algebra through machine language"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Boolean algebra uses truth values true and false, represented as 1 and 0",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Binary or machine language is based on the values 1 and 0",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Computers are programmed in machine language",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Machine language is a direct implementation of Boolean algebra principles",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Programming in machine language is equivalent to programming using Boolean logic",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A computer can be programmed entirely using Boolean algebra through machine language",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

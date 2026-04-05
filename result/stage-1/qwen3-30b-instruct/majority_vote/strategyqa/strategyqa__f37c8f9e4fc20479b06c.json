@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__f37c8f9e4fc20479b06c",
+  "sample_id": "f37c8f9e4fc20479b06c",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Do white blood cells outnumber red blood cells in the human body?",
+  "gold_answer": "no",
+  "context": [
+    "Red blood cells are about 40-50% of what makes up human blood.",
+    "White blood cells make up about 1% of the blood in a human body."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRed blood cells make up 40-50% of human blood.\nWhite blood cells make up about 1% of human blood.\n40-50% is greater than 1%.\nWhite blood cells do not outnumber red blood cells in the human body.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Red blood cells make up 40-50% of human blood",
+    "White blood cells make up about 1% of human blood",
+    "40-50% is greater than 1%",
+    "White blood cells do not outnumber red blood cells in the human body"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Red blood cells make up 40-50% of human blood",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "White blood cells make up about 1% of human blood",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "40-50% is greater than 1%",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "White blood cells do not outnumber red blood cells in the human body",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

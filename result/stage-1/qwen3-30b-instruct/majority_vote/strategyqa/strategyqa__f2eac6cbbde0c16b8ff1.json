@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__f2eac6cbbde0c16b8ff1",
+  "sample_id": "f2eac6cbbde0c16b8ff1",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Beethoven enjoy listening to EDM?",
+  "gold_answer": "no",
+  "context": [
+    "Ludwig van Beethoven died in 1827.",
+    "EDM originated in the mid-to-late 20th century."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLudwig van Beethoven died in 1827.\nEDM originated in the mid-to-late 20th century.\nThe mid-to-late 20th century is after Beethoven's death.\nBeethoven could not have listened to EDM because it did not exist during his lifetime.\nBeethoven did not enjoy listening to EDM.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Ludwig van Beethoven died in 1827",
+    "EDM originated in the mid-to-late 20th century",
+    "The mid-to-late 20th century is after Beethoven's death",
+    "Beethoven could not have listened to EDM because it did not exist during his lifetime",
+    "Beethoven did not enjoy listening to EDM"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Ludwig van Beethoven died in 1827",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "EDM originated in the mid-to-late 20th century",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The mid-to-late 20th century is after Beethoven's death",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Beethoven could not have listened to EDM because it did not exist during his lifetime",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Beethoven did not enjoy listening to EDM",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

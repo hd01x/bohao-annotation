@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__99eb858b4c9624a71b40",
+  "sample_id": "99eb858b4c9624a71b40",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does a mongoose have natural camouflage for desert?",
+  "gold_answer": "yes",
+  "context": [
+    "The most common fur colors of mongooses are brown and gray.",
+    "The Desert Camouflage color is made of Café Au Lait brown and Pastel Gray."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe most common fur colors of mongooses are brown and gray.\nThe Desert Camouflage color consists of Café Au Lait brown and Pastel Gray.\nCafé Au Lait brown and Pastel Gray are similar to the natural fur colors of mongooses.\nMongooses naturally have fur colors that match the Desert Camouflage color scheme.\nThe natural fur colors of mongooses provide camouflage in desert environments.\nA mongoose has natural camouflage for desert.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The most common fur colors of mongooses are brown and gray",
+    "The Desert Camouflage color consists of Café Au Lait brown and Pastel Gray",
+    "Café Au Lait brown and Pastel Gray are similar to the natural fur colors of mongooses",
+    "Mongooses naturally have fur colors that match the Desert Camouflage color scheme",
+    "The natural fur colors of mongooses provide camouflage in desert environments",
+    "A mongoose has natural camouflage for desert"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The most common fur colors of mongooses are brown and gray",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Desert Camouflage color consists of Café Au Lait brown and Pastel Gray",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Café Au Lait brown and Pastel Gray are similar to the natural fur colors of mongooses",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Mongooses naturally have fur colors that match the Desert Camouflage color scheme",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The natural fur colors of mongooses provide camouflage in desert environments",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A mongoose has natural camouflage for desert",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

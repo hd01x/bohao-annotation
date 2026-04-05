@@ -1,0 +1,133 @@
+{
+  "uid": "strategyqa__a68facab7157ed7e520e",
+  "sample_id": "a68facab7157ed7e520e",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are all the elements plants need for photosynthesis present in atmosphere of Mars?",
+  "gold_answer": "yes",
+  "context": [
+    "Plants need three elements for photosynthesis: Hydrogen, Oxygen, and Carbon.",
+    "The atmosphere of Mars is composed of carbon dioxide, nitrogen, argon, and trace levels of water vapor, oxygen, carbon monoxide, hydrogen and other noble gases."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPlants require hydrogen, oxygen, and carbon for photosynthesis.\nThe atmosphere of Mars contains carbon dioxide, which provides carbon and oxygen.\nTrace levels of water vapor in the Martian atmosphere contain hydrogen and oxygen.\nHydrogen is present in the atmosphere of Mars as part of water vapor.\nOxygen is present in the atmosphere of Mars as part of carbon dioxide and water vapor.\nCarbon is present in the atmosphere of Mars as carbon dioxide.\nAll three elements—hydrogen, oxygen, and carbon—are present in the atmosphere of Mars.\nThe elements plants need for photosynthesis are present in the atmosphere of Mars.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Plants require hydrogen, oxygen, and carbon for photosynthesis",
+    "The atmosphere of Mars contains carbon dioxide, which provides carbon and oxygen",
+    "Trace levels of water vapor in the Martian atmosphere contain hydrogen and oxygen",
+    "Hydrogen is present in the atmosphere of Mars as part of water vapor",
+    "Oxygen is present in the atmosphere of Mars as part of carbon dioxide and water vapor",
+    "Carbon is present in the atmosphere of Mars as carbon dioxide",
+    "All three elements—hydrogen, oxygen, and carbon—are present in the atmosphere of Mars",
+    "The elements plants need for photosynthesis are present in the atmosphere of Mars"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Plants require hydrogen, oxygen, and carbon for photosynthesis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The atmosphere of Mars contains carbon dioxide, which provides carbon and oxygen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Trace levels of water vapor in the Martian atmosphere contain hydrogen and oxygen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Hydrogen is present in the atmosphere of Mars as part of water vapor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Oxygen is present in the atmosphere of Mars as part of carbon dioxide and water vapor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Carbon is present in the atmosphere of Mars as carbon dioxide",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "All three elements—hydrogen, oxygen, and carbon—are present in the atmosphere of Mars",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The elements plants need for photosynthesis are present in the atmosphere of Mars",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

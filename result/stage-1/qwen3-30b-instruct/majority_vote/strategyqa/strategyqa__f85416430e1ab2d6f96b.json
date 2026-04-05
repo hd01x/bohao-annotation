@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__f85416430e1ab2d6f96b",
+  "sample_id": "f85416430e1ab2d6f96b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Shiva's divine dance an ancient physical fitness pose?",
+  "gold_answer": "no",
+  "context": [
+    "In yoga as exercise, the pose called Natarajasara represents Shiva's divine dance",
+    "This pose is new, originating in the early 20th century",
+    "Exercise is an activity that maintains physical fitness"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nShiva's divine dance is represented in yoga as exercise by the pose Natarajasana.\nNatarajasana is a new pose, originating in the early 20th century.\nThe early 20th century is not ancient.\nAn ancient physical fitness pose must have origins in antiquity.\nNatarajasana is not an ancient pose.\nShiva's divine dance, as represented by Natarajasana, is not an ancient physical fitness pose.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Shiva's divine dance is represented in yoga as exercise by the pose Natarajasana",
+    "Natarajasana is a new pose, originating in the early 20th century",
+    "The early 20th century is not ancient",
+    "An ancient physical fitness pose must have origins in antiquity",
+    "Natarajasana is not an ancient pose",
+    "Shiva's divine dance, as represented by Natarajasana, is not an ancient physical fitness pose"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Shiva's divine dance is represented in yoga as exercise by the pose Natarajasana",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Natarajasana is a new pose, originating in the early 20th century",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The early 20th century is not ancient",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "An ancient physical fitness pose must have origins in antiquity",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Natarajasana is not an ancient pose",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Shiva's divine dance, as represented by Natarajasana, is not an ancient physical fitness pose",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

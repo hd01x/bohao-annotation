@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__534cebe828195c3a8f31",
+  "sample_id": "534cebe828195c3a8f31",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is World of Warcraft heavier than a loaf of bread?",
+  "gold_answer": "no",
+  "context": [
+    "World of Warcraft is a piece of software.",
+    "Software is digital.",
+    "Digital items do not have weight. "
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nWorld of Warcraft is a piece of software.\nSoftware is digital.\nDigital items do not have weight.\nA loaf of bread has weight.\nWorld of Warcraft does not have weight.\nA loaf of bread is heavier than World of Warcraft.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "World of Warcraft is a piece of software",
+    "Software is digital",
+    "Digital items do not have weight",
+    "A loaf of bread has weight",
+    "World of Warcraft does not have weight",
+    "A loaf of bread is heavier than World of Warcraft"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "World of Warcraft is a piece of software",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Software is digital",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Digital items do not have weight",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "A loaf of bread has weight",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "World of Warcraft does not have weight",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A loaf of bread is heavier than World of Warcraft",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

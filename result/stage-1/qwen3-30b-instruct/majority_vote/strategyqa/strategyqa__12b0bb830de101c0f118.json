@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__12b0bb830de101c0f118",
+  "sample_id": "12b0bb830de101c0f118",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Bruce Lee absent from the 1964 University of Washington graduation ceremony?",
+  "gold_answer": "yes",
+  "context": [
+    "Bruce Lee enrolled at the University of Washington in 1961.",
+    "Bruce Lee dropped out of college in early 1964.",
+    "Bruce Lee moved to Oakland to live with James Yimm Lee in 1964."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBruce Lee enrolled at the University of Washington in 1961.\nBruce Lee dropped out of college in early 1964.\nDropping out of college means he did not complete his degree.\nGraduation ceremonies are for students who have completed their degree requirements.\nBruce Lee did not complete his degree at the University of Washington.\nBruce Lee was absent from the 1964 University of Washington graduation ceremony.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Bruce Lee enrolled at the University of Washington in 1961",
+    "Bruce Lee dropped out of college in early 1964",
+    "Dropping out of college means he did not complete his degree",
+    "Graduation ceremonies are for students who have completed their degree requirements",
+    "Bruce Lee did not complete his degree at the University of Washington",
+    "Bruce Lee was absent from the 1964 University of Washington graduation ceremony"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bruce Lee enrolled at the University of Washington in 1961",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Bruce Lee dropped out of college in early 1964",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Dropping out of college means he did not complete his degree",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Graduation ceremonies are for students who have completed their degree requirements",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Bruce Lee did not complete his degree at the University of Washington",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Bruce Lee was absent from the 1964 University of Washington graduation ceremony",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

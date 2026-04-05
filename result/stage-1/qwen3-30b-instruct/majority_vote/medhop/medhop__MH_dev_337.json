@@ -1,0 +1,221 @@
+{
+  "uid": "medhop__MH_dev_337",
+  "sample_id": "MH_dev_337",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00010\", \"DB00131\", \"DB00398\", \"DB00744\", \"DB01373\", \"DB01427\", \"DB01454\", \"DB03800\", and \"DB06480\" interacts with DB01656?",
+  "gold_answer": "DB00398",
+  "context": [
+    "Q9NRI5 -binding proteins in neural development , signalling and schizophrenia . In the decade since Disrupted in Schizophrenia 1 ( Q9NRI5 ) was first identified it has become one of the most convincing risk genes for major mental illness . As a multi-functional scaffold protein , Q9NRI5 has multiple identified protein interaction partners that highlight pathologically relevant molecular pathways with potential for pharmaceutical intervention . Amongst these are proteins involved in neuronal migration ( e.g. P05067 , Dixdc1 , P43034 , Q9NXR1 , Q9GZM8 ) , neural progenitor proliferation ( GSK3β ) , neurosignalling ( Q3V6T2 , GSK3β , DB05876 ) and synaptic function ( Kal7 , Q9UKE5 ) . Furthermore , emerging evidence of genetic association ( Q9GZM8 , PCM1 , Q07343 ) and copy number variation ( Q9NXR1 ) implicate several Q9NRI5 -binding partners as risk factors for schizophrenia in their own right . Thus , a picture begins to emerge of Q9NRI5 as a key hub for multiple critical developmental pathways within the brain , disruption of which can lead to a variety of psychiatric illness phenotypes .",
+    "Phosphodiesterase 4B mediates extracellular signal-regulated kinase-dependent up-regulation of mucin P98088 protein by Streptococcus pneumoniae by inhibiting DB02527 -protein kinase A-dependent P28562 phosphatase pathway . Otitis media ( OM ) is the most common childhood bacterial infection and the major cause of conductive hearing loss in children . Mucus overproduction is a hallmark of OM . Streptococcus pneumoniae is the most common gram-positive bacterial pathogen causing OM . Among many mucin genes , P98088 has been found to be greatly up-regulated in the middle ear mucosa of human patients with OM . We previously reported that S. pneumoniae up-regulates P98088 expression in a MAPK P29323 -dependent manner . We also found that MAPK phosphatase-1 ( P28562 ) negatively regulates S. pneumoniae-induced P29323 -dependent P98088 up-regulation . Therapeutic strategies for up-regulating the expression of negative regulators such as P28562 may have significant therapeutic potential for treating mucus overproduction in OM . However , the underlying molecular mechanism by which P28562 expression is negatively regulated during S. pneumoniae infection is unknown . In this study we show that phosphodiesterase 4B ( Q07343 ) mediates S. pneumoniae-induced P98088 up-regulation by inhibiting the expression of a negative regulator P28562 , which in turn leads to enhanced MAPK P29323 activation and subsequent up-regulation of P98088 . Q07343 inhibits P28562 expression in a DB02527 -PKA-dependent manner . DB05876 -specific inhibitor rolipram inhibits S. pneumoniae-induced P98088 up-regulation both in vitro and in vivo . Moreover , we show that Q07343 plays a critical role in P98088 induction . Finally , topical and post-infection administration of rolipram into the middle ear potently inhibited S. pneumoniae-induced P98088 up-regulation . Collectively , these data demonstrate that Q07343 mediates P29323 -dependent up-regulation of mucin P98088 by S. pneumoniae by inhibiting DB02527 -PKA-dependent P28562 pathway . This study may lead to novel therapeutic strategy for inhibiting mucus overproduction .",
+    "Bronchodilators modulate inflammation in chronic obstructive pulmonary disease subjects . Chronic obstructive pulmonary disease ( P48444 ) is characterized by neutrophilic airway inflammation and oxidative stress . Leukotriene B₄ ( LTB₄ ) , a potent proinflammatory mediator , is synthesized by P09917 ( P09917 ) , which is activated by the presence of lipid hydroperoxides resulting from oxidative stress on biological membranes . We proposed to evaluate the effect of a four week treatment with two different bronchodilators of common practice in P48444 treatment , on the production of reactive oxygen species ( ROS ) , in particular superoxide anions , and of LTB₄ by peripheral blood neutrophils obtained from P48444 subjects . 24 subjects among the P48444 outpatients were enrolled , and randomized to receive either formoterol ( 12 μg bid ) or tiotropium ( 18 μg od ) . Peripheral blood neutrophils were obtained at the start and at the end of the treatment , and production of superoxide anions and of LTB₄ were evaluated as previously published . The results obtained showed a decrease in the unstimulated production of superoxide by isolated neutrophils in both groups , but tiotropium only was effective in modulating the production of LTB₄ , while formoterol caused an increased production of superoxide in response to fMLP , when compared to values obtained before treatment . In conclusion , tiotropium showed a better antiinflammatory activity profile when compared to formoterol in a clinical setting , reducing superoxide and LTB₄ production by peripheral neutrophils obtained from P48444 subjects .",
+    "Biochemical properties of V91G calmodulin : A calmodulin point mutation that deregulates muscle contraction in Drosophila . A mutation ( Cam7 ) to the single endogenous calmodulin gene of Drosophila generates a mutant protein with valine 91 changed to glycine ( V91G D- P62158 ) . This mutation produces a unique pupal lethal phenotype distinct from that of a null mutation . Genetic studies indicate that the phenotype reflects deregulation of calcium fluxes within the larval muscles , leading to hypercontraction followed by muscle failure . We investigated the biochemical properties of V91G D- P62158 . The effects of the mutation on free P62158 are minor : DB01373 binding , and overall secondary and tertiary structure are indistinguishable from those of wild type . A slight destabilization of the C-terminal domain is detectable in the calcium-free ( apo- ) form , and the calcium-bound ( holo- ) form has a somewhat lower surface hydrophobicity . These findings reinforce the indications from the in vivo work that interaction with a specific P62158 target(s) underlies the mutant defects . In particular , defective regulation of ryanodine receptor ( RyR ) channels was indicated by genetic interaction analysis . Studies described here establish that the putative P62158 binding region of the Drosophila RyR ( D-RyR ) binds wild-type D- P62158 comparably to the equivalent P62158 -RyR interactions seen for the mammalian skeletal muscle RyR channel isoform ( P21817 ) . The V91G mutation weakens the interaction of both apo- and holo-D- P62158 with this binding region , and decreases the enhancement of the calcium-binding affinity of P62158 that is detectable in the presence of the RyR target peptide . The predicted functional consequences of these changes are consonant with the in vivo phenotype , and indicate that D-RyR is one , if not the major , target affected by the V91G mutation in P62158 .",
+    "Cross-talk between PKA-Cβ and p65 mediates synergistic induction of Q07343 by roflumilast and NTHi . Phosphodiesterase 4B ( Q07343 ) plays a key role in regulating inflammation . DB01656 , a phosphodiesterase (PDE)4-selective inhibitor , has recently been approved for treating severe chronic obstructive pulmonary disease ( P48444 ) patients with exacerbation . However , there is also clinical evidence suggesting the development of tachyphylaxis or tolerance on repeated dosing of roflumilast and the possible contribution of Q07343 up-regulation , which could be counterproductive for suppressing inflammation . Thus , understanding how Q07343 is up-regulated in the context of the complex pathogenesis and medications of P48444 may help improve the efficacy and possibly ameliorate the tolerance of roflumilast . Here we show that roflumilast synergizes with nontypeable Haemophilus influenzae ( NTHi ) , a major bacterial cause of P48444 exacerbation , to up-regulate PDE4B2 expression in human airway epithelial cells in vitro and in vivo . Up-regulated PDE4B2 contributes to the induction of certain important chemokines in both enzymatic activity-dependent and activity-independent manners . We also found that protein kinase A catalytic subunit β ( PKA-Cβ ) and nuclear factor-κB ( NF-κB ) p65 subunit were required for the synergistic induction of PDE4B2 . PKA-Cβ phosphorylates p65 in a DB02527 -dependent manner . Moreover , Ser276 of p65 is critical for mediating the PKA-Cβ-induced p65 phosphorylation and the synergistic induction of PDE4B2 . Collectively , our data unveil a previously unidentified mechanism underlying synergistic up-regulation of PDE4B2 via a cross-talk between PKA-Cβ and p65 and may help develop new therapeutic strategies to improve the efficacy of DB05876 inhibitor .",
+    "Q13639 receptor agonists increase sAPPalpha levels in the cortex and hippocampus of male C57BL/6j mice . BACKGROUND AND PURPOSE : A strategy to treat Alzheimer 's disease ( AD ) is to increase the soluble form of amyloid precursor protein ( sAPPalpha ) , a promnesic protein , in the brain . Because strong evidence supports beneficial effects of 5-hydroxytryptamine 5-HT(4) receptor agonists in memory and learning , we investigated the role of 5-HT(4) receptors on P05067 processing in 8 weeks-old male C57BL/6j mice . EXPERIMENTAL APPROACH : Mice were given , subcutaneously , prucalopride or ML 10302 ( s.c. ) , two highly selective 5-HT(4) receptor agonists and , up to 240 min later , the hippocampus and cortex were analysed by Western blot for sAPPalpha determination . KEY RESULTS : DB06480 ( 5 or 10 mg kg(-1) ) significantly increased sAPPalpha levels in the hippocampus and cortex , but did not modify the expression level of P05067 mRNA as detected by quantitative RT-PCR . A selective 5-HT(4) receptor antagonist , GR125487 ( 1 mg kg(-1) , s.c. ) inhibited prucalopride induced- increase in sAPPalpha levels . In addition , levels of sAPPalpha were increased by ML10302 only at 20 mg kg(-1) and was limited to the cortex . Also , prucalopride increased sAPPalpha levels in the cortex of a transgenic mouse model of AD , expressing the London mutation of P05067 . Furthermore , the combined injection of a selective acetylcholinesterase inhibitor , donepezil and prucalopride induced a synergic increase in sAPPalpha levels in the cortex and hippocampus . CONCLUSIONS AND IMPLICATIONS : Our results demonstrate that the 5-HT(4) receptor plays a key role in the non-amyloidogenic pathway of P05067 metabolism in vivo and give support to the beneficial use of 5-HT(4) agonists for AD treatment .",
+    "Identification of the fused bicyclic 4-amino-2-phenylpyrimidine derivatives as novel and potent DB05876 inhibitors . 2-Phenyl-4-piperidinyl-6,7-dihydrothieno[3,4-d]pyrimidine derivative ( 2 ) was found to be a new DB05876 inhibitor with moderate Q07343 activity ( IC50=150 nM ) . A number of derivatives with a variety of 4-amino substituents and fused bicyclic pyrimidines were synthesized . Among these , 5,5-dioxo-7,8-dihydro-6H-thiopyrano[3,2-d]pyrimidine derivative ( 18 ) showed potent Q07343 inhibitory activity ( IC50=25 nM ) . Finally , N-propylacetamide derivative ( 31b ) was determined as a potent inhibitor for both Q07343 ( IC50=7.5 nM ) and P01375 -α production in mouse splenocytes ( IC50=9.8 nM ) and showed good in vivo anti-inflammatory activity in the LPS-induced lung inflammation model in mice ( ID50=18 mg/kg ) . The binding mode of the new inhibitor ( 31e ) in the catalytic site of Q07343 is presented based on an X-ray crystal structure of the ligand-enzyme complex .",
+    "PEGylation of growth hormone-releasing hormone ( P01286 ) analogues . Synthetically produced GRF1-29 ( DB00010 ) has an amino acid composition identical to the N-terminal 29 amino acids sequence of the natural hypothalamic GHRH1-44 ( Figure 1 ) . It maintains bioactivity in vitro and is almost equally effective in eliciting secretion of endogenous growth hormone in vivo . The main drawbacks associated with the pharmaceutical use of hGRF1-29 relate to its short half-life in plasma , about 10-20 min in humans , which is caused mostly by renal ultrafiltration and enzymatic degradation at the N terminus . PEGylation has been considered as one valid approach to obtain more stable forms of the peptide , with a longer in vivo half-life and ultimately with increased pharmacodynamic response along the somatotropic axis ( endogenous GH , DB01277 levels ) . Different PEGylated P01286 conjugates were obtained and their bioactivity was tested in vitro and in vivo by monitoring endogenous growth hormone ( GH ) serum levels after intravenous ( i.v. ) injection in rats , and intravenous and subcutaneous ( s.c. ) injection in pigs . It was found that P01286 -PEG conjugates are able to bind and activate the human Q02643 , although with different potency . The effect of PEG molecular weight , number of PEG chains bound and position of PEGylation site on P01286 activity were investigated . Mono-PEGylated isomers with a PEG5000 polymer chain linked to Lys 12 or Lys 21 residues , showed high biological activity in vitro , which is similar to that of hGRF1-29 , and a higher pharmacodynamic response as compared to unmodified P01286 molecule .",
+    "Development of pH-responsive fluorescent false neurotransmitters . We introduce pH-responsive fluorescent false neurotransmitters ( pH-responsive FFNs ) as novel probes that act as vesicular monoamine transporter ( VMAT ) substrates and ratiometric fluorescent pH sensors . The development of these agents was achieved by systematic molecular design that integrated several structural elements , including the aminoethyl group ( VMAT recognition ) , halogenated hydroxy-coumarin core ( ratiometric optical pH sensing in the desired pH range ) , and N- or C-alkylation ( modulation of lipophilicity ) . Of 14 compounds that were synthesized , the probe Mini202 was selected based on the highest uptake in Q05940 -transfected P29320 cells and desirable optical properties . Using Mini202 , we measured the pH of catecholamine secretory vesicles in PC-12 cells ( pH approximately 5.9 ) via two-photon fluorescence microscopy . Incubation with methamphetamine led to an increase in vesicular pH ( pH approximately 6.4 ) , consistent with a proposed mechanism of action of this psychostimulant , and eventually to redistribution of vesicular content ( including Mini202 ) from vesicles to cytoplasm . Mini202 is sufficiently bright , photostable , and suitable for two-photon microscopy . This probe will enable fundamental neuroscience and neuroendocrine research as well as drug screening efforts .",
+    "Genetic analysis of 56 polymorphisms in 17 genes involved in methionine metabolism in patients with abdominal aortic aneurysm . BACKGROUND : Previous studies suggested an association between abdominal aortic aneurysm ( AAA ) and hyperhomocysteinaemia , a complex trait determined by genetic and environmental factors . Our hypothesis was that polymorphisms in genes directly or indirectly involved in methionine metabolism may contribute to AAA susceptibility . METHOD : We studied 56 polymorphisms in P42898 , Q99707 , Q9UBK8 , P35520 , P11586 , P41440 , P40261 , P20062 , P23526 , Q93088 , Q9H2M3 , Q04609 , P04818 , Q7L5Y1 , P34896 , P27169 , Q15165 genes according to their demonstrated/putative function , localisation in promoter or regulatory and coding regions and/or heterozygosity values > 0.300 . Polymorphisms were evaluated by using a primer extension based microarray technology in 423 AAA patients and 423 matched controls . RESULTS : All polymorphisms resulted in Hardy-Weinberg equilibrium in patients and controls . At the multiple logistic regression analysis adjusted for traditional cardiovascular risk factors ( sex , age , hypertension , smoking habit , dyslipidaemia , diabetes ) and chronic obstructive pulmonary disease ( P48444 ) , rs8003379 P11586 ( odds ratio ( OR ) 0.41 , 95 % confidence interval ( CI ) 0.26 to 0.65 ) and rs326118 Q9UBK8 ( OR 0.47 , 95 % CI 0.29 to 0.77 ) polymorphisms resulted in independent susceptibility factor for AAA . CONCLUSIONS : After haplotype reconstruction , logistic regression analyses adjusted for traditional risk factors and P48444 showed a significant association among AAA and P23526 , Q04609 , P11586 , Q99707 , P40261 , P27169 and P04818 haplotypes . Our findings offer new insights into the pathogenesis of AAA .",
+    "Inhibition of angiogenic and non-angiogenic targets by sorafenib in renal cell carcinoma ( RCC ) in a RCC xenograft model . BACKGROUND : It is widely recognised that sorafenib inhibits a range of molecular targets in renal cell carcinoma ( RCC ) . In this study , we aim to use patient-derived RCC xenografts to delineate the angiogenic and non-angiogenic molecular targets of sorafenib therapy for advanced RCC ( aRCC ) . METHODS : We successfully generated three patient RCC-derived xenografts in severe combined immunodeficient mice , consisting of three different RCC histological subtypes : conventional clear cell , poorly differentiated clear cell RCC with sarcomatoid changes , and papillary RCC . This study also used clear cell RCC cells ( 786-0/EV ) harbouring mutant P40337 to investigate the clonogenic survival of cells transfected with survivin sense and antisense oligonucleotides . RESULTS : All three xenografts retain their original histological characteristics . We reported that sorafenib inhibited all three RCC xenograft lines regardless of histological subtypes in a dose-dependant manner . DB00398 -induced growth suppression was associated with not only inhibition of angiogenic targets p- P09619 -β , p- P35968 , and their downstream signalling pathways p-Akt and p- P29323 , cell cycle , and anti-apoptotic proteins that include cyclin D1 , cyclin B1 , and survivin but also upregulation of proapoptotic Bim . Survivin knockdown by survivin-specific antisense-oligonucleotides inhibited colony formation and induced cell death in clear cell RCC cells . CONCLUSION : This study has shed light on the molecular mechanisms of sorafenib in RCC . Inhibition of non-angiogenic molecules by sorafenib could contribute in part to its anti-tumour activities observed in vivo , in addition to its anti-angiogenic effects .",
+    "Serotonin neurotoxins -- past and present . Autoxidation pathways and redox reactions of dihydroxytryptamines ( 5,6- and 5,7- DB02901 ) and of 6-hydroxydopamine ( 6-OH-DA ) are illustrated , and their potential role in aminergic neurotoxicity is discussed . It is proposed that certain aspects of the cytotoxicity of 6-OH-DA and of the DHTs , namely redox cycling of their quinone- and quinoneimine-intermediates as a source of free radicals , may also apply to quinoidal reactive intermediates and to glutathionyl- or cysteinyl conjugates ( \" thioether adducts \" ) of o-dihydroxylated ( catechol-like ) metabolites of certain substituted amphetamines ( of methylenedioxymethamphetamine ( DB01454 ) and of methylenedioxyamphetamine ( MDA ) ) . Despite similarities in their primary interaction with the plasmalemmal ( serotonergic transporter/dopamine transporter , P31645 / Q01959 ) and vesicular monoamine transporters ( Q05940 ) , DB01454 and fenfluramine ( N-ethyl-meta-trifluoromethamphetamine , Fen ) differ substantially in many aspects of their metabolism , pharmacokinetics , pharmacology , and neurotoxicology profile ; the consequences of these differences for neuronal response patterns and long-term survival prospects are not yet fully understood . However , sustained hyperthermia appears to be a critical factor in these differences . Methodological requirements for adequate detection and description of pre- and postsynaptic forms of drug-induced neurotoxicity are exemplified using recently published accounts . The inclusion of microglial markers into research strategies has widened contemporary pathogenetic concepts on methamphetamine ( MA ) -induced neurotoxicity as an example of inflammatory neurodegeneration , thus complementing the traditional ROS and RNS-dependent stress models . Amphetamine-type neurotoxicity studies may assist in elaborating of preventive strategies for human neurodegenerative disorders .",
+    "DB00131 cyclase 1 ( Q08828 ) mutations cause recessive hearing impairment in humans and defects in hair cell function and hearing in zebrafish . DB02527 ( DB02527 ) production , which is important for mechanotransduction within the inner ear , is catalyzed by adenylate cyclases ( AC ) . However , knowledge of the role of ACs in hearing is limited . Previously , a novel autosomal recessive non-syndromic hearing impairment locus DFNB44 was mapped to chromosome 7p14.1-q11.22 in a consanguineous family from Pakistan . Through whole-exome sequencing of DNA samples from hearing-impaired family members , a nonsense mutation c.3112C > T ( p.Arg1038* ) within adenylate cyclase 1 ( Q08828 ) was identified . This stop-gained mutation segregated with hearing impairment within the family and was not identified in ethnically matched controls or within variant databases . This mutation is predicted to cause the loss of 82 amino acids from the carboxyl tail , including highly conserved residues within the catalytic domain , plus a calmodulin-stimulation defect , both of which are expected to decrease enzymatic efficiency . Individuals who are homozygous for this mutation had symmetric , mild-to-moderate mixed hearing impairment . Zebrafish adcy1b morphants had no FM1-43 dye uptake and lacked startle response , indicating hair cell dysfunction and gross hearing impairment . In the mouse , Adcy1 expression was observed throughout inner ear development and maturation . Q08828 was localized to the cytoplasm of supporting cells and hair cells of the cochlea and vestibule and also to cochlear hair cell nuclei and stereocilia . Ex vivo studies in COS-7 cells suggest that the carboxyl tail of Q08828 is essential for localization to actin-based microvilli . These results demonstrate that Q08828 has an evolutionarily conserved role in hearing and that DB02527 signaling is important to hair cell function within the inner ear .",
+    "P01286 as an agonist of the ghrelin receptor GHS-R1a . Ghrelin synergizes with growth hormone-releasing hormone ( P01286 ) to potentiate growth hormone ( GH ) response through a mechanism not yet fully characterized . This study was conducted to analyze the role of P01286 as a potential ligand of the ghrelin receptor , GHS-R1a . The results show that hGHRH(1-29)NH(2) ( P01286 ) induces a dose-dependent calcium mobilization in P29320 293 cells stably transfected with GHS-R1a an effect not observed in wild-type P29320 293 cells . This calcium rise is also observed using the Q02643 agonists JI-34 and JI-36 . Radioligand binding and cross-linking studies revealed that calcium response to P01286 is mediated by the ghrelin receptor GHS-R1a . P01286 activates the signaling route of inositol phosphate and potentiates the maximal response to ghrelin measured in inositol phosphate turnover . The presence of P01286 increases the binding capacity of (125)I-ghrelin in a dose dependent-fashion showing a positive binding cooperativity . In addition , confocal microscopy in CHO cells transfected with GHS-R1a tagged with enhanced green fluorescent protein shows that P01286 activates the GHS-R1a endocytosis . Furthermore , the selective P01286 -R antagonists , JV-1-42 and JMR-132 , act also as antagonists of the ghrelin receptor GHS-R1a . Our findings suggest that P01286 interacts with ghrelin receptor GHS-R1a , and , in consequence , modifies the ghrelin-associated intracellular signaling pathway . This interaction may represent a form of regulation , which could play a putative role in the physiology of GH regulation and appetite control .",
+    "Phosphodiesterase-4 influences the PKA phosphorylation status and membrane translocation of G-protein receptor kinase 2 ( P25098 ) in P29320 -293beta2 cells and cardiac myocytes . Membrane-recruitment of P25098 ( G-protein receptor kinase 2 ) provides a fundamental step in the desensitization process controlling GPCRs ( G-protein-coupled receptors ) , such as the beta2AR ( beta2-adrenergic receptor ) . In the present paper , we show that challenge of P29320 -293beta2 [ human embryonic kidney cells stably overexpressing the FLAG-tagged beta2AR-GFP ( green fluorescent protein ) ] cells with the beta-adrenoceptor agonist , isoprenaline , causes P25098 to become phosphorylated by PKA ( DB02527 -dependent protein kinase ) . This action is facilitated when DB02527 -specific DB05876 ( phosphodiesterase-4 ) activity is selectively inactivated , either chemically with rolipram or by siRNA ( small interfering RNA ) -mediated knockdown of Q07343 and Q08499 . DB05876 -selective inhibition by rolipram facilitates the isoprenaline-induced membrane translocation of P25098 , phosphorylation of the beta2AR by P25098 , membrane translocation of beta-arrestin and internalization of beta2ARs . DB05876 -selective inhibition also enhances the ability of isoprenaline to trigger the PKA phosphorylation of P25098 in cardiac myocytes . In the absence of isoprenaline , rolipram-induced inhibition of DB05876 activity in P29320 -293beta2 cells acts to stimulate PKA phosphorylation of P25098 , with consequential effects on P25098 membrane recruitment and P25098 -mediated phosphorylation of the beta2AR . We propose that a key role for DB05876 enzymes is : ( i ) to gate the action of PKA on P25098 , influencing the rate of P25098 phosphorylation of the beta2AR and consequential recruitment of beta-arrestin subsequent to beta-adrenoceptor agonist challenge , and ( ii ) to protect P25098 from inappropriate membrane recruitment in unstimulated cells through its phosphorylation by PKA in response to fluctuations in basal levels of DB02527 .",
+    "Genomic structure and chromosome location of the murine Q01064 phosphodiesterase gene . Cyclic nucleotide phosphodiesterases ( PDEs ) catalyze the hydrolysis of DB02527 and cGMP , thereby participating in regulation of the intracellular concentrations of these second messengers . The PDE1 family is defined by regulation of activity by calcium and calmodulin . We have cloned and characterized the mouse Q01064 gene , which encodes the 63-kDa calcium/calmodulin-dependent PDE ( P62158 -PDE ) , an isozyme that is expressed in the CNS in the olfactory tract , dentate gyrus , and striatum and may participate in learning , memory , and regulation of phosphorylation of Q9UD71 in dopaminergic neurons . We screened an I-129/SvJ mouse genomic library and identified exons 2-13 of the Q01064 gene that span 8.4 kb of genomic DNA . Exons range from 67 to 205 nucleotides and introns from 91 to 2250 nucleotides in length . Exon 1 was not present in the 3 kb of genomic DNA 5' to exon 2 in our clones . The mouse Q01064 gene shares many similar or identical exon boundaries as well as considerable sequence identity with the rat Q07343 and Q08499 genes and the Drosophila dunce DB02527 -specific PDE gene dnc , suggesting that these genes all arose from a common ancestor . Using fluorescence in situ hybridization , we localized the Q01064 gene to the distal tip of mouse Chromosome ( Chr ) 15 .",
+    "Effects of DB00482 and DB00744 on liver metastasis and lipidperoxidation in pancreatic cancer in Syrian hamsters . Selective inhibition of eicosanoid synthesis is thought to have effects on carcinogenesis in lung and colon cancer . However , it is still unknown whether pancreatic cancer might also be influenced . Therefore we evaluated the impact of selective cyclooxygenase-2 inhibitor DB00482 and selective P09917 inhibitor DB00744 on liver metastasis in a solid model of pancreatic adenocarcinoma in Syrian hamster . In week 33 , the animals were sacrificed and incidence of pancreatic carcinomas and number and size of liver metastases were determined . Activities of antioxidative enzymes ( GSHPX/SOD ) and concentrations of products of lipidperoxidation were measured in liver metastases and non-metastatic hepatic tissue . The incidence ( 54.5 vs. 100 % ) , number ( 3.17 +/- 0.98 vs. 6.75 +/- 0.71 ) and size ( 2.67 +/- 1.97 vs. 11.75 +/- 1.98 mm2 ) of liver metastases were decreased by combined therapy of DB00744 and DB00482 ( P < 0.05 ) . Furthermore , activities of GSHPX ( [ 73.77 +/- 5.67 ] *10(5) vs. [ 15.49 +/- 4.02 ] *10(5) U/mg prot. ; P < 0.05 ) and SOD ( 474.92 +/- 108.8 vs. 127.89 +/- 38.75 U/mg prot. ; P < 0.05 ) were increased , while lipidperoxidation ( 0.31 +/- 0.08 nmol/mg prot. vs. 1.54 +/- 0.55 nmol/mg prot. ; P < 0.05 ) was decreased by combination therapy , in non-metastatic hepatic tissue . Moreover , combined therapy increased lipidperoxidation in liver metastases ( 0.47 +/- 0.09 vs. 1.95 +/- 0.12 nmol/mg prot. ; P < 0.05 ) . Thus , a combination of DB00482 and DB00744 might be a new concept to decrease tumour growth in liver metastases in advanced pancreatic cancer .",
+    "Trichinella spiralis and Trichinella pseudospiralis : developmental patterns of enzymes involved in thymidylate biosynthesis and pyrimidine salvage . P04818 , dihydrofolate reductase and P33316 specific activities were found to remain at a high and constant level in crude extracts from adult worms of Trichinella spiralis , as well as from muscle larvae of both Trichinella spiralis ( isolated 1-24 months after infection ) and Trichinella pseudospiralis ( isolated 5.5-13 months after infection ) . The results obtained with Trichinella pseudospiralis muscle larvae isolated with the use of pepsin did not differ from those obtained when pepsin was not used . No thymidine kinase activity could be detected in muscle larvae of either species and thymidine phosphorylase could be found only in T. pseudospiralis larvae isolated without the use of pepsin . Muscle larvae of both species contained orotidylate phosphoribosyl transferase activity , pointing to a possibility of 5-fluorouracil activation . DB02745 phosphorylase , another enzyme involved in 5-fluorouracil anabolism , was also present in T. pseudospiralis muscle larvae . Results of comparative studies on inhibition of purified T. spiralis and rat thymidylate synthases by substrate ( 4-thio-5-fluoro- DB03800 , 2-thio-5-fluoro-dCMP and N4-hydroxy-dCMP ) and cofactor ( ZD 9331 ) analogues indicated only DB03800 analogues to show feeble selectivity towards the parasite enzyme . A hypothesis is discussed , assuming high expression of thymidylate synthase in muscle larvae to be connected with their cells being arrested in the cell cycle .",
+    "Characterization of the human adenylyl cyclase gene family : cDNA , gene structure , and tissue distribution of the nine isoforms . The membrane-bound adenylyl cyclases ( ACs ) represent one of the major families of effector enzymes for G protein-coupled receptors . Eight human AC isoforms , encoded by separate genes , have been identified up to now . However , in several cases only partial cDNA sequences are available ( Q08828 ,2,5 ) . A ninth expected isoform , the human ortholog of rat Q8NFM4 , has not been described yet . Using the high inter-species homology of mammalian AC isoforms , we searched the human genome and we succeeded to identify full-length coding sequences for all enzymes . Where required , missing sequence information was provided experimentally . Analysis of genomic sequences from the Celera database also allowed us to determine the exon-intron boundaries for Q08828 -9 and to establish the gene structures . We found that human AC genes comprise 11 to 26 exons , which are distributed over 16 to 430kb . We further report expression profiles for the nine ACs in a panel of 16 human tissues and in human embryonic kidney ( P29320 ) cells .",
+    "Phosphodiesterase 4 inhibitor cilomilast inhibits fibroblast-mediated collagen gel degradation induced by tumor necrosis factor-alpha and neutrophil elastase . Tissue destruction , resulting in emphysema , can be a consequence of several pathologic processes . The current study evaluated the effects of the phosphodiesterase (PDE)4 inhibitor , cilomilast , and other PDE inhibitors on the ability of fibroblasts to degrade extracellular matrix . Using the three-dimensional collagen gel culture system , fibroblasts ( HFL-1 ) were cultured with tumor necrosis factor ( P01375 ) -alpha , known to induce matrix metalloproteinase ( MMP ) release , and/or neutrophil elastase ( NE ) , which can induce MMP activation . On Day 4 , gels containing P01375 and NE were significantly degraded ( 20.8 +/- 2.9 % of original collagen content ) . DB03849 ( 10 micro M ) inhibited this degradation ( 84.4 +/- 8.4 % ) . DB01427 , a PDE3 inhibitor , and zaprinast , a O76074 inhibitor , had no effect . Gelatin zymography and immunoblotting revealed that fibroblasts cultured with P01375 released increased amounts of latent P03956 and -9 . The addition of NE resulted in the conversion of P03956 and -9 to their active forms , indicative of collagen degradation . DB03849 inhibited the release of P03956 and -9 , as well as conversion of P03956 to its active form . Using real-time PCR analysis , cilomilast 's effect on P03956 release was not associated with the proteinase 's mRNA expression , suggesting that the inhibition of release is regulated at the post-transcriptional level . These results suggest that cilomilast may be a potentially effective therapeutic agent in diseases characterized by excessive tissue destruction , such as emphysema ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB01656 is a phosphodiesterase (PDE)4-selective inhibitor approved for treating severe chronic obstructive pulmonary disease (P48444).\nDB01656 is mentioned in the context of synergistic induction of Q07343 by roflumilast and NTHi.\nDB01656 is not directly linked to any of the listed compounds in the provided text.\nDB00010 is a synthetic GRF1-29 analog, not related to DB01656.\nDB00131 is a cyclase 1 (Q08828) mutation associated with hearing impairment, not linked to DB01656.\nDB00398 is a compound that induces growth suppression in renal cell carcinoma, not connected to DB01656.\nDB00744 is a selective P09917 inhibitor used in pancreatic cancer, not linked to DB01656.\nDB01373 is a calmodulin-binding protein, not associated with DB01656.\nDB01427 is a PDE3 inhibitor, not interacting with DB01656.\nDB01454 is methylenedioxymethamphetamine, a serotonin neurotoxin, not linked to DB01656.\nDB03800 is a substrate analogue for thymidylate synthase, unrelated to DB01656.\nDB06480 is a 5-HT(4) receptor agonist that increases sAPPalpha levels, not interacting with DB01656.\nNo interaction between DB01656 and any of the listed compounds is described in the text.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB01656 is a phosphodiesterase (PDE)4-selective inhibitor approved for treating severe chronic obstructive pulmonary disease (P48444)",
+    "DB01656 is mentioned in the context of synergistic induction of Q07343 by roflumilast and NTHi",
+    "DB01656 is not directly linked to any of the listed compounds in the provided text",
+    "DB00010 is a synthetic GRF1-29 analog, not related to DB01656",
+    "DB00131 is a cyclase 1 (Q08828) mutation associated with hearing impairment, not linked to DB01656",
+    "DB00398 is a compound that induces growth suppression in renal cell carcinoma, not connected to DB01656",
+    "DB00744 is a selective P09917 inhibitor used in pancreatic cancer, not linked to DB01656",
+    "DB01373 is a calmodulin-binding protein, not associated with DB01656",
+    "DB01427 is a PDE3 inhibitor, not interacting with DB01656",
+    "DB01454 is methylenedioxymethamphetamine, a serotonin neurotoxin, not linked to DB01656",
+    "DB03800 is a substrate analogue for thymidylate synthase, unrelated to DB01656",
+    "DB06480 is a 5-HT(4) receptor agonist that increases sAPPalpha levels, not interacting with DB01656",
+    "No interaction between DB01656 and any of the listed compounds is described in the text"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB01656 is a phosphodiesterase (PDE)4-selective inhibitor approved for treating severe chronic obstructive pulmonary disease (P48444)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB01656 is mentioned in the context of synergistic induction of Q07343 by roflumilast and NTHi",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB01656 is not directly linked to any of the listed compounds in the provided text",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00010 is a synthetic GRF1-29 analog, not related to DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00131 is a cyclase 1 (Q08828) mutation associated with hearing impairment, not linked to DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00398 is a compound that induces growth suppression in renal cell carcinoma, not connected to DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00744 is a selective P09917 inhibitor used in pancreatic cancer, not linked to DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01373 is a calmodulin-binding protein, not associated with DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB01427 is a PDE3 inhibitor, not interacting with DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB01454 is methylenedioxymethamphetamine, a serotonin neurotoxin, not linked to DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB03800 is a substrate analogue for thymidylate synthase, unrelated to DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB06480 is a 5-HT(4) receptor agonist that increases sAPPalpha levels, not interacting with DB01656",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "No interaction between DB01656 and any of the listed compounds is described in the text",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

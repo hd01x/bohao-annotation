@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__c4f5ca80089611ebbd76ac1f6bf848b6",
+  "sample_id": "c4f5ca80089611ebbd76ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who is older, A Medal For Benny or King Of Chinatown?",
+  "gold_answer": "A Medal For Benny",
+  "context": [
+    "Nick Grindé( January 12, 1893 – June 19, 1979) was an American film director and screenwriter. He directed 57 films between 1928 and 1945.",
+    "Donaldina Cameron( July 26, 1869 – January 4, 1968) was a pioneer in the fight against slavery as a Presbyterian missionary in San Francisco's Chinatown, who helped more than 2,000 Chinese immigrant girls and women escape from forced prostitution and indentured servitude. She was known as\" Fahn Quai,\" or the “ White Devil ” of Chinatown, as well as the\" Angry Angel of Chinatown.\"",
+    "Irving Pichel( June 24, 1891 – July 13, 1954) was an American actor and film director, who won acclaim both as an actor and director in his Hollywood career.",
+    "A Medal for Benny is a 1945 American film directed by Irving Pichel. The story was conceived by writer Jack Wagner, who enlisted his long- time friend John Steinbeck to help him put it into script form. The film was released by Paramount Pictures. The film is also known as\" Benny's Medal\".",
+    "King of Chinatown is a 1939 American crime film directed by Nick Grinde and written by Lillie Hayward and Irving Reis. The film stars Anna May Wong, Akim Tamiroff, J. Carrol Naish, Sidney Toler, Philip Ahn, Anthony Quinn and Bernadene Hayes. The film was released on March 17, 1939, by Paramount Pictures.",
+    "Dan Milne is a British actor/ director who is possibly best known for his role in\" EastEnders\".",
+    "Elliot Silverstein( born August 3, 1927, in Boston, Massachusetts) is an American director, who is best known for being the director of the movie\" Cat Ballou\"( 1965).",
+    "Ben Palmer is a British film and television director who is known for being the director of\" Bo' Selecta\" and\" The Inbetweeners\".",
+    "Kakaalaneo was the Moi of Maui. He was the titular chieftain or king of the island of Maui.",
+    "Scott Fox is a pornographic film director who is a member of the AVN Hall of Fame."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA Medal for Benny was directed by Irving Pichel.\nIrving Pichel was born on June 24, 1891.\nKing of Chinatown was directed by Nick Grindé.\nNick Grindé was born on January 12, 1893.\n1891 is earlier than 1893.\nIrving Pichel is older than Nick Grindé.\nThe film directed by the older director is A Medal for Benny.\n<answer> A Medal for Benny",
+  "predicted_answer": "A Medal for Benny",
+  "claims": [
+    "A Medal for Benny was directed by Irving Pichel",
+    "Irving Pichel was born on June 24, 1891",
+    "King of Chinatown was directed by Nick Grindé",
+    "Nick Grindé was born on January 12, 1893",
+    "1891 is earlier than 1893",
+    "Irving Pichel is older than Nick Grindé",
+    "The film directed by the older director is A Medal for Benny"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A Medal for Benny was directed by Irving Pichel",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Irving Pichel was born on June 24, 1891",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "King of Chinatown was directed by Nick Grindé",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Nick Grindé was born on January 12, 1893",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1891 is earlier than 1893",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "Irving Pichel is older than Nick Grindé",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The film directed by the older director is A Medal for Benny",
+      "claim_type": "DR"
+    }
+  ]
+}

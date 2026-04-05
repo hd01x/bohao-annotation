@@ -1,0 +1,149 @@
+{
+  "uid": "strategyqa__cda79ce499af9dae8ffb",
+  "sample_id": "cda79ce499af9dae8ffb",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Nicole Kidman ideal choice to play Psylocke based on height and weight?",
+  "gold_answer": "yes",
+  "context": [
+    "Psylocke is a Marvel super hero whose real name is Betsy Braddock.",
+    "Betsy Braddock is 5'11 and 155 lbs.",
+    "Actress Nicole Kidman is 5'11 and weighs 137 lbs.",
+    "Actresses gain weight all the time for roles, such as Charlize Theron who gained 30 pounds for the movie Monster."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPsylocke's real name is Betsy Braddock.\nBetsy Braddock is 5'11 and 155 lbs.\nNicole Kidman is 5'11 and weighs 137 lbs.\nNicole Kidman's height matches Betsy Braddock's height.\nNicole Kidman's weight is 18 lbs less than Betsy Braddock's weight.\nActresses often gain weight for roles, such as Charlize Theron gaining 30 pounds for Monster.\nNicole Kidman can gain weight for a role if needed.\nNicole Kidman's height and weight are close enough to Betsy Braddock's for a casting consideration.\nNicole Kidman is an ideal choice to play Psylocke based on height and weight.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Psylocke's real name is Betsy Braddock",
+    "Betsy Braddock is 5'11 and 155 lbs",
+    "Nicole Kidman is 5'11 and weighs 137 lbs",
+    "Nicole Kidman's height matches Betsy Braddock's height",
+    "Nicole Kidman's weight is 18 lbs less than Betsy Braddock's weight",
+    "Actresses often gain weight for roles, such as Charlize Theron gaining 30 pounds for Monster",
+    "Nicole Kidman can gain weight for a role if needed",
+    "Nicole Kidman's height and weight are close enough to Betsy Braddock's for a casting consideration",
+    "Nicole Kidman is an ideal choice to play Psylocke based on height and weight"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Psylocke's real name is Betsy Braddock",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Betsy Braddock is 5'11 and 155 lbs",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Nicole Kidman is 5'11 and weighs 137 lbs",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Nicole Kidman's height matches Betsy Braddock's height",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Nicole Kidman's weight is 18 lbs less than Betsy Braddock's weight",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Actresses often gain weight for roles, such as Charlize Theron gaining 30 pounds for Monster",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Nicole Kidman can gain weight for a role if needed",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Nicole Kidman's height and weight are close enough to Betsy Braddock's for a casting consideration",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "Nicole Kidman is an ideal choice to play Psylocke based on height and weight",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

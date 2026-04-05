@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__0d4b4cfc0bde11eba7f7acde48001122",
+  "sample_id": "0d4b4cfc0bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which country Ronald Dewolf's father is from?",
+  "gold_answer": "American",
+  "context": [
+    "Baglan Mailybayev( in Kazakh Бағлан Асаубайұлы Майлыбаев) was born on 20 May 1975 in Zhambyl region, Kazakhstan. His nationality is Kazakh. He is a politician of the Republic of Kazakhstan, Deputy Head of the Presidential Administration of the Republic of Kazakhstan, Doctor of Law( 2002)( under the supervision of Professor Zimanov S.Z.- scientific advisor and academician of National Academy of Sciences of the Republic of Kazakhstan) and Ph.D. in Political Science( 1998).",
+    "The following is a list of Victoria Cross recipients whose nationality is uncertain.",
+    "Ali Khalifa Rahuma( born May 16, 1982) is a Libyan football midfielder who's nationality is Libyan. He currently plays for Al- Ittihad, and is a member of the Libya national football team.",
+    "Nayelly Hernández( born 23 February 1986) is a former Mexican female professional squash player. She has represented Mexico internationally in several international competitions including the Central American and Caribbean Games, Pan American Games, Women's World Team Squash Championships. Nayelly achieved her highest career ranking of 57 in October 2011 during the 2011 PSA World Tour. Her husband Chris Walker whose nationality is English is also a professional squash player. She joined the Trinity College in 2008 as the first Mexican female to join a US college for squash and graduated in 2010.",
+    "Ronald Edward \"Ron\" DeWolf (born Lafayette Ronald Hubbard Jr.; May 7, 1934 – September 16, 1991), also known as \"Nibs\" Hubbard, was the eldest child of Scientology's founder L. Ron Hubbard by his first wife Margaret Louise Grubb, highly critical of his father and of the Church of Scientology.",
+    "Eleni Zaude Gabre- Madhin, an Ethiopian economist with Swiss nationality, is a former Chief Executive Officer of the Ethiopia Commodity Exchange( ECX). She has had many years of experience working on agricultural markets – particularly in Sub- Saharan Africa – and has held senior positions in the World Bank, the International Food Policy Research Institute( Washington), and United Nations( Geneva).",
+    "Lafayette Ronald Hubbard (March 13, 1911 – January 24, 1986) was an American author of science fiction and fantasy stories, and the founder of the Church of Scientology. In 1950, Hubbard authored  and established a series of organizations to promote Dianetics. In 1952, Hubbard lost the rights to Dianetics in bankruptcy proceedings, and he subsequently founded Scientology. Thereafter Hubbard oversaw the growth of the Church of Scientology into a worldwide organization. Born in Tilden, Nebraska, in 1911, Hubbard spent much of his childhood in Helena, Montana. After his father was posted to the U.S. naval base on Guam, Hubbard traveled to Asia and the South Pacific in the late 1920s. In 1930, Hubbard enrolled at George Washington University to study civil engineering but dropped out in his second year. He began his career as a prolific writer of pulp fiction stories and married Margaret \"Polly\" Grubb, who shared his interest in aviation. Hubbard was an officer in the Navy during World War II, where he briefly commanded two ships but was removed from command both times. The last few months of his active service were spent in a hospital, being treated for a variety of complaints. During the late 1960s and early 1970s, he spent much of his time at sea on his personal fleet of ships as \"Commodore\" of the Sea Organization, an elite paramilitary group of Scientologists. Some ex-members and scholars have described the Sea Org as a totalitarian organization marked by intensive surveillance and a lack of freedom. Hubbard returned to the United States in 1975 and went into seclusion in the California desert. In 1978, Hubbard was convicted of fraud after he was tried \"in absentia\" by France. In August 1978, 11 high-ranking members of Scientology were indicted on 28 charges for their role in the Church's Operation Snow White, one of the largest infiltrations of the United States government in history, with up to 5,000 covert agents. One of the indicted was Hubbard's wife Mary Sue Hubbard. L. Ron Hubbard was named an unindicted co-conspirator. Hubbard spent the remaining years of his life in a luxury motorhome on his California property, attended to by a small group of Scientology officials including his physician. In 1986, L. Ron Hubbard died at age 74. Following Hubbard's death, Scientology leaders announced that his body had become an impediment to his work and that he had decided to \"drop his body\" to continue his research on another planet. Though many of Hubbard's autobiographical statements have been found to be fictitious, The Church of Scientology describes Hubbard in hagiographic terms and rejects any suggestion that its account of Hubbard's life is not historical fact.",
+    "Iraqi nationality is transmitted by one's parents.",
+    "Khalid al- Habib also believed to use the nom de guerre Khalid al Harbi is an Al- Qaeda leader who has overseen Al- Qaeda operations in Afghanistan. In 2005 it was reported that al- Habib died in a US missile strike on the Pakistani village of Damadola though it is unclear whether this is the case as Pakistani officials have claimed that no Al- Qaeda leaders died in the attack. al- Habib's nationality is not clear with sources claiming he may be Egyptian or Moroccan.",
+    "Roberto Savio( born in Rome, Italy, but also holding Argentine nationality) is a journalist, communication expert, political commentator, activist for social and climate justice and advocate of global governance. He has spent most of his career with Inter Press Service( IPS), the news agency which he founded in 1964 along with Argentine journalist Pablo Piacentini. Savio studied Economics at the University of Parma, followed by post -graduate courses in Development Economics under Gunnar Myrdal, History of Art and International Law in Rome. He started his professional career as a research assistant in International Law at the University of Parma."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRonald Edward \"Ron\" DeWolf was born as Lafayette Ronald Hubbard Jr.\nLafayette Ronald Hubbard was an American author and founder of the Church of Scientology.\nLafayette Ronald Hubbard was born in Tilden, Nebraska, in 1911.\nThe father of Ronald DeWolf is Lafayette Ronald Hubbard.\nLafayette Ronald Hubbard was from the United States.\nRonald DeWolf's father is from the United States.\n<answer> United States",
+  "predicted_answer": "United States",
+  "claims": [
+    "Ronald Edward \"Ron\" DeWolf was born as Lafayette Ronald Hubbard Jr",
+    "Lafayette Ronald Hubbard was an American author and founder of the Church of Scientology",
+    "Lafayette Ronald Hubbard was born in Tilden, Nebraska, in 1911",
+    "The father of Ronald DeWolf is Lafayette Ronald Hubbard",
+    "Lafayette Ronald Hubbard was from the United States",
+    "Ronald DeWolf's father is from the United States"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Ronald Edward \"Ron\" DeWolf was born as Lafayette Ronald Hubbard Jr",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Lafayette Ronald Hubbard was an American author and founder of the Church of Scientology",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Lafayette Ronald Hubbard was born in Tilden, Nebraska, in 1911",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The father of Ronald DeWolf is Lafayette Ronald Hubbard",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "Lafayette Ronald Hubbard was from the United States",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "Ronald DeWolf's father is from the United States",
+      "claim_type": "DR"
+    }
+  ]
+}

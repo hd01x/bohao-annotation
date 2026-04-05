@@ -1,0 +1,107 @@
+{
+  "uid": "strategyqa__4b66ebd989be42113847",
+  "sample_id": "4b66ebd989be42113847",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Do black-tailed jackrabbits fear the European wildcat?",
+  "gold_answer": "no",
+  "context": [
+    "The European wildcat is native to continental Europe, Scotland, Turkey and the Caucasus.",
+    "The black-tailed jackrabbit is native to Mexico and the western United States."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe European wildcat is native to continental Europe, Scotland, Turkey, and the Caucasus.\nThe black-tailed jackrabbit is native to Mexico and the western United States.\nThe geographic ranges of the European wildcat and the black-tailed jackrabbit do not overlap.\nThere is no natural interaction between the European wildcat and the black-tailed jackrabbit in the wild.\nNo information is provided about the behavior of black-tailed jackrabbits toward European wildcats.\nThe fear response of black-tailed jackrabbits to European wildcats is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "The European wildcat is native to continental Europe, Scotland, Turkey, and the Caucasus",
+    "The black-tailed jackrabbit is native to Mexico and the western United States",
+    "The geographic ranges of the European wildcat and the black-tailed jackrabbit do not overlap",
+    "There is no natural interaction between the European wildcat and the black-tailed jackrabbit in the wild",
+    "No information is provided about the behavior of black-tailed jackrabbits toward European wildcats",
+    "The fear response of black-tailed jackrabbits to European wildcats is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The European wildcat is native to continental Europe, Scotland, Turkey, and the Caucasus",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The black-tailed jackrabbit is native to Mexico and the western United States",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The geographic ranges of the European wildcat and the black-tailed jackrabbit do not overlap",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "There is no natural interaction between the European wildcat and the black-tailed jackrabbit in the wild",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "No information is provided about the behavior of black-tailed jackrabbits toward European wildcats",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The fear response of black-tailed jackrabbits to European wildcats is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

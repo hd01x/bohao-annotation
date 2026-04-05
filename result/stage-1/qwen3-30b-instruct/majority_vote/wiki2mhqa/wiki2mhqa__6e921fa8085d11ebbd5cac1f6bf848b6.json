@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__6e921fa8085d11ebbd5cac1f6bf848b6",
+  "sample_id": "6e921fa8085d11ebbd5cac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Are Justine Lupe and Mark Kistler both from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "Mark Kistler's Imagination Station is a public television series where artist Mark Kistler taught children and adults to draw using techniques such as perspective and shading. The program was originally presented by TV station KIXE in the Redding and Chico areas of the U.S. state of California. Kistler also released some publications of teaching techniques used in the show. It had a short reprise later in the 1990s but did not continue to run past a few episodes. The show ran for 65 episodes, starting on October 14, 1991 to July 10, 1998, and after cancellation, reruns aired until August 6, 1999. In the summer of 2009 Kistler filmed additional shows that began airing on PBS in the fall of 2009.",
+    "My Lupe and My Horse is a 1944 Mexican western comedy film directed by Carlos Toussaint. It stars María Luisa Zea, Julio Villarreal and Fernando Fernández. The film was of the\" ranchera\" genre.",
+    "Justine Lupe- Schomp, also known as Justine Lupe, is an American actress. She is known for her roles on\" Mr. MercedesSuccession Cristela\", and\" The Marvelous Mrs. Maisel\".",
+    "Ming Luhulima aka Lou Lima was a well known Netherlands based recording artist originally from the Maluku Islands which were part of the Dutch East Indies. He made multiple recordings during his career. One of the artists he was closely associated with was Rudi Wairata. Not only did Luhulima come from the same country as Wairata, he also recorded music in the same genre. He was also a member of the Amboina Serenaders and the Mena Moeria Minstrels. He also led the Krontjong Ensemble Pantja Warna.",
+    "Godwin Davy( born 15 December 1979) is an Anguillan international footballer who plays as a goalkeeper. He made his international debut in a World Cup qualifying match against El Salvador, resulting in a lopsided match, losing 12- 0 in February 2008, and also played in the 4 – 0 loss to the same country in the return match in March 2008.",
+    "Eight winners and eight runners- up from the first group stage were drawn into four groups of four teams, each containing two group winners and two runners- up. Teams from the same country or from the same first round group could not be drawn together. The top two teams in each group advanced to the quarter- finals.",
+    "Country Code:+ 247< br> International Call Prefix: 00 Ascension Island does not share the same country code( +290) with the rest of St Helena.",
+    "Mark Kistler is an American artist who hosts drawing instruction programs for children, young adults, and their parents to teach the freedom and joy of drawing.",
+    "Venery has two unrelated meanings, both from Latin:",
+    "Willem Pieter Jacobus Brakman( 1922 – 2008) was a Dutch writer who made his literary debut with the novel\" Een winterreis\" in 1961. Brakman received the P. C. Hooft Award in 1980. He was born on June 13th, 1922 in The Hague, Netherlands, and died on May 8th, 2008 in the same country."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJustine Lupe is an American actress.\nMark Kistler is an American artist.\nBoth Justine Lupe and Mark Kistler are from the United States.\nThe country of origin for both Justine Lupe and Mark Kistler is the United States.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Justine Lupe is an American actress",
+    "Mark Kistler is an American artist",
+    "Both Justine Lupe and Mark Kistler are from the United States",
+    "The country of origin for both Justine Lupe and Mark Kistler is the United States"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Justine Lupe is an American actress",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Mark Kistler is an American artist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Both Justine Lupe and Mark Kistler are from the United States",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The country of origin for both Justine Lupe and Mark Kistler is the United States",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

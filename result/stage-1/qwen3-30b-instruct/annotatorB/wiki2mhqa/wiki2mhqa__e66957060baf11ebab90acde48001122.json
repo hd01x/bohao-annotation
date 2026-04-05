@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__e66957060baf11ebab90acde48001122",
+  "sample_id": "e66957060baf11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Amalie Adlerberg's stepfather?",
+  "gold_answer": "Karl Alexander, 5th Prince of Thurn and Taxis",
+  "context": [
+    "Héctor Barrantes Sansoni( 1939–1990) was an Argentine polo player. He was the stepfather of Sarah, Duchess of York.",
+    "Maximilian Elisäus Alexander von Hanstein, Count of Pölzig and Beiersdorf( 9 June 1804, Burghaig, Kulmbach – 18 April 1884, Schmölln) was a Thuringian count. He was the stepfather of Prince Albert and grandfather of Hans Poelzig.",
+    "Albert Anthony Visetti( 13 May 1846–10 July 1928) was a Dalmatian musician who moved to London where he was Professor of Singing at the Royal College of Music, becoming a Fellow in 1921. He was the stepfather of the novelist Radclyffe Hall.",
+    "Gerald Rudolff Ford( December 9, 1890 – January 26, 1962) was an American businessman, creator of Ford Industries, and Republican politician who was the stepfather of U.S. President Gerald Ford and for whom Ford legally changed his name.",
+    "Countess Amalie Maximilianovna Adlerberg (16 June 1808 – 21 June 1888) was an illegitimate daughter of Duchess Therese of Mecklenburg-Strelitz, fathered by Bavarian diplomat Maximilian-Emmanuel Graf von und zu Lerchenfeld auf Köfering und Schönberg (1772–1809). Amalie's mother was an aunt of Empress Alexandra Feodorovna, wife of Tsar Nicholas I. Her mother's husband, Karl Alexander Fürst von Thurn und Taxis (1770–1827), was invited by Napoleon for his new projects, and lived in Paris for years. In his absence, Princess Therese had a passionate affair with Count Maximilian-Emmanuel von Lerchenfeld. After her father, Graf von Lerchenfeld's death on 19 October 1809 , Amalie was placed in the care of Therese's \"von Sternfeld\" relatives in Darmstadt (then in the Grand Duchy of Hesse), and the baby carried their surname after she was born. Amalie von Sternfeld was later brought to Regensburg, closer to Princess Therese and changed her surname to \"Stargard\". She was finally taken care of by the Lerchenfeld family and lived in their palace in Munich or at the family castle in Köfering near Regensburg. Finally, on 1 August 1823, the Grand Duke of Hesse gave the fifteen-year-old Amalie Stargard permission to carry the surname \"von Lerchenfeld\", but without rights to use the coat of arms or be listed in the family tree, which was the price for her extramarital birth.",
+    "Morris Harvey( 1877– 1944) was a British actor and writer. A renowned character actor, he also wrote for the stage, including material for Broadway revues, in which he also appeared. He was the stepfather of film director Anthony Harvey.",
+    "Lolo Soetoro ( EYD: Lolo Sutoro;; 2 January 1935 – 2 March 1987), also known as Lolo Soetoro Mangunharjo or Mangundikardjo, of Indonesia was the stepfather of Barack Obama, the 44th President of the United States.",
+    "Duchess Therese Mathilde Amalie of Mecklenburg-Strelitz (5 April 1773 – 12 February 1839) was a member of the House of Mecklenburg-Strelitz and a Duchess of Mecklenburg. Through her marriage to Karl Alexander, 5th Prince of Thurn and Taxis, Therese was also a member of the House of Thurn and Taxis.",
+    "Albert Elmer Austin( November 15, 1877 – January 26, 1942) was a Republican member of the United States House of Representatives from 1939 to 1941 and member of the Connecticut House of Representatives from 1917 to 1919 and from 1921 to 1923. He was the stepfather of Clare Boothe Luce.",
+    "Jerrold Wexler( June 27, 1924 – November 10, 1992) was a noted American businessman and film producer. He was the brother of cinematographer Haskell Wexler and the stepfather of actress Daryl Hannah."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAmalie Maximilianovna Adlerberg was the illegitimate daughter of Duchess Therese of Mecklenburg-Strelitz.\nDuchess Therese had a passionate affair with Count Maximilian-Emmanuel Graf von und zu Lerchenfeld.\nCount Maximilian-Emmanuel von Lerchenfeld died on 19 October 1809.\nAfter his death, Amalie was placed in the care of Therese's \"von Sternfeld\" relatives in Darmstadt.\nThe von Sternfeld relatives were not her biological parents.\nAmalie was not raised by a stepfather after her father's death.\nThe stepfather of Amalie Adlerberg is not mentioned in the text.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Amalie Maximilianovna Adlerberg was the illegitimate daughter of Duchess Therese of Mecklenburg-Strelitz",
+    "Duchess Therese had a passionate affair with Count Maximilian-Emmanuel Graf von und zu Lerchenfeld",
+    "Count Maximilian-Emmanuel von Lerchenfeld died on 19 October 1809",
+    "After his death, Amalie was placed in the care of Therese's \"von Sternfeld\" relatives in Darmstadt",
+    "The von Sternfeld relatives were not her biological parents",
+    "Amalie was not raised by a stepfather after her father's death",
+    "The stepfather of Amalie Adlerberg is not mentioned in the text"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Amalie Maximilianovna Adlerberg was the illegitimate daughter of Duchess Therese of Mecklenburg-Strelitz",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Duchess Therese had a passionate affair with Count Maximilian-Emmanuel Graf von und zu Lerchenfeld",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Count Maximilian-Emmanuel von Lerchenfeld died on 19 October 1809",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "After his death, Amalie was placed in the care of Therese's \"von Sternfeld\" relatives in Darmstadt",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The von Sternfeld relatives were not her biological parents",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "Amalie was not raised by a stepfather after her father's death",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The stepfather of Amalie Adlerberg is not mentioned in the text",
+      "claim_type": "DR"
+    }
+  ]
+}

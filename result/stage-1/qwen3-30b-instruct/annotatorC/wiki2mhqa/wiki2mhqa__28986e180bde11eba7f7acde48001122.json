@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__28986e180bde11eba7f7acde48001122",
+  "sample_id": "28986e180bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of death of Anne Devereux's husband?",
+  "gold_answer": "Banbury",
+  "context": [
+    "Anne Devereux- Mills( born March 2, 1962) is an American businesswoman, speaker, and entrepreneur. Anne Devereux- Mills spent the first 25 years of her career building and leading advertising agencies in New York City. She is now the Chief Instigator( and Founder) of Parlay House, a 1000+ member organization in San Francisco that champions and inspires women to connect and make meaningful change for themselves and for others.",
+    "Anne Devereux- Mills( born March 2, 1962) is an American businesswoman, speaker, and entrepreneur. Anne Devereux- Mills spent the first 25 years of her career building and leading advertising agencies in New York City. She is now the Chief Instigator( and Founder) of Parlay House, a 1000+ member organization in San Francisco that champions and inspires women to connect and make meaningful change for themselves and for others.",
+    "Motherland is the place of one's birth, the place of one's ancestors, or the place of origin of an ethnic group. Motherland may also refer to:",
+    "Dag Ole Teigen( born 10 August 1982 in Volda) is a Norwegian politician for the Labour Party( AP). He represents Hordaland in the Norwegian Parliament, where he meets in the place of Anne- Grete Strøm- Erichsen, who was appointed to a government position. He was elected to the municipality council of Fjell in 2003. He is a member of Mensa.",
+    "Beaulieu- sur- Loire is a commune in the Loiret department in north -central France. It is also the place of death of Jacques MacDonald, a French general who served in the Napoleonic Wars",
+    "The place of birth( POB) or birthplace is the place where a person was born. This place is often used in legal documents, together with name and date of birth, to uniquely identify a person. As a general rule with respect to passports, the place of birth is determined to be the country that currently has\" sovereignty\" over the actual place of birth, regardless of when the birth actually occurred. The place of birth is not necessarily the place where the parents of the new baby live. If the baby is born in a hospital in another place, that place is the place of birth. In many countries, this also means that the government requires that the birth of the new baby is registered in the place of birth. Some countries place less or no importance on the place of birth, instead using alternative geographical characteristics for the purpose of identity documents. For example, Sweden has used the concept of\" födelsehemortdomicile of birth\") since 1947. This means that the domicile of the baby's mother is the registered place of birth. The location of the maternity ward or other physical birthplace is considered unimportant. Similarly, Switzerland uses the concept of\" Heimatortlieu d'origineluogo d'origineplace of origin\" in German, French and Italian respectively). A child born to Swiss parents is automatically assigned the place of origin of the parent with the same last name, so the child either gets their mother's or father's place of origin. A child born to one Swiss parent and one foreign parent acquires the place of origin of their Swiss parent. In a Swiss passport and identity card, the holder's place of origin is stated, not their place of birth. In some countries( primarily in the Americas), the place of birth automatically determines the nationality of the baby, a practice often referred to by the Latin phrase\" jus soli\". Almost all countries outside the Americas instead attribute nationality based on the nationality( ies) of the baby's parents( referred to as\" jus sanguinis\"). There can be some confusion regarding the place of birth if the birth takes place in an unusual way: when babies are born on an airplane or at sea, difficulties can arise. The place of birth of such a person depends on the law of the countries involved, which include the nationality of the plane or ship, the nationality( ies) of the parents and/ or the location of the plane or ship( if the birth occurs in the territorial waters or airspace of a country). Some administrative forms may request the applicant's\" country of birth\". It is important to determine from the requester whether the information requested refers to the applicant's\" place of birth\" or\" nationality at birth\". For US citizens born abroad who under the US Constitution acquire US citizenship at the time of birth, the nationality at birth will be USA( American), while the place of birth would be the country in which the actual birth takes place.",
+    "Anne Devereux, Countess of Pembroke (c. 1430 – after 25 June 1486), was an English noblewoman, who was Countess of Pembroke during the 15th century by virtue of marriage to William Herbert, 1st Earl of Pembroke. She was born in Bodenham, the daughter of Sir Walter Devereux, the Lord Chancellor of Ireland, and his wife Elizabeth Merbury. Anne's grandfather, Walter, was the son of Agnes Crophull. By Crophull's second marriage to Sir John Parr, Anne was a cousin to the Parr family which included Sir Thomas Parr; father of King Henry VIII's last queen consort, Catherine Parr.",
+    "William Herbert, 1st Earl of Pembroke (c. 142327 July 1469), known as \"Black William\", was a Welsh nobleman, soldier, politician, and courtier. He was the son of William ap Thomas, founder of Raglan Castle, and Gwladys ferch Dafydd Gam, and grandson of Dafydd Gam, an adherent of King Henry V of England. His father had been an ally of Richard of York, and Herbert supported the Yorkist cause in the Wars of the Roses. In 1461 Herbert was rewarded by King Edward IV with the title Baron Herbert of Raglan (having assumed an English-style surname in place of the Welsh patronymic), and was invested as a Knight of the Garter. Soon after the decisive Yorkist victory at the Battle of Towton in 1461, Herbert replaced Jasper Tudor as Earl of Pembroke which gave him control of Pembroke Castle. However, he fell out with Lord Warwick \"the Kingmaker\" in 1469, when Warwick turned against the King. Herbert was denounced by Warwick and the Duke of Clarence as one of the king's \"evil advisers\". William and his brother Richard were executed by the Lancastrians, now led by Warwick, after the Battle of Edgecote Moor, near Banbury. Herbert was succeeded by his son, William, but the earldom was surrendered in 1479. It was later revived for a grandson, another William Herbert, the son of Black William's illegitimate son, Sir Richard Herbert of Ewyas.",
+    "\" Where Was I?\" may refer to:",
+    "Angelitha Wass( 15th century – after 1521) was a Hungarian lady's maid of Anne of Foix- Candale, Queen consort of Bohemia and Hungary, and later a mistress of Anne's son, Louis II Jagiellon, King of Hungary."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAnne Devereux- Mills is a modern American businesswoman and entrepreneur.\nShe is the founder and Chief Instigator of Parlay House in San Francisco.\nThe context does not mention the name, identity, or death of Anne Devereux- Mills's husband.\nThere is no information provided about her husband's place of death.\nThe place of death of Anne Devereux's husband is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Anne Devereux- Mills is a modern American businesswoman and entrepreneur",
+    "She is the founder and Chief Instigator of Parlay House in San Francisco",
+    "The context does not mention the name, identity, or death of Anne Devereux- Mills's husband",
+    "There is no information provided about her husband's place of death",
+    "The place of death of Anne Devereux's husband is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Anne Devereux- Mills is a modern American businesswoman and entrepreneur",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "She is the founder and Chief Instigator of Parlay House in San Francisco",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The context does not mention the name, identity, or death of Anne Devereux- Mills's husband",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "There is no information provided about her husband's place of death",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The place of death of Anne Devereux's husband is not specified",
+      "claim_type": "DR"
+    }
+  ]
+}

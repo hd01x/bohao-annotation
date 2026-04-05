@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__49ab746264f2e50e9aee",
+  "sample_id": "49ab746264f2e50e9aee",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Have rhinoceroses been killed to improve human sex lives?",
+  "gold_answer": "yes",
+  "context": [
+    "Rhinoceros horns are used for folk treatment of sexual impotency.",
+    "Rhinoceroses are killed to remove their horns."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRhinoceros horns are used in folk medicine to treat sexual impotency.\nRhinoceroses are killed to remove their horns.\nThe removal of horns for medicinal use is driven by the belief in their efficacy for treating sexual impotency.\nThe killing of rhinoceroses is directly linked to the demand for their horns in human treatments.\nRhinoceroses have been killed to improve human sex lives.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Rhinoceros horns are used in folk medicine to treat sexual impotency",
+    "Rhinoceroses are killed to remove their horns",
+    "The removal of horns for medicinal use is driven by the belief in their efficacy for treating sexual impotency",
+    "The killing of rhinoceroses is directly linked to the demand for their horns in human treatments",
+    "Rhinoceroses have been killed to improve human sex lives"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Rhinoceros horns are used in folk medicine to treat sexual impotency",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Rhinoceroses are killed to remove their horns",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The removal of horns for medicinal use is driven by the belief in their efficacy for treating sexual impotency",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The killing of rhinoceroses is directly linked to the demand for their horns in human treatments",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Rhinoceroses have been killed to improve human sex lives",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

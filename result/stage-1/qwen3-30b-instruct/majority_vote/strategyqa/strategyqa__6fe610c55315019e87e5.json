@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__6fe610c55315019e87e5",
+  "sample_id": "6fe610c55315019e87e5",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could a wandering albatross fly from Bucharest to New York City without a rest?",
+  "gold_answer": "yes",
+  "context": [
+    "Wandering albatross can travel at least 15,000 km (just under 10,000 miles) over the sea before returning to land. ",
+    "It's 4766 miles or 7670 km from Bucharest to New York City."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA wandering albatross can travel at least 15,000 km over the sea without returning to land.\nThe distance from Bucharest to New York City is 7,670 km.\n7,670 km is less than 15,000 km.\nA wandering albatross can fly 7,670 km without resting.\nA wandering albatross could fly from Bucharest to New York City without a rest.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "A wandering albatross can travel at least 15,000 km over the sea without returning to land",
+    "The distance from Bucharest to New York City is 7,670 km",
+    "7,670 km is less than 15,000 km",
+    "A wandering albatross can fly 7,670 km without resting",
+    "A wandering albatross could fly from Bucharest to New York City without a rest"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A wandering albatross can travel at least 15,000 km over the sea without returning to land",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The distance from Bucharest to New York City is 7,670 km",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "7,670 km is less than 15,000 km",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "A wandering albatross can fly 7,670 km without resting",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A wandering albatross could fly from Bucharest to New York City without a rest",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

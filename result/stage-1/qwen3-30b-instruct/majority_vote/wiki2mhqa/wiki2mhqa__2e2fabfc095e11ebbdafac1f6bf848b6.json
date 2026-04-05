@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__2e2fabfc095e11ebbdafac1f6bf848b6",
+  "sample_id": "2e2fabfc095e11ebbdafac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film was released more recently, Scandal At The Girls' School or One Dangerous Night?",
+  "gold_answer": "Scandal At The Girls' School",
+  "context": [
+    "Dangerous Night is a Hindi Horror film of Bollywood directed and produced by Muneer Khan. This film was released in 2003.",
+    "Girls' School may refer to:",
+    "Scandal at the Girls' School is a 1953 West German comedy film directed by Erich Kobler and starring Walter Giller, Günther Lüders and Joachim Brennecke. It was made at the Bavaria Studios in Munich. The film's sets were designed by the art directors Ernst H. Albrecht and Arne Flekstad.",
+    "The Girls may be:",
+    "Dangerous Night is a Hindi Horror film of Bollywood directed and produced by Muneer Khan. This film was released in 2003.",
+    "One Dangerous Night( 1943)( also known as The Lone Wolf Goes to a Party) is the tenth Lone Wolf film produced by Columbia Pictures. It features Warren William in his seventh and second- to- last performance as the protagonist jewel thief turned detective Lone Wolf, and Warren Ashe as Sidney Shaw, the film's antagonist. The film was directed by Michael Gordon and written by, Max Nosseck, and Donald Davis. \" One Dangerous Night\" centres on former jewel thief Michael Lanyard, also known by his alias\" Lone Wolf\", aiming to clear his name after he is accused of murdering a jewel smuggler. Filming took place in September 1942. \" One Dangerous Night\" was theatrically released in the United States on January 22, 1943.",
+    "Northside High School or North Side High School or Northside Christian School or similar can refer to:",
+    "A Methodist Girls' School is a girls' school founded by Methodists. They include:",
+    "\" Dangerous Night\" is a song recorded by American rock band Thirty Seconds to Mars, featured on their fifth studio album\" America\". It was written by Stevie Aiello and Jared Leto, who also produced the song with Zedd. \" Dangerous Night\" was described as a personal and uplifting song characterized by an anthemic and euphoric nature. It marked a strong departure from much of the band's previous work as it incorporates a softer sound as well as elements from electronic dance music. The song is imbued with influences from are na rock and ambient music. \" Dangerous Night\" was released on January 25, 2018 through Interscope Records, as the second single from the album. Thirty Seconds to Mars performed the song on\" The Late Show with Stephen Colbert\". KROQ ranked\" Dangerous Night\" at number 16 on its list of the 20 Best Songs of 2018.",
+    "Ananda Balika Vidyalaya is a public girls school located in Kotte., Sri Lanka. It was established in 1971 as the girls school of Ananda Sastralaya, Kotte."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nScandal at the Girls' School was released in 1953.\nOne Dangerous Night was theatrically released in the United States on January 22, 1943.\n1953 is later than 1943.\nThe film released more recently is Scandal at the Girls' School.\n<answer> Scandal at the Girls' School",
+  "predicted_answer": "Scandal at the Girls' School",
+  "claims": [
+    "Scandal at the Girls' School was released in 1953",
+    "One Dangerous Night was theatrically released in the United States on January 22, 1943",
+    "1953 is later than 1943",
+    "The film released more recently is Scandal at the Girls' School"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Scandal at the Girls' School was released in 1953",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "One Dangerous Night was theatrically released in the United States on January 22, 1943",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "1953 is later than 1943",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The film released more recently is Scandal at the Girls' School",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

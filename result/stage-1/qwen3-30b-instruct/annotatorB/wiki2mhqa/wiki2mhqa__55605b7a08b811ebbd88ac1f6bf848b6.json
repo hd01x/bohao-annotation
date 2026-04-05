@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__55605b7a08b811ebbd88ac1f6bf848b6",
+  "sample_id": "55605b7a08b811ebbd88ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film was released more recently, Daredevil'S Time or Paid In Error?",
+  "gold_answer": "Daredevil'S Time",
+  "context": [
+    "Paid in Full is a lost 1919 American silent drama film starring Pauline Frederick and directed by Emile Chautard. It was produced by Famous Players- Lasky and released by Paramount Pictures. The film is based on the hit 1908 Broadway stage play\" Paid in Full\" by Eugene Walter which starred Lillian Albertson. Two previous silent films appeared in 1910 as a short and in 1914 as a feature.",
+    "Paid in Full is a 1950 American drama film directed by William Dieterle and written by Robert Blees and Charles Schnee. The film stars Robert Cummings, Lizabeth Scott, Diana Lynn, Eve Arden, Ray Collins and Frank McHugh. The film was released on February 15, 1950, by Paramount Pictures.",
+    "The film was released in Japan on 10 October 2009.",
+    "Paid in Error is a 1938 British comedy film directed by Maclean Rogers and featuring George Carney, Lillian Christine and Tom Helmore. The screenplay concerns a man who is mistakenly given a large sum of money at the bank.",
+    "Paid or PAID may refer to:",
+    "Daredevil's Time(\" Hajdučka vremena\") is a Croatian film directed by Vladimir Tadej. It was released in 1977.",
+    "Paid in Full is a lost 1914 silent film drama directed by Augustus E. Thomas and starring Tully Marshall. It is based on a 1908 play by Eugene Walter. The story was re-filmed just five years later as\" Paid in Full\" with Pauline Frederick.",
+    "Paid- in capital( also paid- up capital and contributed capital) is capital that is contributed to a corporation by investors by purchase of stock from the corporation, the primary market, not by purchase of stock in the open market from other stockholders( the secondary market). It includes share capital( capital stock) as well as additional paid- in capital. The paid- in capital account does not reflect the amount of capital contributed by any specific investor. Instead, it shows the aggregate amount of capital contributed by all investors. However, the term has different definitions in different contexts. For example, it could refer to the money that a company gets from potential investors, in addition to the stated( nominal or par) value of the stock, which coincides with the definition of additional paid- in capital, or paid- in capital in excess of par. One should be aware of the use of the term and the abbreviation, which can confuse.",
+    "Coney Island Baby is a 2003 comedy- drama in which film producer Amy Hobby made her directorial debut. Karl Geary wrote the film and Tanya Ryno was the film's producer. The music was composed by Ryan Shore. The film was shot in Sligo, Ireland, which is known locally as\" Coney Island\". The film was screened at the Newport International Film Festival. Hobby won the Jury Award for\" Best First Time Director\". The film made its premiere television broadcast on the Sundance Channel.",
+    "Paid in Full may refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDaredevil's Time was released in 1977.\nPaid in Error was released in 1938.\n1977 is later than 1938.\nThe film released more recently is Daredevil's Time.\n<answer> Daredevil's Time",
+  "predicted_answer": "Daredevil's Time",
+  "claims": [
+    "Daredevil's Time was released in 1977",
+    "Paid in Error was released in 1938",
+    "1977 is later than 1938",
+    "The film released more recently is Daredevil's Time"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Daredevil's Time was released in 1977",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Paid in Error was released in 1938",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1977 is later than 1938",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The film released more recently is Daredevil's Time",
+      "claim_type": "DR"
+    }
+  ]
+}

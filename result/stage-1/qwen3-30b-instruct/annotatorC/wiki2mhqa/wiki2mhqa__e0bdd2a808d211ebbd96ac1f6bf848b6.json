@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__e0bdd2a808d211ebbd96ac1f6bf848b6",
+  "sample_id": "e0bdd2a808d211ebbd96ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film whose director was born first, Maker Of Men or Kentucky Kernels?",
+  "gold_answer": "Maker Of Men",
+  "context": [
+    "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford.",
+    "Hartley W Lobban (9 May 1926 – 15 October 2004) was a Jamaican-born first-class cricketer who played 17 matches for Worcestershire in the early 1950s.",
+    "Syagrus is a legendary ancient Greek oral poet. He is said in a traditional list to have been a rival of Homer; elsewhere it is said that he followed Orpheus and Musaeus in chronological sequence and was the first maker of an epic on the Trojan War. This would have been a forerunner of the later poems in the Epic Cycle.",
+    "Kentucky Kernels is a 1934 American comedy directed by George Stevens and starring the comedy duo of Bert Wheeler and Robert Woolsey. The screenplay was written by Bert Kalmar, Harry Ruby, and Fred Guiol, from a story by Kalmar and Ruby.",
+    "Edward Sedgwick( November 7, 1889 – March 7, 1953) was an American film director, writer, actor and producer.",
+    "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand.",
+    "George Cooper Stevens( December 18, 1904 – March 8, 1975) was an American film director, producer, screenwriter and cinematographer. Among his most notable films are\" A Place in the Sun\"( 1951; winner of six Academy Awards including Best Director),\" Shane\"( 1953; Oscar nominated),\" Giant\"( 1956; Oscar for Best Director), and\" The Diary of Anne Frank\"( 1959; nominated for Best Director).",
+    "Ahasuerus Fromanteel( 25 February 1607 – 31 January 1693) was a clockmaker, the first maker of pendulum clocks in Britain.",
+    "John William Joseph McMahon( 28 December 1917 – 8 May 2001) was an Australian- born first- class cricketer who played for Surrey and Somerset in England from 1947 to 1957.",
+    "Maker of Men is a 1931 American pre-Code melodrama directed by Edward Sedgwick and written by Howard J. Green and Edward Sedgwick. Produced by Columbia Pictures Corporation, the film stars Jack Holt, Richard Cromwell, and Joan Marsh. It also features John Wayne in a supporting role."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMaker of Men was directed by Edward Sedgwick.\nEdward Sedgwick was born on November 7, 1889.\nKentucky Kernels was directed by George Stevens.\nGeorge Stevens was born on December 18, 1904.\n1889 is earlier than 1904.\nThe film directed by the person born earlier is Maker of Men.\n<answer> Maker of Men",
+  "predicted_answer": "Maker of Men",
+  "claims": [
+    "Maker of Men was directed by Edward Sedgwick",
+    "Edward Sedgwick was born on November 7, 1889",
+    "Kentucky Kernels was directed by George Stevens",
+    "George Stevens was born on December 18, 1904",
+    "1889 is earlier than 1904",
+    "The film directed by the person born earlier is Maker of Men"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Maker of Men was directed by Edward Sedgwick",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Edward Sedgwick was born on November 7, 1889",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Kentucky Kernels was directed by George Stevens",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "George Stevens was born on December 18, 1904",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1889 is earlier than 1904",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The film directed by the person born earlier is Maker of Men",
+      "claim_type": "DR"
+    }
+  ]
+}

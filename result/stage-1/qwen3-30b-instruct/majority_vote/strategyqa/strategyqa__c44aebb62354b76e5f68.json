@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__c44aebb62354b76e5f68",
+  "sample_id": "c44aebb62354b76e5f68",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Iggy Pop named after his father?",
+  "gold_answer": "yes",
+  "context": [
+    "Iggy Pop's birth name was James Newell Osterberg Jr.",
+    "The father of Iggy Pop was James Newell Osterberg Sr."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nIggy Pop's birth name was James Newell Osterberg Jr.\nIggy Pop's father was James Newell Osterberg Sr.\nThe name \"James Newell Osterberg\" is shared between Iggy Pop and his father.\nIggy Pop was named after his father.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Iggy Pop's birth name was James Newell Osterberg Jr",
+    "Iggy Pop's father was James Newell Osterberg Sr",
+    "The name \"James Newell Osterberg\" is shared between Iggy Pop and his father",
+    "Iggy Pop was named after his father"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Iggy Pop's birth name was James Newell Osterberg Jr",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Iggy Pop's father was James Newell Osterberg Sr",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The name \"James Newell Osterberg\" is shared between Iggy Pop and his father",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Iggy Pop was named after his father",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

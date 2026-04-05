@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__a651ba82c5e39990d737",
+  "sample_id": "a651ba82c5e39990d737",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Do the directors of The Matrix advocate for transgender rights?",
+  "gold_answer": "yes",
+  "context": [
+    "Lilly Wachowski is a trans woman who was a director of The Matrix.",
+    "Lena Wachowski is a trans woman who was a director of The Matrix.",
+    "The Wachowski sisters speak actively about viewing their films through a \"lens of transness\""
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLilly Wachowski is a trans woman and a director of The Matrix.\nLena Wachowski is a trans woman and a director of The Matrix.\nBoth Wachowski sisters identify as trans women.\nThe Wachowski sisters speak actively about viewing their films through a \"lens of transness.\"\nThe active discussion of transness in their work indicates a personal and public engagement with transgender identity.\nAdvocacy for transgender rights is implied by their public identification and the thematic focus on transness in their films.\nThe directors of The Matrix advocate for transgender rights.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Lilly Wachowski is a trans woman and a director of The Matrix",
+    "Lena Wachowski is a trans woman and a director of The Matrix",
+    "Both Wachowski sisters identify as trans women",
+    "The Wachowski sisters speak actively about viewing their films through a \"lens of transness.\"",
+    "The active discussion of transness in their work indicates a personal and public engagement with transgender identity",
+    "Advocacy for transgender rights is implied by their public identification and the thematic focus on transness in their films",
+    "The directors of The Matrix advocate for transgender rights"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lilly Wachowski is a trans woman and a director of The Matrix",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Lena Wachowski is a trans woman and a director of The Matrix",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Both Wachowski sisters identify as trans women",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Wachowski sisters speak actively about viewing their films through a \"lens of transness.\"",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The active discussion of transness in their work indicates a personal and public engagement with transgender identity",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Advocacy for transgender rights is implied by their public identification and the thematic focus on transness in their films",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The directors of The Matrix advocate for transgender rights",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

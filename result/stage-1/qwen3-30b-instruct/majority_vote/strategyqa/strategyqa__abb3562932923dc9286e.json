@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__abb3562932923dc9286e",
+  "sample_id": "abb3562932923dc9286e",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would it be unusual to find a yellow perch in the Red Sea?",
+  "gold_answer": "yes",
+  "context": [
+    "The Red Sea is one of the saltiest bodies of water in the world.",
+    "The yellow perch is a freshwater perciform fish native to much of North America."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Red Sea is one of the saltiest bodies of water in the world.\nThe yellow perch is a freshwater perciform fish.\nFreshwater fish are not adapted to survive in highly saline environments.\nThe yellow perch is native to freshwater habitats in North America.\nThe Red Sea's high salinity makes it unsuitable for freshwater fish like the yellow perch.\nIt would be unusual to find a yellow perch in the Red Sea.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Red Sea is one of the saltiest bodies of water in the world",
+    "The yellow perch is a freshwater perciform fish",
+    "Freshwater fish are not adapted to survive in highly saline environments",
+    "The yellow perch is native to freshwater habitats in North America",
+    "The Red Sea's high salinity makes it unsuitable for freshwater fish like the yellow perch",
+    "It would be unusual to find a yellow perch in the Red Sea"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Red Sea is one of the saltiest bodies of water in the world",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The yellow perch is a freshwater perciform fish",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Freshwater fish are not adapted to survive in highly saline environments",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The yellow perch is native to freshwater habitats in North America",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Red Sea's high salinity makes it unsuitable for freshwater fish like the yellow perch",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "It would be unusual to find a yellow perch in the Red Sea",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

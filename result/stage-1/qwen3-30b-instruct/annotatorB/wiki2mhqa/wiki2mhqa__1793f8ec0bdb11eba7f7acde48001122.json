@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__1793f8ec0bdb11eba7f7acde48001122",
+  "sample_id": "1793f8ec0bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the mother of Adela Of Pfalzel born?",
+  "gold_answer": "Trier",
+  "context": [
+    "Lord Edmund Howard( – 19 March 1539) was the third son of Thomas Howard, 2nd Duke of Norfolk, and his first wife, Elizabeth Tilney. His sister, Elizabeth, was the mother of Henry VIII's second wife, Anne Boleyn, and he was the father of the king's fifth wife, Catherine Howard. His first cousin, Margery Wentworth, was the mother of Henry's third wife, Jane Seymour.",
+    "She was the mother of Prince Morinaga.",
+    "Irmina of Oeren or Irmina of Trier (d. 704/710) was the wife of Hugobert, seneschal and Count palatine, a leading person of the Hugobertine noble family. While during the High Middle Ages she was believed to be a daughter of King Dagobert II, her parents are actually unknown. Today it is assumed that she came from a powerful Austrasian noble family, strongly connected to the Carolingian dynasty. Irmina and Hugobert had several children, including: After Hugobert's death, the widowed Irmina founded, with support from the Bishop of Trier, the Abbey of Echternach by donating (c. 697/698) lands to Willibrord. She also committed herself to a religious life for the remaining years and became second abbess of St. Mary's convent in Oeren (today a part of Trier) which was later renamed after her: \"St. Irmina\" (or \"St. Irminen\"). Irmina died at an uncertain date between 704 and 710.",
+    "Alberto Adela( born 1934) is a Filipino boxer. He competed in the 1956 Summer Olympics.",
+    "Fatima bint Mubarak Al Ketbi is the third wife of Sheikh Zayed bin Sultan Al Nahyan, the founder and inaugural president of United Arab Emirates, and late emir( ruler) of Abu Dhabi. She is referred to as the mother of sheikhs and as the Mother of the UAE.",
+    "Jean- Paul Steven Adela( born 28 March 1987) is a Seychellois footballer, who plays for La Passe FC.",
+    "Saint Adela (? - 735) and her sister Irmina of Oeren (? - c. 716) were possibly two princesses who may have been the daughters of Saint Dagobert II and his Anglo-Saxon wife, but this has largely been disproved. Some have also said Adela was the sister of Irmina of Oeren.",
+    "laNgolotsheni( Lomawa) Ndwandwe( died September 1938) was the Ndlovukati( Queen Mother) of Swaziland, the wife of King Ngwane V, and the mother of King Sobhuza II.",
+    "Kekuʻiapoiwa II was a Hawaiian chiefess and the mother of the king Kamehameha I.",
+    "Trinidad Perez Tecson (November 18, 1848 – January 28, 1928), known as the \"Mother of Biak-na-Bato\" and \"Mother of Mercy\", fought to gain Philippines independence. She was given the title \"Mother of Biak-na-Bato\" by Gen. Emilio Aguinaldo. She was also cited as the \"Mother of the Philippine National Red Cross\" for her service to her fellow Katipuneros."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAdela of Pfalzel is not mentioned in the provided context.\nThe context mentions Saint Adela (? - 735) and her sister Irmina of Oeren.\nIrmina of Oeren is described as possibly coming from a powerful Austrasian noble family.\nAustrasian nobility was based in the region of modern-day eastern France and western Germany.\nAdela of Pfalzel is not linked to Irmina of Oeren in the context.\nThe mother of Adela of Pfalzel is not mentioned in the context.\nThe birthplace of the mother of Adela of Pfalzel is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Adela of Pfalzel is not mentioned in the provided context",
+    "The context mentions Saint Adela (? - 735) and her sister Irmina of Oeren",
+    "Irmina of Oeren is described as possibly coming from a powerful Austrasian noble family",
+    "Austrasian nobility was based in the region of modern-day eastern France and western Germany",
+    "Adela of Pfalzel is not linked to Irmina of Oeren in the context",
+    "The mother of Adela of Pfalzel is not mentioned in the context",
+    "The birthplace of the mother of Adela of Pfalzel is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Adela of Pfalzel is not mentioned in the provided context",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The context mentions Saint Adela (? - 735) and her sister Irmina of Oeren",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Irmina of Oeren is described as possibly coming from a powerful Austrasian noble family",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Austrasian nobility was based in the region of modern-day eastern France and western Germany",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Adela of Pfalzel is not linked to Irmina of Oeren in the context",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The mother of Adela of Pfalzel is not mentioned in the context",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "The birthplace of the mother of Adela of Pfalzel is not specified",
+      "claim_type": "FC"
+    }
+  ]
+}

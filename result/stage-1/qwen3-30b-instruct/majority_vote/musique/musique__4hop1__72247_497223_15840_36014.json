@@ -1,0 +1,165 @@
+{
+  "uid": "musique__4hop1__72247_497223_15840_36014",
+  "sample_id": "4hop1__72247_497223_15840_36014",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "There is a video game named after the sports association that chooses where the super bowl is held. What was Nintendo's limit on games per developer per year on that game's platform?",
+  "gold_answer": "five",
+  "context": [
+    "The gameplay objective differs from that of traditional fighters by aiming to knock opponents off of the stage instead of depleting life bars. The original Super Smash Bros., released in 1999 for the Nintendo 64, had a small budget and was originally a Japan - only release, but its domestic success led to a worldwide release. The series achieved even greater success with the release of Super Smash Bros. Melee, which was released in 2001 for the GameCube and became the best - selling game on that system. A third installment, Super Smash Bros. Brawl, was released in 2008 for the Wii. Although HAL Laboratory has been the developer of the first two titles, the third game was developed through the collaboration of several companies. The fourth and fifth installments, Super Smash Bros. for Nintendo 3DS and Wii U, were released in 2014 for the Nintendo 3DS and Wii U, respectively. The 3DS installment was the first series title to be released on a handheld platform.",
+    "NFL is a 1989 football video game, developed by Atlus and published by LJN exclusively for the Nintendo Entertainment System.",
+    "The Nintendo Entertainment System (also abbreviated as NES) is an 8-bit home video game console that was developed and manufactured by Nintendo. It was initially released in Japan as the Family Computer (Japanese: ファミリーコンピュータ, Hepburn: Famirī Konpyūta?) (also known by the portmanteau abbreviation Famicom (ファミコン, Famikon?) and abbreviated as FC) on July 15, 1983, and was later released in North America during 1985, in Europe during 1986, and Australia in 1987. In South Korea, it was known as the Hyundai Comboy (현대 컴보이 Hyeondae Keomboi) and was distributed by SK Hynix which then was known as Hyundai Electronics. It was succeeded by the Super Nintendo Entertainment System.",
+    "Super Bowl LV, the 55th Super Bowl and the 51st modern - era National Football League (NFL) championship game, will decide the league champion for the 2020 season. The game is scheduled to be played on February 7, 2021 in Tampa, Florida (with the exact date pending potential changes to the NFL calendar). This will be the fifth Super Bowl hosted by the Tampa area, with the last one being Super Bowl XLIII in 2009, and the third one held at Raymond James Stadium. The game will be televised nationally by NBC. It will be the third time that the Super Bowl is in the same state in back to back years with Super Bowl LIV taking place at Hard Rock Stadium in Miami Gardens, Florida.",
+    "Super Bowl XXXII was an American football game played between the National Football Conference (NFC) champion Green Bay Packers (who were defending their Super Bowl XXXI championship) and the American Football Conference (AFC) champion Denver Broncos to decide the National Football League (NFL) champion for the 1997 season. The Broncos defeated the Packers by the score of 31–24. The game was played on January 25, 1998 at Qualcomm Stadium in San Diego, California, the second time that the Super Bowl was held in that city. Super Bowl XXXII also made Qualcomm Stadium the only stadium in history to have the Super Bowl and the World Series in the same year.",
+    "The location of the Super Bowl is chosen by the NFL well in advance, usually three to five years before the game. Cities place bids to host a Super Bowl and are evaluated in terms of stadium renovation and their ability to host. In 2014, a document listing the specific requirements of Super Bowl hosts was leaked, giving a clear list of what was required for a Super Bowl host. Much of the cost of the Super Bowl is to be assumed by the host community, although some costs are enumerated within the requirements to be assumed by the NFL. Some of the host requirements include:",
+    "Nintendo was not as restrictive as Sega, which did not permit third-party publishing until Mediagenic in late summer 1988. Nintendo's intention, however, was to reserve a large part of NES game revenue for itself. Nintendo required that they be the sole manufacturer of all cartridges, and that the publisher had to pay in full before the cartridges for that game be produced. Cartridges could not be returned to Nintendo, so publishers assumed all the risk. As a result, some publishers lost more money due to distress sales of remaining inventory at the end of the NES era than they ever earned in profits from sales of the games. Because Nintendo controlled the production of all cartridges, it was able to enforce strict rules on its third-party developers, which were required to sign a contract by Nintendo that would obligate these parties to develop exclusively for the system, order at least 10,000 cartridges, and only make five games per year. A 1988 shortage of DRAM and ROM chips also reportedly caused Nintendo to only permit 25% of publishers' requests for cartridges. This was an average figure, with some publishers receiving much higher amounts and others almost none. GameSpy noted that Nintendo's \"iron-clad terms\" made the company many enemies during the 1980s. Some developers tried to circumvent the five game limit by creating additional company brands like Konami's Ultra Games label; others tried circumventing the 10NES chip.",
+    "Super Mario Bros. 2 is a platform game developed and published by Nintendo for the Nintendo Entertainment System. The game was first released in North America in October 1988, and in PAL regions the following year. Super Mario Bros. 2 has been remade or re-released for several video game consoles.",
+    "Packy & Marlon is an educational platform video game developed by WaveQuest and published by Raya Systems for the Super Nintendo Entertainment System. It was designed to improve self-care behavior in children with Diabetes mellitus type 1. The game achieved some success with treatment groups. It is a part of educational video game series from Raya that includes \"Captain Novolin\", \"\" and \"Bronkie the Bronchiasaurus\".",
+    "Electronic Super Joy is a platform video game created by Michael Todd. The game is available for Microsoft Windows, OS X, Linux, Nintendo Wii U, PlayStation 4 and Xbox One. A PlayStation Vita release was planned, but later cancelled. The developers have announced plans to publish it on iOS and Android.",
+    "The NFL owners meet to make a selection on the site, usually three to five years prior to the event. In 2007, NFL commissioner Roger Goodell suggested that a Super Bowl might be played in London, perhaps at Wembley Stadium. The game has never been played in a region that lacks an NFL franchise; seven Super Bowls have been played in Los Angeles, but none were held there in the 21 - year period when the league had no team in the area. New Orleans, the site of the 2013 Super Bowl, invested more than $1 billion in infrastructure improvements in the years leading up to the game.",
+    "Mega Man X Collection is a compilation of video games developed by Capcom. Released on January 10, 2006 exclusively in North America for the GameCube and PlayStation 2 platforms, \"Mega Man X Collection\" contains the first six games in the \"Mega Man X\" series, which originated on the Super Nintendo Entertainment System and made its way primarily onto various 32-bit consoles. All six games are action platformers in which the player traverses a series of stages and gains the special weapons of defeated bosses.",
+    "During the NES era, Nintendo maintained exclusive control over titles released for the system—the company had to approve every game, each third-party developer could only release up to five games per year (but some third parties got around this by using different names, for example Konami's \"Ultra Games\" brand), those games could not be released on another console within two years, and Nintendo was the exclusive manufacturer and supplier of NES cartridges. However, competition from Sega's console brought an end to this practice; in 1991, Acclaim began releasing games for both platforms, with most of Nintendo's other licensees following suit over the next several years; Capcom (which licensed some games to Sega instead of producing them directly) and Square were the most notable holdouts.",
+    "Wario Land: Super Mario Land 3 is a platform game developed by Nintendo for the Game Boy in 1994. It is the first video game to feature Wario as both a playable character and the main character, as well as the first appearance of Captain Syrup and her Brown Sugar Pirates, recurring villains in the \"Wario Land\" series.",
+    "New Super Mario Bros. Wii is a 2009 side - scrolling platform video game developed and published by Nintendo for the Wii. A sequel to New Super Mario Bros., the game was released worldwide in November 2009, and in Japan the following month. A high - definition remastered port for the Nvidia Shield TV was released exclusively in China in December 2017.",
+    "Battle Clash is a mecha-themed light gun shooting game produced by Nintendo and Intelligent Systems and released for the Super Nintendo Entertainment System in 1992. The game supports the Super Nintendo's light gun, the Super Scope. It was followed by \"\" during the following year.",
+    "The Super Nintendo Entertainment System (officially abbreviated the Super NES[b] or SNES[c], and commonly shortened to Super Nintendo[d]) is a 16-bit home video game console developed by Nintendo that was released in 1990 in Japan and South Korea, 1991 in North America, 1992 in Europe and Australasia (Oceania), and 1993 in South America. In Japan, the system is called the Super Famicom (Japanese: スーパーファミコン, Hepburn: Sūpā Famikon?, officially adopting the abbreviated name of its predecessor, the Family Computer), or SFC for short. In South Korea, it is known as the Super Comboy (슈퍼 컴보이 Syupeo Keomboi) and was distributed by Hyundai Electronics. Although each version is essentially the same, several forms of regional lockout prevent the different versions from being compatible with one another. It was released in Brazil on September 2, 1992, by Playtronic.",
+    "Stunt Race FX, known in Japan as , is a cartoon-style, 3D-racing video game developed by Nintendo EAD with the assistance of Argonaut Software and published by Nintendo for the Super NES. It was the second game to use the 3D-centric Super FX powered GSU-1.",
+    "Super Bowl XXXVII was an American football game between the American Football Conference (AFC) champion Oakland Raiders and the National Football Conference (NFC) champion Tampa Bay Buccaneers to decide the National Football League (NFL) champion for the 2002 season. The Buccaneers defeated the Raiders by the score of 48 -- 21, tied with Super Bowl XXXV for the seventh largest Super Bowl margin of victory, and winning their first ever Super Bowl. The game, played on January 26, 2003 at Qualcomm Stadium in San Diego, California, was the sixth Super Bowl to be held a week after the conference championship games (XVII, XXV, XXVIII, XXXIV, and XXXVI). It was also the last Super Bowl played in the month of January. Super Bowl XXXVI was the first to be played in February, due to the NFL postponing games for a week after the September 11 attacks. Starting with Super Bowl XXXVIII in 2004, the Super Bowl has been permanently played in February. This was the last Super Bowl until Super Bowl 50 to take place in California.",
+    "Noel Berry (Skytorn) and Matt Thorson (TowerFall) created a prototype of Celeste in four days during a game jam, now named Celeste Classic. The result was a difficult platformer with 30 levels for the Pico-8 fantasy video game console designed for speedrunning and precision reflexes. Kill Screen noted that the game was a departure from Thorson's TowerFall, and had more in common with the game mechanics of his older games and Super Mario Maker work. The developers also took inspiration from difficult, Super Nintendo-era platformers. Berry and Thorson developed the game into a standalone release with over 200 rooms spread between eight chapters. They livestreamed parts of their development process on Twitch. The game was also demoed at the 2016 PAX West Indie Megabooth. Celeste released on Nintendo Switch, PlayStation 4, Xbox One, Windows, Linux and macOS on January 25, 2018. The original Pico-8 prototype is included in the game as an unlockable minigame. The game will eventually receive a limited collector's edition. Thorson stated that he plans to release a set of \"farewell levels\" for Celeste some time in 2019."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe sports association that chooses where the Super Bowl is held is the National Football League (NFL).\nThe video game named after the NFL is NFL, a 1989 football video game released for the Nintendo Entertainment System (NES).\nDuring the NES era, Nintendo maintained strict control over third-party developers.\nNintendo required that each third-party developer release no more than five games per year on the NES.\nThis five-game limit was enforced through contracts signed by developers.\nThe limit applied to all third-party developers on the NES platform.\nThe question asks for Nintendo's limit on games per developer per year on the platform of the game named after the NFL.\nThe platform of the game NFL is the Nintendo Entertainment System (NES).\nThe limit on games per developer per year on the NES was five.\n<answer> Five",
+  "predicted_answer": "Five",
+  "claims": [
+    "The sports association that chooses where the Super Bowl is held is the National Football League (NFL)",
+    "The video game named after the NFL is NFL, a 1989 football video game released for the Nintendo Entertainment System (NES)",
+    "During the NES era, Nintendo maintained strict control over third-party developers",
+    "Nintendo required that each third-party developer release no more than five games per year on the NES",
+    "This five-game limit was enforced through contracts signed by developers",
+    "The limit applied to all third-party developers on the NES platform",
+    "The question asks for Nintendo's limit on games per developer per year on the platform of the game named after the NFL",
+    "The platform of the game NFL is the Nintendo Entertainment System (NES)",
+    "The limit on games per developer per year on the NES was five"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The sports association that chooses where the Super Bowl is held is the National Football League (NFL)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The video game named after the NFL is NFL, a 1989 football video game released for the Nintendo Entertainment System (NES)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "During the NES era, Nintendo maintained strict control over third-party developers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Nintendo required that each third-party developer release no more than five games per year on the NES",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "This five-game limit was enforced through contracts signed by developers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The limit applied to all third-party developers on the NES platform",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The question asks for Nintendo's limit on games per developer per year on the platform of the game named after the NFL",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The platform of the game NFL is the Nintendo Entertainment System (NES)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The limit on games per developer per year on the NES was five",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

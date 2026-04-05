@@ -1,0 +1,79 @@
+{
+  "uid": "strategyqa__19b40f33fa199c1673fd",
+  "sample_id": "19b40f33fa199c1673fd",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can a Bengal cat survive eating only pancakes?",
+  "gold_answer": "no",
+  "context": [
+    "Bengal cats are carnivores.",
+    "Pancakes contain no meat.",
+    "Carnivores eat only meat to survive. "
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBengal cats are carnivores.\nCarnivores eat only meat to survive.\nPancakes contain no meat.\nA Bengal cat cannot survive on a diet consisting solely of pancakes.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Bengal cats are carnivores",
+    "Carnivores eat only meat to survive",
+    "Pancakes contain no meat",
+    "A Bengal cat cannot survive on a diet consisting solely of pancakes"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bengal cats are carnivores",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Carnivores eat only meat to survive",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Pancakes contain no meat",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "A Bengal cat cannot survive on a diet consisting solely of pancakes",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

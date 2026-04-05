@@ -1,0 +1,108 @@
+{
+  "uid": "strategyqa__bdaf032b5e375aeb9bfa",
+  "sample_id": "bdaf032b5e375aeb9bfa",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would Bobby Jindal's high school mascot eat kibble?",
+  "gold_answer": "yes",
+  "context": [
+    "Bobby Jindal attended Baton Rouge Magnet High School.",
+    "Baton Rouge Magnet High School's mascot is the bulldog.",
+    "Kibble is another name for the dry form of dog/pet food."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBobby Jindal attended Baton Rouge Magnet High School.\nThe mascot of Baton Rouge Magnet High School is the bulldog.\nKibble is a type of dry food commonly fed to dogs.\nThe bulldog mascot is a dog.\nDogs eat kibble.\nThe bulldog mascot would eat kibble.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Bobby Jindal attended Baton Rouge Magnet High School",
+    "The mascot of Baton Rouge Magnet High School is the bulldog",
+    "Kibble is a type of dry food commonly fed to dogs",
+    "The bulldog mascot is a dog",
+    "Dogs eat kibble",
+    "The bulldog mascot would eat kibble"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bobby Jindal attended Baton Rouge Magnet High School",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The mascot of Baton Rouge Magnet High School is the bulldog",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Kibble is a type of dry food commonly fed to dogs",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The bulldog mascot is a dog",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Dogs eat kibble",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The bulldog mascot would eat kibble",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__6db45b3208bf11ebbd8aac1f6bf848b6",
+  "sample_id": "6db45b3208bf11ebbd8aac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film whose director is younger, Return Of The Hero or Home In Indiana?",
+  "gold_answer": "Return Of The Hero",
+  "context": [
+    "Rumah means\" house\" or\" home\" in the Indonesian language. It may also refer to:",
+    "People's hero or national hero may refer to:",
+    "The Hero may refer to:",
+    "Local Hero or Local Heroes may refer to:",
+    "The false hero is a stock character in fairy tales, and sometimes also in ballads. The character appears near the end of a story in order to claim to be the hero or heroine and is, therefore, usually of the same sex as the hero or heroine. The false hero presents some claim to the position. By testing, it is revealed that the claims are false, and the hero's true. The false hero is usually punished, and the true hero put in his place. Vladimir Propp identified it as one of the seven roles he found in an analysis of Russian folktales, but the figure is widely found in many nations' tales.",
+    "Home in Indiana is a 1944 Technicolor film directed by Henry Hathaway. The film, that stars Walter Brennan, Lon McCallister, Jeanne Crain, June Haver and Charlotte Greenwood, is based on the novel\" The Phantom Filly\" by George Agnew Chamberlain. The film was remade in 1957 as\" April Love\". The movie was nominated for an Oscar in the category Best Cinematography, Color.",
+    "Return of the Hero( original title: Le retour du héros) is a 2018 Franco- Belgian film directed by Laurent Tirard and starring Jean Dujardin and Mélanie Laurent.",
+    "@Home or @home may refer to:",
+    "Laurent Tirard( born 18 February 1967) is a French film director and screenwriter.",
+    "Henry Hathaway( March 13, 1898 – February 11, 1985) was an American film director and producer. He is best known as a director of Westerns, especially starring Randolph Scott and John Wayne. He directed Gary Cooper in seven films."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nReturn of the Hero was directed by Laurent Tirard.\nLaurent Tirard was born on 18 February 1967.\nHome in Indiana was directed by Henry Hathaway.\nHenry Hathaway was born on 13 March 1898.\n1967 is later than 1898.\nLaurent Tirard is younger than Henry Hathaway.\nThe film whose director is younger is Return of the Hero.\n<answer> Return of the Hero",
+  "predicted_answer": "Return of the Hero",
+  "claims": [
+    "Return of the Hero was directed by Laurent Tirard",
+    "Laurent Tirard was born on 18 February 1967",
+    "Home in Indiana was directed by Henry Hathaway",
+    "Henry Hathaway was born on 13 March 1898",
+    "1967 is later than 1898",
+    "Laurent Tirard is younger than Henry Hathaway",
+    "The film whose director is younger is Return of the Hero"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Return of the Hero was directed by Laurent Tirard",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Laurent Tirard was born on 18 February 1967",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Home in Indiana was directed by Henry Hathaway",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Henry Hathaway was born on 13 March 1898",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1967 is later than 1898",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Laurent Tirard is younger than Henry Hathaway",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film whose director is younger is Return of the Hero",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "uid": "musique__4hop1__436202_765799_282674_759393",
+  "sample_id": "4hop1__436202_765799_282674_759393",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What is the seat of the county sharing a border with the county in which J. P. Hayes was born?",
+  "gold_answer": "Green Bay",
+  "context": [
+    "Sleen is a village in Drenthe, Netherlands of about 2500 people. Sleen has been inhabited for centuries. Much ancient history can be found in the area, particularly in the forests (which are planted, though). At birth and during the Republiek der Zeven Verenigde Nederlanden (Republic of the Seven United Netherlands (1581–1795)). Sleen became the capital of one of the six “dingspels” (administrative areas) of Drenthe. When Drenthe was recognised as a province, Sleen became a municipality capital, before it merged into the municipality of Coevorden.",
+    "Namibia (i/nəˈmɪbiə/, /næˈ-/), officially the Republic of Namibia (German:  Republik Namibia (help·info); Afrikaans: Republiek van Namibië) is a country in southern Africa whose western border is the Atlantic Ocean. It shares land borders with Zambia and Angola to the north, Botswana to the east and South Africa to the south and east. Although it does not border Zimbabwe, a part of less than 200 metres of the Zambezi River (essentially a small bulge in Botswana to achieve a Botswana/Zambia micro-border) separates it from that country. Namibia gained independence from South Africa on 21 March 1990, following the Namibian War of Independence. Its capital and largest city is Windhoek, and it is a member state of the United Nations (UN), the Southern African Development Community (SADC), the African Union (AU), and the Commonwealth of Nations.",
+    "Ou Reang Ov District () is a district (\"srok\") located in Tboung Khmum Province, Cambodia. The district capital is Ou Reang Ov town located around 30 kilometres south of the provincial capital of Kampong Cham by road. Ou Reang Ov lies on the border where Tboung Khmum, Kampong Cham and Prey Veng provinces meet; the town of Prey Veng is only 42 kilometres away by road.",
+    "Hayes was born and raised in Appleton, Wisconsin. He attended the University of Texas at El Paso, where he was a member of the golf team. He majored in marketing and graduated in 1988. In 1989, he turned professional.",
+    "Chol Kiri District () is a district (\"srok\") in the east of Kampong Chhnang Province, in central Cambodia. The district capital is Chol Kiri town located around 8 kilometres south of the provincial capital of Kampong Chhnang by road. Chol Kiri District is the easternmost district of Kampong Chhnang. The district shares a border with Kampong Thom and Kampong Cham provinces to the east. Most of the district is low lying floodplain and the Tonlé Sap river runs through the district roughly from north to south. This proximity to the river and the lack of high land make Chol Kiri one of the most flood prone districts in the country. The Kampong Chhnang Department of Development has estimated that both Chol Kiri and Kampong Leaeng districts are flooded for six months of the year and that after the floodwaters have receded drinking water sources are left contaminated.",
+    "Ottoman cuisine refers to the cuisine of the capital, Istanbul, and the regional capital cities, where the melting pot of cultures created a common cuisine that most of the population regardless of ethnicity shared. This diverse cuisine was honed in the Imperial Palace's kitchens by chefs brought from certain parts of the Empire to create and experiment with different ingredients. The creations of the Ottoman Palace's kitchens filtered to the population, for instance through Ramadan events, and through the cooking at the Yalıs of the Pashas, and from there on spread to the rest of the population.",
+    "Pulaski High School is a public high school in Pulaski, Wisconsin, in Brown County, Wisconsin (school district also serves parts of Shawano, Outagamie and Oconto counties), that serves students in grades 9 through 12. Its mascot is the Red Raider.",
+    "Washington, D.C. is the current federal capital city of the United States, as it has been since 1800. Each U.S. state has its own capital city, as do many of its Insular areas. Historically, most states have not changed their capital city since becoming a state, but the capital cities of their respective preceding colonies, territories, kingdoms, and republics typically changed multiple times. There have also been other governments within the current borders of the United States with their own capitals, such as the Republic of Texas, Native American nations, and other unrecognized governments.",
+    "Sinzongo is a village in the Lobaye region in the Central African Republic southwest of the capital, Bangui and near the border with the Democratic Republic of the Congo.",
+    "Although the ECB is governed by European law directly and thus not by corporate law applying to private law companies, its set-up resembles that of a corporation in the sense that the ECB has shareholders and stock capital. Its capital is five billion euros which is held by the national central banks of the member states as shareholders. The initial capital allocation key was determined in 1998 on the basis of the states' population and GDP, but the key is adjustable. Shares in the ECB are not transferable and cannot be used as collateral.",
+    "On July 30, 2007 Oak Hill Capital Partners acquired Southern Air and merged the two airlines into one, giving birth to Southern Air Holdings, Inc. Consequently, Cargo 360 was absorbed into Southern Air in January 2008 and ceased operating under its own colors.",
+    "In the U.S., the issuance of birth certificates is a function of the Vital Records Office of the states, capital district, territories and former territories. Birth in the U.S. establishes automatic eligibility for American citizenship, so a birth certificate from a local authority is commonly provided to the federal government to obtain a U.S. passport. However, the U.S. State Department does issue a Consular Report of Birth Abroad for children born to U.S. citizens (who are also eligible for citizenship), including births on military bases in foreign territory.",
+    "Rodnowo () is a village in the administrative district of Gmina Bartoszyce, within Bartoszyce County, Warmian-Masurian Voivodeship, in northern Poland, close to the border with the Kaliningrad Oblast of Russia. It lies approximately west of Bartoszyce and north of the regional capital Olsztyn.",
+    "Capital Bars plc (formerly known as Break for the Border Group plc) is an Irish leisure company based in Dublin. Its core business is the acquisition, development and operation of bars, hotels and restaurants, all based in Dublin city centre. Brothers Desmond and Liam O'Dwyer control the company as Joint Managing Directors. After acquiring Capital Bars in 2001, the O’Dwyers took the company private the following year.",
+    "Tymce (, \"Tymtsi\") is a village in the administrative district of Gmina Lubaczów, within Lubaczów County, Subcarpathian Voivodeship, in south-eastern Poland, close to the border with Ukraine. It lies approximately north-east of Lubaczów and east of the regional capital Rzeszów.",
+    "Toledo is a province of central Spain, in the western part of the autonomous community of Castile–La Mancha. It is bordered by the provinces of Madrid, Cuenca, Ciudad Real, Badajoz, Cáceres, and Ávila. Its capital is the city of Toledo.",
+    "Potes is a municipality in the autonomous community of Cantabria in Spain. It is the capital of the Comarca of Liébana and is located in the centre of it. It is bordered to the north by Cillorigo de Liébana, to the west by Camaleño, to the south by Vega de Liébana and to the east by Cabezón de Liébana.",
+    "Koh Sotin District () is a district (\"srok\") located in Kampong Cham Province, Cambodia. The district capital is Chi Haer town located around 10 kilometres south of the provincial capital of Kampong Cham by water, but some 42 kilometres by road. The district borders on the southern bank of the Mekong River and includes the islands of Koh Sothin and Koh Mitt in its area.",
+    "John C. Petersen (November 2, 1842 – July 10, 1887) was an American butcher and farmer from Appleton, Wisconsin who served as a member of the Wisconsin State Assembly from Outagamie County. He was elected in 1878 as a Greenbacker, and was re-elected the next year as a \"Greenback Democrat\" (even though he was opposed by a Democrat).",
+    "Born in Green Bay, Wisconsin, Quinn was a realtor and served on the Green Bay Common Council, the Brown County, Wisconsin Board of Supervisors, the local Board of Education, and the Wisconsin State Assembly from 1955 until 1973. He was a Republican."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJ. P. Hayes was born and raised in Appleton, Wisconsin.\nAppleton is located in Outagamie County, Wisconsin.\nThe county that shares a border with Outagamie County is Brown County, Wisconsin.\nThe seat of Brown County, Wisconsin is Green Bay.\nThe seat of the county sharing a border with the county in which J. P. Hayes was born is Green Bay.\n<answer> Green Bay",
+  "predicted_answer": "Green Bay",
+  "claims": [
+    "J. P. Hayes was born and raised in Appleton, Wisconsin",
+    "Appleton is located in Outagamie County, Wisconsin",
+    "The county that shares a border with Outagamie County is Brown County, Wisconsin",
+    "The seat of Brown County, Wisconsin is Green Bay",
+    "The seat of the county sharing a border with the county in which J. P. Hayes was born is Green Bay"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "J. P. Hayes was born and raised in Appleton, Wisconsin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Appleton is located in Outagamie County, Wisconsin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The county that shares a border with Outagamie County is Brown County, Wisconsin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The seat of Brown County, Wisconsin is Green Bay",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The seat of the county sharing a border with the county in which J. P. Hayes was born is Green Bay",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

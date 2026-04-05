@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__69ef20980bdc11eba7f7acde48001122",
+  "sample_id": "69ef20980bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the director of film The Planet (Film) born?",
+  "gold_answer": "Bollnäs",
+  "context": [
+    "The Planet is a Swedish documentary film on environmental issues, released in 2006. The film was made by Michael Stenberg, Johan Söderberg and Linus Torell for the big screen and was shot in English to reach an international audience. It includes interviews with 29 environmental scientists and experts including Stephen Peake, Herman Daly, Lester Brown, Gretchen Daily, Mathis Wackernagel, Norman Myers, Jill Jäger, George Monbiot, Robert Costanza, Will Steffen, and Jared Diamond. At 8pm GMT on 21 March 2007, as part of the OXDOX:MK documentary film festival, it became the first ever simultaneous round the world screening of a film. After the screening, a panel of leading environmental experts answered questions from around the world from the Berrill Lecture Theatre at The Open University, England.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Charles Planet( born 30 October 1993) is a French professional racing cyclist, who currently rides for UCI Professional Continental team.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Johan Olof Anders Söderberg (born 14 November 1962 in Bollnäs) is a Swedish film director and editor. He was considered part of the now terminated Swedish multimedia collective Lucky People Center. Söderberg is recognized for the work he has done for Madonna: he edited both the \"Hung Up\" (2005) and \"Sorry\" (2006) music videos, as well as footage from her 2004 documentary \"I'm Going To Tell You A Secret\"; he directed the \"Sorry Remix\" video backdrop for the Confessions Tour in 2006 and co-directed the \"Hey You\" video (2007) with Marcus Lindkvist, which consists mostly of images from different cultures and global warming. He also remixed and directed the controversial concert video \" Get Stupid\" for the\nSticky & Sweet Tour. He also created the popular web video-hacked viral for the strand Read My Lips on Swedish TV show Kobra, which featured Tony Blair and George W. Bush lip-synching a love song. This technique was also used in the 2005 film \"The Voice\".",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980. He was also the Director General of Police in Punjab.",
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Peter Levin is an American director of film, television and theatre."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Planet is a Swedish documentary film released in 2006.\nThe film was made by Michael Stenberg, Johan Söderberg, and Linus Torell.\nJohan Olof Anders Söderberg is a Swedish film director and editor.\nJohan Olof Anders Söderberg was born on 14 November 1962 in Bollnäs.\nBollnäs is a town in Sweden.\nThe director of the film The Planet was born in Bollnäs, Sweden.\n<answer> Bollnäs, Sweden",
+  "predicted_answer": "Bollnäs, Sweden",
+  "claims": [
+    "The Planet is a Swedish documentary film released in 2006",
+    "The film was made by Michael Stenberg, Johan Söderberg, and Linus Torell",
+    "Johan Olof Anders Söderberg is a Swedish film director and editor",
+    "Johan Olof Anders Söderberg was born on 14 November 1962 in Bollnäs",
+    "Bollnäs is a town in Sweden",
+    "The director of the film The Planet was born in Bollnäs, Sweden"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Planet is a Swedish documentary film released in 2006",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The film was made by Michael Stenberg, Johan Söderberg, and Linus Torell",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Johan Olof Anders Söderberg is a Swedish film director and editor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Johan Olof Anders Söderberg was born on 14 November 1962 in Bollnäs",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Bollnäs is a town in Sweden",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director of the film The Planet was born in Bollnäs, Sweden",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

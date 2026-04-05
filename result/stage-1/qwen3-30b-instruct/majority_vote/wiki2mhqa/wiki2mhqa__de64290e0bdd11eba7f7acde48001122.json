@@ -1,0 +1,99 @@
+{
+  "uid": "wiki2mhqa__de64290e0bdd11eba7f7acde48001122",
+  "sample_id": "de64290e0bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of burial of Dovid Bornsztain's father?",
+  "gold_answer": "Sochaczew",
+  "context": [
+    "Shmuel Bornsztain (16 October 1855 – 10 January 1926), Hebrew calendar (4 Cheshvan 5616 – 24 Teves 5686), also spelled Borenstein or Bernstein, was the second Rebbe of the Sochatchov Hasidic dynasty. He was known as the Shem Mishmuel by the title of his nine-volume work of Torah and Hasidic thought. He was a leading Hasidic thinker in early 20th-century Europe and a Rebbe to thousands of Hasidim in the Polish cities of Sochaczew (Sochatchov) and Łódź.",
+    "Daigo's reign spanned the years from 897 through 930. He is named after his place of burial.",
+    "The place of birth( POB) or birthplace is the place where a person was born. This place is often used in legal documents, together with name and date of birth, to uniquely identify a person. As a general rule with respect to passports, the place of birth is determined to be the country that currently has\" sovereignty\" over the actual place of birth, regardless of when the birth actually occurred. The place of birth is not necessarily the place where the parents of the new baby live. If the baby is born in a hospital in another place, that place is the place of birth. In many countries, this also means that the government requires that the birth of the new baby is registered in the place of birth. Some countries place less or no importance on the place of birth, instead using alternative geographical characteristics for the purpose of identity documents. For example, Sweden has used the concept of\" födelsehemortdomicile of birth\") since 1947. This means that the domicile of the baby's mother is the registered place of birth. The location of the maternity ward or other physical birthplace is considered unimportant. Similarly, Switzerland uses the concept of\" Heimatortlieu d'origineluogo d'origineplace of origin\" in German, French and Italian respectively). A child born to Swiss parents is automatically assigned the place of origin of the parent with the same last name, so the child either gets their mother's or father's place of origin. A child born to one Swiss parent and one foreign parent acquires the place of origin of their Swiss parent. In a Swiss passport and identity card, the holder's place of origin is stated, not their place of birth. In some countries( primarily in the Americas), the place of birth automatically determines the nationality of the baby, a practice often referred to by the Latin phrase\" jus soli\". Almost all countries outside the Americas instead attribute nationality based on the nationality( ies) of the baby's parents( referred to as\" jus sanguinis\"). There can be some confusion regarding the place of birth if the birth takes place in an unusual way: when babies are born on an airplane or at sea, difficulties can arise. The place of birth of such a person depends on the law of the countries involved, which include the nationality of the plane or ship, the nationality( ies) of the parents and/ or the location of the plane or ship( if the birth occurs in the territorial waters or airspace of a country). Some administrative forms may request the applicant's\" country of birth\". It is important to determine from the requester whether the information requested refers to the applicant's\" place of birth\" or\" nationality at birth\". For US citizens born abroad who under the US Constitution acquire US citizenship at the time of birth, the nationality at birth will be USA( American), while the place of birth would be the country in which the actual birth takes place.",
+    "\" Where Was I?\" may refer to:",
+    "The Ancient Egyptian artisan Sennedjem lived in Set Maat( translated as\" The Place of Truth\"), contemporary Deir el- Medina, on the west bank of the Nile, opposite Thebes, during the reigns of Seti I and Ramesses II. Sennedjem had the title\" Servant in the Place of Truth\". He was buried along with his wife, Iyneferti, and family in a tomb in the village necropolis. His tomb was discovered January 31, 1886. When Sennedjem's tomb was found, in it there was regular furniture from his home, including a stool and a bed, which he actually used when he was alive. His titles included Servant in the Place of Truth, meaning that he worked on the excavation and decoration of the nearby royal tombs.",
+    "William Rockhill Nelson( March 7, 1841 – April 13, 1915) was a real estate developer and co-founder of The Kansas City Star in Kansas City, Missouri. He donated his estate( and home) for the establishment of the Nelson- Atkins Museum of Art. Place of burial: Mount Washington Cemetery, Independence Missouri.",
+    "Motherland is the place of one's birth, the place of one's ancestors, or the place of origin of an ethnic group. Motherland may also refer to:",
+    "Dovid Bornsztain (1876 – 17 November 1942), also spelled Borenstein, Bornstein and Bernstein, known as the Chasdei Dovid, was the third Rebbe of the Sochatchov Hasidic dynasty. He succeeded his father, Rabbi Shmuel Bornsztain, as Rebbe upon the latter's death in 1926.",
+    "Daigo's reign spanned the years from 897 through 930. He is named after his place of burial.",
+    "Sarre Anglo- Saxon cemetery is a place of burial that was used in the sixth and seventh centuries CE."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDovid Bornsztain was the third Rebbe of the Sochatchov Hasidic dynasty.\nDovid Bornsztain succeeded his father, Rabbi Shmuel Bornsztain, as Rebbe in 1926.\nShmuel Bornsztain died on 10 January 1926.\nThe place of burial of Shmuel Bornsztain is not specified in the provided text.\nThe place of burial of Dovid Bornsztain's father is not stated.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Dovid Bornsztain was the third Rebbe of the Sochatchov Hasidic dynasty",
+    "Dovid Bornsztain succeeded his father, Rabbi Shmuel Bornsztain, as Rebbe in 1926",
+    "Shmuel Bornsztain died on 10 January 1926",
+    "The place of burial of Shmuel Bornsztain is not specified in the provided text",
+    "The place of burial of Dovid Bornsztain's father is not stated"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Dovid Bornsztain was the third Rebbe of the Sochatchov Hasidic dynasty",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Dovid Bornsztain succeeded his father, Rabbi Shmuel Bornsztain, as Rebbe in 1926",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Shmuel Bornsztain died on 10 January 1926",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The place of burial of Shmuel Bornsztain is not specified in the provided text",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The place of burial of Dovid Bornsztain's father is not stated",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__51126206a7baab47253d",
+  "sample_id": "51126206a7baab47253d",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Hillary Clinton's deputy chief of staff in 2009 baptised?",
+  "gold_answer": "no",
+  "context": [
+    "Huma Abedin was Hillary Clinton's deputy chief of staff in 2009",
+    "Huma Abedin is an American Muslim",
+    "Baptism is a Christian tradition"
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHuma Abedin was Hillary Clinton's deputy chief of staff in 2009.\nHuma Abedin is an American Muslim.\nBaptism is a Christian tradition.\nMuslims do not practice baptism as part of their religious tradition.\nHuma Abedin, being a Muslim, was not baptised.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Huma Abedin was Hillary Clinton's deputy chief of staff in 2009",
+    "Huma Abedin is an American Muslim",
+    "Baptism is a Christian tradition",
+    "Muslims do not practice baptism as part of their religious tradition",
+    "Huma Abedin, being a Muslim, was not baptised"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Huma Abedin was Hillary Clinton's deputy chief of staff in 2009",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Huma Abedin is an American Muslim",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Baptism is a Christian tradition",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Muslims do not practice baptism as part of their religious tradition",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Huma Abedin, being a Muslim, was not baptised",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

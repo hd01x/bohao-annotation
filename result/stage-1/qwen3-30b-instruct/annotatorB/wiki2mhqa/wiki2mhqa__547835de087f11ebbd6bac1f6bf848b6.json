@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__547835de087f11ebbd6bac1f6bf848b6",
+  "sample_id": "547835de087f11ebbd6bac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who was born later, Park So-Jin or Joseph M. Pettit?",
+  "gold_answer": "Park So-Jin",
+  "context": [
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Park So- dam( born September 8, 1991) is a South Korean actress.",
+    "Catherine I( born, later known as Marta Samuilovna Skavronskaya; –) was the second wife of Peter the Great and Empress of Russia from 1725 until her death.",
+    "Park So-young( Hangul: 박소영; born 27 May 1994) is a South Korean badminton player.",
+    "Lee Hye- jin( or) is a South Korean track cyclist. At the 2012 Summer Olympics, she competed in the Women's sprint, Women's keirin, and Women's team sprint. She was 8th at the 2016 Summer Olympics in Keirin.",
+    "Jo Sung-jin or Cho Sung-jin( born 14 December 1990) is a South Korean football defender who plays for Suwon Samsung Bluewings.",
+    "Kim So- jin( born 1979) is a South Korean actress. She is known for playing a prosecutor in crime drama\" The King\"( 2017), for which she received critical acclaim and won several awards, including the Blue Dragon Film Award, Grand Bell Award and Baeksang Arts Award for Best Supporting Actress.",
+    "Park So-jin( born May 21, 1986), better known by the mononym Sojin, is a South Korean singer and songwriter. She is the leader of South Korean girl group Girl's Day.",
+    "Lee So- Jin( born) is a South Korean female volleyball player. She was part of the South Korea women's national volleyball team. She participated in the 2011 FIVB Volleyball World Grand Prix. On club level she played for IBK in 2011.",
+    "Joseph Mayo Pettit( July 15, 1916 – September 15, 1986) was an engineer who became dean of the Stanford University School of Engineering from 1958 to 1972, and president of the Georgia Institute of Technology from 1972 to 1986. While president of Georgia Tech, Pettit advanced the causes of research and industrial development at the school; Tech's research budget surpassed the$ 100 million mark and Pettit headed Tech's$ 100 million Centennial Campaign."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPark So-jin was born on May 21, 1986.\nJoseph Mayo Pettit was born on July 15, 1916.\n1986 is later than 1916.\nPark So-jin was born later than Joseph M. Pettit.\n<answer> Park So-jin",
+  "predicted_answer": "Park So-jin",
+  "claims": [
+    "Park So-jin was born on May 21, 1986",
+    "Joseph Mayo Pettit was born on July 15, 1916",
+    "1986 is later than 1916",
+    "Park So-jin was born later than Joseph M. Pettit"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Park So-jin was born on May 21, 1986",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Joseph Mayo Pettit was born on July 15, 1916",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1986 is later than 1916",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Park So-jin was born later than Joseph M. Pettit",
+      "claim_type": "DR"
+    }
+  ]
+}

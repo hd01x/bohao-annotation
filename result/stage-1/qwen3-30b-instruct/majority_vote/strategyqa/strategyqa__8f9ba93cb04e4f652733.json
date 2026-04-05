@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__8f9ba93cb04e4f652733",
+  "sample_id": "8f9ba93cb04e4f652733",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would an Orthodox Presbyterian object to 1700s judge's attire?",
+  "gold_answer": "yes",
+  "context": [
+    "Judges in the 1700s wore powdered wigs and large robes during court proceedings.",
+    "Many Orthodox Presbyterians argue that the Bible prohibits adornment such as wigs and jewelry.",
+    "The 1 Timothy 2:8-9 Bible verse warns against adorning oneself with objects."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJudges in the 1700s wore powdered wigs and large robes during court proceedings.\nPowdered wigs and large robes are forms of adornment.\nMany Orthodox Presbyterians argue that the Bible prohibits adornment such as wigs and jewelry.\nThe 1 Timothy 2:8-9 Bible verse warns against adorning oneself with objects.\nThe attire of 1700s judges includes items that fall under the category of prohibited adornment according to Orthodox Presbyterian beliefs.\nAn Orthodox Presbyterian would object to 1700s judge's attire.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Judges in the 1700s wore powdered wigs and large robes during court proceedings",
+    "Powdered wigs and large robes are forms of adornment",
+    "Many Orthodox Presbyterians argue that the Bible prohibits adornment such as wigs and jewelry",
+    "The 1 Timothy 2:8-9 Bible verse warns against adorning oneself with objects",
+    "The attire of 1700s judges includes items that fall under the category of prohibited adornment according to Orthodox Presbyterian beliefs",
+    "An Orthodox Presbyterian would object to 1700s judge's attire"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Judges in the 1700s wore powdered wigs and large robes during court proceedings",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Powdered wigs and large robes are forms of adornment",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Many Orthodox Presbyterians argue that the Bible prohibits adornment such as wigs and jewelry",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The 1 Timothy 2:8-9 Bible verse warns against adorning oneself with objects",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The attire of 1700s judges includes items that fall under the category of prohibited adornment according to Orthodox Presbyterian beliefs",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "An Orthodox Presbyterian would object to 1700s judge's attire",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

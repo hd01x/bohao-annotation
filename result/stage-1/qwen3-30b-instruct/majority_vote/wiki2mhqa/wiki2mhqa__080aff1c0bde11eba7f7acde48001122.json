@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__080aff1c0bde11eba7f7acde48001122",
+  "sample_id": "080aff1c0bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of Geoffrey Plantagenet, Count Of Anjou's wife?",
+  "gold_answer": "Westminster",
+  "context": [
+    "Robert II de Sablé( died 1165) was the son of Lisiard of Sable and Thiphaine of Briole. Robert and his father Lisiard, Lord of Sablé, both fought against the Counts of Anjou, Fulk V and Geoffrey Plantagenet. This conflict lasted until 1145, when he was defeated in battle and would remain a loyal subject of the Counts of Anjou.",
+    "Emma( or Emme) of Anjou( c.1140 –c.1214) was an illegitimate daughter of Geoffrey Plantagenet, Count of Anjou, and thus the half- sister of King Henry II of England. She was married to Dafydd ab Owain Gwynedd, a Welsh prince. She is occasionally confused with Emma de Laval( 1200- 1264), the daughter of Guy V de Laval, or alternatively with her mother, Emma de Dunstanville, who is sometimes also known as Emma of Anjou. Emma married Dafydd in the summer of 1174, after an unsuccessful rebellion by the queen, Eleanor of Aquitaine, and her older sons had led her half- brother the king to disperse Eleanor's court in Aquitaine and bring Emma back to England. Emma had four children by Dafydd: In 1176, after her husband's rule in the Kingdom of Gwynedd had been challenged by his brother, Emma is known to have visited King Henry II and received a gift of manors in Shropshire and Worcestershire. After Henry's death in 1189, she continued to attempt to protect her children's interests by making representations to Henry's heirs. In 1196, Emma and her husband, at the request of their son, Owain, gave property to Haughmond Abbey. Shortly afterwards, Dafydd was deposed by his nephew, Llywelyn the Great, and was forced into exile in England, where he died in 1203.",
+    "Geoffrey III of Anjou( in French\" Geoffroy III d' Anjou\")( 1040 – 1096), called\" le Barbuthe Bearded\"), was count of Anjou 1060- 68.",
+    "Fulk II of Anjou( c. 905 — 960), called(\" the Good\") was Count of Anjou from 942 to his death.",
+    "Empress Matilda (c. 7 February 110210 September 1167), also known as the Empress Maude, was one of the claimants to the English throne during the civil war known as the Anarchy. The daughter of King Henry I of England, she moved to Germany as a child when she married the future Holy Roman Emperor Henry V. She travelled with her husband into Italy in 1116, was controversially crowned in St. Peter's Basilica, and acted as the imperial regent in Italy. Matilda and Henry V had no children, and when he died in 1125, the imperial crown was claimed by his rival Lothair of Supplinburg. Meanwhile, Matilda's younger brother, William Adelin, died in the \"White Ship\" disaster of 1120, leaving Matilda's father and England facing a potential succession crisis. On Emperor Henry V's death, Matilda was recalled to Normandy by her father, who arranged for her to marry Geoffrey of Anjou to form an alliance to protect his southern borders. Henry I had no further legitimate children and nominated Matilda as his heir, making his court swear an oath of loyalty to her and her successors, but the decision was not popular in the Anglo-Norman court. Henry died in 1135, but Matilda and Geoffrey faced opposition from Anglo-Norman barons. The throne was instead taken by Matilda's cousin Stephen of Blois, who enjoyed the backing of the English Church. Stephen took steps to solidify his new regime but faced threats both from neighbouring powers and from opponents within his kingdom. In 1139, Matilda crossed to England to take the kingdom by force, supported by her half-brother Robert of Gloucester and her uncle King David I of Scotland, while Geoffrey focused on conquering Normandy. Matilda's forces captured Stephen at the Battle of Lincoln in 1141, but the Empress' attempt to be crowned at Westminster collapsed in the face of bitter opposition from the London crowds. As a result of this retreat, Matilda was never formally declared Queen of England, and was instead titled the Lady of the English. Robert was captured following the Rout of Winchester in 1141, and Matilda agreed to exchange him for Stephen. Matilda became trapped in Oxford Castle by Stephen's forces that winter, and was forced to escape across the frozen River Isis at night to avoid capture. The war degenerated into a stalemate, with Matilda controlling much of the south-west of England, and Stephen the south-east and the Midlands. Large parts of the rest of the country were in the hands of local, independent barons. Matilda returned to Normandy, now in the hands of her husband, in 1148, leaving her eldest son to continue the campaign in England; he eventually succeeded to the throne as Henry II in 1154, forming the Angevin Empire. She settled her court near Rouen and for the rest of her life concerned herself with the administration of Normandy, acting on her son's behalf when necessary. Particularly in the early years of her son's reign, she provided political advice and attempted to mediate during the Becket controversy. She worked extensively with the Church, founding Cistercian monasteries, and was known for her piety. She was buried under the high altar at Bec Abbey after her death in 1167.",
+    ", also known as, was the wife of Emperor Meiji of Japan.",
+    "William FitzEmpress( 22 July 1136 – 30 January 1164) was the youngest of the three sons of Empress Matilda and Geoffrey Plantagenet, Count of Anjou.",
+    "Geoffrey V (24 August 1113 – 7 September 1151)—called the Handsome or the Fair  and Plantagenet—was the Count of Anjou, Touraine, and Maine by inheritance from 1129, and also Duke of Normandy by conquest from 1144. His marriage to the Empress Matilda, daughter and heiress of Henry I of England, produced a son, Henry Curtmantle, who succeeded to the English throne as King Henry II (1154–1189) and was the first of the Plantagenet dynasty to rule England; the name \"Plantagenet\" was taken from Geoffrey's epithet. Geoffrey's ancestral domain of Anjou gave rise to the name Angevin for three kings of England (Henry II his son and heir, and Henry's sons Richard and John), and what became known as the Angevin Empire in the 12th century.",
+    "Geoffrey I of Anjou( – 21 July 987), known as\" Grisegonelle Grey Gown\" or\" Greymantle\"), was count of Anjou from 960 to 987.",
+    "Jean de la Flèche, also known as Jean de Beaugency, Seigneur de la Flèche( c.1030 – c.1097) was an 11th- century French nobleman. He was the youngest son of Lancelin I de Beaugency and Adelberg de Maine and was born about 1030 in La Flèche, Sarthe. In 1059, he married Paula of Maine, daughter of Herbert I, Count of Maine. Jean and Paula were the parents of Elias I, Count of Maine, who married Mathilde de Château- du- Loir, and the great- grandparents of Geoffrey Plantagenet, Count of Anjou, father of Henry II of England."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGeoffrey Plantagenet, Count of Anjou, was married to Empress Matilda.\nEmpress Matilda was the daughter of King Henry I of England.\nMatilda was born in England.\nThe place of birth of Geoffrey Plantagenet, Count of Anjou's wife is England.\n<answer> England",
+  "predicted_answer": "England",
+  "claims": [
+    "Geoffrey Plantagenet, Count of Anjou, was married to Empress Matilda",
+    "Empress Matilda was the daughter of King Henry I of England",
+    "Matilda was born in England",
+    "The place of birth of Geoffrey Plantagenet, Count of Anjou's wife is England"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Geoffrey Plantagenet, Count of Anjou, was married to Empress Matilda",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Empress Matilda was the daughter of King Henry I of England",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Matilda was born in England",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The place of birth of Geoffrey Plantagenet, Count of Anjou's wife is England",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

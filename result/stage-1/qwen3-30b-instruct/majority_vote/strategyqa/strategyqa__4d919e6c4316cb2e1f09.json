@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__4d919e6c4316cb2e1f09",
+  "sample_id": "4d919e6c4316cb2e1f09",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are ropes required to operate a frigate?",
+  "gold_answer": "yes",
+  "context": [
+    "Frigates are a kind of sailing ship.",
+    "Many features of ships require rope to use."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFrigates are a kind of sailing ship.\nSailing ships rely on rigging and sails to harness wind power.\nRope is a fundamental component of ship rigging and sail systems.\nRope is required to control sails, adjust rigging, and operate various ship functions.\nRopes are essential for the operation of a frigate.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Frigates are a kind of sailing ship",
+    "Sailing ships rely on rigging and sails to harness wind power",
+    "Rope is a fundamental component of ship rigging and sail systems",
+    "Rope is required to control sails, adjust rigging, and operate various ship functions",
+    "Ropes are essential for the operation of a frigate"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Frigates are a kind of sailing ship",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Sailing ships rely on rigging and sails to harness wind power",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Rope is a fundamental component of ship rigging and sail systems",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Rope is required to control sails, adjust rigging, and operate various ship functions",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Ropes are essential for the operation of a frigate",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

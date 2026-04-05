@@ -1,0 +1,32 @@
+{
+  "uid": "wiki2mhqa__dfe5c5e8088211ebbd6dac1f6bf848b6",
+  "sample_id": "dfe5c5e8088211ebbd6dac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who was born later, Jean-Jacques Rousseau or Richard Cawley?",
+  "gold_answer": "Richard Cawley",
+  "context": [
+    "Richard Blund( or Richard Blundy; died 1257) was a medieval Bishop of Exeter.",
+    "Jean -Jacques Rousseau( 28 June 1712 – 2 July 1778) was a Genevan philosopher, writer and composer. His political philosophy influenced the progress of the Enlightenment throughout Europe, as well as aspects of the French Revolution and the development of modern political, economic and educational thought. His\" Discourse on Inequality\" and\" The Social Contract\" are cornerstones in modern political and social thought. Rousseau's sentimental novel\" Julie, or the New Heloise\"( 1761) was important to the development of preromanticism and romanticism in fiction. His\" Emile, or On Education\"( 1762) is an educational treatise on the place of the individual in society. Rousseau's autobiographical writings — the posthumously published\" Confessions\"( composed in 1769), which initiated the modern autobiography, and the unfinished\" Reveries of a Solitary Walker\"( composed 1776 – 1778) —exemplified the late- 18 th- century, and featured an increased focus on subjectivity and introspection that later characterized modern writing. Rousseau befriended fellow philosophy writer Denis Diderot in 1742, and would later write about Diderot's romantic troubles in his\" Confessions\". During the period of the French Revolution, Rousseau was the most popular of the philosophers among members of the Jacobin Club. He was interred as a national hero in the Panthéon in Paris, in 1794, 16 years after his death.",
+    "Jacques Rousseau( June 4, 1630 – December 16, 1693) was a French painter.",
+    "Richard de Capella or Richard of the Chapel( died 1127) was a medieval Bishop of Hereford.",
+    "Robert Greenbury or Richard Greenbury( fl.1616–1650) was an English painter.",
+    "Jonas de Gélieu( 21 August 1740, Les Bayards- 17 October 1827, Colombier) was a Swiss pastor and beekeeper, notable for his contact with Jean Jacques Rousseau and Isabelle de Charrière.",
+    "Richard Cawley( born 28 May 1947) is an English food writer, chef and fashion designer.",
+    "Marie- Thérèse Levasseur( 21 September 1721- 12 July 1801; also known as Thérèse Le Vasseur and Thérèse Lavasseur) was the domestic partner of Genevan philosopher Jean- Jacques Rousseau.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Jean-Baptiste-Louis-Jacques-Joseph Rousseau, most often called Jean-Baptiste Rousseau or Joseph Rousseau, (10 December 1780 – 22 February 1831) was an early 19th-century French orientalist. He was the son of Jean-François Rousseau or Rousseau of Persia (1753-1808), consul of France in Basra and Baghdad and Anne-Marie Sahid. Jean-Baptiste Rousseau, married with Élisabeth Outrey, was himself consul in Basra in 1805, consul général in Aleppo and to the Tripoli Eyalet (1808)."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJean-Jacques Rousseau was born on 28 June 1712.\nRichard Cawley was born on 28 May 1947.\n1947 is later than 1712.\nRichard Cawley was born later than Jean-Jacques Rousseau.\nSo, the answer is Richard Cawley.\n<answer> Richard Cawley",
+  "claims": [
+    "Jean-Jacques Rousseau was born on 28 June 1712",
+    "Richard Cawley was born on 28 May 1947",
+    "1947 is later than 1712",
+    "Richard Cawley was born later than Jean-Jacques Rousseau",
+    "So, the answer is Richard Cawley"
+  ],
+  "predicted_answer": "Richard Cawley"
+}

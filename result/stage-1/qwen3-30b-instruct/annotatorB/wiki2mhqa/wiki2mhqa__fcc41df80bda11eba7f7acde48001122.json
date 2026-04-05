@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__fcc41df80bda11eba7f7acde48001122",
+  "sample_id": "fcc41df80bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of the composer of film Men With Brooms?",
+  "gold_answer": "Calgary",
+  "context": [
+    "Amedeo Escobar( 1888–1973) was an Italian composer of film scores.",
+    "Tarcisio Fusco was an Italian composer of film scores. He was the brother of the composer Giovanni Fusco and the uncle of operatic soprano Cecilia Fusco.",
+    "Men with Brooms is a 2002 Canadian romantic comedy film, starring and directed by Paul Gross. Centred on the sport of curling, the offbeat comedy tells the story of a reunited curling team from a small Canadian town as they work through their respective life issues and struggle to win the championship for the sake of their late coach. The cast also includes Connor Price, Leslie Nielsen, Peter Outerbridge, Kari Matchett, Molly Parker and Polly Shannon. Members of the Canadian rock band The Tragically Hip make a cameo appearance in the film as a competing rink representing Kingston, Ontario, the band's home city. Winnipeg curler and three-time Brier champion Jeff Stoughton also made a cameo appearance throwing his trademark \"spin-o-rama\" shot. A television adaptation, also titled \"Men with Brooms\" debuted October 4, 2010 on CBC Television for the 2010-11 television season.",
+    "Thomas Morse( born June 30, 1968) is an American composer of film and concert music.",
+    "Alonso Mudarra( c. 1510 – April 1, 1580) was a Spanish composer of the Renaissance, and also played the vihuela, a guitar- shaped string instrument. He was an innovative composer of instrumental music as well as songs, and was the composer of the earliest surviving music for the guitar.",
+    "Henri Verdun( 1895–1977) was a French composer of film scores.",
+    "Abe Meyer( 1901 – 1969) was an American composer of film scores.",
+    "Bert Grund( 1920–1992) was a German composer of film scores.",
+    "Walter Ulfig was a German composer of film scores.",
+    "Paul Michael Gross, OC (born April 30, 1959) is a Canadian actor, producer, director, singer, and writer born in Calgary, Alberta. He is known for his lead role as Constable Benton Fraser in the television series \" Due South\" as well as his 2008 war film \"Passchendaele\", which he wrote, produced, directed, and starred in. During \"Due South\"<nowiki>'</nowiki>s final season, Gross acted as executive producer in addition to starring, wrote the season three opener and finale, the two part series finale and wrote and sang songs for the show, some of which can be found on the two \"Due South\" soundtracks. He later found success with another Canadian TV series, \"Slings and Arrows\". He also produced one film with Akshay Kumar called \"Speedy Singhs\" starring Camilla Belle and Vinay Virmani."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMen with Brooms is a 2002 Canadian romantic comedy film.\nThe film was directed and starred Paul Gross.\nPaul Gross is a Canadian actor, producer, director, singer, and writer.\nPaul Gross is not listed as a composer of film scores in the context.\nNo composer for the film Men with Brooms is mentioned in the provided context.\nThe composer of film Men with Brooms is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Men with Brooms is a 2002 Canadian romantic comedy film",
+    "The film was directed and starred Paul Gross",
+    "Paul Gross is a Canadian actor, producer, director, singer, and writer",
+    "Paul Gross is not listed as a composer of film scores in the context",
+    "No composer for the film Men with Brooms is mentioned in the provided context",
+    "The composer of film Men with Brooms is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Men with Brooms is a 2002 Canadian romantic comedy film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The film was directed and starred Paul Gross",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Paul Gross is a Canadian actor, producer, director, singer, and writer",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Paul Gross is not listed as a composer of film scores in the context",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "No composer for the film Men with Brooms is mentioned in the provided context",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The composer of film Men with Brooms is not specified",
+      "claim_type": "DR"
+    }
+  ]
+}

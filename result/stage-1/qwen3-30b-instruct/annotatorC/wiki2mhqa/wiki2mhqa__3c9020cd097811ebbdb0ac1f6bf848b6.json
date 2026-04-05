@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__3c9020cd097811ebbdb0ac1f6bf848b6",
+  "sample_id": "3c9020cd097811ebbdb0ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film was released more recently, Paul Temple'S Triumph or The Quick And The Undead?",
+  "gold_answer": "The Quick And The Undead",
+  "context": [
+    "Of Gods and the Undead is a 1970 Brazilian drama film directed by Ruy Guerra. It was entered into the 20th Berlin International Film Festival.",
+    "The Quick and the Dead is a 1995 American Revisionist Western film directed by Sam Raimi, and starring Sharon Stone, Gene Hackman, Russell Crowe and Leonardo DiCaprio. The screenplay was written by Simon Moore but includes contributions from Joss Whedon. The story focuses on\" The Lady\"( Stone), a gunfighter who rides into the frontier town of Redemption, controlled by John Herod( Hackman). The Lady joins a deadly dueling competition in an attempt to exact revenge for her father's death. Simon Moore's script was purchased by Sony Pictures Entertainment in May 1993, and actress Sharon Stone signed on as both star and co-producer. Development was fast tracked after director Sam Raimi's hiring, and principal photography began in Old Tucson Studios in Arizona on November 21, 1993. The film was distributed by TriStar Pictures and was released in the US on February 10, 1995, to a dismal box office performance, receiving mixed reviews from critics. In later years, however, the film has earned critical praise especially for the performances, direction, cinematography and musical score, with some critics noting it as underrated in Raimi's catalog. This was Russell Crowe's American film debut and was Woody Strode's final performance( the film is dedicated to him), as well as the last theatrical release of Roberts Blossom who died in 2011. The phrase\" the quick and the dead\" is from the Second Epistle to Timothy( 2 Timothy 4:1) in various Bible versions, including the King James Bible, describing the final judgment. The plot of this film bears no resemblance to that of the 1987 film of the same name, which was based on a western novel by Louis L'Amour.",
+    "Calling Paul Temple is a 1948 British crime film directed by Maclean Rogers and starring John Bentley, Dinah Sheridan and Margaretta Scott. Paul Temple is called in to help Scotland Yard track down a serial killer who has murdered several wealthy women. John Bentley took over the role of Temple from Anthony Hulme and played him in two further films. It was produced by Ernest G. Roy at the Nettlefold Film Studios in Walton On Thames. The film featured extensive location work in Canterbury.",
+    "Paul Temple Returns is a 1952 British crime film directed by Maclean Rogers and starring John Bentley, Patricia Dainton and Peter Gawthorne. Known in the U.S. as \"Bombay Waterfront\", it was the fourth and last in the series of Paul Temple films, although the character was revived for the BBC television series \"Paul Temple\" in 1969.",
+    "One by One( reissued in edited form as The Quick and the Dead in 1978) is a documentary about the deadliness of Grand Prix racing, including footage of fatal racing accidents. It is narrated by Stacy Keach. The film was reissued as\" The Quick and the Dead\" in 1978 including the death of Tom Pryce at the 1977 South African Grand Prix. and was later released also as\" Champions Forever: The Formula One Drivers\".",
+    "Send for Paul Temple is a 1946 British crime film directed by John Argyle and starring Anthony Hulme, Joy Shelton and Tamara Desni. Paul Temple is called in by Scotland Yard after a major diamond theft. It was the first of four film adaptations of the BBC's Paul Temple radio serials, with John Bentley taking over the lead role in future installments. The film is an abridged version of the first ever\" Paul Temple\" radio serial, originally broadcast in 1938( and re-made in 1940 with a Canadian cast for broadcasting in Canada), which was also entitled\" Send for Paul Temple\". The radio script was written by Francis Durbridge. The film script is only indirectly based on the radio drama, since the screenplay is actually an adaptation by John Argyle of Durbridge's 1938 novel, which Durbridge had in turn based on the scripts for his 8- part radio serial. Accordingly, much of the 200 minute nominal duration of the radio production has been discarded in abridging the story to fit the film's much shorter 83 minute running time, and the plot has consequently been heavily truncated and considerably simplified. None of the radio cast appear in the film, although at the time of its UK release in 1946 this was not necessarily a significant drawback as the BBC had not then fixed on a particular cast for their radio broadcasts, and in fact seven different actors would portray the eponymous hero on BBC radio between 1938 and 1954 -- none of whom would ever be seen in the part since the BBC did not adapt the series for television until 1969, so in the 1940s and 1950s the films offered the only on- screen portrayal of Durbridge's characters. The DVD release misleadingly describes the film as written by Durbridge, although it was not. The adaptation is by Argyle, who reuses the names of characters and places from the novel, and recycles some plot ideas and situations, and the basic storyline; but a comparison with the extant 1940 Canadian radio production reveals( unsurprisingly, since five of the eight radio episodes have been omitted) that little of Durbridge's original dialogue, characterisation or detailed plotting survives. Durbridge's trademark ability to construct his radio dramas around the seven cliffhanger endings in his multipart serials is entirely lost.",
+    "The film was released in Japan on 10 October 2009.",
+    "The Quick and the Dead is a 1963 war film directed by Robert Totten, set in Nazi- occupied Europe during World War II.",
+    "Paul Temple's Triumph is a 1950 British crime film directed by Maclean Rogers and starring John Bentley, Dinah Sheridan and Jack Livesey. It was the third in the series of four Paul Temple films made at Nettlefold Studios, and was an adaptation of the Francis Durbridge radio serial\" News of Paul Temple\"( 1939). Temple is on the trail of a gang of international criminals trying to steal atomic secrets.",
+    "The Quick and the Undead is a 2006 zombie horror film written, directed, and produced by Gerald Nott."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPaul Temple's Triumph is a 1950 British crime film.\nThe Quick and the Undead is a 2006 zombie horror film.\n2006 is later than 1950.\nThe film released more recently is The Quick and the Undead.\n<answer> The Quick and the Undead",
+  "predicted_answer": "The Quick and the Undead",
+  "claims": [
+    "Paul Temple's Triumph is a 1950 British crime film",
+    "The Quick and the Undead is a 2006 zombie horror film",
+    "2006 is later than 1950",
+    "The film released more recently is The Quick and the Undead"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Paul Temple's Triumph is a 1950 British crime film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The Quick and the Undead is a 2006 zombie horror film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "2006 is later than 1950",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The film released more recently is The Quick and the Undead",
+      "claim_type": "DR"
+    }
+  ]
+}

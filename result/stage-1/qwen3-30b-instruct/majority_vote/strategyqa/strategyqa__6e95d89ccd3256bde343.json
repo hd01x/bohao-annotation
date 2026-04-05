@@ -1,0 +1,119 @@
+{
+  "uid": "strategyqa__6e95d89ccd3256bde343",
+  "sample_id": "6e95d89ccd3256bde343",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Amy Winehouse always perform live perfectly?",
+  "gold_answer": "no",
+  "context": [
+    "Amy Winehouse was known for getting intoxicated before an during sets.",
+    "Amy Winehouse forgot the lyrics to her songs during her last performance."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAmy Winehouse was known for getting intoxicated before and during her performances.\nIntoxication can impair cognitive and motor functions, including memory and coordination.\nAmy Winehouse forgot the lyrics to her songs during her last performance.\nForgetting lyrics is a sign of impaired performance.\nA perfect live performance requires accurate memory and execution of songs.\nAmy Winehouse did not perform perfectly during her last show.\nAmy Winehouse did not always perform live perfectly.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Amy Winehouse was known for getting intoxicated before and during her performances",
+    "Intoxication can impair cognitive and motor functions, including memory and coordination",
+    "Amy Winehouse forgot the lyrics to her songs during her last performance",
+    "Forgetting lyrics is a sign of impaired performance",
+    "A perfect live performance requires accurate memory and execution of songs",
+    "Amy Winehouse did not perform perfectly during her last show",
+    "Amy Winehouse did not always perform live perfectly"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Amy Winehouse was known for getting intoxicated before and during her performances",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Intoxication can impair cognitive and motor functions, including memory and coordination",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Amy Winehouse forgot the lyrics to her songs during her last performance",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Forgetting lyrics is a sign of impaired performance",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A perfect live performance requires accurate memory and execution of songs",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Amy Winehouse did not perform perfectly during her last show",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Amy Winehouse did not always perform live perfectly",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__e41c14820bd911eba7f7acde48001122",
+  "sample_id": "e41c14820bd911eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where does the director of film Man At Bath work at?",
+  "gold_answer": "Cahiers du cinéma",
+  "context": [
+    "Jason Moore( born October 22, 1970) is an American director of film, theatre and television.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Paul T. Scheuring( born November 20, 1968) is an American screenwriter and director of films and television shows. His work includes the 2003 film\" A Man Apart\" and the creation of the television drama\" Prison Break\", for which he was also credited as an executive producer and head writer.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Man at the Top is a 1973 British drama film directed by Mike Vardy and starring Kenneth Haigh, spun off from the television series\" Man at the Top\" which itself was inspired by the 1959 film\" Room at the Top\" and its sequel\" Life at the Top\".",
+    "Ian Barry is an Australian director of film and TV.",
+    "Man at Bath  is a 2010 French film by Christophe Honoré starring François Sagat and Chiara Mastroianni. The film premiered in competition at Locarno International Film Festival in Switzerland in 2010 and was released in cinemas on 22 September 2010. This is gay pornographic actor François Sagat's second major role in general release non-pornographic film as Emmanuel after his role in \"L.A. Zombie\". Director Christopher Honoré told French gay website Yagg.com that he was interested in Sagat because he \"redefines the notion of masculinity\". Sagat was the only actor to feature in two competition entries during the festival.",
+    "Christophe Honoré (born 10 April 1970) is a French writer and film director. Honoré was born in Carhaix, Finistère. After moving to Paris in 1995, he wrote articles in \"Les Cahiers du Cinéma\". He started writing soon after. His 1996 book \"Tout contre LéoClose to Leo\") talks about HIV and is aimed at young adults; he made it into a film in 2002. He wrote other books for young adults throughout the late 1990s. His first play, \"Les Débutantes\", was performed at Avignon's Off Festival in 1998. In 2005, he returned to Avignon to present \"Dionysos impuissant\" in the \"In\" Festival, with Joana Preiss and Louis Garrel playing the leads. A well-known director, he is considered an \"auteur\" in French cinema. His 2006 film \"Dans Paris\" has led him to be considered by French critics as the heir to the Nouvelle Vague cinema. In 2007, \"Les Chansons d'amour\" was one of the films selected to be in competition at the 2007 Cannes Film Festival. Honoré is openly gay, and some of his movies or screenplays (among them \"Les Filles ne savent pas nagerDix-sept fois Cécile Cassard\" and \"Les Chansons d'amour\") deal with gay or lesbian relations. Honoré has been the screenwriter for some of Gaël Morel's films. He has also directed Louis Garrel in five different films.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMan at Bath is a 2010 French film directed by Christophe Honoré.\nChristophe Honoré is a French writer and film director.\nHonoré was born in Carhaix, Finistère, France.\nHe has directed multiple films and is considered an auteur in French cinema.\nHe has been involved in film festivals and has worked in Paris.\nThere is no mention of a current institutional position for Christophe Honoré in the provided text.\nThe director of Man at Bath, Christophe Honoré, does not have a stated current workplace in the context.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Man at Bath is a 2010 French film directed by Christophe Honoré",
+    "Christophe Honoré is a French writer and film director",
+    "Honoré was born in Carhaix, Finistère, France",
+    "He has directed multiple films and is considered an auteur in French cinema",
+    "He has been involved in film festivals and has worked in Paris",
+    "There is no mention of a current institutional position for Christophe Honoré in the provided text",
+    "The director of Man at Bath, Christophe Honoré, does not have a stated current workplace in the context"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Man at Bath is a 2010 French film directed by Christophe Honoré",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Christophe Honoré is a French writer and film director",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Honoré was born in Carhaix, Finistère, France",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "He has directed multiple films and is considered an auteur in French cinema",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "He has been involved in film festivals and has worked in Paris",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "There is no mention of a current institutional position for Christophe Honoré in the provided text",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The director of Man at Bath, Christophe Honoré, does not have a stated current workplace in the context",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

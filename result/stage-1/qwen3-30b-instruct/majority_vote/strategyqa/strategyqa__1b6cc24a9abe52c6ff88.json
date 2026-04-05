@@ -1,0 +1,119 @@
+{
+  "uid": "strategyqa__1b6cc24a9abe52c6ff88",
+  "sample_id": "1b6cc24a9abe52c6ff88",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is there radiation where Nikola Tesla once worked?",
+  "gold_answer": "yes",
+  "context": [
+    "Nikola Tesla built a facility called the Wardenclyffe Tower in Shoreham, New York",
+    "Shoreham was the site of a nuclear power plant in the '70s and '80s"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nNikola Tesla built the Wardenclyffe Tower in Shoreham, New York.\nShoreham was the site of a nuclear power plant in the 1970s and 1980s.\nThe nuclear power plant in Shoreham was decommissioned and never operated at full capacity.\nNo active nuclear reactors or ongoing radiation sources exist at Shoreham today.\nThe Wardenclyffe Tower site is located in Shoreham, New York.\nThe current status of the Wardenclyffe Tower site does not indicate residual radiation.\nThere is no evidence of radiation at the location where Nikola Tesla once worked.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Nikola Tesla built the Wardenclyffe Tower in Shoreham, New York",
+    "Shoreham was the site of a nuclear power plant in the 1970s and 1980s",
+    "The nuclear power plant in Shoreham was decommissioned and never operated at full capacity",
+    "No active nuclear reactors or ongoing radiation sources exist at Shoreham today",
+    "The Wardenclyffe Tower site is located in Shoreham, New York",
+    "The current status of the Wardenclyffe Tower site does not indicate residual radiation",
+    "There is no evidence of radiation at the location where Nikola Tesla once worked"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Nikola Tesla built the Wardenclyffe Tower in Shoreham, New York",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Shoreham was the site of a nuclear power plant in the 1970s and 1980s",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The nuclear power plant in Shoreham was decommissioned and never operated at full capacity",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "No active nuclear reactors or ongoing radiation sources exist at Shoreham today",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Wardenclyffe Tower site is located in Shoreham, New York",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The current status of the Wardenclyffe Tower site does not indicate residual radiation",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "There is no evidence of radiation at the location where Nikola Tesla once worked",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

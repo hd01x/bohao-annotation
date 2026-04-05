@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__e0c10e16a23989f7a583",
+  "sample_id": "e0c10e16a23989f7a583",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does the FDA require sell by dates using Roman Numerals?",
+  "gold_answer": "no",
+  "context": [
+    "There are no requirements for food to have sell by dates. ",
+    "Sell by dates on most food items are written using arabic numerals."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe FDA does not require sell by dates on food items.\nSell by dates on most food items are written using Arabic numerals.\nThere is no requirement for sell by dates to use Roman numerals.\nThe FDA does not mandate the use of Roman numerals for sell by dates.\nThe FDA does not require sell by dates using Roman Numerals.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The FDA does not require sell by dates on food items",
+    "Sell by dates on most food items are written using Arabic numerals",
+    "There is no requirement for sell by dates to use Roman numerals",
+    "The FDA does not mandate the use of Roman numerals for sell by dates",
+    "The FDA does not require sell by dates using Roman Numerals"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The FDA does not require sell by dates on food items",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Sell by dates on most food items are written using Arabic numerals",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "There is no requirement for sell by dates to use Roman numerals",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The FDA does not mandate the use of Roman numerals for sell by dates",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The FDA does not require sell by dates using Roman Numerals",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

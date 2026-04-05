@@ -1,0 +1,151 @@
+{
+  "uid": "musique__4hop1__720201_153080_159767_81096",
+  "sample_id": "4hop1__720201_153080_159767_81096",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who won the 1993 Indy Car Race in the largest city of the state containing the city where the performer of the album Something Like a Bird is from?",
+  "gold_answer": "Mario Andretti",
+  "context": [
+    "Šiauliai (; ) is the fourth largest city in Lithuania, with a population of 107,086. From 1994 to 2010 it was the capital of Šiauliai County.",
+    "Nairobi (/ naɪˈroʊbi /; locally (naɪˈroːbi)) is the capital and largest city of Kenya. The name comes from the Maasai phrase Enkare Nairobi, which translates to ``cool water '', a reference to the Nairobi River which flows through the city. The city proper has a population of 3,138,369, while the metropolitan area has a population of 6,547,547. The city is popularly referred to as the Green City in the Sun. Nairobi is famous for being the only city in the world that hosts a national park, the Nairobi national Park.",
+    "Kranj railway station () is the railway station in Kranj, the third largest municipality and fourth largest city in Slovenia. The station is located on the railway line between Ljubljana, the capital city of Slovenia, and Villach, Austria.",
+    "Lubigi is a swampy wetland on the northern and western outskirts of Kampala, the capital and largest city of Uganda.",
+    "After a hiatus of eleven years, the race was revived by the Verizon IndyCar Series in 2016. It was held on Saturday night under the lights. Long considered a popular Indy car track, Phoenix has a rich history of open wheel races, including a spectacular crash involving Johnny Rutherford (1980), and the final career victory for Indy legend Mario Andretti (1993).",
+    "According to the U.S. Census Bureau's estimate, the city had a population of 396,394 in 2017, making it the second-largest city in the county (after Fort Worth) and the third-largest in the metropolitan area. Arlington is the forty-eighth-most populous city in the United States, the seventh-most populous city in the state of Texas, and the largest city in the state that is not a county seat.",
+    "Savannah (/ səˈvænə /) is the oldest city in the U.S. state of Georgia and is the county seat of Chatham County. Established in 1733 on the Savannah River, the city of Savannah became the British colonial capital of the Province of Georgia and later the first state capital of Georgia. A strategic port city in the American Revolution and during the American Civil War, Savannah is today an industrial center and an important Atlantic seaport. It is Georgia's fifth - largest city and third - largest metropolitan area.",
+    "Auto racing is also popular in the area. The Richmond International Raceway (RIR) has hosted NASCAR Sprint Cup races since 1953, as well as the Capital City 400 from 1962 − 1980. RIR also hosted IndyCar's Suntrust Indy Challenge from 2001 − 2009. Another track, Southside Speedway, has operated since 1959 and sits just southwest of Richmond in Chesterfield County. This .333-mile (0.536 km) oval short-track has become known as the \"Toughest Track in the South\" and \"The Action Track\", and features weekly stock car racing on Friday nights. Southside Speedway has acted as the breeding grounds for many past NASCAR legends including Richard Petty, Bobby Allison and Darrell Waltrip, and claims to be the home track of NASCAR superstar Denny Hamlin.",
+    "Tallahassee / ˌtæləˈhæsi / is the capital of the U.S. state of Florida. It is the county seat and only incorporated municipality in Leon County. Tallahassee became the capital of Florida, then the Florida Territory, in 1824. In 2016, the population was 190,894, making it the 7th - largest city in the U.S state of Florida, and the 126th - largest city in the United States. The population of the Tallahassee metropolitan area was 379,627 as of 2016. Tallahassee is the largest city in the Florida Panhandle region, and the main center for trade and agriculture in the Florida Big Bend and Southwest Georgia regions.",
+    "Hagerty Insurance Agency, styled just Hagerty, is an insurance company specializing in classic car insurance based in Traverse City, Michigan, in the United States. The company is the leading insurance agency for collector vehicles in the world and host to the largest network of collector car owners. They have also been recognized as \"largest insurance agency for collector cars in the United States.\"",
+    "The capital is Nashville, though Knoxville, Kingston, and Murfreesboro have all served as state capitals in the past. Memphis has the largest population of any city in the state. Nashville's 13-county metropolitan area has been the state's largest since c. 1990. Chattanooga and Knoxville, both in the eastern part of the state near the Great Smoky Mountains, each has approximately one-third of the population of Memphis or Nashville. The city of Clarksville is a fifth significant population center, some 45 miles (72 km) northwest of Nashville. Murfreesboro is the sixth-largest city in Tennessee, consisting of some 108,755 residents.",
+    "Shizuoka Prefecture (静岡県, Shizuoka-ken) is a prefecture of Japan located in the Chūbu region of Honshu. The capital is the city of Shizuoka, while Hamamatsu is the largest city by population.",
+    "Darwin (/ ˈdɑːrwɪn / (listen) DAR - win) is the capital city of the Northern Territory of Australia. Situated on the Timor Sea, Darwin is the largest city in the sparsely populated Northern Territory, with a population of 142,300. It is the smallest and most northerly of the Australian capital cities, and acts as the Top End's regional centre.",
+    "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. Famous Bugattis include the Type 35 Grand Prix cars, the Type 41 \"Royale\", the Type 57 \"Atlantic\" and the Type 55 sports car.",
+    "Boston (pronounced i/ˈbɒstən/) is the capital and largest city of the Commonwealth of Massachusetts in the United States. Boston also served as the historic county seat of Suffolk County until Massachusetts disbanded county government in 1999. The city proper covers 48 square miles (124 km2) with an estimated population of 655,884 in 2014, making it the largest city in New England and the 24th largest city in the United States. The city is the economic and cultural anchor of a substantially larger metropolitan area called Greater Boston, home to 4.7 million people and the tenth-largest metropolitan statistical area in the country. Greater Boston as a commuting region is home to 8.1 million people, making it the sixth-largest combined statistical area in the United States.",
+    "Jersey City is the second-most - populous city in the U.S. state of New Jersey, after Newark. It is the seat of Hudson County as well as the county's largest city. As of 2016, the Census Bureau's Population Estimates Program calculated that Jersey City's population was 264,152, with the largest population increase of any municipality in New Jersey since 2010, an increase of about 6.7% from the 2010 United States Census, when the city's population was at 247,597, ranking the city the 77th - largest in the nation.",
+    "Arizona ( (listen); Navajo: Hoozdo Hahoodzo Navajo pronunciation: [xòːztò xɑ̀xòːtsò]; O'odham: Alĭ ṣonak Uto-Aztecan pronunciation: [ˡaɺi ˡʂonak]) is a state in the southwestern region of the United States. It is also part of the Western and the Mountain states. It is the sixth largest and the 14th most populous of the 50 states. Its capital and largest city is Phoenix. Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest.",
+    "The annual United States Open Tennis Championships is one of the world's four Grand Slam tennis tournaments and is held at the National Tennis Center in Flushing Meadows-Corona Park, Queens. The New York Marathon is one of the world's largest, and the 2004–2006 events hold the top three places in the marathons with the largest number of finishers, including 37,866 finishers in 2006. The Millrose Games is an annual track and field meet whose featured event is the Wanamaker Mile. Boxing is also a prominent part of the city's sporting scene, with events like the Amateur Boxing Golden Gloves being held at Madison Square Garden each year. The city is also considered the host of the Belmont Stakes, the last, longest and oldest of horse racing's Triple Crown races, held just over the city's border at Belmont Park on the first or second Sunday of June. The city also hosted the 1932 U.S. Open golf tournament and the 1930 and 1939 PGA Championships, and has been host city for both events several times, most notably for nearby Winged Foot Golf Club.",
+    "Charles Mingus was born in Nogales, Arizona. His father, Charles Mingus Sr., was a sergeant in the U.S. Army. Mingus was largely raised in the Watts area of Los Angeles. His maternal grandfather was a Chinese British subject from Hong Kong, and his maternal grandmother was an African-American from the southern United States. Mingus was the third great-grandson of the family's founding patriarch who was, by most accounts, a German immigrant. His ancestors included German American, African American, and Native American.",
+    "Something Like a Bird is an album by Charles Mingus, released on the Atlantic label in 1981. The album reached a peak position of number 37 on the \"Billboard\" Jazz Albums chart. Mingus is featured as composer and director but does not actually play on this album as his ALS had progressed to the point where he was no longer able to do so. These were the last sessions of his own music he ever participated in, although he did attend one session for the partial collaboration with Joni Mitchell, Mingus before his death in January 1979."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCharles Mingus was born in Nogales, Arizona.\nNogales is located in the U.S. state of Arizona.\nThe largest city in Arizona is Phoenix.\nThe 1993 Indy Car Race was held at Phoenix International Raceway.\nMario Andretti won the 1993 Indy Car Race at Phoenix.\nThe performer of the album Something Like a Bird is Charles Mingus.\nThe largest city in the state where Charles Mingus was from is Phoenix.\nThe winner of the 1993 Indy Car Race in Phoenix is Mario Andretti.\n<answer> Mario Andretti",
+  "predicted_answer": "Mario Andretti",
+  "claims": [
+    "Charles Mingus was born in Nogales, Arizona",
+    "Nogales is located in the U.S. state of Arizona",
+    "The largest city in Arizona is Phoenix",
+    "The 1993 Indy Car Race was held at Phoenix International Raceway",
+    "Mario Andretti won the 1993 Indy Car Race at Phoenix",
+    "The performer of the album Something Like a Bird is Charles Mingus",
+    "The largest city in the state where Charles Mingus was from is Phoenix",
+    "The winner of the 1993 Indy Car Race in Phoenix is Mario Andretti"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Charles Mingus was born in Nogales, Arizona",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Nogales is located in the U.S. state of Arizona",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The largest city in Arizona is Phoenix",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The 1993 Indy Car Race was held at Phoenix International Raceway",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Mario Andretti won the 1993 Indy Car Race at Phoenix",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The performer of the album Something Like a Bird is Charles Mingus",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The largest city in the state where Charles Mingus was from is Phoenix",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The winner of the 1993 Indy Car Race in Phoenix is Mario Andretti",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "uid": "musique__4hop2__9988_261673_70784_79935",
+  "sample_id": "4hop2__9988_261673_70784_79935",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "When was the region immediately north of the region that prevailed with the disgrace of Near East and the terrain feature on which shamal is located created?",
+  "gold_answer": "1930",
+  "context": [
+    "Wicimiczki () is a village in the administrative district of Gmina Płoty, within Gryfice County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately north-east of Płoty, south-east of Gryfice, and north-east of the regional capital Szczecin.",
+    "Deuteronilus Mensae is a region on Mars 937 km across and centered at . It covers 344°–325° West and 40°–48° North. Deuteronilus region lies just to the north of Arabia Terra and is included in the Ismenius Lacus quadrangle. It is along the dichotomy boundary, that is between the old, heavily cratered southern highlands and the low plains of the northern hemisphere. The region contains flat-topped knobby terrain that may have been formed by glaciers at some time in the past. Deuteronilus Mensae is to the immediate west of Protonilus Mensae and Ismeniae Fossae. Glaciers persist in the region in modern times, with at least one glacier estimated to have formed as recently as 100,000 to 10,000 years ago. Recent evidence from the radar on the Mars Reconnaissance Orbiter has shown that parts of Deuteronilus Mensae do indeed contain ice.",
+    "For much of the region's history a patchwork of tribal rulers controlled most of the area. The Al Saud (the Saudi royal family) emerged as minor tribal rulers in Najd in central Arabia. From the mid-18th century, imbued with the religious zeal of the Wahhabi Islamic movement, they became aggressively expansionist. Over the following 150 years, the extent of the Al Saud territory fluctuated. However, between 1902 and 1927, the Al Saud leader, Abdulaziz, carried out a series of wars of conquest which resulted in his establishing the Kingdom of Saudi Arabia in 1930.",
+    "Siedleczko () is a village in the administrative district of Gmina Wągrowiec, within Wągrowiec County, Greater Poland Voivodeship, in west-central Poland. It lies approximately north-east of Wągrowiec and north-east of the regional capital Poznań.",
+    "Holenderki is a village in the administrative district of Gmina Przedecz, within Koło County, Greater Poland Voivodeship, in west-central Poland. It lies approximately north-east of Przedecz, north-east of Koło, and east of the regional capital Poznań.",
+    "Kołzin is a settlement in the administrative district of Gmina Sianów, within Koszalin County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately north of Sianów, north-east of Koszalin, and north-east of the regional capital Szczecin.",
+    "A shamal (, 'north') is a northwesterly wind blowing over Iraq and the Persian Gulf states (including Saudi Arabia and Kuwait), often strong during the day, but decreasing at night. This weather effect occurs anywhere from once to several times a year, mostly in summer but sometimes in winter. The resulting wind typically creates large sandstorms that impact Iraq, most sand having been picked up from Jordan and Syria.",
+    "Czarnogłowy () is a village in the administrative district of Gmina Przybiernów, within Goleniów County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately east of Przybiernów, north of Goleniów, and north-east of the regional capital Szczecin.",
+    "The Kingdom of Saudi Arabia is a country situated in Southwest Asia, the largest country of Arabia, bordering the Persian Gulf and the Red Sea, north of Yemen. Its extensive coastlines on the Persian Gulf and Red Sea provide great leverage on shipping (especially crude oil) through the Persian Gulf and Suez Canal. The kingdom occupies 80% of the Arabian Peninsula. Most of the country's boundaries with the United Arab Emirates (UAE), Oman, and the Republic of Yemen (formerly two separate countries: the Yemen Arab Republic or North Yemen; and the People's Democratic Republic of Yemen or South Yemen) are undefined, so the exact size of the country remains unknown. The Saudi government estimate is at 2,217,949 square kilometres, while other reputable estimates vary between 2,149,690 and 2,240,000 sq. kilometres. Less than 1% of the total area is suitable for cultivation, and in the early 1990s, population distribution varied greatly among the towns of the eastern and western coastal areas, the densely populated interior oases, and the vast, almost empty deserts.",
+    "Smogorówka Dolistowska is a village in the administrative district of Gmina Goniądz, within Mońki County, Podlaskie Voivodeship, in north-eastern Poland. It lies approximately east of Goniądz, north-east of Mońki, and north-west of the regional capital Białystok.",
+    "Kolonia Wola Szydłowiecka is a village in the administrative district of Gmina Bolimów, within Skierniewice County, Łódź Voivodeship, in central Poland. It lies approximately east of Bolimów, north-east of Skierniewice, and north-east of the regional capital Łódź.",
+    "Marinus is a lunar impact crater that is located near the southeastern limb of the Moon. At this location it is viewed at an oblique angle from the Earth, limiting the amount of detail that can be observed. It lies due north of the slightly larger and dark-floored crater Oken. To the east is the northern part of the Mare Australe.",
+    "Striation Valley is a valley trending south-east towards George VI Sound, lying immediately north of Jupiter Glacier, near the east coast of Alexander Island, Antarctica. The valley was first surveyed by a field party from the Department of Geography at the University of Aberdeen, with British Antarctic Survey support, in 1978-79. The name derives from glacial striations found on rocks in the valley. The site lies within Antarctic Specially Protected Area (ASPA) No.147.",
+    "Dratów is a village in the administrative district of Gmina Ludwin, within Łęczna County, Lublin Voivodeship, in eastern Poland. It lies approximately north-east of Ludwin, north-east of Łęczna, and north-east of the regional capital Lublin.",
+    "Skendleby is a small village and civil parish in the East Lindsey district of Lincolnshire, England. It is situated near to the A158 and lies east from the county town Lincoln, and about north-east from the town of Spilsby. The village stands near the south-eastern edge of the Lincolnshire Wolds.",
+    "Wojkowo () is a village in the administrative district of Gmina Bisztynek, within Bartoszyce County, Warmian-Masurian Voivodeship, in northern Poland. It lies approximately north-east of Bisztynek, south-east of Bartoszyce, and north-east of the regional capital Olsztyn.",
+    "Hertfordshire is the county immediately north of London and is part of the East of England region, a mainly statistical unit. A significant minority of the population across all districts are City of London commuters. To the east is Essex, to the west is Buckinghamshire and to the north are Bedfordshire and Cambridgeshire.",
+    "Subsequently with the disgrace of \"Near East\" in diplomatic and military circles, \"Middle East\" prevailed. However, \"Near East\" continues in some circles at the discretion of the defining agency or academic department. They are not generally considered distinct regions as they were at their original definition.",
+    "Wełdkówko (German: \"Klein Voldekow\") is a village in the administrative district of Gmina Tychowo, within Białogard County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately north-east of Tychowo, east of Białogard, and north-east of the regional capital Szczecin.",
+    "North Gosford is a south-eastern suburb of the Central Coast region of New South Wales, Australia immediately north-east of Gosford's central business district. It is part of the local government area."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe region immediately north of the region that prevailed with the disgrace of \"Near East\" is the \"Middle East\".\nThe term \"Middle East\" prevailed after the decline of \"Near East\" in diplomatic and military circles.\nThe \"Near East\" was a historical term used to describe regions in Western Asia, including the Arabian Peninsula.\nThe \"Middle East\" includes the Arabian Peninsula, where the shamal wind occurs.\nThe shamal is a northwesterly wind blowing over Iraq and the Persian Gulf states, including Saudi Arabia.\nThe terrain feature on which the shamal is located is the Arabian Peninsula.\nThe Arabian Peninsula is a geological formation that formed over millions of years due to tectonic activity.\nThe Arabian Peninsula's current geological structure began forming during the Mesozoic Era, approximately 250 to 66 million years ago.\nThe region immediately north of the area where the shamal is located is the Middle East.\nThe Middle East as a geopolitical term was formalized in the 20th century, but the terrain feature (Arabian Peninsula) predates this.\nThe Arabian Peninsula's terrain features, including those affected by the shamal, were shaped by geological processes over millions of years.\nThe creation of the terrain feature on which the shamal is located occurred during the Mesozoic Era.\nThe Mesozoic Era began approximately 250 million years ago.\nThe region immediately north of the region that prevailed with the disgrace of Near East and the terrain feature on which shamal is located was created during the Mesozoic Era.\n<answer> During the Mesozoic Era",
+  "predicted_answer": "During the Mesozoic Era",
+  "claims": [
+    "The region immediately north of the region that prevailed with the disgrace of \"Near East\" is the \"Middle East\"",
+    "The term \"Middle East\" prevailed after the decline of \"Near East\" in diplomatic and military circles",
+    "The \"Near East\" was a historical term used to describe regions in Western Asia, including the Arabian Peninsula",
+    "The \"Middle East\" includes the Arabian Peninsula, where the shamal wind occurs",
+    "The shamal is a northwesterly wind blowing over Iraq and the Persian Gulf states, including Saudi Arabia",
+    "The terrain feature on which the shamal is located is the Arabian Peninsula",
+    "The Arabian Peninsula is a geological formation that formed over millions of years due to tectonic activity",
+    "The Arabian Peninsula's current geological structure began forming during the Mesozoic Era, approximately 250 to 66 million years ago",
+    "The region immediately north of the area where the shamal is located is the Middle East",
+    "The Middle East as a geopolitical term was formalized in the 20th century, but the terrain feature (Arabian Peninsula) predates this",
+    "The Arabian Peninsula's terrain features, including those affected by the shamal, were shaped by geological processes over millions of years",
+    "The creation of the terrain feature on which the shamal is located occurred during the Mesozoic Era",
+    "The Mesozoic Era began approximately 250 million years ago",
+    "The region immediately north of the region that prevailed with the disgrace of Near East and the terrain feature on which shamal is located was created during the Mesozoic Era"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The region immediately north of the region that prevailed with the disgrace of \"Near East\" is the \"Middle East\"",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The term \"Middle East\" prevailed after the decline of \"Near East\" in diplomatic and military circles",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The \"Near East\" was a historical term used to describe regions in Western Asia, including the Arabian Peninsula",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The \"Middle East\" includes the Arabian Peninsula, where the shamal wind occurs",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The shamal is a northwesterly wind blowing over Iraq and the Persian Gulf states, including Saudi Arabia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The terrain feature on which the shamal is located is the Arabian Peninsula",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The Arabian Peninsula is a geological formation that formed over millions of years due to tectonic activity",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The Arabian Peninsula's current geological structure began forming during the Mesozoic Era, approximately 250 to 66 million years ago",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The region immediately north of the area where the shamal is located is the Middle East",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "The Middle East as a geopolitical term was formalized in the 20th century, but the terrain feature (Arabian Peninsula) predates this",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "The Arabian Peninsula's terrain features, including those affected by the shamal, were shaped by geological processes over millions of years",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "The creation of the terrain feature on which the shamal is located occurred during the Mesozoic Era",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "The Mesozoic Era began approximately 250 million years ago",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "The region immediately north of the region that prevailed with the disgrace of Near East and the terrain feature on which shamal is located was created during the Mesozoic Era",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

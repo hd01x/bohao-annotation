@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__d0e463f95b1221a55a13",
+  "sample_id": "d0e463f95b1221a55a13",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can surgery prevent an existential crisis?",
+  "gold_answer": "no",
+  "context": [
+    "Surgery is used to correct medical problems or make physical alterations to the body",
+    "An existential crisis is a metaphysical affliction"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSurgery is used to correct medical problems or make physical alterations to the body.\nAn existential crisis is a metaphysical affliction.\nMetaphysical afflictions are not physical conditions.\nSurgery does not address metaphysical or psychological states such as existential crises.\nSurgery cannot prevent an existential crisis.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Surgery is used to correct medical problems or make physical alterations to the body",
+    "An existential crisis is a metaphysical affliction",
+    "Metaphysical afflictions are not physical conditions",
+    "Surgery does not address metaphysical or psychological states such as existential crises",
+    "Surgery cannot prevent an existential crisis"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Surgery is used to correct medical problems or make physical alterations to the body",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "An existential crisis is a metaphysical affliction",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Metaphysical afflictions are not physical conditions",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Surgery does not address metaphysical or psychological states such as existential crises",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Surgery cannot prevent an existential crisis",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

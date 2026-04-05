@@ -1,0 +1,379 @@
+{
+  "uid": "medhop__MH_dev_270",
+  "sample_id": "MH_dev_270",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00580\", \"DB00640\", \"DB01248\", \"DB02539\", \"DB04014\", \"DB04845\", \"DB06643\", \"DB08885\", and \"DB09302\" interacts with DB01285?",
+  "gold_answer": "DB06643",
+  "context": [
+    "Effects of inhibition of vascular endothelial growth factor at time of selection on follicular angiogenesis , expansion , development and atresia in the marmoset . This study determined the effects of inhibiting vascular endothelial growth factor ( P15692 ) at follicle selection . Marmosets were given an injection of P15692 antagonist , the DB08885 on Day 5 of the follicular phase and ovaries were evaluated on Day 10 or 15 . Ovaries from controls were assessed on Day 5 ( time of selection ) , Day 10 ( peri-ovulatory ) and Day 15 ( luteal phase ) . At Day 10 , ovaries of four of the five controls contained dominant follicles , while one had ovulated . DB08885 -treated ovaries also contained large follicles on Day 10 , but P15692 inhibition had suppressed endothelial cell proliferation , leading to reductions in the thecal vascularization and plasma estradiol relative to controls . By Day 15 , ovaries of controls contained active corpora lutea whereas ovaries of four of the five treated animals still contained large antral follicles similar in size to pre-ovulatory follicles , and one had small , avascular corpora lutea . However , these follicles had a restricted vasculature , increased incidence of activated caspase-3 staining and morphological features indicating they would become degenerative non-functional cysts . These results show that after follicle selection , P15692 is essential for angiogenesis and the generation of healthy ovulatory follicles and corpora lutea , but fluid accumulation can still occur in selected follicles in the absence of P15692 .",
+    "Gender influences the class III and V β-tubulin ability to predict poor outcome in colorectal cancer . PURPOSE : Colorectal cancer is one of the deadliest diseases in Western countries . To predict the outcome of therapy , we assessed the role of class III ( Q13509 ) and class V β-tubulin ( Q9BUF5 ) as predictive biomarkers . EXPERIMENTAL DESIGN : Using immunohistochemistry and nanofluidics , the expression of Q13509 and Q9BUF5 was assessed in two cohorts of 180 and 134 patients , respectively . The P05093 RS743572 was genotyped to identify GG carriers with enhanced androgen levels . Q13509 and Q9BUF5 were investigated in 22 colorectal cancer cell lines in basal conditions and after serum starvation , the latter serving as activator of this prosurvival pathway . To ascertain the role of androgen receptor ( AR ) in such regulation , we silenced AR and checked Q13509 and Q9BUF5 expression and sensitivity to chemotherapy . RESULTS : There was a link between poor survival , the expression of Q13509 / Q9BUF5 , and AR only in females . Conversely , only in males carriers of the GG phenotype exhibited the worst outcome . Importantly , male cell lines were resistant to serum starvation and exhibited higher levels of Q9BUF5 , thereby suggesting that the pathway is activated by androgens . In female cells this phenomenon was absent . In both genders , AR was the main driver of Q13509 / Q9BUF5 expression , as constitutive silencing of AR was associated with downregulation of Q13509 / Q9BUF5 expression and increased sensitivity to oxaliplatin and SN-38 . CONCLUSIONS : The involvement of androgens in the Q13509 pathway opens the way for clinical trials to assess the efficacy of antiandrogens for increasing the efficacy of chemotherapy in male colorectal cancer patients .",
+    "Biomarker analysis of neoadjuvant doxorubicin/cyclophosphamide followed by ixabepilone or Paclitaxel in early-stage breast cancer . PURPOSE : Predictive biomarkers offer the potential to improve the benefit:risk ratio of a therapeutic agent . DB04845 achieves comparable pathologic complete response ( pCR ) rates to other active drugs in the neoadjuvant setting . This phase II trial was designed to investigate potential biomarkers that differentiate response to this agent . EXPERIMENTAL DESIGN : Women with untreated , histologically confirmed primary invasive breast adenocarcinoma received neoadjuvant doxorubicin/cyclophosphamide , followed by 1:1 randomization to ixabepilone ( n = 148 ) or paclitaxel ( n = 147 ) . Rates of pCR were compared between treatment arms based on predefined biomarker sets : Q13509 , Q9Y6A5 , and CAPG gene expression , a 20- and 26-gene expression model , P08183 protein expression , and other potential markers of sensitivity . βIII-tubulin protein expression is reported separately but is referred to here for completeness . All patients underwent a core needle biopsy of the primary cancer for molecular marker analysis before chemotherapy . Gene expression profiling data were used for molecular subtyping . RESULTS : There was no significant difference in the rate of pCR in both treatment arms in βIII-tubulin-positive patients . Higher pCR rates were observed among βIII-tubulin-positive patients than in βIII-tubulin-negative patients . Furthermore , no correlation was evident between Q13509 , Q9Y6A5 , and CAPG gene expression , P08183 protein expression , multi-gene expression models , and the efficacy of ixabepilone or paclitaxel , even within the estrogen receptor-negative subset . CONCLUSION : These results indicate that βIII-tubulin protein and mRNA expression , P08183 protein expression , Q9Y6A5 and CAPG gene expression , and multigene expression models ( 20- and 26-gene ) are not predictive markers for differentiating treatment benefit between ixabepilone and paclitaxel in early-stage breast cancer .",
+    "Effects of chronic ' Binge ' cocaine administration on plasma DB01285 and corticosterone levels in mice deficient in Q9UD71 . The product of the Q9UD71 gene mediates intracellular signals initiated by the binding of dopamine to its receptors . Cocaine administration leads to increased activation of dopamine receptors , and causes activation of the stress-responsive hypothalamic-pituitary-adrenal ( Q9Y251 ) axis . We determined the effects of chronic ' binge ' pattern cocaine on Q9Y251 activity in mice containing a targeted disruption of the Q9UD71 gene . Mice received three daily injections of cocaine ( 15 mg/kg/injection ) for 14 days , and were sacrificed 30 min after the last injection . We measured the levels of plasma adrenocorticotropin ( DB01285 ) and corticosterone which reflect Q9Y251 activity . In wild-type controls , ' binge ' cocaine administration significantly increased plasma DB01285 and corticosterone levels . In contrast , Q9UD71 -deficient mice failed to show a significant elevation of either plasma DB01285 or corticosterone levels following ' binge ' cocaine . The results indicate that Q9UD71 plays a role in mediating the stimulatory effects of cocaine on the Q9Y251 axis .",
+    "DB06643 -- an emerging treatment for postmenopausal osteoporosis . IMPORTANCE OF THE FIELD : Osteoporosis is a common skeletal disease that is associated with an imbalance in bone remodeling . DB06643 is an investigational fully human monoclonal antibody to receptor activator of NF-kappaB ligand ( O14788 ) , a cytokine member of the P01375 family that is the principal mediator of osteoclastic bone resorption . AREAS COVERED IN THIS REVIEW : The efficacy and safety of denosumab in the management of postmenopausal osteoporosis is evaluated by reviewing the published literature and presentations at scientific meetings through 2009 . WHAT THE READER WILL GAIN : This review focuses on the data on fracture risk reduction and safety endpoints of denosumab in the treatment of postmenopausal osteoporosis . TAKE HOME MESSAGE : In postmenopausal women with osteoporosis , denosumab ( 60 mg by subcutaneous injection every 6 months ) increased bone mineral density , reduced bone turnover markers , and reduced the risk of vertebral , hip and non-vertebral fractures . DB06643 was well tolerated with a safety profile generally similar to placebo . It is a promising emerging drug for the prevention and treatment of postmenopausal osteoporosis .",
+    "Paullones are potent inhibitors of glycogen synthase kinase-3beta and cyclin-dependent kinase 5/p25 . Paullones constitute a new family of benzazepinones with promising antitumoral properties . They were recently described as potent , DB00171 -competitive , inhibitors of the cell cycle regulating cyclin-dependent kinases ( CDKs ) . We here report that paullones also act as very potent inhibitors of glycogen synthase kinase-3beta ( GSK-3beta ) ( IC50 : 4-80 nM ) and the neuronal Q00535 /p25 ( IC50 : 20-200 nM ) . These two enzymes are responsible for most of the hyperphosphorylation of the microtubule-binding protein tau , a feature observed in the brains of patients with Alzheimer 's disease and other neurodegenerative ' taupathies ' . DB04014 , the most active paullone , was demonstrated to act by competing with DB00171 for binding to GSK-3beta . DB04014 inhibits the phosphorylation of tau in vivo at sites which are typically phosphorylated by GSK-3beta in Alzheimer 's disease . DB04014 also inhibits the Q00535 /p25-dependent phosphorylation of Q9UD71 in mouse striatum slices in vitro . This dual specificity of paullones may turn these compounds into very useful tools for the study and possibly treatment of neurodegenerative and proliferative disorders .",
+    "Pituitary-adrenal axis regulation in P06850 -deficient mice . P06850 ( P06850 ) -deficient ( knockout ( KO ) ) mice demonstrate severely impaired adrenal responses to restraint , ether , and fasting , and lack the normal diurnal glucocorticoid ( GC ) rhythm . Here , we summarize recent studies determining the role of P06850 in augmenting plasma adrenocorticotrophic hormone ( DB01285 ) concentration after glucocorticoid withdrawal and pituitary-adrenal axis stimulation in the context of inflammation . Even though GC insufficient , basal pituitary proopiomelanocortin ( P01189 ) mRNA , DB01285 peptide content within the pituitary , and plasma DB01285 concentrations are not elevated in P06850 KO mice . P01189 mRNA content in P06850 KO mice increases following adrenalectomy , and this increase is reversed by GC , but not aldosterone , replacement . In marked contrast to the increase in P01189 mRNA , plasma DB01285 does not increase in the P06850 KO mice following adrenalectomy . Administration of P06850 to adrenalectomized P06850 KO mice results in acute , robust DB01285 secretion . Thus , loss of GC feedback can increase P01189 gene expression in the pituitary , but P06850 action is essential for increased secretion of DB01285 into the circulation . While GC secretion is impaired in P06850 KO mice after most stimuli , we have found near-normal GC responses to inflammation and systemic immune challenge . Studies in mice with P06850 and P05231 deficiency reveal that P05231 is essential for activation of the pituitary-adrenal axis during inflammatory and other stressors in the absence of P06850 .",
+    "Interleukins 1α and 1β as regulators of steroidogenesis in human NCI-H295R adrenocortical cells . Inflammatory cytokines interleukin-1 ( IL-1 ) and tumor necrosis factor-α ( P01375 -α ) regulate the activity of the hypothalamo-pituitary-adrenal ( Q9Y251 ) axis at several levels . Although hypothalamic P06850 secretion may be the primary mechanism by which these cytokines activate the Q9Y251 axis , IL-1 expression is increased within the adrenal glands in models for systemic inflammation , and IL-1 may augment adrenal glucocorticoid production . Our aim was to investigate the direct effects of IL-1α and IL-1β on adrenal steroidogenesis and expression of three key steroidogenic genes in human adrenocortical cells using the NCI-H295R cell line as a model . mRNAs encoding receptors for IL-1 , P01375 -α , and leukemia inhibitory factor ( P15018 ) were detectable in the cell line ( Affymetrix microarray analysis ) . Both IL-1α and IL-1β increased cortisol , androstenedione , dehydroepiandrosterone and DB05804 production , and the accumulation of mRNAs for steroidogenic acute regulatory protein ( STAR ) , 17α-hydroxylase/17,20-lyase ( P05093 ) and 3β-hydroxysteroid dehydrogenase 2 ( P26439 ) in these cells ( P < 0.05 for all ) . Both ILs augmented P01375 -α- and P15018 -induced STAR and P05093 mRNA accumulation , and P01375 -α-induced cortisol production ( P < 0.05 for all ) . Both ILs also increased the apoptotic index of the cells ( P < 0.05 ) , which was efficiently neutralized by their specific antibodies . The IL-induced changes in the STAR , P26439 , and P05093 protein levels were not as evident as those in the respective mRNA levels . In conclusion , the combined effect of inflammatory cytokines at the adrenal level in acute or chronic inflammatory states could significantly stimulate glucocorticoid production , and thus explain the observed discrepancy between the cortisol and DB01285 concentrations sometimes seen in sepsis and chronic inflammatory states .",
+    "The effect of mevinolin on steroidogenesis in patients with defects in the low density lipoprotein receptor pathway . Adrenal steroidogenesis is dependent upon cholesterol derived from both de novo biosynthesis and uptake of plasma lipoproteins through the low density lipoprotein ( LDL ) receptor pathway . Recent studies have demonstrated that patients homozygous for familial hypercholesterolemia have a mild impairment in cortisol secretion during maximal DB01285 stimulation . DB00227 , a competitive inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A reductase , has been used clinically to inhibit de novo cholesterol synthesis in patients with familial hypercholesterolemia . In this study we examined hypothalamic-pituitary-adrenal function in seven patients with defects in the P01130 pathway , both before and during treatment with oral mevinolin ( 20 mg , twice a day ) , to assess whether inhibition of cholesterol synthesis influences steroidogenesis under basal conditions and in response to ovine P06850 and exogenous DB01285 . Two months after initiation of therapy , high density lipoprotein cholesterol levels were significantly elevated , and LDL cholesterol levels were reduced , although not normalized . Basal and ovine P06850 -stimulated adrenocortical function were normal in all patients both before and during therapy . Plateau plasma cortisol concentrations achieved during maximal DB01285 stimulation were lower than those in control subjects in all patients both before and during therapy . All patients , however , had an approximately 3-fold increase over basal values . These results suggest that treatment of patients with defects in the P01130 pathway with mevinolin improves the plasma lipid profile and does not result in adrenal dysfunction or further exacerbation of the mild impairment of adrenal function during maximal DB01285 stimulation .",
+    "Skeletal receptors for steroid-family regulating glycoprotein hormones : A multilevel , integrated physiological control system . Pituitary glycoprotein hormone receptors , including Q01718 , P16473 , and P23945 , occur in bone . Their skeletal expression reflects that central endocrine control is evolutionarily recent . DB01285 receptors , in osteoblasts or the adrenal cortex , drive P15692 synthesis . P15692 is essential to maintain vasculature . In bone , DB01285 suppression by glucocorticoids can cause osteonecrosis . DB00024 receptors occur on osteoblasts and osteoclasts , in both cases reducing activity . Thus , DB00024 directly reduces skeletal turnover , consistent with evolutionary adaptation to stress . DB00094 receptors accelerate bone resorption , whereas estrogen promotes bone formation , the forces usually balancing . With ovarian failure , low estrogen with high DB00094 causes rapid bone loss . The skeletal DB00094 effect in the menopause seems paradoxical , but it is a logical adaptation in lactation , where prolonged DB00094 elevation also occurs . In addition to receptors , there is some synthesis of pituitary glycoproteins at distributed sites ; this is not well studied , but it may further modify the paradigm of central endocrine regulation .",
+    "DB00640 A(2A) receptor gene ( P29274 ) variants may increase autistic symptoms and anxiety in autism spectrum disorder . Autism spectrum disorders ( ASDs ) are heterogeneous disorders presenting with increased rates of anxiety . The adenosine A(2A) receptor gene ( P29274 ) is associated with panic disorder and is located on chromosome 22q11.23 . Its gene product , the adenosine A(2A) receptor , is strongly expressed in the caudate nucleus , which also is involved in P51689 . As autistic symptoms are increased in individuals with 22q11.2 deletion syndrome , and large 22q11.2 deletions and duplications have been observed in P51689 individuals , in this study , 98 individuals with P51689 and 234 control individuals were genotyped for eight single-nucleotide polymorphisms in P29274 . Nominal association with the disorder was observed for rs2236624-CC , and phenotypic variability in P51689 symptoms was influenced by rs3761422 , rs5751876 and rs35320474 . In addition , association of P29274 variants with anxiety was replicated for individuals with P51689 . Findings point toward a possible mediating role of P29274 variants on phenotypic expression in P51689 that need to be replicated in a larger sample .",
+    "P06850 knockout inhibits the murine innate immune responses in association with endoplasmic reticulum stress after thermal injury . BACKGROUND : Previous studies in our laboratory have demonstrated the hypothalamus destruction and adrenalectomy could blunt the innate immunity while boosting the excessive inflammation after injury . We aimed to investigate the effects of corticotrophin-releasing hormone knockout ( P06850 KO ) on the innate immune responses in macrophages as well as to elucidate the underlying mechanism . METHODS : The chemotaxis and phagocytosis activities of macrophages , bacteria translocation , plasma tumor necrosis factor ( P01375 ) -α secretion , and intestinal injury were observed in the presence of the endoplasmic reticulum stress after thermal injury in P06850 KO mice . Meanwhile , the messenger RNA ( mRNA ) and protein expression of glucose response protein 78 ( P11021 ) , X-box binding protein 1 ( P17861 ) , and activating transcription factor 6 ( P18850 ) in macrophages was also determined . RESULTS : After thermal injury , the chemotaxis and phagocytosis of peritoneal macrophages were increased , which were both reversed by P06850 gene deficiency . The gut-derived bacteria translocation to liver tissues , lung tissues and mesenteric lymph nodes was significantly strengthened in P06850 KO mice compared with P06850 wild-type littermates . Circulating P01375 -α level was increased markedly in response to thermal injury and P06850 KO further increased its secretion . Furthermore , the mRNA and protein levels of P11021 , P17861 , and P18850 in peritoneal macrophages increased , while their expressions in P06850 KO mice all decreased significantly . P06850 KO mice showed enhancement of inflammatory responses and severe tissue injuries after thermal injury . CONCLUSION : P06850 exerted immune defensive actions on immune cells and organs in the early phase of injury , suggesting that the underlying mechanisms are related to endoplasmic reticulum stress .",
+    "Efficacy and safety of the P35354 specific inhibitor valdecoxib in the management of osteoarthritis of the hip : a randomized , double-blind , placebo-controlled comparison with naproxen . OBJECTIVE : Non-steroidal antiinflammatory agents are commonly used to treat pain and inflammation associated with osteoarthritis ( OA ) , but have poor gastrointestinal ( GI ) tolerability . This study compared the efficacy of the P35354 specific inhibitor valdecoxib with naproxen and placebo , in treating symptomatic OA of the hip . DESIGN : This multicenter , randomized , double-blind 12-week study compared the efficacy and tolerability of single daily doses of valdecoxib 5 mg and 10 mg with placebo or naproxen 500 mg P55957 . Efficacy was assessed by Patient 's and Physician 's Global Assessment of Arthritis , and the WOMAC ( Western Ontario and McMasters ) OA Individual and Composite Indices . The incidence of adverse events was monitored throughout the study . RESULTS : DB00580 was clinically and statistically superior to placebo for Patient 's and Physician 's Global Assessment of Arthritis and for all WOMAC OA Indices over the 12 week study period ( P < or= 0.05 ) . DB00580 10 mg was similar to naproxen in terms of efficacy , and demonstrated greater numerical improvements compared with valdecoxib 5 mg . DB00580 5 mg and 10 mg demonstrated similar tolerability compared to placebo and a lower incidence of GI-related adverse effects compared with naproxen . CONCLUSIONS : Single daily doses of valdecoxib 5 mg and 10 mg were similar to naproxen and superior to placebo , in treating symptomatic OA of the hip . Both doses of valdecoxib were well tolerated and demonstrated improved GI tolerability compared to naproxen .",
+    "Rapid regulation of corticotropin-releasing hormone gene transcription in vivo . Regulation of corticotropin-releasing hormone ( P06850 ) gene expression in vivo was assessed via in situ hybridization histochemistry , using probes directed against an intronic sequence of the P06850 gene . Initial characterization of the P06850 intron ( CRHin ) probe revealed specific localization of signal to the nuclear compartment of neurons in the medial parvocellular paraventricular hypothalamus , which are known to produce P06850 peptide and mRNA . Abundance of CRHin signal was low , commensurate with a low resting pool of P06850 heteronuclear RNA ( hnRNA ) , representing P06850 primary transcript . Regulation of P06850 hnRNA levels was assessed after acute glucocorticoid synthesis blockade by injection of metyrapone . Metyrapone inhibits the conversion of 11-deoxycorticosterone to corticosterone , thereby rapidly depleting glucocorticoids and serving as a discrete stimulus for hypothalamo-pituitary-adreno-cortical activation . Plasma hormone measurements verified the efficacy of treatment , as metyrapone-treated rats showed extremely low basal corticosterone levels at all postinjection time points , while exhibiting progressive increases in plasma DB01285 release over the 60-min postinjection period . P06850 hnRNA levels were markedly increased 15-30 min after metyrapone injection , consistent with a rapid induction of P06850 gene transcription in response to the stimulatory event . P06850 mRNA , on the other hand , did not exceed control levels until 60 min post metyrapone , illustrative of a temporal lag between transcriptional changes and detectable changes in mRNA pools . Additional sections from metyrapone-and vehicle-treated rats were hybridized with probes complementary to mRNA encoding the immediate-early gene c-fos . c-fos was not present under unstimulated conditions yet was rapidly induced upon metyrapone treatment or vehicle injection ( 15 min ) . ( ABSTRACT TRUNCATED AT 250 WORDS )",
+    "Potent and selective inhibition of human nitric oxide synthases . Inhibition by non-amino acid isothioureas . DB02539 was a potent competitive inhibitor of human nitric oxide synthase ( NOS ) , with Ki values of 17 , 36 , and 29 nM for the inducible ( i ) , endothelial ( e ) , and neuronal ( n ) isozymes , respectively . Unlike some potent inhibitors of NOS , no time dependence was observed . DB02539 was not a detectable substrate for P29474 . DB02539 was also a potent inhibitor of mouse P35228 ( Ki value of 5.2 nM ) , and its binding perturbed the spectrum of P35228 consistent with its altering the environment of the bound heme . The optimum binding of S-ethyl- and S-isopropylisothiourea relative to 70 other analogs suggested that these alkyl substitutions fit into a small hydrophobic pocket . Most isothioureas were 2-6-fold selective for the human P35228 ( Ki for P35228 versus Ki for P29474 ) , with one being 19-fold selective . The cyclized mimics of S-ethylisothiourea , 2-NH2-thiazoline , and 2-NH2-thiazole , were also competitive inhibitors of human NOS . A third structural class of inhibitors , bisisothioureas , were , in general , the most selective in their inhibition of human P35228 . S,S'-(1,3-Phenylenebis(1,2-ethanediyl))bisisothiourea was 190-fold selective ( Ki value of 0.047 microM against P35228 versus 9.0 microM against P29474 ) . These results demonstrate that potent and selective inhibition of human NOS isozymes is achievable .",
+    "Initial responses of osteoblasts derived from human alveolar bone to various compressive forces . Mechanical stress generated by orthodontic force is recognized as a major factor in the modulation of alveolar bone remodeling . During this process , osteoblasts play a crucial role , not only by participating in bone formation but also by promoting osteoclastogenesis . The aim of this study was to investigate how continuous compressive force ( CF ) affects human primary osteoblasts ( HOBs ) in terms of cell proliferation , apoptosis , and expression of interleukin-6 ( P05231 ) and chemokine CXC ligand 8 ( P10145 ) . Human primary osteoblasts , isolated from human mandibular bone pieces , were cultured with or without CF ( 1-4 g cm(-2) ) for up to 72 h . Cell viability and proliferation were evaluated using the MTT assay . RT-PCR was used to determine the levels of expression of KI67 ( a proliferation marker ) , Q07812 ( a pro-apoptotic marker ) , P10415 ( an apoptotic inhibitor ) , P05231 , and P10145 mRNAs , while a multiplexed bead immunoassay was used to measure the release of P05231 and P10145 . The results revealed that CF decreased cell viability and proliferation in a time- and force-dependent manner . After applying CF for 24 h , the mRNA expression of KI67 was markedly inhibited , whereas the mRNA expression of Q07812 and P10415 was unaltered . In addition , CF enhanced the levels of P05231 and P10145 mRNAs in a force-dependent manner , whereas the levels of the corresponding proteins were reduced in the compressed HOBs .",
+    "Quantum dots trigger immunomodulation of the NFκB pathway in human skin cells . The immunological effects of quantum dots are dependent on a variety of factors including , but not limited to , exposure time and dosing concentrations . In this study , we investigated the influence of 15 nm CdSe/ZnS-COOH quantum dot nanocrystals ( QDs ) on cell density , viability , and morphology in human epidermal keratinocytes ( P29320 ) and human dermal fibroblasts ( HDF ) . Furthermore , inflammatory and non-inflammatory immune responses were measured using protein and real time PCR array analysis from HDF cells exposed to predetermined sub-lethal concentrations of QDs . CdSe/ZnS-COOH QDs caused concentration-dependent ( 1-120 nM exposure concentrations ) and time-dependent ( 8 h or 48 h ) cell death , as evidenced by metabolic activity and morphological changes . QD exposure induced upregulation of apoptotic , inflammatory and immunoregulatory proteins such as P01375 -α , IL-1B and P22301 . P09601 , an indicator of stress due to reactive oxygen intermediates ( ROIs ) and/or metals , was upregulated at the later time point as well . QDs also caused modulation of genes known to be associated with inflammatory ( IL1-β , P13500 , O43187 ) , immune ( IL-1 , P05231 , O75594 , P01009 , P22301 ) , stress due to ROIs and/or heavy metals ( P09601 ) , and apoptotic ( P29466 , P29274 ) responses . Cellular effects from QD exposure were found to primarily follow the NFκB pathway . In addition , QDs induced a differential cytotoxicity in keratinocytes and fibroblasts at different exposure concentrations and time points , even at physiologically relevant dosing concentrations , thus emphasizing the need to investigate potential mechanisms of action among different cell types within the same target organ .",
+    "Comparison of the effects of cytoprotective drugs on human plasma adrenocorticotropic hormone and cortisol levels with continual stress exposure . Cetraxate hydrochloride ( cetraxate ) , ecabet sodium ( ecabet ) , and sulpiride , which are cytoprotective drugs , have been used to treat peptic ulcers and acute or chronic gastritis . They are reported to improve mucosal blood flow in the stomach . One of the most important factors believed to cause gastric ulcers is mental and/or physiological stress . When people feel stress , the hypothalamo-pituitary-adrenal ( Q9Y251 ) axis is activated . Therefore , corticotropin-releasing hormone ( P06850 ) , adrenocorticotropic hormone ( DB01285 ) , and cortisol can be indicators of stress . We examined the effects of cetraxate , ecabet and sulpiride on the plasma levels of DB01285 and cortisol under stress conditions by repetitive blood sampling . Venous blood samples were taken before and 20-240 min after a single administration of the drugs or a placebo . A single dose of ecabet caused significant suppression of increases in plasma DB01285 -like immunoreactive substance ( IS ) levels at 90 to 120 min and cortisol levels at 240 min , compared with the response to placebo . DB00391 only suppressed increases in plasma cortisol levels at 180 to 240 min , compared with the response to placebo . A single dose of cetraxate had no effect on plasma DB01285 -IS and cortisol levels . Ecabet may have a modulatory effect on the Q9Y251 axis while sulpiride may have a partial modulatory effect on the Q9Y251 axis . These effects might be beneficial in stress-related disease .",
+    "Drug insight : Use of docetaxel in prostate and urothelial cancers . Taxanes have emerged as a potent class of chemotherapeutic agents in many malignancies , with two taxanes now in clinical use . Their mechanism of action against tumor cells is by alteration of microtubule dynamics , which causes cell-cycle arrest during mitosis . DB01248 binds to the microtubules with a higher affinity than paclitaxel , and over a broader range of cell-cycle activities . It has also been shown to promote apoptosis via P10415 phosphorylation . In hormone-refractory prostate cancer , docetaxel has been studied as both a single agent and in combination with estramustine , and in different treatment schedules , with demonstrated efficacy . Two phase III trials have confirmed a survival benefit , making docetaxel the first chemotherapy agent with proven efficacy against prostate cancer . In urothelial cancer , docetaxel has demonstrated activity and has been investigated as a single agent and in combination regimens . A phase III trial comparing docetaxel and cisplatin to methotrexate , vinblastine , doxorubicin , and cisplatin was inferior when evaluating response rates and overall survival . More recent phase II trials combining docetaxel with two additional agents have shown promise , but confirmatory trials are needed .",
+    "DB01285 releasing factor receptor 1 ( CRF1 ) and CRF2 agonists exert an anti-inflammatory effect during the early phase of inflammation suppressing LPS-induced P01375 release from macrophages via induction of P35354 and DB00917 . P06850 ( CRF ) , the principal regulator of the hypothalamus-pituitary-adrenal ( Q9Y251 ) axis , also modulates the inflammatory response directly , via its effect on mast cells and macrophages . On macrophages , it augments production of lipopolysaccharide ( LPS ) -induced pro-inflammatory cytokines . CRF and its related peptides may also act as anti-inflammatory agents . Aim of the present work was to examine the role of macrophages on the anti-inflammatory effects of CRF-peptides and the mechanism involved . Thus , we examined if CRF receptor 1 ( CRF1 ) and CRF2 agonists exert any anti-inflammatory effect on primary mouse macrophages . We have found that : ( a ) CRF , P55089 ( P55089 )1 and Q96RP3 transiently suppressed the release of Tumor Necrosis Factor-alpha ( P01375 ) in LPS-activated macrophages , an effect peaking at 4 h . This effect did not involve changes on P01375 transcription . ( b ) CRF peptide-induced suppression of P01375 release depended on induction of P35354 and DB00917 synthesis . ( c ) Use of specific CRF1 and CRF2 antagonists suggested that this effect involved both CRF receptor types . ( d ) The effect of CRF-peptides on P35354 was mediated via PI3K and p38MAPK . ( e ) Longer exposure of macrophages to CRF-peptides resulted in induction of P01375 production via enhancement of its transcription . In conclusion , this is the first report suggesting that CRF1 and CRF2 agonists exert a biphasic effect on macrophages . During the early stages of the inflammatory response , they suppress P01375 release via induction of P35354 / DB00917 while later on they induce P01375 transcription . Hence , the reported anti-inflammatory effect of CRF-peptides appears to involve macrophages and is confined at the early stage of inflammation .",
+    "Effect of P06850 on NO bioavailability , ROS production and antioxidant defense systems in endothelial EAhy926 cells . Local or ' Immune ' DB01285 -Releasing Hormone ( P06850 ) is secreted in peripheral tissues and plays a direct immunomodulatory role as an endocrine or paracrine mediator of inflammation . The present study was undertaken to determine whether P06850 affects the endothelial redox state . Accordingly , intracellular reactive oxygen species ( ROS ) content and peroxynitrite levels , endothelial nitric oxide synthase ( P29474 ) activity and nitric oxide ( NO ) levels as well as catalase activity , superoxide dismutase ( SOD ) activity and glutathione ( DB00143 ) levels were measured in the presence or absence of selective P06850 receptor-1 and P06850 receptor-2 inhibitors in endothelial EAhy926 cells exposed in vitro in 10(-7) M P06850 for 2 h . P06850 acting through both receptors induced a significant increase of ROS content ( p < 0.001 ) , catalase activity ( p < 0.001 ) and SOD activity ( p < 0.001 ) , accompanied by a simultaneous significant decrease of P29474 activity and NO levels ( p < 0.001 ) , as well as a significant increase in nitrotyrosine ( peroxynitrite ) levels ( p < 0.05 ) . The data indicate that P06850 may act as a regulator of pro-inflammatory mechanisms inducing adaptation of endothelial cell function to local stress .",
+    "DB09302 : Q8NBP7 inhibitor for LDL cholesterol reduction . The proof of concept that proprotein convertase subtilisin/kexin type 9 ( Q8NBP7 ) inhibition affects cholesterol levels was first established after the demonstration that Q8NBP7 loss-of-function mutations result in a significant drop in circulating LDL cholesterol levels . Subsequent studies revealed that Q8NBP7 binds the epidermal growth factor precursor homology domain-A on the surface LDL Receptor ( P01130 ) and directs P01130 and Q8NBP7 for lysosomal degradation . DB09302 ( also known as SAR236553/REGN727 ) is a monoclonal antibody that binds circulating Q8NBP7 and blocks its interactions with surface P01130 . DB09302 clinical trials with different doses on different administration schedules were shown to significantly reduce LDL cholesterol both as a mono-therapy and in combination with statins or ezetimibe . Although there is great potential for anti- Q8NBP7 therapies in the management of cholesterol metabolism , there is no clear evidence yet that blocking Q8NBP7 reduces cardiovascular disease outcome . This is being investigated in ongoing Phase III clinical trials with alirocumab ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB01285 is adrenocorticotropin (ACTH), a hormone released by the pituitary gland.\nDB01285 is regulated by corticotropin-releasing hormone (P06850) in the hypothalamus.\nP06850 stimulates the release of DB01285 from the pituitary.\nDB01285 is also influenced by feedback from glucocorticoids, which suppress its release.\nDB01285 is a key component of the hypothalamic-pituitary-adrenal (HPA) axis.\nDB00580 is valdecoxib, a COX-2 inhibitor used for osteoarthritis.\nDB00580 is not known to interact directly with DB01285.\nDB00640 is an A2A receptor gene variant associated with autism and anxiety.\nDB00640 does not interact with DB01285.\nDB01248 is docetaxel, a chemotherapeutic agent that affects microtubules.\nDB01248 does not interact with DB01285.\nDB02539 is a nitric oxide synthase inhibitor.\nDB02539 does not interact with DB01285.\nDB04014 is a paullone that inhibits GSK-3beta and CDK5/p25.\nDB04014 does not interact with DB01285.\nDB04845 is a drug used in neoadjuvant breast cancer treatment.\nDB04845 does not interact with DB01285.\nDB06643 is denosumab, a monoclonal antibody targeting RANKL.\nDB06643 does not interact with DB01285.\nDB08885 is a VEGF antagonist used in marmoset ovarian studies.\nDB08885 does not interact with DB01285.\nDB09302 is a monoclonal antibody that inhibits Q8NBP7 to reduce LDL cholesterol.\nDB09302 does not interact with DB01285.\nNo drug listed interacts directly with DB01285.\n<answer> None",
+  "predicted_answer": "None",
+  "claims": [
+    "DB01285 is adrenocorticotropin (ACTH), a hormone released by the pituitary gland",
+    "DB01285 is regulated by corticotropin-releasing hormone (P06850) in the hypothalamus",
+    "P06850 stimulates the release of DB01285 from the pituitary",
+    "DB01285 is also influenced by feedback from glucocorticoids, which suppress its release",
+    "DB01285 is a key component of the hypothalamic-pituitary-adrenal (HPA) axis",
+    "DB00580 is valdecoxib, a COX-2 inhibitor used for osteoarthritis",
+    "DB00580 is not known to interact directly with DB01285",
+    "DB00640 is an A2A receptor gene variant associated with autism and anxiety",
+    "DB00640 does not interact with DB01285",
+    "DB01248 is docetaxel, a chemotherapeutic agent that affects microtubules",
+    "DB01248 does not interact with DB01285",
+    "DB02539 is a nitric oxide synthase inhibitor",
+    "DB02539 does not interact with DB01285",
+    "DB04014 is a paullone that inhibits GSK-3beta and CDK5/p25",
+    "DB04014 does not interact with DB01285",
+    "DB04845 is a drug used in neoadjuvant breast cancer treatment",
+    "DB04845 does not interact with DB01285",
+    "DB06643 is denosumab, a monoclonal antibody targeting RANKL",
+    "DB06643 does not interact with DB01285",
+    "DB08885 is a VEGF antagonist used in marmoset ovarian studies",
+    "DB08885 does not interact with DB01285",
+    "DB09302 is a monoclonal antibody that inhibits Q8NBP7 to reduce LDL cholesterol",
+    "DB09302 does not interact with DB01285",
+    "No drug listed interacts directly with DB01285"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB01285 is adrenocorticotropin (ACTH), a hormone released by the pituitary gland",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB01285 is regulated by corticotropin-releasing hormone (P06850) in the hypothalamus",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "P06850 stimulates the release of DB01285 from the pituitary",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB01285 is also influenced by feedback from glucocorticoids, which suppress its release",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB01285 is a key component of the hypothalamic-pituitary-adrenal (HPA) axis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00580 is valdecoxib, a COX-2 inhibitor used for osteoarthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00580 is not known to interact directly with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB00640 is an A2A receptor gene variant associated with autism and anxiety",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB00640 does not interact with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB01248 is docetaxel, a chemotherapeutic agent that affects microtubules",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB01248 does not interact with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB02539 is a nitric oxide synthase inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB02539 does not interact with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB04014 is a paullone that inhibits GSK-3beta and CDK5/p25",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB04014 does not interact with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB04845 is a drug used in neoadjuvant breast cancer treatment",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB04845 does not interact with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB06643 is denosumab, a monoclonal antibody targeting RANKL",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB06643 does not interact with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB08885 is a VEGF antagonist used in marmoset ovarian studies",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "DB08885 does not interact with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "DB09302 is a monoclonal antibody that inhibits Q8NBP7 to reduce LDL cholesterol",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C23",
+      "text": "DB09302 does not interact with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C24",
+      "text": "No drug listed interacts directly with DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__7e7ba5f2d4c84b9e2259",
+  "sample_id": "7e7ba5f2d4c84b9e2259",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Land of Israel in possession of an Islamic empire in 16th century?",
+  "gold_answer": "yes",
+  "context": [
+    "Land of Israel was controlled by the Ottoman Empire in 16th century. ",
+    "The religion of Ottoman Empire was Sunni Islam. "
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLand of Israel was controlled by the Ottoman Empire in the 16th century.\nThe Ottoman Empire practiced Sunni Islam as its official religion.\nAn empire that practices Sunni Islam is an Islamic empire.\nLand of Israel was under the control of an Islamic empire in the 16th century.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Land of Israel was controlled by the Ottoman Empire in the 16th century",
+    "The Ottoman Empire practiced Sunni Islam as its official religion",
+    "An empire that practices Sunni Islam is an Islamic empire",
+    "Land of Israel was under the control of an Islamic empire in the 16th century"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Land of Israel was controlled by the Ottoman Empire in the 16th century",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Ottoman Empire practiced Sunni Islam as its official religion",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "An empire that practices Sunni Islam is an Islamic empire",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Land of Israel was under the control of an Islamic empire in the 16th century",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

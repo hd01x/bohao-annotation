@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__e5ffcc7b22a58df8952d",
+  "sample_id": "e5ffcc7b22a58df8952d",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does the central processing unit usually have a dedicated fan?",
+  "gold_answer": "yes",
+  "context": [
+    "The CPU is the main chip on a computer's board, and generates a lot of heat.",
+    "Computer manufacturers generally include a dedicated cooling system over the CPU in addition to the main board fans."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe central processing unit (CPU) generates a significant amount of heat during operation.\nComputer manufacturers typically install a dedicated cooling system on the CPU.\nThis dedicated cooling system often includes a fan.\nThe main board fans are separate from the CPU's dedicated cooling system.\nA dedicated fan is commonly used to cool the CPU effectively.\nThe central processing unit usually has a dedicated fan.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The central processing unit (CPU) generates a significant amount of heat during operation",
+    "Computer manufacturers typically install a dedicated cooling system on the CPU",
+    "This dedicated cooling system often includes a fan",
+    "The main board fans are separate from the CPU's dedicated cooling system",
+    "A dedicated fan is commonly used to cool the CPU effectively",
+    "The central processing unit usually has a dedicated fan"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The central processing unit (CPU) generates a significant amount of heat during operation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Computer manufacturers typically install a dedicated cooling system on the CPU",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "This dedicated cooling system often includes a fan",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The main board fans are separate from the CPU's dedicated cooling system",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A dedicated fan is commonly used to cool the CPU effectively",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The central processing unit usually has a dedicated fan",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

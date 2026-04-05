@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__a3561235086b11ebbd5fac1f6bf848b6",
+  "sample_id": "a3561235086b11ebbd5fac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film was released more recently, The Singing Fool or La Ragazzola?",
+  "gold_answer": "La Ragazzola",
+  "context": [
+    "Say It With Songs is a 1929 American Pre- Code musical drama film, directed by Lloyd Bacon and released by Warner Bros .. The film stars Al Jolson and was a follow- up to his previous film,\" The Singing Fool\"( 1928).",
+    "Lagrange or La Grange may refer to:",
+    "Fool, The Fool, or Fools may refer to:",
+    "The Singing Fool is a 1928 American musical drama Part- Talkie motion picture directed by Lloyd Bacon which was released by Warner Bros. The film stars Al Jolson and is a follow- up to his previous film,\" The Jazz Singer\". It is credited with helping to cement the popularity of American films of both sound and the musical genre.",
+    "LA- 7 or LA 7 can refer to:",
+    "Say It With Songs is a 1929 American Pre- Code musical drama film, directed by Lloyd Bacon and released by Warner Bros .. The film stars Al Jolson and was a follow- up to his previous film,\" The Singing Fool\"( 1928).",
+    "Poet, Fool or Bum is a studio album by Lee Hazlewood, released in 1973.",
+    "La ragazzola is a 1965 Italian film directed by Giuseppe Orlandini.",
+    "\" There's a Rainbow' Round My Shoulder\" is a 1928 song sung by Al Jolson in the early Warner Bros. talking picture\" The Singing Fool\" the same year. The song, along with\" Sonny Boy\" and\" I'm Sitting on Top of the World\", which were also in\" The Singing Fool\", were big hits for Jolson. The song was written by Al Jolson, Billy Rose and Dave Dreyer. According to John A. Lomax in his\" American Ballads and Folk Songs\" published in 1934, from the song\" Goin' Home\". The line\" Got a rainbow tied all' round my shoulder\" refers to the\" Rainbow\" as\" the arc of a swinging pick, probably going so fast it becomes red hot.\" This song is in the section entitled\" Songs from Southern Chain Gangs\".",
+    "Chapelle or La Chapelle may refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Singing Fool was released in 1928.\nLa Ragazzola was released in 1965.\n1965 is later than 1928.\nThe film released more recently is La Ragazzola.\n<answer> La Ragazzola",
+  "predicted_answer": "La Ragazzola",
+  "claims": [
+    "The Singing Fool was released in 1928",
+    "La Ragazzola was released in 1965",
+    "1965 is later than 1928",
+    "The film released more recently is La Ragazzola"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Singing Fool was released in 1928",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "La Ragazzola was released in 1965",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "1965 is later than 1928",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The film released more recently is La Ragazzola",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

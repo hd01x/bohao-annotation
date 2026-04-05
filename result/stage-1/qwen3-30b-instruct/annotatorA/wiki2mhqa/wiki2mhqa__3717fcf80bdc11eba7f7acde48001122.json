@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__3717fcf80bdc11eba7f7acde48001122",
+  "sample_id": "3717fcf80bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of the director of film Alien From L.A.?",
+  "gold_answer": "Hawaii",
+  "context": [
+    "Algol: Tragedy of Power is a 1920 German science fiction film about an alien from the planet Algol.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Alien from L.A. is a 1988 science fiction film directed by Albert Pyun and starring Kathy Ireland as a young woman who visits the underground civilization of Atlantis. The film was featured on \"Mystery Science Theater 3000\" and since then, it was considered a cult film.",
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "Albert Pyun (born May 19, 1953) is an American film director best known for having made many low-budget B-movies and direct-to-video action films. The Independent Film Channel said that Pyun \"has carved out a unique niche as a director of low-budget, high-concept genre films starring actors past their prime\", adding that \"others believe this a charitable description for Pyun, who has also been derided as the new Ed Wood. \" Though he frequently blends kickboxing and hybrid martial arts with science fiction and dystopic or post-apocalyptic themes, which often include cyborgs, Pyun stated in an interview that \"I have really no interest in cyborgs. And I've never really had any interest in post-apocalyptic stories or settings. It just seemed that those situations presented a way for me to make movies with very little money, and to explore ideas that I really wanted to explore — even if they were [controversial].\" Some of Pyun's better known films include \"The Sword and the SorcererCyborgCaptain America\", and \"Nemesis\". Pyun was a military brat and lived on bases around the world until his father settled in Hawaii. Pyun went to school in Kailua, a small town located on the windward side of Oahu. Pyun's first 8mm and 16mm movies were made in Kailua and he credits living in foreign countries and growing up in Hawaii as strong influences on his filmmaking style.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Journey to the Center of the Earth is a 1989 science fiction film. It was a nominal sequel to the film\" Alien from L.A.\", both of which are( very) loosely based on the novel\" Journey to the Center of the Earth\" by Jules Verne.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Harry From( born 12 December 1934 in Bucharest, Romania- died 5 May 1996 in New York, USA) was a theater and film director, and movie producer."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAlien from L.A. is a 1988 science fiction film directed by Albert Pyun.\nAlbert Pyun was born on May 19, 1953.\nPyun was a military brat and lived on bases around the world until his father settled in Hawaii.\nPyun went to school in Kailua, a small town located on the windward side of Oahu.\nThe place of birth of Albert Pyun is not explicitly stated in the context.\nThe director of Alien from L.A. was born in the United States.\nThe place of birth of the director of Alien from L.A. is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Alien from L.A. is a 1988 science fiction film directed by Albert Pyun",
+    "Albert Pyun was born on May 19, 1953",
+    "Pyun was a military brat and lived on bases around the world until his father settled in Hawaii",
+    "Pyun went to school in Kailua, a small town located on the windward side of Oahu",
+    "The place of birth of Albert Pyun is not explicitly stated in the context",
+    "The director of Alien from L.A. was born in the United States",
+    "The place of birth of the director of Alien from L.A. is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Alien from L.A. is a 1988 science fiction film directed by Albert Pyun",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Albert Pyun was born on May 19, 1953",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Pyun was a military brat and lived on bases around the world until his father settled in Hawaii",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Pyun went to school in Kailua, a small town located on the windward side of Oahu",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The place of birth of Albert Pyun is not explicitly stated in the context",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The director of Alien from L.A. was born in the United States",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The place of birth of the director of Alien from L.A. is not specified",
+      "claim_type": "FC"
+    }
+  ]
+}

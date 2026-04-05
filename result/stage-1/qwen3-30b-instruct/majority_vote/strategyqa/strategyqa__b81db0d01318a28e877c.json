@@ -1,0 +1,78 @@
+{
+  "uid": "strategyqa__b81db0d01318a28e877c",
+  "sample_id": "b81db0d01318a28e877c",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Do inanimate objects come alive in Beauty and the Beast?",
+  "gold_answer": "yes",
+  "context": [
+    "Beauty and the Beast features a castle full of items that move and speak on their own. ",
+    "An inanimate object is one that is not alive in any way.",
+    "Main characters of Beauty and the Beast include a talking teacup and a sassy duster."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBeauty and the Beast features a castle where items move and speak on their own.\nThe main characters include a talking teacup and a sassy duster.\nA talking teacup and a sassy duster are inanimate objects that are depicted as alive.\nInanimate objects come alive in Beauty and the Beast.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Beauty and the Beast features a castle where items move and speak on their own",
+    "The main characters include a talking teacup and a sassy duster",
+    "A talking teacup and a sassy duster are inanimate objects that are depicted as alive",
+    "Inanimate objects come alive in Beauty and the Beast"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Beauty and the Beast features a castle where items move and speak on their own",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The main characters include a talking teacup and a sassy duster",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A talking teacup and a sassy duster are inanimate objects that are depicted as alive",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Inanimate objects come alive in Beauty and the Beast",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__e537c420c9cb2e24409c",
+  "sample_id": "e537c420c9cb2e24409c",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would the author of Little Women have remembered the ratification of the 13th Amendment?",
+  "gold_answer": "yes",
+  "context": [
+    "The 13th Amendment was ratified in 1865.",
+    "Louisa May Alcott died in 1888."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe 13th Amendment was ratified in 1865.\nLouisa May Alcott died in 1888.\nLouisa May Alcott was born in 1832.\nShe was an adult in 1865 and lived through the period following the ratification.\nThe author of Little Women, Louisa May Alcott, was alive during and after 1865.\nThe author of Little Women would have remembered the ratification of the 13th Amendment.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The 13th Amendment was ratified in 1865",
+    "Louisa May Alcott died in 1888",
+    "Louisa May Alcott was born in 1832",
+    "She was an adult in 1865 and lived through the period following the ratification",
+    "The author of Little Women, Louisa May Alcott, was alive during and after 1865",
+    "The author of Little Women would have remembered the ratification of the 13th Amendment"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The 13th Amendment was ratified in 1865",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Louisa May Alcott died in 1888",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Louisa May Alcott was born in 1832",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "She was an adult in 1865 and lived through the period following the ratification",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The author of Little Women, Louisa May Alcott, was alive during and after 1865",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The author of Little Women would have remembered the ratification of the 13th Amendment",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

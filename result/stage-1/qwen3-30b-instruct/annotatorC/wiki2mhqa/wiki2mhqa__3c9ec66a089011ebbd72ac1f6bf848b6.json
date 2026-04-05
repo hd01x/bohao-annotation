@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__3c9ec66a089011ebbd72ac1f6bf848b6",
+  "sample_id": "3c9ec66a089011ebbd72ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Are both Alex Bregman and Francesca Sterlacci from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "Alexander David Bregman( born March 30, 1994) is an American professional baseball third baseman and shortstop for the Houston Astros of Major League Baseball( MLB). As a 16- year- old high school sophomore in 2010, Bregman became the first high school player to win the USA Baseball Player of the Year Award. As a junior the following year he batted .678, while setting a New Mexico season record with 19 home runs. In three years of college baseball for Louisiana State University( LSU), Bregman was voted the 2013 National Freshman of the Year by\" Baseball America\", won the 2013 Brooks Wallace Award as the country's best college shortstop, and was a two- time All- American. Toward the end of his junior year of college, he was selected by the Houston Astros with the second pick in the first round of the 2015 MLB draft. In the minor leagues he was named a 2016 AA mid-season All Star, and the 2016\" USA Today\" Minor League Player of the Year, MLB Pipeline Hitter of the Year, and ESPN Prospect of the Year. Bregman made his MLB debut in July 2016. He started 2017 as the youngest member of Team USA, which won the gold medal in the 2017 World Baseball Classic, and ended the season winning the 2017 World Series with the Astros. He was named MVP of the 2018 MLB All- Star Game, and led the American League in doubles in 2018. In 2019 he was again an All Star, led the AL in walks and WAR, and received the 2019 American League Silver Slugger Award at third base.",
+    "Luigi Comencini( 8 June 1916 – 6 April 2007) was an Italian film director. Together with Dino Risi, Ettore Scola and Mario Monicelli, he was considered among the masters of the\" commedia all'italiana\" genre. His daughters Cristina and Francesca are both film directors.",
+    "Georgie Abrams( November 11, 1918 – June 30, 1994) was an American boxer who came very close to winning the World Middleweight Championship in November 1941 against Tony Zale and was a top contender for the title in the early 1940s. In his unique boxing career, he fought eight former or future world champions. He was managed by Bo Bregman, and Chris Dundee. Abrams was inducted into the World Boxing Hall of Fame in 2005.",
+    "Legend of Love( also known as\" Paolo and Francesca\") is a 1950 Italian historical melodrama film directed by Raffaello Matarazzo and starring Odile Versois and Armando Francioli. It is loosely based on real life events of Paolo Malatesta and Francesca da Polenta.",
+    "Luigi Comencini( 8 June 1916 – 6 April 2007) was an Italian film director. Together with Dino Risi, Ettore Scola and Mario Monicelli, he was considered among the masters of the\" commedia all'italiana\" genre. His daughters Cristina and Francesca are both film directors.",
+    "Barbara Schett and Patty Schnyder were the defending champions and won in the final 6 – 3, 6 – 2 against Silvia Farina Elia and Francesca Schiavone.",
+    "Monica Bandini( born November 16, 1964) is a retired racing cyclist from Italy. Her biggest achievement was winning the world title in the women's team time trial( 1988), alongside Maria Canins, Roberta Bonanomi, and Francesca Galli.",
+    "Godwin Davy( born 15 December 1979) is an Anguillan international footballer who plays as a goalkeeper. He made his international debut in a World Cup qualifying match against El Salvador, resulting in a lopsided match, losing 12- 0 in February 2008, and also played in the 4 – 0 loss to the same country in the return match in March 2008.",
+    "Francesca Sterlacci is an American fashion designer, author and entrepreneur. She launched her clothing line,\" Francesca Sterlacci Ltd.\" in 1980, and continued designing clothes under her label until 1989. Sterlacci joined the Fashion Institute of Technology as a teacher in 1990, and became the chairwoman of the Fashion department at the institute in 2001. In 2013, Sterlacci launched\" University of Fashion\", an online library of fashion design videos.",
+    "Jody Stephens( born October 4, 1952) is an American drummer, who has played in Big Star( with Alex Chilton of the Box Tops) and Golden Smog( with members of the Jayhawks and Soul Asylum). When not on tour with Big Star, he works as CEO of Ardent Studios- the same studio Big Star recorded all of their albums. After the deaths of Chris Bell in 1978, and both Alex Chilton and Andy Hummel in 2010, Stephens is the last surviving original member of Big Star. Stephens also performs and records with Luther Russell as Those Pretty Wrongs. Their debut 7\" was released in 2015 on Burger Records, and their debut LP released May 13, 2016 on the Ardent Music label."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAlex Bregman is an American professional baseball player.\nFrancesca Sterlacci is an American fashion designer, author, and entrepreneur.\nBoth Alex Bregman and Francesca Sterlacci are from the United States.\nThe country of origin for both Alex Bregman and Francesca Sterlacci is the United States.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Alex Bregman is an American professional baseball player",
+    "Francesca Sterlacci is an American fashion designer, author, and entrepreneur",
+    "Both Alex Bregman and Francesca Sterlacci are from the United States",
+    "The country of origin for both Alex Bregman and Francesca Sterlacci is the United States"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Alex Bregman is an American professional baseball player",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Francesca Sterlacci is an American fashion designer, author, and entrepreneur",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Both Alex Bregman and Francesca Sterlacci are from the United States",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The country of origin for both Alex Bregman and Francesca Sterlacci is the United States",
+      "claim_type": "DR"
+    }
+  ]
+}

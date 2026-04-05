@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__f7a6322e08c511ebbd8fac1f6bf848b6",
+  "sample_id": "f7a6322e08c511ebbd8fac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do both films, Humko Deewana Kar Gaye and Dozakh In Search Of Heaven, have the directors who are from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "Michael David Wood( born 23 July 1948) is an English historian and broadcaster. He has presented numerous well- known television documentary series from the late 1970s to the present day. Wood has also written a number of books on English history, including\" In Search of the Dark Ages The Domesday Quest The Story of England\", and\" In Search of Shakespeare\". He was appointed Professor of Public History at the University of Manchester in 2013.",
+    "Time Regained is a 1999 French drama film directed by the Chilean filmmaker Raúl Ruiz. It is an adaptation of the final volume of\" In Search of Lost Time\" by Marcel Proust. The plot is about the anonymous narrator of\" In Search of Lost Time\" who reflects on his past experiences while lying on his deathbed. The choice to develop the last volume of\" In Search of Lost Time\" allows the film to refer to the entire series of books. For example, the film shows an episode of the first novel,\" Swann's Way\", usually referred to as\" the lady in pink,\" as a flashback of\" Time Regained\". The film was entered into the 1999 Cannes Film Festival.",
+    "The Lizard King is a 1988 Australian television film about a woman who comes from France to Australia in search of her son.",
+    "Zaigham Imam (Born 10 December 1982) is an Indian film Director, writer, and producer known for his critically acclaimed films Nakkash, Dozakh in Search of Heaven, and Alif (2016 film), He has written two books 'Main Mohabbat\" and \"Dozakh\" published by Rajkamal Prakashan. He recently bags Best Director award for Nakkash at India International Film Festival of Boston (IIFFB) 2019",
+    "Dozakh in Search of Heaven is an Indian Hindi- Urdu film written and directed by Zaigham Imam, which premiered at the Kolkata International Film Festival on 12 November 2013. It was jointly produced by Imam and Pawan Tiwari who also acts. It is an adaptation of a book by the same name.",
+    "In Search of La Che is a Scottish spoof documentary film directed by Mark D. Ferguson. The screenplay was written by Andy S. McEwan. \" In Search of La Che\" premiered at the Glasgow Film Theatre on 9 November 2011.",
+    "Raj Kanwar( c. 28 June 1961 – 3 February 2012) was a Bollywood film director, writer and film producer based in Mumbai, India.",
+    "Humko Deewana Kar Gaye( translation:\" You Made Me Crazy\") is a 2006 Indian Hindi romantic drama film directed by Raj Kanwar, produced by Raj Kanwar, Bhushan Kumar& Krishan Kumar and starring Akshay Kumar and Katrina Kaif in the lead roles. Bipasha Basu, Anil Kapoor and Manoj Joshi also star in the movie in supporting roles. The film is inspired by British romantic movie\" Notting Hill\". The film is produced by the Indian music company, T- Series and Inderjit Films Combine. The movie's score and soundtrack is composed by Himesh Reshammiya and Anu Malik with lyrics by Sameer. The film released on 14 April 2006. The music of the film released on 2 February 2006.",
+    "In Search Of is a 2008 drama film written and directed by James C. Zelker and produced by the company Independent Dream Machine.",
+    "Pawan Tiwari is an Indian actor/ producer. He has been seen in many TV shows and Films. He turned producer with the feature film\" Dozakh In Search of Heaven\". under his production company name\" Jalsa Pictures\". His company made Dozakh In Search of Heaven,\" Alif\" and Nakkash."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHumko Deewana Kar Gaye was directed by Raj Kanwar.\nRaj Kanwar was a Bollywood film director based in Mumbai, India.\nDozakh In Search of Heaven was directed by Zaigham Imam.\nZaigham Imam is an Indian film director, writer, and producer.\nBoth Raj Kanwar and Zaigham Imam are from India.\nThe directors of Humko Deewana Kar Gaye and Dozakh In Search of Heaven are from the same country.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Humko Deewana Kar Gaye was directed by Raj Kanwar",
+    "Raj Kanwar was a Bollywood film director based in Mumbai, India",
+    "Dozakh In Search of Heaven was directed by Zaigham Imam",
+    "Zaigham Imam is an Indian film director, writer, and producer",
+    "Both Raj Kanwar and Zaigham Imam are from India",
+    "The directors of Humko Deewana Kar Gaye and Dozakh In Search of Heaven are from the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Humko Deewana Kar Gaye was directed by Raj Kanwar",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Raj Kanwar was a Bollywood film director based in Mumbai, India",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Dozakh In Search of Heaven was directed by Zaigham Imam",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Zaigham Imam is an Indian film director, writer, and producer",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Both Raj Kanwar and Zaigham Imam are from India",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The directors of Humko Deewana Kar Gaye and Dozakh In Search of Heaven are from the same country",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

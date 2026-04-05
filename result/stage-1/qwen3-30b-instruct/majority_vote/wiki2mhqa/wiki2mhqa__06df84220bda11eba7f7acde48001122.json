@@ -1,0 +1,99 @@
+{
+  "uid": "wiki2mhqa__06df84220bda11eba7f7acde48001122",
+  "sample_id": "06df84220bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the husband of Wilhelmine Of Prussia, Margravine Of Brandenburg-Bayreuth born?",
+  "gold_answer": "Weferlingen",
+  "context": [
+    "Frederick, Margrave of Brandenburg-Bayreuth (May 10, 1711 in Weferlingen – February 26, 1763 in Bayreuth), was a member of the House of Hohenzollern and Margrave of Brandenburg-Bayreuth. He was the eldest son of Georg Frederick Karl, nominal Margrave of Brandenburg-Bayreuth-Kulmbach, by his wife Dorothea of Schleswig-Holstein-Sonderburg-Beck.",
+    "Erdmann August of Brandenburg- Bayreuth( b. Bayreuth, 8 October 1615- d. Hof, 6 February 1651), was a member of the House of Hohenzollern and Hereditary Margrave( German:\" Erbmarkgraf\") of Brandenburg- Bayreuth. He was the seventh of the nine children of Christian, Margrave of Brandenburg- Bayreuth by his wife, Marie of Prussia. In fact, he was the third- born son but the only one to survive into adulthood; his two older brothers Georg Frederick( b. and d. 1608) and Christian Ernst( b. 1613- d. 1614) died long before his own birth. In Ansbach on 8 December 1641, Erdmann August married the Margravine Sophie of Brandenburg- Ansbach, who was also his first cousin( daughter of Joachim Ernst, Margrave of Brandenburg- Ansbach, his father's brother). They had only one son: Sophie died on 3 December 1646. Erdmann August himself died four years later, aged thirty- five, in the middle of the preparations of his wedding with Sophie Agnes of Mecklenburg- Schwerin. Because he predeceased his father, his son Christian Ernst succeeded as Margrave of Brandenburg- Bayreuth in 1655.",
+    "Marie of Prussia (23 January 1579 – 21 February 1649) was a Prussian duchess by birth and Margravine of Brandenburg-Bayreuth by marriage.",
+    "Princess Wilhelmine of Prussia (Friederike Sophie Wilhelmine; 3 July 1709 – 14 October 1758) was a princess of the German Kingdom of Prussia (the older sister of Frederick the Great) and composer. She was the eldest daughter of Frederick William I of Prussia and Sophia Dorothea of Hanover, and granddaughter of George I of Great Britain. In 1731, she married Frederick, Margrave of Brandenburg-Bayreuth. The baroque buildings and parks built during her reign shape much of the present appearance of the town of Bayreuth, Germany.",
+    "Duchess Sophie Caroline Marie of Brunswick-Wolfenbüttel (7 October 1737 – 22 December 1817) was Margravine of Brandenburg-Bayreuth by marriage to Frederick, Margrave of Brandenburg-Bayreuth. She was the eldest daughter of Charles I, Duke of Brunswick-Wolfenbüttel, and his wife, Philippine Charlotte of Prussia, sister of Frederick the Great.",
+    "George Frederick Charles, Margrave of Brandenburg- Bayreuth( 19 June 1688 at Oberzulzbürg Castle, near Mühlhausen – 17 May 1735 in Bayreuth), was a German prince, member of the House of Hohenzollern, nominal Margrave of Brandenburg- Bayreuth- Kulmbach( 1708 – 35) and Margrave of Brandenburg- Bayreuth( 1726–35).",
+    "George William of Brandenburg- Bayreuth( German:\" Georg Wilhelm\"; 26 November 1678 in Bayreuth – 18 December 1726 in Bayreuth) was a member of the House of Hohenzollern and Margrave of Brandenburg- Bayreuth.",
+    "Margravine\" Sophie Christine\" Louise of Brandenburg- Bayreuth( in German:\" Sophie Christine Luise, Markgräfin von Brandenburg- Bayreuth\"; 4 January 1710 in Schloss Weferlingen, Weferlingen – 13 June 1739 in Brussels, Austrian Netherlands) was a member of the Brandenburg- Bayreuth line of the House of Hohenzollern and a Margravine of Brandenburg- Bayreuth by birth. Through her marriage to Alexander Ferdinand, 3rd Prince of Thurn and Taxis, Sophie Christine was also a member of the Princely House of Thurn and Taxis and Hereditary Princess of Thurn and Taxis.",
+    "Frederick Christian of Brandenburg- Bayreuth( 17 July 1708 in Weferlingen – 20 January 1769 in Bayreuth), was a member of the House of Hohenzollern and Margrave of Brandenburg- Bayreuth.",
+    "Anna Maria Princess of Eggenberg, née Brandenburg- Bayreuth( born 30 December 1609 in Bayreuth; died 8 May 1680 in Ödenburg) was a Margravine of Brandenburg- Bayreuth and, by marriage Johann Anton I von Eggenberg, a\" Fürstin\"( princess) of Eggenberg."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPrincess Wilhelmine of Prussia was the eldest daughter of Frederick William I of Prussia and Sophia Dorothea of Hanover.\nShe married Frederick, Margrave of Brandenburg-Bayreuth.\nFrederick, Margrave of Brandenburg-Bayreuth, was born on May 10, 1711, in Weferlingen.\nWeferlingen is located in present-day Germany.\nThe husband of Wilhelmine of Prussia, Margravine of Brandenburg-Bayreuth, was born in Weferlingen.\n<answer> Weferlingen",
+  "predicted_answer": "Weferlingen",
+  "claims": [
+    "Princess Wilhelmine of Prussia was the eldest daughter of Frederick William I of Prussia and Sophia Dorothea of Hanover",
+    "She married Frederick, Margrave of Brandenburg-Bayreuth",
+    "Frederick, Margrave of Brandenburg-Bayreuth, was born on May 10, 1711, in Weferlingen",
+    "Weferlingen is located in present-day Germany",
+    "The husband of Wilhelmine of Prussia, Margravine of Brandenburg-Bayreuth, was born in Weferlingen"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Princess Wilhelmine of Prussia was the eldest daughter of Frederick William I of Prussia and Sophia Dorothea of Hanover",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "She married Frederick, Margrave of Brandenburg-Bayreuth",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Frederick, Margrave of Brandenburg-Bayreuth, was born on May 10, 1711, in Weferlingen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Weferlingen is located in present-day Germany",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The husband of Wilhelmine of Prussia, Margravine of Brandenburg-Bayreuth, was born in Weferlingen",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

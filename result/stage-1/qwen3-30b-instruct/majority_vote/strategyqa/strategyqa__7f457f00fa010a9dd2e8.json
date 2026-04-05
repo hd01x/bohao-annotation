@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__7f457f00fa010a9dd2e8",
+  "sample_id": "7f457f00fa010a9dd2e8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did travelers sing sea shanties on the Oregon Trail?",
+  "gold_answer": "no",
+  "context": [
+    "Sea shanties are sung on seaborne vessels",
+    "The Oregon Trail was a land-based emigration trail"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSea shanties are sung on seaborne vessels.\nThe Oregon Trail was a land-based emigration trail.\nTravelers on the Oregon Trail did not use seaborne vessels.\nSea shanties were not sung on the Oregon Trail.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Sea shanties are sung on seaborne vessels",
+    "The Oregon Trail was a land-based emigration trail",
+    "Travelers on the Oregon Trail did not use seaborne vessels",
+    "Sea shanties were not sung on the Oregon Trail"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Sea shanties are sung on seaborne vessels",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Oregon Trail was a land-based emigration trail",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Travelers on the Oregon Trail did not use seaborne vessels",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Sea shanties were not sung on the Oregon Trail",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,805 @@
+{
+  "uid": "medhop__MH_dev_130",
+  "sample_id": "MH_dev_130",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00086\", \"DB00391\", \"DB00588\", \"DB00620\", \"DB00741\", \"DB01030\", \"DB01151\", \"DB01418\", and \"DB06616\" interacts with DB00065?",
+  "gold_answer": "DB01418",
+  "context": [
+    "Requirement of methotrexate in combination with anti-tumor necrosis factor-alpha therapy for adequate suppression of osteoclastogenesis in rheumatoid arthritis . OBJECTIVE : To determine that concomitant use of methotrexate ( MTX ) is required to achieve adequate suppression of bone destruction in treating rheumatoid arthritis ( RA ) with tumor necrosis factor-alpha ( P01375 ) -inhibiting biologic therapy . We quantitatively compared the suppressive effects of treatment with a combination of infliximab and MTX and treatment with each of these 2 agents alone on bone destruction in SCID-HuRAg-pit mice . METHODS : Tissue derived from human RA pannus was implanted with a slice of dentin subcutaneously in the backs of SCID mice ( SCID-HuRAg-pit model ) . DB00065 was administered daily to SCID-HuRAg-pit mice using an osmotic pump for 2 weeks with or without oral administration of MTX . Histological changes in tissue and the pits formed on the dentin slice were examined 8 weeks after transplant . Serum concentrations of P01375 and interleukin 6 ( P05231 ) were also measured . RESULTS : Treatment with a combination of infliximab and MTX suppressed pit formation significantly , while treatment with neither infliximab alone nor MTX alone had a significant effect on pit formation . Synovial inflammation and serum P01375 and P05231 levels were suppressed by infliximab with or without MTX . CONCLUSION : This is the first evidence in an animal model of arthritis that concomitant use of MTX is required to achieve adequate suppression of bone destruction when treating RA with a P01375 -inhibiting biologic . Our findings suggest that infliximab suppresses bone destruction through a mechanism of action different from that mediating its antiinflammatory effects in the treatment of RA .",
+    "Effect of DB00065 on the UVB-Induced Apoptosis of Keratinocytes Infected by HPV38 E6/E7 . The question of the effect of anti- P01375 in skin carcinogenesis is especially relevant in view of the increased use of these drugs for the treatment of autoinflammatory immune diseases . Since ultraviolet radiation and human papillomavirus are involved in skin carcinogenesis , we wished to investigate the effect of P01375 antagonists on the UVB-induced apoptosis of keratinocytes infected by HPV38 . Our results indicate that anti- P01375 agent , infliximab , does not contribute to the survival of HPV38-transduced keratinocytes with UVB-induced DNA damages .",
+    "P01375 alpha blockade reduces the synovial cell infiltrate early after initiation of treatment , but apparently not by induction of apoptosis in synovial tissue . OBJECTIVE : To determine whether treatment with the chimeric anti-tumor necrosis factor alpha antibody infliximab could reduce cellularity by the induction of apoptosis in synovial tissue . METHODS : Twenty-four rheumatoid arthritis patients with active disease were randomized to receive either infliximab ( 3 mg/kg ) ( n = 12 ) or placebo ( n = 12 ) intravenously . All patients were subjected to arthroscopic synovial biopsy directly before initiation of treatment . A second arthroscopic synovial biopsy of the same index joint was performed 48 hours after the first arthroscopy . After the second arthroscopy , the patients who had initially received placebo were also treated with infliximab in an extension study . A third arthroscopy was performed in all patients on day 28 . Immunohistologic analysis was performed to characterize the cell infiltrate . In situ detection of apoptotic cells was performed by TUNEL assay and electron microscopy . RESULTS : At 48 hours after initiation of infliximab treatment , there was a significant reduction in the number of intimal macrophages ; this was not observed in the placebo group . The number of sublining macrophages , T cells , and plasma cells also tended to be decreased in infliximab-treated patients , but not in the placebo group . Of interest , we did not detect any increase in the number of apoptotic cells after infliximab treatment . CONCLUSION : DB00065 therapy may reduce the number of inflammatory cells in rheumatoid synovial tissue as soon as 48 hours after initiation of treatment , but apparently not by induction of apoptosis . Conceivably , decreased cell infiltration primarily results from early inhibition of cell migration .",
+    "DB00741 is a suppressor of apoptosis in bovine corpus luteum . Glucocorticoid ( GC ) acts as a modulator of physiological functions in several organs . In the present study , we examined whether GC suppresses luteolysis in bovine corpus luteum ( CL ) . DB00741 ( an active GC ) reduced the mRNA expression of caspase 8 ( Q14790 ) and caspase 3 ( P42574 ) and reduced the enzymatic activity of P42574 and cell death induced by tumor necrosis factor ( P01375 ) and interferon gamma ( P01579 ) in cultured bovine luteal cells . mRNAs and proteins of GC receptor ( P04150 ) , 11beta-hydroxysteroid dehydrogenase type 1 ( P28845 ) , and P80365 were expressed in CL throughout the estrous cycle . Moreover , the protein expression and the enzymatic activity of P28845 were high at the early and the midluteal stages compared to the regressed luteal stage . These results suggest that cortisol suppresses P01375 - P01579 -induced apoptosis in vitro by reducing apoptosis signals via Q14790 and P42574 in bovine CL and that the local increase in cortisol production resulting from increased P28845 at the early and midluteal stages helps to maintain CL function by suppressing apoptosis of luteal cells .",
+    "Chronic P01375 -α neutralization does not improve insulin resistance or endothelial function in \" healthy \" men with metabolic syndrome . The possible contribution of tumor necrosis factor-α ( P01375 -α ) to the development of obesity-associated insulin resistance in humans is still controversial . Our study investigated the effect of P01375 -α neutralization on insulin resistance in healthy , obese and insulin resistant men . We performed a prospective , randomized , double-blind placebo-controlled trial in nine young , healthy obese male subjects with metabolic syndrome and insulin resistance . Volunteers received three infusions ( wks 0 , 2 and 6 ) of infliximab or placebo . P01308 resistance was measured at baseline and after 70 d by homeostatic model assessment ( HOMA ) index as well as by minimal model analysis of an intravenous glucose tolerance test . Endothelial function was accessed before and after intervention by flow mediated dilation . DB00065 improved the inflammatory status as indicated by reduced high sensitivity P02741 ( hsCRP ) and fibrinogen levels ( 2.77 ± 0.6 to 1.8 ± 0.5 μg/L , and 3.42 ± 0.18 to 3.18 ± 0.28 g/L ; ( day 0 and day 70 , P = 0.020 and 0.037 respectively ) , but did not improve insulin resistance ( HOMA index and intravenous glucose-tolerance test [ ivGGT ] ) or endothelial function . Despite improvements in inflammatory status , chronic P01375 -α neutralization does not improve insulin resistance or endothelial function in seemingly healthy , but obese , insulin-resistant volunteers . This study severely questions the proposal that P01375 -α is a causative link between adiposity and insulin resistance .",
+    "[ Anti- P01375 treatment and spondyloarthropathies ] . Spondyloarthropathies are characterized by both axial and peripheral joint involvement , by the association with \" other diseases \" mainly Psoriasis , Crohn 's and Anterior Uveitis and by the high prevalence of HLA B-27 . While disease modifying drugs , such as DB00563 or Sulfasalazine , are only partially effective in controlling peripheral arthritis , the treatment of the axial part remained only symptomatic . The recently introduced anti- P01375 drugs DB00065 ( Remicade ) and DB00005 ( Enbrel ) for the treatment of Crohn 's disease and Rheumatoid Arthritis has been expended to Spondyloarthropathies with highly promising results . The rationale and the early beneficial results of this new approach in spondyloarthropathies are reviewed .",
+    "Mediator subunit Gal11p/ Q96RN5 is required for fatty acid-dependent gene activation by yeast transcription factor Oaf1p . The yeast zinc cluster transcription factor Oaf1p activates transcription of target genes in response to direct binding of fatty acids in a manner analogous to the vertebrate nuclear receptor peroxisome proliferator-activated receptoralpha ( PPARalpha ) . PPARs and other metazoan nuclear receptors productively engage several distinct LXXLL motif-containing co-activators , including P52701 family members and the Q15648 /MED1 subunit of the Mediator co-activator , to promote ligand-dependent gene activation . Yeast , however , does not appear to harbor LXXLL motif co-activators , and the mechanism of fatty acid-dependent gene activation by the yeast PPARalpha analog Oaf1p is unknown . Here we show that the yeast Mediator subunit Gal11p/ Q96RN5 and its activator-targeted KIX domain plays a critical role in fatty acid-dependent transcriptional regulation of fatty acid beta-oxidation and peroxisomal genes by Oaf1p and for the ability of yeast to utilize fatty acids as a sole carbon source . Moreover , structural studies by NMR spectroscopy reveal that the Oaf1p activation domain interacts with the Gal11p/ Q96RN5 KIX domain in a manner similar to the yeast zinc cluster family member and xenobiotic receptor Pdr1p , revealing that the Gal11p/ Q96RN5 KIX domain is a key target of several ligand-dependent transcription factors in yeast . Together with previous work showing that the Caenorhabditis elegans Gal11p/ Q96RN5 homolog MDT-15 plays a critical role in regulation of fatty acid metabolism by the nematode Q07869 -like nuclear receptor NHR-49 , the findings presented here provide evidence for an ancient and essential role of a Mediator co-activator subunit in regulation of fatty acid metabolism by nuclear receptor-like transcription factors in eukaryotes .",
+    "DB00588 -induced regulation of the balance within macrophage subpopulations . In asthma , treatment with inhaled corticosteroids reduces chronic peribronchial inflammation and restores the balance within macrophage subpopulations . This study investigates whether corticosteroids can regulate monocyte differentiation in vitro and thereby influence the balance of functionally distinct macrophages . Graded doses of fluticasone propionate ( FP ) were added to cultures of normal peripheral blood monocytes in the presence or absence of P05112 . Cells were harvested after 7 days ' culture . Double immunofluorescence studies were performed on cytospins of differentiated macrophages using the MoAbs RFD1 and RFD7 to distinguish inductive and suppressive macrophages by their respective phenotypes . Macrophage function was determined by quantifying allostimulation in a mixed leucocyte reaction and by measuring tumour necrosis factor-alpha ( P01375 ) production . FP reduced the number of mature cells with a D1+ antigen-presenting phenotype and up-regulated the development of cells with the D1/D7+ and D7+ phenotypes . Functionally , this was associated with reduced stimulation of T cell proliferation in a mixed leucocyte reaction ( P08235 ) . DB00588 also reversed the increase in both D1+ expression and P01375 production induced by P05112 . The effect of FP persisted for 24 h after removal of FP from the culture medium . These results suggest that FP treatment of asthmatics may have a direct beneficial effect by normalizing the macrophage subset imbalance that contributes to the chronic peribronchial inflammation present in this condition .",
+    "DB00065 induces apoptosis of monocytes and T lymphocytes in a human-mouse chimeric model . P01375 ( P01375 ) antagonism with monoclonal antibodies is an effective therapy for severe Crohn 's disease and rheumatoid arthritis . Recent studies have suggested that induction of apoptosis of inflammatory cells contributes to this therapeutic effect . We investigated whether infliximab ( a mouse-human IgG1 chimeric anti- P01375 monoclonal antibody ) could induce apoptosis in vivo in human-mouse chimeras , created by reconstitution of severe combined immunodeficiency/beige mice with THP-1 ( human monocytic cell line ) or Jurkat cells ( human T cell line ) . DB00065 treatment of chimeric mice depleted spleen and peritoneum from THP-1 cells and Jurkat cells and decreased production of the human cytokines P22301 and IL-12 in vivo . Cell death was shown to occur already within 1 h of treatment . DB00065 effects were independent of FcgammaR binding or complement activation . Cell death resulted from apoptosis induction in a caspase-dependent pathway , as evidenced by the in vitro protective effect of the pan-caspase inhibitor N-benzyloxycarbonyl- DB00161 -Ala- DB00128 -fluoromethyketone ( Z-VAD-FMK ) . These data provide support for caspase-dependent apoptosis induction being the mechanism of action of infliximab in vivo .",
+    "A decade of infliximab : The Austrian evidence based consensus on the safe use of infliximab in inflammatory bowel disease . DB00065 ( IFX ) has tremendously enriched the therapy of inflammatory bowel diseases ( Q9UKU7 ) and other immune mediated diseases . Although the efficacy of IFX was undoubtedly proven during the last decade numerous publications have also caused various safety concerns . To summarize the immense information concerning adverse events and safety issues the Austrian Society of Gastroenterology and Hepatology launched this evidence based consensus on the safe use of IFX which covers the following topics : infusion reactions and immunogenicity , skin reactions , opportunistic infections ( including tuberculosis ) , non-opportunistic infections ( bacterial and viral ) , vaccination , neurological complications , hepatotoxicity , congestive heart failure , haematological side effects , intestinal strictures , stenosis and bowel obstruction ( SSO ) , concomitant medication , malignancy and lymphoma , IFX in the elderly and the young , mortality , fertility , pregnancy and breast feeding . To make the vast amount of information practicable for routine application the consensus was finally condensed into a checklist for a safe use of IFX which consists of two parts : issues to be addressed prior to anti- P01375 therapy and issues to be addressed during maintenance . Both parts are further divided into obligatory and facultative items .",
+    "Pharmacogenetics of antipsychotic-induced weight gain : review and clinical implications . Second-generation antipsychotics ( SGAs ) , such as risperidone , clozapine and olanzapine , are the most common drug treatments for schizophrenia . SGAs presented an advantage over first-generation antipsychotics ( FGAs ) , particularly regarding avoidance of extrapyramidal symptoms . However , most SGAs , and to a lesser degree FGAs , are linked to substantial weight gain . This substantial weight gain is a leading factor in patient non-compliance and poses significant risk of diabetes , lipid abnormalities ( that is , metabolic syndrome ) and cardiovascular events including sudden death . The purpose of this article is to review the advances made in the field of pharmacogenetics of antipsychotic-induced weight gain ( AIWG ) . We included all published association studies in AIWG from December 2006 to date using the Medline and ISI web of knowledge databases . There has been considerable progress reaffirming previous findings and discovery of novel genetic factors . The P28335 and leptin genes are among the most promising , and new evidence suggests that the P14416 , P01375 , P60880 and P32245 genes are also prominent risk factors . Further promising findings have been reported in novel susceptibility genes , such as P21554 , P08183 , ADRA1A and Q9Y5U4 . More research is required before genetically informed , personalized medicine can be applied to antipsychotic treatment ; nevertheless , inroads have been made towards assessing genetic liability and plausible clinical application .",
+    "Prevalence and management of panic attacks during infliximab infusion in psoriatic patients . BACKGROUND : Psoriasis is a chronic , inflammatory skin disease associated with anxiety and depression . DB00065 ( IFX ) is a human/mouse chimeric anti- P01375 -α antibody effective in the treatment of psoriasis . OBJECTIVE : The aim of this study was to evaluate the prevalence of panic disorders in psoriatic patients during IFX infusions . METHODS : A retrospective study was performed on patients affected with psoriasis who were treated with IFX from 2002 to 2011 at a single center . Panic disorders were defined using the clinical criteria of the Diagnostic and Statistical Manual of Mental Disorders , 4th edition . A population of dermatological patients under treatment with IVG , rituximab , apheresis , intravenous corticosteroids and antibiotics was considered as the control group . RESULTS : A total of 141 patients were evaluated . Of these , 6 ( 4.25 % ) experienced panic attacks during the infusion ; 16 ( 11.3 % ) had a medical history of panic attack and of those 5/16 ( 31 % ) experienced panic attacks during IFX infusion . In the control group panic attacks were not recorded . CONCLUSION : We describe 6 cases of patients in whom panic attacks were triggered by IFX infusion . Premedication with oral benzodiazepine and a slow rate of infusion is recommended .",
+    "Bayesian analysis and the GUSTO trial . Global Utilization of DB00086 and Tissue P00747 Activator in Occluded Arteries .",
+    "DB00065 modifies mesenteric adipose tissue alterations and intestinal inflammation in rats with TNBS-induced colitis . OBJECTIVE : DB00065 is a monoclonal anti- P01375 -α antibody that is used therapeutically to treat Crohn 's disease ( CD ) . High levels of pro-inflammatory cytokines , especially P01375 -α , have been observed in the gastrointestinal tract of CD patients and were associated with alterations in the mesenteric adipose tissue , which also contributed to the high levels of adipokine release . The authors used a rat model of colitis that produces mesenteric adipose tissue alterations that are associated with intestinal inflammation to study the effects that infliximab treatment has on adipokine production , morphological alterations in adipose tissue and intestinal inflammation . MATERIAL AND METHODS : The ability of infliximab to neutralize rat P01375 -α was evaluated in vitro using U937 cells . Colitis was induced by repeated intracolonic trinitrobenzene sulfonic acid instillations and was evaluated by macroscopic score , histopathological analysis , myeloperoxidase activity , P01375 -α and P22301 expression as well as P35228 ( inducible NO synthase ) expression and JNK phosphorylation in colon samples . The alterations in adipose tissue were assessed by P01375 -α , P22301 , leptin , adiponectin and resistin levels as well as adipocyte size and peroxisome proliferator-activated receptor ( Q07869 ) -γ expression . RESULTS : DB00065 treatment controlled intestinal inflammation , which reduced lesions and neutrophil infiltration . Inflammatory markers , such as P35228 expression and JNK phosphorylation , were also reduced . In mesenteric adipose tissue , infliximab increased the production of P22301 and resistin , which was associated with the restoration of adipocyte morphology and Q07869 -γ expression . CONCLUSIONS : Our results suggest that infliximab could contribute to the control of intestinal inflammation by modifying adipokine production by mesenteric adipose tissue .",
+    "DB00065 , a P01375 -α inhibitor , reduces 24-h ambulatory blood pressure in rheumatoid arthritis patients . Tumour necrosis factor-alpha ( P01375 -α ) is an important mediator in the pathogenesis of rheumatoid arthritis ( RA ) and hypertension . P01375 -α inhibitors improve clinical symptoms and inhibit joint destruction in RA , but their effect on blood pressure ( BP ) has not been fully investigated . We measured 24-h BP using an ambulatory BP monitor in 16 RA patients treated with a P01375 -α inhibitor , infliximab , to investigate its influence on BP and its association with the regulatory factors of BP and renin-angiotensin-aldosterone and sympathetic nervous systems . DB00065 significantly reduced the 24-h systolic BP ( SBP ) from 127.4±21.8 to 120.1±23.4 mm Hg ( P < 0.0001 ) . Particularly , morning BP ( 0600-0800 h ) decreased from 129.7±19.7 to 116.9±13.4 mm Hg ( P < 0.0001 ) , and daytime BP decreased from 131.8±15.1 to 122.5±13.7 mm Hg ( P < 0.0001 ) . DB00065 significantly reduced the plasma level of norepinephrine and plasma renin activity ( P06703 ) ( from 347.5±180.7 to 283.0±181.8 pg ml(-1) and 2.6±2.7 to 2.1±2.9 ng ml(-1) h(-1) , respectively ) but did not significantly reduce the plasma levels of dopamine and epinephrine . The reduction in morning SBP correlated with the reduction in the norepinephrine level ( P < 0.05 ) but not with that in P06703 and inflammatory parameters related to RA . This study shows the effect of infliximab on ambulatory BP , especially daytime BP , which may be partly accounted for by the reduction of sympathetic nerve activity after infliximab treatment .",
+    "P01375 alpha inhibitors as immunomodulatory antirejection agents after intestinal transplantation . We reported the successful administration of infliximab for late-onset OKT3-resistant rejection in two patients , who presented persistent ulcerative inflammation of the ileal graft after intestinal transplantation ( ITX ) . Based on this experience , the present study demonstrated our long-term experience with infliximab for different types of rejection-related and inflammatory allograft alterations . DB00065 administration ( 5 mg/kg body weight ( BW ) ) was initiated at a mean of 18.2 ± 14.1 months after transplantation . The number of administrations per patient averaged 8.4 ± 6.7 . Repeat dosing was timed according to clinical signs and graft histology in addition to serum-levels of tumor necrosis factor alpha ( TNFα ) , lipopolysaccharide binding protein ( P18428 ) and P02741 ( CRP ) . DB00065 was successful in the following patients : patients with late-onset OKT3- and steroid-refractory rejection who presented persistent ulcerative alterations of the ileal graft ( n = 5 ) , patients with ulcerative ileitis/anastomositis , who did not show typical histological rejection signs ( n = 2 ) , and one patient with early-onset OKT3-resistant rejection . DB00065 was not successful in one patient with early-onset OKT3-resistant rejection that was accompanied by treatment-refractory humoral rejection . In conclusion , infliximab can expand therapeutic options for late-onset OKT3- and steroid-refractory rejection and chronic inflammatory graft alterations in intestinal allograft recipients .",
+    "Small molecular anti-cytokine agents . The recent successful introduction of the anti-cytokine biologicals DB00005 , DB00065 , DB00051 , and DB00026 has stimulated the search for anti-cytokine small-molecules . A number of molecular targets have been identified for the development of such small molecular anti-cytokine agents . The focus of this review will be on those inhibitors of cytokine production , which target either p38 mitogen activated protein ( Q96HU1 ) kinase , P01375 converting enzyme ( P78536 ) , or IL-1beta converting enzyme ( ICE ) . O75791 Q96HU1 kinase occupies a central role in the signaling network responsible for the upregulation of proinflammatory cytokines like interleukin 1beta ( IL-1beta ) and P01375 , and regulates their biosynthesis at both the transcriptional and translational level . P78536 and ICE are two proteases required for the processing of proTNF-alpha and proIL-1beta , respectively into their mature , proinflammatory form . Since the mid-1990s , a plethora of inhibitors of p38 Q96HU1 kinase , P78536 , and ICE has been characterized in vitro , and individual representatives from all three inhibitor classes have in the meantime been advanced into clinical trials . This review will highlight the correlation between effective inhibition at the molecular target and cellular activity in functional assays of cytokine , particularly P01375 and IL-1beta , production . Structure-activity relationships ( SAR ) will be discussed regarding activity at the respective enzyme target , but also with regard to properties required for efficient in vitro and in vivo cellular activity ( e.g. , oral availability , solubility , cell penetration , etc. ) .",
+    "Conditional ablation of mediator subunit MED1 ( MED1/ Q15648 ) gene in mouse liver attenuates glucocorticoid receptor agonist dexamethasone-induced hepatic steatosis . P04150 ( GR ) agonist dexamethasone ( DB00514 ) induces hepatic steatosis and enhances constitutive androstane receptor ( CAR ) expression in the liver . CAR is known to worsen hepatic injury in nonalcoholic hepatic steatosis . Because transcription coactivator MED1/ Q15648 gene is required for GR- and CAR-mediated transcriptional activation , we hypothesized that disruption of MED1/ Q15648 gene in liver cells would result in the attenuation of DB00514 -induced hepatic steatosis . Here we show that liver-specific disruption of MED1 gene ( MED1 ( delta Liv ) ) improves DB00514 -induced steatotic phenotype in the liver . In wild-type mice DB00514 induced severe hepatic steatosis and caused reduction in medium- and short-chain acyl- DB01992 dehydrogenases that are responsible for mitochondrial beta-oxidation . In contrast , DB00514 did not induce hepatic steatosis in mice conditionally null for hepatic MED1 , as it failed to inhibit fatty acid oxidation enzymes in the liver . MED1 ( delta Liv ) livers had lower levels of GR-regulated CAR mRNA compared to wild-type mouse livers . Microarray gene expression profiling showed that absence of MED1 affects the expression of the GR-regulated genes responsible for energy metabolism in the liver . These results establish that absence of MED1 in the liver diminishes DB00514 -induced hepatic steatosis by altering the GR- and CAR-dependent gene functions .",
+    "[ Production of cytokines by peripheral blood mononuclear cells -- correlation with clinicomorphological features in laryngeal carcinoma ] . INTRODUCTION : In studied analyzed role of the cytokines in pathology of neoplasms of various origin the importance of these proteins in regulation of immunocompetent cells function has been described . The aim of this study was to estimate of cho sen cytokines concentration produced by peripheral blood mononuclear cells and in whole blood in patients with laryngeal carcinoma and to analyze the connection of cytokines profile with clinicopathological features . MATERIALA AND METHODS : 55 patients with squamous cell carcinoma of the larynx treated at ENT Department Medical University of Lodz between 2003-2007 were analyzed . For estimation of cytokine secretion the cultures of isolated peripheral blood mononuclear cells ( T lymphocytes ) and the whole blood were established . Production of cytokines in supernatants was detected by Elisa . Connections with clinicomorphological features ( pT , pN , Anneroth , Batsakis i Lunas ' classification ) were analyzed . RESULTS : Authors reported statistical correlation between chosen cytokines concentration and clinicomorphological parameters : pT and P60568 , P05231 , P10145 , TNFalpha produced by isolated cells and P60568 , P05231 , TNFa and IFNgamma in whole blood , pN and P10145 , P22301 , IFNgamma ; P00519 score and P05231 , TNFalpha , IFNgamma produced by isolated cells and P60568 , P05231 , P22301 , TNFalpha , IFNgamma in whole blood . CONCLUSION : Our studied indicated the important influence of proinflammatory and regulatory cytokines produced by immunocompetent cells for course of neoplasm disease , aggressiveness and advance in laryngeal carcinoma .",
+    "DB00065 use in patients with severe graft-versus-host disease and other emerging risk factors of non-Candida invasive fungal infections in allogeneic hematopoietic stem cell transplant recipients : a cohort study . Acute graft-versus-host disease ( GVHD ) is a common complication of allogeneic hematopoietic stem cell transplantation ( HSCT ) . It has been proposed that tumor necrosis factor alpha ( P01375 ) blockade with infliximab may be an effective treatment for severe ( grades III-IV ) GVHD . We determined if infliximab use in this high-risk population was associated with an additional increased risk of non-Candida invasive fungal infections ( IFIs ) . Records of the 2000-2001 HSCT cohort at our institution were reviewed . Fifty-three ( 20 % ) of 264 evaluable patients developed severe GVHD and 11 of these 53 ( 21 % ) received infliximab for treatment . Proven or probable IFI was documented in 10 ( 19 % ) of 53 patients with severe GVHD ( incidence rate of 0.99 cases/1000 GVHD patient-days ) . When stratified by infliximab use , 5 of 11 infliximab recipients developed an IFI ( 6.78 cases/1000 GVHD patient-days ) , compared with 5 of 42 IFI cases among nonrecipients ( 0.53 cases/1000 GVHD patient-days ) . In a time-dependent Cox regression model among patients with severe GVHD , the adjusted IFI hazard ratio of infliximab exposure was 13.6 ( P =.004 ; 95 % CI , 2.29-80.2 ) . We conclude that infliximab administration is associated with a significantly increased risk of non-Candida IFI in HSCT recipients with severe GVHD disease . Pre-emptive systemic antifungal therapy against molds should be considered in patients who develop severe GVHD after HSCT if infliximab is used .",
+    "Intra-articular therapy with tumor necrosis factor-α antagonists : an update . The aim of the study was to review from the present literature the intra-articular ( IA ) use of the P01375 -blocking drugs . A total of 28 papers about this topic were found through a search in PubMed ; the first publication 's date was July 2003 . These studies include a total of 214 patients affected by 12 different joint diseases that reported a total of 1046 intra-articular therapies carried out in 10 different joint sites . DB00065 and etanercept were the most widely used medications . The safety of this treatment clearly emerges from our analysis , while more difficult was the evaluation of its efficacy . Nevertheless we deduced an ideal patient profile that may better respond to the IA anti- P01375 treatment .",
+    "Bilateral Vocal Cord Carcinoma in a Sarcoidosis Patient during DB00065 Therapy . Introduction. Although the role of P01375 - α in tumor development is not fully understood , an increased risk of malignancy with P01375 - α -inhibitors , such as infliximab , has been suggested . Case Presentation . We present a 54-year-old nonsmoking female sarcoidosis patient . After seven months of infliximab therapy a T1aN0M0 larynx carcinoma of the right vocal cord was found and excised . Within a year , whilst still on treatment , a second larynx carcinoma of the opposite vocal cord appeared . Discussion . A bilateral vocal cord tumor is rare , especially in a never smoker . Evidence on the role of infliximab in carcinogenesis is inconclusive . To date , there are no follow-up studies evaluating malignancy risk of infliximab therapy in sarcoidosis patients . No studies in other diseases focus on laryngeal carcinomas during infliximab use . We argue that infliximab treatment might have attributed to the rapid progression of vocal cord carcinomas in this patient with an a priori low risk tumor profile . This case illustrates that caution remains warranted in patients with previous malignancies when considering initiation of P01375 - α -inhibitors .",
+    "Molecular and biologic characterization of a newly established Philadelphia-positive acute lymphoblastic leukemia cell line ( Z-33 ) with an autocrine response to GM- P04141 . We have recently established a new Philadelphia chromosome ( Ph1 ) -positive acute lymphoblastic leukemia ( ALL ) cell line , designated Z-33 . This line has Q401N2 morphology , ultrastructural characteristics of lymphoblasts and typical B lineage surface markers identical to those observed in the Ph1-positive ALL patient from whom the line was derived . In addition , a rearranged immunoglobulin heavy-chain gene ( JH ) band was found in Z-33 cells by Southern blot analysis , confirming B cell clonality . Cytogenetic analysis of the cell line revealed t(9;22)(q34;q11.2) . Polymerase chain reaction ( PCR ) -amplified cDNA from Z-33 cells demonstrated an e1-az P11274 - P00519 junction , and the p190BCR- P00519 protein was detected in them by the immune complex kinase assay . Z-33 cells produce interleukin ( IL ) -1 beta , P05231 , granulocyte colony-stimulating factor ( DB00099 ) , granulocyte-macrophage P04141 ( GM- P04141 ) , tumor necrosis factor ( P01375 ) -alpha , and transforming growth factor ( TGF ) -beta , Neither P01584 , DB00099 , P01375 , nor their corresponding antibodies affected the cell line 's growth . In contrast , anti-GM- P04141 neutralizing antibodies suppressed Z-33 colony formation , and GM- P04141 stimulated it in a dose-dependent fashion . In addition , receptor studies with biotinylated GM- P04141 demonstrated specific binding to Z-33 cells , indicating that the cells express GM- P04141 receptors . Taken together , our data suggest that the Ph1-positive Z-33 ALL cells produce GM- P04141 , express GM- P04141 receptors , and show an autocrine proliferative response to this cytokine .",
+    "DB00065 for refractory sarcoidosis . BACKGROUND AND AIM OF WORK : P01375 -alpha ( P01375 ) appears to be an important cytokine in the inflammation of sarcoidosis . DB00065 is a chimeric monoclonal antibody which specifically inhibits P01375 . We investigated the efficacy of infliximab for the therapy of chronic , resistant sarcoidosis . METHODS : Patients with persistent symptomatic sarcoidosis despite corticosteroids and immunosuppressive agents were selected for treatment with infliximab . Patients were treated initially and at 2 , 4 , and 12 weeks with 5 mg/kg of infliximab at each treatment . Index lesions , which had progressed despite corticosteroid therapy , were reevaluated at 16 weeks . RESULTS : Three patients were treated . In two patients , the index lesion was lupus pernio , which significantly improved with infliximab . The third patient had restrictive lung disease . At week 16 , there was a 26 % improvement in the vital capacity from pretreatment values . All patients tolerated the treatments well . CONCLUSIONS : DB00065 was associated with significant improvement in chronic sarcoidosis .",
+    "Increase in proinflammatory cytokines in peripheral blood without haemostatic changes after LPS inhalation . INTRODUCTION : Bronchoalveolar fibrin deposition is a characteristic of various lung disorders including acute lung injury , acute respiratory distress syndrome and sepsis . It is secondary to the activation of coagulation and inhibition of fibrinolysis in the alveolar space , and can be stimulated by lipopolysaccharide ( LPS ) inhalation . The aim of this study was to determine the relation between compartmental stress in the lung and systemic response after LPS inhalation by measuring haemostatic parameters . PATIENTS AND METHODS : 12 healthy subjects underwent a bronchial challenge test with LPS ; sequential dosages were performed for 5 biological markers ( P05231 ( P05231 ) , C-Reactive Protein ( CRP ) , P00734 Fragments 1 and 2 ( F 1+2 ) , cortisol and P00747 Activator Inhibitor 1 ( P05121 ) before endotoxin inhalation and 2 , 4 , 6 , 8 and 24 hours afterwards . RESULTS : P05231 and CRP levels in the peripheral blood were higher after LPS inhalation ; there was no activation of coagulation and no increase in P05121 level . CONCLUSION : This study confirms that despite systemic release of proinflammatory cytokines , LPS inhalation does not induce systemic haemostatic response to LPS challenge .",
+    "Upregulation of cell-surface-associated plasminogen activation in cultured keratinocytes by interleukin-1 beta and tumor necrosis factor-alpha . Keratinocytes synthesize and secrete urokinase-type plasminogen activator ( uPA ) which is bound in an autocrine manner to a specific receptor ( uPA-R ) at the keratinocyte surface . P00747 that is also bound to specific membrane binding sites is readily activated by uPA-R-bound uPA . Thus , plasmin is provided for proteolysis of pericellular glycoproteins . The expression of uPA and the uPA-R is confined to migrating keratinocytes during epidermal wound healing , rather than to keratinocytes of the normal epidermis . The regulatory factors of uPA/uPA-R expression in keratinocytes remained largely elusive . Proinflammatory cytokines , such as tumor necrosis factor-alpha ( P01375 ) or interleukin-1 beta ( P01584 ) , are present in epidermal wounds . We have therefore tested P01584 and P01375 for their influence on surface-associated plasminogen activation in a human keratinocyte cell line ( HaCaT ) as well as in primary cultures of normal human epidermal keratinocytes . Both cytokines induced the secretion of uPA into the culture supernatants and a concomitant increase in uPA activity as well as in uPA and uPA-R antigen at the cell surface . The increase was preceded by an increase in specific mRNA . The induction was accompanied by an accelerated uPA-dependent and plasmin-mediated detachment of HaCaT cells from the culture substratum . Taken together , the proinflammatory cytokines P01584 and P01375 induced a coordinated increase in uPA and uPA-R as well as increased pericellular plasmin-mediated proteolysis in human epidermal keratinocytes . This function might be an element of the molecular cell biological events during epidermal wound healing .",
+    "[ DB00065 in aggressive and refractory rheumatoid arthritis. A pilot study ] . Rheumatoid arthritis is a chronic inflammatory disease with a progressive course , that frequently provokes permanent incapacity if not adequately treated . Rheumatoid arthritis may be not responsive to the common second line drugs . This study was aimed to treat 15 patients affected by severe refractory rheumatoid arthritis with infliximab . PATIENTS AND METHODS : Fifteen patients with refractory rheumatoid arthritis were treated with infliximab -- monoclonal antibody direct to P01375 alpha -- in association with methotrexate or azathioprine . DB00065 was administered at the dosage of 3 mg/Kg at the weeks 0 , 2 and 6 and then every 8 weeks . RESULTS : About half patients ameliorated in agreement with both P10323 20 criteria and DAS28 evaluation . The clinical improvement was accompanied by a reduction of the steroid daily dosage . No relevant side effects were observed . CONCLUSION : DB00065 is effective in a significant number of patients with severe rheumatoid arthritis , with a good tolerability .",
+    "Gene expression reprogramming protects macrophage from septic-induced cell death . Sepsis induces a systemic inflammatory response leading to tissue damage and cell death . LPS tolerance affects inflammatory response . To comprehend potential new mechanisms of immune regulation in endotoxemia , we examined macrophage mRNA expression by macroarray affected by LPS tolerance . LPS tolerance was induced with subcutaneous administration of 1 mg/kg/day of LPS over 5 days . Macrophages were isolated from the spleen and the expression of 1200 genes was quantitatively analyzed by the macroarray technique . The tolerant group displayed relevant changes in the expression of 84 mRNA when compared to naïve mice . A functional group of genes related to cell death regulation was identified . P09874 , caspase 3 , P48023 and P50591 genes were confirmed by RT-PCR to present lower expression in tolerant mice . In addition , reduced expression of the pro-inflammatory genes P01375 -α and IFN-γ in the tolerant group was demonstrated . Following this , animals were challenged with polymicrobial sepsis . Flow cytometry analysis showed reduced necrosis and apoptosis in macrophages from the tolerant group compared to the naïve group . Finally , a survival study showed a significant reduction in mortality in the tolerant group . Thus , in the current study we provide evidence for the selective reprogramming of the gene expression of cell death pathways during LPS tolerance and link these changes to protection from cell death and enhanced survival rates .",
+    "An antibody of P01375 did not prevent thioacetamide-induced hepatotoxicity in rats . P01375 ( P01375 ) -α antibodies have been shown to reduce liver damage in different models . We investigated the effects of infliximab ( a P01375 -α antibody ) on liver damage in thioacetamide ( TAA ) -induced hepatotoxicity in rats . Group 1 ( n = 8 ) was the control group . In group 2 ( n = 8 ) , the TAA group , the rats received 300 mg/kg intraperitoneal ( ip ) TAA daily for 2 days . In group 3 ( n = 8 ) , the TAA + DB00065 ( P27352 ) group , infliximab ( 5 mg/kg ip daily ) was administered 48 hours before the first dose of TAA daily for 2 days and was maintained for 4 consecutive days . In group 4 ( n = 8 ) , the P27352 group , the rats received only ip infliximab ( 5 mg/kg ) daily . Livers were excised for histopathological and biochemical tests ( thiobarbituric-acid-reactive substances [ TBARS ] , and myeloperoxidase [ P05164 ] ) . Serum ammonia , aspartate transaminase ( Q9NRA2 ) , alanine transaminase ( ALT ) , P01375 -α , liver TBARS and P05164 levels , and liver necrosis and inflammation scores in the TAA group were significantly higher than in the control and P27352 groups ( all p < 0.01 ) . All parameters except Q9NRA2 were not significantly different between TAA and TAA + P27352 . In conclusion , our results suggest that oxidative stress plays an important role in TAA-induced hepatotoxicity , and infliximab does not improve oxidative liver damage .",
+    "Optimizing anti-tumor necrosis factor strategies in inflammatory bowel disease . The introduction of infliximab , a mouse/human chimeric monoclonal antibody to tumor necrosis factor ( P01375 ) , is an important advance in the treatment of Crohn 's disease . DB00065 is effective for induction and maintenance of remission in patients with inflammatory luminal and fistulizing disease . The development of human antichimeric antibodies ( HACAs ) has led to infusion reactions and loss of efficacy in patients treated with infliximab . Strategies to reduce the frequency of HACA formation include induction of immunologic tolerance with a three-dose regimen at 0 , 2 , and 6 weeks followed by systematic maintenance dosing every 8 weeks ; concomitant immunosuppressive therapy with azathioprine , 6-mercaptopurine , or methotrexate ; and premedication with intravenous corticosteroids . Humanized or fully human anti- P01375 biotechnologic agents , including CDP571 , DB08904 , etanercept , adalimumab , and onercept , are theoretically less immunogenic than the chimeric antibody infliximab . DB00005 is not effective for Crohn 's disease . CDP571 is not effective in unselected patients with active Crohn 's disease , but it may be effective in patients with elevated P02741 . The efficacy of DB08904 , adalimumab , and onercept is under investigation . The different mechanisms of action of these anti- P01375 agents may account for their variable efficacy . Their benefits , however , must be considered in the context of their risks , including infusion reaction ; delayed hypersensitivity-like reaction ; new onset of autoimmunity , with rare cases of drug-induced lupus and new-onset demyelination ; and the potential for rare but serious infections .",
+    "The relationship of P04141 and plasma cytokine levels to cerebral white matter injury in the premature newborn . Ischemia and systemic infection are implicated in the etiology of periventricular white matter injury , a major cause of adverse motor and cognitive outcome in preterm infants . Cytokines are signaling proteins that can be produced as part of the inflammatory response to both ischemia and infection . The aim of this study was to relate cerebrospinal fluid ( P04141 ) concentrations of P05231 , P10145 , P22301 , tumor necrosis factor alpha ( P01375 ) , and interferon gamma ( P01579 ) to magnetic resonance-defined white matter injury in preterm infants . Relationships between P04141 and plasma cytokine concentrations were also examined . Preterm infants ( < or=32 wk ) and more mature infants from The Royal Women 's Hospital , Melbourne , Australia , and Christchurch Women 's Hospital , Christchurch , New Zealand , were eligible for study if they required a clinically indicated lumbar puncture . Plasma samples were obtained in a subgroup of Christchurch infants . Preterm infants underwent advanced quantitative volumetric magnetic resonance imaging using a 1.5-Tesla scanner at term equivalent . One hundred forty-six infants were enrolled and 190 P04141 and 42 plasma samples obtained . There was no significant correlation between paired P04141 and plasma concentrations for any cytokine . In comparing plasma and P04141 concentrations , levels of P10145 were significantly higher in P04141 than plasma . Preterm infants with Q9BWK5 -defined cerebral white matter injury had higher levels of P05231 , P22301 , and P01375 in the P04141 than infants without such injury . Plasma cytokine concentrations may not reflect P04141 cytokine levels or inflammatory events within the brain . Elevated P04141 levels of cytokines in infants with white matter injury suggest an altered inflammatory balance .",
+    "[ Pharmacologic therapy for inflammatory bowel diseases : hopes , disappointments ] . Because the etiology of inflammatory bowel diseases is unclear , no causative therapy is available . However , pathophysiology of the disease offers a lot of possibilities to disrupt the inflammatory cascade that maintains the inflammatory process . The aim of every therapy is to maintain remission as long as possible and to amend the natural course of the disease . Pharmacotherapy includes 5-Aminosalicylates , glucocorticoids , immunosupressants ( methotrexate , azathioprine ) as well as specific pharmacologic interventions like monoclonal antibodies directed against P01375 ( DB00065 ) . Important supportive tools are available to improve symptoms like diarrhea and pain . Dietetic treatment and surgical procedures represent important alternatives or supplement pharmacotherapeutic interventions .",
+    "DB00065 reduces the cytokine-mediated inflammation but does not suppress cellular infiltration of the vessel wall in refractory Kawasaki disease . The aim of our study was to evaluate the efficacy of infliximab for the treatment of patients with refractory Kawasaki disease ( KD ) and investigate the dynamic changes of cytokines during infliximab treatment . We have performed a study of cytokine and proinflammatory molecule levels in 43 KD patients including 18 responders to IVIG , 14 nonresponders , and 11 patients treated with infliximab . We determined serum levels of soluble P01375 receptor I ( sTNFR I ) and P05231 , as well as P15692 , damage associated molecular pattern ( DAMP ) molecules ; myeloid-related protein (MRP)8/ P06702 and P80511 sequentially . In eight patients , fever subsided immediately upon infliximab treatment . Four patients , who started infliximab after 12 d of illness , developed coronary artery lesions . Each of the cytokines was elevated before infliximab treatment in all patients . Although serum levels of proinflammatory cytokines decreased dramatically after infliximab treatment , DAMP molecules and P15692 and markers of local tissue damage were not suppressed . In contrast , in IVIG responders all cytokines decreased markedly after IVIG treatment . We show that infliximab is one of the adoptive therapies in refractory KD patients . Different behaviors of proinflammatory cytokines and DAMP molecules and P15692 after infliximab treatment suggest that infliximab is effective for suppression of cytokine-mediated inflammation , but could not completely block local vasculitis .",
+    "New therapeutic approaches to the management of rheumatoid arthritis . Rheumatoid arthritis ( RA ) is a common disease that affects up to 1 % of the population , and causes significant morbidity and early mortality . The aetiology of RA is unknown ; however , in the last 10 to 15 years significant advances in molecular technology have provided a greater understanding of the pathogenesis of the disease . This has led to the development of new approaches to the treatment of RA . The disease modifying antirheumatic oral agent leflunomide inhibits the proliferation of activated T cells that are important in the inflammation and degradation of synovial tissues . The 2 biological agents approved for the treatment of RA , infliximab and etanercept , are inhibitors of the pro-inflammatory cytokine , tumour necrosis factor-alpha ( TNFalpha ) . DB00065 is a chimeric human/mouse monoclonal antibody which is administered by intravenous infusion and binds with high affinity to TNFalpha , thereby neutralising its effects . DB00005 is a recombinant , soluble P01375 receptor molecule which is administered subcutaneously and binds to TNFalpha in the serum rendering it biologically inactive . The protein A immunoadsorption column is a medical device that in conjunction with plasmapheresis can be used in patients with refractory RA . These agents have provided new and effective therapies for the treatment of patients with RA .",
+    "Treatment of immune-mediated extraintestinal manifestations of inflammatory bowel disease with infliximab . The introduction of infliximab into clinical practice is one of the most significant advances in the care of patients who have Q9UKU7 . DB00065 has become an important part of the medical armamentarium to treat extraintestinal manifestations that often are refractory to other medications and are a significant cause of morbidity in these patients . Two other P01375 inhibitors recently have demonstrated efficacy in CD : certolizumab pegol and adalimumab . The Food and Drug Administration has approved adalimumab for use in RA . One predicts that these agents also may have activity in the extraintestinal manifestation for Q9UKU7 . To determine whether future biologics are effective in the EIM of Q9UKU7 , one may need to look no further than the vast clinical trial experience in primary chronic inflammatory diseases of the joints and skin : RA and psoriasis . For example , the Food and DRug Administration recently has approved an anti-B-cell therapy , rituximab , and a T-cell costimulation modulator , abatacept , for use in RA . It certainly will be of interest to determine whether these biologic agents demonstrate efficacy in the intestinal and EIM of Q9UKU7 .",
+    "Efficacy of infliximab in a patient with refractory idiopathic retroperitoneal fibrosis . Glucocorticoids are the mainstay of treatment of idiopathic retroperitoneal fibrosis ( Q969Q1 ) . However , relapses are frequent upon tapering of the glucocorticoid dose . A variety of traditional immunosuppressants have been proposed as steroid-sparing agents , but some patients fail to adequately respond to combined glucocorticoid and immunosuppressive therapy . We report a patient with Q969Q1 refractory to combined glucocorticoid and methotrexate therapy treated with the anti- P01375 -α monoclonal antibody infliximab . DB00065 was administered at 5 mg/kg/bodyweight at week 0 , 2 , 6 and 8-weekly thereafter for 3 consecutive years . Drug efficacy and safety were assessed clinically and by laboratory tests at treatment onset and subsequently before each infusion . In addition , 18FFluorodeoxyglucose ( DB09150 ) positron emission computerised tomography ( PET/CT ) and abdominal CT scans were used to monitor disease activity and response to treatment . DB00065 therapy resulted in a satisfactory clinical and laboratory response paralleled by an improvement in imaging findings . No serious adverse events were noted . DB00065 may be an effective and safe treatment for refractory Q969Q1 . A controlled study is required to confirm our findings .",
+    "DB00065 treatment of Familial Mediterranean fever and its effect on secondary AA amyloidosis . We describe a patient with a long history of familial Mediterranean fever who developed proteinuria as a result of secondary AA amyloidosis . In this patient , the inflammatory process , including recurrent attacks of arthritis , abdominal pain , nephrotic syndrome secondary to amyloidosis , and high sedimentation rate , was rapidly suppressed by treatment with infliximab and there was remarkable improvement of the proteinuria.Because P01375 is a proinflammatory cytokine that plays a major role in FMF and secondary amyloid , it is an appropriate target for therapy . Our case is the first case of reactive systemic amyloidosis secondary to familial Mediterranean fever , which responded favorably to infliximab .",
+    "8-OH-DPAT ( P08908 agonist ) Attenuates 6-Hydroxy- dopamine-induced catalepsy and Modulates Inflammatory Cytokines in Rats . OBJECTIVE(S) : Neuroinflammation in Parkinson disease ( PD ) is associated with glial cells activation and production of different inflammatory cytokines . In this study , we investigated the effect of chronic administration of 8-OH-DPAT on 6-OHDA-induced catalepsy and levels of inflammatory cytokines in cerebrospinal fluid ( P04141 ) . MATERIALS AND METHODS : Catalepsy was induced by unilateral infusion of 6-OHDA ( 8 μg/2 μl/rat ) into the central region of the sabstantia nigra pars compacta ( SNc ) being assessed by the bar-test , 5 , 60 , 120 and 180 min after intraperitoneal ( IP ) administration of 8-OH-DPAT ( P08908 receptor agonist ; 0.25 , 0.5 and 1mg/kg , IP for 10 days ) . P04141 samples were collected on the tenth day of 8-OH-DPAT administration and analyzed by ELISA method to measure levels of P01375 -α , IL-1β and P05231 . RESULTS : Chronic injection of 8-OH-DPAT decreased catalepsy in a dose dependent manner when compared with the control group . The most anti-cataleptic effect was observed at the dose of 1 mg/kg of 8-OH-DPAT . Levels of P01375 -α in P04141 increased three weeks after 6-OHDA injection while there was a significant decrease in P01375 -α level of parkinsonian animals treated with 8-OH-DPAT ( 1 mg/kg , IP for 10 days ) . IL-1β and P05231 decreased and increased in parkinsonian rats and in 8-OH-DPAT-treated parkinsonian rats , respectively . CONCLUSION : Our study indicated that chronic administration of 8-OH-DPAT improves catalepsy in 6-OHDA-induced animal model of PD and restores central concentration of inflammatory cytokines to the basal levels . P08908 receptor agonists can be suggested as potential adjuvant therapy in PD by modulation of cerebral inflammatory cytokines .",
+    "A case study of acenocoumarol sensitivity and genotype-phenotype discordancy explained by combinations of polymorphisms in Q9BQB6 and P11712 . To determine the cause of a genotype-phenotype discordancy for acenocoumarol sensitivity . Methods A patient , highly sensitive to acenocoumarol , and previously determined to carry only a single P11712 *3 allele , was genotyped for additional functionally defective alleles in the P11712 and Q9BQB6 genes . Family members were also analyzed to trace the pedigree . Results The acenocoumarol-sensitive patient was found to possess , in addition to P11712 *3 allele , a P11712 *11 allele and the Q9BQB6 AA diplotype which were all traced back through the parental lines . Conclusions DB01418 sensitivity in this subject is the consequence of inheritance of multiple functionally defective alleles in both the P11712 and Q9BQB6 genes . The study provides additional data in support of diminished P11712 activity due to the presence of the rare *11 allele .",
+    "Regulation of the human P38936 (waf1/cip1) gene promoter via multiple binding sites for p53 and the vitamin D3 receptor . The main regulator of the human tumor suppresser gene P38936 (waf1/cip1) is the transcription factor p53 , but more recently it has been suggested to be a primary anti-proliferative target for the nuclear receptor P11473 in the presence of its ligand 1alpha,25-dihydroxyvitamin D3 ( DB00136 ) . To identify P11473 responding regions , we analyzed 20 overlapping regions covering the first 7.1 kb of the P38936 (waf1/cip1) promoter in MCF-7 human breast cancer cells using chromatin immuno-precipitation assays ( ChIP ) with antibodies against p53 and P11473 . We confirmed two known p53 binding regions at approximate positions -1400 and -2300 and identified a novel site at position -4500 . In addition , we found three P11473 -associated promoter regions at positions -2300 , -4500 and -6900 , i.e. two regions showed binding for both p53 and P11473 . In silico screening and in vitro binding assays using recombinant and in vitro translated proteins identified five p53 binding sites within the three p53-positive promoter regions and also five DB00136 response elements within the three P11473 -positive regions . Reporter gene assays confirmed the expected responsiveness of the respective promoter regions to the p53 inducer 5-fluorouracil and DB00136 . Moreover , re-ChIP assays confirmed the functionality of the three DB00136 -reponsive promoter regions by monitoring simultaneous occupancy of P11473 with the co-activator proteins CBP , Q15788 and Q15648 . Taken together , we demonstrated that the human P38936 ( ( waf1/cip1 ) ) gene is a primary DB00136 -responding gene with at least three P11473 binding promoter regions , in two of which also p53 co-localizes .",
+    "Anti-tumor necrosis factor-alpha response in rheumatoid arthritis is associated with an increase in serum soluble P28908 . OBJECTIVE : Patients with rheumatoid arthritis ( RA ) display high serum concentrations of soluble P28908 ( sCD30 ) , which correlate with counter-regulatory activity of P28908 + T cells in the inflamed joint . To verify the contribution of this T cell subset to disease remission , sCD30 levels were analyzed longitudinally in patients with active RA following infliximab therapy . METHODS : DB00065 plus methotrexate were started in 39 patients with active RA , while 20 patients with inactive disease , controlled by stable doses of methotrexate , acted as controls . Serial evaluations of sCD30 concentrations and disease activity indexes were performed throughout 38 weeks . RESULTS : sCD30 levels were higher in patients than in healthy controls . Rapid infliximab-induced decrease in disease activity was associated with an overall increase of sCD30 levels . In contrast , levels remained stable in controls . An inverse correlation between sCD30 levels and Disease Activity Score 28 was observed from the 22nd week of infliximab treatment . Analysis of sCD30 levels according to American College of Rheumatology response showed , after an initial general enhancement of sCD30 concentrations , a persistent increase of sCD30 in responders , but not in nonresponders . CONCLUSION : sCD30 serum levels are enhanced by tumor necrosis factor-a ( P01375 ) blockade in patients with active RA and inversely correlated with disease activity , but only after some weeks of treatment . Of interest , a sustained increase of sCD30 is present only in subjects with evidence of persistent clinical response to anti- P01375 . As sCD30 serum levels mirror antiinflammatory activity of joint T cells , the present data may suggest a role of synovial counter-regulatory P28908 + T cells in the induction of infliximab-mediated remission in RA .",
+    "Poly( DB02059 )polymerase-1 signalling of the DNA damage induced by P11387 poison in D54(p53wt) and U251(p53mut) glioblastoma cell lines . Glioblastomas are widely characterised by the mutation of the p53 gene and p53 disruption sensitizes glioblastoma cells to P11387 ( TOPO I ) inhibitor-mediated apoptosis . We investigated the effects of combined treatments with the P11387 inhibitor DB01030 and the poly( DB02059 )polymerase-1 inhibitor DB02690 in D54(p53wt) and U251(p53mut) glioblastoma cell lines . Analysis of cell growth and cell cycle kinetics showed a synergistic anti-proliferative effect of 10 nM TPT and 10 microM DB02690 and a G2/M block of the cell cycle . We also evaluated , the influence of TPT+/- DB02690 treatment on P09874 and p53 activity . We got evidences of a TPT-dependent increase of P09874 auto-modification level in both the cells . Moreover , in the D54(p53wt) cells we found that in co-treatments DB02690 incremented the TPT-dependent stimulation of p53 transcriptional activity and increased the P38936 nuclear amount . Conversely , in U251(p53mut) cells we found that DB02690 incremented the TPT-dependent apoptosis characterised by P09874 proteolysis . Our findings suggest that the modulation of P09874 can be considered a strategy in the potentiation of the chemotherapeutic action of TOPO I poisons in glioblastoma cells apart from their p53 status .",
+    "Comparison of the novel antipsychotic ziprasidone with clozapine and olanzapine : inhibition of dorsal raphe cell firing and the role of P08908 receptor activation . Ziprasidone is a novel antipsychotic agent which binds with high affinity to P08908 receptors ( Ki = 3.4 nM ) , in addition to P28221 , 5-HT2 , and D2 sites . While it is an antagonist at these latter receptors , ziprasidone behaves as a P08908 agonist in vitro in adenylate cyclase measurements . The goal of the present study was to examine the P08908 properties of ziprasidone in vivo using as a marker of central P08908 activity the inhibition of firing of serotonin-containing neurons in the dorsal raphe nucleus . In anesthetized rats , ziprasidone dose-dependently slowed raphe unit activity ( ED50 = 300 micrograms/kg i.v. ) as did the atypical antipsychotics clozapine ( ED50 = 250 micrograms/kg i.v. ) and olanzapine ( ED50 = 1000 micrograms/kg i.v. ) . Pretreatment with the P08908 antagonist WAY-100,635 ( 10 micrograms/kg i.v. ) prevented the ziprasidone-induced inhibition ; the same dose of WAY-100,635 had little effect on the inhibition produced by clozapine and olanzapine . Because all three agents also bind to alpha 1 receptors , antagonists of which inhibit serotonin neuronal firing , this aspect of their pharmacology was assessed with desipramine ( DB01151 ) , a NE re-uptake blocker previously shown to reverse the effects of alpha 1 antagonists on raphe unit activity . DB01151 ( 5 mg/kg i.v. ) failed to reverse the inhibitory effect of ziprasidone but produced nearly complete reversal of that of clozapine and olanzapine . These profiles suggest a mechanism of action for each agent , P08908 agonism for ziprasidone and alpha 1 antagonism for clozapine and olanzapine . The P08908 agonist activity reported here clearly distinguishes ziprasidone from currently available antipsychotic agents and suggests that this property may play a significant role in its pharmacologic actions .",
+    "Biologic therapies in psoriasis : a new therapeutic approach . Chronic plaque psoriasis is an immune-mediated , inflammatory skin disease with a heavy burden on quality of life of patients . The disease has a chronic relapsing course and may be life long . Comorbid disorders include psoriatic arthritis , obesity , dyslipidemia , hypertension and an increased rate of cardiovascular disease . Conventional systemic treatments include methotrexate , cyclosporine and acitretin , which are associated with end organ toxicity that precludes long term therapy . Biological drugs are designed to selectively interfere with the immune mechanisms that induce psoriasis . DB00095 is effective for skin psoriasis but not psoriatic arthritis . Anti- P01375 agents ( etanercept , infliximab and adalimumab ) are active on both psoriasis and psoriatic arthritis . DB00065 is the most effective and rapid agent , but its safety profile may be less favourable . Moreover , efficacy can reduce over time . DB00005 is moderately active but has a better safety profile , and can be discontinued and re-used without loss of efficacy . The long term safety of all these agents has not been established .",
+    "Synergism between bosutinib ( DB06616 ) and the Chk1 inhibitor ( PF-00477736 ) in highly imatinib-resistant P11274 /ABL⁺ leukemia cells . Interactions between the dual P11274 / P00519 and Src inhibitor bosutinib and the Chk1 inhibitor PF-00477736 were examined in P11274 / P00519 (+) leukemia cells , particularly imatinib-resistant cells , including those with the T315I mutation . Bosutinib blocked PF-00477736-induced P27361 /2 activation and sharply increased apoptosis in association with Mcl-1 inhibition , p34(cdc2) dephosphorylation , BimEL up-regulation , and DNA damage in imatinib-resistant CML or Ph(+) ALL cell lines . Inhibition of Src or Q02750 by shRNA significantly enhanced PF-0047736 lethality . Bosutinib/PF-00477736 co-treatment also potentiated cell death in P28906 (+) CML patient samples , including dasatinib-resistant blast crisis cells exhibiting both T315I and E355G mutations , but was minimally toxic to normal P28906 (+) cells . Finally , combined in vivo treatment significantly suppressed BaF3/T315I tumor growth and prolonged survival in an allogeneic mouse model . Together , these findings suggest that this targeted combination strategy warrants attention in IM-resistant CML or Ph(+) ALL .",
+    "DB00065 as rescue medication for patients with severe ulcerative/indeterminate colitis refractory to tacrolimus . BACKGROUND : The calcineurin inhibitor tacrolimus and the anti- P01375 -antibody infliximab are established options in steroid-refractory ulcerative colitis ( UC ) . AIM : To evaluate the efficacy of infliximab-salvage therapy in patients with refractory UC failing to respond to tacrolimus . METHODS : Twenty-four patients were enrolled in this evaluation . Reasons for tacrolimus therapy were steroid-refractory disease in 19 patients and steroid-dependency in five patients . All patients receiving infliximab had tacrolimus-refractory active disease ( Lichtiger score > 10 ) and were treated with 5 mg/kg at weeks 0 , 2 and 6 and every 8 weeks thereafter , if tolerated . RESULTS : Six of 24 patients ( 25 % ) achieved remission following infliximab infusion and four of 24 ( 17 % ) had an initial response only , but underwent proctocolectomy later because of loss of response ( 3 ) or development of a delayed hypersensitivity reaction ( 1 ) . Fourteen patients ( 58 % ) completely failed to respond with 10 undergoing colectomy . Eight patients experienced side effects under infliximab , including two infectious complications ( herpes zoster and herpes pneumonia ) . CONCLUSIONS : DB00065 offers a therapeutic option as rescue therapy in about a quarter of patients with active UC after failing to respond to tacrolimus . This benefit has to be weighed against the risks of infectious complications .",
+    "Glucocorticoids enhance regeneration of murine olfactory epithelium . CONCLUSION : Glucocorticoid ( GC ) administration enhanced apoptotic changes in mature olfactory receptor neurons ( ORNs ) . GC administration may enhance regeneration of olfactory epithelium ( OE ) . OBJECTIVES : The mechanism underlying olfactory epithelial cells turnover involves apoptosis replaced by new ORNs . On regeneration of OE , we evaluated the apoptotic changes in OE . Our aim was to corroborate the enhancement of apoptosis of ORNs induced by GCs that are generally administered locally or systemically to patients with olfactory dysfunction . MATERIALS AND METHODS : For the in vitro study , we established cultured murine ORNs . DB00620 acetonide was added to culture supernatants . ORNs were then cultured for another 2 weeks . In the in vivo study , triamcinolone acetonide was administered to mice 5 or 10 times . The mice were dissected 3 days after the final injection , and the olfactory regions were removed and embedded in paraffin . All samples were examined by immunohistochemical staining and the TdT-mediated dUTP-biotin nick-end labeling ( TUNEL ) method . RESULTS : P04150 ( GR ) expression of cultured murine ORNs was observed among ORNs at the mature stage . Expression of GRs by murine OE was localized on mature ORNs and supporting cells . Administration of GC to both cultured ORNs and mice resulted in proportions of apoptotic cells that were significantly higher than those in the control groups .",
+    "The impact of biological agents interfering with receptor/ligand binding in the immune system . We herein discuss the impact of biological agents based on the ability of monoclonal antibodies to target specific molecules . This approach has given to clinical immunologists a spectrum of drugs able to manipulate the immune system . In the first session , we discuss drugs targeting T-cell function by : ( 1 ) targeting P10747 mediated costimulation ( DB01281 and DB06681 ) ; ( 2 ) interfering with interleukin-2 receptor ( DB00074 and DB00111 ) ; ( 3 ) blocking cell adhesion and homing ( DB00092 , DB00095 , DB00108 ) . The second session is dedicated to drugs targeting cytokines or their receptors . The best known and largely experimented case is represented by drugs targeting tumor necrosis factor ( P01375 ) ( DB00065 , Adalilumab , Certolizumab ) or its p75 receptor ( DB00005 ) . However , newer products are now available to target other inflammatory cytokines including P05231 , P10145 , IL-12 , P40933 , Q14116 , IL-23 . These agents have the potential to become powerful tools in the control of several immune-mediated diseases , especially auto-immune and inflammatory ones . They traslate into reality the prediction that antibodies will eventually become \" magic bullets which seek their own target \" ( P. Ehrich , 1906 ) .",
+    "[ DB00391 in the management of functional dyspepsia and delayed gastric emptying ] . DB00391 is a sulpiride isomer that exerts its prokinetic action through a dual mechanism : 1 ) as a P14416 antagonist and 2 ) as a serotonin 5HT(4) receptor agonist , conferring this drug with a cholinergic effect . At a dosage of 25mg three times daily , levosulpiride accelerates gastric and gallbladder emptying . Clinical trials have shown that this agent is more effective than placebo in reducing the symptoms of dyspepsia , while comparative studies have demonstrated that its effect is similar or superior to that of other dopamine antagonists . The safety profile of levosulpiride is good and the frequency of adverse events is similar to that of other D(2) dopamine antagonists . Therefore , this drug is a useful therapeutic option in the management of patients with functional dyspepsia , as well as in those with delayed gastric emptying .",
+    "Review article : the effects of antitumour necrosis factor-α on bone metabolism in inflammatory bowel disease . BACKGROUND : Patients with inflammatory bowel disease ( Q9UKU7 ) are at increased risk of osteoporosis . A number of studies have emerged in recent years indicating that tumour necrosis factor ( P01375 ) blockade appears to have a beneficial effect on bone mineral density ( BMD ) in Q9UKU7 patients . AIMS : To provide a review of the available data regarding the effect of the currently licensed anti- P01375 -α therapies on bone metabolism and BMD in Q9UKU7 patients . METHODS : A Medline search was performed using the search terms ' infliximab ' , ' bone metabolism ' , ' Q9UKU7 ' , ' BMD ' , ' bone markers ' , ' adalimumab ' , ' bone disease ' , ' Crohn 's disease ' and ' ulcerative colitis ' . RESULTS : DB00065 has a beneficial effect on bone turnover markers in Crohn 's disease ( CD ) patients in the short term . The longest study to date comprising 24 CD patients showed an overall improvement in two bone formation markers - b-alkaline phosphatase ( P = 0.022 ) and osteocalcin ( P = 0.008 ) at 4 months post-treatment . Moreover , the largest study to date comprising 71 CD patients showed significant improvement in sCTx , a bone resorption marker ( P = 0.04 ) at week-8 post-treatment . There is little data looking at the effect of anti- P01375 -α therapy on bone metabolism in ulcerative colitis . Moreover , the long-term effects of anti- P01375 -α therapy on bone structure and fracture risk in Q9UKU7 patients are currently not known . The effect of cessation of anti- P01375 -α therapy on bone metabolism is also unknown . CONCLUSION : Properly controlled long-term trials are needed to fully evaluate the impact of P01375 blockade on bone mineral density .",
+    "DB00065 therapy efficacy and persistence at a Canadian academic centre despite a change in access procedure . Patients treated with infliximab at our centre through a special access programme ( initiation group ) had long-standing , treatment-resistant rheumatoid arthritis . The clinical experience for these patients may be different than that of patients initiating treatment after provincial government approval and cost coverage for all anti-tumour necrosis factor ( anti- P01375 ) therapies became effective ( contemporary group ) . We compared adverse events , drug survival and reasons for discontinuation in these two groups . A prospective cohort of patients treated with an anti- P01375 therapy was assembled following the availability of infliximab in 2000 . By protocol , patients are assessed for treatment response , discontinuation or switching of biologic agents and occurrence of adverse events . We report on 231 patients treated with infliximab therapy ( 680 patient-years ) . Both groups had similar drug survival ( median 2.2 years ) and rates of serious adverse events including infusion reactions ( 6.8 per 100 patient-years ) and serious infections ( 3.4 per 100 patient-years ) . More patients in the initiation group discontinued infliximab for adverse events [ 39/139 ( 28 % ) vs. 15/92 ( 16 % ) , p = 0.04 ] and developed drug-induced lupus [ 8/139 ( 6 % ) vs. 0 % , p = 0.02 ] . Subsequent biologics were discontinued for the same reason as infliximab in only 12 % ( 15/123 ) of cases . Patients treated with infliximab through a special access programme have comparable drug survival compared to a contemporary group , despite experiencing more adverse events . Only a minority of patients discontinuing infliximab due to the lack of effect or adverse events experience the same fate with subsequent anti- P01375 agents .",
+    "Genetic markers in the EET metabolic pathway are associated with outcomes in patients with aneurysmal subarachnoid hemorrhage . Preclinical studies show that epoxyeicosatrienoic acids ( EETs ) regulate cerebrovascular tone and protect against cerebral ischemia . We investigated the relationship between polymorphic genes involved in EET biosynthesis/metabolism , cytochrome P450 ( CYP ) eicosanoid levels , and outcomes in 363 patients with aneurysmal subarachnoid hemorrhage ( aSAH ) . Epoxyeicosatrienoic acids and dihydroxyeicosatetraenoic acid ( DHET ) cerebrospinal fluid ( P04141 ) levels , as well as acute outcomes defined by delayed cerebral ischemia ( P42126 ) or clinical neurologic deterioration ( CND ) , were assessed over 14 days . Long-term outcomes were defined by Modified Rankin Scale ( P59665 ) at 3 and 12 months . P10632 *4 allele carriers had 44 % and 36 % lower mean EET and DHET P04141 levels ( P=0.003 and P=0.007 ) and were 2.2- and 2.5-fold more likely to develop P42126 and CND ( P=0.039 and P=0.041 ) , respectively . P34913 55Arg , P51589 *7 , P10632 *1B , and P10632 g.36785A allele carriers had lower EET and DHET P04141 levels . P10632 g.25369T and P10632 g.36755A allele carriers had higher EET levels . Patients with P10632 *2C and P34913 404del variants had worse long-term outcomes while those with P34913 287Gln , P51589 *7 , and P11712 g.816G variants had favorable outcomes . Epoxyeicosatrienoic acid levels were associated with Fisher grade and unfavorable 3-month outcomes . Dihydroxyeicosatetraenoic acids were not associated with outcomes . No associations passed Bonferroni multiple testing correction . These are the first clinical data demonstrating the association between the EET biosynthesis/metabolic pathway and the pathophysiology of aSAH .",
+    "DB00065 induces potent anti-inflammatory responses by outside-to-inside signals through transmembrane P01375 . BACKGROUND AND AIMS : Both infliximab ( chimeric anti-tumor necrosis factor [ P01375 ] -alpha antibody ) and etanercept ( p75 P01375 receptor/immunoglobulin G fusion protein ) are effective against rheumatoid arthritis , but only infliximab induces clinical remission in Crohn 's disease . To clarify this difference in clinical efficacy , we investigated reverse signaling through transmembrane P01375 ( mTNF ) by these 2 anti- P01375 agents . METHODS : We stably transfected wild-type and cytoplasmic serine-replaced mutant forms of mTNF in human Jurkat T cells . Cells were stimulated with infliximab and etanercept and then analyzed for P16581 expression , reactive oxygen species accumulation , apoptosis , and cell cycle distribution by flow cytometry . P22301 and interferon-gamma were measured by enzyme-linked immunosorbent assay . Phospho-c-Jun NH2-terminal kinase , Bax , Bak , P38936 ( P38936 /CIP1) , caspase-8 , and caspase-3 were examined by immunoblotting . RESULTS : Both anti- P01375 agents induced P16581 expression , but only infliximab induced interleukin-10 production , apoptosis , and G0/ P55008 cell cycle arrest . Apoptosis and cell cycle arrest were abolished by substitution of all 3 cytoplasmic serine residues of mTNF by alanine residues . DB00065 induced accumulation of reactive oxygen species and up-regulation of Bax , Bak , and P38936 ( P38936 /CIP1) proteins , suggesting the involvement of p53 activation . Moreover , phosphorylation of c-Jun NH2-terminal kinase was necessary for infliximab-induced apoptosis and cell cycle arrest . CONCLUSIONS : We revealed the mTNF motifs and the downstream intracellular molecular events essential for reverse signaling through mTNF . The biologic effects of mTNF elicited by infliximab should be important action mechanisms of this potent anti-inflammatory agent in addition to the neutralization of soluble P01375 . These observations will provide insight into the novel role of mTNF in inflammation .",
+    "[ DB00065 . Role in the treatment of psoriasis ] . Psoriasis is one of the immune-mediated inflammatory diseases ( IMIDs ) , in whose pathogenesis Th1-mediated immune responses are considered crucial . DB00065 is a chimeric monoclonal antibody directed against the Th1-cytokine P01375 that has already been approved for the therapy of psoriatic arthritis ( in combination with methotrexate ) . In clinical studies , infliximab has proved safe and effective in treating plaque-type psoriasis . In 80 % of treated patients , the Psoriasis Area and Severity Index ( PASI ) decreased after 10 weeks by > or =75 % . DB00065 is expected to be approved as second-line therapy in Germany this year for the treatment of psoriasis vulgaris .",
+    "Genomic organization , expression and evolution of porcine Q15648 , 2 , and 3 . Recently we identified and characterized porcine calcitonin receptor-stimulating peptide ( CRSP ) 1 , O60244 and Q9ULK4 as members of the calcitonin/calcitonin gene-related peptide ( CT/ P80511 ) family . In the present study , the genomic sequences and organization of Q15648 , 2 , and 3 were determined , and the expression of the genes in the porcine brain was investigated using in situ hybridization . Analysis of 5'-upstream regions of the three CRSPs demonstrated that Q15648 and O60244 have almost identical sequences ( > 98 % similarity ) and high sequence similarities including functional transcription binding sites with the corresponding region of human CALCA ( CT/alpha P80511 ) , whereas Q9ULK4 retains less similarity with the above genes . RH mapping of CRSPs demonstrated that they resided in a region of swine chromosome 2 ( Q9NXB9 ) . The arrangement of the genes in the region was found to be conserved in corresponding human and mouse regions . In situ hybridization demonstrated sense transcripts of the three genes in cerebrum , hippocampus , hypothalamus , pons/midbrain , and thalamus of 3-month-old pigs , and O60244 sense transcripts additionally in tractus opticus . The sense transcripts of alpha P80511 and P10092 ( beta P80511 ) were detected in cerebrum , hippocampus , and pons/midbrain of newborn mice , and to a lesser extent in pons/midbrain of 8-week-old mice . These results taken together with the chromosomal conservation and phylogenetic clustering of CT/ P80511 family indicate that Q15648 , 2 , and 3 may be functionally different from alpha P80511 and beta P80511 , though they are indicated to have a common progenitor gene .",
+    "Fast and sharp decrease in calprotectin predicts remission by infliximab in anti- P01375 naïve patients with ulcerative colitis . AIM : To evaluate the effect of infliximab induction therapy on calprotectin levels in patients with ulcerative colitis ( UC ) . PATIENTS AND METHODS : In this prospective study 53 patients with active UC from 17 centers were treated with infliximab therapy ( 5 mg/kg ) at baseline , week 2 , and week 6 . Faecal calprotectin was measured every week . Sigmoidoscopies were performed at baseline , week 6 and week 10 . RESULTS : Median calprotectin levels decreased from 1260 ( IQR 278.5- 3418 ) at baseline to 72.5 ( IQR 18.5 - 463 ) at week 10 ( p < 0.001 ) . After 10 weeks , infliximab therapy induced endoscopic remission and a decrease in calprotectin to < 50 mg/kg or at least a 80 % decrease from baseline level in 58 % of patients . A significant and steep decrease of calprotectin levels was seen at week 2 for patients with an endoscopic remission at week 10 as compared to patients who did not show a remission . ( p < 0.001 ) . At week 10 an excellent correlation was found between endoscopic remission and clinical Mayo score reflected by an AUC of ROC analyses of 0.94 ( 0.87-1 ) and with calprotectin measurements ( AUC 0.91 ( 0.81-1 ) ) : all patients with calprotectin levels < 50 mg/kg , and a normal clinical Mayo score ( =0 ) were in endoscopic remission . CONCLUSIONS : DB00065 induces a fast and significant decrease of faecal calprotectin levels in anti- P01375 naïve patients with ulcerative colitis predictive for remission of disease .",
+    "Tumour necrosis factor alpha and use of infliximab . Safety during pregnancy . QUESTION : A 27-year-old patient of mine with rheumatoid arthritis has been treated with infliximab for the last 5 years . She is planning her first pregnancy . How should I advise her regarding use of infliximab during pregnancy , bearing in mind that infliximab substantially improved her medical condition ? ANSWER : DB00065 ( Remicade ) has not been tested in pregnant animals because it does not interact with non-human tumour necrosis factor ( P01375 ) alpha . Several case reports describing women who used infliximab during pregnancy do not suggest a strong association with adverse pregnancy outcomes . More studies are required to determine infliximab 's safety during pregnancy .",
+    "Superagonistic action of 14-epi-analogs of 1,25-dihydroxyvitamin D explained by vitamin D receptor-coactivator interaction . Two 14-epi-analogs of 1,25-dihydroxyvitamin D3 [ 1,25-(OH)(2)D(3) ] , 19-nor-14-epi-23-yne-1,25-(OH)2D3 ( TX522 ) and 19-nor-14,20-bisepi-23-yne-1,25-(OH)2D3 ( TX527 ) , show enhanced antiproliferative ( at least 10-fold ) and markedly lower calcemic effects both in vitro and in vivo , compared with 1,25-(OH)2D3 . This study aimed to evaluate their superagonistic effect at the level of interaction between the Vitamin D receptor ( P11473 ) and coactivators . Mammalian two-hybrid assays with VP16-fused P11473 and GAL4-DNA-binding-domain-fused steroid receptor coactivator 1 ( Q15788 ) , transcriptional intermediary factor 2 ( Tif2 ) , or Q15648 showed the 14-epi-analogs to be more potent inducers of P11473 -coactivator interactions than 1,25-(OH)2D3 ( up to 16- and 20-fold stronger induction of P11473 - Q15788 interaction for TX522 and TX527 at 10(-10) M ) . Similar assays in which metabolism of 1,25-(OH)2D3 was blocked with VID400 , a selective inhibitor of the 1,25-(OH)2D3-metabolizing enzyme Q07973 , showed that the enhanced potency of these analogs in establishing P11473 -coactivator interactions can only partially be accounted for by their increased resistance to metabolic degradation . Crystallization of TX522 complexed to the ligand binding domain of the human P11473 demonstrated that the epi-configuration of C14 caused the CD ring of the ligand to shift by 0.5 angstroms , thereby bringing the C12 atom into closer contact with Val300 . Moreover , C22 of TX522 made an additional contact with the CD1 atom of Ile268 because of the rigidity of the triple bond-containing side chain . The position and conformation of the activation helix H12 of P11473 was strictly maintained . In conclusion , this study provides deeper insight into the docking of TX522 in the P18428 and shows that stronger P11473 -coactivator interactions underlie the superagonistic activity of the two 14-epi-analogs ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00065 is a chimeric monoclonal antibody that targets tumor necrosis factor-alpha (P01375).\nDB00065 is used in the treatment of rheumatoid arthritis, Crohn's disease, psoriasis, and other inflammatory conditions.\nDB00065 induces apoptosis in monocytes and T lymphocytes in a human-mouse chimeric model.\nDB00065 reduces the cytokine-mediated inflammation but does not suppress cellular infiltration of the vessel wall in refractory Kawasaki disease.\nDB00065 is effective in combination with methotrexate for suppressing bone destruction in rheumatoid arthritis.\nDB00065 induces potent anti-inflammatory responses through reverse signaling via transmembrane P01375.\nDB00065 reduces the cytokine-mediated inflammation but does not suppress cellular infiltration of the vessel wall in refractory Kawasaki disease.\nDB00065 is associated with an increase in serum soluble P28908 (sCD30) in patients with rheumatoid arthritis.\nDB00065 therapy is effective in patients with refractory sarcoidosis and idiopathic retroperitoneal fibrosis.\nDB00065 is used as rescue medication for patients with severe ulcerative colitis refractory to tacrolimus.\nDB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis.\nDB00065 reduces 24-hour ambulatory blood pressure in rheumatoid arthritis patients.\nDB00065 is associated with an increased risk of non-Candida invasive fungal infections in allogeneic hematopoietic stem cell transplant recipients.\nDB00065 is effective in treating refractory rheumatoid arthritis and psoriasis.\nDB00065 is used in the treatment of inflammatory bowel disease and its extraintestinal manifestations.\nDB00065 is effective in treating refractory Kawasaki disease.\nDB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis.\nDB00065 is effective in treating refractory sarcoidosis.\nDB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis.\nDB00065 is effective in treating refractory rheumatoid arthritis.\nDB00065 is effective in treating psoriasis.\nDB00065 is effective in treating refractory Kawasaki disease.\nDB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis.\nDB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis.\nDB00065 is effective in treating refractory rheumatoid arthritis.\nDB00065 is effective in treating psoriasis.\nDB00065 is effective in treating refractory Kawasaki disease.\nDB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis.\nDB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis.\nDB00065 is effective in treating refractory rheumatoid arthritis.\nDB00065 is effective in treating psoriasis.\nDB00065 is effective in treating refractory Kawasaki disease.\nDB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis.\nDB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis.\nDB00065 is effective in treating refractory rheumatoid arthritis.\nDB00065 is effective in treating psoriasis.\nDB00065 is effective in treating refractory Kawasaki disease.\nDB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis.\nDB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis.\nDB00065 is effective in treating refractory rheumatoid arthritis.\nDB00065 is effective in treating psoriasis.\nDB00065 is effective in treating refractory Kawasaki disease.\nDB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis.\nDB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis.\nDB00065 is effective in treating refractory rheumatoid arthritis.\nDB00065 is effective in treating psoriasis.\nDB00065 is effective in treating refractory Kawasaki disease.\nDB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis.\nDB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis.\nDB00065 is effective in treating refractory rheumatoid arthritis.\nDB00065 is effective in treating psoriasis.\nDB00065",
+  "predicted_answer": null,
+  "claims": [
+    "DB00065 is a chimeric monoclonal antibody that targets tumor necrosis factor-alpha (P01375)",
+    "DB00065 is used in the treatment of rheumatoid arthritis, Crohn's disease, psoriasis, and other inflammatory conditions",
+    "DB00065 induces apoptosis in monocytes and T lymphocytes in a human-mouse chimeric model",
+    "DB00065 reduces the cytokine-mediated inflammation but does not suppress cellular infiltration of the vessel wall in refractory Kawasaki disease",
+    "DB00065 is effective in combination with methotrexate for suppressing bone destruction in rheumatoid arthritis",
+    "DB00065 induces potent anti-inflammatory responses through reverse signaling via transmembrane P01375",
+    "DB00065 reduces the cytokine-mediated inflammation but does not suppress cellular infiltration of the vessel wall in refractory Kawasaki disease",
+    "DB00065 is associated with an increase in serum soluble P28908 (sCD30) in patients with rheumatoid arthritis",
+    "DB00065 therapy is effective in patients with refractory sarcoidosis and idiopathic retroperitoneal fibrosis",
+    "DB00065 is used as rescue medication for patients with severe ulcerative colitis refractory to tacrolimus",
+    "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+    "DB00065 reduces 24-hour ambulatory blood pressure in rheumatoid arthritis patients",
+    "DB00065 is associated with an increased risk of non-Candida invasive fungal infections in allogeneic hematopoietic stem cell transplant recipients",
+    "DB00065 is effective in treating refractory rheumatoid arthritis and psoriasis",
+    "DB00065 is used in the treatment of inflammatory bowel disease and its extraintestinal manifestations",
+    "DB00065 is effective in treating refractory Kawasaki disease",
+    "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+    "DB00065 is effective in treating refractory sarcoidosis",
+    "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+    "DB00065 is effective in treating refractory rheumatoid arthritis",
+    "DB00065 is effective in treating psoriasis",
+    "DB00065 is effective in treating refractory Kawasaki disease",
+    "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+    "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+    "DB00065 is effective in treating refractory rheumatoid arthritis",
+    "DB00065 is effective in treating psoriasis",
+    "DB00065 is effective in treating refractory Kawasaki disease",
+    "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+    "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+    "DB00065 is effective in treating refractory rheumatoid arthritis",
+    "DB00065 is effective in treating psoriasis",
+    "DB00065 is effective in treating refractory Kawasaki disease",
+    "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+    "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+    "DB00065 is effective in treating refractory rheumatoid arthritis",
+    "DB00065 is effective in treating psoriasis",
+    "DB00065 is effective in treating refractory Kawasaki disease",
+    "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+    "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+    "DB00065 is effective in treating refractory rheumatoid arthritis",
+    "DB00065 is effective in treating psoriasis",
+    "DB00065 is effective in treating refractory Kawasaki disease",
+    "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+    "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+    "DB00065 is effective in treating refractory rheumatoid arthritis",
+    "DB00065 is effective in treating psoriasis",
+    "DB00065 is effective in treating refractory Kawasaki disease",
+    "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+    "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+    "DB00065 is effective in treating refractory rheumatoid arthritis",
+    "DB00065 is effective in treating psoriasis",
+    "DB00065"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00065 is a chimeric monoclonal antibody that targets tumor necrosis factor-alpha (P01375)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB00065 is used in the treatment of rheumatoid arthritis, Crohn's disease, psoriasis, and other inflammatory conditions",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00065 induces apoptosis in monocytes and T lymphocytes in a human-mouse chimeric model",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00065 reduces the cytokine-mediated inflammation but does not suppress cellular infiltration of the vessel wall in refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00065 is effective in combination with methotrexate for suppressing bone destruction in rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00065 induces potent anti-inflammatory responses through reverse signaling via transmembrane P01375",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00065 reduces the cytokine-mediated inflammation but does not suppress cellular infiltration of the vessel wall in refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB00065 is associated with an increase in serum soluble P28908 (sCD30) in patients with rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB00065 therapy is effective in patients with refractory sarcoidosis and idiopathic retroperitoneal fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB00065 is used as rescue medication for patients with severe ulcerative colitis refractory to tacrolimus",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00065 reduces 24-hour ambulatory blood pressure in rheumatoid arthritis patients",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00065 is associated with an increased risk of non-Candida invasive fungal infections in allogeneic hematopoietic stem cell transplant recipients",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB00065 is effective in treating refractory rheumatoid arthritis and psoriasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB00065 is used in the treatment of inflammatory bowel disease and its extraintestinal manifestations",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB00065 is effective in treating refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB00065 is effective in treating refractory sarcoidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB00065 is effective in treating refractory rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "DB00065 is effective in treating psoriasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "DB00065 is effective in treating refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C23",
+      "text": "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C24",
+      "text": "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C25",
+      "text": "DB00065 is effective in treating refractory rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C26",
+      "text": "DB00065 is effective in treating psoriasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C27",
+      "text": "DB00065 is effective in treating refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C28",
+      "text": "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C29",
+      "text": "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C30",
+      "text": "DB00065 is effective in treating refractory rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C31",
+      "text": "DB00065 is effective in treating psoriasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C32",
+      "text": "DB00065 is effective in treating refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C33",
+      "text": "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C34",
+      "text": "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C35",
+      "text": "DB00065 is effective in treating refractory rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C36",
+      "text": "DB00065 is effective in treating psoriasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C37",
+      "text": "DB00065 is effective in treating refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C38",
+      "text": "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C39",
+      "text": "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C40",
+      "text": "DB00065 is effective in treating refractory rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C41",
+      "text": "DB00065 is effective in treating psoriasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C42",
+      "text": "DB00065 is effective in treating refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C43",
+      "text": "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C44",
+      "text": "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C45",
+      "text": "DB00065 is effective in treating refractory rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C46",
+      "text": "DB00065 is effective in treating psoriasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C47",
+      "text": "DB00065 is effective in treating refractory Kawasaki disease",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C48",
+      "text": "DB00065 is effective in treating refractory idiopathic retroperitoneal fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C49",
+      "text": "DB00065 is effective in treating familial Mediterranean fever and secondary AA amyloidosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C50",
+      "text": "DB00065 is effective in treating refractory rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C51",
+      "text": "DB00065 is effective in treating psoriasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C52",
+      "text": "DB00065",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__c5e130e153c93e692833",
+  "sample_id": "c5e130e153c93e692833",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would members of Blue Lives Matter support every element of Grand Theft Auto III?",
+  "gold_answer": "no",
+  "context": [
+    "Blue Lives Matter is a countermovement in the United States that supports police officers and law enforcement personnel.",
+    "Grand Theft Auto III allows for gratuitous violence against police officers in the game."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBlue Lives Matter is a movement that supports police officers and law enforcement personnel.\nGrand Theft Auto III features gratuitous violence against police officers.\nSupporting police officers is inconsistent with promoting violence against them.\nMembers of Blue Lives Matter would not support elements of Grand Theft Auto III that glorify violence against police.\nThe element of Grand Theft Auto III that involves gratuitous violence against police officers is not supported by members of Blue Lives Matter.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Blue Lives Matter is a movement that supports police officers and law enforcement personnel",
+    "Grand Theft Auto III features gratuitous violence against police officers",
+    "Supporting police officers is inconsistent with promoting violence against them",
+    "Members of Blue Lives Matter would not support elements of Grand Theft Auto III that glorify violence against police",
+    "The element of Grand Theft Auto III that involves gratuitous violence against police officers is not supported by members of Blue Lives Matter"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Blue Lives Matter is a movement that supports police officers and law enforcement personnel",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Grand Theft Auto III features gratuitous violence against police officers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Supporting police officers is inconsistent with promoting violence against them",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Members of Blue Lives Matter would not support elements of Grand Theft Auto III that glorify violence against police",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The element of Grand Theft Auto III that involves gratuitous violence against police officers is not supported by members of Blue Lives Matter",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "uid": "wiki2mhqa__8df60c32088411ebbd6dac1f6bf848b6",
+  "sample_id": "8df60c32088411ebbd6dac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Are The Untouchables (Film) and Meeting Venus from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "The Untouchables Paderborn( full name Untouchables Paderborn Baseball Club e.V.), is a German baseball team in the Baseball- Bundesliga located in the city of Paderborn in Nordrhein- Westfalen. The club was established in 1990. The Untouchables' club colors are black, green, and yellow, and the nickname is U's. The Untouchables won every Baseball- Bundesliga championship between 1999 and 2005. The Untouchables have also won the junior Baseball- Bundesliga in 2003, the youth Baseball- Bundesliga in 2002 and 2004, the men's Cup( DBV- Pokal) in 1998 and 1999, and the European Cup in 2003. The Untouchables compete in the 1st Bundesliga North division of the Baseball- Bundesliga. The team finished in second place in the Bundesliga Nord in 2010, ultimately losing in the semifinals to ultimate champion Regensburg Legionare. The Untouchables play at the Ahorn- Ballpark, one of the biggest baseball stadiums in Germany, with a capacity of about 1,200 spectators.",
+    "William A. Elliott is an American art director. He was nominated for an Academy Award in the category Best Art Direction for the film\" The Untouchables\".",
+    "Venus fra Vestø( literally,\" Venus from West Island\") is a 1962 Danish comedy war film directed by Annelise Reenberg and starring Malene Schwartz. The film is based on Jerrard Tickell's book\" Appointment with Venus\"( Danish title:\" Operation Venus\").",
+    "The Untouchables is a video game released by Ocean Software in 1989 on ZX Spectrum, Amstrad CPC, Commodore 64, MSX, Amiga, DOS, and later on NES and SNES. It is based on the film\" The Untouchables\".",
+    "The Untouchables is an autobiographical memoir by Eliot Ness co-written with Oscar Fraley, published in 1957. The book deals with the experiences of Eliot Ness, a federal agent in the Bureau of Prohibition, as he fights crime in Chicago in the late 1920s and early 1930s with the help of a special team of agents handpicked for their incorruptibility, nicknamed The Untouchables. The main part of the book is written in first- person anecdotal style, as if directly from Ness's reminiscences; a foreword and afterword by Fraley provide historical context. In fact, Fraley, who was a prominent sportswriter for United Press when he worked on the book, did most of the writing, although Ness wrote a lengthy synopsis that Fraley used as a starting point, made himself available for interviews, made his scrapbooks and other memorabilia available for research purposes, and approved the final version of the text shortly before his death. The book inspired\" The Untouchables\", a popular television series which ran from 1959 to 1963, and the 1987 film\" The Untouchables\".",
+    "Peoria Civic Center is a convention center in downtown Peoria, Illinois. It has an arena, theater, exhibit hall and meeting rooms. It opened in 1982 and completed an expansion to its lobby and meeting facilities in 2007.",
+    "The Untouchables is a 1987 American gangster film directed by Brian De Palma, produced by Art Linson, written by David Mamet, and based on the book of the same name (1957). The film stars Kevin Costner, Charles Martin Smith, Andy García, Robert De Niro, and Sean Connery, and follows Eliot Ness (Costner) as he forms the Untouchables team to bring Al Capone (De Niro) to justice during Prohibition. The Grammy Award-winning score was composed by Ennio Morricone and features period music by Duke Ellington. \"The Untouchables\" premiered on June 2, 1987 in New York City, and went into general release on June 3, 1987 in the United States. The film grossed $106.2 million worldwide and received generally positive reviews from critics. It was nominated for four Academy Awards; Connery won the Academy Award for Best Supporting Actor.",
+    "Meeting Venus is a 1991 British–American-Japanese film directed by the Hungarian director István Szabó and starring Glenn Close and Niels Arestrup. The movie was filmed in Budapest, Hungary. Many of the characters in this movie have the same name and family name as director István Szabó, but in different languages. The Hungarian name István in English corresponds with Stephen. Surname Szabó means \"tailor\". And some persons in film are: \"Stephen Taylor\" (English), \"Stefan Schneider\" (German), \"Stefano Sarto\" (Italian), \"Etienne Tailleur\" (French)/ There are also \"Maria Krawiecki\" (from the Polish word \"krawiec\" which means \"tailor\") and Isaac Partnoi (from Russian word \"портной [portnoy]tailor\").",
+    "This is a list of churches, chapels and meeting halls in the Channel Islands",
+    "The Untouchables is an American crime drama produced by Desilu Productions that ran from 1959 to 1963 on the ABC Television Network. Based on the memoir of the same name by Eliot Ness and Oscar Fraley, it fictionalized Ness's experiences as a Prohibition agent, fighting crime in Chicago in the 1930s with the help of a special team of agents handpicked for their courage, moral character, and incorruptibility, nicknamed the Untouchables. The book was later made into a film in 1987 by Brian De Palma, with a script by David Mamet, and a second, less- successful TV series in 1993. A dynamic, hard- hitting action drama, and a landmark television crime series,\" The Untouchables\" won series star Robert Stack an Emmy Award for Best Actor in a Dramatic Series in 1960."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Untouchables (1987 film) is an American gangster film directed by Brian De Palma.\nMeeting Venus is a 1991 British–American-Japanese film directed by István Szabó.\nThe film Meeting Venus was produced in collaboration with British, American, and Japanese production companies.\nThe Untouchables (1987) is from the United States.\nMeeting Venus is not from a single country; it is a co-production involving multiple countries.\nThe Untouchables (1987) and Meeting Venus are not from the same country.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Untouchables (1987 film) is an American gangster film directed by Brian De Palma",
+    "Meeting Venus is a 1991 British–American-Japanese film directed by István Szabó",
+    "The film Meeting Venus was produced in collaboration with British, American, and Japanese production companies",
+    "The Untouchables (1987) is from the United States",
+    "Meeting Venus is not from a single country; it is a co-production involving multiple countries",
+    "The Untouchables (1987) and Meeting Venus are not from the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Untouchables (1987 film) is an American gangster film directed by Brian De Palma",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Meeting Venus is a 1991 British–American-Japanese film directed by István Szabó",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The film Meeting Venus was produced in collaboration with British, American, and Japanese production companies",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Untouchables (1987) is from the United States",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Meeting Venus is not from a single country; it is a co-production involving multiple countries",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The Untouchables (1987) and Meeting Venus are not from the same country",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

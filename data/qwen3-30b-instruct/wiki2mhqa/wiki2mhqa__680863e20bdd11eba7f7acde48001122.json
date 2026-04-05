@@ -1,0 +1,33 @@
+{
+  "uid": "wiki2mhqa__680863e20bdd11eba7f7acde48001122",
+  "sample_id": "680863e20bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of death of the director of film Sensational Janine?",
+  "gold_answer": "Gräfelfing",
+  "context": [
+    "Ian Barry is an Australian director of film and TV.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Hans Billian (born Hans Joachim Hubert Backe, April 15, 1918 in Breslau (today, Wrocław, Poland) - December 18, 2007 in Gräfelfing, Bavaria) was a German film director, screenwriter, and actor noted for the \"sex comedies\" he directed in the 1970s. He was also credited as \"Hans BillanPhillip Halliday\", and \"Christian Kessler\".",
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Michael Govan( born 1963) is the director of the Los Angeles County Museum of Art since 2006. Prior to this, Govan worked as the director of the Dia Art Foundation in New York City.",
+    "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980. He was also the Director General of Police in Punjab.",
+    "Sensational Janine  is a 1976 West German hardcore costume drama-sex comedy film directed by Hans Billian. The film is an adaptation of the anonymous novel \"Josephine Mutzenbacher\" on the life of the eponymous and fictional \"fin-de-siècle\" Viennese courtesan."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSensational Janine is a 1976 West German film directed by Hans Billian.\nHans Billian was a German film director, screenwriter, and actor.\nHans Billian died on December 18, 2007.\nHans Billian died in Gräfelfing, Bavaria.\nThe place of death of the director of film Sensational Janine is Gräfelfing, Bavaria.\nSo, the answer is Gräfelfing, Bavaria.\n<answer> Gräfelfing, Bavaria",
+  "claims": [
+    "Sensational Janine is a 1976 West German film directed by Hans Billian",
+    "Hans Billian was a German film director, screenwriter, and actor",
+    "Hans Billian died on December 18, 2007",
+    "Hans Billian died in Gräfelfing, Bavaria",
+    "The place of death of the director of film Sensational Janine is Gräfelfing, Bavaria",
+    "So, the answer is Gräfelfing, Bavaria"
+  ],
+  "predicted_answer": "Gräfelfing, Bavaria"
+}

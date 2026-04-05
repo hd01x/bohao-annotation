@@ -1,0 +1,137 @@
+{
+  "uid": "musique__4hop3__710473_354093_254885_76356",
+  "sample_id": "4hop3__710473_354093_254885_76356",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who pushed for a canal crossing across the continent El Valle is located linking the Pacific Ocean and the ocean Sampit River leads to?",
+  "gold_answer": "Ferdinand de Lesseps",
+  "context": [
+    "Tomaga River rises about northeast of Mogo Hill and flows generally southwest and then southeast, joined by one minor tributary, before reaching its mouth at the Tasman Sea of the South Pacific Ocean at Mossy Point. The river descends over its course.",
+    "Hobcaw Barony is a tract on a peninsula called Waccamaw Neck between the Winyah Bay and the Atlantic Ocean in Georgetown County, South Carolina. Much of Hobcaw Barony is south of US Highway 17. The land was purchased by the investor, philanthropist, presidential advisor, and South Carolina native Bernard M. Baruch between 1905 and 1907 for a winter hunting retreat. Later, his eldest child, Belle W. Baruch, began purchasing the property from her father beginning in 1936. By 1956, Belle owned Hobcaw Barony entirely. Upon her death in 1964, the property was transferred to the Belle W. Baruch Foundation for a nature and research preserve. The property includes more than 37 historic buildings and structures representative of the eras of both 18th & 19th century rice cultivation and 20th century winter retreats. Hobcaw Barony was named to the National Register of Historic Places on November 2, 1994.",
+    "The Little River, a watercourse that is part of the Hawkesbury-Nepean catchment, is located in the Southern Highlands region of New South Wales, Australia.",
+    "Winyah Bay is a coastal estuary that is the confluence of the Waccamaw River, the Pee Dee River, the Black River, and the Sampit River in Georgetown County, in eastern South Carolina. Its name comes from the Winyaw, who used to inhabit the region during the eighteenth century. The historic port city of Georgetown is located on the bay, and the bay generally serves as the terminating point for the Grand Strand.",
+    "Pambula River rises in timbered highlands near the locality of Lochiel and flows generally east, flowing through Pambula Lake, before reaching its mouth into the Tasman Sea of the South Pacific Ocean near the locality of Pambula Beach. The river descends over its course.",
+    "Coxs Creek, a watercourse of the Cooks River catchment, is located in the Inner West of Sydney, in New South Wales, Australia.",
+    "El Valle is a stratovolcano in central Panama and is the easternmost volcano along the Central American Volcanic Arc which has been formed by the subduction of the Nazca Plate below Central America. Some time prior to 200,000 years ago, the volcano underwent a huge eruption event that caused the top of the volcano to collapse into the empty magma chamber below forming a large caldera. Several lava domes have developed inside the caldera since the collapse—forming Cerro Pajita, Cerro Gaital and Cerro Caracoral peaks. Prior to research in the early 1990s, it was thought that no active volcanism existed within Panama. But radioactive dates from El Valle show that the volcano last erupted as recently as 200,000 years ago.",
+    "Cabramatta Creek, an urban watercourse of the Georges River catchment, is located in the south-western region of Sydney, in New South Wales, Australia.",
+    "Bardwell Creek, an urban watercourse of the Cooks River catchment, is located in the southern suburbs of Sydney, in New South Wales, Australia.",
+    "Venice (/ ˈvɛnɪs /, VEN - iss; Italian: Venezia (veˈnɛttsja) (listen); Venetian: Venesia, Venexia (veˈnɛsja)) is a city in northeastern Italy and the capital of the Veneto region. It is situated across a group of 118 small islands that are separated by canals and linked by 400 bridges. The islands are located in the shallow Venetian Lagoon, an enclosed bay that lies between the mouths of the Po and the Piave rivers (more exactly between the Brenta and the Sile). Parts of Venice are renowned for the beauty of their settings, their architecture, and artwork. The lagoon and a part of the city are listed as a UNESCO World Heritage Site.",
+    "The Reconquista River (Spanish, Río Reconquista) is a small river in the province of Buenos Aires, Argentina. Together with the Riachuelo, it is one of the most contaminated watercourses in the country.",
+    "It originates from Mount Ishikari in the Daisetsuzan Volcanic Group and flows through Asahikawa and Sapporo. Major tributaries of the river include the Chūbetsu, Uryū, Sorachi and Toyohira rivers. Until 40,000 years ago, it flowed into the Pacific Ocean near Tomakomai. Lava from the volcanic Shikotsu mountains dammed the river and moved its mouth to the Ishikari Bay.",
+    "The Hargrave River is a river in the Arctic Ocean drainage basin in Kitikmeot Region, Nunavut, Canada. It is on the Kent Peninsula, and has its mouth on Dease Strait.",
+    "Toongabbie Creek, an urban watercourse that is part of the Parramatta River catchment, is located in Greater Western Sydney, New South Wales, Australia.",
+    "Formed by the confluence of the Mumbulla Creek and Dry River, approximately southeast by south of Quaama, the Murrah River flows generally east, before flowing into Murrah Lagoon and reaching its mouth into the Tasman Sea of the South Pacific Ocean north of Murrah Beach. The length of the course of the river varies between and .",
+    "Wolli Creek () is an urban watercourse of the Cooks River catchment located in the southern suburbs of Sydney, in New South Wales, Australia.",
+    "Wallingat River, a watercourse of the Mid-Coast Council system, is located in the Mid North Coast district of New South Wales, Australia.",
+    "Lansdowne River, a watercourse of the Manning River catchment, is located in the Mid North Coast district of New South Wales, Australia.",
+    "By the late nineteenth century, technological advances and commercial pressure allowed construction to begin in earnest. Noted canal engineer Ferdinand de Lesseps led an initial attempt by France to build a sea - level canal. Beset by cost overruns due to the severe underestimation of the difficulties in excavating the rugged Panama land, heavy personnel losses in Panama due to tropical diseases, and political corruption in France surrounding the financing of the massive project, the project succeeded in only partially completing the canal.",
+    "The Moche River is one of the rivers of the Pacific Ocean slope, located in the northern coast of Peru, in La Libertad Region. On both sides of this river is the milenary Moche Valley. The Moche river goes through east to west the metropolitan area of Trujillo and its mouth is located in the Pacific Ocean in the limits of Moche and Victor Larco both towns of Trujillo city."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEl Valle is a stratovolcano located in central Panama.\nThe Moche River flows into the Pacific Ocean in northern Peru.\nThe Sampit River flows into Winyah Bay, which leads to the Atlantic Ocean.\nThe Panama Canal connects the Atlantic Ocean to the Pacific Ocean.\nFerdinand de Lesseps led the initial French attempt to build a sea-level canal across Panama.\nThe canal project was intended to link the Atlantic and Pacific Oceans.\nThe person who pushed for a canal crossing across the continent where El Valle is located is Ferdinand de Lesseps.\n<answer> Ferdinand de Lesseps",
+  "predicted_answer": "Ferdinand de Lesseps",
+  "claims": [
+    "El Valle is a stratovolcano located in central Panama",
+    "The Moche River flows into the Pacific Ocean in northern Peru",
+    "The Sampit River flows into Winyah Bay, which leads to the Atlantic Ocean",
+    "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean",
+    "Ferdinand de Lesseps led the initial French attempt to build a sea-level canal across Panama",
+    "The canal project was intended to link the Atlantic and Pacific Oceans",
+    "The person who pushed for a canal crossing across the continent where El Valle is located is Ferdinand de Lesseps"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "El Valle is a stratovolcano located in central Panama",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Moche River flows into the Pacific Ocean in northern Peru",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Sampit River flows into Winyah Bay, which leads to the Atlantic Ocean",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Panama Canal connects the Atlantic Ocean to the Pacific Ocean",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Ferdinand de Lesseps led the initial French attempt to build a sea-level canal across Panama",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The canal project was intended to link the Atlantic and Pacific Oceans",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The person who pushed for a canal crossing across the continent where El Valle is located is Ferdinand de Lesseps",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "uid": "musique__4hop1__813171_153080_159767_81096",
+  "sample_id": "4hop1__813171_153080_159767_81096",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who won the Indy car race in the largest city and capitol of the state where the Changes Two performer is from?",
+  "gold_answer": "Mario Andretti",
+  "context": [
+    "Wil is the third largest city in the Canton of St. Gallen, after the city of St. Gallen and Rapperswil-Jona, a twin city that merged in 2006. The municipality of Bronschhofen merged into Wil on 1 January 2013. After the merger the Community Identification Number changed from 3425 to 3427.",
+    "Oklahoma had 598 incorporated places in 2010, including four cities over 100,000 in population and 43 over 10,000. Two of the fifty largest cities in the United States are located in Oklahoma, Oklahoma City and Tulsa, and 65 percent of Oklahomans live within their metropolitan areas, or spheres of economic and social influence defined by the United States Census Bureau as a metropolitan statistical area. Oklahoma City, the state's capital and largest city, had the largest metropolitan area in the state in 2010, with 1,252,987 people, and the metropolitan area of Tulsa had 937,478 residents. Between 2000 and 2010, the cities that led the state in population growth were Blanchard (172.4%), Elgin (78.2%), Jenks (77.0%), Piedmont (56.7%), Bixby (56.6%), and Owasso (56.3%).",
+    "Arizona ( (listen); Navajo: Hoozdo Hahoodzo Navajo pronunciation: [xòːztò xɑ̀xòːtsò]; O'odham: Alĭ ṣonak Uto-Aztecan pronunciation: [ˡaɺi ˡʂonak]) is a state in the southwestern region of the United States. It is also part of the Western and the Mountain states. It is the sixth largest and the 14th most populous of the 50 states. Its capital and largest city is Phoenix. Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest.",
+    "Pennsylvania is the 33rd - largest state by area, and the 6th-most populous state according to the last official US census count in 2010. It is the 9th-most densely populated of the 50 states. Pennsylvania's two most populous cities are Philadelphia (1,567,872), and Pittsburgh (303,625). The state capital and its 10th largest city is Harrisburg. Pennsylvania has 140 miles (225 km) of waterfront along Lake Erie and the Delaware Estuary.",
+    "Tallahassee / ˌtæləˈhæsi / is the capital of the U.S. state of Florida. It is the county seat and only incorporated municipality in Leon County. Tallahassee became the capital of Florida, then the Florida Territory, in 1824. In 2016, the population was 190,894, making it the 7th - largest city in the U.S state of Florida, and the 126th - largest city in the United States. The population of the Tallahassee metropolitan area was 379,627 as of 2016. Tallahassee is the largest city in the Florida Panhandle region, and the main center for trade and agriculture in the Florida Big Bend and Southwest Georgia regions.",
+    "Kranj railway station () is the railway station in Kranj, the third largest municipality and fourth largest city in Slovenia. The station is located on the railway line between Ljubljana, the capital city of Slovenia, and Villach, Austria.",
+    "After a hiatus of eleven years, the race was revived by the Verizon IndyCar Series in 2016. It was held on Saturday night under the lights. Long considered a popular Indy car track, Phoenix has a rich history of open wheel races, including a spectacular crash involving Johnny Rutherford (1980), and the final career victory for Indy legend Mario Andretti (1993).",
+    "According to the U.S. Census Bureau's estimate, the city had a population of 396,394 in 2017, making it the second-largest city in the county (after Fort Worth) and the third-largest in the metropolitan area. Arlington is the forty-eighth-most populous city in the United States, the seventh-most populous city in the state of Texas, and the largest city in the state that is not a county seat.",
+    "Darwin (/ ˈdɑːrwɪn / (listen) DAR - win) is the capital city of the Northern Territory of Australia. Situated on the Timor Sea, Darwin is the largest city in the sparsely populated Northern Territory, with a population of 142,300. It is the smallest and most northerly of the Australian capital cities, and acts as the Top End's regional centre.",
+    "Charles Mingus was born in Nogales, Arizona. His father, Charles Mingus Sr., was a sergeant in the U.S. Army. Mingus was largely raised in the Watts area of Los Angeles. His maternal grandfather was a Chinese British subject from Hong Kong, and his maternal grandmother was an African-American from the southern United States. Mingus was the third great-grandson of the family's founding patriarch who was, by most accounts, a German immigrant. His ancestors included German American, African American, and Native American.",
+    "Washington, D.C. is the current federal capital city of the United States, as it has been since 1800. Each U.S. state has its own capital city, as do many of its Insular areas. Historically, most states have not changed their capital city since becoming a state, but the capital cities of their respective preceding colonies, territories, kingdoms, and republics typically changed multiple times. There have also been other governments within the current borders of the United States with their own capitals, such as the Republic of Texas, Native American nations, and other unrecognized governments.",
+    "The capital is Nashville, though Knoxville, Kingston, and Murfreesboro have all served as state capitals in the past. Memphis has the largest population of any city in the state. Nashville's 13-county metropolitan area has been the state's largest since c. 1990. Chattanooga and Knoxville, both in the eastern part of the state near the Great Smoky Mountains, each has approximately one-third of the population of Memphis or Nashville. The city of Clarksville is a fifth significant population center, some 45 miles (72 km) northwest of Nashville. Murfreesboro is the sixth-largest city in Tennessee, consisting of some 108,755 residents.",
+    "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. Famous Bugattis include the Type 35 Grand Prix cars, the Type 41 \"Royale\", the Type 57 \"Atlantic\" and the Type 55 sports car.",
+    "Changes Two is an album by Charles Mingus. It was recorded on 27, 28, and 30 December 1974 at Atlantic Studios in New York City—the same sessions which resulted in Mingus' album \"Changes One\". Accordingly, Atlantic Records initially released the record. In 1993, it was issued on CD by Rhino Records.",
+    "Los Angeles (at 3.7 million people) and San Diego (at 1.3 million people), both in southern California, are the two largest cities in all of California (and two of the eight largest cities in the United States). In southern California there are also twelve cities with more than 200,000 residents and 34 cities over 100,000 in population. Many of southern California's most developed cities lie along or in close proximity to the coast, with the exception of San Bernardino and Riverside.",
+    "Hagerty Insurance Agency, styled just Hagerty, is an insurance company specializing in classic car insurance based in Traverse City, Michigan, in the United States. The company is the leading insurance agency for collector vehicles in the world and host to the largest network of collector car owners. They have also been recognized as \"largest insurance agency for collector cars in the United States.\"",
+    "Ottawa (/ ˈɒtəwə / (listen), / - wɑː /; French pronunciation: ​ (ɔtawa)) is the capital city of Canada. It stands on the south bank of the Ottawa River in the eastern portion of southern Ontario. Ottawa borders Gatineau, Quebec; the two form the core of the Ottawa -- Gatineau census metropolitan area (CMA) and the National Capital Region (NCR). As of 2016, Ottawa had a city population of 964,743 and a metropolitan population of 1,323,783 making it the fourth - largest city and the fifth - largest CMA in Canada.",
+    "Auto racing is also popular in the area. The Richmond International Raceway (RIR) has hosted NASCAR Sprint Cup races since 1953, as well as the Capital City 400 from 1962 − 1980. RIR also hosted IndyCar's Suntrust Indy Challenge from 2001 − 2009. Another track, Southside Speedway, has operated since 1959 and sits just southwest of Richmond in Chesterfield County. This .333-mile (0.536 km) oval short-track has become known as the \"Toughest Track in the South\" and \"The Action Track\", and features weekly stock car racing on Friday nights. Southside Speedway has acted as the breeding grounds for many past NASCAR legends including Richard Petty, Bobby Allison and Darrell Waltrip, and claims to be the home track of NASCAR superstar Denny Hamlin.",
+    "Savannah (/ səˈvænə /) is the oldest city in the U.S. state of Georgia and is the county seat of Chatham County. Established in 1733 on the Savannah River, the city of Savannah became the British colonial capital of the Province of Georgia and later the first state capital of Georgia. A strategic port city in the American Revolution and during the American Civil War, Savannah is today an industrial center and an important Atlantic seaport. It is Georgia's fifth - largest city and third - largest metropolitan area.",
+    "Jersey City is the second-most - populous city in the U.S. state of New Jersey, after Newark. It is the seat of Hudson County as well as the county's largest city. As of 2016, the Census Bureau's Population Estimates Program calculated that Jersey City's population was 264,152, with the largest population increase of any municipality in New Jersey since 2010, an increase of about 6.7% from the 2010 United States Census, when the city's population was at 247,597, ranking the city the 77th - largest in the nation."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCharles Mingus was born in Nogales, Arizona.\nArizona's capital and largest city is Phoenix.\nPhoenix is the largest city in Arizona and the state capital.\nThe Indy car race in Phoenix is known as the Desert Diamond West Valley Phoenix Raceway.\nThe race was revived by the Verizon IndyCar Series in 2016 and held under the lights.\nThe winner of the 2016 Verizon IndyCar Series race at Phoenix was Will Power.\nWill Power won the Indy car race in the largest city and capitol of the state where the Changes Two performer is from.\n<answer> Will Power",
+  "predicted_answer": "Will Power",
+  "claims": [
+    "Charles Mingus was born in Nogales, Arizona",
+    "Arizona's capital and largest city is Phoenix",
+    "Phoenix is the largest city in Arizona and the state capital",
+    "The Indy car race in Phoenix is known as the Desert Diamond West Valley Phoenix Raceway",
+    "The race was revived by the Verizon IndyCar Series in 2016 and held under the lights",
+    "The winner of the 2016 Verizon IndyCar Series race at Phoenix was Will Power",
+    "Will Power won the Indy car race in the largest city and capitol of the state where the Changes Two performer is from"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Charles Mingus was born in Nogales, Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Arizona's capital and largest city is Phoenix",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Phoenix is the largest city in Arizona and the state capital",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The Indy car race in Phoenix is known as the Desert Diamond West Valley Phoenix Raceway",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The race was revived by the Verizon IndyCar Series in 2016 and held under the lights",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The winner of the 2016 Verizon IndyCar Series race at Phoenix was Will Power",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "Will Power won the Indy car race in the largest city and capitol of the state where the Changes Two performer is from",
+      "claim_type": "DR"
+    }
+  ]
+}

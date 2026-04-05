@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__5787a201b7da5929cb75",
+  "sample_id": "5787a201b7da5929cb75",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is San Diego County the home of a Shamu?",
+  "gold_answer": "yes",
+  "context": [
+    "Shamu is the name of Sea World's mascot orca.",
+    "Every Sea World has a Shamu.",
+    "There is a Sea World location in San Diego."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nShamu is the name of Sea World's mascot orca.\nEvery Sea World location has a Shamu.\nThere is a Sea World location in San Diego.\nSan Diego is located in San Diego County.\nThe Sea World location in San Diego has a Shamu.\nSan Diego County is the home of a Shamu.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Shamu is the name of Sea World's mascot orca",
+    "Every Sea World location has a Shamu",
+    "There is a Sea World location in San Diego",
+    "San Diego is located in San Diego County",
+    "The Sea World location in San Diego has a Shamu",
+    "San Diego County is the home of a Shamu"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Shamu is the name of Sea World's mascot orca",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Every Sea World location has a Shamu",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "There is a Sea World location in San Diego",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "San Diego is located in San Diego County",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Sea World location in San Diego has a Shamu",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "San Diego County is the home of a Shamu",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

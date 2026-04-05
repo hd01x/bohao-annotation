@@ -1,0 +1,33 @@
+{
+  "uid": "wiki2mhqa__77dc576a0bdd11eba7f7acde48001122",
+  "sample_id": "77dc576a0bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the director of film He'S A Cockeyed Wonder born?",
+  "gold_answer": "London",
+  "context": [
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "Emmanuel Wonder Adewole, commonly referred to as Wonder( born 6 April 1990) is a Nigerian born, former professional footballer, who played as a attacking midfielder/ play maker and striker.",
+    "Peter Godfrey (16 October 1899 – 4 March 1970) was an English actor and film director. Founder of the experimental Gate Theatre Studio in 1925, he staged London's first expressionistic production in the following year. Eventually moving to Hollywood, he established a career as a film actor and director.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "He's a Cockeyed Wonder is a 1950 American comedy film directed by Peter Godfrey and written by Jack Henley. The film stars Mickey Rooney, Terry Moore, William Demarest, Charles Arnt, Ross Ford and Ned Glass. The film was released on December 2, 1950, by Columbia Pictures.",
+    "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980. He was also the Director General of Police in Punjab.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHe's a Cockeyed Wonder is a 1950 American comedy film directed by Peter Godfrey.\nPeter Godfrey was an English actor and film director.\nThe birthplace of Peter Godfrey is not explicitly stated in the context.\nThe nationality of Peter Godfrey is English, but this does not confirm his birthplace.\nThe context does not provide information about where Peter Godfrey was born.\nSo, the answer is Not specified.\n<answer> Not specified",
+  "claims": [
+    "He's a Cockeyed Wonder is a 1950 American comedy film directed by Peter Godfrey",
+    "Peter Godfrey was an English actor and film director",
+    "The birthplace of Peter Godfrey is not explicitly stated in the context",
+    "The nationality of Peter Godfrey is English, but this does not confirm his birthplace",
+    "The context does not provide information about where Peter Godfrey was born",
+    "So, the answer is Not specified"
+  ],
+  "predicted_answer": "Not specified"
+}

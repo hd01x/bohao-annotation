@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__57c03881088f11ebbd72ac1f6bf848b6",
+  "sample_id": "57c03881088f11ebbd72ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born first, The Girl In 419 or Dunked In The Deep?",
+  "gold_answer": "The Girl In 419",
+  "context": [
+    "Alexander Hall( January 11, 1894 – July 30, 1968) was an American film director and theatre actor.",
+    "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford.",
+    "Jules White( born Julius Weiss; 17 September 190030 April 1985) was a Hungarian- born American film director and producer best known for his short- subject comedies starring The Three Stooges.",
+    "The Girl in Number 29 is a 1920 American silent drama film directed by John Ford based on the novel\" The Girl in the Mirror\"( 1919) by Elizabeth Jordan. The film is presumed to be lost.",
+    "The Girl in the Sneakers is a 1999 Iranian drama film directed by Rasul Sadr Ameli.",
+    "The Girl in the Fog is a 2017 Italian psychological thriller film based on the novel of the same name by Donato Carrisi.",
+    "The Girl in 419 is a 1933 American pre-Code drama film directed by Alexander Hall and George Somnes and written by Allen Rivkin, Manuel Seff and P.J. Wolfson. The film stars James Dunn, Gloria Stuart, David Manners, William Harrigan, Shirley Grey and Jack La Rue. The film was released on May 26, 1933, by Paramount Pictures.",
+    "Dunked in the Deep is a 1949 short subject directed by Jules White starring American slapstick comedy team The Three Stooges( Moe Howard, Larry Fine and Shemp Howard). It is the 119th entry in the series released by Columbia Pictures starring the comedians, who released 190 shorts for the studio between 1934 and 1959.",
+    "The Girl in the Taxi is a 1937 British musical comedy film directed by André Berthomieu and starring Frances Day, Henri Garat and Lawrence Grossmith. It was based on the stage musical\" The Girl in the Taxi\".",
+    "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Girl in 419 was directed by Alexander Hall.\nAlexander Hall was born on January 11, 1894.\nDunked in the Deep was directed by Jules White.\nJules White was born on September 17, 1900.\n1894 is earlier than 1900.\nThe director born first is Alexander Hall.\nThe film with the director born first is The Girl in 419.\n<answer> The Girl in 419",
+  "predicted_answer": "The Girl in 419",
+  "claims": [
+    "The Girl in 419 was directed by Alexander Hall",
+    "Alexander Hall was born on January 11, 1894",
+    "Dunked in the Deep was directed by Jules White",
+    "Jules White was born on September 17, 1900",
+    "1894 is earlier than 1900",
+    "The director born first is Alexander Hall",
+    "The film with the director born first is The Girl in 419"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Girl in 419 was directed by Alexander Hall",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Alexander Hall was born on January 11, 1894",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Dunked in the Deep was directed by Jules White",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Jules White was born on September 17, 1900",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1894 is earlier than 1900",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director born first is Alexander Hall",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born first is The Girl in 419",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__243e3e1ef3fb7190ace3",
+  "sample_id": "243e3e1ef3fb7190ace3",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Rahul Dravid ever kick a field goal?",
+  "gold_answer": "no",
+  "context": [
+    "Rahul Dravid was a professional cricket player",
+    "Field goal kicks are part of American football"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRahul Dravid was a professional cricket player.\nCricket does not involve field goal kicks.\nField goal kicks are a feature of American football.\nRahul Dravid did not play American football.\nRahul Dravid never kicked a field goal.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Rahul Dravid was a professional cricket player",
+    "Cricket does not involve field goal kicks",
+    "Field goal kicks are a feature of American football",
+    "Rahul Dravid did not play American football",
+    "Rahul Dravid never kicked a field goal"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Rahul Dravid was a professional cricket player",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Cricket does not involve field goal kicks",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Field goal kicks are a feature of American football",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Rahul Dravid did not play American football",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Rahul Dravid never kicked a field goal",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "uid": "medhop__MH_dev_224",
+  "sample_id": "MH_dev_224",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00947\", \"DB01686\", \"DB04338\", \"DB04908\", \"DB04956\", \"DB05005\", \"DB05187\", \"DB05243\", and \"DB05341\" interacts with DB01406?",
+  "gold_answer": "DB04908",
+  "context": [
+    "5- Q13049 receptor induces P29323 phosphorylation and proliferation through ADAM-17 tumor necrosis factor-alpha-converting enzyme ( P78536 ) activation and heparin-bound epidermal growth factor-like growth factor ( HB- P01133 ) shedding in mesangial cells . In this study , we present multiple lines of evidence to support a critical role for heparin-bound P01133 ( epidermal growth factor ) -like growth factor ( HB- P01133 ) and tumor necrosis factor-alpha-converting enzyme ( P78536 ) ( P78536 ) in the transactivation of P01133 receptor ( P00533 ) , P29323 phosphorylation , and cellular proliferation induced by the 5-HT(2A) receptor in renal mesangial cells . 5-hydroxy-tryptamine ( 5-HT ) resulted in rapid activation of P78536 , HB- P01133 shedding , P00533 activation , P29323 phosphorylation , and longer term increases in DNA content in mesangial cells . P29323 phosphorylation was attenuated by 1 ) neutralizing P00533 antibodies and the P00533 kinase inhibitor , AG1478 , 2 ) neutralizing HB- P01133 , but not amphiregulin , antibodies , heparin , or CM197 , and 3 ) pharmacological inhibitors of matrix-degrading metalloproteinases or P78536 small interfering RNA . Exogenously administered HB- P01133 stimulated P29323 phosphorylation . Additionally , P78536 was co-immunoprecipitated with HB- P01133 . Small interfering RNA against P78536 also blocked 5-HT-induced increases in P29323 phosphorylation , HB- P01133 shedding , and DNA content . In aggregate , this work supports a pathway map that can be depicted as follows : 5-HT --> 5-HT(2A) receptor --> P78536 --> HB- P01133 shedding --> P00533 --> P29323 --> increased DNA content . To our knowledge , this is the first time that P78536 has been implicated in 5-HT-induced P00533 transactivation or in proliferation induced by a G protein-coupled receptor in native cells in culture .",
+    "Electrophysiological examination of the effects of sustained flibanserin administration on serotonin receptors in rat brain . P08908 receptor agonists have proven to be effective antidepressant medications , however they suffer from a significant therapeutic lag before depressive symptoms abate . DB04908 is a P08908 receptor agonist and 5- Q13049 receptor antagonist developed to possibly induce a more rapid onset of antidepressant action through its preferential postsynaptic P08908 receptor agonism . DB04908 antagonized the effect of microiontophoretically-applied DOI in the medial prefrontal cortex ( mPFC ) following 2 days of administration , indicating antagonism of postsynaptic 5- Q13049 receptors . This reduction in the effect of locally-applied DOI was no longer present following 7-day flibanserin administration . Two-day flibanserin administration only marginally reduced the firing activity of dorsal raphe ( DRN ) 5-HT neurons . Following 7 days of administration , 5-HT neuronal firing activity had returned to normal and the somatodendritic P08908 autoreceptors were desensitized . The responsiveness of postsynaptic P08908 receptors located on P07451 hippocampus pyramidal neurons and mPFC neurons , examined using microiontophoretically-applied 5-HT and gepirone , was unchanged following a 7-day flibanserin treatment . As demonstrated by the ability of the P08908 receptor antagonist WAY 100635 to selectively increase the firing of hippocampal neurons in 2- and 7-day treated rats , flibanserin enhanced the tonic activation of postsynaptic P08908 receptors in this brain region . The results suggest that flibanserin could be a therapeutically useful compound putatively endowed with a more rapid onset of antidepressant action .",
+    "Circulating endocannabinoids in insulin sensitive vs. insulin resistant obese postmenopausal women . A MONET group study . OBJECTIVE : To measure the circulating levels of endocannabinoids and related molecules at fasting , after acute hyperinsulinemia and after weight loss in insulin sensitive vs. insulin resistant obese postmenopausal women . DESIGN AND METHODS : The sample consisted of 30 obese postmenopausal women ( age : 58.9 ± 5.2 yrs ; BMI : 32.9 ± 3.6 kg/m(2) ) . Subjects underwent a 3-hour hyperinsulinaemic-euglycaemic clamp ( O14777 ) ( glucose disposal rate ( M-value ) : 10.7 ± 3.3 mg min(-1) kg(-1) FFM ) and 6-month weight loss intervention . Participants were classified as insulin sensitive obese ( ISO ) or insulin resistant obese ( IRO ) based on a predefined cutoff . Plasma levels of the endocannabinoids , anandamide ( AEA ) , 2-arachidonoylglycerol ( 2-AG ) , and of the AEA-related compounds , palmitoylethanolamide ( PEA ) and oleoylethanolamide ( OEA ) , were measured by liquid chromatography-mass spectrometry . RESULTS : IRO presented higher levels of 2-AG ( P < 0.05 ) independently of the O14777 and weight loss , whereas the O14777 had an independent inhibitory effect on AEA , PEA , and OEA levels ( P < 0.05 ) in both groups . Furthermore , there was an independent stimulatory effect of weight loss only on PEA levels in both groups ( P < 0.05 ) . CONCLUSIONS : This study is the first to show that higher circulating levels of the endocannabinoid 2-AG are found in IRO compared to ISO postmenopausal women , and that weight loss is associated with an increase in PEA , a Q07869 -α ligand .",
+    "P00533 cooperates with glucose transporter P13866 to enable chromatin remodeling in response to ionizing radiation . BACKGROUND AND PURPOSE : P00533 and the sodium-dependent glucose transporter , P13866 , are found in complex after radiation treatment . The aim of this study was to elucidate the role of P00533 in glucose uptake and chromatin remodeling . MATERIAL AND METHODS : DB09341 accumulation was quantified with help of (3)H-glucose . Involvement of SGLT was detected by a specific inhibitor . Role of P00533 was proved by P00533 overexpression and siRNA driven knockdown . Functional endpoints were intracellular DB00171 levels , protein expression , residual DNA-damage and colony formation . RESULTS : P00533 / P13866 interactions in response to ionizing radiation were associated with increased glucose uptake . Nevertheless , tumor cells exhibit DB00171 depletion following irradiation . Recovery from radiation-induced DB00171 crisis was P00533 /SGLT-dependent and associated with increased cell survival and improved DNA-repair . The blockage of either P00533 or SGLT inhibited DB00171 level recovery and histone H3 modifications crucial for both chromatin remodeling and DNA repair in response to irradiation . Inhibition of the acetyltransferase Q92993 , which is essential for histone H3- P35527 acetylation and Q13315 activation , prevented energy crisis and chromatin remodeling . CONCLUSIONS : Radiation-associated interactions between P13866 and P00533 resulted in increased glucose uptake , which counteracts the DB00171 crisis in tumor cells due to chromatin remodeling . The blockage of recovery from DB00171 crisis led to radio-sensitization in tumor cells .",
+    "AVE3085 protects coronary endothelium from the impairment of asymmetric dimethylarginine by activation and recoupling of P29474 . PURPOSE : DB01686 ( DB01686 ) is an endogenous inhibitor of P29474 and it is recognized as a risk factor for endothelial dysfunction in cardiovascular diseases . We investigated the effect of AVE3085 , a newly developed transcription enhancer of P29474 , on DB01686 -induced endothelial dysfunction in coronary arteries with underlying mechanisms explored . METHODS : Porcine coronary small arteries ( diameter 600-800 μm ) were studied in a myograph for endothelium-dependent relaxation to bradykinin and endothelium-independent relaxation to sodium nitroprusside . Protein expressions of P29474 and phosphorylated- P29474 ( p- P29474 (Ser1177) and p- P29474 (Thr495) ) , and nitrotyrosine formation were determined by Western blot . NO release was directly measured with a NO microsensor . Productions of O(2) ( .- ) and peroxynitrite ( ONOO(-) ) were determined by lucigenin- and luminol- enhanced chemiluminescence respectively . RESULTS : Exposure to DB01686 significantly decreased the bradykinin-induced vasorelaxation and reduced the protein expression of p- P29474 (Ser1177) whereas increased the expression of p- P29474 (Thr495) and nitrotyrosine . Pre-incubation with AVE3085 restored the bradykinin-induced relaxation , reversed the decrease of p- P29474 (Ser1177) , and lowered the level of p- P29474 (Thr495) and nitrotyrosine . NO release in response to bradykinin was significantly reduced by DB01686 and such reduction was restored by AVE3085 . AVE3085 also prevented the elevation of O ( 2 ) ( .- ) and ONOO(-) levels in coronary arteries exposed to DB01686 . CONCLUSIONS : AVE3085 prevents DB01686 -induced endothelial dysfunction in coronary arteries . The protective effect of AVE3085 may be attributed to increased NO production resulting from enhanced P29474 activation , and decreased oxidative stress that involves inhibition of O ( 2 ) ( .- ) generation by P29474 recoupling . The present study suggested the therapeutic potential of AVE3085 in endothelial dysfunction in cardiovascular disorders .",
+    "[ Cell cycle analysis of endometrial cancer cells in vitro treated with growth factor and steroid hormone ] . The aim of this study was to overtake the mechanism of the control system in endometrial cancer cell line in vitro . Ishikawa cell ( IK cell ) and O14777 -1 cell ( O14777 cell ) derived from endometrial cancers were cultured with serum free medium ( SFM-101 ) . IK cell possessed P03372 ( ER ) , P06401 ( PR ) , Epidermal growth factor ( P01133 ) and its receptor ( P00533 ) . O14777 cell had PR , P01133 , and P00533 , however O14777 cell did not keep ER . P01133 stimulated the growth of IK cell , but the growth of O14777 cell was not stimulated by P01133 . S phase cells were increased by P01133 in IK cell , but were not increased by P01133 in O14777 cell . The growth of IK cell was stimulated significantly by P01133 and Estradiol-17 beta ( E2 ) + P01133 than control . However , E2+ P01133 did not stimulate the growth of IK cell than P01133 significantly . DB01406 ( D ) and D+ P01133 inhibited the growth of IK cell significantly than control . S phase cells were decreased by the treatment of D and D+ P01133 . From our results , P01133 stimulated the growth of ER positive endometrial cancer cell , but P01133 did not stimulate ER negative endometrial cancer cell . E2+ P01133 and P01133 stimulated the growth of IK cell as a same . However , D inhibited the growth of IK cell that was stimulated by P01133 .",
+    "PP2Cdelta ( Ppm1d , O15297 ) , an endogenous inhibitor of p38 MAPK , is regulated along with Trp53 and Cdkn2a following p38 MAPK inhibition during mouse preimplantation development . Preimplantation embryos utilize mitogen-activated protein kinase signaling ( MAPK ) pathways to relay signals from the external environment to prepare appropriate responses and adaptations to a changing milieu . It is therefore important to investigate how MAPK pathways are regulated during preimplantation development . This study was conducted to investigate whether PP2Cdelta ( Ppm1d , O15297 ) is expressed during mouse preimplantation development and to determine the influences of p38 MAPK inhibition on expression of Trp53 ( p53 ) , Ppm1d , ( O15297 ) , and Cdkn2a ( p16 ) during mouse preimplantation development . Our results indicate that Trp53 , Ppm1d , and Cdkn2a mRNAs and TRP53 and PP2Cdelta proteins are expressed throughout mouse preimplantation development . Treatment of 2-cell embryos with DB04338 ( potent inhibitor of p38 MAPK alpha/beta/ Q16539 /11 ) significantly increased Trp53 , Ppm1d and Cdkn2a and Mapk14 mRNA levels at 12 and 24 hr . Treatment of 8-cell embryos with DB04338 for 12 hr increased Trp53 , Ppm1d , and Cdkn2a mRNA levels , but not Mapk14 mRNA levels . Treatment of 8-cell embryos for 24 hr increased Trp53 , and Ppm1d mRNA levels , but decreased Cdkn2a and Mapk14 mRNA levels . Therefore , blockade of p38 MAPK activity is associated with embryo stage specific influences on Trp53 , Ppm1d , Cdkn2a , and Mapk14 expression during mouse preimplantation development . These results define downstream targets of p38 MAPK during preimplantation development and indicate that the p38 MAPK pathway regulates Trp53 , Ppm1d , and Cdkn2a expression . This study increases our understanding of the mechanisms controlling preimplantation development and of the interactions between preimplantation embryos and their culture environments .",
+    "P03372 β ( ERβ1 ) transactivation is differentially modulated by the transcriptional coregulator Q92993 in a cis-acting element-dependent manner . P03372 ( ER ) β1 and ERα have overlapping and distinct functions despite their common use of estradiol as the physiological ligand . These attributes are explained in part by their differential utilization of coregulators and ligands . Although Q92993 has been shown to interact with both receptors , its regulatory role in ERβ1 transactivation has not been defined . In this study , we found that Q92993 enhances transactivation of ERβ1 at the AP-1 site but suppresses its transcriptional activity at the estrogen-response element ( ERE ) site in an estradiol-independent manner . However , different estrogenic compounds can modify the Q92993 action . The corepressor activity of Q92993 at the ERE site is abolished by diarylpropionitrile , genistein , equol , and bisphenol A , whereas its coactivation at the AP-1 site is augmented by fulvestrant ( DB00947 ) . GRIP1 is an important tethering mediator for ERs at the AP-1 site . We found that coexpression of GRIP1 synergizes the action of Q92993 . Although Q92993 is a known acetyltransferase , it is unable to acetylate ERβ1 , and its coregulatory functions are independent of its acetylation activity . In addition , we showed the co-occupancy of ERβ1 and Q92993 at ERE and AP-1 sites of ERβ1 target genes . Q92993 differentially regulates the endogenous expression of the target genes by modulating the binding of ERβ1 to the cis-regulatory regions . Thus , we have identified Q92993 as the first dual-function coregulator of ERβ1 .",
+    "P05362 -independent lymphocyte transmigration across high endothelium : differential up-regulation by interferon gamma , tumor necrosis factor-alpha and interleukin 1 beta . The adhesion of lymphocytes to cytokine-treated high endothelium was studied using cultured high endothelial cells ( O14777 ) . Pretreatment of the O14777 layer with a variety of cytokines caused up-regulation of lymphocyte adhesion with the effects ordered interferon gamma ( P01579 ) greater than tumor necrosis factor-alpha ( P01375 ) greater than or equal to interleukin 1 beta ( IL 1 beta ) . Increased lymphocyte adhesion was found to be independent of P05362 as expression by O14777 was not increased by cytokines and antibodies against P05362 did not block adhesion . The peptide CS1 and anti-beta 1 integrin subunit antibodies , however , caused partial inhibition of lymphocyte adhesion thus indicating a role for fibronectin on O14777 and alpha 4 beta 1 on lymphocytes . Study of the kinetics of lymphocyte adhesion showed that the effects of P01579 and P01375 were persistent and remained detectable 2.5 h after removal of the cytokines whereas the effects of IL 1 beta were transient and were not sustained beyond 1 h . All of the cytokines used caused transient increases in the number of surface-bound lymphocytes with P01579 greater than P01375 greater than or equal to IL 1 beta , however , the most dramatic effect was on the transmigration of lymphocytes across the O14777 . Both P01579 and P01375 caused sustained increased transmigration with P01579 having the greater effect . IL 1 beta had little effect on transmigration . This model demonstrates that the binding and transmigration of lymphocytes across O14777 can be differentially regulated by the actions of individual cytokines . These results support the concept that locally produced cytokines regulate O14777 function within the lymph node .",
+    "Emerging small molecule drugs . Dyslipidaemia is a major risk factor for cardiovascular diseases . Pharmacological lowering of LDL-C levels using statins reduces cardiovascular risk . However , a substantial residual risk persists especially in patients with type 2 diabetes mellitus . Because of the inverse association observed in epidemiological studies of HDL-C with the risk for cardiovascular diseases , novel therapeutic strategies to raise HDL-C levels or improve HDL functionality are developed as complementary therapy for cardiovascular diseases . However , until now most therapies targeting HDL-C levels failed in clinical trials because of side effects or absence of clinical benefits . This chapter will highlight the emerging small molecules currently developed and tested in clinical trials to pharmacologically modulate HDL-C and functionality including new P11597 inhibitors ( anacetrapib , evacetrapib ) , novel Q07869 agonists ( K-877 , CER-002 , P15924 -8658 , INT131 and DB05187 ) , LXR agonists ( ATI-111 , LXR-623 , XL-652 ) and RVX-208 .",
+    "P00533 inhibitors exacerbate differentiation and cell cycle arrest induced by retinoic acid and vitamin D3 in acute myeloid leukemia cells . By means of an unbiased , automated fluorescence microscopy-based screen , we identified the epidermal growth factor receptor ( P00533 ) inhibitors erlotinib and gefitinib as potent enhancers of the differentiation of HL-60 acute myeloid leukemia ( AML ) cells exposed to suboptimal concentrations of vitamin A ( all-trans retinoic acid , DB00755 ) or vitamin D ( 1α, DB00146 , VD ) . Erlotinib and gefitinib alone did not promote differentiation , yet stimulated the acquisition of morphological and biochemical maturation markers ( including the expression of CD11b and P08571 as well as increased NADPH oxidase activity ) when combined with either DB00755 or VD . Moreover , the combination of erlotinib and DB00755 or VD synergistically induced all the processes that are normally linked to terminal hematopoietic differentiation , namely , a delayed proliferation arrest in the G0/ P55008 phase of the cell cycle , cellular senescence , and apoptosis . Erlotinib potently inhibited the (auto)phosphorylation of mitogen-activated protein kinase 14 ( Q16539 , best known as p38(MAPK) ) and P12931 family kinases ( SFKs ) . If combined with the administration of DB00755 or VD , the inhibition of p38(MAPK) or SFKs with specific pharmacological agents mimicked the pro-differentiation activity of erlotinib . These data were obtained with 2 distinct AML cell lines ( HL-60 and MOLM-13 cells ) and could be confirmed on primary leukemic blasts isolated from the circulation of AML patients . Altogether , these findings point to a new regimen for the treatment of AML , in which naturally occurring pro-differentiation agents ( DB00755 or VD ) may be combined with P00533 inhibitors .",
+    "Bradykinin inhibits high glucose- and growth factor-induced collagen synthesis in mesangial cells through the B2-kinin receptor . Mesangial matrix expansion is an early lesion leading to glomeruloclerosis and chronic renal diseases . A beneficial effect is achieved with angiotensin I-converting enzyme inhibitors ( ACEI ) , which also favor bradykinin ( BK ) B2 receptor ( P30411 ) activation . To define the underlying mechanism , we hypothesized that P30411 activation could be a negative regulator of collagen synthesis in mesangial cells ( MC ) . We investigated the effect of BK on collagen synthesis and signaling in MC . Inflammation was evaluated by intercellular adhesion molecule-1 ( P05362 ) expression . BK inhibited collagen I and IV synthesis stimulated by high glucose , epithelial growth factor ( P01133 ) , and transforming growth factor-β ( TGF-β ) but did not alter P05362 . Inhibition of collagen synthesis was P30411 but not P46663 mediated . PKC or phosphatidylinositol 3-kinase ( PI3K ) inhibitors mimicked the BK effect . P30411 activation inhibited TGF-β- and P01133 -induced Erk1/2 , Q15796 /3 , Akt S473 , and P00533 phosphorylation . A phosphatase inhibitor prevented BK effects . The in vivo impact of P30411 on mesangial matrix expansion was assessed in streptozotocin-diabetic rodents . Deletion of P30411 increased mesangial matrix expansion and albuminuria in diabetic mice . In diabetic rats , matrix expansion and albuminuria were prevented by ACEI but not by ACEI and P30411 antagonist cotreatment . Consistently , the lowered BK content of diabetic glomeruli was restored by ACEI . In conclusion , deficient P30411 activation aggravated mesangial matrix expansion in diabetic rodents whereas P30411 activation reduced MC collagen synthesis by a mechanism targeting Erk1/2 and Akt , common pathways activated by P01133 and TGF-β . Taken together , the data support the hypothesis of an antifibrosing effect of P30411 activation .",
+    "Development of drugs to target interactions between leukocytes and endothelial cells and treatment algorithms for inflammatory bowel diseases . Increased understanding of the pathogenesis of inflammatory bowel diseases ( IBDs ) has led to new therapeutic strategies . One of these is to target the molecules that regulate interactions between leukocytes and endothelial cells at sites of inflammation ( mainly leukocyte integrins and endothelial cell adhesion molecules of the immunoglobulin superfamily ) . These molecules have been validated as therapeutic targets for Q9UKU7 ; several have shown efficacy , and 2 have been approved by the Food and Drug Administration for treatment of Q9UKU7 . DB00108 , the first anti-integrin antibody tested for treatment of Q9UKU7 , blocks the α4 subunit . Although it is effective , its clinical use has been limited by its association with risk of progressive multifocal leukoencephalopathy . Other , allegedly more selective drugs that affect leukocyte recruitment in the gastrointestinal tract have been developed or are under investigation and could increase safety . These include vedolizumab and Q99217 181 ( antibodies against α4β7 ) , etrolizumab ( anti-β7 ) , and PF-00547659 ( anti-mucosal vascular addressin cell adhesion molecule 1 ) . Other agents have been developed to block α4 ( the small molecule AJM300 ) , P51686 ( the small molecule DB05005 -B ) , and P02778 ( the antibody eldelumab ) . We review the scientific rationale for inhibiting interactions between leukocytes and endothelial cells to reduce intestinal inflammation and analyze the clinical studies that have been performed to test these new molecules , with particular attention to safety . We propose an evidence-based clinical positioning of this class of drugs .",
+    "Spray drying tenofovir loaded mucoadhesive and pH-sensitive microspheres intended for HIV prevention . PURPOSE : To develop spray dried mucoadhesive and pH-sensitive microspheres ( MS ) based on polymethacrylate salt intended for vaginal delivery of tenofovir ( a model HIV microbicide ) and assess their critical biological responses . METHODS : The formulation variables and process parameters are screened and optimized using a 2(4-1) fractional factorial design . The MS are characterized for size , zeta potential , yield , encapsulation efficiency , Carr 's index , drug loading , in vitro release , cytotoxicity , inflammatory responses and mucoadhesion . RESULTS : The optimal MS formulation has an average size of 4.73μm , zeta potential of -26.3mV , 68.9 % yield , encapsulation efficiency of 88.7 % , Carr 's index of 28.3 and drug loading of 2 % ( w/w ) . The MS formulation release 91.7 % of its payload in the presence of simulated human semen . At a concentration of 1mg/ml , the MS are noncytotoxic to vaginal endocervical/epithelial cells and Lactobacillus crispatus when compared to control media . There is also no statistically significant level of inflammatory cytokine ( IL1-α , IL-1β , P05231 , P10145 , and P02778 ) release triggered by these MS . Their percent mucoadhesion is 2-fold higher than that of 1 % O14777 gel formulation . CONCLUSION : These data suggest the promise of using such MS as an alternative controlled microbicide delivery template by intravaginal route for HIV prevention .",
+    "An evidence based therapeutic approach to hereditary and acquired angioedema . PURPOSE OF REVIEW : Hereditary angioedema ( HAE ) due to P05155 ( DB05341 ) deficiency ( HAE- DB05341 ) , HAE with normal DB05341 , and acquired angioedema due to DB05341 deficiency are rare but important diseases that can be associated with significant morbidity and mortality . Research into the pathogenesis of angioedema has expanded greatly and has led to new clinical trials with novel therapeutic agents and strategies . RECENT FINDINGS : Strategies for managing HAE- DB05341 are aimed at treating acute attacks or preventing attacks through the use of prophylactic treatment . Agents available in Europe for treating acute attacks include plasma-derived DB05341 concentrates , a bradykinin B2 receptor ( P30411 ) antagonist , and a recombinant human DB05341 . In the USA , a plasma-derived DB05341 concentrate , a bradykinin P30411 antagonist , and a plasma kallikrein inhibitor have been approved for the treatment of acute HAE- DB05341 attacks . DB05341 concentrates and attenuated androgens are used for short-term prophylactic treatment . Long-term prophylactic treatments include attenuated androgens , a plasma-derived DB05341 concentrate , and antifibrinolytics . Plasma-derived DB05341 and a bradykinin P30411 antagonist are approved for self-administration at home . SUMMARY : The number of management options for HAE- DB05341 and similar conditions has increased considerably within the last few years , thus helping to alleviate the burden of these rare diseases .",
+    "Development of a novel , fully-automated genotyping system : principle and applications . Genetic testing prior to treatment , pharmacogenetic analysis , is key to realizing personalized medicine which is a topic that has attracted much attention recently . Through the optimization of therapy selection and dosage , a reduction in side effects is expected . Genetic testing has been conducted as a type of pharmacogenetic analysis in recent years , but it faces challenges in terms of cost effectiveness and its complicated procedures . Here we report on the development of a novel platform for genetic testing , the i-densy™ , with the use of quenching probe system ( QP-system ) as principle of mutant detection . The i-densy™ automatically performs pre-treatment , PCR and detection to provide the test result from whole blood and extracted DNA within approximately 90 and 60 min , respectively . Integration of all steps into a single platform greatly reduces test time and complicated procedures . An even higher-precision genetic analysis has been achieved through the development of novel and highly-specific detection methods . The applications of items measured using the i-densy™ are diverse , from single nucleotide polymorphism ( SNP ) , such as P33261 and P22309 , to somatic mutations associated with cancer , such as P00533 , P01116 and O60674 . The i-densy™ is a useful tool for optimization of anticancer drug therapy and can contribute to personalized medicine .",
+    "A multicenter , open-label , prospective , randomized , dose-ranging pharmacokinetic study of the anti- P01375 antibody afelimomab in patients with sepsis syndrome . OBJECTIVE : To investigate the pharmacokinetics and safety of afelimomab , a murine antibody fragment against human tumor necrosis factor ( P01375 ) -alpha in patients with sepsis . DESIGN : Multicenter , randomized , open-label , placebo-controlled phase I/II clinical trial . SETTING : Intensive care units of six academic medical centers in the United States . PATIENTS : Forty-eight patients with a clinical diagnosis of sepsis who received standard supportive care and antimicrobial therapy . INTERVENTIONS : Patients received 0.3 , 1.0 , or 3.0 mg/kg afelimomab or placebo intravenously over 20 min . Three patients in each dose group received single doses ; the remaining nine patients in each group received multiple ( nine ) doses at 8-h intervals over 72 h . MEASUREMENTS AND MAIN RESULTS : DB04956 appeared safe and well tolerated . Single- and multiple-dose kinetics were predictable and dose related . The elimination half-life was 44.7 h . DB04956 treatment resulted in increased serum concentrations of P01375 ( includes P01375 -antibody complexes ) and decreased serum interleukin-6 concentrations , whereas no discernible trends were observed in placebo-treated patients . There was no significant treatment effect on 28-day mortality as was expected given the small number of patients . However , overall mortality was significantly ( p = 0.001 ) associated with baseline interleukin-6 concentration . All patients experienced adverse events , but the vast majority were considered unrelated to the study drug and demonstrated no apparent relationship to afelimomab dose . Although 41 % of patients developed human anti-murine antibodies , there were no clinical sequelae . CONCLUSIONS : Multidose therapy with afelimomab was safe , well tolerated , and had predictable linear kinetics . A large randomized trial comparing afelimomab to placebo in patients with well defined sepsis has recently been completed .",
+    "SAR and in vivo evaluation of 4-aryl-2-aminoalkylpyrimidines as potent and selective O60674 ( O60674 ) inhibitors . We report the discovery of a series of 4-aryl-2-aminoalkylpyrimidine derivatives as potent and selective O60674 inhibitors . High throughput screening of our in-house compound library led to the identification of hit 1 , from which optimization resulted in the discovery of highly potent and selective O60674 inhibitors . Advanced lead 10d demonstrated a significant dose-dependent pharmacodynamic and antitumor effect in a mouse xenograft model . Based upon the desirable profile of 10d ( DB05243 ) it was advanced into clinical trials .",
+    "Anti-oxidant and anti-inflammatory mechanisms of amlodipine action to improve endothelial cell dysfunction induced by irreversibly glycated LDL . Amlodipine , alone or in combination with other drugs , was successfully used to treat hypertension . Our aim was to evaluate the potential of amlodipine ( Am ) to restore endothelial dysfunction induced by irreversibly glycated low density lipoproteins ( P51606 -LDL ) , an in vitro model mimicking the diabetic condition . Human endothelial cells ( O14777 ) from EA.hy926 line were incubated with P51606 -LDL in the presence/absence of Am and the oxidative and inflammatory status of the cells was evaluated along with the p38 MAPK and NF-κB signalling pathways . The cellular NADPH activity , 4-hydroxynonenal ( 4-HNE ) and 3-nitrotyrosine levels in the culture medium and the adhesion of human monocytes to O14777 were measured by chemiluminescence , UHPLC , Western Blot and spectrofluorimetric techniques . The gene expression of NADPH subunits ( O75935 (phox) , Q9NPH5 ) , P29474 and inflammatory molecules ( P13500 , P19320 ) were determined by Real Time PCR , while the protein expression of O75935 (phox) , P13500 , P35228 , phospho-p38 MAPK and phospho-p65 NF-κB subunit were measured by Western Blot . Results showed that in O14777 incubated with P51606 -LDL , Am led to : ( i ) decrease of the oxidative stress : by reducing O75935 (phox) , Q9NPH5 , P35228 expression , NADPH oxidase activity , 4-HNE and 3-nitrotyrosine levels ; ( ii ) decrease of the inflammatory stress : by the reduction of P13500 and P19320 expression , as well as of the number of monocytes adhered to O14777 ; ( iii ) inhibition of ROS-sensitive signalling pathways : by decreasing phosphorylation of p38 MAPK and p65 NF-κB subunits . In conclusion , the reported data demonstrate that amlodipine may improve endothelial dysfunction in diabetes through anti-oxidant and anti-inflammatory mechanisms ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB01406 (D) inhibits the growth of Ishikawa (IK) cells that was stimulated by P01133.\nP01133 stimulates the growth of ER-positive endometrial cancer cells like IK cells.\nDB01406 and P01133 have opposing effects on cell growth in IK cells.\nDB01406 inhibits the growth-promoting effect of P01133.\nDB01406 is a compound that antagonizes the proliferative signal from P01133.\nDB01406 is not directly stated to interact with any of the listed compounds.\nDB00947 (fulvestrant) is a compound that modulates the action of Q92993 at the AP-1 site.\nDB01686 is an endogenous inhibitor of P29474 and is associated with endothelial dysfunction.\nDB04338 is a p38 MAPK inhibitor used in mouse preimplantation development studies.\nDB04908 is a P08908 receptor agonist and 5-HT2A receptor antagonist.\nDB04956 is afelimomab, a murine antibody fragment against tumor necrosis factor-alpha (P01375).\nDB05005 is a small molecule inhibitor of P51686.\nDB05187 is a novel Q07869 agonist.\nDB05243 is the lead compound 10d from a series of O60674 inhibitors.\nDB05341 is a deficiency associated with hereditary angioedema.\nNone of the listed compounds are stated to interact with DB01406.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB01406 (D) inhibits the growth of Ishikawa (IK) cells that was stimulated by P01133",
+    "P01133 stimulates the growth of ER-positive endometrial cancer cells like IK cells",
+    "DB01406 and P01133 have opposing effects on cell growth in IK cells",
+    "DB01406 inhibits the growth-promoting effect of P01133",
+    "DB01406 is a compound that antagonizes the proliferative signal from P01133",
+    "DB01406 is not directly stated to interact with any of the listed compounds",
+    "DB00947 (fulvestrant) is a compound that modulates the action of Q92993 at the AP-1 site",
+    "DB01686 is an endogenous inhibitor of P29474 and is associated with endothelial dysfunction",
+    "DB04338 is a p38 MAPK inhibitor used in mouse preimplantation development studies",
+    "DB04908 is a P08908 receptor agonist and 5-HT2A receptor antagonist",
+    "DB04956 is afelimomab, a murine antibody fragment against tumor necrosis factor-alpha (P01375)",
+    "DB05005 is a small molecule inhibitor of P51686",
+    "DB05187 is a novel Q07869 agonist",
+    "DB05243 is the lead compound 10d from a series of O60674 inhibitors",
+    "DB05341 is a deficiency associated with hereditary angioedema",
+    "None of the listed compounds are stated to interact with DB01406"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB01406 (D) inhibits the growth of Ishikawa (IK) cells that was stimulated by P01133",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "P01133 stimulates the growth of ER-positive endometrial cancer cells like IK cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB01406 and P01133 have opposing effects on cell growth in IK cells",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB01406 inhibits the growth-promoting effect of P01133",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB01406 is a compound that antagonizes the proliferative signal from P01133",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB01406 is not directly stated to interact with any of the listed compounds",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00947 (fulvestrant) is a compound that modulates the action of Q92993 at the AP-1 site",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01686 is an endogenous inhibitor of P29474 and is associated with endothelial dysfunction",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB04338 is a p38 MAPK inhibitor used in mouse preimplantation development studies",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB04908 is a P08908 receptor agonist and 5-HT2A receptor antagonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB04956 is afelimomab, a murine antibody fragment against tumor necrosis factor-alpha (P01375)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB05005 is a small molecule inhibitor of P51686",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB05187 is a novel Q07869 agonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB05243 is the lead compound 10d from a series of O60674 inhibitors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB05341 is a deficiency associated with hereditary angioedema",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "None of the listed compounds are stated to interact with DB01406",
+      "claim_type": "FC",
+      "votes": {
+        "DR": 1,
+        "FC": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

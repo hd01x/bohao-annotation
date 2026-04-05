@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__79535eed1af03ca748c5",
+  "sample_id": "79535eed1af03ca748c5",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would an Evander Holyfield 2020 boxing return set age record?",
+  "gold_answer": "no",
+  "context": [
+    "Evander Holyfield will turn 58 years old at the end of 2020.",
+    "Steve Ward holds the world's oldest boxer title at age 59."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEvander Holyfield turned 58 years old at the end of 2020.\nSteve Ward held the world's oldest boxer title at age 59.\nA boxing return by Evander Holyfield in 2020 would have occurred at age 58.\n58 is less than 59.\nA 58-year-old boxer does not exceed the age record held by Steve Ward.\nAn Evander Holyfield 2020 boxing return would not set the age record.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Evander Holyfield turned 58 years old at the end of 2020",
+    "Steve Ward held the world's oldest boxer title at age 59",
+    "A boxing return by Evander Holyfield in 2020 would have occurred at age 58",
+    "58 is less than 59",
+    "A 58-year-old boxer does not exceed the age record held by Steve Ward",
+    "An Evander Holyfield 2020 boxing return would not set the age record"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Evander Holyfield turned 58 years old at the end of 2020",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Steve Ward held the world's oldest boxer title at age 59",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A boxing return by Evander Holyfield in 2020 would have occurred at age 58",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "58 is less than 59",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A 58-year-old boxer does not exceed the age record held by Steve Ward",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "An Evander Holyfield 2020 boxing return would not set the age record",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

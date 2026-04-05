@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__8c6ba65608e511ebbda4ac1f6bf848b6",
+  "sample_id": "8c6ba65608e511ebbda4ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director born later, Brutti Di Notte or Bir Türk'E Gönül Verdim?",
+  "gold_answer": "Bir Türk'E Gönül Verdim",
+  "context": [
+    "Follie di notte is an Italian erotic- documentary film directed by Joe D'Amato and released in 1978.",
+    "Bir Türk'e Gönül Verdim is a 1969 Turkish adventure film, directed by Halit Refiğ and starring Eva Bender, Ahmet Mekin and Bilal İnci.",
+    "Claude Weisz is a French film director born in Paris.",
+    "Giovanni Grimaldi (November 14, 1917 – February 25, 2001) was an Italian screenwriter, journalist and film director. He was sometimes credited as Gianni Grimaldi.",
+    "La don na di notte is a 1962 Italian film directed by Mino Loy.",
+    "Jacques Décombe is a French author, actor and director born in 1953.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Sepideh Farsi is an Iranian film director, born in Tehran in 1965.",
+    "Halit Refiğ (5 March 1934 – 11 October 2009) was a Turkish film director, film producer, screenwriter and writer. He made around sixty films, including feature films, documentaries and TV serials. He is considered to be the pioneer of the National Cinema movement and the initiator of the production of TV serials in Turkey.",
+    "Brutti di notte( literally\" Ugly by night\") is a 1968 Italian comedy film written and directed by Giovanni Grimaldi and starring the comedy duo Franco Franchi and Ciccio Ingrassia. It is a parody of Luis Buñuel's film\" Belle de Jour\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBrutti di notte was directed by Giovanni Grimaldi.\nGiovanni Grimaldi was born on November 14, 1917.\nBir Türk'e Gönül Verdim was directed by Halit Refiğ.\nHalit Refiğ was born on March 5, 1934.\n1934 is later than 1917.\nThe director of Bir Türk'e Gönül Verdim was born later than the director of Brutti di notte.\nThe film with the director born later is Bir Türk'e Gönül Verdim.\n<answer> Bir Türk'e Gönül Verdim",
+  "predicted_answer": "Bir Türk'e Gönül Verdim",
+  "claims": [
+    "Brutti di notte was directed by Giovanni Grimaldi",
+    "Giovanni Grimaldi was born on November 14, 1917",
+    "Bir Türk'e Gönül Verdim was directed by Halit Refiğ",
+    "Halit Refiğ was born on March 5, 1934",
+    "1934 is later than 1917",
+    "The director of Bir Türk'e Gönül Verdim was born later than the director of Brutti di notte",
+    "The film with the director born later is Bir Türk'e Gönül Verdim"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Brutti di notte was directed by Giovanni Grimaldi",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Giovanni Grimaldi was born on November 14, 1917",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Bir Türk'e Gönül Verdim was directed by Halit Refiğ",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Halit Refiğ was born on March 5, 1934",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1934 is later than 1917",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The director of Bir Türk'e Gönül Verdim was born later than the director of Brutti di notte",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born later is Bir Türk'e Gönül Verdim",
+      "claim_type": "DR"
+    }
+  ]
+}

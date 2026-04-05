@@ -1,0 +1,34 @@
+{
+  "uid": "wiki2mhqa__a7f5782a0bdb11eba7f7acde48001122",
+  "sample_id": "a7f5782a0bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where did the founder of Ford Australia die?",
+  "gold_answer": "Dearborn",
+  "context": [
+    "Cyrus Massoumi is the founder of the investment fund humbition. He is also the founder of Zocdoc and was the company CEO for eight years.",
+    "Henry Ford (July 30, 1863 – April 7, 1947) was an American industrialist and a business magnate, the founder of the Ford Motor Company, and the sponsor of the development of the assembly line technique of mass production. Although Ford did not invent the automobile or the assembly line, he developed and manufactured the first automobile that many middle-class Americans could afford. In doing so, Ford converted the automobile from an expensive curiosity into a practical conveyance that would profoundly impact the landscape of the 20th century. His introduction of the Model T automobile revolutionized transportation and American industry. As the owner of the Ford Motor Company, he became one of the richest and best-known people in the world. He is credited with \"Fordism\": mass production of inexpensive goods coupled with high wages for workers. Ford had a global vision, with consumerism as the key to peace. His intense commitment to systematically lowering costs resulted in many technical and business innovations, including a franchise system that put dealerships throughout most of North America and in major cities on six continents. Ford left most of his vast wealth to the Ford Foundation and arranged for his family to control the company permanently.\nFord was also widely known for his pacifism during the first years of World War I, and for promoting antisemitic content, including \"The Protocols of the Elders of Zion\", through his newspaper \"The Dearborn Independent\" and the book \"The International Jew\", having an alleged influence on the development of Nazism and Adolf Hitler.",
+    "Sky Dylan Dayton( born August 8, 1971) is an American entrepreneur and investor. He is the founder of Internet service provider EarthLink, co-founder of eCompanies, and the founder of Boingo.",
+    "Ford Performance Vehicles was the Melbourne- based, premium performance arm of automobile manufacturer Ford Australia. The company produced a range of Ford- based models from 2002 to 2014 under the FPV marque name.",
+    "Ford- Werke GmbH is a German car manufacturer headquartered in Niehl, Cologne, North Rhine- Westphalia and a subsidiary of Ford of Europe, which in turn is a subsidiary of Ford Motor Company.",
+    "John De Margheriti( born July 1962) is an Italian- born Australian electrical engineer, software developer and entrepreneur. De Margheriti is widely seen as a founding' father' of Australia's video games industry and Australia's most experienced interactive entertainment business executive. He is the founder and former CEO of BigWorld Pty Limited and the founder of parent company Micro Forté Pty Limited. De Margheriti is also the Executive Chairman of the Academy of Interactive Entertainment, the Chairman of Canberra Technology Park, the founder of the Game Developers' Association of Australia, the founder of the Australian Game Developers Conference, and the founder of the three Canberra business parks, the co-founder of DEMS Entertainment, the co-founder of Dreamgate Studios, the co-founder of Game Plus and co-founder of The Film Distillery De Margheriti has been recognised as an Honorary Ambassador for Canberra due to his contribution to Australia's national capital.",
+    "Geoffrey Paul Polites (5 November 1947 – 20 April 2008) was an Australian automotive executive. He was notable for being the chief executive officer of Jaguar Land Rover and the president of Ford Australia.",
+    "Tim League is an American entrepreneur and film producer based in Austin, Texas. He is the founder of the Alamo Drafthouse Cinema chain and the founder of the film distribution company Drafthouse Films, where League has produced films including\" The ABCs of Death\".. He is also the co-founder of genre film festival Fantastic Fest, the co-founder of entertainment merchandise entity Mondo, and the co-founder of film distribution and production company Neon.",
+    "The Ford Motor Company of Australia Limited, known by its trading name Ford Australia, is the Australian subsidiary of United States-based automaker Ford Motor Company. It was founded in Geelong, Victoria, in 1925 as an outpost of Ford Motor Company of Canada, Limited. At that time, Ford Canada was a separate company from Ford USA. Henry Ford having granted the manufacturing rights of Ford motor vehicles in the British Empire (later the Commonwealth), excepting the United Kingdom, to Canadian investors. Ford Australia's first products were Model Ts assembled from complete knock-down (CKD) kits provided by Ford of Canada. It is best known in more recent times for having produced the Falcon, originally a US model introduced in Australia in 1960, but adapted to Australian requirements and road conditions.",
+    "He was the founder of the\" Tohoku Mathematical Journal\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFord Australia was founded in Geelong, Victoria, in 1925.\nThe founder of Ford Australia is not explicitly named in the text.\nThe text mentions Geoffrey Paul Polites as the president of Ford Australia.\nGeoffrey Paul Polites died on 20 April 2008.\nThe place of death of Geoffrey Paul Polites is not specified.\nThe founder of Ford Australia is not identified, so the place of death cannot be determined.\nSo, the answer is Not specified.\n<answer> Not specified",
+  "claims": [
+    "Ford Australia was founded in Geelong, Victoria, in 1925",
+    "The founder of Ford Australia is not explicitly named in the text",
+    "The text mentions Geoffrey Paul Polites as the president of Ford Australia",
+    "Geoffrey Paul Polites died on 20 April 2008",
+    "The place of death of Geoffrey Paul Polites is not specified",
+    "The founder of Ford Australia is not identified, so the place of death cannot be determined",
+    "So, the answer is Not specified"
+  ],
+  "predicted_answer": "Not specified"
+}

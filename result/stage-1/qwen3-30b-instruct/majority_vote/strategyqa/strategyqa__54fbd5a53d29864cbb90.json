@@ -1,0 +1,122 @@
+{
+  "uid": "strategyqa__54fbd5a53d29864cbb90",
+  "sample_id": "54fbd5a53d29864cbb90",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Jesse W. Moore a potential recipient of a Snoopy-themed award from NASA?",
+  "gold_answer": "no",
+  "context": [
+    "Snoopy has been a mascot of safety in NASA",
+    "The Silver Snoopy award is given by NASA astronauts to employees and contractors for outstanding achievements related to flight safety ",
+    "Jesse W. Moore received warnings about the failure history of the O rings used on the Challenger shuttle, but did not act on them",
+    "Jesse W. Moore was the associate administrator in charge of NASA's shuttle program at the time of the Challenger explosion",
+    "The O rings were strongly implicated in the fatal explosion"
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSnoopy is a mascot of safety in NASA.\nThe Silver Snoopy award is given to employees and contractors for outstanding achievements in flight safety.\nJesse W. Moore was the associate administrator in charge of NASA's shuttle program at the time of the Challenger explosion.\nMoore received warnings about the failure history of the O rings used on the Challenger shuttle but did not act on them.\nThe O rings were strongly implicated in the fatal explosion of the Challenger.\nFailure to act on known safety warnings undermines a record of outstanding achievements in flight safety.\nJesse W. Moore is not a potential recipient of a Snoopy-themed award from NASA.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Snoopy is a mascot of safety in NASA",
+    "The Silver Snoopy award is given to employees and contractors for outstanding achievements in flight safety",
+    "Jesse W. Moore was the associate administrator in charge of NASA's shuttle program at the time of the Challenger explosion",
+    "Moore received warnings about the failure history of the O rings used on the Challenger shuttle but did not act on them",
+    "The O rings were strongly implicated in the fatal explosion of the Challenger",
+    "Failure to act on known safety warnings undermines a record of outstanding achievements in flight safety",
+    "Jesse W. Moore is not a potential recipient of a Snoopy-themed award from NASA"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Snoopy is a mascot of safety in NASA",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Silver Snoopy award is given to employees and contractors for outstanding achievements in flight safety",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Jesse W. Moore was the associate administrator in charge of NASA's shuttle program at the time of the Challenger explosion",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Moore received warnings about the failure history of the O rings used on the Challenger shuttle but did not act on them",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The O rings were strongly implicated in the fatal explosion of the Challenger",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Failure to act on known safety warnings undermines a record of outstanding achievements in flight safety",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Jesse W. Moore is not a potential recipient of a Snoopy-themed award from NASA",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

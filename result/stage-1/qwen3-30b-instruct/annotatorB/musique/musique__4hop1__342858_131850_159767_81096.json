@@ -1,0 +1,111 @@
+{
+  "uid": "musique__4hop1__342858_131850_159767_81096",
+  "sample_id": "4hop1__342858_131850_159767_81096",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who won the 1993 Indy Car Race in the largest city of the state where the library district and the city of Yuma share the same county?",
+  "gold_answer": "Mario Andretti",
+  "context": [
+    "Xexéu is a city in Pernambuco, Brazil. It is located in Zona da mata Pernambucana from the state capital Recife.",
+    "Sokolniki District () is a district of the Eastern Administrative Okrug of the federal city of Moscow located in the north-east corner of the city. Population:",
+    "The Central Library is the main library of the Kansas City Public Library system, which is located in the Library District of Downtown Kansas City, Missouri, United States. It is situated at 14 West 10th Street, at the corner of West 10th Street and Baltimore Avenue, across Baltimore Avenue from the Kansas City Club and up from the New York Life Building. It contains the administration of Kansas City's library system.",
+    "Oklahoma City Community College in south Oklahoma City is the second-largest community college in the state. Rose State College is located east of Oklahoma City in suburban Midwest City. Oklahoma State University–Oklahoma City is located in the \"Furniture District\" on the Westside. Northeast of the city is Langston University, the state's historically black college (HBCU). Langston also has an urban campus in the eastside section of the city. Southern Nazarene University, which was founded by the Church of the Nazarene, is a university located in suburban Bethany, which is surrounded by the Oklahoma City city limits.",
+    "The City of Yuma is a Home Rule Municipality that is the most populous city in Yuma County, Colorado, United States. The population was 3,524 at the 2010 census.",
+    "Remire-Montjoly is a suburb of Cayenne, the capital \"préfecture\" and largest city of French Guiana. It is located to the south-east of Cayenne. Residential districts are located along some of the best beaches in the Cayenne area.",
+    "Tallahassee / ˌtæləˈhæsi / is the capital of the U.S. state of Florida. It is the county seat and only incorporated municipality in Leon County. Tallahassee became the capital of Florida, then the Florida Territory, in 1824. In 2016, the population was 190,894, making it the 7th - largest city in the U.S state of Florida, and the 126th - largest city in the United States. The population of the Tallahassee metropolitan area was 379,627 as of 2016. Tallahassee is the largest city in the Florida Panhandle region, and the main center for trade and agriculture in the Florida Big Bend and Southwest Georgia regions.",
+    "Tallinn University Academic Library () is one of the most comprehensive research libraries of Estonia in all fields of knowledge, except construction and agriculture. It is located in Tallinn, the capital city of Estonia.",
+    "The Yuma County Library District serves the population of Yuma County, Arizona. Today the library district consists of the nearly 80,000 square foot Main Library located in Yuma as well as branches in downtown Yuma, the Foothills, Somerton, San Luis, Wellton, Dateland, and Roll. The first Yuma Library, a Carnegie library, opened February 24, 1921 with 1,053 volumes and seating for 20 persons. Located in Sunset Park, the Yuma Carnegie Library underwent several expansions and renovations over the years, including a $4.2 million renovation completed in 2009. The Yuma Carnegie library still operates today as the Heritage Branch Library in downtown Yuma.",
+    "After a hiatus of eleven years, the race was revived by the Verizon IndyCar Series in 2016. It was held on Saturday night under the lights. Long considered a popular Indy car track, Phoenix has a rich history of open wheel races, including a spectacular crash involving Johnny Rutherford (1980), and the final career victory for Indy legend Mario Andretti (1993).",
+    "Kranj railway station () is the railway station in Kranj, the third largest municipality and fourth largest city in Slovenia. The station is located on the railway line between Ljubljana, the capital city of Slovenia, and Villach, Austria.",
+    "Arizona ( (listen); Navajo: Hoozdo Hahoodzo Navajo pronunciation: [xòːztò xɑ̀xòːtsò]; O'odham: Alĭ ṣonak Uto-Aztecan pronunciation: [ˡaɺi ˡʂonak]) is a state in the southwestern region of the United States. It is also part of the Western and the Mountain states. It is the sixth largest and the 14th most populous of the 50 states. Its capital and largest city is Phoenix. Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest.",
+    "Tennessee (i/tɛnᵻˈsiː/) (Cherokee: ᏔᎾᏏ, Tanasi) is a state located in the southeastern United States. Tennessee is the 36th largest and the 17th most populous of the 50 United States. Tennessee is bordered by Kentucky and Virginia to the north, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, and Arkansas and Missouri to the west. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms the state's western border. Tennessee's capital and second largest city is Nashville, which has a population of 601,222. Memphis is the state's largest city, with a population of 653,450.",
+    "Coquimbito is a rural district in the Maipú Department, Mendoza Province, Argentina. It is located in the southeast of the metropolitan area of Mendoza (the provincial capital), and is administratively part of the municipality of Maipú. The name refers to the Chilean port city of Coquimbo.",
+    "Shizuoka Prefecture (静岡県, Shizuoka-ken) is a prefecture of Japan located in the Chūbu region of Honshu. The capital is the city of Shizuoka, while Hamamatsu is the largest city by population.",
+    "Darwin (/ ˈdɑːrwɪn / (listen) DAR - win) is the capital city of the Northern Territory of Australia. Situated on the Timor Sea, Darwin is the largest city in the sparsely populated Northern Territory, with a population of 142,300. It is the smallest and most northerly of the Australian capital cities, and acts as the Top End's regional centre.",
+    "Oklahoma had 598 incorporated places in 2010, including four cities over 100,000 in population and 43 over 10,000. Two of the fifty largest cities in the United States are located in Oklahoma, Oklahoma City and Tulsa, and 65 percent of Oklahomans live within their metropolitan areas, or spheres of economic and social influence defined by the United States Census Bureau as a metropolitan statistical area. Oklahoma City, the state's capital and largest city, had the largest metropolitan area in the state in 2010, with 1,252,987 people, and the metropolitan area of Tulsa had 937,478 residents. Between 2000 and 2010, the cities that led the state in population growth were Blanchard (172.4%), Elgin (78.2%), Jenks (77.0%), Piedmont (56.7%), Bixby (56.6%), and Owasso (56.3%).",
+    "Glenfield is a suburb of Sydney, in the state of New South Wales, Australia. Glenfield is located 36 kilometres south-west of the Sydney central business district, in the local government areas of the City of Campbelltown and is part of the Outer Rim Territories.",
+    "Szelment is a settlement in the administrative district of Gmina Szypliszki, within Suwałki County, Podlaskie Voivodeship, in north-eastern Poland, close to the border with Lithuania. Szelment is located 15 km north of Suwałki. It is also home to a 1000m cable car line, the second-longest in Poland. It is located 6.0 km from the nearest city in Lithuania, Salaperaugis.",
+    "Tupanatinga is a city located in the state of Pernambuco, Brazil. Located at 306 km away from Recife, capital of the state of Pernambuco. Has an estimated (Ibge 2009) population of 19.026 inhabitants."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe city of Yuma is in Yuma County, Colorado.\nThe Yuma County Library District is in Yuma County, Arizona.\nYuma County, Colorado and Yuma County, Arizona are different counties in different states.\nNo county shares both the city of Yuma (Colorado) and the Yuma County Library District (Arizona).\nThe question refers to a county that does not exist.\nThe 1993 Indy Car Race was held at Phoenix Raceway in Phoenix, Arizona.\nPhoenix is the largest city in Arizona.\nThe library district and the city of Yuma do not share a county.\nThe question contains a false premise.\nThe winner of the 1993 Indy Car Race in Phoenix, Arizona, was Mario Andretti.\nThe 1993 Indy Car Race in the largest city of the state where the library district and the city of Yuma share the same county is not valid due to no such county existing.\nThe winner of the 1993 Indy Car Race in Phoenix, Arizona, was Mario Andretti.\n<answer> Mario Andretti",
+  "predicted_answer": "Mario Andretti",
+  "claims": [
+    "The city of Yuma is in Yuma County, Colorado",
+    "The Yuma County Library District is in Yuma County, Arizona",
+    "Yuma County, Colorado and Yuma County, Arizona are different counties in different states",
+    "No county shares both the city of Yuma (Colorado) and the Yuma County Library District (Arizona)",
+    "The question refers to a county that does not exist",
+    "The 1993 Indy Car Race was held at Phoenix Raceway in Phoenix, Arizona",
+    "Phoenix is the largest city in Arizona",
+    "The library district and the city of Yuma do not share a county",
+    "The question contains a false premise",
+    "The winner of the 1993 Indy Car Race in Phoenix, Arizona, was Mario Andretti",
+    "The 1993 Indy Car Race in the largest city of the state where the library district and the city of Yuma share the same county is not valid due to no such county existing",
+    "The winner of the 1993 Indy Car Race in Phoenix, Arizona, was Mario Andretti"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The city of Yuma is in Yuma County, Colorado",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The Yuma County Library District is in Yuma County, Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Yuma County, Colorado and Yuma County, Arizona are different counties in different states",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "No county shares both the city of Yuma (Colorado) and the Yuma County Library District (Arizona)",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The question refers to a county that does not exist",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The 1993 Indy Car Race was held at Phoenix Raceway in Phoenix, Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "Phoenix is the largest city in Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C8",
+      "text": "The library district and the city of Yuma do not share a county",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C9",
+      "text": "The question contains a false premise",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C10",
+      "text": "The winner of the 1993 Indy Car Race in Phoenix, Arizona, was Mario Andretti",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C11",
+      "text": "The 1993 Indy Car Race in the largest city of the state where the library district and the city of Yuma share the same county is not valid due to no such county existing",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C12",
+      "text": "The winner of the 1993 Indy Car Race in Phoenix, Arizona, was Mario Andretti",
+      "claim_type": "FC"
+    }
+  ]
+}

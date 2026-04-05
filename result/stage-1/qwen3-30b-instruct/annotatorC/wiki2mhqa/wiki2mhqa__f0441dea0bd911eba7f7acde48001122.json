@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__f0441dea0bd911eba7f7acde48001122",
+  "sample_id": "f0441dea0bd911eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the founder of magazine Amazing Stories born?",
+  "gold_answer": "Luxembourgish",
+  "context": [
+    "Sky Dylan Dayton( born August 8, 1971) is an American entrepreneur and investor. He is the founder of Internet service provider EarthLink, co-founder of eCompanies, and the founder of Boingo.",
+    "John De Margheriti( born July 1962) is an Italian- born Australian electrical engineer, software developer and entrepreneur. De Margheriti is widely seen as a founding' father' of Australia's video games industry and Australia's most experienced interactive entertainment business executive. He is the founder and former CEO of BigWorld Pty Limited and the founder of parent company Micro Forté Pty Limited. De Margheriti is also the Executive Chairman of the Academy of Interactive Entertainment, the Chairman of Canberra Technology Park, the founder of the Game Developers' Association of Australia, the founder of the Australian Game Developers Conference, and the founder of the three Canberra business parks, the co-founder of DEMS Entertainment, the co-founder of Dreamgate Studios, the co-founder of Game Plus and co-founder of The Film Distillery De Margheriti has been recognised as an Honorary Ambassador for Canberra due to his contribution to Australia's national capital.",
+    "He was the founder of the\" Tohoku Mathematical Journal\".",
+    "Hugo Gernsback (born Hugo Gernsbacher, August 16, 1884 – August 19, 1967) was a Luxembourgish-American inventor, writer, editor, and magazine publisher, best known for publications including the first science fiction magazine. His contributions to the genre as publisher—although not as a writer—were so significant that, along with the novelists H. G. Wells and Jules Verne, he is sometimes called \"The Father of Science Fiction\". In his honour, annual awards presented at the World Science Fiction Convention are named the \"Hugos\".",
+    "Amazing Stories is an American science fiction magazine launched in April 1926 by Hugo Gernsback's Experimenter Publishing. It was the first magazine devoted solely to science fiction. Science fiction stories had made regular appearances in other magazines, including some published by Gernsback, but \"Amazing\" helped define and launch a new genre of pulp fiction. As of 2018, \"Amazing\" has been published, with some interruptions, for ninety-two years, going through a half-dozen owners and many editors as it struggled to be profitable. Gernsback was forced into bankruptcy and lost control of the magazine in 1929. In 1938 it was purchased by Ziff-Davis, who hired Raymond A. Palmer as editor. Palmer made the magazine successful though it was not regarded as a quality magazine within the science fiction community. In the late 1940s \"Amazing\" presented as fact stories about the Shaver Mystery, a lurid mythos that explained accidents and disaster as the work of robots named deros, which led to dramatically increased circulation but widespread ridicule. \" Amazing\" switched to a digest size format in 1953, shortly before the end of the pulp-magazine era. It was sold to Sol Cohen's Universal Publishing Company in 1965, which filled it with reprinted stories but did not pay a reprint fee to the authors, creating a conflict with the newly formed Science Fiction Writers of America. Ted White took over as editor in 1969, eliminated the reprints and made the magazine respected again: \" Amazing\" was nominated for the prestigious Hugo Award three times during his tenure in the 1970s. Several other owners attempted to create a modern incarnation of the magazine in the following decades, but publication was suspended after the March 2005 issue. A new incarnation appeared in July 2012 as an online magazine. Print publication resumed with the Fall 2018 issue. Gernsback's initial editorial approach was to blend instruction with entertainment; he believed science fiction could educate readers. His audience rapidly showed a preference for implausible adventures, and the movement away from Gernsback's idealism accelerated when the magazine changed hands in 1929. Despite this, Gernsback had an enormous impact on the field: the creation of a specialist magazine for science fiction spawned an entire genre publishing industry. The letter columns in \"Amazing\", where fans could make contact with each other, led to the formation of science fiction fandom, which in turn had a strong influence on the development of the field. Writers whose first story was published in the magazine include John W. Campbell, Isaac Asimov, Howard Fast, Ursula K. Le Guin, Roger Zelazny, and Thomas M. Disch. Overall, though, \"Amazing\" itself was rarely an influential magazine within the genre after the 1920s. Some critics have commented that by \"ghettoizing\" science fiction, Gernsback harmed its literary growth, but this viewpoint has been countered by the argument that science fiction needed an independent market to develop in to reach its potential.",
+    "Marco Roth( born 1974) in New York, New York is a co-founder and editor of\" n+1\" magazine.",
+    "Sue Fennessy( born 25 July 1968) is an Australian- born American entrepreneur. She is the founder and CEO of WeAre8, the founder of the Standard Media Index( SMI), the founder of Frontiers Group LTD, and a fellow at Monash University.",
+    "Hugh McGary Jr. was the founder of Evansville, Indiana.",
+    "Bradley Smith( June 30, 1910 – August 28, 1997) was a magazine photographer, writer, photojournalist and a founder of the American Society of Magazine Photographers.",
+    "Cyrus Massoumi is the founder of the investment fund humbition. He is also the founder of Zocdoc and was the company CEO for eight years."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAmazing Stories is a science fiction magazine launched in April 1926.\nThe founder of Amazing Stories is Hugo Gernsback.\nHugo Gernsback was born on August 16, 1884.\nHugo Gernsback was Luxembourgish-American.\nThe place of birth of Hugo Gernsback is Luxembourg.\nThe founder of magazine Amazing Stories was born in Luxembourg.\n<answer> Luxembourg",
+  "predicted_answer": "Luxembourg",
+  "claims": [
+    "Amazing Stories is a science fiction magazine launched in April 1926",
+    "The founder of Amazing Stories is Hugo Gernsback",
+    "Hugo Gernsback was born on August 16, 1884",
+    "Hugo Gernsback was Luxembourgish-American",
+    "The place of birth of Hugo Gernsback is Luxembourg",
+    "The founder of magazine Amazing Stories was born in Luxembourg"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Amazing Stories is a science fiction magazine launched in April 1926",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The founder of Amazing Stories is Hugo Gernsback",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Hugo Gernsback was born on August 16, 1884",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Hugo Gernsback was Luxembourgish-American",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The place of birth of Hugo Gernsback is Luxembourg",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The founder of magazine Amazing Stories was born in Luxembourg",
+      "claim_type": "DR"
+    }
+  ]
+}

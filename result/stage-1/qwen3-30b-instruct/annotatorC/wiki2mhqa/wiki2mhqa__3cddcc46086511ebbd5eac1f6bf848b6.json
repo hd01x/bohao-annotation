@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__3cddcc46086511ebbd5eac1f6bf848b6",
+  "sample_id": "3cddcc46086511ebbd5eac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who was born first out of Peter Haslop and Barbara Nawratowicz?",
+  "gold_answer": "Barbara Nawratowicz",
+  "context": [
+    "Thomas Eastwood Dickinson( 11 January 1931 – 25 June 2018) was an Australian- born first- class cricket player for Lancashire in 1950 and 1951 and for Somerset in 1957. But he decided against a full- time cricket career and became a schoolmaster. He was born in Parramatta, Sydney, Australia.",
+    "Hartley W Lobban (9 May 1926 – 15 October 2004) was a Jamaican-born first-class cricketer who played 17 matches for Worcestershire in the early 1950s.",
+    "Wesley Barresi( born 3 May 1984) is a South African born first- class and Netherlands international cricketer. He is a right- handed wicket keeper- batsman and also bowls right- arm offbreak.",
+    "Bertha of Aragon( c. 1075 – bef. 1111) was a Queen consort of Aragon and Navarre. Nothing is known about her childhood or the names of her parents, it is believed that she is Italian since her name was\" Berta\", which is Italian. She was married to Peter I of Aragon in 1097, shortly after the death of Peter's first wife, Agnes of Aquitaine, with whom he had two children: Peter and Isabella. Bertha and Peter had no children. Peter and Isabella were both dead by 1104 and King Peter needed an heir. They had no children and Peter died the following year. The crown of Aragon and Navarre passed to Alfonso who was the half brother of Peter. Bertha got a dower but Alfonso got all of Peter's lands. It is unknown when Bertha died or where she died. Genealogist Szabolcs de Vajay has speculated that Bertha may have been a daughter of Peter I, Count of Savoy, and another Agnes of Aquitaine, perhaps the Agnes who was the final wife of Peter's father Ramiro I of Aragon and first- cousin of Peter's own first wife.",
+    "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand.",
+    "Peter Haslop( born 17 October 1941 in Midhurst, Sussex) is a former English cricketer. Haslop was a right- handed batsman who bowled right- arm medium pace. Haslop made his first- class debut for Hampshire against the touring Pakistanis in the 1962 season. He took two wickets for 82 runs in the Pakistan innings. His wickets were those of wicketkeeper Imtiaz Ahmed and Ijaz Butt. This match would be Haslop's only first- class match. Nine years after his last match for Hampshire, Haslop returned to the club in the 1971 season. Haslop made his one- day debut against Leicestershire. Haslop represented the club in four one- day matches, the last of which came against Gloucestershire in 1972. Haslop took four wickets at an average of 39.25 in his four one- day matches for the club.",
+    "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford.",
+    "Barbara Nawratowicz- Stuart( born 19 November 1932) is a Polish actress and radio journalist. She was one of the first stars of Piwnica pod Baranami cabaret and a long- time presenter at Polish section of Radio Free Europe.",
+    "Greg A. Hill is a Canadian- born First Nations artist and curator. He is Kanyen'kehaka, from Six Nations of the Grand River Territory, Ontario.",
+    "John William Joseph McMahon( 28 December 1917 – 8 May 2001) was an Australian- born first- class cricketer who played for Surrey and Somerset in England from 1947 to 1957."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPeter Haslop was born on 17 October 1941.\nBarbara Nawratowicz-Stuart was born on 19 November 1932.\n1932 is earlier than 1941.\nBarbara Nawratowicz-Stuart was born before Peter Haslop.\nThe person born first out of Peter Haslop and Barbara Nawratowicz-Stuart is Barbara Nawratowicz-Stuart.\n<answer> Barbara Nawratowicz-Stuart",
+  "predicted_answer": "Barbara Nawratowicz-Stuart",
+  "claims": [
+    "Peter Haslop was born on 17 October 1941",
+    "Barbara Nawratowicz-Stuart was born on 19 November 1932",
+    "1932 is earlier than 1941",
+    "Barbara Nawratowicz-Stuart was born before Peter Haslop",
+    "The person born first out of Peter Haslop and Barbara Nawratowicz-Stuart is Barbara Nawratowicz-Stuart"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Peter Haslop was born on 17 October 1941",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Barbara Nawratowicz-Stuart was born on 19 November 1932",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1932 is earlier than 1941",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Barbara Nawratowicz-Stuart was born before Peter Haslop",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The person born first out of Peter Haslop and Barbara Nawratowicz-Stuart is Barbara Nawratowicz-Stuart",
+      "claim_type": "DR"
+    }
+  ]
+}

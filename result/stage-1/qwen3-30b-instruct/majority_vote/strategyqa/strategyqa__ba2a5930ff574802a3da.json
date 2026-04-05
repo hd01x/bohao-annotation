@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__ba2a5930ff574802a3da",
+  "sample_id": "ba2a5930ff574802a3da",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is it hard to get a BLT in Casablanca?",
+  "gold_answer": "yes",
+  "context": [
+    "A BLT is a sandwich consisting of bacon, lettuce and tomato",
+    "Casablanca is predominantly Muslim",
+    "Islam forbids the consumption of pork and pork products"
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA BLT sandwich contains bacon.\nBacon is a pork product.\nIslam forbids the consumption of pork and pork products.\nCasablanca is predominantly Muslim.\nThe religious restrictions in Casablanca make the consumption of bacon prohibited.\nTherefore, obtaining a BLT, which contains bacon, is difficult in Casablanca.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "A BLT sandwich contains bacon",
+    "Bacon is a pork product",
+    "Islam forbids the consumption of pork and pork products",
+    "Casablanca is predominantly Muslim",
+    "The religious restrictions in Casablanca make the consumption of bacon prohibited",
+    "Therefore, obtaining a BLT, which contains bacon, is difficult in Casablanca"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A BLT sandwich contains bacon",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Bacon is a pork product",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Islam forbids the consumption of pork and pork products",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Casablanca is predominantly Muslim",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The religious restrictions in Casablanca make the consumption of bacon prohibited",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Therefore, obtaining a BLT, which contains bacon, is difficult in Casablanca",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

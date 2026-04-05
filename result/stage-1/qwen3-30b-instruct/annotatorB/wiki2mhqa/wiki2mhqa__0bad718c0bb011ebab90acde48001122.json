@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__0bad718c0bb011ebab90acde48001122",
+  "sample_id": "0bad718c0bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the paternal grandfather of Margaret Drummond (Mistress)?",
+  "gold_answer": "Sir Malcolm Drummond of Cargill",
+  "context": [
+    "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist. He was the grandfather of singer/ poet Leonard Cohen.",
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Zhao Shoushan( 12 November 1894 – 20 June 1965) was a KMT general and later Chinese Communist Party politician. He is the grandfather of Zhao Leji.",
+    "Margaret Drummond (c. 1475 – 1501) was a daughter of John Drummond, 1st Lord Drummond, and a mistress of King James IV of Scotland. She was a great-great-great-great-niece of the Margaret Drummond who was King David II's second queen. She had a daughter, Lady Margaret Stewart. The death of Margaret Drummond has been the subject of a very persistent romantic legend.",
+    "Commandant Dame Edith Margaret Drummond,( 4 September 1917 – 21 April 1987) was a senior British naval officer who served as Director of the Women's Royal Naval Service( WRNS) from 1964 to 1967.",
+    "Rev. John Westley( 1636 – 78) was an English nonconformist minister. He was the grandfather of John Wesley( founder of Methodism).",
+    "Frederick\" Fred\" Le Deux( born 4 December 1934) was an Australian rules footballer who played with Geelong in the Victorian Football League( VFL). He is the grandfather of Tom Hawkins.",
+    "John Drummond, first Lord Drummond (died 1519), was a Scottish statesman. Drummond, ninth successive knight of his family, was the eldest son of Sir Malcolm Drummond of Cargill and Stobhall, Perthshire, by his marriage with Mariota, eldest daughter of Sir David Murray of Tullibardine in the same county. He sat in parliament 6 May 1471, under the designation of Lord of Stobhall. On 20 March 1473–4 he had a charter of the offices of seneschal and coroner of the earldom of Strathearn,in which he was confirmed in the succeeding reign. In 1483 he was one of the ambassadors to treat with the English King, with a safe-conduct (passport) granted 29 November of that year; again, on 6 August 1484, to treat of the marriage of James, Prince of Scotland, and Anne de la Pole, niece of Richard III. He was a commissioner for settling border differences nominated by the treaty of Nottingham, 22 September 1484; his safe-conduct into England being dated on the ensuing 29 November.\nJames III of Scotland took the office of Steward of Strathearn from Drummond in September 1475, making him his enemy. Although Dummond was raised to the peerage by the title of Lord Drummond, 29 January 1488, soon after he joined the rebel party against James III, and he sat in the first parliament of James IV, 6 October 1488. In this same year he was appointed a privy councillor and justiciary of Scotland, and was afterwards constable of the castle of Stirling. In 1489 John Stewart, 1st Earl of Lennox, rose in revolt against the king. He had encamped at Gartalunane, on the south bank of the Forth, in the parish of Aberfoyle, but during the darkness of the night of 11 Oct. was surprised and utterly routed by Drummond. As one of the commissioners to redress border and other grievances, Drummond had a safe-conduct into England 22 May 1495, 26 July 1511, 24 Jan. 1513, and 20 April 1514.",
+    "Henry J.\" Red\" Krause, Jr.( August 28, 1913 – February 20, 1987) was an American football offensive lineman in the National Football League for the Brooklyn Dodgers and the Washington Redskins. He played college football at St. Louis University. He is the grandfather of Jennifer Krause He is the great grandfather of Payton Hoeing",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMargaret Drummond (c. 1475 – 1501) was a mistress of King James IV of Scotland.\nShe was a great-great-great-great-niece of Margaret Drummond, who was King David II's second queen.\nThe great-great-great-great-niece relationship implies five generations between the two Margaret Drummonds.\nThe paternal grandfather of Margaret Drummond (Mistress) is the son of the father of her father.\nJohn Drummond, first Lord Drummond (died 1519), was a Scottish statesman and the son of Sir Malcolm Drummond of Cargill and Stobhall.\nJohn Drummond, first Lord Drummond, was the father of Sir John Drummond, who was the father of Margaret Drummond (Mistress).\nThe paternal grandfather of Margaret Drummond (Mistress) is John Drummond, first Lord Drummond.\n<answer> John Drummond, first Lord Drummond",
+  "predicted_answer": "John Drummond, first Lord Drummond",
+  "claims": [
+    "Margaret Drummond (c. 1475 – 1501) was a mistress of King James IV of Scotland",
+    "She was a great-great-great-great-niece of Margaret Drummond, who was King David II's second queen",
+    "The great-great-great-great-niece relationship implies five generations between the two Margaret Drummonds",
+    "The paternal grandfather of Margaret Drummond (Mistress) is the son of the father of her father",
+    "John Drummond, first Lord Drummond (died 1519), was a Scottish statesman and the son of Sir Malcolm Drummond of Cargill and Stobhall",
+    "John Drummond, first Lord Drummond, was the father of Sir John Drummond, who was the father of Margaret Drummond (Mistress)",
+    "The paternal grandfather of Margaret Drummond (Mistress) is John Drummond, first Lord Drummond"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Margaret Drummond (c. 1475 – 1501) was a mistress of King James IV of Scotland",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "She was a great-great-great-great-niece of Margaret Drummond, who was King David II's second queen",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The great-great-great-great-niece relationship implies five generations between the two Margaret Drummonds",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The paternal grandfather of Margaret Drummond (Mistress) is the son of the father of her father",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "John Drummond, first Lord Drummond (died 1519), was a Scottish statesman and the son of Sir Malcolm Drummond of Cargill and Stobhall",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "John Drummond, first Lord Drummond, was the father of Sir John Drummond, who was the father of Margaret Drummond (Mistress)",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The paternal grandfather of Margaret Drummond (Mistress) is John Drummond, first Lord Drummond",
+      "claim_type": "DR"
+    }
+  ]
+}

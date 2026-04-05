@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__952c943508a311ebbd7bac1f6bf848b6",
+  "sample_id": "952c943508a311ebbd7bac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which museum was founded first, Casoria Contemporary Art Museum or Leverian Collection?",
+  "gold_answer": "Leverian Collection",
+  "context": [
+    "The Toronto Maritime Museum or Toronto Waterfront Museum or The Pier Museum( prior to 2000, Marine Museum or Marine Museum of Upper Canada) was a museum in Toronto, Ontario, Canada. It celebrated the history of the Toronto waterfront, the history of commerce on the Great Lakes, and the role of maritime commerce in the development of the City of Toronto.",
+    "Museum Fodor is a former art museum in Amsterdam in the Netherlands. The museum was located at the Keizersgracht in Amsterdam- Centrum in the building that currently houses the Foam Fotografiemuseum Amsterdam. The museum was opened in 1863. It was founded following the death of and displayed his art collection. The museum was dissolved in 1993. Fodor's collection is now managed by the Amsterdam Museum.",
+    "The Museum on the Seam is a socio-political contemporary art museum in Jerusalem, Israel.",
+    "University of South Florida Contemporary Art Museum is a contemporary art museum at the University of South Florida in Tampa, Florida. It opened at its current location in 1989. Exhibitions include graphic designs and sculpture.",
+    "Casoria Contemporary Art Museum is located in Casoria in the Province of Naples, Italy. In 2003 the comune approached Antonio Manfredi, a local artist and advocate of international contemporary art, as part of an initiative of local revitalization under the banner \"Una città per l'arte\". The museum was founded in 2005 and has an exhibition space of 3,500 m, largely devoted to its permanent collection of some thousand works by international artists. In April 2012 the museum began burning its collection in protest at the impact of austerity measures introduced in response to the nation's debt crisis, which have had a particularly adverse effect on arts funding.",
+    "The Shanghai Art Museum was an art museum in the city of Shanghai, China. In October 2012, the museum was rebranded as the China Art Museum when it moved to the China pavilion at Expo 2010 on the former Shanghai Expo 2010 lands. The Shanghai Art Museum building is the former clubhouse building of the Shanghai Race Club. It sits on the western edge of People's Park, north of People's Square, which was once the Shanghai race course. The Shanghai Art Museum was the original home of the Shanghai Biennale. The former museum building is being converted to house the Shanghai History Museum, which had been left without a home due to redevelopment since 1999.",
+    "The Leverian collection was a natural history and ethnographic collection assembled by Ashton Lever. It was noted in particular for the content it acquired from the voyages of Captain James Cook. For three decades it was on display in London, being broken up by auction in 1806. The first public location of the collection was the Holophusikon( or Holophusicon), also known as the Leverian Museum, at Leicester House, on Leicester Square in London, England, from 1775 to 1786. After it passed from Lever's ownership, it was displayed for nearly 20 years more near the south end of Blackfriars Bridge. When there it was often known as the Museum Leverianum.",
+    "Bildmuseet is a contemporary art museum in Umeå, northern Sweden.",
+    "Dordrechts Museum is an art museum in Dordrecht, Netherlands. The museum was founded in 1842 and has a collection of artists of the last 400 years.",
+    "The Palazzo Riso, or RISO, Museo d’ Arte Contemporanea della Sicilia(\" RISO, Contemporary Art Museum of Sicily\" also known as Palazzo Belmonte Riso), is a regional contemporary art museum located in the ancient Corso Vittorio Emanuele, Palermo, Italy."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCasoria Contemporary Art Museum was founded in 2005.\nThe Leverian Collection was first displayed in 1775 at the Holophusikon in London.\n1775 is earlier than 2005.\nThe Leverian Collection was founded before Casoria Contemporary Art Museum.\n<answer> Leverian Collection",
+  "predicted_answer": "Leverian Collection",
+  "claims": [
+    "Casoria Contemporary Art Museum was founded in 2005",
+    "The Leverian Collection was first displayed in 1775 at the Holophusikon in London",
+    "1775 is earlier than 2005",
+    "The Leverian Collection was founded before Casoria Contemporary Art Museum"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Casoria Contemporary Art Museum was founded in 2005",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The Leverian Collection was first displayed in 1775 at the Holophusikon in London",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1775 is earlier than 2005",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The Leverian Collection was founded before Casoria Contemporary Art Museum",
+      "claim_type": "DR"
+    }
+  ]
+}

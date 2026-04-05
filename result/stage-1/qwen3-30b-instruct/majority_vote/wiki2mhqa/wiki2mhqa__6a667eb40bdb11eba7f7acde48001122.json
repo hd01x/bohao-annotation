@@ -1,0 +1,141 @@
+{
+  "uid": "wiki2mhqa__6a667eb40bdb11eba7f7acde48001122",
+  "sample_id": "6a667eb40bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the spouse of the composer of film Kalle Stropp, Grodan Boll Och Deras Vänner?",
+  "gold_answer": "Eva Funck",
+  "context": [
+    "Kalle Stropp, Grodan Boll och deras vänner is a 1956 Swedish live-action/stop-motion feature film directed by after an original script by Thomas Funck, using Funck's already well-established characters. It follows a shorter animated film made by the same team in 1987, \"Kalle Stropp och Grodan Boll räddar Hönan\". This is the first time since before 1987 where a Kalle Stropp production features voice acting by others than only Funck himself, only with the exception of children that had participated in other productions as well.",
+    "Thomas Fredrik Georg Funck (26 October 1919 – 30 December 2010) was a Swedish baron (freiherr), author of children's literature, a radio personality and a voice artist, most famous for his stories about Charlie Strap and Froggy Ball (Kalle Stropp och Grodan Boll). He is the brother of Hasse Funck. He was married to Eva Funck and they have a son Gustav.",
+    "Maria Teresa, Grand Duchess of Luxembourg( born María Teresa Mestre y Batista; on 22 March 1956), is the spouse of Grand Duke Henri.",
+    "Marie Louise Coidavid( 1778 – March 11, 1851), was the Queen of the Kingdom of Haiti 1811 – 20 as the spouse of Henri I of Haiti.",
+    "Sophia Magdalena of Denmark (3 July 1746 – 21 August 1813) was Queen of Sweden as the spouse of King Gustav III.",
+    "Mehdi Abrishamchi is an Iranian People's Mujahedin of Iran( MEK) politician who has been described as\" the right hand man of Massoud Rajavi\". He is the former spouse of the group's current leader, Maryam Rajavi, whom he divorced so that she could become the spouse of Massoud Rajavi.",
+    "Gertrude of Saxony and Bavaria( 1152/55–1197) was Duchess of Swabia as the spouse of Duke Frederick IV, and Queen of Denmark as the spouse of King Canute VI.",
+    "Heather Denise Gibson is a Scottish economist currently serving as Director- Advisor to the Bank of Greece( since 2011). She is the spouse of Euclid Tsakalotos, former Greek Minister of Finance.",
+    "Walter Ulfig was a German composer of film scores.",
+    "Princess Auguste of Bavaria( 28 April 1877 – 25 June 1964) was a member of the Bavarian Royal House of Wittelsbach and the spouse of Archduke Joseph August of Austria."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nKalle Stropp, Grodan Boll och deras vänner is a 1956 Swedish film directed by Thomas Funck.\nThomas Funck is the creator of the characters Kalle Stropp and Grodan Boll.\nThomas Funck is a Swedish author, radio personality, and voice artist.\nWalter Ulfig is a German composer of film scores.\nThere is no mention of Walter Ulfig being involved in the film Kalle Stropp, Grodan Boll och deras vänner.\nThe film was directed by Thomas Funck, not Walter Ulfig.\nThe spouse of Thomas Funck is Eva Funck.\nThe spouse of the composer of film Kalle Stropp, Grodan Boll och deras vänner is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Kalle Stropp, Grodan Boll och deras vänner is a 1956 Swedish film directed by Thomas Funck",
+    "Thomas Funck is the creator of the characters Kalle Stropp and Grodan Boll",
+    "Thomas Funck is a Swedish author, radio personality, and voice artist",
+    "Walter Ulfig is a German composer of film scores",
+    "There is no mention of Walter Ulfig being involved in the film Kalle Stropp, Grodan Boll och deras vänner",
+    "The film was directed by Thomas Funck, not Walter Ulfig",
+    "The spouse of Thomas Funck is Eva Funck",
+    "The spouse of the composer of film Kalle Stropp, Grodan Boll och deras vänner is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Kalle Stropp, Grodan Boll och deras vänner is a 1956 Swedish film directed by Thomas Funck",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Thomas Funck is the creator of the characters Kalle Stropp and Grodan Boll",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Thomas Funck is a Swedish author, radio personality, and voice artist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Walter Ulfig is a German composer of film scores",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "There is no mention of Walter Ulfig being involved in the film Kalle Stropp, Grodan Boll och deras vänner",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The film was directed by Thomas Funck, not Walter Ulfig",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The spouse of Thomas Funck is Eva Funck",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The spouse of the composer of film Kalle Stropp, Grodan Boll och deras vänner is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "uid": "strategyqa__a9ac24cbbb2fce862026",
+  "sample_id": "a9ac24cbbb2fce862026",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does ABBA have similar gender configuration to The Mamas & The Papas?",
+  "gold_answer": "yes",
+  "context": [
+    "ABBA was a Swedish pop group composed of four members.",
+    "The Mamas & The Papas was an American band composed of four members.",
+    "The members of ABBA are Björn Ulvaeus (male), Benny Andersson (male), Agnetha Fältskog (female), and Anni-Frid Lyngstad (female)..",
+    "The members of The Mamas & The Papas are John Phillips (male), Denny Doherty (male), Cass Elliot (female), and Michelle Phillips (female)."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nABBA has two male members and two female members.\nThe Mamas & The Papas has two male members and two female members.\nThe gender configuration of ABBA is two males and two females.\nThe gender configuration of The Mamas & The Papas is two males and two females.\nThe gender configuration of ABBA is the same as that of The Mamas & The Papas.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "ABBA has two male members and two female members",
+    "The Mamas & The Papas has two male members and two female members",
+    "The gender configuration of ABBA is two males and two females",
+    "The gender configuration of The Mamas & The Papas is two males and two females",
+    "The gender configuration of ABBA is the same as that of The Mamas & The Papas"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "ABBA has two male members and two female members",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Mamas & The Papas has two male members and two female members",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The gender configuration of ABBA is two males and two females",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The gender configuration of The Mamas & The Papas is two males and two females",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The gender configuration of ABBA is the same as that of The Mamas & The Papas",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

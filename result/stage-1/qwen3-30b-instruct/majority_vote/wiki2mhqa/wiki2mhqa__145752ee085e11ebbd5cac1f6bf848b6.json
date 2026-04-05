@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__145752ee085e11ebbd5cac1f6bf848b6",
+  "sample_id": "145752ee085e11ebbd5cac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Was Recep Çetin or Kim Ho born first?",
+  "gold_answer": "Kim Ho",
+  "context": [
+    "Lee Ho( born January 6, 1986) is a South Korean football player",
+    "Lee Ho( born 22 October 1984) is a South Korean footballer.",
+    "Elizabeth Ho( born May 2, 1983) is an American actress.",
+    "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford.",
+    "Kim Ho- jun( born 1 May 1990) is a South Korean snowboarder. He is a participant at the 2014 Winter Olympics in Sochi.",
+    "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand.",
+    "Kim Ho- kon( born 26 March 1951) is a South Korean football manager and former football player.",
+    "Kim Ho( born November 24, 1944) is a South Korean former football player and manager.",
+    "Kim Ho- nam( born June 14, 1989) is a South Korean football player who plays for Sangju Sangmu.",
+    "Recep Çetin( born 1 October 1965 in Karasu) is a Turkish footballer whose career as a defender lasted from 1979 to 2002. A native of the town of Karasu in the Marmara Region's Sakarya Province, Recep Çetin began his football career in 1979 at the age of 14 as a youth trainee in the Sakaryaspor football club, where he remained upon turning professional at 19 in 1984. Transferring to Boluspor in 1986 and Beşiktaş J.K. in 1988, he was selected to play for the Turkey national football team 56 times and played 10 seasons in Beşiktaş. He won 4 league titles, 3 Turkish Cups, 4 President's Cups, 2 Prime Minister's Cups and 5 TSYD championships. Upon leaving Beşiktaş he transferred to Trabzonspor in 1998 and then to İstanbulspor in 1999, ultimately retiring in 2002. He was always a respected member of both Beşiktaş and the Turkish National Team, and captained both on many occasions. Known for his versatile playing style and lock- down defensive prowess he was nicknamed\" Takoz Recep\"( meaning\" wedge\" or a\" wheel lock\"). His goal against Switzerland from just pasts the midfield in the Euro 1996 qualifiers created an iconic moment shown on sports program credits for decades. He still remains a football icon in Turkey with a cult following."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRecep Çetin was born on 1 October 1965.\nKim Ho was born on 24 November 1944.\n1944 is earlier than 1965.\nKim Ho was born before Recep Çetin.\n<answer> Kim Ho",
+  "predicted_answer": "Kim Ho",
+  "claims": [
+    "Recep Çetin was born on 1 October 1965",
+    "Kim Ho was born on 24 November 1944",
+    "1944 is earlier than 1965",
+    "Kim Ho was born before Recep Çetin"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Recep Çetin was born on 1 October 1965",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Kim Ho was born on 24 November 1944",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "1944 is earlier than 1965",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Kim Ho was born before Recep Çetin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

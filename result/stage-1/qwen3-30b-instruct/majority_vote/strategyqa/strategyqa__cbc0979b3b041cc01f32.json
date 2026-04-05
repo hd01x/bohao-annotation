@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__cbc0979b3b041cc01f32",
+  "sample_id": "cbc0979b3b041cc01f32",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can Simon Cowell vote for the next Supreme Court judge?",
+  "gold_answer": "no",
+  "context": [
+    "The Supreme Court is the highest court in the USA.",
+    "Simon Cowell is a British talent competition judge.",
+    "Members of the Supreme Court are appointed, rather than elected."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSimon Cowell is a British talent competition judge.\nSimon Cowell is not a member of the United States Supreme Court.\nOnly members of the U.S. Senate have the authority to confirm Supreme Court nominees.\nSimon Cowell is not a U.S. Senator.\nSimon Cowell does not have the legal authority to vote for a Supreme Court judge.\nSimon Cowell cannot vote for the next Supreme Court judge.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Simon Cowell is a British talent competition judge",
+    "Simon Cowell is not a member of the United States Supreme Court",
+    "Only members of the U.S. Senate have the authority to confirm Supreme Court nominees",
+    "Simon Cowell is not a U.S. Senator",
+    "Simon Cowell does not have the legal authority to vote for a Supreme Court judge",
+    "Simon Cowell cannot vote for the next Supreme Court judge"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Simon Cowell is a British talent competition judge",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Simon Cowell is not a member of the United States Supreme Court",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Only members of the U.S. Senate have the authority to confirm Supreme Court nominees",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Simon Cowell is not a U.S. Senator",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Simon Cowell does not have the legal authority to vote for a Supreme Court judge",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Simon Cowell cannot vote for the next Supreme Court judge",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

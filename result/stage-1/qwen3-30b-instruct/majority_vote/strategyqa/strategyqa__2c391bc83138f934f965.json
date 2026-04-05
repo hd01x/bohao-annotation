@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__2c391bc83138f934f965",
+  "sample_id": "2c391bc83138f934f965",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can an art dealer buy Boeing 737-800 with a Da Vinci painting?",
+  "gold_answer": "yes",
+  "context": [
+    "The Boeing 737-800 plane costs 106 million dollars in 2019.",
+    "Salvator Mundi, a painting attributed to Leonardo Da Vinci, is the most expensive painting ever sold.",
+    "Salvator Mundi sold for over 450 million dollars."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Boeing 737-800 plane costs 106 million dollars in 2019.\nSalvator Mundi, a painting attributed to Leonardo Da Vinci, sold for over 450 million dollars.\n450 million dollars is greater than 106 million dollars.\nAn art dealer who owns Salvator Mundi can afford to buy a Boeing 737-800.\nThe art dealer can buy a Boeing 737-800 with a Da Vinci painting.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Boeing 737-800 plane costs 106 million dollars in 2019",
+    "Salvator Mundi, a painting attributed to Leonardo Da Vinci, sold for over 450 million dollars",
+    "450 million dollars is greater than 106 million dollars",
+    "An art dealer who owns Salvator Mundi can afford to buy a Boeing 737-800",
+    "The art dealer can buy a Boeing 737-800 with a Da Vinci painting"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Boeing 737-800 plane costs 106 million dollars in 2019",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Salvator Mundi, a painting attributed to Leonardo Da Vinci, sold for over 450 million dollars",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "450 million dollars is greater than 106 million dollars",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "An art dealer who owns Salvator Mundi can afford to buy a Boeing 737-800",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The art dealer can buy a Boeing 737-800 with a Da Vinci painting",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

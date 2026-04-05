@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__5b45ccb915731a9e5f05",
+  "sample_id": "5b45ccb915731a9e5f05",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would it be hard to get toilet paper if there were no loggers?",
+  "gold_answer": "yes",
+  "context": [
+    "Logging produces products such as pulp.",
+    "Pulp is used to make paper products such as toilet paper."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLogging produces pulp.\nPulp is used to make paper products such as toilet paper.\nWithout loggers, pulp would not be produced.\nNo pulp means no paper products like toilet paper.\nIt would be hard to get toilet paper if there were no loggers.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Logging produces pulp",
+    "Pulp is used to make paper products such as toilet paper",
+    "Without loggers, pulp would not be produced",
+    "No pulp means no paper products like toilet paper",
+    "It would be hard to get toilet paper if there were no loggers"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Logging produces pulp",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Pulp is used to make paper products such as toilet paper",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Without loggers, pulp would not be produced",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "No pulp means no paper products like toilet paper",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "It would be hard to get toilet paper if there were no loggers",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

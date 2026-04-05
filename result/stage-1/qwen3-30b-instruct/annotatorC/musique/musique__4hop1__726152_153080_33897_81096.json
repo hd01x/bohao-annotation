@@ -1,0 +1,117 @@
+{
+  "uid": "musique__4hop1__726152_153080_33897_81096",
+  "sample_id": "4hop1__726152_153080_33897_81096",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who won the Indy Car Race in the largest populated city of the state where the performer of Tijuana Moods is from?",
+  "gold_answer": "Mario Andretti",
+  "context": [
+    "As of the census of 2000, there were 2,226 people, 957 households, and 618 families residing in the city. The population density was 1,486.5 people per square mile (573.0/km²). There were 1,050 housing units at an average density of 701.2 per square mile (270.3/km²). The racial makeup of the city was 99.01% White, 0.04% African American, 0.27% Native American, 0.45% from other races, and 0.22% from two or more races. Hispanic or Latino of any race were 0.81% of the population.",
+    "Jersey City is the second-most - populous city in the U.S. state of New Jersey, after Newark. It is the seat of Hudson County as well as the county's largest city. As of 2016, the Census Bureau's Population Estimates Program calculated that Jersey City's population was 264,152, with the largest population increase of any municipality in New Jersey since 2010, an increase of about 6.7% from the 2010 United States Census, when the city's population was at 247,597, ranking the city the 77th - largest in the nation.",
+    "Šiauliai (; ) is the fourth largest city in Lithuania, with a population of 107,086. From 1994 to 2010 it was the capital of Šiauliai County.",
+    "As of the census of 2000, there were 10,345 people, 3,850 households, and 2,895 families residing in the city. The population density was 1,835.4 people per square mile (708.2/km²). There were 3,959 housing units at an average density of 557.3 per square mile (215.3/km²). The racial makeup of the city was 97.11% White, 0.92% African American, 0.33% Native American, 0.46% Asian, 0.41% Pacific Islander, 0.77% from other races, and 1.20% from two or more races. Hispanic or Latino of any race were 1.65% of the population.",
+    "As of the census of 2010, there were 1,124 people, 460 households, and 286 families residing in the city. The population density was 624.4 inhabitants per square mile (241.1/km2). There were 522 housing units at an average density of 290.0 per square mile (112.0/km2). The racial makeup of the city was 98.5% White, 0.2% African American, 0.4% Asian, 0.1% from other races, and 0.9% from two or more races. Hispanic or Latino of any race were 1.4% of the population.",
+    "Charles Mingus was born in Nogales, Arizona. His father, Charles Mingus Sr., was a sergeant in the U.S. Army. Mingus was largely raised in the Watts area of Los Angeles. His maternal grandfather was a Chinese British subject from Hong Kong, and his maternal grandmother was an African-American from the southern United States. Mingus was the third great-grandson of the family's founding patriarch who was, by most accounts, a German immigrant. His ancestors included German American, African American, and Native American.",
+    "As of the census of 2000, there were 4,564 people, 1,979 households, and 1,258 families residing in the city. The population density was 1,762.4 people per square mile (680.4/km²). There were 2,191 housing units at an average density of 846.0 per square mile (326.6/km²). The racial makeup of the city was 97.98% White, 0.64% African American, 0.33% Native American, 0.20% Asian, 0.07% from other races, and 0.79% from two or more races. Hispanic or Latino of any race were 0.53% of the population.",
+    "The U.S. Census Bureau reports a 2010 population of 129,779, with 47,094 households and 25,854 families within the city of New Haven. The population density is 6,859.8 people per square mile (2,648.6/km²). There are 52,941 housing units at an average density of 2,808.5 per square mile (1,084.4/km²). The racial makeup of the city is 42.6% White, 35.4% African American, 0.5% Native American, 4.6% Asian, 0.1% Pacific Islander, 12.9% from other races, and 3.9% from two or more races. Hispanic or Latino residents of any race were 27.4% of the population. Non-Hispanic Whites were 31.8% of the population in 2010, down from 69.6% in 1970. The city's demography is shifting rapidly: New Haven has always been a city of immigrants and currently the Latino population is growing rapidly. Previous influxes among ethnic groups have been African-Americans in the postwar era, and Irish, Italian and (to a lesser degree) Slavic peoples in the prewar period.",
+    "Hagerty Insurance Agency, styled just Hagerty, is an insurance company specializing in classic car insurance based in Traverse City, Michigan, in the United States. The company is the leading insurance agency for collector vehicles in the world and host to the largest network of collector car owners. They have also been recognized as \"largest insurance agency for collector cars in the United States.\"",
+    "Tijuana Moods is an album by Charles Mingus originally recorded in 1957 but not released until June 1962. It was reissued in 1986 on CD as \"New Tijuana Moods\" with four alternate takes. 2-CD expanded versions with further alternate takes were issued by RCA in 2000 and by Columbia in 2010.",
+    "Tucson (/ˈtuːsɒn/ /tuːˈsɒn/) is a city and the county seat of Pima County, Arizona, United States, and home to the University of Arizona. The 2010 United States Census put the population at 520,116, while the 2013 estimated population of the entire Tucson metropolitan statistical area (MSA) was 996,544. The Tucson MSA forms part of the larger Tucson-Nogales combined statistical area (CSA), with a total population of 980,263 as of the 2010 Census. Tucson is the second-largest populated city in Arizona behind Phoenix, both of which anchor the Arizona Sun Corridor. The city is  located 108 miles (174 km) southeast of Phoenix and 60 mi (97 km) north of the U.S.-Mexico border. Tucson is the 33rd largest city and the 59th largest metropolitan area in the United States. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems, earning Tucson the nickname Optics Valley.",
+    "Mexico (Spanish: México [ˈmexiko] (listen); Nahuatl languages: Mēxihco), officially the United Mexican States (Spanish: Estados Unidos Mexicanos [esˈtaðos uˈniðoz mexiˈkanos] (listen)), is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico. Covering almost 2,000,000 square kilometers (770,000 sq mi), the nation is the fifth largest country in the Americas by total area and the 13th largest independent state in the world. With an estimated population of over 120 million people, the country is the tenth most populous state and the most populous Spanish-speaking state in the world, while being the second most populous nation in Latin America after Brazil. Mexico is a federation comprising 31 states and Mexico City, a special federal entity that is also the capital city and its most populous city. Other metropolises in the state include Guadalajara, Monterrey, Puebla, Toluca, Tijuana and León.",
+    "Jeff Altenburg is a professional race car driver born in the USA. He has won sixteen national championships in both amateur and professional racing.",
+    "Auto racing is also popular in the area. The Richmond International Raceway (RIR) has hosted NASCAR Sprint Cup races since 1953, as well as the Capital City 400 from 1962 − 1980. RIR also hosted IndyCar's Suntrust Indy Challenge from 2001 − 2009. Another track, Southside Speedway, has operated since 1959 and sits just southwest of Richmond in Chesterfield County. This .333-mile (0.536 km) oval short-track has become known as the \"Toughest Track in the South\" and \"The Action Track\", and features weekly stock car racing on Friday nights. Southside Speedway has acted as the breeding grounds for many past NASCAR legends including Richard Petty, Bobby Allison and Darrell Waltrip, and claims to be the home track of NASCAR superstar Denny Hamlin.",
+    "After a hiatus of eleven years, the race was revived by the Verizon IndyCar Series in 2016. It was held on Saturday night under the lights. Long considered a popular Indy car track, Phoenix has a rich history of open wheel races, including a spectacular crash involving Johnny Rutherford (1980), and the final career victory for Indy legend Mario Andretti (1993).",
+    "Oklahoma City is the principal city of the eight-county Oklahoma City Metropolitan Statistical Area in Central Oklahoma and is the state's largest urbanized area. Based on population rank, the metropolitan area was the 42nd largest in the nation as of 2012.",
+    "As of the census of 2010, there were 878 people, 349 households, and 167 families residing in the city. The population density was 914.6 inhabitants per square mile (353.1/km2). There were 398 housing units at an average density of 414.6 per square mile (160.1/km2). The racial makeup of the city was 83.0% White, 2.3% African American, 9.9% Native American, 0.7% Asian, 0.3% from other races, and 3.8% from two or more races. Hispanic or Latino of any race were 1.7% of the population.",
+    "As of the census of 2010, there were 1,963 people, 770 households, and 505 families residing in the city. The population density was 1,443.4 inhabitants per square mile (557.3/km2). There were 830 housing units at an average density of 610.3 per square mile (235.6/km2). The racial makeup of the city was 97.0% White, 0.3% African American, 0.6% Native American, 0.2% Asian, 0.8% from other races, and 1.2% from two or more races. Hispanic or Latino of any race were 1.5% of the population.",
+    "As of the census of 2010, there were 672 people, 304 households, and 164 families residing in the city. The population density was 700.0 inhabitants per square mile (270.3/km2). There were 336 housing units at an average density of 350.0 per square mile (135.1/km2). The racial makeup of the city was 99.7% White, 0.1% from other races, and 0.1% from two or more races. Hispanic or Latino of any race were 0.6% of the population.",
+    "With an estimated population of 1,381,069 as of July 1, 2014, San Diego is the eighth-largest city in the United States and second-largest in California. It is part of the San Diego–Tijuana conurbation, the second-largest transborder agglomeration between the US and a bordering country after Detroit–Windsor, with a population of 4,922,723 people. San Diego is the birthplace of California and is known for its mild year-round climate, natural deep-water harbor, extensive beaches, long association with the United States Navy and recent emergence as a healthcare and biotechnology development center."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCharles Mingus was born in Nogales, Arizona.\nTijuana Moods is an album by Charles Mingus.\nNogales is located in the U.S. state of Arizona.\nTucson is the second-largest populated city in Arizona.\nTucson is the largest populated city in Arizona after Phoenix.\nPhoenix is the largest populated city in Arizona.\nThe Indy Car Race in Phoenix was revived by the Verizon IndyCar Series in 2016.\nThe race was held on Saturday night under the lights in 2016.\nThe final career victory for Indy legend Mario Andretti was in 1993 at Phoenix.\nMario Andretti won the Indy Car Race in Phoenix.\nThe largest populated city in Arizona is Phoenix.\nThe performer of Tijuana Moods is from Arizona.\nThe Indy Car Race in the largest populated city of the state where the performer of Tijuana Moods is from was won by Mario Andretti.\n<answer> Mario Andretti",
+  "predicted_answer": "Mario Andretti",
+  "claims": [
+    "Charles Mingus was born in Nogales, Arizona",
+    "Tijuana Moods is an album by Charles Mingus",
+    "Nogales is located in the U.S. state of Arizona",
+    "Tucson is the second-largest populated city in Arizona",
+    "Tucson is the largest populated city in Arizona after Phoenix",
+    "Phoenix is the largest populated city in Arizona",
+    "The Indy Car Race in Phoenix was revived by the Verizon IndyCar Series in 2016",
+    "The race was held on Saturday night under the lights in 2016",
+    "The final career victory for Indy legend Mario Andretti was in 1993 at Phoenix",
+    "Mario Andretti won the Indy Car Race in Phoenix",
+    "The largest populated city in Arizona is Phoenix",
+    "The performer of Tijuana Moods is from Arizona",
+    "The Indy Car Race in the largest populated city of the state where the performer of Tijuana Moods is from was won by Mario Andretti"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Charles Mingus was born in Nogales, Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Tijuana Moods is an album by Charles Mingus",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Nogales is located in the U.S. state of Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Tucson is the second-largest populated city in Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Tucson is the largest populated city in Arizona after Phoenix",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "Phoenix is the largest populated city in Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "The Indy Car Race in Phoenix was revived by the Verizon IndyCar Series in 2016",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C8",
+      "text": "The race was held on Saturday night under the lights in 2016",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C9",
+      "text": "The final career victory for Indy legend Mario Andretti was in 1993 at Phoenix",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C10",
+      "text": "Mario Andretti won the Indy Car Race in Phoenix",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C11",
+      "text": "The largest populated city in Arizona is Phoenix",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C12",
+      "text": "The performer of Tijuana Moods is from Arizona",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C13",
+      "text": "The Indy Car Race in the largest populated city of the state where the performer of Tijuana Moods is from was won by Mario Andretti",
+      "claim_type": "DR"
+    }
+  ]
+}

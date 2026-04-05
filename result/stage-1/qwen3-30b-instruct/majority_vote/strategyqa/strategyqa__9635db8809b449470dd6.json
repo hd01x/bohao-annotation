@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__9635db8809b449470dd6",
+  "sample_id": "9635db8809b449470dd6",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is 3D printing able to make adenovirus?",
+  "gold_answer": "no",
+  "context": [
+    "3D printers come with limitations in terms of precision. The standard nozzle output is about 0.4 mm. Therefore, if you are planning to print something that is below 0.4mm, you will not get a useful item.",
+    "Adenoviruses are medium-sized (90–100 nm), nonenveloped (without an outer lipid bilayer) viruses with an icosahedral nucleocapsid containing a double stranded DNA genome."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\n3D printers have a standard nozzle output of about 0.4 mm.\nAdenoviruses are 90–100 nm in size.\n0.4 mm is equivalent to 400,000 nm.\n90–100 nm is significantly smaller than 400,000 nm.\n3D printing cannot produce objects smaller than the nozzle's minimum output.\n3D printing is not able to make adenovirus.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "3D printers have a standard nozzle output of about 0.4 mm",
+    "Adenoviruses are 90–100 nm in size",
+    "0.4 mm is equivalent to 400,000 nm",
+    "90–100 nm is significantly smaller than 400,000 nm",
+    "3D printing cannot produce objects smaller than the nozzle's minimum output",
+    "3D printing is not able to make adenovirus"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "3D printers have a standard nozzle output of about 0.4 mm",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Adenoviruses are 90–100 nm in size",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "0.4 mm is equivalent to 400,000 nm",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "90–100 nm is significantly smaller than 400,000 nm",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "3D printing cannot produce objects smaller than the nozzle's minimum output",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "3D printing is not able to make adenovirus",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

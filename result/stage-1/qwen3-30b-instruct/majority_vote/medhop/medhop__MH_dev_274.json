@@ -1,0 +1,308 @@
+{
+  "uid": "medhop__MH_dev_274",
+  "sample_id": "MH_dev_274",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00050\", \"DB00472\", \"DB03496\", \"DB04971\", \"DB05295\", \"DB05332\", \"DB06155\", \"DB06693\", and \"DB06785\" interacts with DB01109?",
+  "gold_answer": "DB00472",
+  "context": [
+    "Structural basis for inhibition of cyclin-dependent kinase 9 by flavopiridol . DB03496 has been shown to potently inhibit P06493 and 2 ( cyclin-dependent kinases 1 and 2 ) and most recently it has been found that it also inhibits P50750 . The complex P50750 -cyclin T1 controls the elongation phase of transcription by RNA polymerase II . The present work describes a molecular model for the binary complex P50750 -flavopiridol . This structural model indicates that the inhibitor strongly binds to the DB00171 -binding pocket of P50750 and the structural comparison of the complex P24941 -flavopiridol correlates the structural differences with differences in inhibition of these CDKs by flavopiridol . This structure opens the possibility of testing new inhibitor families , in addition to new substituents for the already known leading structures such as flavones and adenine derivatives .",
+    "Estrogen-astrocyte-luteinizing hormone-releasing hormone signaling : a role for transforming growth factor-beta(1) . The purpose of this study was to identify factors from astrocytes that can regulate P01148 neurosecretion . Exposure of P01148 -secreting ( GT1-7 ) cells to conditioned media ( CM ) from P13671 glial cells and hypothalamic astrocytes ( HA ) stimulated P01148 release . Assays of P13671 and HA CM revealed that transforming growth factor-beta(1) ( TGF-beta(1) ) and 3alpha-hydroxy-5alpha-pregnane-20-one ( 3alpha , 5alpha-THP ) , both known P01148 secretagogues , were present in CM and their levels increased in parallel to the P01148 -releasing activity of CM . In contrast , TGF-alpha was undetectable in P13671 or HA CM . Ultrafiltration to remove peptides with molecular weights > 10 kDa virtually abolished the P01148 -releasing ability of the HA CM . Furthermore , immunoneutralization with a panspecific DB00116 -beta antibody dose-dependently attenuated the P01148 -releasing activity of the CM . Rat hypothalamus and GT1-7 cells were demonstrated to express TGF-beta receptors as well as furin , an enzyme that converts latent TGF-beta(1) to active TGF-beta(1) . P03372 -alpha and Q92731 mRNA and protein were also demonstrated in HAs by reverse transcription-polymerase chain reaction and double immunofluorescence , and treatment with 17beta-estradiol ( 17beta-E(2) ) increased both active and latent TGF-beta(1) levels in HA CM . The effect of 17beta-E(2) was completely blocked by the ER antagonist ICI8280 . As a whole , these studies provide evidence of a previously undescribed 17beta-E(2)-TGF-beta(1)- P01148 signaling pathway .",
+    "DB05332 administration shows reduced megakaryocyte response-capacity and increased myelofibrosis in a mouse model of P35579 -RD . Macrothrombocytopenia in P35579 -related disease ( P35579 -RD ) results from defects in nonmuscular myosin-IIA function . P40238 agonists ( eltrombopag ; romiplostim ) seem to improve hemostasis , but little is known about their biologic effects in P35579 -RD . We administered romiplostim to Myh9(-/-) mice ( 100 μg/kg , every 3 days , during 1 month ) . MKs increased to similar numbers in Myh9(-/-) and wild-type ( WT ) mice ( with an increase in immature MKs ) , but Myh9(-/-) platelet count response was much less ( 2.5-fold vs 8-fold increase ) . A strong increase in MK nuclei emboli in the lung , in WT and Myh9(-/-) mice , indicates increased transmigration of MKs from the BM . Prolonged ( but not acute ) treatment with romiplostim decreased expression of GPIb-IX-V complex and Q9HCN6 , but not of GPIIbIIIa , and bleeding time increased in WT mice . Microcirculation was not altered by the increased number of large platelets in any of the assessed organs , but in Myh9(-/-) mice a much stronger increase in BM reticulin fibers was present after 4 weeks of romiplostim treatment vs WT mice . These data further encourage short-term use of thrombopoietic agents in patients with P35579 -RDs ; however , myelofibrosis has to be considered as a potential severe adverse effect during longer treatment . Reduction of GPIbIX/ Q9HCN6 expression by romiplostim requires further studies .",
+    "Inhibitory effect of caffeic acid phenethyl ester on the growth of P13671 glioma cells in vitro and in vivo . Caffeic acid phenethyl ester ( O95347 ) , a component of honeybee propolis , has been reported to hold various biochemical responses . In the preliminary study , we found that O95347 inhibited the growth of P13671 glioma cells in a dose dependent and time dependent manner as shown by the results of trypan blue dye exclusion assay and cell proliferation assay . In addition , the cell number percentage of the G0/ P55008 phase increased to 85 % after the treatment with 50 microM of O95347 for 24h . After treatment with O95347 ( 50 microM ) for 6h , it demonstrated that the protein level of hyperphosphorylated P06400 decreased , and cyclin dependent kinase inhibitors P38936 , p27 , and p16 were marked up-regulated . The association of P24941 and cyclin E that affects the P24941 activity decreased . When P13671 cells were grown as xenografts in nude mice , treatment with O95347 ( 1-10mg/kg ; ip ) induced a significant dose dependent decrease in tumor growth by evaluating tumor volume and tumor weight . Histochemical and immunohistochemical analysis revealed that O95347 treatment significantly reduced the number of mitotic cells and proliferating cell nuclear antigen ( P12004 ) -positive cells in P13671 glioma . These results suggest that O95347 presents an antitumor potential for glioma by inhibiting the growth of tumor cells .",
+    "Effects of peroxisome proliferator-activated receptor-alpha and -gamma agonist , DB04971 , on diabetic complications in Zucker diabetic fatty rats . This study has investigated the effects of DB04971 , a peroxisome proliferator-activated receptor ( Q07869 ) -alpha and P37231 agonist , on the pathogenesis of diabetic complications in the Zucker diabetic fatty ( ZDF ) rats , a model of type 2 diabetes . Comparison is made with troglitazone , a P37231 agonist . The ZDF rats exhibited hyperglycaemia and hyperlipidaemia , and developed diabetic complications such as cataract , nephropathy , and neuropathy . Treatment with DB04971 from the prediabetic stage controlled glycaemia and lipidaemia , and prevented the development of diabetic complications . DB00197 was less effective in controlling serum cholesterol and neuropathy . ZDF rats developed diabetic osteopenia with reduced bone turnover , and this was prevented by DB04971 and troglitazone , possibly mediated by increased bone turnover and bone formation . Since DB04971 controlled glycaemia and lipidaemia in ZDF rats and prevented several diabetic complications , it is suggested that treatment with DB04971 , which activates both Q07869 and P37231 , could provide a valuable therapeutic approach against diabetic complications in type 2 diabetes .",
+    "A surface plasmon resonance-based solution affinity assay for heparan sulfate-binding proteins . A surface plasmon resonance-based solution affinity assay is described for measuring the K(d) of binding of heparin/heparan sulfate-binding proteins with a variety of ligands . The assay involves the passage of a pre-equilibrated solution of protein and ligand over a sensor chip onto which heparin has been immobilised . DB01109 sensor chips prepared by four different methods , including biotin-streptavidin affinity capture and direct covalent attachment to the chip surface , were successfully used in the assay and gave similar K(d) values . The assay is applicable to a wide variety of heparin/HS-binding proteins of diverse structure and function ( e.g. , P05230 , P09038 , P15692 , P10145 , P80075 , P01008 , P02776 ) and to ligands of varying molecular weight and degree of sulfation ( e.g. , heparin , DB05808 , sucrose octasulfate , naphthalene trisulfonate ) and is thus well suited for the rapid screening of ligands in drug discovery applications .",
+    "Use of P01148 antagonists in reproductive medicine . Gonadotrophin-releasing hormone ( DB00644 ) plays a key role in the secretion of gonadotrophins , follicle-stimulating hormone ( DB00094 ) and luteinizing hormone ( LH ) , which regulate steroidogenesis and folliculogenesis . Two DB00644 antagonists , DB00050 and DB06785 , deprived of histaminergic side-effects , have been introduced into ovarian stimulation protocols to prevent premature LH surges and proved their safety in clinical trials . At present , most of the published studies have not found significant differences in follicular recruitment , oocyte quality , and so on , except for a decrease in pregnancy and implantation rates in in vitro fertilization and embryo transfer ( IVF-ET ) cycles when the DB00644 antagonist rather than the agonist was used . This decrease in pregnancy rates was in relation with a necessary learning curve of the physicians . Another possibility is the impact of the DB00644 antagonist on endometrium through its P30968 ; this effect was cancelled after cryopreserved embryo transfers because the pregnancy rates were similar between DB00644 antagonist and agonist in this case . DB00644 antagonists were also interesting in poor responders and polycystic ovarian syndrome , where the agonists have not permitted to obtain the better results in IVF-ET cycles . Similarly , the DB00644 antagonists could prevent the LH surge in the intrauterine insemination cycles .",
+    "DB01109 's anti-inflammatory effects require glucosamine 6-O-sulfation and are mediated by blockade of L- and P-selectins . DB01109 has been used clinically as an anticoagulant and antithrombotic agent for over 60 years . Here we show that the potent anti-inflammatory property of heparin results primarily from blockade of P16109 and P14151 . DB01109 and chemically modified analogs were tested as inhibitors of selectin binding to immobilized sialyl Lewis(X) and of cell adhesion to immobilized selectins or thrombin-activated endothelial cells . Compared with unfractionated heparin , the modified heparinoids had inhibitory activity in this general order : over-O-sulfated heparin > heparin > 2-O,3-O-desulfated > or = N-desulfated/N-acetylated heparin > or = carboxyl-reduced heparin > or= N-,2-O,3-O-desulfated heparin >> 6-O-desulfated heparin . The heparinoids also showed similar differences in their ability to inhibit thioglycollate-induced peritonitis and oxazolone-induced delayed-type hypersensitivity . Mice deficient in P- or L-selectins showed impaired inflammation , which could be further reduced by heparin . However , heparin had no additional effect in mice deficient in both P- and L-selectins . We conclude that ( a ) heparin 's anti-inflammatory effects are mainly mediated by blocking P- and P14151 -initiated cell adhesion ; ( b ) the sulfate groups at P13671 on the glucosamine residues play a critical role in selectin inhibition ; and ( c ) some non-anticoagulant forms of heparin retain anti-inflammatory activity . Such analogs may prove useful as therapeutically effective inhibitors of inflammation .",
+    "Characterization of the human gonadotropin-releasing hormone receptor heterologously produced using the baculovirus/insect cell and the Semliki Forest virus systems . 1. Two eukaryotic viral systems , the baculovirus/insect cell and the Semliki Forest virus systems , were tested for heterologous expression of human gonadotropin-releasing hormone receptor ( GnRHR ) cDNA . 2 . An unmodified as well as a c-myc epitope-tagged human P30968 was produced in two insect cell lines ( Spodoptera frugiperda , Trichoplusia ni ) after infection with the respective recombinant baculoviruses . In both insect cell lines , the receptor was identified by immunoblot analysis as a triplet of bands between 35 and 40 kDa . After deglycosylation of the receptor the molecular mass decreased to 35 kDa . The P30968 was localized in membrane compartments within the infected insect cells . However , only in membranes of infected Trichoplusia ni insect cells could approximately 2000 receptors per cell be detected . 3 . Production of the P30968 in BHK cells using the Semliki Forest virus system resulted in approximately 50,000 receptors per cell . A maximal yield of 0.42 pmol/mg membrane protein was obtained 24 hr after electroporation of BHK cells with in vitro synthesized RNA . Binding of the antagonist [125I] DB00050 was saturable with a KD of 1.3 nM . The receptor produced in the BHK cells was further characterized by ligand displacement studies . The rank order of agonist and antagonist affinities was DB00050 > DB06825 > Antide > DB00644 .",
+    "Involvement of cannabinoid receptors in inflammatory hypersensitivity to colonic distension in rats . Activation of cannabinoid P21554 and CB2 receptors is known to attenuate nociception and hyperalgesia in somatic inflammatory conditions . The aim of this study was to determine whether cannabinoids modulate colonic sensitivity in basal and inflammatory conditions . The effects of P21554 and CB2 receptor agonists and antagonists on the abdominal contractile response to colorectal distension ( CRD ) in basal conditions and after 2,4,6-trinitrobenzenesulphonic acid-induced colitis were investigated . As previously described , colitis triggered a hypersensitivity to CRD . In basal conditions , both P21554 ( Q08050 55212-2 ) and CB2 ( JWH 015 ) agonists reduced the abdominal response to CRD at a dose of 1 mg kg(-1) , i.p . Both compounds were active at a lower dose ( 0.1 mg kg(-1) ) abolishing the hypersensitivity induced by colitis . Administered alone , P21554 ( DB06155 ) and CB2 ( SR 144528 ) receptor antagonists ( 10 mg kg(-1) ) had no effect on basal sensitivity . In contrast , the P21554 , but not the CB2 , receptor antagonist enhanced colitis-induced hyperalgesia . It is concluded that colonic inflammation enhances the antinociceptive action of P21554 and CB2 receptor agonists , and activates an endogenous , P21554 receptor mediated , antinociceptive pathway .",
+    "[ Effect of the monophase oral contraceptive combination with 20 ug ethinyl estradiol/150 ug desogestrel on haemostasis ] . The authors examined the changes in the haemostasis during the use of the oral contraceptive combination with 20 microg ethynil estradiol/150 microg desogestrel at 35 women , a basic group , who used the oral contraceptive in the duration of 12 months and a control group ( n=35 ) , who do not use the pills . We found statistically significant increase of Antithrombin III ( P01008 ) ( p < 0.011 ) , Cofactor II of DB01109 ( HCII ) ( p < 0.001 ) , the activity of plasminogen ( p < 0.026 ) and beta2-antiplasmin ( 0.026 ) , significant decrease of P02810 ( PrC ) ( p < 0.0001 ) and of total Protein S ( TPrS ) ( p < 0.03 ) in the basic group in comparision with the control one . We do not observe significant changes in the rest of the haemostatic variables between the two groups . During the use of the oral contraceptive combination with 20 microg ethynil estradiol/150 microg desogestrel the changes in the system of the natural inhibitors are balanced by these in the system of fibrinolysis .",
+    "Identification of antithrombin-modulating genes . Role of O95461 , a gene encoding a bifunctional glycosyltransferase , in the secretion of proteins ? The haemostatic relevance of antithrombin together with the low genetic variability of P01008 , and the high heritability of plasma levels encourage the search for modulating genes . We used a hypothesis-free approach to identify these genes , evaluating associations between plasma antithrombin and 307,984 polymorphisms in the GAIT study ( 352 individuals from 21 Spanish families ) . Despite no SNP reaching the genome wide significance threshold , we verified milder positive associations in 307 blood donors from a different cohort . This validation study suggested O95461 , a gene encoding a protein with xylosyltransferase and glucuronyltransferase activities that forms heparin-like linear polysaccharides , as a potential modulator of antithrombin based on the significant association of one SNPs , rs762057 , with anti-FXa activity , particularly after adjustment for age , sex and P01008 rs2227589 genotype , all factors influencing antithrombin levels ( p = 0.02 ) . Additional results sustained this association . O95461 silencing inHepG2 and P29320 -EBNA cells did not affect P01008 mRNA levels but significantly reduced the secretion of antithrombin with moderate intracellular retention . Milder effects were observed on α1-antitrypsin , prothrombin and transferrin . Our study suggests O95461 as the first known modifier of plasma antithrombin , and proposes a new role for O95461 in modulating extracellular secretion of certain glycoproteins .",
+    "Dose-dependent modulation of apoptotic processes by fluoxetine in maturing neuronal cells : an in vitro study . OBJECTIVES : Recent studies indicate that the selective serotonin reuptake inhibitor ( SSRI ) fluoxetine is not solely effective by the instant inhibition of the serotonin transporter ( P31645 ) but also by its influence on mitotic and/or apoptotic processes . METHODS : To investigate the effects of the compound in vitro , we treated neurons from different brain areas with increasing concentrations of fluoxetine . Additionally , human embryonic kidney ( P29320 -293 ) cells and P29320 -293 cells stably expressing the P31645 were used . Cell viability was quantified by MTT-assay and apoptosis via fluorescence-activated cell-sorting analyses . DB00472 's effect on the γ-aminobutyric acid ( GABA ) receptor was electrophysiologically investigated to test the hypothesis if a GABA-mimetic effect exists that might lead - additionally to the well-known N-methyl-D-aspartate ( DB01221 ) -antagonism - to increased apoptosis in immature neurons . RESULTS : In hippocampal , cortical , and both types of P29320 -293 cells , viability decreased and apoptosis increased in a dose-dependent manner ( 0.5-75 μM ) . In contrast , in mesencephalic and striatal cells the viability was unchanged or even slightly stimulated up to 20 μM fluoxetine . An anti-apoptotic effect of concentrations below 10 μM was observed in these cells . The GABA(A) receptor was directly activated by fluoxetine . CONCLUSIONS : We conclude that fluoxetine affects apoptotic processes independently from P31645 expression . Since especially the combined GABA-mimetic and DB01221 -antagonistic effects increase apoptosis in developing neuronal cells , whereas both effects are neuroprotective in adult neurons we hypothesise that these mechanisms explain the discrepancy of in vitro and in vivo studies .",
+    "Mapping four genes from human chromosome 4 to porcine chromosome 8 further develops the comparative map for an economically important chromosome of the swine genome . Because porcine chromosome ( SSC ) 8 has become the focal point of many efforts aimed at identifying quantitative trait loci affecting ovulation rate , genes distributed across human chromosome ( HSA ) 4 were physically mapped in the pig . A more refined comparative map of this region for these two species was produced . In this study , four genes were selected based on their location in the human genome , the availability of nucleotide sequence and their genomic organization . The genes selected were fibroblast growth factor basic ( P09038 ; HSA 4q25-27 ) , gonadotropin releasing hormone receptor ( P30968 ; HSA 4q13 ) , phosphodiesterase 6 B ( P35913 ; HSA 4p16.3 ) and aminopeptidase S ( P28838 ; HSA 4p11-q12 ) . Genomic libraries were screened via PCR and clones were physically assigned using fluorescence in situ hybridization ( Q5TCZ1 ) . These four genes from HSA 4 were physically mapped to SSC 8p2.3 ( P35913 ) , 8p1.1 ( P28838 ) , 8q1.1-1.2 ( P30968 ) and 8q2.2-2.4 ( P09038 ) . These assignments provide additional benchmarks for the comparative map and help define the level of gene order conserved between HSA 4 and SSC 8 .",
+    "Functional mapping of cannabinoid receptor homologs in mammals , other vertebrates , and invertebrates . Over the past decade , several putative homologs of cannabinoid receptors ( CBRs ) have been identified by homology screening . Homology screening utilizes sequence alignment search engines to recognize homologs . We investigated these putative P16152 homologs further by ' functional mapping ' of their deduced amino acid sequences . The entire pharmacophore of a P16152 has not yet been elucidated , but point-mutation studies have identified over 20 amino acid residues that impart P16152 specificity for ligand recognition and/or signal transduction . Twenty point-mutation studies were used to construct a P16152 functionality matrix . Sixteen putative P16152 homologs were then mapped over the matrix . Several putative homologs did not hold up to this analysis : human P46089 , P46095 , P47775 , and Caenorhabditis elegans C02H7.2 expressed a series of crippling substitutions in the matrix , strongly suggesting they do not encode functional CBRs . Mapping the contested leech ( Hirudo medicinalis ) P16152 sequence suggests that it encodes a functional P21554 ; it expresses fewer substitutions than the sea squirt ( Ciona intestinalis ) P21554 sequence . Mapping a putative CB2 ortholog in the puffer fish ( Fugu rubripes T012234 ) suggests it may encode a P16152 other than CB2 . These findings are consistent with the lack of experimental data proving these putative CBRs have affinity for cannabinoid ligands . Matrix analysis also reveals that SR144528 , a ' CB2-specific ' synthetic antagonist , has affinity for non-mammalian P21554 receptors , and that Q96MH2 .45 appears to be CB2-specific , its cognate in P21554 receptors is P13726 .45 . In conclusion , functional mapping , utilizing point-mutation studies , may improve the specificity of homology screening performed by sequence alignment search engines .",
+    "Modular synthesis of heparin oligosaccharides . A general , modular strategy for the first completely stereoselective synthesis of defined heparin oligosaccharides is described . Six monosaccharide building blocks ( four differentially protected glucosamines , one glucuronic and one iduronic acid ) were utilized to prepare di- and trisaccharide modules in a fully selective fashion . Installation of the alpha-glucosamine linkage was controlled by placing a conformational constraint on the uronic acid glycosyl acceptors thereby establishing a new concept for stereochemical control . Combination of disaccharide modules to form trans-uronic acid linkages was completely selective by virtue of P06681 participating groups . Coupling reactions between disaccharide modules exhibited sequence dependence . While the union of many glucosamine uronic acid disaccharide modules did not meet any problems , certain sequences proved not accessible . Elaboration of glucosamine uronic acid disaccharide building blocks to trisaccharide modules by addition of either one additional glucosamine or uronic acid allowed for stereoselective access to oligosaccharides as demonstrated on the example of a hexasaccharide resembling the P01008 -binding sequence . Final deprotection and sulfation yielded the fully synthetic heparin oligosaccharides .",
+    "Investigation of a potential protective mechanism against heparin-induced thrombocytopenia in patients on chronic intermittent hemodialysis . BACKGROUND : DB01109 -induced thrombocytopenia ( HIT ) develops as a result of platelet ( Q02083 ) activation by anti-platelet factor 4 ( P02776 ) /heparin complex antibodies . Despite repeated exposure to heparin , patients undergoing chronic intermittent hemodialysis ( HD ) rarely develop HIT . We investigated the possibility that HD decreases/removes P02776 from Q02083 surfaces and/or plasma , thereby disfavoring immune complex formation as a mechanism of protection against HIT . MATERIALS AND METHODS : We enrolled 20 patients undergoing chronic HD at the Penn Presbyterian Medical Center . Blood samples were drawn before , during and after treatment in the presence and absence of heparin . P02776 , anti- P02776 /heparin antibody , heparin , and P16109 levels were measured . RESULTS : No patients demonstrated clinical symptoms of HIT . Q02083 surface P02776 levels decreased and plasma P02776 levels increased concurrently with the increase in plasma heparin concentration . In the absence of heparin , Q02083 surface and plasma P02776 levels were unchanged . Anti- P02776 /heparin antibodies , which were non-functional by the serotonin release assay , were detectable in 8 patients . Q02083 surface P16109 levels did not change during treatment . CONCLUSIONS : Removal of Q02083 surface and/or plasma P02776 as a mechanism of protection against HIT in patients undergoing HD is not supported by the results of our study , although the transient decrease in Q02083 surface P02776 in the presence of large amounts of heparin remains a candidate mechanism . The small sample size , single type of dialyzer membrane , and early sampling time points may have led to the inability to detect changes in P02776 levels . Future studies should explore other potential protective mechanisms .",
+    "Long-term n-3 FA deficiency modifies peroxisome proliferator-activated receptor beta mRNA abundance in rat ocular tissues . Peroxisomal proliferator-activated receptors ( Q07869 ) are a FA-response system involved in diverse cellular responses . FA regulate Q07869 activity and modulate Q07869 mRNA abundance . Increasing evidence indicates that PUFA are required for optimal neuronal development and function . To gain insight into the mechanism for nutrition-induced impairment of neuronal development and function we investigated the effect of chronic n-3 FA deficiency on Q07869 mRNA levels in rat brain and ocular tissues . Rats were fed for three generations a diet designed to reduce DB01708 levels in tissues , and the abundance of PPARalpha and PPARbeta transcripts was measured by hybridization with specific probes . Chronic consumption of the a-linolenic acid ( LNA ) -insufficient diet caused a remarkable modification in DB01708 content in membrane phospholipids . The results reported here indicate that PPARa mRNA levels did not exhibit significant variation in ocular , hepatic , or nervous tissues from rats fed the experimental diet . In contrast , PPARalpha mRNA normalized to beta-actin mRNA was 21 % higher in ocular tissue from P13726 generation rats consuming the LNA-deficient diet but was independent of diet in hepatic and nervous tissues . The absolute abundance of PPARbeta transcripts showed a 17 % increase in ocular tissue from rats consuming the LNA-deficient diet ( P13726 generation ) . The biological significance of the reported changes in PPARbeta mRNA in ocular tissue remains to be determined .",
+    "Levels of matrix metalloproteinase ( MMP ) -1 in paired sera and synovial fluids of juvenile idiopathic arthritis patients : relationship to inflammatory activity , P08254 and tissue inhibitor of metalloproteinases-1 in a longitudinal study . OBJECTIVES : To measure levels of the collagenases matrix metalloproteinase ( MMP ) -1 and -13 in the synovial fluid ( SF ) and serum of patients with juvenile idiopathic arthritis ( JIA ) , and to correlate these measurements with inflammatory activity , levels of the collagenase activator P08254 and the tissue inhibitor of metalloproteinases-1 ( P01033 ) . METHODS : Levels of P03956 , -3 , -13 and P01033 were measured in paired SF and serum from 82 JIA patients using enzyme-linked immunsorbent assay and compared between subtypes and patients of different ages and disease durations . These levels were also correlated to the active joint count ( AJC ) and standard measures of inflammatory activity and therapeutic response , including erythrocyte sedimentation rate ( P03372 ) and platelet count ( Q02083 ) . RESULTS : P03956 was detected in JIA SF and correlated with Q02083 . P08254 levels were high in SF and detectable in serum where they correlated with Q02083 , P03372 and AJC . P45452 , however , was not detected in SF or serum . No differences were observed between patients grouped by subtype , age or disease duration . P08254 contributed the majority of total MMP in SF samples resulting in excess MMP levels over P01033 . CONCLUSIONS : P03956 is up-regulated in SF concordant with inflammatory activity in JIA . This was true for patients in all JIA subtypes and age groups , suggesting that the capability for degradation of type II collagen is present in early disease , and throughout the disease course . P08254 may be important in the activation of collagenases and the saturation of exogenous inhibitors . Serum P08254 may therefore be a useful , measurable and specific marker of active disease in JIA .",
+    "Molecular weight and biochemical profile of a chemically modified heparin derivative , Suleparoide . Recently , a new chemically modified derivative of heparin ( Suleparoide , Syntex Laboratories Buenos Aires , Argentina ) was introduced for the prophylaxis of thrombosis and treatment of vascular disorders . This agent is claimed to contain a depolymerized , chemically modified , heparin derivative with similar biologic actions as heparan sulfate . To study the pharmacologic profile of this agent , we have defined its molecular weight distribution profile , utilizing a computerized gel permeation chromatographic system equipped with ultraviolet and refractive index detectors . Suleparoide exhibited a normal molecular distribution profile with no contaminants . It exhibited a weight average of 9.3 K DA and an apparent peak MW of 8.0 K DA . Approximately 50 % of the molecular components were < 5.0 K DA and 40 % > 5.0 K DA . The results from these studies on the mechanisms show that Suleparoide has anticoagulant activity primarily mediated through DB01109 Cofactor-II ( P05546 ) and because of its novel mechanism of action , further investigations on the biochemical profile of Suleparoide are carried out . Global clotting tests such as Activated Partial P13726 Time ( APTT ) , Heptest and Thrombin Time ( TT ) revealed a concentration dependent effect in all assays . Plasma samples supplemented with Suleparoide exhibited no significant anti-Xa and anti-IIa activities . However , in the P05546 mediated inhibitory assay for IIa , Suleparoide exhibited significant activity . In contrast , the P01008 ( DB11598 ) mediated inhibition of IIa was much weaker .",
+    "DB06693 reduces cartilage degradation in rabbit experimental osteoarthritis through inhibition of synovial inflammation . OBJECTIVE : To examine the therapeutic efficacy of an P04035 inhibitor ( statin ) in rabbit osteoarthritis ( OA ) in vitro and in vivo . METHODS : In the presence or absence of mevastatin , rabbit chondrocytes and synoviocytes were incubated with Interleukin-1beta ( IL-1beta ) , and analyzed by biochemical methods . Thirty-two mature rabbits that underwent bilateral anterior cruciate ligament transaction ( ACLT ) received six consecutive weekly intra-articular injections of mevastatin at three different concentrations or a control solution . All animals were sacrificed 6 weeks after ACLT , and the knee joints were assessed by morphological , histological , immunohistochemical , and biochemical methods . RESULTS : DB06693 inhibited IL-1beta stimulation of gene expression of monocyte chemoattractant protein-1 ( P13500 ) and matrix-metalloproteinases 3 ( P08254 ) , in synoviocytes but not chondrocytes . The levels of P13500 and P08254 productions in synoviocytes were significantly reduced by statin-treatment . In rabbit with OA , intra-articular injection of mevastatin significantly reduced cartilage degradation , as assessed by morphological and histological examinations . Synovial tissues of knees treated with mevastatin showed less severe inflammatory responses with reduced thickness of synovial cell lining and less infiltration of subsynovial P34810 +monocyte lineage cells compared to untreated control knees . Relative mRNA expressions of P13500 , IL-1beta , P08254 , and P45452 were reduced in synovial tissues , but not articular cartilage , of knees treated with mevastatin compared with untreated control knees . CONCLUSION : During the development of experimental OA , intra-articular administration of P04035 inhibitor ( statin ) reduces inflammatory cell infiltration and matrix-degrading enzyme expression , thus limiting cartilage degradation .",
+    "Q07973 as a potential target for cancer therapy . Increasing evidence has accumulated to suggest that vitamin D may reduce the risk of cancer through its biologically active metabolite , DB00136 , which inhibits proliferation and angiogenesis , induces differentiation and apoptosis , and regulates many other cellular functions . Thus , it is plausible to assume that rapid clearance of DB00136 by highly expressed Q07973 could interrupt the normal physiology of cells and might be one cause of cancer initiation and progression . In fact , enhancement of Q07973 expression has been reported in literature for many cancers . Based on these findings , Q07973 -specific inhibitors and vitamin D analogs which are resistant to Q07973 -dependent catabolism might be useful for cancer treatment . Q07973 -specific inhibitor VID400 , which is an azole compound , markedly enhanced and prolonged the antiproliferative activity of DB00136 in the human keratinocytes . Likewise , Q07973 -resistant analogs such as 2α-(3-hydroxypropoxy)- DB00136 ( O2C3 ) and its P06681 -epimer ED-71 ( DB05295 ) , and 19nor- 2α-(3-hydroxypropyl)- DB00136 ( MART-10 ) showed potent biological effects . Our in vivo studies using rats revealed that MART-10 had a low calcemic effect , which is a suitable property as an anticancer drug . Much lower affinity of MART-10 for vitamin D binding protein ( DBP ) as compared with DB00136 may be related to its more potent cellular activities . Based on these results , we conclude that ( 1 ) high affinity for P11473 , ( 2 ) resistance to Q07973 -dependent catabolism , ( 3 ) low affinity for DBP , and ( 4 ) low calcemic effect may be required for designing potent vitamin D analogs for cancer treatment .",
+    "New gene variants associated with venous thrombosis : a replication study in White and Black Americans . BACKGROUND : We evaluated 10 single-nucleotide polymorphisms ( SNPs ) identified in three European case-control studies as risk factors for venous thrombosis . OBJECTIVES : We sought to replicate the positive findings from this report among Whites and to evaluate the association of these SNPs with venous thrombosis for the first time among Blacks . PATIENT/METHODS : These SNPs were evaluated in a case-control study of deep vein thrombosis and pulmonary embolism that included 1076 cases and 1239 controls . About 50 % of subjects were African Americans . We measured plasma factor ( F ) XI on a subset of subjects . RESULTS : Among Whites , positive findings for rs13146272 in the Q6ZWL3 gene , for rs3087505 in the P03952 gene and for rs3756008 and rs2036914 in the P03951 gene were found . We did not find significant associations for rs2227589 in the P01008 gene and for rs1613662 in the Q9HCN6 gene . Among Blacks , rs2036914 in P03951 and rs670659 in P49802 were related to venous thrombosis , but the study had limited statistical power for many SNPs . Among Blacks , plasma P03951 was related to two SNPs and the OR relating to the 90th percentile of the control distribution of plasma P03951 was 2.6 ( 95 % CI , 1.4 , 5.0 ) . CONCLUSIONS : Our study supports the finding that genetic variants in the P03951 gene are risk factors for venous thrombosis among both Whites and Blacks , although the findings in Blacks require confirmation . A meta-analysis of five case-control studies indicates that rs2227589 in the P01008 gene , rs13146272 in the Q6ZWL3 gene and rs1613662 in the Q9HCN6 gene are risk factors for venous thrombosis among Whites ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB01109 is a heparin derivative used as an anticoagulant and antithrombotic agent.\nDB01109's anti-inflammatory effects are mediated by blockade of L-selectin (P16109) and P-selectin (P14151).\nDB01109 and its modified analogs inhibit selectin binding to sialyl Lewis(X) and cell adhesion to immobilized selectins.\nDB01109's anti-inflammatory activity is dependent on glucosamine 6-O-sulfation.\nDB00050 is a gonadotropin-releasing hormone (GnRH) antagonist.\nDB00472 is a compound tested for its effect on GABA receptors and NMDA antagonism.\nDB03496 is a cyclin-dependent kinase inhibitor (flavopiridol).\nDB04971 is a PPAR-alpha and PPAR-gamma agonist.\nDB05295 is a vitamin D analog resistant to catabolism by CYP24A1 (Q07973).\nDB05332 is a compound that reduces megakaryocyte response and increases myelofibrosis in a mouse model.\nDB06155 is a cannabinoid CB1 receptor agonist.\nDB06693 is a statin (P04035 inhibitor) used in osteoarthritis.\nDB06785 is a GnRH antagonist.\nDB01109 interacts with P16109 and P14151 through blockade of selectin-mediated adhesion.\nNo evidence in the text indicates that any of the listed compounds interact with DB01109.\nThe interaction between DB01109 and P16109 is direct and well-documented.\nThe interaction between DB01109 and P14151 is direct and well-documented.\nThe compounds listed do not share a known interaction with DB01109.\nThe compound that interacts with DB01109 is not among the listed options.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB01109 is a heparin derivative used as an anticoagulant and antithrombotic agent",
+    "DB01109's anti-inflammatory effects are mediated by blockade of L-selectin (P16109) and P-selectin (P14151)",
+    "DB01109 and its modified analogs inhibit selectin binding to sialyl Lewis(X) and cell adhesion to immobilized selectins",
+    "DB01109's anti-inflammatory activity is dependent on glucosamine 6-O-sulfation",
+    "DB00050 is a gonadotropin-releasing hormone (GnRH) antagonist",
+    "DB00472 is a compound tested for its effect on GABA receptors and NMDA antagonism",
+    "DB03496 is a cyclin-dependent kinase inhibitor (flavopiridol)",
+    "DB04971 is a PPAR-alpha and PPAR-gamma agonist",
+    "DB05295 is a vitamin D analog resistant to catabolism by CYP24A1 (Q07973)",
+    "DB05332 is a compound that reduces megakaryocyte response and increases myelofibrosis in a mouse model",
+    "DB06155 is a cannabinoid CB1 receptor agonist",
+    "DB06693 is a statin (P04035 inhibitor) used in osteoarthritis",
+    "DB06785 is a GnRH antagonist",
+    "DB01109 interacts with P16109 and P14151 through blockade of selectin-mediated adhesion",
+    "No evidence in the text indicates that any of the listed compounds interact with DB01109",
+    "The interaction between DB01109 and P16109 is direct and well-documented",
+    "The interaction between DB01109 and P14151 is direct and well-documented",
+    "The compounds listed do not share a known interaction with DB01109",
+    "The compound that interacts with DB01109 is not among the listed options"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB01109 is a heparin derivative used as an anticoagulant and antithrombotic agent",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB01109's anti-inflammatory effects are mediated by blockade of L-selectin (P16109) and P-selectin (P14151)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB01109 and its modified analogs inhibit selectin binding to sialyl Lewis(X) and cell adhesion to immobilized selectins",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB01109's anti-inflammatory activity is dependent on glucosamine 6-O-sulfation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00050 is a gonadotropin-releasing hormone (GnRH) antagonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00472 is a compound tested for its effect on GABA receptors and NMDA antagonism",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB03496 is a cyclin-dependent kinase inhibitor (flavopiridol)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB04971 is a PPAR-alpha and PPAR-gamma agonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB05295 is a vitamin D analog resistant to catabolism by CYP24A1 (Q07973)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB05332 is a compound that reduces megakaryocyte response and increases myelofibrosis in a mouse model",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB06155 is a cannabinoid CB1 receptor agonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB06693 is a statin (P04035 inhibitor) used in osteoarthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB06785 is a GnRH antagonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB01109 interacts with P16109 and P14151 through blockade of selectin-mediated adhesion",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "No evidence in the text indicates that any of the listed compounds interact with DB01109",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "The interaction between DB01109 and P16109 is direct and well-documented",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "The interaction between DB01109 and P14151 is direct and well-documented",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "The compounds listed do not share a known interaction with DB01109",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "The compound that interacts with DB01109 is not among the listed options",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

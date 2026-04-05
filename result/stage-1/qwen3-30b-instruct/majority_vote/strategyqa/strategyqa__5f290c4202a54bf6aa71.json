@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__5f290c4202a54bf6aa71",
+  "sample_id": "5f290c4202a54bf6aa71",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Al Unser Jr. win the Space Race?",
+  "gold_answer": "no",
+  "context": [
+    "Al Unser Jr. is a race car driver",
+    "The Space Race was the competition between the Soviet Union and United States over space exploration"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAl Unser Jr. is a race car driver.\nThe Space Race was a competition between the Soviet Union and the United States over space exploration.\nAl Unser Jr. was not involved in space exploration.\nAl Unser Jr. did not participate in the Space Race.\nAl Unser Jr. did not win the Space Race.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Al Unser Jr. is a race car driver",
+    "The Space Race was a competition between the Soviet Union and the United States over space exploration",
+    "Al Unser Jr. was not involved in space exploration",
+    "Al Unser Jr. did not participate in the Space Race",
+    "Al Unser Jr. did not win the Space Race"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Al Unser Jr. is a race car driver",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Space Race was a competition between the Soviet Union and the United States over space exploration",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Al Unser Jr. was not involved in space exploration",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Al Unser Jr. did not participate in the Space Race",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Al Unser Jr. did not win the Space Race",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "uid": "wiki2mhqa__85cc412008b611ebbd88ac1f6bf848b6",
+  "sample_id": "85cc412008b611ebbd88ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Are the directors of both films Captain Calamity (Film) and Heaven Only Knows (Film) from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "I Want Your Love is the title of both a 2010 short film and a 2012 feature- length film. Both films were directed and written by Travis Mathews. The drama films both revolve around the friends and ex-lovers of Jesse Metzger, a gay man in his mid-thirties who is forced to move back to his hometown from San Francisco due to financial reasons. The actors' own names, along with much of their real- life stories, were used for their characters in both films, which features graphic sexual scenes. The production of both films was aided by the gay pornographic studio NakedSword. This led to the full- length film being refused exemption from classification, which would have allowed it to screen at the Melbourne Queer Film Festival, a decision to which actor James Franco( who invited Mathews to collaborate on Franco's film\" Interior. Leather Bar.\") reacted negatively.",
+    "Heaven Only Knows is a 1947 Western fantasy film directed by Albert S. Rogell, starring Robert Cummings, Brian Donlevy and Marjorie Reynolds.",
+    "Captain Calamity is a 1936 American South Seas adventure film directed by John Reinhardt and starring George Houston released by Grand National Pictures. It was filmed in an early colour process called Hirlicolor at Talisman Studios and Santa Catalina Island, California.",
+    "Bombay Dreams is a Swedish comedy film from 2004.",
+    "Albert S. Rogell( August 21, 1901 Oklahoma City, Oklahoma- April 7, 1988 Los Angeles, California) was an American film director. Rogell directed more than a hundred movies between 1921 and 1958. He was the brother of producer Sid Rogell.",
+    "California Winter is an American drama film from 2012.",
+    "Shima is a 2007 film from Uzbekistan.",
+    "Matt Corboy( born June 4, 1973) is an American actor. He has appeared in both films and television series.",
+    "A Kind of America is a Hungarian comedy film from 2002.",
+    "John Reinhardt( 1901 – 1953) was an Austrian actor, screenwriter, and film director. He worked for a number of years in Mexico, where he directed the 1948 American Cold War thriller\" Sofia\". He was married to American screenwriter Elizabeth Reinhardt."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCaptain Calamity (1936) was directed by John Reinhardt.\nJohn Reinhardt was an Austrian actor, screenwriter, and film director.\nHeater Only Knows (1947) was directed by Albert S. Rogell.\nAlbert S. Rogell was an American film director.\nJohn Reinhardt was from Austria.\nAlbert S. Rogell was from the United States.\nAustria and the United States are different countries.\nThe directors of Captain Calamity and Heaven Only Knows are not from the same country.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Captain Calamity (1936) was directed by John Reinhardt",
+    "John Reinhardt was an Austrian actor, screenwriter, and film director",
+    "Heater Only Knows (1947) was directed by Albert S. Rogell",
+    "Albert S. Rogell was an American film director",
+    "John Reinhardt was from Austria",
+    "Albert S. Rogell was from the United States",
+    "Austria and the United States are different countries",
+    "The directors of Captain Calamity and Heaven Only Knows are not from the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Captain Calamity (1936) was directed by John Reinhardt",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "John Reinhardt was an Austrian actor, screenwriter, and film director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Heater Only Knows (1947) was directed by Albert S. Rogell",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Albert S. Rogell was an American film director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "John Reinhardt was from Austria",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "Albert S. Rogell was from the United States",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "Austria and the United States are different countries",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C8",
+      "text": "The directors of Captain Calamity and Heaven Only Knows are not from the same country",
+      "claim_type": "DR"
+    }
+  ]
+}

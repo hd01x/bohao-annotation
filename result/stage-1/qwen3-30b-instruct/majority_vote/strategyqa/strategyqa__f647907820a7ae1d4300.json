@@ -1,0 +1,133 @@
+{
+  "uid": "strategyqa__f647907820a7ae1d4300",
+  "sample_id": "f647907820a7ae1d4300",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could one Amazon share ever buy twenty year Netflix subscription?",
+  "gold_answer": "yes",
+  "context": [
+    "Amazon stock has reached as high as $2,500 a share as of June 2020.",
+    "The basic Netflix subscription package costs $8.99 a month as of 2020."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAmazon stock reached $2,500 per share as of June 2020.\nThe basic Netflix subscription costs $8.99 per month.\nTwenty years equals 240 months.\nThe total cost of a Netflix subscription for 20 years is $8.99 multiplied by 240.\n$8.99 × 240 = $2,157.60.\n$2,500 is greater than $2,157.60.\nOne Amazon share at $2,500 can cover the cost of 20 years of Netflix subscriptions.\nThe question asks if one Amazon share could ever buy twenty year Netflix subscription.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Amazon stock reached $2,500 per share as of June 2020",
+    "The basic Netflix subscription costs $8.99 per month",
+    "Twenty years equals 240 months",
+    "The total cost of a Netflix subscription for 20 years is $8.99 multiplied by 240",
+    "$8.99 × 240 = $2,157.60",
+    "$2,500 is greater than $2,157.60",
+    "One Amazon share at $2,500 can cover the cost of 20 years of Netflix subscriptions",
+    "The question asks if one Amazon share could ever buy twenty year Netflix subscription"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Amazon stock reached $2,500 per share as of June 2020",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The basic Netflix subscription costs $8.99 per month",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Twenty years equals 240 months",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The total cost of a Netflix subscription for 20 years is $8.99 multiplied by 240",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "$8.99 × 240 = $2,157.60",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "$2,500 is greater than $2,157.60",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "One Amazon share at $2,500 can cover the cost of 20 years of Netflix subscriptions",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The question asks if one Amazon share could ever buy twenty year Netflix subscription",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

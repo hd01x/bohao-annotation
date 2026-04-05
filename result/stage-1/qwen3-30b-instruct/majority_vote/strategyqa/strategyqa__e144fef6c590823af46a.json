@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__e144fef6c590823af46a",
+  "sample_id": "e144fef6c590823af46a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Brooklyn known for its bread products?",
+  "gold_answer": "yes",
+  "context": [
+    "Brooklyn and NYC bagels are known around the world for being high quality.",
+    "Brooklyn pizza is regarded as the best in the country. "
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBrooklyn is known for its high-quality bagels.\nBagels are a type of bread product.\nBrooklyn is also known for its pizza.\nPizza is a type of bread product.\nBrooklyn is recognized for multiple bread products including bagels and pizza.\nBrooklyn is known for its bread products.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Brooklyn is known for its high-quality bagels",
+    "Bagels are a type of bread product",
+    "Brooklyn is also known for its pizza",
+    "Pizza is a type of bread product",
+    "Brooklyn is recognized for multiple bread products including bagels and pizza",
+    "Brooklyn is known for its bread products"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Brooklyn is known for its high-quality bagels",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Bagels are a type of bread product",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Brooklyn is also known for its pizza",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Pizza is a type of bread product",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Brooklyn is recognized for multiple bread products including bagels and pizza",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Brooklyn is known for its bread products",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "uid": "medhop__MH_dev_28",
+  "sample_id": "MH_dev_28",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00054\", \"DB00160\", \"DB00333\", \"DB01270\", \"DB04829\", \"DB04985\", \"DB05037\", \"DB06691\", and \"DB09030\" interacts with DB06144?",
+  "gold_answer": "DB00333",
+  "context": [
+    "Very early-onset lone atrial fibrillation patients have a high prevalence of rare variants in genes previously associated with atrial fibrillation . BACKGROUND : Atrial fibrillation ( AF ) is the most common cardiac arrhythmia . Currently , 14 genes important for ion channel function , intercellular signaling , and homeostatic control have been associated with AF . OBJECTIVE : We hypothesized that rare genetic variants in genes previously associated with AF had a higher prevalence in early-onset lone AF patients than in the background population . METHODS : Sequencing results of P51787 , Q12809 , Q14524 , P22460 , Q9UK17 , P15382 , 2 , 5 , P63252 , P35498 -3B , P01160 , and P36382 from 192 early-onset lone AF patients were compared with data from the National Heart , Lung , and Blood Institute Exome Variant Server consisting of 6503 persons from 18 different cohort studies . RESULTS : Among the lone AF patients , 29 ( 7.6 % ) alleles harbored a novel or very rare variant ( minor allele frequency < 0.1 in the Exome Variant Server ) , a frequency that was significantly higher than what was found in the reference database ( 4.1 % ; with minor allele frequency < 0.1 ; P = .0012 ) . Previously published electrophysiological data showed that 96 % ( n = 23 ) of the rare variants that has been functionally investigated ( n = 24 ) displayed significant functional changes . CONCLUSIONS : We report a much higher prevalence of rare variants in genes associated with AF in early-onset lone AF patients than in the background population . By presenting these data , we believe that we are the first to provide quantitative evidence for the role of rare variants across AF susceptibility genes as a possible pathophysiological substrate for AF .",
+    "Natriuretic peptides induce weak P50552 phosphorylation at DB00133 239 in platelets . Cyclic guanosine-3',5'-monophoshate ( cGMP ) is the common second messenger for the cardiovascular effects of nitric oxide ( NO ) and natriuretic peptides ( NP ; e.g. atrial NP [ P01160 ] ) , which activate soluble and particulate guanylyl cyclases , respectively . The role of NO in regulating cGMP and platelet function is well documented , whereas there is little evidence supporting a role for NPs in regulating platelet reactivity . By studying platelet aggregation and secretion in response to a P25116 peptide , collagen and ADP , and phosphorylation of the cGMP-dependent protein kinase ( PKG ) substrate vasodilator-stimulated phosphoprotein ( P50552 ) at serine 239 , we evaluated the effects of NPs in the absence or presence of the non-selective cGMP and DB02527 phosphodiesterase ( PDE ) inhibitor , DB07954 ( DB07954 ) . Our results show that NPs , possibly through the clearance receptor ( natriuretic peptide receptor-C ) expressed on platelet membranes , increase P50552 phosphorylation but only following PDE inhibition , indicating a small , localised cGMP synthesis . As platelet aggregation and secretion measured under the same conditions were not affected , we conclude that the magnitude of PKG activation achieved by NPs in platelets per se is not sufficient to exert functional inhibition of platelet involvement in haemostasis .",
+    "Biological characterization of DB05037 , a small-molecule inhibitor of cyclin-dependent kinases , in human tumor cell lines . P12004 -dependent kinases ( CDK ) , and their regulatory cyclin partners , play a central role in eukaryotic cell growth , division , and death . This key role in cell cycle progression , as well as their deregulation in several human cancers , makes them attractive therapeutic targets in oncology . A series of CDK inhibitors was developed using Astex 's fragment-based medicinal chemistry approach , linked to high-throughput X-ray crystallography . A compound from this series , designated DB05037 , is currently in early-phase clinical development . We describe here the biological characterization of DB05037 , a potent inhibitor of several CDK family members . DB05037 showed potent antiproliferative activity ( 40-940 nmol/L ) in a panel of human tumor cell lines , and the mechanism of action was shown here to be consistent with the inhibition of P06493 and P24941 in solid tumor cell lines . DB05037 caused cell cycle arrest followed by apoptosis in human tumor cells and inhibited tumor growth in human tumor xenograft models . Tumor regression was observed following twice daily dosing of DB05037 in the HCT116 and HT29 colon cancer xenograft models . We show that these biological effects are linked to inhibition of CDKs in vivo and that DB05037 induces tumor cell apoptosis in these xenograft models . DB05037 has an attractive biological profile for development as a clinical candidate , and the tolerability and efficacy in animal models compare favorably with other CDK inhibitors in clinical development . Studies described here formed the biological rationale for investigating the potential therapeutic benefit of DB05037 in cancer patients .",
+    "DB09030 : first global approval . DB09030 [ DB09030 (®) ( US ) ] , an orally active protease-activated receptor-1 ( P25116 ) receptor antagonist , has been developed by Merck & Co for the reduction of thrombotic cardiovascular events in patients with a history of myocardial infarction ( MI ) or peripheral arterial disease ( PAD ) . DB09030 has received its first global approval for this indication in the US . This article summarizes the milestones in the development of vorapaxar leading to this first approval for the reduction of thrombotic cardiovascular events in patients with a prior MI or PAD .",
+    "DB01184 treatment for gastroparesis : demographic and pharmacogenetic characterization of clinical efficacy and side-effects . BACKGROUND : DB01184 is a useful alternative to metoclopramide for treatment of gastroparesis due to better tolerability . Effectiveness and side-effects from domperidone may be influenced by patient-related factors including polymorphisms in genes encoding drug-metabolizing enzymes , drug transporters , and domperidone targets . AIMS : The aim of this study was to determine if demographic and pharmacogenetic parameters of patients receiving domperidone are associated with response to treatment or side-effects . METHODS : Patients treated with domperidone for gastroparesis provided saliva samples from which DNA was extracted . Fourteen single-nucleotide polymorphisms ( SNPs ) in seven candidate genes ( P08183 , P10635 , P14416 , P15382 , Q9Y6J6 , Q12809 , P51787 ) were used for genotyping . SNP microarrays were used to assess single-nucleotide polymorphisms in the ADRA1A , P35368 , and P25100 loci . RESULTS : Forty-eight patients treated with domperidone participated in the study . DNA was successfully obtained from each patient . Age was associated with effectiveness of domperidone ( p=0.0088 ) . Genetic polymorphism in Q12809 was associated with effectiveness of domperidone ( p=0.041 ) . The efficacious dose was associated with polymorphism in P08183 gene ( p=0.0277 ) . The side-effects of domperidone were significantly associated with the SNPs in the promoter region of P25100 gene . CONCLUSIONS : Genetic characteristics associated with response to domperidone therapy included polymorphisms in the drug transporter gene P08183 , the potassium channel Q12809 gene , and α1D -- adrenoceptor P25100 gene . Age was associated with a beneficial response to domperidone . If verified in a larger population , this information might be used to help determine which patients with gastroparesis might respond to domperidone and avoid treatment in those who might develop side-effects .",
+    "Vasopeptidase-activated latent ligands of the histamine receptor-1 . Whether peptidases present in vascular cells can activate prodrugs active on vascular cells has been tested with 2 potential latent ligands of the histamine H1 receptor ( P35367 ) . First , a peptide consisting of the antihistamine cetirizine ( CTZ ) condensed at the N-terminus of ε-aminocaproyl-bradykinin ( εACA-BK ) was evaluated for an antihistamine activity that could be revealed by degradation of the peptide part of the molecule . CTZ-εACA-BK had a submicromolar affinity for the BK B2 receptor ( P30411 ; IC50 of 590 nM , [(3)H]BK binding competition ) , but a non-negligible affinity for the human H1 receptor ( P35367 ; IC50 of 11 μM for [(3)H] DB06691 binding ) . In the human isolated umbilical vein , a system where both endogenous P30411 and P35367 mediate strong contractions , CTZ-εACA-BK exerted mild antagonist effects on histamine-induced contraction that were not modified by omapatrilat or by a P30411 antagonist that prevents endocytosis of the BK conjugate . Cells expressing recombinant P12821 or P30411 incubated with CTZ-εACA-BK did not release a competitor of [(3)H] DB06691 binding to H1Rs . Thus , there is no evidence that CTZ-εACA-BK can release free cetirizine in biological environments . The second prodrug was a blocked agonist , L-alanyl-histamine , potentially activated by aminopeptidase N ( P15144 ) . This compound did not compete for [(3)H] DB06691 binding to H1Rs . The human umbilical vein contractility assay responded to L-alanyl-histamine ( EC50 54.7 μM ) , but the P15144 inhibitor amastatin massively ( 17-fold ) reduced its apparent potency . Amastatin did not influence the potency of histamine as a contractile agent . One of the 2 tested latent P35367 ligands , L-alanyl-histamine , supported the feasibility of pro-drug activation by vascular ectopeptidases .",
+    "Protein indicators for HaCaT cell damage induced by UVB irradiation . UVB ( 290-320 nm ) is one major risk factor of skin diseases in human . In order to provide potential protein molecules in skin cell damage and skin diseases induced by UVB irradiation , the differentially expressed proteins in human keratinocytes cell HaCaT by UVB irradiation were screened by two-dimensional difference in-gel electrophoresis ( 2D DIGE ) combined to high performance liquid chromatography-nano-electrospray ionization tandem mass spectrometry ( HPLC-nESI-MS/MS ) . 31 protein spots were found differentially expressed with statistical significance ( p < 0.05 ) . Sixteen and 15 protein spots were observed up-regulated and down-regulated in UVB-irradiated HaCaT , respectively . Twenty-eight unique proteins were identified by searching the MS/MS data against NCBInr database through TurboSequest Bioworks software . Among the identified 28 UVB irradiation responding protein indicators , only laminin receptor 1 ( P08865 ) , calmodulin ( P62158 ) , cathepsin D ( P07339 ) and peroxiredoxin ( Q06830 ) proteins have been reported associated with skin burn and wound healing , keratinocytes proliferation and migration and epidermal barrier repairing . Most of these targets were for the first time revealed to be associated with skin cell damage induced by UVB irradiation . Function and bioinformatics analyses of the identified protein candidates were also performed using PANTHER analysis with the aid of DAVID platform . The current work provides potential protein indicators for skin cell damage from UVB irradiation .",
+    "Development and evaluation of high throughput functional assay methods for Q12809 potassium channel . Three functional hERG channel assay methods have been developed and evaluated . The methods were tested against five known hERG channel inhibitors : dofetilide , terfenadine ( Seldane ) , sertindole ( DB06144 ) , astemizole ( Hismanal ) , and cisapride ( Propulsid ) . The DiBAC4(3)-based assays were found to be the most economical but had high false-hit rates as a result of the interaction of dye with the test compounds . The membrane potential dye assay had fewer color-quenching problems but was expensive and still gave false hits . The nonradioactive Rb+ efflux assay was the most sensitive of all the assays evaluated and had the lowest false-hit rate .",
+    "Lasting controversy on ranibizumab and bevacizumab . Vascular endothelial growth factor ( P15692 ) , an important angiogenic factor that is able to stimulate the proliferation and migration of endothelial cells , is the best-studied hallmark of angiogenesis . Neovascularization is a major cause of age-related macular degeneration ( AMD ) which is a leading cause of blindness in the elderly population . Specific molecular inhibitors of P15692 have been proved to be useful in the treatment of AMD . DB01270 and DB00112 are structurally similar to anti- P15692 drugs in the treatment of AMD . Many studies have indicated that DB01270 and DB00112 are of roughly equal short-term efficacy and safety , DB00112 is an attractive alternative to DB01270 due to its lower cost . However , only DB01270 has received Food and Drug Administration ( FDA ) approval for the treatment of macular degeneration . More multicenter clinical trials are required to compare the relative efficacy and safety of these two drugs and some progress has been achieved . This review discusses the clinical effectiveness , safety , cost and other practical implications of DB01270 and DB00112 .",
+    "Contribution of the 37-kDa laminin receptor precursor in the anti-metastatic P08118 -derived peptide DB04985 cell surface binding . PURPOSE : DB04985 is an anti-metastatic synthetic peptide with promising therapeutic efficacy against hormone-refractory prostate cancer . The characterization of the DB04985 peptide cell surface binding/internalization mechanisms and of the receptors involved remained to be explored . RESULTS : [(14)C] DB04985 cell surface binding assays showed rapid and transient kinetic profile , that was inhibited by RGD peptides , laminin , hyaluronan , and type-I collagen . RGD peptides were however unable to inhibit DB04985 intracellular uptake . Far-Western ligand binding studies enabled the identification of the 37-kDa laminin receptor precursor ( P08865 ) as a potential ligand for DB04985 . Overexpression of the recombinant P08865 indeed led to an increase in DB04985 binding but unexpectedly not to its uptake . CONCLUSIONS : Our data support the implication of laminin receptors in cell surface binding and in transducing DB04985 anti-metastatic effects , and provide a rational for targeting cancers that express high levels of such laminin receptors .",
+    "Targeted deletion of Kcne2 causes gastritis cystica profunda and gastric neoplasia . Gastric cancer is the second leading cause of cancer death worldwide . Predisposing factors include achlorhydria , Helicobacter pylori infection , oxyntic atrophy and Q03403 -expressing metaplasia . In parietal cells , apical potassium channels comprising the P51787 alpha subunit and the Q9Y6J6 beta subunit provide a K(+) efflux current to facilitate gastric acid secretion by the apical H(+)K(+)ATPase . Accordingly , genetic deletion of murine Kcnq1 or Kcne2 impairs gastric acid secretion . Other evidence has suggested a role for Q9Y6J6 in human gastric cancer cell proliferation , independent of its role in gastric acidification . Here , we demonstrate that 1-year-old Kcne2(-/-) mice in a pathogen-free environment all exhibit a severe gastric preneoplastic phenotype comprising gastritis cystica profunda , 6-fold increased stomach mass , increased Ki67 and nuclear P12004 D1 expression , and Q03403 - and cytokeratin 7-expressing metaplasia . Some Kcne2(-/-) mice also exhibited pyloric polypoid adenomas extending into the duodenum , and neoplastic invasion of thin walled vessels in the sub-mucosa . Finally , analysis of human gastric cancer tissue indicated reduced parietal cell Q9Y6J6 expression . Together with previous findings , the results suggest Q9Y6J6 disruption as a possible risk factor for gastric neoplasia .",
+    "Changes in urinary proximal tubule parameters in neonatal rats exposed to cadmium chloride during pregnancy . Pregnant Sprague-Dawley rats were injected intraperitoneally with physiological saline solution ( vehicle ) or cadmium chloride ( CdCl2 ) at 2.0 or 2.5 mg kg-1 on days 8 , 10 , 12 and 14 of gestation . On postnatal day ( P01160 ) 3 , 12 or 49 , the offspring were examined for 8- or 24-h urinary excretion of beta 2-microglobulin ( beta 2-m ) , metallothionein ( MT ) and urinary activity of three proximal tubular enzymes : gammaglutamyl transferase ( P19440 ) , alkaline phosphatase ( ALP ) and O60502 ( NAG ) . Treatment with CdCl2 did not affect growth or survival of offspring . Significant decreases in the urinary excretion of P19440 , ALP and NAG were observed on P01160 3 , at both doses . Exposure to 4 x 2.5 mg kg-1 resulted in functional deficit of the proximal tubule on P01160 3 , as evidenced by the significant increase in beta 2-m . Except for a slight but significant increase of beta 2-m in 49-day-old males , all the other urinary parameters returned to control values on P01160 12 . There was no effect on MT . Results from this study show that prenatal exposure to CdCl2 can induce significant changes in the kidney biochemistry of rats in the early postnatal period .",
+    "DB00160 aminotransferase homologs catalyze the glutamate:glyoxylate aminotransferase reaction in peroxisomes of Arabidopsis . Plant peroxisomal glyoxylate aminotransferases play central roles within the photorespiratory pathway . Genes encoding glyoxylate aminotransferases have been isolated from several animals and microbes , but only recently have plant homologs been identified . Three Arabidopsis homologs of alanine (Ala):glyoxylate aminotransferase 2 ( Q9BYV1 ) contain a putative type 1 peroxisomal targeting signal ( PTS1 ) , but the metabolic significance of these Q9BYV1 homologs is unknown . P19440 and P36268 are Ala aminotransferase ( AlaAT ) homologs from Arabidopsis that represent another type of glyoxylate aminotransferase . These proteins are class I aminotransferases , each containing a putative PTS1 . P19440 and P36268 are members of a small family of AlaATs in Arabidopsis . When expressed as recombinant proteins in Escherichia coli , P19440 and P36268 displayed biochemical characteristics very similar to one another , and to the Arabidopsis protein purified from leaves . Four aminotransferase activities were specifically associated with P19440 and P36268 , using the substrate pairs glutamate ( DB00142 ):glyoxylate , Ala:glyoxylate , DB00142 :pyruvate , and Ala:2-oxoglutarate . P19440 and P36268 may have partially redundant functions ; transcripts of both genes were detected in many of the same tissues . Although DB00142 :glyoxylate aminotransferase ( P19440 ) activity has been observed in several locations in different plants and algae , including the cytoplasm and mitochondria , our subcellular fractionation data indicate that P19440 activity was exclusively peroxisomal in Arabidopsis . Thus , glyoxylate aminotransferase reactions in plant peroxisomes appear to be catalyzed by at least two distinct types of aminotransferases : an AGT1 homolog with serine:glyoxylate aminotransferase activity ( A.H. Liepman , L.J. Olsen [ 2001 ] Plant J 25 : 487-498 ) , and a pair of closely related , potentially redundant AlaAT homologs with P19440 activity .",
+    "Structure-activity relationship studies of CNS agents -- XVII . Spiro[piperidine-4',1-(1,2,3,4-tetrahydro-beta-carboline)] as a probe defining the extended topographic model of P08908 receptors . Spiro[piperidine-4',1-(1,2,3,4-tetrahydro-beta-carboline)] ( 10 ) , its derivatives 11-15 and its analogs 16 and 17 were examined as ligands of serotonin P08908 receptors . It was shown that compounds 12 and 14 had essentially the same P08908 affinity as 1-phenylpiperazine and its rigid analog 7 , whereas there were substantial differences in the steric arrangement of their crucial pharmacophores , i.e. aromatic and protonation centers . On the basis of the existing models and using the DB04829 structure as a template , a new , extended three-point topographic model of P08908 receptors has been proposed .",
+    "Role of the P08908 receptor in development of the neonatal rat brain : preliminary behavioral studies . Serotonin exerts an influence on the prenatal development of rat brain . However , later developmental times may be more applicable to the understanding of the role of serotonin in human developmental disorders . Therefore , the current study was undertaken to gain preliminary information on the postnatal effects of serotonin on rat brain development . As the P08908 receptor has been shown to be involved in much of the developmental functions of serotonin , an agonist for this receptor , 8-hydroxy-DPAT ( 8-OH-DPAT ) , was used . Neonatal rat pups at three ages ( postnatal days , PNDs ) 3-10 , 10-17 or 17-24 ) were injected daily with 1 mg/kg 8-OH-DPAT and evaluated for behavioral consequences . The youngest group showed accelerated incisor eruption and eye-opening , a possible consequence of P08908 receptor interactions with epidermal growth factor ( P01133 ) . Behaviorally , the animals were more anxious . Animals treated from P01160 10-17 , showed no change in craniofacial development but showed greater behavioral maturity in measures of spontaneous alternation and activity in the open field . The oldest animals ( P01160 17-24 ) showed no behavioral alterations , suggesting that this time length is beyond the critical period for serotonin 's influence in brain development .",
+    "Platelet-associated anti- P08514 -IIIa autoantibodies in chronic immune thrombocytopenic purpura recognizing epitopes close to the ligand-binding site of glycoprotein ( GP ) IIb . Localization of epitopes for platelet-associated ( PA ) anti- P08514 -IIIa ( alpha(IIb)beta(3) ) autoantibodies in chronic immune thrombocytopenic purpura remains elusive . Previous studies suggest that PA antibodies recognize the tertiary structure of intact glycoprotein ( GP ) IIb-IIIa . To localize their epitopes using antigen-capture enzyme-linked immunosorbent assay ( ELISA ) , the reactivity of 34 PA anti- P08514 -IIIa antibodies was examined with recombinant P08514 -IIIa having a defect in ligand-binding sites in either P08514 or P05106 , and no major conformational change was induced : KO variant P08514 -IIIa was attributed to a 2-amino acid insertion between residues 160 and 161 in the W3 4-1 loop in P08514 , and P62158 variant P08514 -IIIa was attributed to D119Y in P05106 . In one third ( 11 of 34 ) of the patients , PA antibodies showed a marked decrease ( less than 50 % ) in reactivity with KO compared with wild-type P08514 -IIIa . Their reactivity was also impaired against GPIIbD163A-IIIa . In sharp contrast , they reacted normally with P62158 P08514 -IIIa . OP-G2 , a ligand-mimetic monoclonal antibody , markedly inhibited their binding to P08514 -IIIa in patients with impaired binding to KO P08514 -IIIa , but small P08514 -IIIa antagonists did not . In addition , a newly developed sensitive ELISA indicated that autoantibodies showing impaired binding to KO are more potent inhibitors for fibrinogen binding . The present data suggest that certain PA anti- P08514 -IIIa autoantibodies recognize epitopes close to the ligand-binding site in P08514 , but not in P05106 .",
+    "Pharmacogenomics of methadone maintenance treatment . DB00333 is the major opioid substitution therapy for opioid dependence . Dosage is highly variable and is often controlled by the patient and prescriber according to local and national policy and guidelines . Nevertheless many genetic factors have been investigated including those affecting its metabolism ( P20813 -consistent results ) , efflux transport ( P-gp-inconsistent results ) , target μ-opioid receptor ( μ-opioid receptor-inconsistent results ) and a host of other receptors ( P14416 ) and signaling elements ( P48051 and P32121 ; not replicated ) . None by themselves have been able to substantially explain dosage variation ( the major but not sole end point ) . When multiple genes have been combined such as P08183 , P20813 , P35372 and P14416 a greater contribution to dosage variation was found but not as yet replicated . As stabilization of dosage needs to be made rapidly , it is imperative that larger internationally based studies be instigated so that genetic contribution to dosage can be properly assessed , which may or may not tailor to different ethnic groups and each country 's policy towards an outcome that benefits all .",
+    "Contribution of platelets and the vessel wall to the antithrombotic effects of a single bolus injection of Fab fragments of the antiplatelet P08514 /IIIa antibody 7E3 in a canine arterial eversion graft preparation . The contribution of platelets and the vessel wall to the antithrombotic effects of a single intravenous bolus injection of 0.8 mg/kg Fab fragments of the monoclonal antiplatelet glycoprotein IIb/IIIa receptor antibody DB00054 ( 7E3-Fab ) , combined with continuous heparin anticoagulation ( 100 U/kg bolus and 50 U/kg per hour ) , was studied in a canine preparation consisting of an everted ( inside out ) carotid arterial segment that had been inserted into a transected femoral artery . In all 6 control dogs without antibody , persistent or transient eversion graft occlusion occurred during an initial 2-hour observation period , and 5 of the 6 grafts were occluded at 24 hours . In 6 dogs given 7E3-Fab 24 hours before receiving an everted carotid artery segment from a donor dog , cyclic occlusion and reflow occurred in all dogs , whereas the grafts were patent at the end of a 2-hour observation period in 5 of the 6 dogs ( P = .056 versus control ) . When transferred back to the donor dogs , the patient eversion segments showed brief periods of cyclic occlusion and reflow within 2 hours in 3 of 5 dogs ( P = .034 versus control ) , whereas all of the 5 eversion segments were patent at 24 hours ( P < .005 versus control ) . ( ABSTRACT TRUNCATED AT 250 WORDS )",
+    "Interactions between bradykinin ( BK ) and cell adhesion molecule ( P62158 ) expression in peptidoglycan-polysaccharide ( PG-PS ) -induced arthritis . Bradykinin ( BK ) , a vasoactive , proinflammatory nonapeptide , promotes cell adhesion molecule ( P62158 ) expression , leukocyte sequestration , inter-endothelial gap formation , and protein extravasation in postcapillary venules . These effects are mediated by bradykinin-1 ( P46663 ) and-2 ( P30411 ) receptors . We delineated some of the mechanisms by which BK could influence chronic inflammation by altering P62158 expression on leukocytes , endothelium , and synovium in joint sections of peptidoglycan-polysaccharide-injected Lewis rats . Blocking P46663 results in significantly increased joint inflammation . Immunohistochemistry of the P46663 antagonist group revealed increased leukocyte and synovial CD11b and CD54 expression and increased CD11b and P16070 endothelial expression . P30411 antagonism decreased leukocyte and synovial P16070 and CD54 and endothelial CD11b expression . Although these findings implicate P30411 involvement in the acute phase of inflammation by facilitating leukocyte activation ( CD11b ) , homing ( P16070 ) , and transmigration ( CD54 ) . Treatment with a P30411 antagonist did not affect the disease evolution in this model . In contrast , when both BK receptors are blocked , the aggravation of inflammation by P46663 blockade is neutralized and there is no difference from the disease-untreated model . Our findings suggest that P46663 and P30411 signaling show physiologic antagonism . P46663 signaling suggests involvement in down-regulation of leukocyte activation , transmigration , and homing . Further studies are needed to evaluate the B1 receptor agonist 's role in this model .",
+    "Cardiac channelopathies associated with infantile fatal ventricular arrhythmias : from the cradle to the bench . BACKGROUND : Fatal ventricular arrhythmias in the early period of life have been associated with cardiac channelopathies for decades , and postmortem analyses in P22304 victims have provided evidence of this association . However , the prevalence and functional properties of cardiac ion channel mutations in infantile fatal arrhythmia cases are not clear . METHODS AND RESULTS : Seven infants with potentially lethal arrhythmias at age < 1 year ( 5 males , age of onset 44.1 ± 72.1 days ) were genetically analyzed for P51787 , Q12809 , P15382 -5 , P63252 , Q14524 , P36382 , and P62158 by using denaturing high-performance liquid chromatography and direct sequencing . Whole-cell currents of wildtype and mutant channels were recorded and analyzed in Chinese hamster ovary cells transfected with Q14524 and Q12809 cDNA . In 5 of 7 patients , we identified 4 mutations ( p.N1774D , p.T290fsX53 , p.F1486del and p.N406K ) in Q14524 , and 1 mutation ( p.G628D ) in Q12809 . N1774D , F1486del , and N406K in Q14524 displayed tetrodotoxin-sensitive persistent late Na(+) currents . By contrast , Q14524 -T290fsX53 was nonfunctional . Q12809 -G628D exhibited loss of channel function . CONCLUSION : Genetic screening of 7 patients was used to demonstrate the high prevalence of cardiac channelopathies . Functional assays revealed both gain and loss of channel function in Q14524 mutations , as well as loss of function associated with the Q12809 mutation .",
+    "DB00741 response to stress is associated with myocardial remodeling in salmonid fishes . Cardiac disease is frequently reported in farmed animals , and stress has been implicated as a factor for myocardial dysfunction in commercial fish rearing . DB00741 is a major stress hormone in teleosts , and this hormone has adverse effects on the myocardium . Strains of rainbow trout ( Oncorhynchus mykiss ) selected for divergent post-stress cortisol levels [ high responsive ( HR ) and low responsive ( LR ) ] have been established as a comparative model to examine how fish with contrasting stress-coping styles differ in their physiological and behavioral profiles . We show that the mean cardiosomatic index ( CSI ) of adult HR fish was 34 % higher than in LR fish , mainly because of hypertrophy of the compact myocardium . To characterize the hypertrophy as physiological or pathological , we investigated specific cardiac markers at the transcriptional level . HR hearts had higher mRNA levels of cortisol receptors ( MR , GR1 and GR2 ) , increased P53805 levels [ suggesting enhanced pro-hypertrophic nuclear factor of activated T-cell ( NFAT ) signaling ] and increased P15692 gene expression ( reflecting increased angiogenesis ) . Elevated collagen ( Col1a2 ) expression and deposition in HR hearts supported enhanced fibrosis , whereas the heart failure markers P01160 and DB04899 were not upregulated in HR hearts . To confirm our results outside the selection model , we investigated the effect of acute confinement stress in wild-type European brown trout , Salmo trutta . A positive correlation between post-stress cortisol levels and CSI was observed , supporting an association between enhanced cortisol response and myocardial remodeling . In conclusion , post-stress cortisol production correlates with myocardial remodeling , and coincides with several indicators of heart pathology , well-known from mammalian cardiology ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB06144 is identified as sertindole in the context of hERG channel inhibitor testing.\nSertindole (DB06144) is one of five known hERG channel inhibitors tested in functional assays.\nThe other inhibitors tested include dofetilide, terfenadine (Seldane), astemizole (Hismanal), and cisapride (Propulsid).\nDB00054 is identified as c7E3 Fab, an antibody targeting platelet glycoprotein IIb/IIIa.\nDB00160 is aminotransferase homologs in Arabidopsis.\nDB00333 is methadone, used in opioid substitution therapy.\nDB01270 is ranibizumab, an anti-VEGF drug for macular degeneration.\nDB04829 is a structural template used in modeling P08908 receptors.\nDB04985 is an anti-metastatic peptide derived from P08118.\nDB05037 is a CDK inhibitor in clinical development.\nDB06691 is a ligand for the histamine H1 receptor.\nDB09030 is vorapaxar, a protease-activated receptor-1 antagonist.\nNone of the listed compounds are described as interacting with DB06144 in the provided text.\nThe interaction between DB06144 and any of the listed compounds is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB06144 is identified as sertindole in the context of hERG channel inhibitor testing",
+    "Sertindole (DB06144) is one of five known hERG channel inhibitors tested in functional assays",
+    "The other inhibitors tested include dofetilide, terfenadine (Seldane), astemizole (Hismanal), and cisapride (Propulsid)",
+    "DB00054 is identified as c7E3 Fab, an antibody targeting platelet glycoprotein IIb/IIIa",
+    "DB00160 is aminotransferase homologs in Arabidopsis",
+    "DB00333 is methadone, used in opioid substitution therapy",
+    "DB01270 is ranibizumab, an anti-VEGF drug for macular degeneration",
+    "DB04829 is a structural template used in modeling P08908 receptors",
+    "DB04985 is an anti-metastatic peptide derived from P08118",
+    "DB05037 is a CDK inhibitor in clinical development",
+    "DB06691 is a ligand for the histamine H1 receptor",
+    "DB09030 is vorapaxar, a protease-activated receptor-1 antagonist",
+    "None of the listed compounds are described as interacting with DB06144 in the provided text",
+    "The interaction between DB06144 and any of the listed compounds is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB06144 is identified as sertindole in the context of hERG channel inhibitor testing",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Sertindole (DB06144) is one of five known hERG channel inhibitors tested in functional assays",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The other inhibitors tested include dofetilide, terfenadine (Seldane), astemizole (Hismanal), and cisapride (Propulsid)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00054 is identified as c7E3 Fab, an antibody targeting platelet glycoprotein IIb/IIIa",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00160 is aminotransferase homologs in Arabidopsis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00333 is methadone, used in opioid substitution therapy",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01270 is ranibizumab, an anti-VEGF drug for macular degeneration",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB04829 is a structural template used in modeling P08908 receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB04985 is an anti-metastatic peptide derived from P08118",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB05037 is a CDK inhibitor in clinical development",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB06691 is a ligand for the histamine H1 receptor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB09030 is vorapaxar, a protease-activated receptor-1 antagonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "None of the listed compounds are described as interacting with DB06144 in the provided text",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "The interaction between DB06144 and any of the listed compounds is not specified",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

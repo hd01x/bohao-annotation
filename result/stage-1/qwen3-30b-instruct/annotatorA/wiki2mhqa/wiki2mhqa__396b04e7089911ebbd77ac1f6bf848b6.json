@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__396b04e7089911ebbd77ac1f6bf848b6",
+  "sample_id": "396b04e7089911ebbd77ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director born later, The Fighting Demon or Blood Of The Losers?",
+  "gold_answer": "Blood Of The Losers",
+  "context": [
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "The Fighting Demon is a 1925 American silent melodrama film. Directed by Arthur Rosson, the film tars Richard Talmadge, Lorraine Eason, and Dick Sutherland. It was released on May 24, 1925.",
+    "Jacques Décombe is a French author, actor and director born in 1953.",
+    "Yolonda Ross is an American character actress, writer and director born (31 July 1974).",
+    "Blood of the Losers( also known as\" The Blood of the Victims\") is a 2008 Italian war drama film directed by Michele Soavi. It is based on a novel by Gianpiero Pansa. In his review for\" Variety\", Jay Weissberg heavily criticized the film, referring to it as\" a dangerous example of historical manipulation disguised as relativism\".",
+    "Sepideh Farsi is an Iranian film director, born in Tehran in 1965.",
+    "Fred R. Krug is an American film and television producer- director born in Bern, Switzerland.",
+    "Arthur Rosson( 24 August 1886 – 17 June 1960) was an English film director. From 1917 to 1948, Rosson directed 61. He also worked on many major films as a second unit director until 1960, particularly for Cecil B. DeMille.",
+    "Michele Soavi, sometimes known as Michael Soavi( born 3 July 1957) is an Italian filmmaker, actor, and screenwriter best known for his work in the horror film genre, working alongside directors like Dario Argento and Lucio Fulci.",
+    "Claude Weisz is a French film director born in Paris."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Fighting Demon was directed by Arthur Rosson.\nArthur Rosson was born on 24 August 1886.\nBlood of the Losers was directed by Michele Soavi.\nMichele Soavi was born on 3 July 1957.\n1957 is later than 1886.\nThe director of Blood of the Losers was born later than the director of The Fighting Demon.\nThe film with the director born later is Blood of the Losers.\n<answer> Blood of the Losers",
+  "predicted_answer": "Blood of the Losers",
+  "claims": [
+    "The Fighting Demon was directed by Arthur Rosson",
+    "Arthur Rosson was born on 24 August 1886",
+    "Blood of the Losers was directed by Michele Soavi",
+    "Michele Soavi was born on 3 July 1957",
+    "1957 is later than 1886",
+    "The director of Blood of the Losers was born later than the director of The Fighting Demon",
+    "The film with the director born later is Blood of the Losers"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Fighting Demon was directed by Arthur Rosson",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Arthur Rosson was born on 24 August 1886",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Blood of the Losers was directed by Michele Soavi",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Michele Soavi was born on 3 July 1957",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1957 is later than 1886",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The director of Blood of the Losers was born later than the director of The Fighting Demon",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born later is Blood of the Losers",
+      "claim_type": "DR"
+    }
+  ]
+}

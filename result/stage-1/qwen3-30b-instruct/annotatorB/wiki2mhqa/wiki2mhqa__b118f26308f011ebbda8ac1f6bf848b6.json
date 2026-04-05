@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__b118f26308f011ebbda8ac1f6bf848b6",
+  "sample_id": "b118f26308f011ebbda8ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who was born later, Brahima Cissé or Väinö Malmivaara?",
+  "gold_answer": "Brahima Cissé",
+  "context": [
+    "Judah Even Shemuel( Ukraine, 1886- Jerusalem, 1976) was a Ukrainian born, later Israeli, lexicographer, whose English- Hebrew dictionary was known as\" The Kaufman Dictionary\". He is not to be confused with another Hebrew lexicographer, Jacob Knaani, who also had the German- Yiddish surname Kaufmann.",
+    "Aïssatou Cissé or Aissatou Cisse( born 1970/ 1) is a Senegal writer with disabilities who became an advisor to the President of Senegal.",
+    "Arvi Taneli( Tatu) Malmivaara( 29 April 1908- 8 February 1987) was a Finnish Lutheran clergyman and politician. He was a member of the Parliament of Finland from 1945 to 1948, representing the National Coalition Party. He was born in Lapua, the son of Väinö Malmivaara.",
+    "Kaya Magan Cissé or Kaya Maghan( c. 700) was a Soninke king of Wagadou( Ouagadou). He was the founder of the Cissé Tounkara dynasty which later dominated the Ghana Empire from the 8th century CE.",
+    "Brahima Cissé( born 10 February 1976) is a Burkinabé football player who, as of 2006, was playing for Union Sportive des Forces Armées. He was part of the Burkinabé 2000 and 2002 African Nations Cup teams, who finished bottom of their groups in the first round of competition, thus failing to secure qualification for the quarter- finals.",
+    "Catherine I( born, later known as Marta Samuilovna Skavronskaya; –) was the second wife of Peter the Great and Empress of Russia from 1725 until her death.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Väinö Rafael Malmivaara (7 November 1879 – 13 November 1958) was the Lutheran Bishop of Oulu from 1943 to 1954. He was a member of the Parliament of Finland from 1927 to 1933, representing the National Coalition Party. He was born in Kiuruvesi, the son of Wilhelmi Malmivaara, and died in the same city.",
+    "Alexander Fuks( 30 May 1917 – 29 November 1978) was a German- born, later Israeli historian, archaeologist and papyrologist. He worked with Victor Tcherikover and Menahem Stern on the standard edition of Jewish papyri. He was a specialist in the study of Hellenistic Judaism.",
+    "Jacob Knaani( Kishenev, 1894- Jerusalem, 1978) was a Moldavian born, later Israeli, lexicographer. He is not to be confused with another Hebrew lexicographer, Judah Even Shemuel, who also had the German- Yiddish surname Kaufmann, and whose English- Hebrew dictionary was known as the\" Kaufmann Dictionary\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBrahima Cissé was born on 10 February 1976.\nVäinö Rafael Malmivaara was born on 7 November 1879.\n1976 is later than 1879.\nBrahima Cissé was born later than Väinö Malmivaara.\n<answer> Brahima Cissé",
+  "predicted_answer": "Brahima Cissé",
+  "claims": [
+    "Brahima Cissé was born on 10 February 1976",
+    "Väinö Rafael Malmivaara was born on 7 November 1879",
+    "1976 is later than 1879",
+    "Brahima Cissé was born later than Väinö Malmivaara"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Brahima Cissé was born on 10 February 1976",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Väinö Rafael Malmivaara was born on 7 November 1879",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1976 is later than 1879",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Brahima Cissé was born later than Väinö Malmivaara",
+      "claim_type": "DR"
+    }
+  ]
+}

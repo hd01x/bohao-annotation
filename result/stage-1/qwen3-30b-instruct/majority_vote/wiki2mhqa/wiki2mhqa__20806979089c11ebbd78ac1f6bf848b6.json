@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__20806979089c11ebbd78ac1f6bf848b6",
+  "sample_id": "20806979089c11ebbd78ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born later, Aloha, Bobby And Rose or The Elusive Avengers?",
+  "gold_answer": "Aloha, Bobby And Rose",
+  "context": [
+    "Edmond Gareginovich Keosayan (9 October 1936 – 21 April 1994) was an Armenian Soviet film director and musician. He was also a compere of the Soviet State Variety Orchestra. His films are mainly in the Armenian and Russian languages.",
+    "Aloha, Bobby and Rose is a 1975 American road drama film written and directed by Floyd Mutrux and starring Paul Le Mat, Dianne Hull, and Robert Carradine. The plot is about a young working- class couple who accidentally cause the death of a store clerk during their first date, and go on the run from the law.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Viktor Kosykh( January 27, 1950 — December 22, 2011) was a Soviet and Russian theater and cinema actor. He is probably best known for the role of Danko Schusya in the famous film\" The Elusive Avengers\" and in its sequels,\" The New Adventures of the Elusive Avengers\" and\" The Crown of the Russian Empire, or Once Again the Elusive Avengers\". He is buried at the Khovanskoye Cemetery.",
+    "The Crown of the Russian Empire, or Once Again the Elusive Avengers( translit.\" Korona Rossiyskoy Imperii, ili Snova Neulovimye\") is a 1971 Soviet action movie, a second sequel of\" The Elusive Avengers\", directed by Edmond Keosayan and made on Mosfilm.",
+    "The Elusive Avengers( translit.\" Neulovimye mstiteli\") is a 1967 Soviet adventure film directed by Edmond Keosayan and made by Mosfilm. It is loosely based on the novel Red Devilets by Pavel Blyakhin, already filmed in 1923 under its original name. The film is an example of Ostern, set in Russian Civil War era Ukraine. The film has spawned two sequels,\" The New Adventures of the Elusive Avengers\"( 1968) and\" The Crown of the Russian Empire, or Once Again the Elusive Avengers\"( 1971).",
+    "Armen Dzhigarkhanyan( born 3 October 1935) is a Soviet, Armenian and Russian actor. Born and raised in Yerevan, Dzhigarkhanyan started acting in the academic and Russian theaters of the city, before moving to Moscow to continue stage acting. Since 1960, he appeared in a number of Armenian films. He became popular in the 1970s with the various roles he portrayed in Soviet films like\" The New Adventures of the Elusive Avengers\"( 1968), its sequel\" The Crown of the Russian Empire, or Once Again the Elusive Avengers\"( 1971) and\" The Meeting Place Can not Be Changed\"( 1979). After almost 30 years on the stage of the Mayakovsky Theatre, Dzhigarkhanyan taught at VGIK and in 1996 he founded his own drama theater in Moscow. Dzhigarkhanyan, one of the most renowned living film and stage Armenian and Russian actors, has appeared in more films than any other Russian actor with more than 250 appearances.",
+    "Floyd Mutrux( born June 21, 1941) is an American stage and film director, writer, producer, and screenwriter.",
+    "Dianne Hull( born November 24, 1949) is an actress whose film career began in 1969 and ended in the early 1990s. The films she has acted in include\" Aloha, Bobby and Rose The ArrangementChristmas Evil The Onion Field\" and\" The Fifth Floor\".",
+    "The New Adventures of the Elusive Avengers( translit. \" Novye prikluchenya Neulovimykh\") is a 1968 Soviet action movie, a sequel of\" The Elusive Avengers\", directed by Edmond Keosayan and made on Mosfilm. The movie was followed by\" The Crown of the Russian Empire, or Once Again the Elusive Avengers\" released in 1971."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAloha, Bobby and Rose was directed by Floyd Mutrux.\nFloyd Mutrux was born on June 21, 1941.\nThe Elusive Avengers was directed by Edmond Keosayan.\nEdmond Keosayan was born on October 9, 1936.\n1941 is later than 1936.\nThe film directed by the person born later is Aloha, Bobby and Rose.\n<answer> Aloha, Bobby and Rose",
+  "predicted_answer": "Aloha, Bobby and Rose",
+  "claims": [
+    "Aloha, Bobby and Rose was directed by Floyd Mutrux",
+    "Floyd Mutrux was born on June 21, 1941",
+    "The Elusive Avengers was directed by Edmond Keosayan",
+    "Edmond Keosayan was born on October 9, 1936",
+    "1941 is later than 1936",
+    "The film directed by the person born later is Aloha, Bobby and Rose"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Aloha, Bobby and Rose was directed by Floyd Mutrux",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Floyd Mutrux was born on June 21, 1941",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Elusive Avengers was directed by Edmond Keosayan",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Edmond Keosayan was born on October 9, 1936",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1941 is later than 1936",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The film directed by the person born later is Aloha, Bobby and Rose",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

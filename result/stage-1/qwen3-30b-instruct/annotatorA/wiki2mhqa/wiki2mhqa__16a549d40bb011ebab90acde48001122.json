@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__16a549d40bb011ebab90acde48001122",
+  "sample_id": "16a549d40bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Mary Of Bourbon's paternal grandfather?",
+  "gold_answer": "Francis",
+  "context": [
+    "Mary of Bourbon or Marie de Bourbon (29 October 1515 – 28 September 1538) was a daughter of Charles, Duke of Vendôme, and Françoise d'Alençon, daughter of René, Duke of Alençon. Mary was the subject of marriage negotiations of James V of Scotland. He visited her in France, but subsequently married Madeleine of Valois. Mary died two years later.",
+    "Peter II, Duke of Bourbon (1 December 1438 – 10 October 1503 in Moulins), was the son of Charles I, Duke of Bourbon, and Agnes of Burgundy, and a member of the House of Bourbon. He and his wife Anne of France ruled as regents during the minority of Charles VIII of France.",
+    "Beatrice of Bourbon( 1320 – 23 December 1383) was a French noblewoman. A member of the House of Bourbon, she was by marriage Queen of Bohemia and Countess of Luxembourg. She was the youngest daughter of Louis I, Duke of Bourbon, and Mary of Avesnes.",
+    "Jean( John) de Bourbon, Duke of Bourbon( 1426 – 1 April 1488, Château de Moulins), sometimes referred to as John the Good and The Scourge of the English, was a son of Charles I of Bourbon and Agnes of Burgundy. He was Duke of Bourbon and Auvergne from 1456 to his death.",
+    "Henry J.\" Red\" Krause, Jr.( August 28, 1913 – February 20, 1987) was an American football offensive lineman in the National Football League for the Brooklyn Dodgers and the Washington Redskins. He played college football at St. Louis University. He is the grandfather of Jennifer Krause He is the great grandfather of Payton Hoeing",
+    "Mathilde of Bourbon( – 18 June 1228) was a French noblewoman who was the ruling Lady of Bourbon from 1171 until her death.",
+    "Peter I of Bourbon( 1311 – 19 September 1356, Poitiers) was the second Duke of Bourbon, from 1342 to his death. Peter was son of Louis I of Bourbon, whom he also succeeded as Grand Chamberlain of France, and Mary of Avesnes. Duke Peter is reported to have been somewhat mentally unstable, a trait of nervous breakdowns( presumably hereditary) that showed clearly for example in his daughter Joan of Bourbon, the queen, and in her son, king Charles VI of France, as well as in Peter's only surviving son, Duke Louis II.",
+    "James I of Bourbon( 1319 – 6 April 1362), was the son of Louis I, Duke of Bourbon and Mary of Avesnes. He was Count of Ponthieu from 1351 to 1360, and Count of La Marche from 1341 to his death.",
+    "Charles de Bourbon (2 June 1489 – 25 March 1537) was a French \"prince du sang\" and military commander at the court of Francis I of France. He is notable as the paternal grandfather of King Henry IV of France.",
+    "Isabella of Bourbon, Countess of Charolais( 1434 – 25 September 1465) was the second wife of Charles the Bold, Count of Charolais and future Duke of Burgundy. She was a daughter of Charles I, Duke of Bourbon and Agnes of Burgundy, and the mother of Mary of Burgundy, heiress of Burgundy."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMary of Bourbon was the daughter of Charles, Duke of Vendôme.\nCharles, Duke of Vendôme was the son of Peter II, Duke of Bourbon.\nPeter II, Duke of Bourbon was the son of Charles I, Duke of Bourbon.\nCharles I, Duke of Bourbon was the father of Peter II, Duke of Bourbon.\nThe paternal grandfather of Mary of Bourbon is Charles I, Duke of Bourbon.\n<answer> Charles I, Duke of Bourbon",
+  "predicted_answer": "Charles I, Duke of Bourbon",
+  "claims": [
+    "Mary of Bourbon was the daughter of Charles, Duke of Vendôme",
+    "Charles, Duke of Vendôme was the son of Peter II, Duke of Bourbon",
+    "Peter II, Duke of Bourbon was the son of Charles I, Duke of Bourbon",
+    "Charles I, Duke of Bourbon was the father of Peter II, Duke of Bourbon",
+    "The paternal grandfather of Mary of Bourbon is Charles I, Duke of Bourbon"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Mary of Bourbon was the daughter of Charles, Duke of Vendôme",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Charles, Duke of Vendôme was the son of Peter II, Duke of Bourbon",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Peter II, Duke of Bourbon was the son of Charles I, Duke of Bourbon",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Charles I, Duke of Bourbon was the father of Peter II, Duke of Bourbon",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The paternal grandfather of Mary of Bourbon is Charles I, Duke of Bourbon",
+      "claim_type": "DR"
+    }
+  ]
+}

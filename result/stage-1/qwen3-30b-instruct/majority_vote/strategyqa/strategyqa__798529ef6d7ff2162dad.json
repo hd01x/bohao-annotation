@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__798529ef6d7ff2162dad",
+  "sample_id": "798529ef6d7ff2162dad",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was John George Bice's birthplace near Cornwall?",
+  "gold_answer": "yes",
+  "context": [
+    "Politician John George Bice was born in Callington.",
+    "Cornwall is a place located in South West England.",
+    "Callington is a small town in South East Cornwall."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJohn George Bice was born in Callington.\nCallington is located in South East Cornwall.\nCornwall is a region in South West England.\nSouth East Cornwall is part of the larger Cornwall region.\nCallington is within the geographical boundaries of Cornwall.\nJohn George Bice's birthplace, Callington, is in Cornwall.\nJohn George Bice's birthplace was near Cornwall.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "John George Bice was born in Callington",
+    "Callington is located in South East Cornwall",
+    "Cornwall is a region in South West England",
+    "South East Cornwall is part of the larger Cornwall region",
+    "Callington is within the geographical boundaries of Cornwall",
+    "John George Bice's birthplace, Callington, is in Cornwall",
+    "John George Bice's birthplace was near Cornwall"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "John George Bice was born in Callington",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Callington is located in South East Cornwall",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Cornwall is a region in South West England",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "South East Cornwall is part of the larger Cornwall region",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Callington is within the geographical boundaries of Cornwall",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "John George Bice's birthplace, Callington, is in Cornwall",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "John George Bice's birthplace was near Cornwall",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

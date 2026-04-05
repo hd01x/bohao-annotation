@@ -1,0 +1,155 @@
+{
+  "uid": "wiki2mhqa__95f1b1b6087511ebbd67ac1f6bf848b6",
+  "sample_id": "95f1b1b6087511ebbd67ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film whose director is younger, A Night'S Adventure or Insaciable?",
+  "gold_answer": "Insaciable",
+  "context": [
+    "Roman Smishko is a retired Ukrainian professional footballer who played as a goalkeeper. He is a younger brother of Ukrainian defender Bohdan Smishko.",
+    "Insaciable( also known as The Insatiable Widow) is a 1976 Argentine erotic drama film written and directed by Armando Bo. It stars Isabel Sarli as a\" worried nymphomaniac in search of satisfaction or cure\". The film was highly controversial in Argentina due to its nudity and sexual content and lesbianism. This was played upon with a film poster documenting extracts from the Argentine press condemning the film and documenting those calling for it to be banned or censored.",
+    "Hubert August Piel( 12 July 1892, in Düsseldorf – 27 March 1963, in Munich), known as Harry Piel, was a prolific German actor, film director, screenwriter and film producer who was involved in over 150 films. Piel became a director in 1912, turning out such box- office successes as\" Mann Gegen Mann\"( 1928),\" Achtung! - Auto- Diebe!\"( 1930) and\" Artisten\"( 1935). His last directorial effort was 1953's\" Gesprengte Gitter( Elephant Fury\", a.k.a.\" Panic\"), which he also produced, wrote, and starred.",
+    "A Night's Adventure( German: Abenteuer einer Nacht) is a 1923 German silent thriller film directed by and starring Harry Piel. The film's sets were designed by the art director Kurt Richter.",
+    "Vadim Nikolayevich Vlasov( born 19 December 1980) is a former Russian football player. He is a younger brother of Dmitri Vlasov.",
+    "Ravina is an Indian actress who acted in Dhallywood movies. She acted in\" Praner Cheye Priyo\" which film is considered as turning point of the career of Riaz.",
+    "Miloš Zličić( born 29 December 1999) is a Serbian football forward. He is a younger brother of Lazar Zličić.",
+    "Armando Bó( 3 May 1914 – 8 October 1981) was an Argentine film actor, director, producer, screenwriter and score composer of the classic era. He is mostly known for his sexploitation films in the 1960s and 1970s starring his favorite actress and romantic partner, sex symbol Isabel Sarli. His works include the first nude scene in an Argentine film(\" El trueno entre las hojas\"). Bó's son is the actor Víctor Bó and his grandson is the screenwriter Armando Bó.",
+    "Dmitri Nikolayevich Varfolomeyev( born 15 March 1978 in Leningrad) is a former Russian football player. He is a younger brother of Sergei Varfolomeyev.",
+    "La Bestia humana is a 1957 Argentine film whose story is based on the novel\" La Bête Humaine\" by the French writer Émile Zola."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA Night's Adventure was directed by Harry Piel.\nHarry Piel was born on 12 July 1892.\nInsaciable was directed by Armando Bo.\nArmando Bo was born on 3 May 1914.\n1892 is earlier than 1914.\nHarry Piel is older than Armando Bo.\nThe director of A Night's Adventure is older than the director of Insaciable.\nThe director of Insaciable is younger than the director of A Night's Adventure.\nThe film whose director is younger is Insaciable.\n<answer> Insaciable",
+  "predicted_answer": "Insaciable",
+  "claims": [
+    "A Night's Adventure was directed by Harry Piel",
+    "Harry Piel was born on 12 July 1892",
+    "Insaciable was directed by Armando Bo",
+    "Armando Bo was born on 3 May 1914",
+    "1892 is earlier than 1914",
+    "Harry Piel is older than Armando Bo",
+    "The director of A Night's Adventure is older than the director of Insaciable",
+    "The director of Insaciable is younger than the director of A Night's Adventure",
+    "The film whose director is younger is Insaciable"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A Night's Adventure was directed by Harry Piel",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Harry Piel was born on 12 July 1892",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Insaciable was directed by Armando Bo",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Armando Bo was born on 3 May 1914",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1892 is earlier than 1914",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Harry Piel is older than Armando Bo",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The director of A Night's Adventure is older than the director of Insaciable",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The director of Insaciable is younger than the director of A Night's Adventure",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The film whose director is younger is Insaciable",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

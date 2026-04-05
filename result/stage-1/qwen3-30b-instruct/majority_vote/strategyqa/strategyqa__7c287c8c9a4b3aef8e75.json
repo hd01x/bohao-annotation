@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__7c287c8c9a4b3aef8e75",
+  "sample_id": "7c287c8c9a4b3aef8e75",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would P. G. Wodehouse be taught in second grade?",
+  "gold_answer": "no",
+  "context": [
+    "Second graders are often aged seven or eight.",
+    "The works of Wodehouse are intended for an adult audience."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSecond graders are typically aged seven or eight.\nP. G. Wodehouse's works are intended for an adult audience.\nChildren aged seven or eight are not the target audience for adult literature.\nThe works of P. G. Wodehouse are not suitable for second-grade students.\nP. G. Wodehouse would not be taught in second grade.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Second graders are typically aged seven or eight",
+    "P. G. Wodehouse's works are intended for an adult audience",
+    "Children aged seven or eight are not the target audience for adult literature",
+    "The works of P. G. Wodehouse are not suitable for second-grade students",
+    "P. G. Wodehouse would not be taught in second grade"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Second graders are typically aged seven or eight",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "P. G. Wodehouse's works are intended for an adult audience",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Children aged seven or eight are not the target audience for adult literature",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The works of P. G. Wodehouse are not suitable for second-grade students",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "P. G. Wodehouse would not be taught in second grade",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

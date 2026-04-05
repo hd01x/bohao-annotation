@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__6208234549bac8cc46da",
+  "sample_id": "6208234549bac8cc46da",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would  bald eagle deliver an urgent message before B-52?",
+  "gold_answer": "no",
+  "context": [
+    "A bald eagle can travel up to 99 MPH.",
+    "The B-52 is a US air bomber that can travel up to 650 MPH."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA bald eagle can travel up to 99 MPH.\nThe B-52 can travel up to 650 MPH.\n99 MPH is less than 650 MPH.\nThe bald eagle is slower than the B-52.\nThe bald eagle would not deliver an urgent message before the B-52.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "A bald eagle can travel up to 99 MPH",
+    "The B-52 can travel up to 650 MPH",
+    "99 MPH is less than 650 MPH",
+    "The bald eagle is slower than the B-52",
+    "The bald eagle would not deliver an urgent message before the B-52"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A bald eagle can travel up to 99 MPH",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The B-52 can travel up to 650 MPH",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "99 MPH is less than 650 MPH",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The bald eagle is slower than the B-52",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The bald eagle would not deliver an urgent message before the B-52",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

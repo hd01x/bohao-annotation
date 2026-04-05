@@ -1,0 +1,75 @@
+{
+  "uid": "musique__4hop1__94201_642284_131926_90707",
+  "sample_id": "4hop1__94201_642284_131926_90707",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Where does the river by the city where the Southeast Library designer died and the Ohio River meet?",
+  "gold_answer": "at the city of Cairo, Illinois",
+  "context": [
+    "Falling Waters is a census-designated place (CDP) on the Potomac River in Berkeley County, West Virginia. It is located along Williamsport Pike (US 11) north of Martinsburg. According to the 2010 census, Falling Waters has a population of 876. An 1887 \"Scientific American\" article claimed that the first U.S. railroad was built in Falling Waters in 1814.",
+    "Contoocook Lake () is a water body located in Cheshire County in southwestern New Hampshire, United States, in the towns of Jaffrey and Rindge. The lake, along with Pool Pond, forms the headwaters of the Contoocook River, which flows north to the Merrimack River in Penacook, New Hampshire.",
+    "The Plains is a census-designated place (CDP) in Athens County, Ohio, United States. The population was 3,080 at the 2010 census.",
+    "The river then follows a roughly southwest and then west - northwest course until Cincinnati, before bending to a west - southwest course for most of its length. The course forms the northern borders of West Virginia and Kentucky; and the southern borders of Ohio, Indiana and Illinois, until it joins the Mississippi River at the city of Cairo, Illinois.",
+    "The River Ekulu is a long river and the largest body of water in the city of Enugu in Enugu State, southeastern Nigeria, and it originates in the same city as well.",
+    "The Gumti Water Fountain is a monument in Faisalabad, Pakistan preserved from the British Raj era. It was built during the early nineteenth century and was a general meeting place of the city folk for local town meetings.",
+    "The Mekong is a trans-boundary river in Southeast Asia. It is the world's twelfth longest river and the seventh longest in Asia. Its estimated length is , and it drains an area of , discharging of water annually.",
+    "Clark County Public Library is the public library of Clark County, Ohio, United States. It is based in Springfield, Ohio and has a collection of approximately 500,000 items.",
+    "Minneapolis lies on both banks of the Mississippi River, just north of the river's confluence with the Minnesota River, and adjoins Saint Paul, the state's capital. The city is abundantly rich in water, with 13 lakes, wetlands, the Mississippi River, creeks and waterfalls; many connected by parkways in the Chain of Lakes and the Grand Rounds National Scenic Byway. It was once the world's flour milling capital and a hub for timber. The city and surrounding region is the primary business center between Chicago and Seattle. As of 2018, Minneapolis was home to 6 Fortune 500 companies, and the Twin Cities were the fifth-largest hub of major corporate headquarters in the United States. As an integral link to the global economy, Minneapolis is categorized as a global city.",
+    "Millston is an unincorporated census-designated place located in the town of Millston, Jackson County, Wisconsin, United States. Millston is located along U.S. Route 12 and Interstate 94 southeast of Black River Falls. As of the 2010 census, its population is 125. Millston is completely surrounded by the Black River State Forest.",
+    "A common misconception is that the Cape of Good Hope is the southern tip of Africa. This misconception was based on the misbelief that the Cape was the dividing point between the Atlantic and Indian Oceans. Contemporary geographic knowledge instead states the southernmost point of Africa is Cape Agulhas about 150 kilometres (90 mi) to the east - southeast. The currents of the two oceans meet at the point where the warm - water Agulhas current meets the cold water Benguela current and turns back on itself. That oceanic meeting point fluctuates between Cape Agulhas and Cape Point (about 1.2 kilometres (0.75 mi) east of the Cape of Good Hope).",
+    "Edgewood is a census-designated place (CDP) in Ashtabula County, Ohio, United States. The population was 4,432 at the 2010 census.",
+    "The Beaurivage River is a river in Quebec that flows from Thetford Mines and empties in the Chaudière River, near Saint-Romuald, Quebec. It is a body of water mostly known for its annual canoe race beginning at Saint-Patrice-de-Beaurivage, Quebec and finishing at Saint-Gilles, Quebec.",
+    "Powwow Pond is a water body in Rockingham County in southeastern New Hampshire, United States. The outlet of the pond is located in the town of East Kingston, but most of the lake lies in the town of Kingston. The Powwow River, the outlet of the pond, flows to the Merrimack River in Amesbury, Massachusetts.",
+    "Silver Lake is a water body located in Cheshire County in southwestern New Hampshire, United States, in the towns of Harrisville and Nelson. Water from Silver Lake flows via Minnewawa Brook and The Branch to the Ashuelot River, a tributary of the Connecticut River.",
+    "It is now owned by the West View Water Authority and is used primarily to pump water from the Ohio River, which then goes on to be purified and is used by the surrounding communities for drinking.",
+    "Riverside Plaza is a modernist and brutalist apartment complex designed by Ralph Rapson that opened in Minneapolis, Minnesota in 1973. Situated on the edge of downtown Minneapolis in the Cedar-Riverside neighborhood, and next to both the University of Minnesota's West Bank and Augsburg University, the site contains the 39-story McKnight Building, the tallest structure outside of the city's central business district. Initially known as Cedar Square West, exterior shots of the complex were featured on television as the residence of Mary Richards in sixth and seventh seasons of \"The Mary Tyler Moore Show\".",
+    "Southeast Library's building was designed by master architect Ralph Rapson and originally functioned as a credit union for university and state employees. It opened as a library in 1967. The State Capitol Credit Union building at 1222 Fourth Street Southeast was purchased to be converted into a library on December 29, 1966. It opened as the new Southeast Library on December 26, 1967.",
+    "Apple Grove is a census-designated place (CDP) in Mason County, West Virginia, USA, on the Ohio River located along West Virginia Route 2. Apple Grove lies just south of Gallipolis Ferry. As of the 2010 census, its population was 204. It is part of the Point Pleasant, WV–OH Micropolitan Statistical Area.",
+    "That evening, Eisenhower's body was placed onto a train en route to Abilene, Kansas, the last time a funeral train has been used as part of funeral proceedings of an American president. His body arrived on April 2, and was interred later that day in a small chapel on the grounds of the Eisenhower Presidential Library. The president's body was buried as a General of the Army. The family used an $80 standard soldier's casket, and dressed Eisenhower's body in his famous short green jacket. His only medals worn were: the Army Distinguished Service Medal with three oak leaf clusters, the Navy Distinguished Service Medal, and the Legion of Merit. Eisenhower is buried alongside his son Doud, who died at age 3 in 1921. His wife Mamie was buried next to him after her death in 1979."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRalph Rapson designed the Southeast Library in Minneapolis, Minnesota.\nRalph Rapson died in Minneapolis, Minnesota.\nThe Ohio River flows through the city of Apple Grove, West Virginia.\nThe river by the city where Ralph Rapson died is the Mississippi River.\nThe Mississippi River meets the Ohio River at Cairo, Illinois.\nThe river by the city where the Southeast Library designer died and the Ohio River meet is the Mississippi River at Cairo, Illinois.\n<answer> Cairo, Illinois",
+  "predicted_answer": "Cairo, Illinois",
+  "claims": [
+    "Ralph Rapson designed the Southeast Library in Minneapolis, Minnesota",
+    "Ralph Rapson died in Minneapolis, Minnesota",
+    "The Ohio River flows through the city of Apple Grove, West Virginia",
+    "The river by the city where Ralph Rapson died is the Mississippi River",
+    "The Mississippi River meets the Ohio River at Cairo, Illinois",
+    "The river by the city where the Southeast Library designer died and the Ohio River meet is the Mississippi River at Cairo, Illinois"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Ralph Rapson designed the Southeast Library in Minneapolis, Minnesota",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Ralph Rapson died in Minneapolis, Minnesota",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The Ohio River flows through the city of Apple Grove, West Virginia",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The river by the city where Ralph Rapson died is the Mississippi River",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The Mississippi River meets the Ohio River at Cairo, Illinois",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The river by the city where the Southeast Library designer died and the Ohio River meet is the Mississippi River at Cairo, Illinois",
+      "claim_type": "DR"
+    }
+  ]
+}

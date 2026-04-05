@@ -1,0 +1,121 @@
+{
+  "uid": "strategyqa__59e78fdde03974a7cf77",
+  "sample_id": "59e78fdde03974a7cf77",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was a person sold a Creative Commons License for Boticelli's The Birth of Venus ripped off?",
+  "gold_answer": "yes",
+  "context": [
+    "A Creative Commons license allows for the free distribution of an otherwise copyrighted piece of work.",
+    "Works that are deemed in the public domain do not require a copyright or permission to use.",
+    "Any work created before 1923 is in the public domain.",
+    "Sandro Boticelli's The Birth of Venus painting was from 1486."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSandro Botticelli's The Birth of Venus was created in 1486.\nAny work created before 1923 is in the public domain.\nThe Birth of Venus is therefore in the public domain.\nWorks in the public domain do not require a copyright or permission to use.\nA Creative Commons license is not needed for public domain works.\nNo one can sell a Creative Commons license for a public domain work.\nA person who bought a Creative Commons license for The Birth of Venus was ripped off.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Sandro Botticelli's The Birth of Venus was created in 1486",
+    "Any work created before 1923 is in the public domain",
+    "The Birth of Venus is therefore in the public domain",
+    "Works in the public domain do not require a copyright or permission to use",
+    "A Creative Commons license is not needed for public domain works",
+    "No one can sell a Creative Commons license for a public domain work",
+    "A person who bought a Creative Commons license for The Birth of Venus was ripped off"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Sandro Botticelli's The Birth of Venus was created in 1486",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Any work created before 1923 is in the public domain",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Birth of Venus is therefore in the public domain",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Works in the public domain do not require a copyright or permission to use",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A Creative Commons license is not needed for public domain works",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "No one can sell a Creative Commons license for a public domain work",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "A person who bought a Creative Commons license for The Birth of Venus was ripped off",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

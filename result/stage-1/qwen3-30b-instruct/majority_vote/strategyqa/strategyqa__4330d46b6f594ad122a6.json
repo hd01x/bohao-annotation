@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__4330d46b6f594ad122a6",
+  "sample_id": "4330d46b6f594ad122a6",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are tumors in the lymph nodes ignorable?",
+  "gold_answer": "no",
+  "context": [
+    "Lymphoma is a serious type of cancer that can begin with tumors in the lymph nodes.",
+    "Lymphoma can kill when left untreated."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLymphoma is a serious type of cancer.\nLymphoma can begin with tumors in the lymph nodes.\nLymphoma can be fatal if left untreated.\nTumors in the lymph nodes are a sign of a serious condition.\nIgnoring tumors in the lymph nodes may lead to death.\nTumors in the lymph nodes are not ignorable.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Lymphoma is a serious type of cancer",
+    "Lymphoma can begin with tumors in the lymph nodes",
+    "Lymphoma can be fatal if left untreated",
+    "Tumors in the lymph nodes are a sign of a serious condition",
+    "Ignoring tumors in the lymph nodes may lead to death",
+    "Tumors in the lymph nodes are not ignorable"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lymphoma is a serious type of cancer",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Lymphoma can begin with tumors in the lymph nodes",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Lymphoma can be fatal if left untreated",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Tumors in the lymph nodes are a sign of a serious condition",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Ignoring tumors in the lymph nodes may lead to death",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Tumors in the lymph nodes are not ignorable",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

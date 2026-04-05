@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__2e4a3ac18a5292ee1735",
+  "sample_id": "2e4a3ac18a5292ee1735",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would nickel boil in the outer core of the earth?",
+  "gold_answer": "yes",
+  "context": [
+    "The boiling point of nickel is 3003 Kelvin",
+    "The temperature of earth's outer core is 3,000–4,500 Kelvin"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe boiling point of nickel is 3003 Kelvin.\nThe temperature of Earth's outer core ranges from 3,000 to 4,500 Kelvin.\n3003 Kelvin is within the temperature range of Earth's outer core.\nNickel would reach its boiling point when the temperature exceeds 3003 Kelvin.\nThe outer core temperature can exceed 3003 Kelvin.\nNickel would boil in the outer core of the Earth.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The boiling point of nickel is 3003 Kelvin",
+    "The temperature of Earth's outer core ranges from 3,000 to 4,500 Kelvin",
+    "3003 Kelvin is within the temperature range of Earth's outer core",
+    "Nickel would reach its boiling point when the temperature exceeds 3003 Kelvin",
+    "The outer core temperature can exceed 3003 Kelvin",
+    "Nickel would boil in the outer core of the Earth"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The boiling point of nickel is 3003 Kelvin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The temperature of Earth's outer core ranges from 3,000 to 4,500 Kelvin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "3003 Kelvin is within the temperature range of Earth's outer core",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Nickel would reach its boiling point when the temperature exceeds 3003 Kelvin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The outer core temperature can exceed 3003 Kelvin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Nickel would boil in the outer core of the Earth",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__18abce6a08ae11ebbd83ac1f6bf848b6",
+  "sample_id": "18abce6a08ae11ebbd83ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film whose director is younger, I Was A Student At Heidelberg or Deadly Eyes?",
+  "gold_answer": "Deadly Eyes",
+  "context": [
+    "Theodore Roosevelt Turney( April 27, 1901 – February 3, 1979) was an American football and basketball player and coach. He served as the head football coach at Heidelberg College in Tiffin, Ohio from 1940 to 1945, compiling a record of 51 – 56 – 8. Turney was also the head basketball coach at Heidelberg from 1931 to 1946, tallying a mark of 92–152. Turney also coached track and golf at Heidelberg. He retired as the school's athletic director in 1967 Tunney died of a heart attack on February 3, 1979, in San Diego, California.",
+    "Paul H. Hoernemann( May 18, 1916 – February 28, 1965) was an American football and basketball coach. He served as head football coach at Heidelberg College—now known as Heidelberg University— in Tiffin, Ohio from 1946 to 1959, compiling a record of 102–18 – 4 and winning five Ohio Athletic Conference( OAC) titles. Hoernemann was also the head basketball coach at Heidelberg from 1946 to 1955, tallying a mark of 90– 77. Hoernemann arrived at Heidelberg from New Philadelphia High School, where he had a 24 – 3 record. After the 1959 season, Hoernemann became a vice president at Heidelberg. He held this position until his death in 1965. In 1966, the new dining hall at Heidelberg was named the Hoernemann Refectory. He was inducted into the Ohio High School Coaches Association Hall of Fame in 1994 and the College Football Hall of Fame in 1997.",
+    "Deadly Eyes( also known as The Rats, Rats and Night Eyes) is a 1982 Canadian horror film directed by Robert Clouse, very loosely based on the horror novel\" The Rats\" by James Herbert. The story revolves around giant black rats who begin eating the residents of Toronto after ingesting contaminated grain.",
+    "Don Antonio Valeriano, the younger was a colonial Mexican Nahua politician.",
+    "June Kirby is an American actress and costume designer. She was a student at the Kingston Art School( now Kingston University).",
+    "Robert Clouse( March 6, 1928 – February 4, 1997) was an American film director and producer, known primarily for his work in the action/ adventure and martial arts genres. He died on February 4, 1997 in Oregon of kidney failure. Clouse directed Bruce Lee in Lee's second English- speaking film starring role,( the other being\" Marlowe) 1973's\" Enter the Dragon\". After Lee's death, Clouse completed Lee's final film\" Game of Death\" and released it in 1978 with a new storyline and cast. Other projects included\" Black Belt Jones\"( 1974),\" Darker than Amber\"( 1970),\" China O' Brien\"( 1990), Jackie Chan's\" The Big Brawl\"( 1980),\" Gymkata\"( 1985),\" The Ultimate Warrior\"( 1975), among others.",
+    "I Was a Student at Heidelberg( German: Ich war zu Heidelberg Student) is as a 1927 German silent film directed by Wolfgang Neff and starring Mary Kid and Eva Speyer. The film's art direction was by Gustav A. Knauer.",
+    "Wolfgang Neff( 8 September 1875 – after November 1936) was an Austrian film director. He directed 50 films between 1920 and 1930. He was born in Prague, Bohemia, Austria- Hungary( now Czech Republic).",
+    "Birgit Spinath is a professor of educational psychology at Heidelberg University.",
+    "La Bestia humana is a 1957 Argentine film whose story is based on the novel\" La Bête Humaine\" by the French writer Émile Zola."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nI Was a Student at Heidelberg was directed by Wolfgang Neff.\nWolfgang Neff was born on 8 September 1875.\nDeadly Eyes was directed by Robert Clouse.\nRobert Clouse was born on 6 March 1928.\n1928 is later than 1875.\nRobert Clouse is younger than Wolfgang Neff.\nThe film whose director is younger is Deadly Eyes.\n<answer> Deadly Eyes",
+  "predicted_answer": "Deadly Eyes",
+  "claims": [
+    "I Was a Student at Heidelberg was directed by Wolfgang Neff",
+    "Wolfgang Neff was born on 8 September 1875",
+    "Deadly Eyes was directed by Robert Clouse",
+    "Robert Clouse was born on 6 March 1928",
+    "1928 is later than 1875",
+    "Robert Clouse is younger than Wolfgang Neff",
+    "The film whose director is younger is Deadly Eyes"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "I Was a Student at Heidelberg was directed by Wolfgang Neff",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Wolfgang Neff was born on 8 September 1875",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Deadly Eyes was directed by Robert Clouse",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Robert Clouse was born on 6 March 1928",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1928 is later than 1875",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Robert Clouse is younger than Wolfgang Neff",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film whose director is younger is Deadly Eyes",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

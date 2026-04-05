@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__d7ea60bc4dd6e8986d4e",
+  "sample_id": "d7ea60bc4dd6e8986d4e",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Alice's Adventures in Wonderland inspire Macbeth?",
+  "gold_answer": "no",
+  "context": [
+    "Alice's Adventures in Wonderland was published in 1865",
+    "Macbeth was first performed in 1606"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAlice's Adventures in Wonderland was published in 1865.\nMacbeth was first performed in 1606.\n1865 is later than 1606.\nA work cannot inspire a work that was created earlier.\nAlice's Adventures in Wonderland was published after Macbeth was performed.\nAlice's Adventures in Wonderland did not inspire Macbeth.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Alice's Adventures in Wonderland was published in 1865",
+    "Macbeth was first performed in 1606",
+    "1865 is later than 1606",
+    "A work cannot inspire a work that was created earlier",
+    "Alice's Adventures in Wonderland was published after Macbeth was performed",
+    "Alice's Adventures in Wonderland did not inspire Macbeth"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Alice's Adventures in Wonderland was published in 1865",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Macbeth was first performed in 1606",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "1865 is later than 1606",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "A work cannot inspire a work that was created earlier",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Alice's Adventures in Wonderland was published after Macbeth was performed",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Alice's Adventures in Wonderland did not inspire Macbeth",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

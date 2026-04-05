@@ -1,0 +1,107 @@
+{
+  "uid": "strategyqa__5737e93c88fa5e21c2b5",
+  "sample_id": "5737e93c88fa5e21c2b5",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Christina Aguilera turn her chair around for Kelly Clarkson on The Voice?",
+  "gold_answer": "no",
+  "context": [
+    "Christina Aguilera is a judge on the voice.",
+    "Kelly Clarkson is a judge on the voice.",
+    "Judges only turn their chairs around for competitors. ",
+    "Kelly Clarkson has not competed on the voice."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nChristina Aguilera is a judge on The Voice.\nKelly Clarkson is a judge on The Voice.\nJudges only turn their chairs around for competitors.\nKelly Clarkson has not competed on The Voice.\nKelly Clarkson is not a competitor on The Voice.\nChristina Aguilera did not turn her chair around for Kelly Clarkson on The Voice.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Christina Aguilera is a judge on The Voice",
+    "Kelly Clarkson is a judge on The Voice",
+    "Judges only turn their chairs around for competitors",
+    "Kelly Clarkson has not competed on The Voice",
+    "Kelly Clarkson is not a competitor on The Voice",
+    "Christina Aguilera did not turn her chair around for Kelly Clarkson on The Voice"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Christina Aguilera is a judge on The Voice",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Kelly Clarkson is a judge on The Voice",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Judges only turn their chairs around for competitors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Kelly Clarkson has not competed on The Voice",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Kelly Clarkson is not a competitor on The Voice",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Christina Aguilera did not turn her chair around for Kelly Clarkson on The Voice",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "uid": "strategyqa__9f141949c05a47064fa9",
+  "sample_id": "9f141949c05a47064fa9",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is anyone at the Last Supper celebrated in Islam?",
+  "gold_answer": "yes",
+  "context": [
+    "The Last Supper was a meal between Jesus and his twelve disciples in Christianity.",
+    "In Islam, Jesus is one of many revered prophets.",
+    "In Islam, Jesus returns in a Second Coming to fight the \"False Messiah\" and establish peace on earth."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Last Supper is a Christian event involving Jesus and his twelve disciples.\nIslam reveres Jesus as a prophet but does not recognize the Last Supper as a religious event.\nThe Last Supper is not mentioned in Islamic scripture or tradition.\nNo figure from the Last Supper is celebrated in Islam.\nThe Last Supper is not celebrated in Islam.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Last Supper is a Christian event involving Jesus and his twelve disciples",
+    "Islam reveres Jesus as a prophet but does not recognize the Last Supper as a religious event",
+    "The Last Supper is not mentioned in Islamic scripture or tradition",
+    "No figure from the Last Supper is celebrated in Islam",
+    "The Last Supper is not celebrated in Islam"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Last Supper is a Christian event involving Jesus and his twelve disciples",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Islam reveres Jesus as a prophet but does not recognize the Last Supper as a religious event",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Last Supper is not mentioned in Islamic scripture or tradition",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "No figure from the Last Supper is celebrated in Islam",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Last Supper is not celebrated in Islam",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

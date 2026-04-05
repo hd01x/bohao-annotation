@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__f7fa93e91293615bc50d",
+  "sample_id": "f7fa93e91293615bc50d",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can someone in Uberlandia work for Mitsubishi?",
+  "gold_answer": "yes",
+  "context": [
+    "Mitsubishi is a Japanese auto manufacturer",
+    "Mitsubishi operates a plant in Catalao, Brazil",
+    "Uberlandia is just under 70 miles from Catalao"
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMitsubishi is a Japanese auto manufacturer.\nMitsubishi operates a plant in Catalao, Brazil.\nUberlandia is located just under 70 miles from Catalao.\nThe proximity of Uberlandia to Catalao allows for feasible commuting.\nMitsubishi employs workers at its plant in Catalao.\nIndividuals in Uberlandia can commute to Catalao for work.\nSomeone in Uberlandia can work for Mitsubishi.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Mitsubishi is a Japanese auto manufacturer",
+    "Mitsubishi operates a plant in Catalao, Brazil",
+    "Uberlandia is located just under 70 miles from Catalao",
+    "The proximity of Uberlandia to Catalao allows for feasible commuting",
+    "Mitsubishi employs workers at its plant in Catalao",
+    "Individuals in Uberlandia can commute to Catalao for work",
+    "Someone in Uberlandia can work for Mitsubishi"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Mitsubishi is a Japanese auto manufacturer",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Mitsubishi operates a plant in Catalao, Brazil",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Uberlandia is located just under 70 miles from Catalao",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The proximity of Uberlandia to Catalao allows for feasible commuting",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Mitsubishi employs workers at its plant in Catalao",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Individuals in Uberlandia can commute to Catalao for work",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Someone in Uberlandia can work for Mitsubishi",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

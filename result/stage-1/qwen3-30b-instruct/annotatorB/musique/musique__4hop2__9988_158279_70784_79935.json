@@ -1,0 +1,99 @@
+{
+  "uid": "musique__4hop2__9988_158279_70784_79935",
+  "sample_id": "4hop2__9988_158279_70784_79935",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "When was the region that lies to the north of what used to be known as the \"Near East\" and the location of the final destination of exported crops created?",
+  "gold_answer": "1930",
+  "context": [
+    "Erazmów is a village in the administrative district of Gmina Koluszki, within Łódź East County, Łódź Voivodeship, in central Poland. It lies approximately north-east of Koluszki and east of the regional capital Łódź.",
+    "Holenderki is a village in the administrative district of Gmina Przedecz, within Koło County, Greater Poland Voivodeship, in west-central Poland. It lies approximately north-east of Przedecz, north-east of Koło, and east of the regional capital Poznań.",
+    "Wicimiczki () is a village in the administrative district of Gmina Płoty, within Gryfice County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately north-east of Płoty, south-east of Gryfice, and north-east of the regional capital Szczecin.",
+    "Kolonia Wola Szydłowiecka is a village in the administrative district of Gmina Bolimów, within Skierniewice County, Łódź Voivodeship, in central Poland. It lies approximately east of Bolimów, north-east of Skierniewice, and north-east of the regional capital Łódź.",
+    "Hertfordshire is the county immediately north of London and is part of the East of England region, a mainly statistical unit. A significant minority of the population across all districts are City of London commuters. To the east is Essex, to the west is Buckinghamshire and to the north are Bedfordshire and Cambridgeshire.",
+    "Siedleczko () is a village in the administrative district of Gmina Wągrowiec, within Wągrowiec County, Greater Poland Voivodeship, in west-central Poland. It lies approximately north-east of Wągrowiec and north-east of the regional capital Poznań.",
+    "The Kingdom of Saudi Arabia is a country situated in Southwest Asia, the largest country of Arabia, bordering the Persian Gulf and the Red Sea, north of Yemen. Its extensive coastlines on the Persian Gulf and Red Sea provide great leverage on shipping (especially crude oil) through the Persian Gulf and Suez Canal. The kingdom occupies 80% of the Arabian Peninsula. Most of the country's boundaries with the United Arab Emirates (UAE), Oman, and the Republic of Yemen (formerly two separate countries: the Yemen Arab Republic or North Yemen; and the People's Democratic Republic of Yemen or South Yemen) are undefined, so the exact size of the country remains unknown. The Saudi government estimate is at 2,217,949 square kilometres, while other reputable estimates vary between 2,149,690 and 2,240,000 sq. kilometres. Less than 1% of the total area is suitable for cultivation, and in the early 1990s, population distribution varied greatly among the towns of the eastern and western coastal areas, the densely populated interior oases, and the vast, almost empty deserts.",
+    "Kołzin is a settlement in the administrative district of Gmina Sianów, within Koszalin County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately north of Sianów, north-east of Koszalin, and north-east of the regional capital Szczecin.",
+    "Smogorówka Dolistowska is a village in the administrative district of Gmina Goniądz, within Mońki County, Podlaskie Voivodeship, in north-eastern Poland. It lies approximately east of Goniądz, north-east of Mońki, and north-west of the regional capital Białystok.",
+    "Gmina Osina is a rural gmina (administrative district) in Goleniów County, West Pomeranian Voivodeship, in north-western Poland. Its seat is the village of Osina, which lies approximately north-east of Goleniów and north-east of the regional capital Szczecin.",
+    "Wełdkówko (German: \"Klein Voldekow\") is a village in the administrative district of Gmina Tychowo, within Białogard County, West Pomeranian Voivodeship, in north-western Poland. It lies approximately north-east of Tychowo, east of Białogard, and north-east of the regional capital Szczecin.",
+    "For much of the region's history a patchwork of tribal rulers controlled most of the area. The Al Saud (the Saudi royal family) emerged as minor tribal rulers in Najd in central Arabia. From the mid-18th century, imbued with the religious zeal of the Wahhabi Islamic movement, they became aggressively expansionist. Over the following 150 years, the extent of the Al Saud territory fluctuated. However, between 1902 and 1927, the Al Saud leader, Abdulaziz, carried out a series of wars of conquest which resulted in his establishing the Kingdom of Saudi Arabia in 1930.",
+    "Dobjoi is a village in the Tibet Autonomous Region of China north east of Shigatse. It lies at an altitude of 4,410 metres (14,471 feet).",
+    "Southampton Airport is a regional airport located in the town of Eastleigh, just north of the city. It offers flights to UK and near European destinations, and is connected to the city by a frequent rail service from Southampton Airport (Parkway) railway station, and by bus services.",
+    "Wojkowo () is a village in the administrative district of Gmina Bisztynek, within Bartoszyce County, Warmian-Masurian Voivodeship, in northern Poland. It lies approximately north-east of Bisztynek, south-east of Bartoszyce, and north-east of the regional capital Olsztyn.",
+    "Skendleby is a small village and civil parish in the East Lindsey district of Lincolnshire, England. It is situated near to the A158 and lies east from the county town Lincoln, and about north-east from the town of Spilsby. The village stands near the south-eastern edge of the Lincolnshire Wolds.",
+    "Dratów is a village in the administrative district of Gmina Ludwin, within Łęczna County, Lublin Voivodeship, in eastern Poland. It lies approximately north-east of Ludwin, north-east of Łęczna, and north-east of the regional capital Lublin.",
+    "North Gosford is a south-eastern suburb of the Central Coast region of New South Wales, Australia immediately north-east of Gosford's central business district. It is part of the local government area.",
+    "Subsequently with the disgrace of \"Near East\" in diplomatic and military circles, \"Middle East\" prevailed. However, \"Near East\" continues in some circles at the discretion of the defining agency or academic department. They are not generally considered distinct regions as they were at their original definition.",
+    "Shiraz is the economic center of southern Iran. The second half of the 19th century witnessed certain economic developments that greatly changed the economy of Shiraz. The opening of the Suez Canal in 1869 allowed the extensive import into southern Iran of inexpensive European factory-made goods, either directly from Europe or via India. Farmers in unprecedented numbers began planting cash crops such as opium poppy, tobacco, and cotton. Many of these export crops passed through Shiraz on their way to the Persian Gulf. Iranian long-distance merchants from Fars developed marketing networks for these commodities, establishing trading houses in Bombay, Calcutta, Port Said, Istanbul and even Hong Kong.Shiraz's economic base is in its provincial products, which include grapes, citrus fruits, cotton and rice. Industries such as cement production, sugar, fertilizers, textile products, wood products, metalwork and rugs dominate. Shirāz also has a major oil refinery and is also a major center for Iran's electronic industries. 53% of Iran's electronic investment has been centered in Shiraz."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe region to the north of the former \"Near East\" is the Middle East.\nThe term \"Middle East\" replaced \"Near East\" in diplomatic and military circles after the latter's decline in usage.\nThe final destination of exported crops from Shiraz, Iran, is the Persian Gulf.\nShiraz is located in southern Iran, which lies to the south of the Middle East region.\nThe Kingdom of Saudi Arabia was established in 1930.\nThe Kingdom of Saudi Arabia lies in the Middle East and borders the Persian Gulf.\nThe region that lies to the north of the former \"Near East\" and is the final destination of exported crops is the Middle East.\nThe Middle East region, as a geopolitical entity, was solidified in the 20th century.\nThe Kingdom of Saudi Arabia, a key part of the Middle East, was created in 1930.\nThe region that lies to the north of what used to be known as the \"Near East\" and the location of the final destination of exported crops was created in 1930.\n<answer> 1930",
+  "predicted_answer": "1930",
+  "claims": [
+    "The region to the north of the former \"Near East\" is the Middle East",
+    "The term \"Middle East\" replaced \"Near East\" in diplomatic and military circles after the latter's decline in usage",
+    "The final destination of exported crops from Shiraz, Iran, is the Persian Gulf",
+    "Shiraz is located in southern Iran, which lies to the south of the Middle East region",
+    "The Kingdom of Saudi Arabia was established in 1930",
+    "The Kingdom of Saudi Arabia lies in the Middle East and borders the Persian Gulf",
+    "The region that lies to the north of the former \"Near East\" and is the final destination of exported crops is the Middle East",
+    "The Middle East region, as a geopolitical entity, was solidified in the 20th century",
+    "The Kingdom of Saudi Arabia, a key part of the Middle East, was created in 1930",
+    "The region that lies to the north of what used to be known as the \"Near East\" and the location of the final destination of exported crops was created in 1930"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The region to the north of the former \"Near East\" is the Middle East",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The term \"Middle East\" replaced \"Near East\" in diplomatic and military circles after the latter's decline in usage",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The final destination of exported crops from Shiraz, Iran, is the Persian Gulf",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Shiraz is located in southern Iran, which lies to the south of the Middle East region",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The Kingdom of Saudi Arabia was established in 1930",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The Kingdom of Saudi Arabia lies in the Middle East and borders the Persian Gulf",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "The region that lies to the north of the former \"Near East\" and is the final destination of exported crops is the Middle East",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C8",
+      "text": "The Middle East region, as a geopolitical entity, was solidified in the 20th century",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C9",
+      "text": "The Kingdom of Saudi Arabia, a key part of the Middle East, was created in 1930",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C10",
+      "text": "The region that lies to the north of what used to be known as the \"Near East\" and the location of the final destination of exported crops was created in 1930",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__3e5580c00bb011ebab90acde48001122",
+  "sample_id": "3e5580c00bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Antoine-Charles Taschereau's paternal grandfather?",
+  "gold_answer": "Thomas-Jacques Taschereau",
+  "context": [
+    "Rev. John Westley( 1636 – 78) was an English nonconformist minister. He was the grandfather of John Wesley( founder of Methodism).",
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Gabriel-Elzéar Taschereau (March 27, 1745 – September 18, 1809) was the second in a line of distinguished French Canadians whose influence has spanned three centuries. Gabriel-Elzéar Taschereau was born at Quebec City, the son of Thomas-Jacques Taschereau. At the age of 14, he aided in the defence of the town against the British attack in 1759. He later became a member of the Legislative Assembly and Legislative Council of Lower Canada, as well as a seigneur and a judge. Taschereau inherited the seigneury of Sainte-Marie-de-la-Nouvelle-Beauce from his father and acquired the seigneuries of Jolliet and Saint-Joseph-de-Beauce and a part of Linière, Mingan and Anticosti Island. He was married twice and both marriages produced offspring that contributed to the growth of the Quebec and Canadian legal systems. His first wife was Marie-Louise-Élisabeth Bazin. His second wife was Louise-Françoise Juchereau Duchesnay (1771-1841), daughter of Antoine Juchereau Duchesnay. One son was Jean-Thomas Taschereau (1778–1832). Jean-Thomas was an MLA, a judge, and a publisher during his lifetime. A second son, Thomas-Pierre-Joseph Taschereau was a lawyer, an MLA and a judge. Taschereau died at Sainte-Marie-de-la-Beauce",
+    "Antoine Charles Laganière( born July 5, 1990) is a Canadian professional ice hockey forward who is currently playing for the Straubing Tigers of the Deutsche Eishockey Liga( DEL).",
+    "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist. He was the grandfather of singer/ poet Leonard Cohen.",
+    "Antoine Charles Cazenove( 8 April 1775 – 16 October 1852)( born Antoine Charles de Cazenove) was a Swiss- American businessman and diplomat.",
+    "Guillaume Wittouck( 1749- 1829) was a Belgian lawyer and High Magistrate. He was the Grandfather of industrialist Paul Wittouck.",
+    "Antoine-Charles Taschereau (October 26, 1797 – June 11, 1862) was an official and political figure in Quebec. He represented Beauce in the Legislative Assembly of Lower Canada from 1830 to 1838 and Dorchester in the Legislative Assembly of the Province of Canada from 1841 to 1844. He was born in Quebec City, the son of seigneur Gabriel-Elzéar Taschereau and Louise-Françoise Juchereau Duchesnay who was the daughter of Antoine Juchereau Duchesnay, and was educated at the Petit Séminaire de Montréal and the Séminaire de Nicolet. He married Adélaïde Fleury de La Gorgendière in 1819. Taschereau was named customs officer at Sainte-Marie-de-la-Nouvelle-Beauce in 1821 and then customs collector in 1822. He also served as land agent, postmaster, school trustee and as a lieutenant-colonel in the militia. Taschereau supported the Ninety-Two Resolutions and opposed the union of Upper and Lower Canada. In 1849, he was named customs collector at Quebec City. He died in Deschambault at the age of 64. Taschereau was half-brother of Jean-Thomas and Thomas-Pierre-Joseph Taschereau and uncle of Joseph-André and Pierre-Elzéar Taschereau.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "Prithvipati Shah( ?–1716) was the king of the Gorkha Kingdom in the Indian subcontinent, present- day Nepal. He was the grandfather of Nara Bhupal Shah."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAntoine-Charles Taschereau was born in Quebec City.\nHe was the son of seigneur Gabriel-Elzéar Taschereau.\nGabriel-Elzéar Taschereau was the son of Thomas-Jacques Taschereau.\nThomas-Jacques Taschereau is the paternal grandfather of Antoine-Charles Taschereau.\n<answer> Thomas-Jacques Taschereau",
+  "predicted_answer": "Thomas-Jacques Taschereau",
+  "claims": [
+    "Antoine-Charles Taschereau was born in Quebec City",
+    "He was the son of seigneur Gabriel-Elzéar Taschereau",
+    "Gabriel-Elzéar Taschereau was the son of Thomas-Jacques Taschereau",
+    "Thomas-Jacques Taschereau is the paternal grandfather of Antoine-Charles Taschereau"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Antoine-Charles Taschereau was born in Quebec City",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "He was the son of seigneur Gabriel-Elzéar Taschereau",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Gabriel-Elzéar Taschereau was the son of Thomas-Jacques Taschereau",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Thomas-Jacques Taschereau is the paternal grandfather of Antoine-Charles Taschereau",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

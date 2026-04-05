@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__391fed160bb011ebab90acde48001122",
+  "sample_id": "391fed160bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the paternal grandmother of Princess Feodora Of Hohenlohe-Langenburg?",
+  "gold_answer": "Countess Amalie Henriette of Solms-Baruth",
+  "context": [
+    "Kraft, 9th Prince of Hohenlohe- Langenburg( 25 June 1935 – 16 March 2004) was the eldest son of Gottfried, Prince of Hohenlohe- Langenburg. He was the titular Prince of Hohenlohe- Langenburg from 1960 until his death.",
+    "Ernst Christian Carl, 4th Prince of Hohenlohe-Langenburg (7 May 1794 – 12 April 1860). He was the son of Prince Charles Louis of Hohenlohe-Langenburg and Countess Amalie Henriette of Solms-Baruth.",
+    "Carl Ludwig II, 5th Prince of Hohenlohe- Langenburg( 25 October 182916 May 1907), was the eldest son of Ernst I, Prince of Hohenlohe- Langenburg. He was the fifth Prince of Hohenlohe- Langenburg.",
+    "Gottfried, 8th Prince of Hohenlohe- Langenburg( 24 March 189711 May 1960) was the only surviving son of Ernst II, Prince of Hohenlohe- Langenburg.",
+    "Princess Helene of Hohenlohe- Langenburg( 22 November 1807, Langenburg, Principality of Hohenlohe- Langenburg- 5 September 1880, Schleiz, Thuringia) was a member of the House of Hohenlohe- Langenburg and a Princess of Hohenlohe- Langenburg by birth and a member of the House of Württemberg and a Duchess of Württemberg as the second wife of Duke Eugen of Württemberg",
+    "Princess Feodora of Hohenlohe-Langenburg (Feodora Victoria Adelheid; 7 July 1839 – 10 February 1872) was a daughter of Ernst I, Prince of Hohenlohe-Langenburg and Princess Feodora of Leiningen. By her marriage to Georg of Saxe-Meiningen, she would become Duchess of Saxe-Meiningen upon his accession to the ducal throne in 1866.",
+    "Philipp, 10th Prince of Hohenlohe- Langenburg( Philipp Gottfried Alexander; born 20 January 1970 in Crailsheim, West Germany), is the middle child and only son of Kraft, Prince of Hohenlohe- Langenburg and his first wife, Princess Charlotte of Croÿ. Upon the death of his father in 2004, he became the titular Prince of Hohenlohe- Langenburg. He is a grandson of Princess Margarita of Greece and Denmark, and a grandnephew of Prince Philip, Duke of Edinburgh. Anne, Princess Royal of the United Kingdom is one of his godmothers.",
+    "Hermann Ernst Franz Bernhard, Prince of Hohenlohe- Langenburg( 31 August 1832 – 9 March 1913) was the 6th Prince of Hohenlohe- Langenburg and the second son of Ernst I, Prince of Hohenlohe- Langenburg and Princess Feodora of Leiningen( half- sister of Queen Victoria). He succeeded to the title of Prince of Hohenlohe- Langenburg(\" Fürst zu Hohenlohe- Langenburg\") on 21 April 1860, when his elder brother signed over his rights to the throne. He died on 9 March 1913 in Langenburg, Kingdom of Württemberg, German Empire( present- day Baden- Württemberg, Germany).",
+    "Christian Albrecht, 2nd Prince of Hohenlohe- Langenburg( 27 March 1726 in Langenburg – 4 July 1789 in Ludwigsruhe), was the second ruling Prince of Hohenlohe- Langenburg and a Dutch lieutenant- general. He was the first child of Ludwig, Prince of Hohenlohe- Langenburg and Countess Eleonore of Nassau- Saarbrücken. On 7 January 1764, his father was elevated to an Imperial Prince by Emperor Francis I.",
+    "Prince Marco of Hohenlohe- Langenburg, 19th Duke of Medinaceli, GE( 8 March 1962 – 19 August 2016), was a German- Spanish nobleman who was head of the ducal house of Medinaceli and a dynast of the princely house of Hohenlohe- Langenburg."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPrincess Feodora of Hohenlohe-Langenburg was a daughter of Ernst I, Prince of Hohenlohe-Langenburg.\nErnst I, Prince of Hohenlohe-Langenburg was the son of Prince Charles Louis of Hohenlohe-Langenburg and Countess Amalie Henriette of Solms-Baruth.\nThe paternal grandmother of Princess Feodora of Hohenlohe-Langenburg is Countess Amalie Henriette of Solms-Baruth.\n<answer> Countess Amalie Henriette of Solms-Baruth",
+  "predicted_answer": "Countess Amalie Henriette of Solms-Baruth",
+  "claims": [
+    "Princess Feodora of Hohenlohe-Langenburg was a daughter of Ernst I, Prince of Hohenlohe-Langenburg",
+    "Ernst I, Prince of Hohenlohe-Langenburg was the son of Prince Charles Louis of Hohenlohe-Langenburg and Countess Amalie Henriette of Solms-Baruth",
+    "The paternal grandmother of Princess Feodora of Hohenlohe-Langenburg is Countess Amalie Henriette of Solms-Baruth"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Princess Feodora of Hohenlohe-Langenburg was a daughter of Ernst I, Prince of Hohenlohe-Langenburg",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Ernst I, Prince of Hohenlohe-Langenburg was the son of Prince Charles Louis of Hohenlohe-Langenburg and Countess Amalie Henriette of Solms-Baruth",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The paternal grandmother of Princess Feodora of Hohenlohe-Langenburg is Countess Amalie Henriette of Solms-Baruth",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

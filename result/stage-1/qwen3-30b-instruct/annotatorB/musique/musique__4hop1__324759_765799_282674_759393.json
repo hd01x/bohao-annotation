@@ -1,0 +1,69 @@
+{
+  "uid": "musique__4hop1__324759_765799_282674_759393",
+  "sample_id": "4hop1__324759_765799_282674_759393",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What is the capital of the county that shares a border with the county where the headquarters of Pierce Manufacturing is located?",
+  "gold_answer": "Green Bay",
+  "context": [
+    "John C. Petersen (November 2, 1842 – July 10, 1887) was an American butcher and farmer from Appleton, Wisconsin who served as a member of the Wisconsin State Assembly from Outagamie County. He was elected in 1878 as a Greenbacker, and was re-elected the next year as a \"Greenback Democrat\" (even though he was opposed by a Democrat).",
+    "Sinzongo is a village in the Lobaye region in the Central African Republic southwest of the capital, Bangui and near the border with the Democratic Republic of the Congo.",
+    "Jimmy John's Franchise, LLC Type Privately held company Founded 1983; 34 years ago (1983) Founder Jimmy John Liautaud Headquarters Champaign, Illinois, United States Number of locations 2,630 (December 2016) Key people James North (CEO) Owner Jimmy John Liautaud, Roark Capital Group Website jimmyjohns.com",
+    "Although the ECB is governed by European law directly and thus not by corporate law applying to private law companies, its set-up resembles that of a corporation in the sense that the ECB has shareholders and stock capital. Its capital is five billion euros which is held by the national central banks of the member states as shareholders. The initial capital allocation key was determined in 1998 on the basis of the states' population and GDP, but the key is adjustable. Shares in the ECB are not transferable and cannot be used as collateral.",
+    "Potes is a municipality in the autonomous community of Cantabria in Spain. It is the capital of the Comarca of Liébana and is located in the centre of it. It is bordered to the north by Cillorigo de Liébana, to the west by Camaleño, to the south by Vega de Liébana and to the east by Cabezón de Liébana.",
+    "Turmequé is a town and municipality in the Colombian Department of Boyacá, part of the subregion of the Márquez Province. Turmequé is located at northeast from the capital Bogotá. The municipality borders Ventaquemada in the west, in the east Úmbita, in the north Nuevo Colón and in the south the municipality Villapinzón of the department of Cundinamarca.",
+    "Born in Green Bay, Wisconsin, Quinn was a realtor and served on the Green Bay Common Council, the Brown County, Wisconsin Board of Supervisors, the local Board of Education, and the Wisconsin State Assembly from 1955 until 1973. He was a Republican.",
+    "Washington, D.C. is the current federal capital city of the United States, as it has been since 1800. Each U.S. state has its own capital city, as do many of its Insular areas. Historically, most states have not changed their capital city since becoming a state, but the capital cities of their respective preceding colonies, territories, kingdoms, and republics typically changed multiple times. There have also been other governments within the current borders of the United States with their own capitals, such as the Republic of Texas, Native American nations, and other unrecognized governments.",
+    "Dareton is a town in the far west of New South Wales, Australia. The town is located on the Silver City Highway, 1,025 kilometres west of the state capital, Sydney and 20 kilometres from the regional centre, Mildura, across the border in Victoria. Part of the Wentworth Shire local government area, at the , Dareton had a population of 516.",
+    "Islamabad officially became the capital of Pakistan on 14 August 1967, exactly 20 years after the country's independence. Previously, Rawalpindi was the capital, designated in 1958. The first capital of Pakistan was the coastal city of Karachi, which was selected by Muhammad Ali Jinnah. Karachi was and still is the largest city and economic capital of Pakistan. It remained the seat of government until 1959, when the military president, Ayub Khan, decided to build a new capital in the north of Pakistan, near the general headquarters of the Pakistani Armed Forces at Rawalpindi.",
+    "Pulaski High School is a public high school in Pulaski, Wisconsin, in Brown County, Wisconsin (school district also serves parts of Shawano, Outagamie and Oconto counties), that serves students in grades 9 through 12. Its mascot is the Red Raider.",
+    "Pierce Manufacturing is an American, Appleton, Wisconsin-based manufacturer of custom fire and rescue apparatus and a wholly owned subsidiary of Oshkosh Corporation. Pierce was acquired by Oshkosh in 1996 and is currently the largest fire apparatus company in the world. The company was founded in 1913 by Humphrey Pierce and his son Dudley as the Pierce Auto Body Works Inc., and concentrated on building custom truck bodies for the Ford Model T. The first production facility was designed in 1917 and enlarged in 1918 by architect Wallace W. DeLong. From the 1960s to the early 1980s, Pierce was primarily known for building custom bodies on commercial and other manufacturer's custom chassis, and was considered an original equipment manufacturer (OEM).",
+    "Orange Bay is the name of two small bays in Jamaica. One is located at in the parish of Westmoreland, to the north of the resort town of Negril. The other is at in the east, in the parish of Portland, 15 miles west of the capital, Port Antonio. Here the name is shared by a small village on the shore of the bay.",
+    "Koh Sotin District () is a district (\"srok\") located in Kampong Cham Province, Cambodia. The district capital is Chi Haer town located around 10 kilometres south of the provincial capital of Kampong Cham by water, but some 42 kilometres by road. The district borders on the southern bank of the Mekong River and includes the islands of Koh Sothin and Koh Mitt in its area.",
+    "The capital, Brazzaville, is located on the Congo River, in the south of the country, immediately across from Kinshasa, the capital of the Democratic Republic of the Congo.",
+    "Meat Corporation of Namibia, locally known as MeatCo, is a meat processing company headquartered in Windhoek, the capital of Namibia. It is the largest exporter of prime beef in Namibia.",
+    "The county lies in southern Hungary, on the border with Croatia. The River Drava forms part of its southern border, and the River Danube its eastern border. It shares borders with the Hungarian counties Somogy, Tolna, and Bács-Kiskun. The capital of Baranya county is Pécs.",
+    "The Town of York was the second capital of the district of Upper Canada and the predecessor to Toronto (1834). It was established in 1793 by Lieutenant - Governor John Graves Simcoe as a ``temporary ''location for the capital of Upper Canada, while he made plans to build a capital near today's London, Ontario. Simcoe renamed the location York after Prince Frederick, Duke of York and Albany, George III's second son. Simcoe gave up his plan to build a capital at London, and York became the permanent capital of Upper Canada on February 1, 1796. That year Simcoe returned to Britain and was temporarily replaced by Peter Russell.",
+    "Togo (), officially the Togolese Republic (), is a country in West Africa bordered by Ghana to the west, Benin to the east and Burkina Faso to the north. The sovereign state extends south to the Gulf of Guinea, where its capital Lomé is located. Togo covers , making it one of the smallest countries in Africa, with a population of approximately /1e6 round 1 million.",
+    "Sokoto North is a Local Government Area in Sokoto State, Nigeria. Its headquarters are in the state capital of Sokoto."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPierce Manufacturing is headquartered in Appleton, Wisconsin.\nAppleton is located in Outagamie County, Wisconsin.\nOutagamie County shares a border with Brown County, Wisconsin.\nThe capital of Brown County, Wisconsin is Green Bay.\nThe capital of the county that shares a border with the county where the headquarters of Pierce Manufacturing is located is Green Bay.\n<answer> Green Bay",
+  "predicted_answer": "Green Bay",
+  "claims": [
+    "Pierce Manufacturing is headquartered in Appleton, Wisconsin",
+    "Appleton is located in Outagamie County, Wisconsin",
+    "Outagamie County shares a border with Brown County, Wisconsin",
+    "The capital of Brown County, Wisconsin is Green Bay",
+    "The capital of the county that shares a border with the county where the headquarters of Pierce Manufacturing is located is Green Bay"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Pierce Manufacturing is headquartered in Appleton, Wisconsin",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Appleton is located in Outagamie County, Wisconsin",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Outagamie County shares a border with Brown County, Wisconsin",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The capital of Brown County, Wisconsin is Green Bay",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The capital of the county that shares a border with the county where the headquarters of Pierce Manufacturing is located is Green Bay",
+      "claim_type": "DR"
+    }
+  ]
+}

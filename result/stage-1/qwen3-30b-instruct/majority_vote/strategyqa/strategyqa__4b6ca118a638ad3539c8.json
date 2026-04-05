@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__4b6ca118a638ad3539c8",
+  "sample_id": "4b6ca118a638ad3539c8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Dorothea Wendling from same place Porsche originated?",
+  "gold_answer": "yes",
+  "context": [
+    "Dorothea Wendling was a singer born in Stuttgart, Germany.",
+    "Porsche was founded in 1931 in Stuttgart, Germany."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDorothea Wendling was born in Stuttgart, Germany.\nPorsche was founded in 1931 in Stuttgart, Germany.\nStuttgart, Germany is the place where both Dorothea Wendling was born and Porsche was founded.\nDorothea Wendling is from the same place where Porsche originated.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Dorothea Wendling was born in Stuttgart, Germany",
+    "Porsche was founded in 1931 in Stuttgart, Germany",
+    "Stuttgart, Germany is the place where both Dorothea Wendling was born and Porsche was founded",
+    "Dorothea Wendling is from the same place where Porsche originated"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Dorothea Wendling was born in Stuttgart, Germany",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Porsche was founded in 1931 in Stuttgart, Germany",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Stuttgart, Germany is the place where both Dorothea Wendling was born and Porsche was founded",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Dorothea Wendling is from the same place where Porsche originated",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "uid": "musique__4hop1__342858_131850_33952_34109",
+  "sample_id": "4hop1__342858_131850_33952_34109",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What is the PBS station in the second largest city in the state where Yuma's Library District is located?",
+  "gold_answer": "KUAT-TV 6",
+  "context": [
+    "Strausberg Stadt is a railway station in the city of Strausberg in Brandenburg. Located on the Strausberg–Strausberg Nord line, it is served by the S-Bahn line .",
+    "Irkutsky District () is an administrative district, one of the thirty-three in Irkutsk Oblast, Russia. Municipally, it is incorporated as Irkutsky Municipal District. It is located in the south of the oblast. The area of the district is . Its administrative center is the city of Irkutsk (which is not administratively a part of the district). As of the 2010 Census, the total population of the district was 84,322.",
+    "Leninsk-Kuznetsky District (, ) is an administrative district (raion), one of the nineteen in Kemerovo Oblast, Russia. As a municipal division, it is incorporated as Leninsk-Kuznetsky Municipal District. It is located in the west of the oblast. The area of the district is . Its administrative center is the city of Leninsk-Kuznetsky (which is not administratively a part of the district). Population: 27,825 (2002 Census);",
+    "Szelment is a settlement in the administrative district of Gmina Szypliszki, within Suwałki County, Podlaskie Voivodeship, in north-eastern Poland, close to the border with Lithuania. Szelment is located 15 km north of Suwałki. It is also home to a 1000m cable car line, the second-longest in Poland. It is located 6.0 km from the nearest city in Lithuania, Salaperaugis.",
+    "The Wichita City Carnegie Library Building located at 220 S. Main Street in Wichita, Kansas, Sedgwick County, Kansas, United States, is a Carnegie library built in 1915. It was listed on the National Register of Historic Places in 1987. The two-story, limestone Beaux Arts building stands in the southwestern part of Wichita's central business district, directly south of the old City Hall. Its façade orientation is west. The building measures approximately one hundred and twenty-eight feet from north to south and eighty-three feet from east to west. After the completion of Wichita's present library in 1966, the Wichita City Carnegie Library Building served as city offices and the municipal court until the Wichita Omnisphere and Science Center established its tenancy in 1976, followed by changing tenants.",
+    "The Central Library is the main library of the Kansas City Public Library system, which is located in the Library District of Downtown Kansas City, Missouri, United States. It is situated at 14 West 10th Street, at the corner of West 10th Street and Baltimore Avenue, across Baltimore Avenue from the Kansas City Club and up from the New York Life Building. It contains the administration of Kansas City's library system.",
+    "Sochi railway station () () is the largest of the four railway stations in Sochi, and one of the largest railway stations in Krasnodar Krai. It is part of North Caucasus Railway and located in the Tsentralny City District of Sochi.",
+    "The City of Yuma is a Home Rule Municipality that is the most populous city in Yuma County, Colorado, United States. The population was 3,524 at the 2010 census.",
+    "Ulitsa Akademika Korolyova (, ) is a station of the Moscow Monorail. It is located in the Ostankino District of the North-Eastern Administrative Okrug of Moscow.",
+    "Siaogang District () is the southernmost district of Kaohsiung City in southern Taiwan. The second largest airport in Taiwan, Kaohsiung International Airport, is located here.",
+    "\"Love Around\" was filmed entirely on location in Taiwan. Asia FM 92.7, the radio station depicted in the drama is an actual free to air radio station in Taiwan with its headquarters and broadcasting station in Taoyuan City, Taoyuan County. The building and set used in the drama to depict the radio station is actually an office building located at 257 Xinhu 2nd Rd., Neihu District, Taipei City, which is only a few blocks from Sanlih's broadcasting headquarters in the Neihu District of Taipei. The resort that Zhou Zhen owns is the former \"Leo Ocean Resort\" now called \"EHR Hotels & Resorts Yilan\", located in Yilan County. The homes of both main lead characters are located in the newly developed area of Danshui District New Taipei City.",
+    "Oklahoma City Community College in south Oklahoma City is the second-largest community college in the state. Rose State College is located east of Oklahoma City in suburban Midwest City. Oklahoma State University–Oklahoma City is located in the \"Furniture District\" on the Westside. Northeast of the city is Langston University, the state's historically black college (HBCU). Langston also has an urban campus in the eastside section of the city. Southern Nazarene University, which was founded by the Church of the Nazarene, is a university located in suburban Bethany, which is surrounded by the Oklahoma City city limits.",
+    "Glenfield is a suburb of Sydney, in the state of New South Wales, Australia. Glenfield is located 36 kilometres south-west of the Sydney central business district, in the local government areas of the City of Campbelltown and is part of the Outer Rim Territories.",
+    "Forlanini is a district (\"quartiere\") of Milan, Italy. It is part of the Zone 4 administrative division, located east of the city centre.",
+    "The Branford Price Millar Library is the library of Portland State University (PSU) in Portland, Oregon, United States. Built in 1968, the academic library was doubled in size in 1991 and houses over 1 million volumes. The five-story building is located on the school's campus on the South Park Blocks in Downtown Portland and is the largest academic library in the Portland area.",
+    "The Tucson metro area is served by many local television stations and is the 68th largest designated market area (DMA) in the U.S. with 433,310 homes (0.39% of the total U.S.). It is limited to the three counties of southeastern Arizona (Pima, Santa Cruz, and Cochise) The major television networks serving Tucson are: KVOA 4 (NBC), KGUN 9 (ABC), KMSB-TV 11 (Fox), KOLD-TV 13 (CBS), KTTU 18 (My Network TV) and KWBA 58 (The CW). KUAT-TV 6 is a PBS affiliate run by the University of Arizona (as is sister station KUAS 27).",
+    "Tucson is located 118 mi (190 km) southeast of Phoenix and 60 mi (97 km) north of the United States - Mexico border. The 2010 United States Census puts the city's population at 520,116 with a metropolitan area population at 980,263. In 2009, Tucson ranked as the 32nd largest city and 52nd largest metropolitan area in the United States. A major city in the Arizona Sun Corridor, Tucson is the largest city in southern Arizona, the second largest in the state after Phoenix. It is also the largest city in the area of the Gadsden Purchase. As of 2015, The Greater Tucson Metro area has exceeded a population of 1 million.",
+    "Kera is a station on the VR commuter rail network located in Karamalmi, a district of the city of Espoo in Finland. It is situated between stations Kilo railway station and Kauniainen railway station. It is located about to the northwest/west of Helsinki Central railway station.",
+    "The Yuma County Library District serves the population of Yuma County, Arizona. Today the library district consists of the nearly 80,000 square foot Main Library located in Yuma as well as branches in downtown Yuma, the Foothills, Somerton, San Luis, Wellton, Dateland, and Roll. The first Yuma Library, a Carnegie library, opened February 24, 1921 with 1,053 volumes and seating for 20 persons. Located in Sunset Park, the Yuma Carnegie Library underwent several expansions and renovations over the years, including a $4.2 million renovation completed in 2009. The Yuma Carnegie library still operates today as the Heritage Branch Library in downtown Yuma.",
+    "Bülach District (\"Bezirk Bülach\") is one of 12 districts of the Canton of Zürich in Switzerland, with some 117,000 inhabitants the third largest in the canton. Its administrative capital is Bülach, the largest municipality is Kloten, the location of Zurich Airport. It includes the Rafzerfeld north of the Rhine, with Rafz, Wil, Hüntwangen and Wasterkingen."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nYuma County Library District is located in Yuma County, Arizona.\nArizona is the state where Yuma County is located.\nThe second largest city in Arizona is Tucson.\nTucson is served by KUAT-TV 6, a PBS affiliate.\nKUAT-TV 6 is run by the University of Arizona.\nThe PBS station in the second largest city in Arizona is KUAT-TV 6.\n<answer> KUAT-TV 6",
+  "predicted_answer": "KUAT-TV 6",
+  "claims": [
+    "Yuma County Library District is located in Yuma County, Arizona",
+    "Arizona is the state where Yuma County is located",
+    "The second largest city in Arizona is Tucson",
+    "Tucson is served by KUAT-TV 6, a PBS affiliate",
+    "KUAT-TV 6 is run by the University of Arizona",
+    "The PBS station in the second largest city in Arizona is KUAT-TV 6"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Yuma County Library District is located in Yuma County, Arizona",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Arizona is the state where Yuma County is located",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The second largest city in Arizona is Tucson",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Tucson is served by KUAT-TV 6, a PBS affiliate",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "KUAT-TV 6 is run by the University of Arizona",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The PBS station in the second largest city in Arizona is KUAT-TV 6",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

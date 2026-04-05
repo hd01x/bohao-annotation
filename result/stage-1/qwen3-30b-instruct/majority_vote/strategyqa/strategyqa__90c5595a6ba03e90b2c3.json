@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__90c5595a6ba03e90b2c3",
+  "sample_id": "90c5595a6ba03e90b2c3",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Mozart ever buy anything from Dolce & Gabbana?",
+  "gold_answer": "no",
+  "context": [
+    "Dolce & Gabbana was founded in 1985.",
+    "Wolfgang Amadeus Mozart died in 1791."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDolce & Gabbana was founded in 1985.\nWolfgang Amadeus Mozart died in 1791.\n1791 is earlier than 1985.\nMozart could not have purchased anything from Dolce & Gabbana because the brand did not exist during his lifetime.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Dolce & Gabbana was founded in 1985",
+    "Wolfgang Amadeus Mozart died in 1791",
+    "1791 is earlier than 1985",
+    "Mozart could not have purchased anything from Dolce & Gabbana because the brand did not exist during his lifetime"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Dolce & Gabbana was founded in 1985",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Wolfgang Amadeus Mozart died in 1791",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "1791 is earlier than 1985",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Mozart could not have purchased anything from Dolce & Gabbana because the brand did not exist during his lifetime",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

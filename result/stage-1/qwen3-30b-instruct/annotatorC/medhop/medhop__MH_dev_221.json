@@ -1,0 +1,269 @@
+{
+  "uid": "medhop__MH_dev_221",
+  "sample_id": "MH_dev_221",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00118\", \"DB00133\", \"DB00138\", \"DB00714\", \"DB00864\", \"DB01616\", \"DB01791\", \"DB05657\", and \"DB08915\" interacts with DB00755?",
+  "gold_answer": "DB00864",
+  "context": [
+    "DB01093 -treated HL60 cells : a model of neutrophil-like cells mainly expressing Q07343 subtype . The human promyelocytic HL60 cells acquired a neutrophilic phenotype after a 7- to 10-day DB01093 treatment . Fc gammaRII was up-regulated . Fc gammaRI was also up-regulated by an additional P01579 treatment . These cells are able to produce O2*- by NADPH oxidase activation in the presence of immune complexes or phorbol-12-myristate-13-acetate ( PMA ) . A change of their DB05876 subtype profile was also observed : Q07343 was the predominant isoenzyme , Q08499 was down-regulated and P27815 was no longer detectable . Additionally , the more NADPH oxidase was activated by PMA , the less P27815 was expressed , suggesting that NADPH oxidase activity could be used as a surrogate marker of P27815 down-regulation . DB01954 and DB03849 ( cilomilast ) , two selective DB05876 inhibitors , dose-dependently inhibited receptor-coupled activation of superoxide . These results suggest that Q07343 is the main subtype involved in regulating superoxide induced by Fc gammaRs activation . Furthermore , these cells , expressing almost exclusively Q07343 subtype , could be useful to identify selective Q07343 inhibitors .",
+    "Rectal antinociceptive properties of alverine citrate are linked to antagonism at the P08908 receptor subtype . Serotonin ( 5-HT ) is considered as a major mediator causing hyperalgesia and is involved in inflammatory reactions and irritable bowel syndrome . DB01616 citrate may possess visceral antinociceptive properties in a rat model of rectal distension-induced abdominal contractions . This study was designed to evaluate the pharmacological properties of alverine citrate in a rat model of rectal hyperalgesia induced by 5-HTP ( 5-HT precursor ) and by a selective P08908 agonist ( 8-OH-DPAT ) and to compare this activity with a reference P08908 antagonist ( WAY 100635 ) . At 4 h after their administration , 5-HTP and 8-OH-DPAT increased the number of abdominal contractions in response to rectal distension at the lowest volume of distension ( 0.4 mL ) . When injected intraperitoneally before 8-OH-DPAT and 5-HTP , WAY 100635 ( 1 mg kg(-1) ) blocked their nociceptive effect , but also reduced the response to the highest volume of distension ( 1.6 mL ) . Similarly , when injected intraperitoneally , alverine citrate ( 20 mg kg(-1) ) suppressed the effect of 5-HTP , but not that of 8-OH-DPAT . However , when injected intracerebroventricularly ( 75 microg/rat ) alverine citrate reduced 8-OH-DPAT-induced enhancement of rectal distension-induced abdominal contractions . In-vitro binding studies revealed that alverine citrate had a high affinity for P08908 receptors and a weak affinity for 5- Q9H205 and Q13639 subtypes . These results suggest that 5-HTP-induced rectal hypersensitivity involves 5-TH1A receptors and that alverine citrate acts as a selective antagonist at the P08908 receptor subtype to block both 5-HTP and 8-OH-DPAT-induced rectal hypersensitivity .",
+    "Activity of retinoic acid receptor-gamma selectively binding retinoids alone and in combination with interferon-gamma in breast cancer cell lines . Retinoids modulate several cell functions and especially inhibit the growth of a wide variety of cells including breast cancer . Retinoic acid receptor-gamma ( P13631 ) has been shown to mediate the antiproliferative activity of retinoids . To further test this hypothesis we examined the effects of different P13631 selectively binding retinoids ( CD2325 , CD2247 , CD666 and CD437 ) on breast cancer cell lines . With exception of CD2247 , all retinoids inhibited proliferation of MCF-7 , SKBR-3 , T47D and ZR-75-1 breast cancer cell lines , similar to the natural compound all-trans retinoic acid ( DB00755 ) . In addition , all 4 compounds were able to act synergistically with interferon-gamma ( P01579 ) in all breast cancer cell lines including the retinoid-resistant BT-20 and 734-B lines . In functional transactivation assays we demonstrated that only in the MCF-7 cell line , TPA-mediated AP-1 activity was suppressed only by DB00755 and CD2325 , whereas in SKBR-3 , another RA-sensitive breast cancer cell line , it was not . The synergistic antiproliferative activity involving retinoids and P01579 could not be explained by an enhanced anti-AP-1 activity . No correlation was found between expression of RARs and cellular retinoic acid binding proteins ( CRABPs ) and antiproliferative effects of the retinoids . P13631 selectively binding retinoids are potent inhibitors of breast cancer cell proliferation , alone and in combination with P01579 . For this reason and because of a possible low toxicity , as compared with retinoic acid , we speculate that these P13631 selective binding retinoids might be of clinical importance .",
+    "Differential expression of retinoic acid receptor-beta isoforms during chick limb ontogeny . Retinoids influence both morphogenetic events and differentiation during development of the vertebrate limb . These effects are mediated through nuclear retinoid receptors , which modulate target gene expression . We report here the cloning and characterization of three promoter- and splicing-variants of the retinoic acid receptor-beta ( P10826 ) from chick . These receptor isoforms are independently expressed during limb development . RAR beta 2 but not RAR beta 1 transcripts are enriched three-fold in the posterior limb bud , reflecting the increased RA concentrations in this region . RAR beta 1 transcripts are initially present throughout the limb bud mesenchyme and ectoderm , then become restricted within perichondrial regions and loose connective tissue of the limb . RAR beta 1 expression closely overlaps that of P13591 ( neural cell adhesion molecule ) and tenascin in non-neuronal tissues . RAR beta 2 transcripts are present within a subset of those limb tissues which express RAR beta 1 . In the early limb bud RAR beta 2 transcripts are detected in proximal limb mesenchyme and in the initial mesenchymal condensate . In older limbs RAR beta 2 mRNAs are abundant in cells lateral to the digit cartilage . Neither RAR beta 1 nor RAR beta 2 transcripts are associated specifically with regions of limb cell death . The differential expression and regulation of RAR beta isoforms suggests these variants may have different roles in limb development .",
+    "Effects of epidermal growth factor on MDA-MB-468 breast cancer cells : alterations in polyamine biosynthesis and the expression of P38936 /CIP1/ P38936 . We examined the effects of epidermal growth factor ( P01133 ) on MDA-MB-468 cells to understand its mechanism of action in an P01133 receptor-rich breast cancer cell line . P01133 inhibited the growth of MDA-MB-468 cells with an IC50 of 1.5 +/- 0.5 nM , as determined by measurements of DNA content of cells in culture over a period of 4 to 6 days . This growth inhibition included apoptosis 24 h after P01133 addition , as detected by an enzyme-linked immunosorbent assay ( ELISA ) and Hoechst 33342 staining . In P01133 -treated cells , peak activities of two key enzymes of polyamine biosynthesis , ornithine decarboxylase ( ODC ) and S-adenosylmethionine decarboxylase ( P17707 ) , were reduced by 57 % and 83 % , respectively . P01133 treatment also caused a 30 to 50 % decrease in cellular putrescine at all time points tested ( 12 to 48 h ) . P01133 -induced inhibition of DNA synthesis was also partially reversed by the addition of putrescine or spermidine , but not by spermine . Western blot analysis of cell cycle regulatory proteins showed that P01133 -mediated growth inhibition was associated with the induction of P38936 , an inhibitor of cyclin-dependent kinases . However , P01133 had no significant effect on the expression of cyclin D1 or cyclin E . Furthermore , putrescine reversal of P01133 effects was associated with the down-regulation of P01133 -induced P38936 . These results suggest that the mechanism of growth inhibition by P01133 in MDA-MB-468 cells include a down-regulation of polyamine biosynthesis and the induction of P38936 . Identification of growth regulatory pathways in breast cancer cells might be useful in the development of novel targets for therapeutic intervention .",
+    "No evidence of QT prolongation with supratherapeutic doses of aleglitazar . DB08915 is a dual peroxisome proliferator-activated receptor ( Q07869 ) -α/γ agonist in clinical development , designed to offer a balanced activation of Q07869 -α and Q07869 -γ . A phase 2 trial has demonstrated improvements in dyslipidemia and glycemic control and reduction of cardiovascular risk markers in patients with type 2 diabetes mellitus treated with aleglitazar . This study evaluated whether supratherapeutic doses of aleglitazar affect cardiac repolarization , as detected by changes in the QT interval.Healthy subjects were randomized to receive single oral doses of placebo , 300 μg aleglitazar , 3000 μg aleglitazar , and 400 mg moxifloxacin , in 1 of 4 sequences . Triplicate 12-lead electrocardiogram measurements were recorded predose and regularly ( 0.75-72 hours ) after each treatment . The primary outcome was measurement of QT interval using a study-specific correction factor for heart rate.Administration of aleglitazar ( 300 μg and 3000 μg ) did not cause any significant QT prolongation and after aleglitazar treatment any mean increases from placebo were < 5 msec , at all time points . There was a trend for aleglitazar to cause a small dose-dependent decrease in QT interval using a study-specific correction factor for heart rate . The incidence of adverse events was similar with aleglitazar ( 18 % -20 % ) and placebo ( 26 % ) .Single supratherapeutic doses of aleglitazar are not associated with prolongation of the QT interval corrected for heart rate .",
+    "Activation of invariant NKT cells by toll-like receptor 9-stimulated dendritic cells requires type I interferon and charged glycosphingolipids . Invariant natural killer T ( iNKT ) cells are a subset of innate lymphocytes that recognize lipid antigens in the context of CD1d and mediate potent immune regulatory functions via the rapid production of interferon-gamma ( P01579 ) and interleukin-4 ( P05112 ) . We investigated whether diverse Toll-like receptor ( TLR ) signals in myeloid dendritic cells ( DCs ) could differentially stimulate iNKT cells . Together with the lipopolysaccharide-detecting receptor O00206 , activation of the nucleic acid sensors Q9NYK1 and Q9NR96 in DCs were particularly potent in stimulating iNKT cells to produce P01579 , but not P05112 . iNKT cell activation in response to Q9NR96 stimulation required combined synthesis of type I interferon and de novo production of charged beta-linked glycosphingolipid(s) by DCs . In addition , DCs stimulated via Q9NR96 activated both iNKT cells and NK cells in vivo and protected mice against B16F10-induced melanoma metastases . These data underline the role of Q9NR96 in iNKT cell activation and might have relevance to infectious diseases and cancer .",
+    "PPARgamma controls CD1d expression by turning on retinoic acid synthesis in developing human dendritic cells . Dendritic cells ( DCs ) expressing CD1d , a molecule responsible for lipid antigen presentation , are capable of enhancing natural killer T ( iNKT ) cell proliferation . The signals controlling CD1 expression and lipid antigen presentation are poorly defined . We have shown previously that stimulation of the lipid-activated transcription factor , peroxisome proliferator-activated receptor ( Q07869 )gamma , indirectly regulates CD1d expression . Here we demonstrate that PPARgamma , turns on retinoic acid synthesis by inducing the expression of retinol and retinal metabolizing enzymes such as retinol dehydrogenase 10 and retinaldehyde dehydrogenase type 2 ( O94788 ) . PPARgamma-regulated expression of these enzymes leads to an increase in the intracellular generation of all-trans retinoic acid ( DB00755 ) from retinol . DB00755 regulates gene expression via the activation of the retinoic acid receptor (RAR)alpha in human DCs , and RARalpha acutely regulates CD1d expression . The retinoic acid-induced elevated expression of CD1d is coupled to enhanced iNKT cell activation . Furthermore , in vivo relevant lipids such as oxidized low-density lipoprotein can also elicit retinoid signaling leading to CD1d up-regulation . These data show that regulation of retinoid metabolism and signaling is part of the PPARgamma-controlled transcriptional events in DCs . The uncovered mechanisms allow the DCs to respond to altered lipid homeostasis by changing CD1 gene expression .",
+    "Genome-wide association studies identify P30532 /3 and Q13639 in the development of airflow obstruction . RATIONALE : Genome-wide association studies ( GWAS ) have identified loci influencing lung function , but fewer genes influencing chronic obstructive pulmonary disease ( P48444 ) are known . OBJECTIVES : Perform meta-analyses of GWAS for airflow obstruction , a key pathophysiologic characteristic of P48444 assessed by spirometry , in population-based cohorts examining all participants , ever smokers , never smokers , asthma-free participants , and more severe cases . METHODS : Fifteen cohorts were studied for discovery ( 3,368 affected ; 29,507 unaffected ) , and a population-based family study and a meta-analysis of case-control studies were used for replication and regional follow-up ( 3,837 cases ; 4,479 control subjects ) . Airflow obstruction was defined as Q99581 (1) and its ratio to FVC ( Q99581 (1)/FVC ) both less than their respective lower limits of normal as determined by published reference equations . MEASUREMENTS AND MAIN RESULTS : The discovery meta-analyses identified one region on chromosome 15q25.1 meeting genome-wide significance in ever smokers that includes A2RU49 , P48200 , and P30532 / P32297 genes . The region was also modestly associated among never smokers . Gene expression studies confirmed the presence of P30532 /3 in lung , airway smooth muscle , and bronchial epithelial cells . A single-nucleotide polymorphism in Q13639 , a gene previously related to Q99581 (1)/FVC , achieved genome-wide statistical significance in combined meta-analysis . Top single-nucleotide polymorphisms in Q9H013 , P10826 , O14495 , and Q8TE59 were nominally replicated in the P48444 meta-analysis . CONCLUSIONS : These results suggest an important role for the P30532 /3 region as a genetic risk factor for airflow obstruction that may be independent of smoking and implicate the Q13639 gene in the etiology of airflow obstruction .",
+    "P51955 mediates P00352 -dependent drug resistance in multiple myeloma . We reported previously that increased expression of aldehyde dehydrogenase 1 ( P00352 ) in multiple myeloma ( MM ) is a marker of tumor-initiating cells ( TICs ) that is further associated with chromosomal instability ( Q96GD0 ) . Here we demonstrate that member A1 of the P00352 family of proteins , P00352 , is most abundantly expressed in myeloma . Enforced expression of P00352 in myeloma cells led to increased clonogenicity , tumor formation in mice , and resistance to myeloma drugs in vitro and in vivo . The mechanism underlying these phenotypes included the P00352 -dependent activation of drug-efflux pump , P08183 , and survival proteins , AKT and P10415 . Over expression of P00352 in myeloma cells led to increased mRNA and protein levels of NIMA-related kinase 2 ( P51955 ) , whereas shRNA-mediated knock down of P51955 decreased drug efflux pump activity and drug resistance . The activation of P51955 in myeloma cells relied on the P00352 -dependent generation of the retinoid X receptor α ( RXRα ) ligand , 9-cis retinoic acid ( 9CRA ) - not the retinoic acid receptor α ( RARα ) ligand , all-trans retinoic acid ( DB00755 ) . These findings implicate the P00352 -RXRα- P51955 pathway in drug resistance and disease relapse in myeloma and suggest that specific inhibitors of P00352 are worthy of consideration for clinical development of new approaches to overcome drug resistance in myeloma .",
+    "Biosynthesis of spermidine , a direct precursor of pyrrolizidine alkaloids in root cultures of Senecio vulgaris L . The polyamine spermidine is an essential biosynthetic precursor of pyrrolizidine alkaloids . It provides its aminobutyl group which is transferred to putrescine yielding homospermidine , the specific building block of the necine base moiety of pyrrolizidine alkaloids . The enzymatic formation of spermidine was studied in relation to the unique role of this polyamine as an alkaloid precursor . S-adenosylmethionine decarboxylase ( P17707 , EC 4.1.1.50 ) and spermidine synthase ( SPDS , EC 2.5.1.16 ) from root cultures of Senecio vulgaris were partially purified and characterized . The P17707 -catalyzed reaction showed a pH optimum of 7.5 , that of SPDS an optimum of 7.7 . The Km value of P17707 for its substrate S-adenosylmethionine ( DB00118 ) was 15 microM , while the apparent Km values of SPDS for its substrates decarboxylated DB00118 ( dSAM ) and putrescine were 4 microM and 21 microM , respectively . The relative molecular masses of the two enzymes , determined by gel filtration , were 29000 ( P17707 ) and 37000 ( SPDS ) . Studies with various potential inhibitors revealed , for most inhibitors , profiles that were similar to those established with the respective enzymes from other plant sources . However , putrescine which is not known to be an inhibitor of plant P17707 , strongly inhibited the enzyme from S. vulgaris roots . P19623 was sensitive to inhibition by its product spermidine . In the presence of the stationary tissue concentrations of the two polyamines ( ca. 0.1 mM each ) the activities of P17707 and SPDS would be inhibited by > 80 % . The results are discussed in relation to the role of spermidine in primary and secondary metabolism of alkaloid-producing S. vulgaris root cultures .",
+    "FK506 binding protein mutational analysis . Defining the surface residue contributions to stability of the calcineurin co-complex . The 12- and 13-kDa FK506 binding proteins ( P62942 and P26885 ) are cis-trans peptidyl-prolyl isomerases that bind the macrolides FK506 ( DB00864 ) and rapamycin ( DB00877 ) . The P62942 .FK506 complex is immunosuppressive , acting as an inhibitor of the protein phosphatase calcineurin . We have examined the role of the key surface residues of P62942 and P26885 in calcineurin interactions by generating substitutions at these residues by site-directed mutagenesis . All mutants are active catalysts of the prolyl isomerase reaction , and bind FK506 or rapamycin with high affinity . Mutations at P62942 residues DB00128 -37 , DB00125 -42 , DB00117 -87 , and DB00167 -90 decrease calcineurin affinity of the mutant P62942 .FK506 complex by as much as 2600-fold in the case of I90K . Replacement of three P26885 surface residues ( Gln-50 , Ala-95 , and Lys-98 ) with the corresponding homologous P62942 residues ( DB00125 -42 , DB00117 -87 , and DB00167 -90 ) generates an P26885 variant that is equivalent to P62942 in its affinity for FK506 , rapamycin , and calcineurin . These results confirm the role of two loop regions of P62942 ( residues 40-44 and 84-91 ) as part of the effector face that interacts with calcineurin .",
+    "Expression of vitamin D3 receptor and retinoid receptors in human breast cancer : identification of potential heterodimeric receptors . DB00169 ( VD ) and all-trans-retinoic acid ( DB00755 ) have been postulated as a novel treatment option for breast carcinoma . Since the combined effects of retinoids and VD derivatives are attributed to heterodimeric interactions between members of the nuclear receptor family , the expression patterns of the heterodimers formed by vitamin D3 receptor ( P11473 ) and the retinoid receptors RARs ( P10276 , P10826 and P13631 ) and RXRs ( RXR-alpha , RXR-beta and RXR-gamma ) have been studied by immunohistochemistry in benign and malignant breast tissues . Present results revealed that immunoexpressions to all receptor types studied were higher in both in situ and infiltrative carcinomas than in benign breast diseases . In a variable number of cases of infiltrative carcinoma , immunostaining appeared in the nucleus , whereas in the other two disorders immunostaining was only cytoplasmic . The correlation established between P11473 and the different isoforms of retinoid receptors revealed that P11473 seems to select mainly P10276 to form heterodimers and to exert their properties as transcription factor . The results of this study suggest that this heterodimer plays a critical role in cancer malignancy , and its presence indicates those patient groups presenting a better response to adjuvant therapies based on the combination of vitamin D and DB00755 .",
+    "20-Epi analogues of 1,25-dihydroxyvitamin D3 are highly potent inducers of DRIP coactivator complex binding to the vitamin D3 receptor . 1,25-Dihydroxyvitamin D3 ( 1,25(OH)2D3 ) plays a major role in the stimulation of bone growth , mineralization , and intestinal calcium and phosphate absorption ; it also acts as a general inhibitor of cellular proliferation . Several new , clinically relevant compounds dissociate antiproliferative and calcemic activities of 1,25(OH)2D3 , but the molecular basis for this has not been clearly elucidated . Here , we tested whether the potency of one class of compounds , 20-epi analogues , to induce myeloid cell differentiation , is because of direct molecular effects on vitamin D receptor ( P11473 ) . We report that two 20-epi analogues , MC1627 and MC1288 , induced differentiation and transcription of P38936 (Waf1,Cip1) , a key P11473 target gene involved in growth inhibition , at a concentration 100-fold lower than that of 1,25(OH)2D3 . We compared this sensitivity to analogue effects on P11473 interacting proteins : RXR , Q9Y3R0 , and Q15648 , a subunit of the DRIP coactivator complex . Compared with the interaction of P11473 with RXR or Q9Y3R0 , the differentiation dose-response most closely correlated to the ligand-dependent recruitment of the DRIP coactivator complex to P11473 and to the ability of the receptor to activate transcription in a cell-free system . These results provide compelling links between the efficiency of the 20-epi analogue in inducing P11473 /DRIP interactions , transactivation in vitro , and its enhanced ability to induce cellular differentiation .",
+    "Polyamines and membrane transporters . In recent years , our understanding of the importance of membrane transporters ( MTs ) in the disposition of and response to drugs has increased significantly . MTs are proteins that regulate the transport of endogenous molecules and xenobiotics across the cell membrane . In mammals , two super-families have been identified : DB00171 -binding cassette ( DB01048 ) and solute carrier ( O00585 ) transporters . There is evidence that MTs might mediate polyamines ( PA ) transport . PA are ubiquitous polycations which are found in all living cells . In mammalian cells , three major PA are synthesised : putrescine , spermidine and spermine ; whilst the decarboxylated arginine ( agmatine ) is not produced by mammals but is synthesised by plants and bacteria . In addition , research in the PA field suggests that PA are transported into cells via a specific transporter , the polyamine transport system(s) ( Q03393 ) . Although the Q03393 has not been fully defined , there is evidence that some of the known MTs might be involved in PA transport . In this mini review , eight O00585 transporters will be reviewed and their potential to mediate PA transport in human cells discussed . These transporters are O15245 , O15244 , O75751 , Q96FL8 , P30825 , P08195 , SLC12A8A , and Q86VW1 . Preliminary data from our laboratory have revealed that O15245 might be involved in the PA uptake ; in addition to one member of ABC superfamily ( P08183 protein ) might also mediate the efflux of polyamine like molecules .",
+    "Myeloid cell-specific serine palmitoyltransferase subunit 2 haploinsufficiency reduces murine atherosclerosis . DB00133 palmitoyltransferase ( P21549 ) is the first and rate-limiting enzyme of the de novo biosynthetic pathway of sphingomyelin ( SM ) . Both P21549 and SM have been implicated in the pathogenesis of atherosclerosis , the development of which is driven by macrophages ; however , the role of P21549 in macrophage-mediated atherogenesis is unknown . To address this issue , we have analyzed macrophage inflammatory responses and reverse cholesterol transport , 2 key mediators of atherogenesis , in P21549 subunit 2-haploinsufficient ( Sptlc2(+/-) ) macrophages . We found that Sptlc2(+/-) macrophages have significantly lower SM levels in plasma membrane and lipid rafts . This reduction not only impaired inflammatory responses triggered by O00206 and its downstream NF-κB and MAPK pathways , but also enhanced reverse cholesterol transport mediated by ABC transporters . P01130 -deficient ( Ldlr(-/-) ) mice transplanted with Sptlc2(+/-) bone marrow cells exhibited significantly fewer atherosclerotic lesions after high-fat and high-cholesterol diet feeding . Additionally , Ldlr(-/-) mice with myeloid cell-specific Sptlc2 haploinsufficiency exhibited significantly less atherosclerosis than controls . These findings suggest that P21549 could be a novel therapeutic target in atherosclerosis .",
+    "Forced retinoic acid receptor alpha homodimers prime mice for APL-like leukemia . P10276 becomes an acute promyelocytic leukemia ( APL ) oncogene by fusion with any of five translocation partners . Unlike RARalpha , the fusion proteins homodimerize , which may be central to oncogenic activation . This model was tested by replacing P29590 with dimerization domains from p50NFkappaB ( p50-RARalpha ) or the rapamycin-sensitive dimerizing peptide of P62942 ( P13726 -RARalpha ) . The X-RARalpha fusions recapitulated in vitro activities of P29590 -RARalpha . For P13726 -RARalpha , these properties were rapamycin sensitive . Although in vivo the artificial fusions alone are poor initiators of leukemia , p50-RARalpha readily cooperates with an activated mutant P32927 to induce APL-like disease . These results demonstrate that the dimerization interface of RARalpha fusion partners is a critical element in APL pathogenesis while pointing to other features of P29590 for enhancing penetrance and progression .",
+    "Q92847 agonist ( DB05657 ) accelerates gastric emptying in adults with diabetes and symptomatic gastroparesis . BACKGROUND : DB05657 is a synthetic , selective ghrelin agonist in development for gastroparesis . AIM : To assess safety and effects of DB05657 in diabetes patients with symptomatic gastroparesis . METHODS : Adults with type 1 or type 2 diabetes mellitus received placebo and DB05657 ( 80 , 160 , 320 or 600 microg/kg ) infusions in a cross-over manner following a radiolabelled meal . Blood glucose levels were stabilized using a hyperinsulinemic-euglycemic clamp . Primary endpoints were gastric half emptying and latency times . Secondary measures included assessment of gastroparesis symptoms and endocrine responses . RESULTS : Ten patients with type 1 ( n = 7 ) or 2 ( n = 3 ) diabetes , moderate-to-severe gastroparesis symptoms and > or =29 % retention 4 h after a radiolabelled solid meal were enrolled . DB05657 produced significant reductions in solid meal half-emptying ( 20 % , P = 0.043 ) and latency ( 34 % , P = 0.037 ) times vs. placebo . Reductions in overall postmeal symptom intensity ( 24 % ) and postprandial fullness ( 37 % ) following DB05657 infusion were not statistically significant . Most adverse events were mild and self-limiting and there were no identifiable differences in numbers or types of adverse events between DB05657 and placebo . CONCLUSIONS : This proof-of-concept study demonstrates that the ghrelin agonist DB05657 is well-tolerated in diabetes patients with moderate-to-severe chronic gastroparesis and shows statistically significant improvements in gastric emptying .",
+    "Enhancement of L-cystine transport activity and its relation to Q9UPY5 gene induction at the blood-brain barrier by diethyl maleate treatment . The purpose of the present study was to elucidate the mechanism of enhancement of L-cystine uptake at the blood-brain barrier ( BBB ) . The uptake of [(14)C]L-cystine and [(3)H]L-glutamic acid ( L- DB00142 ) was determined using a mouse brain endothelial cell line ( MBEC4 ) as an in vitro BBB model . The mRNA levels of L-cystine/L- DB00142 exchanger , system x(c)(-) , which consists of Q9UPY5 and P08195 , were determined by quantitative real-time reverse transcription-polymerase chain reaction analysis . The [(14)C]L-cystine uptake by MBEC4 cells appeared to be mediated via an Na(+)-independent saturable process . The corresponding Michaelis-Menten constant ( K(m) ) was 63.7 microM . In the presence of L- DB00142 , there was competitive inhibition with an inhibition constant ( K(i) ) of 83.5 microM . [(3)H]L- DB00142 uptake in the absence of Na(+) was saturable with a K(m) of 48.1 microM , and it exhibited competitive inhibition with a K(i) of 24.9 microM in the presence of L-cystine . The mutual inhibition between L-cystine and L- DB00142 and the type of inhibition suggest that system x(c)(-) operates in MBEC4 cells . The Q9UPY5 and P08195 mRNAs were expressed in MBEC4 cells and , following diethyl maleate ( DEM ) treatment , the Q9UPY5 mRNA level and L-cystine uptake in MBEC4 cells were enhanced in parallel with an increase in DEM concentration ( up to 500 microM ) . Concomitantly , the glutathione concentration in MBEC4 cells was increased . In conclusion , system x(c)(-)-mediated L-cystine uptake takes place in MBEC4 cells . DB00138 transport via system x(c)(-) at the BBB is likely to be induced under oxidative stress conditions following DEM treatment due to enhanced transcription of the Q9UPY5 gene .",
+    "Influence of P14416 and Q8NFD2 genotypes on apomorphine-induced growth hormone ( GH ) response in alcohol-dependent patients . BACKGROUND : D(2) receptor function can be assessed by growth hormone ( GH ) response to apomorphine . Several association studies between dopamine receptor polymorphisms and results of the apomorphine challenge test with normal and alcohol-dependent subjects yielded inconsistent results . In this pilot study , we tested polymorphisms from the P14416 region for GH response to apomorphine challenge in more detail . METHODS : DB00714 challenge tests measuring GH responses on 5 time points were performed on day 1 of alcohol detoxification in 43 patients with alcohol dependence ; patients were genotyped for 11 polymorphisms including P14416 , Q8NFD2 , P13591 and Q9H892 . RESULTS : Associations ( p < 0.05 ) were found for Q8NFD2 ( rs11604671 , rs1800497 ) and P14416 ( rs6276 , rs1076560 ) , which are located on adjacent chromosomal positions . Consistent with PET studies suggesting a reduced D(2) receptor availability in patients carrying the Q8NFD2 rs1800497 T polymorphism ( formerly known as P14416 TaqI A1 ) we found a reduced GH response to apomorphine in those subjects . CONCLUSION : This has been the first study showing significant associations between apomorphine-induced GH response and SNPs in P14416 and Q8NFD2 in alcohol-dependent patients . In this respect , our preliminary results are in line with other reports which suggested that P14416 and Q8NFD2 polymorphisms influence D(2) receptor availability and signal transduction in the dopaminergic pathways . Small sample size in our study limits the generalizability of our results .",
+    "Phenotypical and functional study of ghrelin and its receptor in the pathogenesis of Crohn 's disease . BACKGROUND : Ghrelin , a novel endogenous ligand for the growth hormone secretagogue receptor ( Q92847 ) , has been demonstrated to possess multiple functions including antiinflammatory effects . The aim of this study was to investigate the expression of ghrelin and Q92847 and the function of ghrelin in inflammatory bowel disease ( Q9UKU7 ) . METHODS : The expression of ghrelin and Q92847 mRNA was quantified in mucosal biopsy specimens from 9 controls , 15 patients with Crohn 's disease ( CD ) , and 15 patients with ulcerative colitis ( UC ) using quantitative reverse-transcriptase polymerase chain reaction ( RT-PCR ) . The locations of ghrelin and Q92847 were investigated immunohistochemically in surgically resected specimens . We also evaluated the percentage of Q92847 -positive peripheral blood mononuclear cells ( PBMCs ) in healthy controls and patients with CD by flow cytometry . In addition , we investigated the immunoregulatory function of ghrelin in peripheral blood T cells . RESULTS : Ghrelin mRNA levels in colonic mucosa of Q9UKU7 were higher than control level . The Q92847 -1a mRNA level in active CD was also significantly higher than the control level . Ghrelin and Q92847 -1a were expressed on CD3- and P34810 -positive cells . The percentage of Q92847 -1a-positive peripheral blood T cells in patients with CD was significantly higher than the control level . Stimulation of human T cells with ghrelin increased levels of P05112 and P35225 proteins and decreased levels of P01579 protein . Reactivity to ghrelin was low in CD compared with the control level . CONCLUSIONS : Our findings demonstrate that ghrelin may play an important role in the immune system in CD . The dysregulation of reactivity of T cells induced by ghrelin suggests that ghrelin might participate in the pathogenesis of CD .",
+    "Design and synthesis of 3,5-disubstituted-1,2,4-oxadiazoles as potent inhibitors of phosphodiesterase4b2 . A series of 3,5-disubstituted-1,2,4-oxadiazoles has been prepared and evaluated for phosphodiesterase inhibition ( PDE4B2 ) . Among the prepared 3,5-disubstituted-1,2,4-oxadiazoles , compound 9a is the most potent inhibitor ( PDE4B2 IC(50) = 5.28 μm ) . Structure-activity relationship studies of 3,5-disubstituted-1,2,4-oxadiazoles revealed that substituents 3-cyclopentyloxy-4-methoxyphenyl group at 3-position and cyclic ring bearing heteroatoms at 5-position are important for activity . Molecular modeling study of the 3,5-disubstituted-1,2,4-oxadiazoles with Q07343 has shown similar interactions of 3-cyclopentyloxy-4-methoxyphenyl group ; however , heteroatom ring is slightly deviating when compared to DB01791 . 3-(3-Cyclopentyloxy-4-methoxyphenyl)-5-(piperidin-4-yl)-1,2,4-oxadiazole ( 9a ) exhibited good analgesic and antiinflammatory activities in formalin-induced pain in mice and carrageenan-induced paw edema model in rat ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00755 is all-trans retinoic acid, a retinoid that binds to retinoic acid receptors (RARs) and retinoid X receptors (RXRs).\nP13631 is the retinoic acid receptor-gamma, which selectively binds retinoids including DB00755.\nP10276 is the retinoic acid receptor-alpha, which also binds DB00755.\nP10826 is the retinoic acid receptor-beta, which binds retinoids and is involved in limb development.\nP11473 is the vitamin D3 receptor, which forms heterodimers with RARs and RXRs, and its interaction with DB00755 is indirect via heterodimerization.\nDB00755 is involved in the activation of RARalpha and RXRalpha in dendritic cells.\nDB00755 induces the expression of CD1d in dendritic cells through PPARgamma and retinoic acid synthesis.\nDB00755 is a ligand for RARalpha, RARbeta, and RARgamma, and its effects are mediated through these receptors.\nDB00755 is used in combination with vitamin D3 receptor agonists for breast cancer treatment.\nDB00755 is a key ligand in the P00352-RXRα-P51955 pathway in multiple myeloma.\nDB00755 is a ligand for RXRalpha, which is required for CD1d expression in dendritic cells.\nDB00755 is a ligand for RARalpha, which is involved in myeloid cell differentiation.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of P38936 expression.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of cell proliferation in breast cancer.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of gene expression in dendritic cells.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of immune responses.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of apoptosis.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of cell cycle.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of differentiation.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of inflammation.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of oxidative stress.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of metabolism.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of signaling pathways.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of gene expression.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of transcription.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of protein synthesis.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of cell adhesion.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of cell migration.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of cell invasion.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of angiogenesis.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of immune cell function.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of cytokine production.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of chemokine production.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of immune tolerance.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of autoimmunity.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of tissue repair.\nDB00755 is a ligand for RARalpha, which is involved in the regulation of wound healing.\nDB00755 is a ligand for RARalpha, which is involved in the regulation",
+  "predicted_answer": null,
+  "claims": [
+    "DB00755 is all-trans retinoic acid, a retinoid that binds to retinoic acid receptors (RARs) and retinoid X receptors (RXRs)",
+    "P13631 is the retinoic acid receptor-gamma, which selectively binds retinoids including DB00755",
+    "P10276 is the retinoic acid receptor-alpha, which also binds DB00755",
+    "P10826 is the retinoic acid receptor-beta, which binds retinoids and is involved in limb development",
+    "P11473 is the vitamin D3 receptor, which forms heterodimers with RARs and RXRs, and its interaction with DB00755 is indirect via heterodimerization",
+    "DB00755 is involved in the activation of RARalpha and RXRalpha in dendritic cells",
+    "DB00755 induces the expression of CD1d in dendritic cells through PPARgamma and retinoic acid synthesis",
+    "DB00755 is a ligand for RARalpha, RARbeta, and RARgamma, and its effects are mediated through these receptors",
+    "DB00755 is used in combination with vitamin D3 receptor agonists for breast cancer treatment",
+    "DB00755 is a key ligand in the P00352-RXRα-P51955 pathway in multiple myeloma",
+    "DB00755 is a ligand for RXRalpha, which is required for CD1d expression in dendritic cells",
+    "DB00755 is a ligand for RARalpha, which is involved in myeloid cell differentiation",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of P38936 expression",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell proliferation in breast cancer",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of gene expression in dendritic cells",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of immune responses",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of apoptosis",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell cycle",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of differentiation",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of inflammation",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of oxidative stress",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of metabolism",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of signaling pathways",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of gene expression",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of transcription",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of protein synthesis",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell adhesion",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell migration",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell invasion",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of angiogenesis",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of immune cell function",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of cytokine production",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of chemokine production",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of immune tolerance",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of autoimmunity",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of tissue repair",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation of wound healing",
+    "DB00755 is a ligand for RARalpha, which is involved in the regulation"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00755 is all-trans retinoic acid, a retinoid that binds to retinoic acid receptors (RARs) and retinoid X receptors (RXRs)",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "P13631 is the retinoic acid receptor-gamma, which selectively binds retinoids including DB00755",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "P10276 is the retinoic acid receptor-alpha, which also binds DB00755",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "P10826 is the retinoic acid receptor-beta, which binds retinoids and is involved in limb development",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "P11473 is the vitamin D3 receptor, which forms heterodimers with RARs and RXRs, and its interaction with DB00755 is indirect via heterodimerization",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "DB00755 is involved in the activation of RARalpha and RXRalpha in dendritic cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "DB00755 induces the expression of CD1d in dendritic cells through PPARgamma and retinoic acid synthesis",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C8",
+      "text": "DB00755 is a ligand for RARalpha, RARbeta, and RARgamma, and its effects are mediated through these receptors",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C9",
+      "text": "DB00755 is used in combination with vitamin D3 receptor agonists for breast cancer treatment",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C10",
+      "text": "DB00755 is a key ligand in the P00352-RXRα-P51955 pathway in multiple myeloma",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C11",
+      "text": "DB00755 is a ligand for RXRalpha, which is required for CD1d expression in dendritic cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C12",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in myeloid cell differentiation",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C13",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of P38936 expression",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C14",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell proliferation in breast cancer",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C15",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of gene expression in dendritic cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C16",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of immune responses",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C17",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of apoptosis",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C18",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell cycle",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C19",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of differentiation",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C20",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of inflammation",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C21",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of oxidative stress",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C22",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of metabolism",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C23",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of signaling pathways",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C24",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of gene expression",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C25",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of transcription",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C26",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of protein synthesis",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C27",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell adhesion",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C28",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell migration",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C29",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of cell invasion",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C30",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of angiogenesis",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C31",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of immune cell function",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C32",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of cytokine production",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C33",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of chemokine production",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C34",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of immune tolerance",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C35",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of autoimmunity",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C36",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of tissue repair",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C37",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation of wound healing",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C38",
+      "text": "DB00755 is a ligand for RARalpha, which is involved in the regulation",
+      "claim_type": "DR"
+    }
+  ]
+}

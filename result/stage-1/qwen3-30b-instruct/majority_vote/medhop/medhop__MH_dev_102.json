@@ -1,0 +1,326 @@
+{
+  "uid": "medhop__MH_dev_102",
+  "sample_id": "MH_dev_102",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00514\", \"DB01024\", \"DB01098\", \"DB01281\", \"DB02546\", \"DB03880\", \"DB06212\", \"DB06271\", and \"DB08910\" interacts with DB00328?",
+  "gold_answer": "DB06271",
+  "context": [
+    "The anti-tumor effect of HDAC inhibition in a human pancreas cancer model is significantly improved by the simultaneous inhibition of cyclooxygenase 2 . Pancreatic ductal adenocarcinoma is the fourth leading cause of cancer death worldwide , with no satisfactory treatment to date . In this study , we tested whether the combined inhibition of cyclooxygenase-2 ( P35354 ) and class I histone deacetylase ( HDAC ) may results in a better control of pancreatic ductal adenocarcinoma . The impact of the concomitant HDAC and P35354 inhibition on cell growth , apoptosis and cell cycle was assessed first in vitro on human pancreas BxPC-3 , PANC-1 or CFPAC-1 cells treated with chemical inhibitors ( DB02546 , MS-275 and celecoxib ) or Q13547 /2/3/7 siRNA . To test the potential antitumoral activity of this combination in vivo , we have developed and characterized , a refined chick chorioallantoic membrane tumor model that histologically and proteomically mimics human pancreatic ductal adenocarcinoma . The combination of Q13547 /3 and P35354 inhibition significantly impaired proliferation of BxPC-3 cells in vitro and stalled entirely the BxPC-3 cells tumor growth onto the chorioallantoic membrane in vivo . The combination was more effective than either drug used alone . Consistently , we showed that both Q13547 and O15379 inhibition induced the expression of P35354 via the NF-kB pathway . Our data demonstrate , for the first time in a Pancreatic Ductal Adenocarcinoma ( PDAC ) model , a significant action of HDAC and P35354 inhibitors on cancer cell growth , which sets the basis for the development of potentially effective new combinatory therapies for pancreatic ductal adenocarcinoma patients .",
+    "Nongenomic , glucocorticoid receptor-mediated regulation of serotonin transporter cell surface expression in embryonic stem cell derived serotonergic neurons . Depressive disorders have been linked to the combined dysregulation of the hypothalamus-pituitary-adrenal ( Q9Y251 ) -axis and the serotonergic system . The Q9Y251 -axis and serotonergic ( 5-HT ) neurons exert reciprocal regulatory actions . It has been reported that glucocorticoid-glucocorticoid receptor ( GR ) signaling influences serotonin transporter ( 5-HTT ) transcription but data also points to the fact that 5-HTT expression is regulated nongenomically via redistribution of 5-HTT from the cell surface into intracellular compartments . In order to analyze the acute effects of glucocorticoids on 5-HTT cell surface localization we differentiated serotonergic neurons from mouse embryonic stem ( ES ) cells derived from the C57BL/6N blastocysts . These postmitotic 5-HT neurons express all relevant serotonergic markers following the application of a growth factor-based differentiation protocol . Increasing concentrations of the GR agonist dexamethasone ( DB00514 ) resulted in enhanced , dose-dependent 5-HTT cell surface localization in the presence of the protein synthesis inhibitor cycloheximide already 1h after incubation . Inhibition of GR function by the specific GR-antagonist mifepristone abolished the increase in 5-HTT cell surface localization . Hence , our data account for a nongenomic upregulation of 5-HTT cell surface expression by glucocorticoid-GR interaction which likely constitutes a rapid physiological response to increased levels of glucocorticoids as seen during stress . Taken together , we provide a cellular model to analyze and dissect glucocorticoid- P31645 interactions on a molecular level that corresponds to in vivo animal models using C57BL/6N mice .",
+    "Evaluation of pharmacological profile of meloxicam as an anti-inflammatory agent , with particular reference to its relative selectivity for cyclooxygenase-2 over cyclooxygenase-1 . We studied the anti-inflammatory activity of meloxicam on rat carrageenin-induced pleurisy and its toxicity for rat gastric mucosa , relative to its in vitro inhibitory potency against partially purified cyclooxygenase ( P36551 ) -1 and P35354 preparations in order to clarify the pharmacological profile of the compound as an anti-inflammatory agent . In rat carrageenin-induced pleurisy , the plasma exudation rate peaked at 5 h , at which time P35354 was detectable in cells from the pleural exudate . Meloxicam and piroxicam ( 1 and 3 mg/kg ) and NS-398 ( 3 mg/kg ) showed almost equal anti-inflammatory potency against 5-hour pleurisy . A single oral administration of the compounds caused a dose-dependent increase in the number of rats with gastric mucosal erosion . The ED50 value for meloxicam ( 5.92 mg/kg ) was significantly higher than that for piroxicam ( 1.76 mg/kg ) , indicating that meloxicam is safer . DB00328 showed intermediate safety ( 2.59 mg/kg ) . In in vitro experiments , indometacin inhibited P23219 about 1.7 times more potently than P35354 . NS-398 inhibited P35354 with an IC50 of 0.32 microM , but never affected P23219 activity , even at 100 microM . In the same assay system , meloxicam inhibited P35354 about 12 times more selectively than P23219 . Piroxicam , however , inhibited both isoforms almost equally . These results indicate that meloxicam is a potent anti-inflammatory agent with low gastric toxicity . One reason for its in vivo pharmacological profile may be related to its relative selectivity for P35354 over P23219 . Thus , meloxicam may belong to a group of P35354 selective anti-inflammatory agents with a better safety profile than conventional P23219 and P35354 nonselective anti-inflammatory agents .",
+    "DB01281 inhibits effector T cells through regulatory T cells and TGF-β . The P10747 costimulatory receptor is a critical regulator of T cell function , making it an attractive therapeutic target for the treatment of immune-mediated diseases . DB01281 , now approved for use in humans , prevents naive T cell activation by binding to P33681 proteins and blocking engagement of P10747 . However , DB01281 suppresses inflammation even if administered when disease is established , suggesting alternative mechanisms . We identified a novel , P10747 -independent mechanism by which DB01281 inhibits activated T cells . We show that in vitro , DB01281 synergizes with NO from bone marrow-derived macrophages to inhibit T cell proliferation . Depletion of regulatory T cells ( Tregs ) or interference with TGF-β signaling abrogated the inhibitory effect of DB01281 . Parallel in vivo experiments using an allergic airway inflammation model demonstrated that this novel mechanism required both macrophages and regulatory T cells . Furthermore , DB01281 was ineffective in P84022 -deficient mice , supporting a requirement for TGF-β signaling . Thus , in addition to preventing naive T cells from being fully activated , DB01281 can turn off already activated effector T cells by an NO/regulatory T cell/TGF-β-dependent pathway . This mechanism is similar to cell-extrinsic effects of endogenous P16410 and may be particularly important in the ability of DB01281 to treat chronic inflammatory disease .",
+    "Peroxisome proliferator-activated receptor-gamma activation inhibits tumor metastasis by antagonizing P84022 -mediated epithelial-mesenchymal transition . Epithelial-mesenchymal transition ( EMT ) was shown to confer tumor cells with abilities essential for metastasis , including migratory phenotype , invasiveness , resistance to apoptosis , evading immune surveillance , and tumor stem cell traits . Therefore , inhibition of EMT can be an important therapeutic strategy to inhibit tumor metastasis . Here , we show that activation of peroxisome proliferator-activated receptor γ ( Q07869 -γ ) inhibits transforming growth factor β ( TGF-β ) -induced EMT in lung cancer cells and prevents metastasis by antagonizing P84022 function . Activation of Q07869 -γ by synthetic ligands ( troglitazone and rosiglitazone ) or by a constitutively active form of Q07869 -γ prevents TGF-β-induced loss of P12830 expression and inhibits the induction of mesenchymal markers ( vimentin , P19022 , fibronectin ) and matrix metalloproteases . Consistently , activation of Q07869 -γ also inhibited EMT-induced migration and invasion of lung cancer cells . Furthermore , effects of Q07869 -γ ligands were attenuated by siRNA-mediated knockdown of Q07869 -γ , indicating that the ligand-induced responses are Q07869 -γ dependent . Selective knockdown of Q15796 and P84022 by siRNA showed that TGF-β-induced EMT is P84022 dependent in lung cancer cells . Activation of Q07869 -γ inhibits TGF-β-induced Smad transcriptional activity but had no effect on the phosphorylation or nuclear translocation of Smads . Consistently , Q07869 -γ activation prevented TGF-β-induced transcriptional repression of P12830 promoter and inhibited transcriptional activation of P19022 promoter . Finally , treatment of mice with troglitazone or knockdown of P84022 in tumor cells significantly inhibited TGF-β-induced experimental metastasis in SCID-Beige mice . Together , with the low toxicity profile of Q07869 -γ ligands , our data show that these ligands may serve as potential therapeutic agents to inhibit metastasis .",
+    "Pharmacological properties of thalidomide and its analogues . Thalidomide and its immunomodulatory imide drugs ( IMiDs ) analogues DB00480 ( DB00480 , DB00480 ) and CC-4047 ( Actimid , DB08910 ) have been used as anti-inflammatory and anticancerous drugs in the recent years . Thalidomide and IMiDs inhibit the cytokines tumour necrosis factor-alpha ( P01375 ) , interleukins ( IL ) 1-beta , 6 , 12 , and granulocyte macrophage-colony stimulating factor ( GM- P04141 ) . They also costimulate primary human T , NKT and NK lymphocytes inducing their proliferation , cytokine production , and cytotoxic activity . On the other hand , the compounds are anti-angiogenic , anti-proliferative , and pro-apoptotic . Thalidomide analogues have been used as inhibitors of alpha glucosidase and could be potential drugs for diabetes treatment . In this review , we explore the current trend of the different structures , the new patents , and the possible new applications in different pathologies .",
+    "Prevention of thrombus formation and growth by antithrombin III and heparin cofactor II-dependent thrombin inhibitors : importance of heparin cofactor II . DB01109 ( HEP ) prevents thrombus formation ( TF ) and thrombus growth ( TG ) , by accelerating thrombin ( THR ) inhibition by antithrombin III ( P01008 ) . Recent studies suggest that dermatan sulphate which catalyzes thrombin inhibition by heparin cofactor II ( HCII ) , can inhibit TF and TG as effectively as HEP . This study compared the antithrombotic effects of HEP and another agent , DB06271 ( SLX ) which catalyzes thrombin inhibition by P01008 and HCII simultaneously . TF was induced in rabbit jugular veins , using the stasis/hypercoagulation model . TG was measured as the accretion of 125I-fibrin onto existing thrombi in rabbit jugular veins . HEP and SLX inhibited TF when given in doses of 10 and 5 anti-thrombin U/kg , respectively . SLX ( 16 anti-thrombin U/kg or 260 micrograms/kg ) was more effective than HEP ( 120 anti-thrombin U/kg or 800 micrograms/kg ) in preventing TG when administered either as a bolus or by continuous infusion . These data suggest that agents which accelerate THR inhibition by both P01008 and HCII simultaneously , can inhibit TF and TG with less systemic anticoagulation than comparable antithrombotic doses of HEP .",
+    "DB01098 reduces neointima formation in a rat model of balloon injury . BACKGROUND : Processes of restenosis , following arterial injury , are complex involving different cell types producing various cytokines and enzymes . Among those enzymes , smooth muscle cell-derived matrix metalloproteinases ( MMPs ) are thought to take part in cell migration , degrading of extracellular matrix , and neointima formation . P14780 , also known as gelatinase B , is expressed immediately after vascular injury and its expression and activity can be inhibited by statins . Using an established in vivo model of vascular injury , we investigated the effect of the P04035 inhibitor rosuvastatin on P14780 expression and neointima formation . MATERIALS AND METHODS : 14-week old male Sprague Dawley rats underwent balloon injury of the common carotid artery . Half of the animals received rosuvastatin ( 20 mg/kg body weight/day ) via oral gavage , beginning 3 days prior to injury . Gelatinase activity and neointima formation were analyzed 3 days and 14 days after balloon injury , respectively . 14 days after vascular injury , proliferative activity was assessed by staining for Ki67 . RESULTS : After 14 days , animals in the rosuvastatin group showed a decrease in total neointima formation ( 0.194±0.01 mm2 versus 0.124±0.02 mm2 , p < 0.05 ) as well as a reduced intima/media ratio ( 1.26±0.1 versus 0.75±0.09 , p < 0.05 ) . Balloon injury resulted in increased activity of P14780 3 days after intervention for both rosuvastatin treated animals and controls with no significant difference observed between the groups . There was a trend towards a reduction in the number of Ki67-positive cells 14 days after injury . CONCLUSIONS : DB01098 attenuates neointima formation without affecting early P14780 activity in a rat model of vascular injury .",
+    "DB00328 ameliorates high glucose-induced proliferation and invasion via modulation of e-cadherin in pancreatic cancer cells . DB00328 , an inhibitor of cyclooxygenase-2 ( P35354 ) , has been shown to exert anticancer effects in a variety of cancers . However , the effect and mechanism of indometacin on high glucose ( HG ) -induced proliferation and invasion of pancreatic cancer ( PC ) cells remain unclear . Multiple lines of evidence suggest that a large portion of pancreatic cancer ( PC ) patients suffer from either diabetes or HG which contributing PC progression . In this study , we report that indometacin down-regulated HG-induced proliferation and invasion via up-regulating P12830 but not P35354 in PC cells . Additionally , the P12830 transcriptional repressors , Snail and Slug , were also involved in the process . Furthermore , the proliferation and invasion of PC cells , incubated in HG medium and treated with indometacin were significantly increased when P12830 was knocked down ( Si-E-cad ) . Moreover , the protein levels of P08253 , P14780 , and P15692 were increased in PC cells transfected with Si-E-cad . Finally , the activation of the PI3K/AKT/GSK-3β signaling pathway was demonstrated to be involved in indometacin reversing HG-induced cell proliferation and invasion in PC cells . In conclusion , these results suggest that indometacin plays a key role in down-regulating HG-induced proliferation and invasion in PC cells . Our findings indicate that indometacin could be used as a novel therapeutic strategy to treat PC patients who simultaneously suffer from diabetes or HG .",
+    "Synthetic triterpenoid induces P15428 expression and suppresses inflammation-driven colon carcinogenesis . Colitis-associated colon cancer ( CAC ) develops as a result of inflammation-induced epithelial transformation , which occurs in response to inflammatory cytokine-dependent downregulation of 15-hydroxyprostaglandin dehydrogenase ( P15428 ) and subsequent suppression of prostaglandin metabolism . Agents that both enhance P15428 expression and suppress cyclooxygenase-2 ( P35354 ) production may more effectively prevent CAC . Synthetic triterpenoids are a class of small molecules that suppress P35354 as well as inflammatory cytokine signaling . Here , we found that administration of the synthetic triterpenoid 2-cyano-3,12-dioxooleana-1,9(11)-dien-C28-methyl ester ( CDDO-Me ) suppresses CAC in mice . In a spontaneous , inflammation-driven intestinal neoplasia model , deletion of Q13485 specifically in T cells led to progressive production of inflammatory cytokines , including P01375 -α , IFN-γ , P35228 , P05231 , IL-1β ; as well as activation of P42224 and P40763 ; along with suppression of P15428 expression . Oral administration of CDDO-Me to mice with Q13485 -deficient T cells increased survival and suppressed intestinal epithelial neoplasia by decreasing production of inflammatory mediators and increasing expression of P15428 . Induction of P15428 by CDDO-Me was dose dependent in epithelial cells and was abrogated following treatment with TGF-β signaling inhibitors in vitro . Furthermore , CDDO-Me-dependent P15428 induction was not observed in P84022 -/- mice . Similarly , CDDO-Me suppressed azoxymethane plus dextran sodium sulfate-induced carcinogenesis in wild-type animals , highlighting the potential of small molecules of the triterpenoid family as effective agents for the chemoprevention of CAC in humans .",
+    "Matrix metalloproteinases are differentially expressed in adipose tissue during obesity and modulate adipocyte differentiation . Matrix metalloproteinases ( MMPs ) are essential for proper extracellular matrix remodeling , a process that takes place during obesity-mediated adipose tissue formation . Here , we examine expression profiles and the potential role of MMPs and their tissue inhibitors ( TIMPs ) in adipose tissue remodeling during obesity . Expression patterns are studied by Northern blot and real-time PCR in two genetic models of obesity ( ob/ob and db/db mice ) and in a diet-induced model of obesity ( AKR mice ) . Of the MMPs and TIMPs studied , mRNA levels for P08253 , P08254 , P39900 , P50281 , Q99542 , and P01033 are strongly induced in obese adipose tissues compared with lean tissues . In contrast , P09237 and P35625 mRNAs are markedly decreased in obesity . Interestingly , enzymatic activities of P39900 and of a new identified adipocyte-derived 30-kDa metalloproteinase are enhanced in obese adipose tissue fractions , demonstrating that MMP/ P01033 balance is shifted toward increased matrix degradation in obesity . Finally , we analyze the modulation of P08253 , Q99542 , and P01033 during 3T3- Q9NUQ9 preadipocyte differentiation , and we explore the effect of inhibition of MMP activity on in vitro adipogenesis . We find that the synthetic MMP inhibitor BB-94 ( DB03880 ) decreases adipose conversion of 3T3- Q9NUQ9 and primary rat preadipocytes . BB-94 represses differentiation without affecting mitotic clonal expansion but prevents the early expression of P17676 , a transcription factor that is thought to play a major role in the adipogenic program . Such findings support a role for the MMP/ P01033 system in the control of proteolytic events and adipogenesis during obesity-mediated fat mass development .",
+    "DB06212 , a selective oral vasopressin V2 receptor antagonist , ameliorates podocyte injury in puromycin aminonucleoside nephrotic rats . BACKGROUND : Proteinuria caused by glomerular disease is characterized by podocyte injury . P30518 antagonists are effective in reducing albuminuria , although their actions on glomerular podocytes have not been explored . The objective of this study was to evaluate the effects of tolvaptan , a selective oral V2 receptor antagonist , on podocytes in a puromycin aminonucleoside ( PAN ) -induced nephrosis rat model . METHODS : Rats were allocated to a control , PAN nephrosis , or tolvaptan-treated PAN nephrosis group ( n = 9 per group ) . Urinary protein excretion and serum levels of total protein , albumin , creatinine , and total cholesterol were measured on day 10 . The influence of tolvaptan on podocytes was examined in renal tissues by immunofluorescence and electron microscopy . RESULTS : PAN induced massive proteinuria and serum creatinine elevation on day 10 , both of which were significantly ameliorated by tolvaptan . Immunofluorescence studies of the podocyte-associated proteins nephrin and podocin revealed granular staining patterns in PAN nephrosis rats . In tolvaptan-treated rats , nephrin and podocin expressions retained their normal linear pattern . Electron microscopy showed foot process effacement was ameliorated in tolvaptan-treated rats . CONCLUSIONS : DB06212 is protective against podocyte damage and proteinuria in PAN nephrosis . This study indicates that tolvaptan exerts a renoprotective effect by affecting podocyte morphology and probably function in PAN nephrosis . DB06212 is a promising pharmacological tool in the treatment of renal edema .",
+    "P54252 represses transcription via chromatin binding , interaction with histone deacetylase 3 , and histone deacetylation . P54252 ( P01008 ) , the disease protein in spinocerebellar ataxia type 3 ( P54252 ) , has been associated with the ubiquitin-proteasome system and transcriptional regulation . Here we report that normal P01008 binds to target DNA sequences in specific chromatin regions of the matrix metalloproteinase-2 ( P08253 ) gene promoter and represses transcription by recruitment of the histone deacetylase 3 ( O15379 ) , the nuclear receptor corepressor ( NCoR ) , and deacetylation of histones bound to the promoter . Both normal and expanded P01008 physiologically interacted with O15379 and NCoR in a P54252 cell model and human pons tissue ; however , normal P01008 -containing protein complexes showed increased histone deacetylase activity , whereas expanded P01008 -containing complexes had reduced deacetylase activity . Consistently , histone analyses revealed an increased acetylation of total histone H3 in expanded P01008 -expressing cells and human P54252 pons . Expanded P01008 lost the repressor function and displayed altered DNA/chromatin binding that was not associated with recruitment of O15379 , NCoR , and deacetylation of the promoter , allowing aberrant P08253 transcription via the transcription factor GATA-2 . For transcriptional repression normal P01008 cooperates with O15379 and requires its intact ubiquitin-interacting motifs ( UIMs ) , whereas aberrant transcriptional activation by expanded P01008 is independent of the UIMs but requires the catalytic cysteine of the ubiquitin protease domain . These findings demonstrate that normal P01008 binds target promoter regions and represses transcription of a GATA-2-dependent target gene via formation of histone-deacetylating repressor complexes requiring its UIM-associated function . Expanded P01008 aberrantly activates transcription via its catalytic site and loses the ability to form deacetylating repressor complexes on target chromatin regions .",
+    "A New Histone Deacetylase Inhibitor , MHY219 , Inhibits the Migration of Human Prostate Cancer Cells via Q13547 . Histone deacetylase ( HDAC ) inhibitors are considered novel agents for cancer chemotherapy . We previously investigated MHY219 , a new HDAC inhibitor , and its potent anticancer activity in human prostate cancer cells . In the present study , we evaluated MHY219 molecular mechanisms involved in the regulation of prostate cancer cell migration . Similar to suberanilohydroxamic acid ( DB02546 ) , MHY219 inhibited Q13547 enzyme activity in a dose-dependent manner . MHY219 cytotoxicity was higher in LNCaP ( IC50=0.67 μM ) than in DU145 cells ( IC50=1.10 μM ) and PC3 cells ( IC50=5.60 μM ) after 48 h of treatment . MHY219 significantly inhibited the Q13547 protein levels in LNCaP and DU145 cells at high concentrations . However , inhibitory effects of MHY219 on HDAC proteins levels varied based on the cell type . MHY219 significantly inhibited LNCaP and DU145 cells migration by down-regulation of matrix metalloprotease-1 ( P03956 ) and P08253 and induction of tissue inhibitor of metalloproteinases-1 ( P01033 ) . These results suggest that MHY219 may potentially be used as an anticancer agent to block cancer cell migration through the repression of P03956 and P08253 , which is related to the reduction of Q13547 .",
+    "The protective effect of rebamipide on paracellular permeability of rat gastric epithelial cells . BACKGROUND : Barrier function in gastric epithelial cells is essential for the gastric defence mechanism against acid back-diffusion into the mucosal layer . Our previous study indicated that trans-epithelial resistance ( Q9NZ01 ) of rat gastric epithelial cells was rapidly increased when the cells were exposed to acid . This response to acid was diminished by indometacin . AIM : Evaluate the effects of a mucoprotective agent , rebamipide , on the nonsteroidal anti-inflammatory drug ( NSAID ) -induced increase of gastric epithelial permeability . METHODS : Rat gastric epithelial cells were plated on tissue culture inserts . Cells were exposed to a NSAID ( indometacin , 10-7 M ) . Trans-epithelial permeability was measured by Q9NZ01 and diffusion rate of 14C-mannitol . The effect of rebamipide was evaluated by measuring Q9NZ01 . Endogenous prostaglandin E2 ( DB00917 ) production in culture medium was also measured . RESULTS : DB00328 gradually and significantly decreased Q9NZ01 and increased 14C-manitol permeability . Rebamipide reversed the indometacin-induced changes in epithelial permeability and induced DB00917 synthesis . This induction was blocked by either indometacin or a Cyclooxygenase ( P36551 ) -2 specific inhibitor . CONCLUSIONS : P36551 inhibitors such as indometacin inhibit regulation of epithelial permeability by reducing DB00917 . P23219 has an important role in the gastric defense mechanism . Rebamipide suppressed an indometacin-induced increase in gastric epithelial permeability by increasing DB00917 levels in a P35354 dependent manner .",
+    "Celecoxib with chemotherapy in colorectal cancer . P35354 ( P35354 ) is the enzyme that normally synthesizes prostaglandins during an inflammatory response . Many primary and metastatic cancers express P35354 , and its presence is correlated with tumor angiogenesis , more invasive tumor phenotype , resistance to apoptosis , and systemic immunosuppression . The expression of P35354 is associated with a worse prognosis . Inhibition of prostaglandin synthesis may be beneficial in human malignancy . Regular consumption of nonsteroidal anti-inflammatory drugs ( NSAIDs ) decreases the incidence of , and mortality rate resulting from , a number of types of gastrointestinal cancers . Premalignant colonic lesions regress following the administration of nonspecific P36551 inhibitors , such as sulindac ( DB00605 ) . Advanced solid tumor patients treated with indomethacin ( DB00328 ) survive twice as long as do such patients who receive supportive care alone . The U.S . Food and Drug Administration has approved specific P35354 inhibitors for the treatment of arthritis , pain , and familial adenomatous polyposis . Preclinical studies show that these drugs block angiogenesis , suppress solid tumor metastases , and slow the growth of implanted gastrointestinal cancer cell lines . The P35354 inhibitors have safely and effectively been combined with chemotherapeutic agents in experimental studies . Ongoing clinical trials are currently assessing the potential therapeutic role of P35354 inhibitors in both prevention and treatment of a diverse range of human cancers .",
+    "Expression of P20839 and P12268 after transplantation and initiation of immunosuppression . BACKGROUND : DB01024 ( DB00603 ) mediates immunosuppressive effects by inhibiting inosine monophosphate dehydrogenase ( IMPDH ) . Induction of IMPDH activity has been observed in whole blood and erythrocyte samples during immunosuppressive therapy . Information concerning the mechanisms for increased IMPDH activity is limited and the potential implications of induction have been debated . METHODS : Whole blood , P01730 + cell , and reticulocyte samples were collected from 30 renal transplant patients pre- and posttransplantation . The expressions of two IMPDH isoforms , type 1 and 2 , were analyzed by real-time reverse-transcription polymerase chain reaction and quantified using a housekeeping gene index . The IMPDH activity was determined by ultraviolet high-performance liquid chromatography . RESULTS : Transplantation and the initiation of immunosuppressive therapy was associated with increased P20839 ( 50-88 % , P < 0.0005 ) and decreased P12268 ( 42-56 % , P < 0.0005 ) expression . In P01730 + cells , however , P12268 increased ( 15 % , P=0.009 ) . These changes are probably related to glucocorticoid effects . Two weeks posttransplant , DB00603 -treated patients displayed elevated P20839 and 2 in reticulocytes , suggesting enzyme induction in these cells during prolonged DB00603 therapy . Patients with acute rejection during follow-up demonstrated higher P12268 expression in P01730 + cells pretransplant than nonrejecting patients ( median expression 1.26 vs. 0.87 respectively , P=0.017 ) . CONCLUSIONS : Knowledge of changes in P20839 and 2 expression after transplantation and initiation of immunosuppression is important considering the action of DB00603 on IMPDH and the potential for pharmacodynamic monitoring of DB00603 by measuring IMPDH activity . The expression of P12268 in P01730 + cells pretransplant may be an indicator of immune activation .",
+    "P01375 -α-accelerated degradation of type I collagen in human skin is associated with elevated matrix metalloproteinase ( MMP ) -1 and P08254 ex vivo . P01375 ( P01375 ) -α induces matrix metalloproteinases ( MMPs ) that may disrupt skin integrity . We have investigated the effects and mechanisms of exogenous P01375 -α on collagen degradation by incubating human skin explants in defined serum-free media with or without P01375 -α ( 10ng/ml ) in the absence or presence of the nonselective MMP inhibitor DB02255 for 8 days . The basal culture conditions promoted type I collagen catabolism that was accelerated by P01375 -α ( p < 0.005 ) and accomplished by MMPs ( p < 0.005 ) . Levels of the collagenases P22894 and P45452 were insignificant and neither P08253 nor P50281 were associated with increased collagen degradation . P01375 -α increased secretion of P03956 ( p < 0.01 ) but had no impact on P03956 quantities in the tissue . Immunohistochemical analysis confirmed similar tissue P03956 expression with or without P01375 -α with epidermis being the major source of P03956 . Increased tissue-derived collagenolytic activity with P01375 -α exposure was blocked by neutralizing P03956 monoclonal antibody and was not due to down-regulation of tissue inhibitor of metalloproteinase-1 . P01375 -α increased production ( p < 0.01 ) , tissue levels ( p < 0.005 ) and catalytic activity of the endogenous P03956 activator P08254 . Type I collagen degradation correlated with P08254 tissue levels ( rs=0.68 , p < 0.05 ) and was attenuated with selective P08254 inhibitor . Type I collagen formation was down-regulated in cultured compared with native skin explants but was not reduced further by P01375 -α . P01375 -α had no significant effect on epidermal apoptosis . Our data indicate that P01375 -α augments collagenolytic activity of P03956 , possibly through up-regulation of P08254 leading to gradual loss of type I collagen in human skin .",
+    "Expression of cyclooxygenase-2 ( P35354 ) in tumour and stroma compartments in cervical cancer : clinical implications . This study aims at investigating the relationship between cyclooxygenase-2 expression in tumour vs stroma inflammatory compartment and its possible clinical role . The study included 99 stage IB-IV cervical cancer patients : immunostaining of tumour tissue sections was performed with rabbit antiserum against cyclooxygenase-2 . CD3 , P01730 , CD8 , CD25 , Mast Cell Tryptase monoclonal antibodies were used to characterise stroma inflammatory cells in nine cervical tumours . An inverse relation was found between cyclooxygenase-2 levels ( cyclooxygenase-2 IDV ) of tumour vs stroma compartment ( r=-0.44 , P < 0.0001 ) . The percentage of cases showing high tumour/stromal cyclooxygenase-2 IDV ratio was significantly higher in patients who did not respond to treatment ( 93.3 % ) with respect to patients with partial ( 60.5 % ) , and complete ( 43.7 % ) response ( P= 0.009 ) . Cases with a high tumour/stroma cyclooxygenase-2 IDV ratio had a shorter overall survival rate than cases with a low tumour/stroma cyclooxygenase-2 IDV ( P < 0.0001 ) . In the multivariate analysis advanced stage and the status of tumour/stroma cyclooxygenase-2 IDV ratio retained an independent negative prognostic role . The proportion of CD3(+) , P01730 (+) , and CD25(+) cells was significantly lower in tumours with high tumour/stroma cyclooxygenase-2 IDV ratio , while a higher percentage of mast cells was detected in tumours showing high tumour/stroma cyclooxygenase-2 IDV ratio . Our study showed the usefulness of assessing cyclooxygenase-2 status both in tumour and stroma compartment in order to identify cervical cancer patients endowed with a very poor chance of response to neoadjuvant therapy and unfavourable prognosis .",
+    "Correlation between tumor volume response to radiotherapy and expression of biological markers in patients with cervical squamous cell carcinoma . OBJECTIVE : To determine the factors associated with tumor volume response to radiotherapy ( RT ) in cervical cancer patients , and the relationship between the tumor volume response and alteration of the expression of biological markers during RT . METHODS : Twenty consecutive patients with cervical squamous cell carcinoma who received definitive RT were enrolled . Tumor volumes were calculated by Q9BWK5 examinations performed at the start of RT ( pre-RT ) , at the fourth week of RT ( mid-RT ) , and 1 month after RT completion ( post-RT ) . Two serial punch biopsies were performed at pre- and mid-RT , and immunohistochemical staining was performed for cyclooxygenase ( P36551 ) -2 and epidermal growth factor receptor ( P00533 ) . RESULTS : For the pre-RT evaluation , fourteen ( 70 % ) and eleven ( 55 % ) patients showed positive immunoreactivity for P35354 and P00533 , respectively . Among the seven patients whose median percentage residual tumor at mid-RT ( P30518 ) was greater than 0.5 , seven ( 100 % , p=0.0515 ) and five ( 71.4 % , p=0.3742 ) patients showed positive immunoreactivity for P35354 and P00533 , respectively . The logistic regression analysis showed that positive immunoreactivity for both P35354 and P00533 at pre-RT were associated with P30518 ( p=0.0782 ) . For the mid-RT evaluation , eight cases showed an interval increase in the distribution of immunoreactivity for P35354 , and six out of the eight patients had a P30518 greater than 0.5 ( p=0.2222 ) . CONCLUSION : The poor mid-RT tumor response was associated with the coexpression of P35354 and P00533 .",
+    "DB01098 , a new P04035 inhibitor , reduces the colonic inflammatory response in dextran sulfate sodium-induced colitis in mice . The aim of the present study was to elucidate the beneficial effects of rosuvastatin , a new P04035 inhibitor , on colonic mucosal damage and on the inflammatory response in a dextran sulfate sodium ( DSS ) colitis model . Acute colitis was induced using 8 % DSS in female BALB/c mice . Colonic mucosal inflammation was evaluated clinically , biochemically , and histologically . Mucosal protein contents and mRNA levels of tumor necrosis factor ( P01375 ) -alpha were determined by immunoassay and real time-PCR . The mRNA levels of endothelial nitric oxide synthase ( P29474 ) were determined by real-time PCR . Disease activity scores in DSS-induced colitis model mice , as determined by weight loss , stool consistency , and blood in stool , were significantly lower in the rosuvastatin-treated mice than in control mice . Shortening of the colon was significantly reversed by rosuvastatin . Increases in tissue-associated myeloperoxidase activity and thiobarbituric acid-reactive substances after DSS administration were both significantly inhibited by treatment with rosuvastatin . DB01098 also inhibited increases in intestinal P01375 protein and mRNA expression after DSS administration , respectively . The mucosal mRNA levels of P29474 were decreased after DSS administration , but preserved in mice treated with rosuvastatin . These results suggest that rosuvastatin prevents the development of DSS-induced colitis in mice via the inhibition of mucosal inflammatory responses associated with the preservation of P29474 transcription .",
+    "Antiinflammatory effect of lactic acid bacteria : inhibition of cyclooxygenase-2 by suppressing nuclear factor-kappaB in Raw264.7 macrophage cells . Lactobacillus casei 3260 ( L. casei 3260 ) was evaluated in relation to the inflammatory response mediated by lipopolysaccharide ( LPS ) -induced nuclear factor-kappaB ( NF-kappaB ) and cyclooxygenase-2 ( P35354 ) expression in Raw264.7 macrophage cells . The treatment of Raw264.7 cells with L. casei 3260 significantly inhibited the secretion of tumor necrosis factor-alpha ( P01375 ) and prostaglandins E2 ( DB00917 ) , followed by suppression of P35354 . To clarify the molecular mechanism , the inhibitory effect of L. casei 3260 on the NF-kappaB signaling pathway was examined based on the luciferase reporter activity . Although the treatment of Raw264.7 cells with L. casei 3260 did not affect the transcriptional activity of NF-kappaB , it did inhibit NF-kappaB activation , as determined by the cytosolic p65 release and degradation of I-kappaBalpha . Therefore , these findings suggest that the suppression of P35354 through inhibiting the NF-kappaB activation by LPS may be associated with the antiinflammatory effects of L. casei 3260 on Raw264.7 cells .",
+    "Elevated macrophage migration inhibitory factor and decreased transforming growth factor-beta levels in major depression -- no influence of celecoxib treatment . OBJECTIVES : The involvement of an immune process in the pathophysiology of major depression disorder ( MDD ) was substantiated by studies demonstrating elevated levels of proinflammatory cytokines and prostaglandin E(2) ( PGE(2) ) . P35354 ( P35354 ) inhibitors lead to a reduced production of PGE(2) and have been shown to improve depressive symptoms . We investigated the three immune parameters macrophage migration inhibitory factor ( MIF ) , transforming growth factor-β ( TGF-β ) and soluble P08571 ( sCD14 ) in a randomized , placebo-controlled trial of the P35354 inhibitor celecoxib as add-on therapy in patients with MDD treated with reboxetine . METHODS : Thirty-two patients with depression and 20 healthy controls participated in the study . The patients were treated with reboxetine and celecoxib or placebo . Immune parameters were measured from serum at baseline , after three and five weeks using ELISA . RESULTS : Celecoxib as add-on strategy resulted in a significant reduction of Hamilton Depression Scale scores compared to placebo . Depressed patients showed significantly elevated MIF ( p < 0.001 ) and reduced TGF-β ( p = 0.006 ) concentrations at baseline . There was no difference in sCD14-concentrations . There was no difference between the placebo and the celecoxib group and no change over time . LIMITATIONS : Limitations of the study are the relatively small sample size and lack of functional assessment of Q9Y251 axis in parallel . CONCLUSIONS : MIF is a promising new candidate in the neuro-immune interplay that may link depressive symptoms , altered immune state and Q9Y251 -axis dysregulation . Reduced levels of TGF-β replicate previous findings and support the importance of this regulatory cytokine in major depressive disorder .",
+    "DB00759 derivative minocycline inhibits autophagy and inflammation in concanavalin-a-activated human hepatoma cells . Inhibition of soluble matrix metalloproteinase ( MMP ) activity is among the non-antibiotic cellular effects exerted by the anti-inflammatory tetracycline derivative minocycline . The impact of minocycline on the signal transduction functions of membrane-bound MMPs is however unknown . We assessed minocycline in a concanavalin-A ( ConA ) -activated human HepG2 hepatoma cell model , a condition known to increase the expression of membrane type-1 MMP ( MT-MMP ) and to trigger inflammatory and autophagy processes . We found that minocycline inhibited ConA-induced formation of autophagic acidic vacuoles , green fluorescent microtubule-associated protein 1 light chain 3 ( GFP-LC3 ) puncta formation , gene and protein expression of autophagy biomarker P10415 /adenovirus E1B 19 kDa interacting protein 3 ( Q12983 ) , invasion biomarker P50281 , and inflammation biomarker cyclooxygenase ( P36551 ) -2 . Gene silencing of P50281 abrogated ConA-induced formation of autophagic acidic vacuoles and ConA-induced expressions of Q12983 and P35354 . DB01017 was also shown to inhibit ConA-induced signal transducer and activator of transcription 3 ( P40763 ) phosphorylation as well as gene expression of Q8WY41 , a biomarker believed to colocalize with P50281 and the specific silencing of which further inhibited ConA-induced P40763 phosphorylation . Collectively , our data demonstrate that part of minocycline 's effects on autophagy could be exerted through the inhibition of P50281 signaling functions , which contribute to the autophagy and inflammatory phenotype of ConA-activated HepG2 cells .",
+    "Multiple antigenic polypeptide composed of heparanase B‑cell epitopes shrinks human hepatocellular carcinoma in mice . The purpose of this study was to evaluate the anti‑growth effect of the self‑designed multiple antigenic polypeptide ( Q96HU1 ) vaccine comprising B‑cell epitopes of heparanase ( Q9Y251 ) on HCC97‑H hepatocellular carcinoma ( HCC ) in mice . The polyclonal antibodies against the B‑cell epitopes of Q9Y251 were prepared by immunizing rabbits with freshly synthesized Q96HU1 vaccine . HCC‑bearing models were constructed on BALB/c nude mice . Anti‑ Q96HU1 antibodies were administrered to the models to assess the effects on Q9Y251 activity , HCC growth , the expression of P15692 / P09038 and the value of micro‑vessel density ( P53602 ) . The anti‑ Q96HU1 antibodies were harvested , purified and identified . These antibodies were able to specifically bind with the dominant epitopes of the precursor protein and large subunit monomer of Q9Y251 , decrease Q9Y251 activity , suppress the expressions of P15692 and P09038 , reduce the P53602 , and markedly shrink the HCC volume . Based on these findings , Q96HU1 vaccine based on the B‑cell epitopes of Q9Y251 seemed to provide theoretical evidence for further study of the synthesized Q9Y251 Q96HU1 vaccine in the treatment of HCC .",
+    "Recombinational and physical mapping of the locus for primary open-angle glaucoma ( Q99972 ) on chromosome 1q23-q25 . Primary open-angle glaucoma ( POAG ) is a leading cause of irreversible blindness in industrialized countries . A locus for juvenile-onset POAG , Q99972 , has been mapped to 1q21-q31 in a 9-cM interval . With recombinant haplotypes , we have now reduced the Q99972 interval to a maximum of 3 cM , between the D1S452/NGA1/D1S210 and NGA5 loci . These loci are 2.8 Mb apart on a 4.7-Mb contig that we have completed between the D1S2851 and D1S218 loci and that includes 96 YAC clones and 48 STSs . The new Q99972 interval itself is now covered by 25 YACs , 30 STSs , and 16 restriction enzyme site landmarks . The lack of a NotI site suggests that the region has few CpG islands and a low gene content . This is compatible with its predominant cytogenetic location on the 1q24 G-band . Finally , we have excluded important candidate genes , including genes coding for three ATPases ( P05026 , P23634 , P50993 ) , an ion channel ( VDAC4 ) , antithrombine III ( P01008 ) , and prostaglandin synthase ( P35354 ) . Our results provide a basis to identify the Q99972 gene .",
+    "Altered regulation of renal nitric oxide , atrial natriuretic peptide and cyclooxygenase systems in aldosterone escape in rats . The present study was aimed to determine whether there is an altered role of local nitric oxide ( NO ) , atrial natriuretic peptide ( P01160 ) and cyclooxygenase ( P36551 ) systems in the kidney in association with the aldosterone escape . Male Sprague-Dawley rats were used . DB04630 ( 200 microg/day ) was infused through entire time course . The control group was kept on a low sodium diet ( 0.02 mEq/day ) , and the experimental group was supplied with a higher sodium diet ( 2. /day ) . Four days after beginning the regimen , the kidneys were taken . The protein expression of NO synthase ( NOS ) and P36551 isoforms was determined by semiquantitative immunoblotting . The mRNA expression of components of P01160 system was determined by real-time polymerase chain reaction . The activities of soluble and particulate guanylyl cyclases were determined by the amount of cGMP generated in responses to sodium nitroprusside and P01160 , respectively . There developed aldosterone escape in the experimental group . Accordingly , the renal content and the urinary excretion of NO increased . The expression of P29475 was increased in the inner medulla . Neither the expression of P29474 nor that of P35228 was changed . The expression and the catalytic activity of soluble guanylyl cyclase remained unaltered . The mRNA expression of P01160 was increased . Neither the expression of P16066 or P17342 nor the activity of particulate guanylyl cyclase was altered in the papilla . The protein expression of P35354 was increased in the inner medulla , while that of P23219 remained unchanged . In conclusion , the upregulation of P29475 , P01160 , and P35354 may be causally related with the aldosterone escape ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00328 is an inhibitor of cyclooxygenase-2 (P35354).\nDB00328 ameliorates high glucose-induced proliferation and invasion in pancreatic cancer cells via modulation of e-cadherin.\nDB00328 down-regulates high glucose-induced proliferation and invasion by up-regulating P12830.\nDB00328 is also known as indometacin.\nIndometacin is a nonsteroidal anti-inflammatory drug (NSAID) that inhibits cyclooxygenase-2 (P35354).\nDB00514 is dexamethasone, a glucocorticoid receptor agonist.\nDB01024 is mycophenolate mofetil, an inhibitor of inosine monophosphate dehydrogenase (IMPDH).\nDB01098 is rosuvastatin, a P04035 inhibitor.\nDB01281 is a P10747 costimulatory receptor inhibitor.\nDB02546 is suberanilohydroxamic acid, a histone deacetylase inhibitor.\nDB03880 is BB-94, a synthetic matrix metalloproteinase inhibitor.\nDB06212 is tolvaptan, a vasopressin V2 receptor antagonist.\nDB06271 is SLX, a thrombin inhibitor that accelerates inhibition by antithrombin III and heparin cofactor II.\nDB08910 is CC-4047, an immunomodulatory imide drug (IMiD).\nDB00328 (indometacin) inhibits P35354, which is a target of DB00514, DB01024, DB01098, DB01281, DB02546, DB03880, DB06212, DB06271, and DB08910.\nDB00328 is a direct inhibitor of P35354, and no other drug in the list is described as directly interacting with DB00328.\nThe interaction between DB00328 and other drugs is not explicitly stated in the context.\nDB00328 does not interact with DB01098, DB01281, DB02546, DB03880, DB06212, DB06271, or DB08910.\nDB00328 interacts with P35354, but not with any of the listed drugs.\nThe drug that interacts with DB00328 is not specified in the provided context.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB00328 is an inhibitor of cyclooxygenase-2 (P35354)",
+    "DB00328 ameliorates high glucose-induced proliferation and invasion in pancreatic cancer cells via modulation of e-cadherin",
+    "DB00328 down-regulates high glucose-induced proliferation and invasion by up-regulating P12830",
+    "DB00328 is also known as indometacin",
+    "Indometacin is a nonsteroidal anti-inflammatory drug (NSAID) that inhibits cyclooxygenase-2 (P35354)",
+    "DB00514 is dexamethasone, a glucocorticoid receptor agonist",
+    "DB01024 is mycophenolate mofetil, an inhibitor of inosine monophosphate dehydrogenase (IMPDH)",
+    "DB01098 is rosuvastatin, a P04035 inhibitor",
+    "DB01281 is a P10747 costimulatory receptor inhibitor",
+    "DB02546 is suberanilohydroxamic acid, a histone deacetylase inhibitor",
+    "DB03880 is BB-94, a synthetic matrix metalloproteinase inhibitor",
+    "DB06212 is tolvaptan, a vasopressin V2 receptor antagonist",
+    "DB06271 is SLX, a thrombin inhibitor that accelerates inhibition by antithrombin III and heparin cofactor II",
+    "DB08910 is CC-4047, an immunomodulatory imide drug (IMiD)",
+    "DB00328 (indometacin) inhibits P35354, which is a target of DB00514, DB01024, DB01098, DB01281, DB02546, DB03880, DB06212, DB06271, and DB08910",
+    "DB00328 is a direct inhibitor of P35354, and no other drug in the list is described as directly interacting with DB00328",
+    "The interaction between DB00328 and other drugs is not explicitly stated in the context",
+    "DB00328 does not interact with DB01098, DB01281, DB02546, DB03880, DB06212, DB06271, or DB08910",
+    "DB00328 interacts with P35354, but not with any of the listed drugs",
+    "The drug that interacts with DB00328 is not specified in the provided context"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00328 is an inhibitor of cyclooxygenase-2 (P35354)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB00328 ameliorates high glucose-induced proliferation and invasion in pancreatic cancer cells via modulation of e-cadherin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00328 down-regulates high glucose-induced proliferation and invasion by up-regulating P12830",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00328 is also known as indometacin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Indometacin is a nonsteroidal anti-inflammatory drug (NSAID) that inhibits cyclooxygenase-2 (P35354)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00514 is dexamethasone, a glucocorticoid receptor agonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01024 is mycophenolate mofetil, an inhibitor of inosine monophosphate dehydrogenase (IMPDH)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01098 is rosuvastatin, a P04035 inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB01281 is a P10747 costimulatory receptor inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB02546 is suberanilohydroxamic acid, a histone deacetylase inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB03880 is BB-94, a synthetic matrix metalloproteinase inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB06212 is tolvaptan, a vasopressin V2 receptor antagonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB06271 is SLX, a thrombin inhibitor that accelerates inhibition by antithrombin III and heparin cofactor II",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB08910 is CC-4047, an immunomodulatory imide drug (IMiD)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB00328 (indometacin) inhibits P35354, which is a target of DB00514, DB01024, DB01098, DB01281, DB02546, DB03880, DB06212, DB06271, and DB08910",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB00328 is a direct inhibitor of P35354, and no other drug in the list is described as directly interacting with DB00328",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "The interaction between DB00328 and other drugs is not explicitly stated in the context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB00328 does not interact with DB01098, DB01281, DB02546, DB03880, DB06212, DB06271, or DB08910",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB00328 interacts with P35354, but not with any of the listed drugs",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "The drug that interacts with DB00328 is not specified in the provided context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

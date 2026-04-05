@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__70642ac7ad94f22b612f",
+  "sample_id": "70642ac7ad94f22b612f",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does Jason have anything in common with Dr. Disrespect?",
+  "gold_answer": "yes",
+  "context": [
+    "Jason cheated on Medea with Creusa",
+    "Dr. Disrespect cheated on his wife with another woman"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJason cheated on Medea with Creusa.\nDr. Disrespect cheated on his wife with another woman.\nBoth Jason and Dr. Disrespect engaged in infidelity.\nThe commonality between Jason and Dr. Disrespect is that they both cheated on their partners.\nJason has something in common with Dr. Disrespect: both committed infidelity.\n<answer> Yes, both cheated on their partners.",
+  "predicted_answer": "Yes, both cheated on their partners.",
+  "claims": [
+    "Jason cheated on Medea with Creusa",
+    "Dr. Disrespect cheated on his wife with another woman",
+    "Both Jason and Dr. Disrespect engaged in infidelity",
+    "The commonality between Jason and Dr. Disrespect is that they both cheated on their partners",
+    "Jason has something in common with Dr. Disrespect: both committed infidelity"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Jason cheated on Medea with Creusa",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Dr. Disrespect cheated on his wife with another woman",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Both Jason and Dr. Disrespect engaged in infidelity",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The commonality between Jason and Dr. Disrespect is that they both cheated on their partners",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Jason has something in common with Dr. Disrespect: both committed infidelity",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__ab94845c0baf11ebab90acde48001122",
+  "sample_id": "ab94845c0baf11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Wisigard's father-in-law?",
+  "gold_answer": "Theuderic I",
+  "context": [
+    "Peter Burroughs( born 27 January 1947) is a British television and film actor, the director of Willow Management. He is the father- in- law of actor and TV presenter Warwick Davis.",
+    "Wisigard (c. 510 - c. 540) or \"Wisigardis\" was a Frankish Queen in the 6th century. The life of Wisigard is slightly known by Gregory of Tours's \"Historia Francorum\". She was daughter of Wacho, king of the Lombards and grew up in the middle Danube region. After an abnormally long term of engagement of seven years, Wisigard married Theudebert I, Merovingian king of Austrasia. Around 531 Theuderich I, father of Theudebert I, had arranged the engagement for political reasons. But because of a liaison Theudebert had with a Roman woman named Deuteria, the union with Wisigard fell through. Anew for political reasons Theudebert abandoned Deoteria and finally married Wisigard in 537 or 538. Shortly after their wedding, she died.",
+    "William\" Bill\" Cruickshanks( born 24 October 1943) is a Scottish born- Australian professional wrestler and author better known by his stage name Bill Dundee. Cruickshanks is the father of Jamie Dundee and the father- in- law of wrestler Bobby Eaton.",
+    "Viscount was a general in the early Imperial Japanese Army. He was also the father- in- law of Field Marshal Gen Sugiyama.",
+    "Johann Ludwig von Westphalen( 11 July 1770 – 3 March 1842) was a liberal Prussian civil servant and the father- in- law of Karl Marx.",
+    "Mohammad Ilyas Mahmood( born March 19, 1946, Lahore, Punjab) is a former Pakistani cricketer who played in ten Tests from 1964 to 1969. He is the father- in- law of Imran Farhat.",
+    "John Adams( 1672 or 1673 – 1745) was an American- born Canadian merchant and member of the Nova Scotia Council. He was the father- in- law of Henry Newton( politician).",
+    "Hans Barthold Andresen Butenschøn( 27 December 1877 – 28 November 1971) was a Norwegian businessperson. He was born in Kristiania as a son of Nils August Andresen Butenschøn and Hanna Butenschøn, and grandson of Nicolay Andresen. Together with Mabel Anette Plahte( 1877 – 1973, a daughter of Frithjof M. Plahte) he had the son Hans Barthold Andresen Butenschøn Jr. and was through him the father- in- law of Ragnhild Butenschøn and grandfather of Peter Butenschøn. Through his daughter Marie Claudine he was the father- in- law of Joakim Lehmkuhl, through his daughter Mabel Anette he was the father- in- law of Harald Astrup( a son of Sigurd Astrup) and through his daughter Nini Augusta he was the father- in- law of Ernst Torp. He took commerce school and agricultural school. He was hired in the family company N. A. Andresen& Co, and became a co-owner in 1910. He eventually became chief executive officer. The bank changed its name to Andresens Bank in 1913 and merged with Bergens Kreditbank in 1920. The merger was dissolved later in the 1920s. He was also a landowner, owning Nedre Skøyen farm and a lot of land in Enebakk. He chaired the board of Nydalens Compagnie from 1926, having not been a board member before that. He also chaired the supervisory council of Forsikringsselskapet Viking and Nedre Glommen salgsforening, and was a supervisory council member of Filharmonisk Selskap. He was a member of the gentlemen's club SK Fram since 1890, and was proclaimed a lifetime member in 1964. He was buried in Enebakk.",
+    "James Armour (15 January 1730 – 20 September 1798) was a master mason and father of Jean Armour, and therefore the father-in-law of the poet Robert Burns.",
+    "Theudebert I  (c. 503 – 547 or 548) was the Merovingian king of Austrasia from 533 to his death in 548. He was the son of Theuderic I and the father of Theudebald."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nWisigard was a Frankish queen in the 6th century.\nShe was the daughter of Wacho, king of the Lombards.\nWisigard married Theudebert I, Merovingian king of Austrasia.\nTheudebert I was the son of Theuderic I.\nTheudebert I's father, Theuderic I, is the father-in-law of Wisigard.\nTheudebert I's father is Theuderic I.\nTheuderic I is Wisigard's father-in-law.\n<answer> Theuderic I",
+  "predicted_answer": "Theuderic I",
+  "claims": [
+    "Wisigard was a Frankish queen in the 6th century",
+    "She was the daughter of Wacho, king of the Lombards",
+    "Wisigard married Theudebert I, Merovingian king of Austrasia",
+    "Theudebert I was the son of Theuderic I",
+    "Theudebert I's father, Theuderic I, is the father-in-law of Wisigard",
+    "Theudebert I's father is Theuderic I",
+    "Theuderic I is Wisigard's father-in-law"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Wisigard was a Frankish queen in the 6th century",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "She was the daughter of Wacho, king of the Lombards",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Wisigard married Theudebert I, Merovingian king of Austrasia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Theudebert I was the son of Theuderic I",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Theudebert I's father, Theuderic I, is the father-in-law of Wisigard",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Theudebert I's father is Theuderic I",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Theuderic I is Wisigard's father-in-law",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

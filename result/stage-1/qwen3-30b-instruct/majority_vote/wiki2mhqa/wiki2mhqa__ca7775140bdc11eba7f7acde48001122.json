@@ -1,0 +1,99 @@
+{
+  "uid": "wiki2mhqa__ca7775140bdc11eba7f7acde48001122",
+  "sample_id": "ca7775140bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the spouse of the director of film The Thin Line (1980 Film)?",
+  "gold_answer": "Moshé Mizrahi",
+  "context": [
+    "The Thin Line (translit. Al Hevel Dak) is a 1980 Israeli drama art film written and directed by Michal Bat-Adam. The film was selected as the Israeli entry for the Best Foreign Language Film at the 53rd Academy Awards, but was not accepted as a nominee.",
+    "Adib Kheir was a leading Syrian nationalist of the 1920s. He was the owner of the Librairie Universelle in Damascus. His granddaughter is the spouse of Manaf Tlass.",
+    "Heather Denise Gibson is a Scottish economist currently serving as Director- Advisor to the Bank of Greece( since 2011). She is the spouse of Euclid Tsakalotos, former Greek Minister of Finance.",
+    "Princess Auguste of Bavaria( 28 April 1877 – 25 June 1964) was a member of the Bavarian Royal House of Wittelsbach and the spouse of Archduke Joseph August of Austria.",
+    "Maria Teresa, Grand Duchess of Luxembourg( born María Teresa Mestre y Batista; on 22 March 1956), is the spouse of Grand Duke Henri.",
+    "Gertrude of Saxony and Bavaria( 1152/55–1197) was Duchess of Swabia as the spouse of Duke Frederick IV, and Queen of Denmark as the spouse of King Canute VI.",
+    "Sophia Magdalena of Denmark (3 July 1746 – 21 August 1813) was Queen of Sweden as the spouse of King Gustav III.",
+    "Michal Bat-Adam  is an Israeli film director, producer, screenwriter, actress, and musician. She is the first Israeli woman to direct a feature film. Her films deal with complex and conflicted relationships, especially relationships within families. She also explores the line between sanity and mental illness. Many of these movies contain autobiographical elements. As an actress, she has been noted for her work, especially for strong performances in the films of her husband, Moshé Mizrahi.",
+    "Mehdi Abrishamchi is an Iranian People's Mujahedin of Iran( MEK) politician who has been described as\" the right hand man of Massoud Rajavi\". He is the former spouse of the group's current leader, Maryam Rajavi, whom he divorced so that she could become the spouse of Massoud Rajavi.",
+    "Marie Louise Coidavid( 1778 – March 11, 1851), was the Queen of the Kingdom of Haiti 1811 – 20 as the spouse of Henri I of Haiti."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Thin Line (1980) was directed by Michal Bat-Adam.\nMichal Bat-Adam is an Israeli film director, producer, screenwriter, actress, and musician.\nShe is noted for her strong performances in films of her husband, Moshé Mizrahi.\nMoshé Mizrahi is the spouse of Michal Bat-Adam.\nThe spouse of the director of The Thin Line (1980) is Moshé Mizrahi.\n<answer> Moshé Mizrahi",
+  "predicted_answer": "Moshé Mizrahi",
+  "claims": [
+    "The Thin Line (1980) was directed by Michal Bat-Adam",
+    "Michal Bat-Adam is an Israeli film director, producer, screenwriter, actress, and musician",
+    "She is noted for her strong performances in films of her husband, Moshé Mizrahi",
+    "Moshé Mizrahi is the spouse of Michal Bat-Adam",
+    "The spouse of the director of The Thin Line (1980) is Moshé Mizrahi"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Thin Line (1980) was directed by Michal Bat-Adam",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Michal Bat-Adam is an Israeli film director, producer, screenwriter, actress, and musician",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "She is noted for her strong performances in films of her husband, Moshé Mizrahi",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Moshé Mizrahi is the spouse of Michal Bat-Adam",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The spouse of the director of The Thin Line (1980) is Moshé Mizrahi",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

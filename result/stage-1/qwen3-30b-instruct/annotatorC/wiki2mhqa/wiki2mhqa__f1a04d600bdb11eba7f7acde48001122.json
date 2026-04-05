@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__f1a04d600bdb11eba7f7acde48001122",
+  "sample_id": "f1a04d600bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of the director of film Dollar (1938 Film)?",
+  "gold_answer": "Helsingfors",
+  "context": [
+    "Caroline Dollar( born December 28, 1983) is an American actress.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Dollar is a 1938 Swedish comedy film directed by Gustaf Molander and starring Ingrid Bergman, Georg Rydeberg and Tutta Rolf. The film's art direction was by Arne Åkermark.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Drew Dollar( born December 2, 2000) is an American professional stock car racing driver. He currently competes full- time in the ARCA Menards Series, driving the No. 15 Toyota for Venturini Motorsports.",
+    "John Dollar( born 1961 in Georgia) is an American artist best known for his contributions to a number of RPG settings during the mid-to- late 90s( TSR properties and White Wolf's Changeling).",
+    "Gustaf Harald August Molander (18 November 1888 – 19 June 1973) was a Swedish actor and film director. His parents were director Harald Molander, Sr. (1858–1900) and singer and actress Lydia Molander, \"née\" Wessler, and his brother was director Olof Molander (1892–1966). He was the father of director and producer Harald Molander from his first marriage to actress Karin Molander and father to actor Jan Molander from his second marriage to Elsa Fahlberg (1892-1977). Gustaf Molander was born in Helsingfors (now Helsinki) in the Grand Duchy of Finland (in the Russian Empire), where his father was working at the Swedish Theatre. He studied in the school of the Royal Dramatic Theatre in Stockholm 1907–1909, acted at the Swedish theatre in Helsingfors 1909–1913, and then at the Royal Dramatic Theatre from 1913–1926. The last years there he headed the school; his students included Greta Garbo. Molander wrote several screenplays for Victor Sjöström and Mauritz Stiller, and was helped by the latter to get employment as a director for Svensk Filmindustri, where he worked 1923–1956. All in all, he directed sixty-two films. He often worked with Gösta Ekman, and his films include \"Intermezzo\" (1936), which became Ingrid Bergman's breakthrough and paved her way to America, where she starred in the 1939 Hollywood remake of the film.",
+    "Aubrey Dollar( born September 23, 1980) is an American television and film actress.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Negro Dollar( born July 24, 1989 in Comodoro Rivadavia, Argentina) is an Argentine rapper/ composer who was the first Crunk Argentine artist."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe film Dollar (1938) was directed by Gustaf Molander.\nGustaf Molander was born in Helsingfors (now Helsinki) in the Grand Duchy of Finland.\nThe Grand Duchy of Finland was part of the Russian Empire at the time of his birth.\nHelsingfors is located in present-day Finland.\nThe place of birth of the director of the film Dollar (1938) is Helsingfors.\n<answer> Helsingfors",
+  "predicted_answer": "Helsingfors",
+  "claims": [
+    "The film Dollar (1938) was directed by Gustaf Molander",
+    "Gustaf Molander was born in Helsingfors (now Helsinki) in the Grand Duchy of Finland",
+    "The Grand Duchy of Finland was part of the Russian Empire at the time of his birth",
+    "Helsingfors is located in present-day Finland",
+    "The place of birth of the director of the film Dollar (1938) is Helsingfors"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The film Dollar (1938) was directed by Gustaf Molander",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Gustaf Molander was born in Helsingfors (now Helsinki) in the Grand Duchy of Finland",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The Grand Duchy of Finland was part of the Russian Empire at the time of his birth",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Helsingfors is located in present-day Finland",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The place of birth of the director of the film Dollar (1938) is Helsingfors",
+      "claim_type": "DR"
+    }
+  ]
+}

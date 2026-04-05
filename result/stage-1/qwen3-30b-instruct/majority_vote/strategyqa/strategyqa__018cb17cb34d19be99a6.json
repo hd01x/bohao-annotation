@@ -1,0 +1,149 @@
+{
+  "uid": "strategyqa__018cb17cb34d19be99a6",
+  "sample_id": "018cb17cb34d19be99a6",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would Achilles dominate Legolas in a hypothetical fight?",
+  "gold_answer": "no",
+  "context": [
+    "Achilles was a Greek hero that was killed by an arrow to the heel.",
+    "Legolas is an elf archer from Lord of the Rings that can shoot arrows incredibly fast.",
+    "Achilles's companions included human warriors such as Ajax and Odysseus.",
+    "Legolas's companions include Gandalf who is a high level wizard, capable of casting many deadly spells."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAchilles was a Greek hero known for his strength and invulnerability except for his heel.\nAchilles was killed by an arrow to the heel, indicating vulnerability to archery.\nLegolas is an elf archer capable of shooting arrows with exceptional speed and accuracy.\nLegolas's companions include Gandalf, a powerful wizard, suggesting Legolas operates in a high-magic environment.\nAchilles fought in a mythological context without magical abilities or protection.\nLegolas possesses supernatural agility, archery skill, and likely magical endurance.\nAchilles's only known weakness is his heel, which is a specific target for archers.\nLegolas's archery skill would allow him to exploit Achilles's weakness effectively.\nAchilles would not dominate Legolas in a hypothetical fight.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Achilles was a Greek hero known for his strength and invulnerability except for his heel",
+    "Achilles was killed by an arrow to the heel, indicating vulnerability to archery",
+    "Legolas is an elf archer capable of shooting arrows with exceptional speed and accuracy",
+    "Legolas's companions include Gandalf, a powerful wizard, suggesting Legolas operates in a high-magic environment",
+    "Achilles fought in a mythological context without magical abilities or protection",
+    "Legolas possesses supernatural agility, archery skill, and likely magical endurance",
+    "Achilles's only known weakness is his heel, which is a specific target for archers",
+    "Legolas's archery skill would allow him to exploit Achilles's weakness effectively",
+    "Achilles would not dominate Legolas in a hypothetical fight"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Achilles was a Greek hero known for his strength and invulnerability except for his heel",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Achilles was killed by an arrow to the heel, indicating vulnerability to archery",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Legolas is an elf archer capable of shooting arrows with exceptional speed and accuracy",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Legolas's companions include Gandalf, a powerful wizard, suggesting Legolas operates in a high-magic environment",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Achilles fought in a mythological context without magical abilities or protection",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Legolas possesses supernatural agility, archery skill, and likely magical endurance",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Achilles's only known weakness is his heel, which is a specific target for archers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Legolas's archery skill would allow him to exploit Achilles's weakness effectively",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "Achilles would not dominate Legolas in a hypothetical fight",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

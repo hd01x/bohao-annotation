@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__fb3862c0ef8ef7e95bce",
+  "sample_id": "fb3862c0ef8ef7e95bce",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Teri Hatcher last twice as many episodes on Desperate Housewives as her Superman show?",
+  "gold_answer": "yes",
+  "context": [
+    "Actress Teri Hatcher completed a total of 180 episodes of Desperate Housewives.",
+    "Teri Hatcher starred in Lois & Clark: The New Adventures of Superman based on the Superman comic.",
+    "Teri Hatcher was in 87 episodes of Lois & Clark: The New Adventures of Superman."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nTeri Hatcher completed 180 episodes of Desperate Housewives.\nTeri Hatcher starred in 87 episodes of Lois & Clark: The New Adventures of Superman.\n87 episodes multiplied by 2 equals 174 episodes.\n180 episodes is greater than 174 episodes.\nTeri Hatcher lasted more than twice as many episodes on Desperate Housewives as on her Superman show.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Teri Hatcher completed 180 episodes of Desperate Housewives",
+    "Teri Hatcher starred in 87 episodes of Lois & Clark: The New Adventures of Superman",
+    "87 episodes multiplied by 2 equals 174 episodes",
+    "180 episodes is greater than 174 episodes",
+    "Teri Hatcher lasted more than twice as many episodes on Desperate Housewives as on her Superman show"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Teri Hatcher completed 180 episodes of Desperate Housewives",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Teri Hatcher starred in 87 episodes of Lois & Clark: The New Adventures of Superman",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "87 episodes multiplied by 2 equals 174 episodes",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "180 episodes is greater than 174 episodes",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Teri Hatcher lasted more than twice as many episodes on Desperate Housewives as on her Superman show",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

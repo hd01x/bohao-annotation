@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__fb8b656051c742f5bd27",
+  "sample_id": "fb8b656051c742f5bd27",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Lil Jon's top ranked Billboard song a collaboration with a member of The Lox?",
+  "gold_answer": "no",
+  "context": [
+    "Lil Jon's highest ranked billboard song was Yeah.",
+    "Yeah was a collaboration between Lil Jon, Usher, and Ludacris.",
+    "The Lox is a rap trio consisting of: Styles P, Sheek Louch, and Jadakiss."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLil Jon's highest ranked Billboard song was Yeah.\nYeah was a collaboration between Lil Jon, Usher, and Ludacris.\nThe Lox is a rap trio consisting of Styles P, Sheek Louch, and Jadakiss.\nNone of the members of The Lox were involved in the song Yeah.\nLil Jon's top ranked Billboard song was not a collaboration with a member of The Lox.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Lil Jon's highest ranked Billboard song was Yeah",
+    "Yeah was a collaboration between Lil Jon, Usher, and Ludacris",
+    "The Lox is a rap trio consisting of Styles P, Sheek Louch, and Jadakiss",
+    "None of the members of The Lox were involved in the song Yeah",
+    "Lil Jon's top ranked Billboard song was not a collaboration with a member of The Lox"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lil Jon's highest ranked Billboard song was Yeah",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Yeah was a collaboration between Lil Jon, Usher, and Ludacris",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Lox is a rap trio consisting of Styles P, Sheek Louch, and Jadakiss",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "None of the members of The Lox were involved in the song Yeah",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Lil Jon's top ranked Billboard song was not a collaboration with a member of The Lox",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

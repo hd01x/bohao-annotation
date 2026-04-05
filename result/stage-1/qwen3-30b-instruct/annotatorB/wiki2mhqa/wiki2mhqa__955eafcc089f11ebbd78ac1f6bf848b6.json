@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__955eafcc089f11ebbd78ac1f6bf848b6",
+  "sample_id": "955eafcc089f11ebbd78ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who lived longer, Octavius Hammond or Curumsey Damjee?",
+  "gold_answer": "Curumsey Damjee",
+  "context": [
+    "Gaius Julius Aquila was the name of a number of people who lived during the Roman Empire.",
+    "Justin( century) was a Latin writer who lived under the Roman Empire.",
+    "Fred H. Frank was a member of the Wisconsin State Assembly who lived in Appleton.",
+    "Joan Carden AO OBE( born 9 October 1937) is an Australian operatic soprano. She has been described as\" a worthy successor to Dame Nellie Melba and Dame Joan Sutherland\" and was sometimes known as\" the other Joan\"( a reference to Sutherland and Dame Joan Hammond) or\" The People's Diva\". She was a Principal Soprano with Opera Australia for 32 years, and was particularly associated with the title roles of Giacomo Puccini's\" Tosca\" and\" Madama Butterfly\". However, she sang over 50 other roles, from the 18th century, including virtually all the Mozart heroines, through to works by contemporary composers.",
+    "Mats Johan Olausson( 17 April 1961 – 18 February 2015) was a Swedish keyboard player known from bands such as Yngwie Malmsteen, Ark, Evil Masquerade, Kamelot, John Norum, and many others. Recently he lived in Thailand where he was active as a musician, composer and producer. Olausson played Korg Trinity Pro Tri PBS and Yamaha SY- 99, SY- 77, CS- 80. In the studio he also used a grand piano, Hammond B- 3 or C- 3. He was born in Gothenburg, Sweden. On 19 February 2015, Olausson's body was found in a hotel in Thailand, having died at least 24 hours earlier. He was 54.",
+    "R. Charlton, who lived in the early nineteenth century, was a Tyneside poet/ songwriter.",
+    "Maximus of Tyre( fl. late 2nd century AD), also known as Cassius Maximus Tyrius, was a Greek rhetorician and philosopher who lived in the time of the Antonines and Commodus, and who belongs to the trend of the Second Sophistic. His writings contain many allusions to the history of Greece, while there is little reference to Rome; hence it is inferred that he lived longer in Greece, perhaps as a professor at Athens. Although nominally a Platonist, he is really an Eclectic and one of the precursors of Neoplatonism.",
+    "Gertrude Demain Hammond or Mrs. McMurdie( 1862 – 21 July 1952) was a British painter and children's book illustrator. Hammond was born in Brixton. She is known for graphic design and typography, and exhibited from 1886 in London at the Royal Academy and Suffolk Street. Her 1904 work\" Memories\" was included in the book\" Women Painters of the World\".",
+    "Curumsey Damjee( also spelled Karamsi or Kasamshi Damji) JP, Rai Bahadur( 1844- 1918) was a noted businessman. Hailing from Waghura, a small village in remote Kutch he migrated to Bombay( now Mumbai) at a young age and became a very successful businessman, working with the Bombay Port Trust.",
+    "Octavius Hammond( 19 March 1835 – 22 August 1908) was an English clergyman and a first- class cricketer who played for Cambridge University between 1855 and 1857. He was born in Newmarket, Suffolk and died at Herringswell, also in Suffolk. Hammond played cricket for Cambridge University in eight matches that are now considered to be first- class across three seasons: three of the games were part of the University match series against Oxford University for which participants are awarded a Blue. He also played twice for a Cambridge Town Club\" aka\" Cambridgeshire side in first- class games and once for a team representing\" The Gentlemen of England\". A middle- order batsman, his best first- class innings was a score of 52 not out for the University side against the Cambridge Town Club in 1857."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nOctavius Hammond was born on 19 March 1835 and died on 22 August 1908.\nOctavius Hammond lived for 73 years and 156 days.\nCurumsey Damjee was born in 1844 and died in 1918.\nCurumsey Damjee lived for 74 years.\n74 years is greater than 73 years and 156 days.\nCurumsey Damjee lived longer than Octavius Hammond.\n<answer> Curumsey Damjee",
+  "predicted_answer": "Curumsey Damjee",
+  "claims": [
+    "Octavius Hammond was born on 19 March 1835 and died on 22 August 1908",
+    "Octavius Hammond lived for 73 years and 156 days",
+    "Curumsey Damjee was born in 1844 and died in 1918",
+    "Curumsey Damjee lived for 74 years",
+    "74 years is greater than 73 years and 156 days",
+    "Curumsey Damjee lived longer than Octavius Hammond"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Octavius Hammond was born on 19 March 1835 and died on 22 August 1908",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Octavius Hammond lived for 73 years and 156 days",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C3",
+      "text": "Curumsey Damjee was born in 1844 and died in 1918",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Curumsey Damjee lived for 74 years",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "74 years is greater than 73 years and 156 days",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "Curumsey Damjee lived longer than Octavius Hammond",
+      "claim_type": "DR"
+    }
+  ]
+}

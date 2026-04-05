@@ -1,0 +1,99 @@
+{
+  "uid": "wiki2mhqa__07f2140e0bdc11eba7f7acde48001122",
+  "sample_id": "07f2140e0bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of death of Flavia Domitilla (Saint)'s husband?",
+  "gold_answer": "Roman",
+  "context": [
+    "Flavia Domitilla may refer to:",
+    "Eutropia( died 350) was the daughter of Emperor Constantius Chlorus and of Flavia Maximiana Theodora, and therefore half- sister of Emperor Constantine the Great.",
+    "\" Where Was I?\" may refer to:",
+    "Titus Flavius T. f. T. n. Clemens was a nephew of the Roman Emperor Vespasian. He was the son of Titus Flavius Sabinus, consul \"suffectus\" in AD 69, and a brother of Titus Flavius Sabinus, consul in AD 82. The emperors Titus and Domitian were his cousins.",
+    "Flavia Domitilla, daughter of Domitilla the Younger by an unknown father, perhaps Quintus Petillius Cerialis, had the same name as her mother and her grandmother Domitilla the Elder. She was thus a granddaughter of Emperor Vespasian and a niece of Emperors Titus and Domitian. She married her cousin, the consul Titus Flavius Clemens, a grand-nephew of Vespasian through his father Titus Flavius Sabinus (consul AD 69). There is disagreement about whether the Flavia Domitilla mentioned in certain fourth-century and later Christian writings is the same person or another.",
+    "Flavia Domitilla the Younger or Flavia Domitilla Minor( c. 45 – c. 66) was the only daughter of the Roman Emperor Vespasian and Flavia Domitilla the Elder. Her elder brother was Titus, and her younger brother Domitian. At the age of fifteen, she was married to Quintus Petillius Cerialis, with whom she had a daughter, the later Christian saint Flavia Domitilla. Domitilla died before Vespasian became emperor in 69. She was later deified by her younger brother Domitian, who also bestowed the honorific title of\" Augusta\" upon her.",
+    "Flavia Domitilla the Younger or Flavia Domitilla Minor( c. 45 – c. 66) was the only daughter of the Roman Emperor Vespasian and Flavia Domitilla the Elder. Her elder brother was Titus, and her younger brother Domitian. At the age of fifteen, she was married to Quintus Petillius Cerialis, with whom she had a daughter, the later Christian saint Flavia Domitilla. Domitilla died before Vespasian became emperor in 69. She was later deified by her younger brother Domitian, who also bestowed the honorific title of\" Augusta\" upon her.",
+    "Motherland is the place of one's birth, the place of one's ancestors, or the place of origin of an ethnic group. Motherland may also refer to:",
+    "Flavia Domitilla Major(\" Major\", Latin for\" the elder\") Flavia Domitilla the Elder or Domitilla the Elder( died before 69, perhaps c. 65) was the wife of the Roman Emperor Vespasian.",
+    "Flavia Domitilla Major(\" Major\", Latin for\" the elder\") Flavia Domitilla the Elder or Domitilla the Elder( died before 69, perhaps c. 65) was the wife of the Roman Emperor Vespasian."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFlavia Domitilla (Saint) was the daughter of Flavia Domitilla the Younger and Quintus Petillius Cerialis.\nFlavia Domitilla the Younger was married to Quintus Petillius Cerialis.\nQuintus Petillius Cerialis was a Roman general and governor of Britain.\nThere is no mention of the place of death of Quintus Petillius Cerialis in the provided context.\nThe place of death of Flavia Domitilla (Saint)'s husband is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Flavia Domitilla (Saint) was the daughter of Flavia Domitilla the Younger and Quintus Petillius Cerialis",
+    "Flavia Domitilla the Younger was married to Quintus Petillius Cerialis",
+    "Quintus Petillius Cerialis was a Roman general and governor of Britain",
+    "There is no mention of the place of death of Quintus Petillius Cerialis in the provided context",
+    "The place of death of Flavia Domitilla (Saint)'s husband is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Flavia Domitilla (Saint) was the daughter of Flavia Domitilla the Younger and Quintus Petillius Cerialis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Flavia Domitilla the Younger was married to Quintus Petillius Cerialis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Quintus Petillius Cerialis was a Roman general and governor of Britain",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "There is no mention of the place of death of Quintus Petillius Cerialis in the provided context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The place of death of Flavia Domitilla (Saint)'s husband is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

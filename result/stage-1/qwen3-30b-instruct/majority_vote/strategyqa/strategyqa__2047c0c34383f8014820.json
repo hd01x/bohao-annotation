@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__2047c0c34383f8014820",
+  "sample_id": "2047c0c34383f8014820",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can the Swiss Guard fill the Virginia General Assembly chairs?",
+  "gold_answer": "no",
+  "context": [
+    "The Virginia General Assembly has 140 seats.",
+    "The Swiss Guard is an honour guard of Vatican City that consists of 135 men."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Virginia General Assembly has 140 seats.\nThe Swiss Guard consists of 135 men.\n135 is less than 140.\nThe Swiss Guard cannot fill all 140 seats in the Virginia General Assembly.\nThe Swiss Guard cannot fill the Virginia General Assembly chairs.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Virginia General Assembly has 140 seats",
+    "The Swiss Guard consists of 135 men",
+    "135 is less than 140",
+    "The Swiss Guard cannot fill all 140 seats in the Virginia General Assembly",
+    "The Swiss Guard cannot fill the Virginia General Assembly chairs"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Virginia General Assembly has 140 seats",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Swiss Guard consists of 135 men",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "135 is less than 140",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Swiss Guard cannot fill all 140 seats in the Virginia General Assembly",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Swiss Guard cannot fill the Virginia General Assembly chairs",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

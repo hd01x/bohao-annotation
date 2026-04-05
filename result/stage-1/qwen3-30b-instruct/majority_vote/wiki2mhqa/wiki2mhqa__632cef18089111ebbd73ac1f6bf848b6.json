@@ -1,0 +1,141 @@
+{
+  "uid": "wiki2mhqa__632cef18089111ebbd73ac1f6bf848b6",
+  "sample_id": "632cef18089111ebbd73ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film whose director is younger, The Last Face or The Jackhammer Massacre?",
+  "gold_answer": "The Last Face",
+  "context": [
+    "The Last Face is a 2016 American drama film directed by Sean Penn and written by Erin Dignam. The film stars Charlize Theron, Javier Bardem, Adèle Exarchopoulos, and Jean Reno. It was selected to compete for the Palme d' Or at the 2016 Cannes Film Festival, debuting to generally poor reviews. The film was released on DirecTV on June 29, 2017, before being released on video on demand and in theaters on July 28, 2017, by Saban Films.",
+    "La Bestia humana is a 1957 Argentine film whose story is based on the novel\" La Bête Humaine\" by the French writer Émile Zola.",
+    "Roman Smishko is a retired Ukrainian professional footballer who played as a goalkeeper. He is a younger brother of Ukrainian defender Bohdan Smishko.",
+    "Dmitri Nikolayevich Varfolomeyev( born 15 March 1978 in Leningrad) is a former Russian football player. He is a younger brother of Sergei Varfolomeyev.",
+    "Joseph Armand\" Joe\" Castro( August 15, 1927 – December 13, 2009) was an American bebop jazz pianist, based primarily on the West Coast of the United States.",
+    "The Jackhammer Massacre is a 2004 horror film written and directed by Joe Castro, and co-written by Daniel Benton. It stars Kyle Yaskin and Aaron Gaffey.",
+    "Vadim Nikolayevich Vlasov( born 19 December 1980) is a former Russian football player. He is a younger brother of Dmitri Vlasov.",
+    "Miloš Zličić( born 29 December 1999) is a Serbian football forward. He is a younger brother of Lazar Zličić.",
+    "Sibongile Mlambo( born 25 June 1990) is a Zimbabwean actress based in the United States. She is known for starring in the Starz historical adventure television series\" Black Sails\" and in films and\" The Last Face\". She is also best known for her role as Tamora Monroe on the MTV television series\" Teen Wolf\" and as Donna on the Freeform television series\" Siren\".",
+    "Sean Justin Penn( born August 17, 1960) is an American actor, director, and filmmaker. He has won two Academy Awards, for his roles in the mystery drama\" Mystic River\"( 2003) and the biopic\" Milk\"( 2008). Penn began his acting career in television, with a brief appearance in episode 112 of\" Little House on the Prairie\" on December 4, 1974, and directed by his father Leo Penn. Following his film debut in the drama\" Taps\"( 1981), and a diverse range of film roles in the 1980s, including\" Fast Times at Ridgemont High\"( 1982), Penn garnered critical attention for his roles in the crime dramas\" At Close Range\"( 1986),\" State of Grace\"( 1990), and\" Carlito's Way\"( 1993). He became known as a prominent leading actor with the drama\" Dead Man Walking\"( 1995), for which he earned his first Academy Award nomination and the Best Actor Award at the Berlin Film Festival. Penn received another two Oscar nominations for Woody Allen's comedy- drama\" Sweet and Lowdown\"( 1999) and the drama\" I Am Sam\"( 2001), before winning his first Academy Award for Best Actor in 2003 for\" Mystic River\" and a second one in 2008 for\" Milk\". He has also won a Best Actor Award at the Cannes Film Festival for the Nick Cassavetes- directed\" She's So Lovely\"( 1997), and two Best Actor Awards at the Venice Film Festival for the indie film\" Hurlyburly\"( 1998) and the drama\" 21 Grams\"( 2003). Penn made his feature film directorial debut with\" The Indian Runner\"( 1991), followed by the drama film\" The Crossing Guard\"( 1995) and the mystery film\" The Pledge\"( 2001). Penn directed one of the 11 segments of\" 11'09\" 01 September 11\"( 2002), a compilation film made in response to the September 11 attacks. His fourth feature film, the biographical drama survival movie\" Into the Wild\"( 2007), garnered critical acclaim and two Academy Award nominations. In addition to his film work, Penn has engaged in political and social activism, including his criticism of the George W. Bush administration, his contact with the Presidents of Cuba and Venezuela, and his humanitarian work in the aftermath of Hurricane Katrina in 2005 and the 2010 Haiti earthquake."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Last Face is a 2016 film directed by Sean Penn.\nSean Penn was born on August 17, 1960.\nThe Jackhammer Massacre is a 2004 film directed by Joe Castro.\nJoe Castro was born on August 15, 1927.\n1927 is earlier than 1960.\nJoe Castro is older than Sean Penn.\nThe director of The Jackhammer Massacre is older than the director of The Last Face.\nThe film with the younger director is The Last Face.\n<answer> The Last Face",
+  "predicted_answer": "The Last Face",
+  "claims": [
+    "The Last Face is a 2016 film directed by Sean Penn",
+    "Sean Penn was born on August 17, 1960",
+    "The Jackhammer Massacre is a 2004 film directed by Joe Castro",
+    "Joe Castro was born on August 15, 1927",
+    "1927 is earlier than 1960",
+    "Joe Castro is older than Sean Penn",
+    "The director of The Jackhammer Massacre is older than the director of The Last Face",
+    "The film with the younger director is The Last Face"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Last Face is a 2016 film directed by Sean Penn",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Sean Penn was born on August 17, 1960",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Jackhammer Massacre is a 2004 film directed by Joe Castro",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Joe Castro was born on August 15, 1927",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1927 is earlier than 1960",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Joe Castro is older than Sean Penn",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The director of The Jackhammer Massacre is older than the director of The Last Face",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The film with the younger director is The Last Face",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

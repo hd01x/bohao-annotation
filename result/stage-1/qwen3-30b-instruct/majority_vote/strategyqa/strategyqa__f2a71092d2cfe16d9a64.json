@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__f2a71092d2cfe16d9a64",
+  "sample_id": "f2a71092d2cfe16d9a64",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does Post Malone have a fear of needles?",
+  "gold_answer": "no",
+  "context": [
+    "Post Malone's body is covered with many tattoos.",
+    "The most common method of tattooing in modern times is the electric tattoo machine, which inserts ink into the skin via a single needle or a group of needles that are soldered onto a bar, which is attached to an oscillating unit."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPost Malone has many tattoos on his body.\nTattoos are created using needles to insert ink into the skin.\nThe most common method of tattooing involves the use of needles.\nThe presence of tattoos indicates that Post Malone has undergone needle-based procedures.\nHaving tattoos suggests that Post Malone is not afraid of needles.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Post Malone has many tattoos on his body",
+    "Tattoos are created using needles to insert ink into the skin",
+    "The most common method of tattooing involves the use of needles",
+    "The presence of tattoos indicates that Post Malone has undergone needle-based procedures",
+    "Having tattoos suggests that Post Malone is not afraid of needles"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Post Malone has many tattoos on his body",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Tattoos are created using needles to insert ink into the skin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The most common method of tattooing involves the use of needles",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The presence of tattoos indicates that Post Malone has undergone needle-based procedures",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Having tattoos suggests that Post Malone is not afraid of needles",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

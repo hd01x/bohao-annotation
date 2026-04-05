@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__fda4d970e12b123e59e6",
+  "sample_id": "fda4d970e12b123e59e6",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can someone from New England profit by growing coffee?",
+  "gold_answer": "no",
+  "context": [
+    "Coffee can only be grown in subtropical and equatorial climates",
+    "New England is located in a humid continental climate"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCoffee can only be grown in subtropical and equatorial climates.\nNew England has a humid continental climate.\nSubtropical and equatorial climates are not found in New England.\nGrowing coffee in New England is not feasible due to climate constraints.\nSomeone from New England cannot profit by growing coffee.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Coffee can only be grown in subtropical and equatorial climates",
+    "New England has a humid continental climate",
+    "Subtropical and equatorial climates are not found in New England",
+    "Growing coffee in New England is not feasible due to climate constraints",
+    "Someone from New England cannot profit by growing coffee"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Coffee can only be grown in subtropical and equatorial climates",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "New England has a humid continental climate",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Subtropical and equatorial climates are not found in New England",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Growing coffee in New England is not feasible due to climate constraints",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Someone from New England cannot profit by growing coffee",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

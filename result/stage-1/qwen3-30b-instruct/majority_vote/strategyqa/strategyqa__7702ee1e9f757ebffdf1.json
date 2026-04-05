@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__7702ee1e9f757ebffdf1",
+  "sample_id": "7702ee1e9f757ebffdf1",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did any country in Portuguese Colonial War share Switzerlands role in WWII?",
+  "gold_answer": "yes",
+  "context": [
+    "The Portuguese Colonial War was between Portugal and several groups including People's Movement for Liberation of Angola.",
+    "Switzerland remained neutral in World War II and did not get involved.",
+    "Portugal stayed out of world affairs during World War II."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Portuguese Colonial War involved Portugal and several liberation groups, including the People's Movement for Liberation of Angola.\nPortugal stayed out of world affairs during World War II.\nSwitzerland remained neutral in World War II and did not get involved.\nPortugal's stance during World War II was one of neutrality, similar to Switzerland.\nThe country that shared Switzerland's role in WWII was Portugal.\n<answer> Portugal",
+  "predicted_answer": "Portugal",
+  "claims": [
+    "The Portuguese Colonial War involved Portugal and several liberation groups, including the People's Movement for Liberation of Angola",
+    "Portugal stayed out of world affairs during World War II",
+    "Switzerland remained neutral in World War II and did not get involved",
+    "Portugal's stance during World War II was one of neutrality, similar to Switzerland",
+    "The country that shared Switzerland's role in WWII was Portugal"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Portuguese Colonial War involved Portugal and several liberation groups, including the People's Movement for Liberation of Angola",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Portugal stayed out of world affairs during World War II",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Switzerland remained neutral in World War II and did not get involved",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Portugal's stance during World War II was one of neutrality, similar to Switzerland",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The country that shared Switzerland's role in WWII was Portugal",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

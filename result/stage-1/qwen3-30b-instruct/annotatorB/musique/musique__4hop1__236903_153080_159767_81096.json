@@ -1,0 +1,81 @@
+{
+  "uid": "musique__4hop1__236903_153080_159767_81096",
+  "sample_id": "4hop1__236903_153080_159767_81096",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who won the Indy Car Race in the largest city and state of the state where the performer of East Coasting is from?",
+  "gold_answer": "Mario Andretti",
+  "context": [
+    "Kranj railway station () is the railway station in Kranj, the third largest municipality and fourth largest city in Slovenia. The station is located on the railway line between Ljubljana, the capital city of Slovenia, and Villach, Austria.",
+    "Remire-Montjoly is a suburb of Cayenne, the capital \"préfecture\" and largest city of French Guiana. It is located to the south-east of Cayenne. Residential districts are located along some of the best beaches in the Cayenne area.",
+    "Arizona ( (listen); Navajo: Hoozdo Hahoodzo Navajo pronunciation: [xòːztò xɑ̀xòːtsò]; O'odham: Alĭ ṣonak Uto-Aztecan pronunciation: [ˡaɺi ˡʂonak]) is a state in the southwestern region of the United States. It is also part of the Western and the Mountain states. It is the sixth largest and the 14th most populous of the 50 states. Its capital and largest city is Phoenix. Arizona shares the Four Corners region with Utah, Colorado, and New Mexico; its other neighboring states are Nevada and California to the west and the Mexican states of Sonora and Baja California to the south and southwest.",
+    "Tennessee (i/tɛnᵻˈsiː/) (Cherokee: ᏔᎾᏏ, Tanasi) is a state located in the southeastern United States. Tennessee is the 36th largest and the 17th most populous of the 50 United States. Tennessee is bordered by Kentucky and Virginia to the north, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, and Arkansas and Missouri to the west. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms the state's western border. Tennessee's capital and second largest city is Nashville, which has a population of 601,222. Memphis is the state's largest city, with a population of 653,450.",
+    "Boston (pronounced i/ˈbɒstən/) is the capital and largest city of the Commonwealth of Massachusetts in the United States. Boston also served as the historic county seat of Suffolk County until Massachusetts disbanded county government in 1999. The city proper covers 48 square miles (124 km2) with an estimated population of 655,884 in 2014, making it the largest city in New England and the 24th largest city in the United States. The city is the economic and cultural anchor of a substantially larger metropolitan area called Greater Boston, home to 4.7 million people and the tenth-largest metropolitan statistical area in the country. Greater Boston as a commuting region is home to 8.1 million people, making it the sixth-largest combined statistical area in the United States.",
+    "East Coasting is an album by Charles Mingus, recorded and released in 1957. It was reissued on CD with bonus takes in 1993.",
+    "Tallahassee / ˌtæləˈhæsi / is the capital of the U.S. state of Florida. It is the county seat and only incorporated municipality in Leon County. Tallahassee became the capital of Florida, then the Florida Territory, in 1824. In 2016, the population was 190,894, making it the 7th - largest city in the U.S state of Florida, and the 126th - largest city in the United States. The population of the Tallahassee metropolitan area was 379,627 as of 2016. Tallahassee is the largest city in the Florida Panhandle region, and the main center for trade and agriculture in the Florida Big Bend and Southwest Georgia regions.",
+    "Kolkata, formerly known as Calcutta in English, is the capital of the Indian state of West Bengal and is located in eastern India on the east bank of the River Hooghly. The city was a colonial city developed by the British East India Company and then by the British Empire. Kolkata was the capital of the British Indian empire until 1911 when the capital was relocated to Delhi. Kolkata grew rapidly in the 19th century to become the second city of the British Empire. This was accompanied by the development of a culture that fused European philosophies with Indian tradition.",
+    "Nicaragua (/ ˌnɪkəˈrɑːɡwə, - ˈræɡ -, - ɡjuə / (listen); Spanish: (nikaˈɾaɣwa)), officially the Republic of Nicaragua (Spanish: República de Nicaragua (help info)), is the largest country in the Central American isthmus, bordered by Honduras to the north, the Caribbean to the east, Costa Rica to the south, and the Pacific Ocean to the west. Managua is the country's capital and largest city and is also the third - largest city in Central America, behind Tegucigalpa and Guatemala City. The multi-ethnic population of six million includes people of indigenous, European, African, and Asian heritage. The main language is Spanish. Native tribes on the Mosquito Coast speak their own languages and English.",
+    "Oklahoma City Community College in south Oklahoma City is the second-largest community college in the state. Rose State College is located east of Oklahoma City in suburban Midwest City. Oklahoma State University–Oklahoma City is located in the \"Furniture District\" on the Westside. Northeast of the city is Langston University, the state's historically black college (HBCU). Langston also has an urban campus in the eastside section of the city. Southern Nazarene University, which was founded by the Church of the Nazarene, is a university located in suburban Bethany, which is surrounded by the Oklahoma City city limits.",
+    "Jakarta (/ dʒ əˈkɑːrtə /, Indonesian pronunciation: (dʒaˈkarta)), officially the Special Capital Region of Jakarta, is the capital of Indonesia, which was formerly known as Batavia during Dutch East Indies and Sunda Kelapa during Sunda Kingdom. Located on the northwest coast of the world's most populous island of Java, Jakarta is the center of economics, culture and politics of Indonesia, with a population of 10,075,310 as of 2014. Greater Jakarta metropolitan area, which is known as Jabodetabek (a name formed by combining the initial syllables of Jakarta, Bogor, Depok, Tangerang and Bekasi), is the second largest urban agglomeration and 2nd largest city area in the world after Tokyo, with a population of 30,214,303 inhabitants as of 2010 census. Jakarta's business opportunities, as well as its potential to offer a higher standard of living, attract migrants from all over the Indonesian archipelago, making it a melting pot of many communities and cultures. Jakarta is officially a province with special capital region status, yet is commonly referred to as a city. The Jakarta provincial government administers five administrative cities and one administrative regency.",
+    "Saint Paul (abbreviated St. Paul) is the capital and second-most populous city of the U.S. state of Minnesota. As of 2017, the city's estimated population was 309,180. Saint Paul is the county seat of Ramsey County, the smallest and most densely populated county in Minnesota. The city lies mostly on the east bank of the Mississippi River in the area surrounding its point of confluence with the Minnesota River, and adjoins Minneapolis, the state's largest city. Known as the ``Twin Cities '', the two form the core of Minneapolis -- Saint Paul, the 16th - largest metropolitan area in the United States, with about 3.6 million residents.",
+    "After a hiatus of eleven years, the race was revived by the Verizon IndyCar Series in 2016. It was held on Saturday night under the lights. Long considered a popular Indy car track, Phoenix has a rich history of open wheel races, including a spectacular crash involving Johnny Rutherford (1980), and the final career victory for Indy legend Mario Andretti (1993).",
+    "The capital is Nashville, though Knoxville, Kingston, and Murfreesboro have all served as state capitals in the past. Memphis has the largest population of any city in the state. Nashville's 13-county metropolitan area has been the state's largest since c. 1990. Chattanooga and Knoxville, both in the eastern part of the state near the Great Smoky Mountains, each has approximately one-third of the population of Memphis or Nashville. The city of Clarksville is a fifth significant population center, some 45 miles (72 km) northwest of Nashville. Murfreesboro is the sixth-largest city in Tennessee, consisting of some 108,755 residents.",
+    "Hagerty Insurance Agency, styled just Hagerty, is an insurance company specializing in classic car insurance based in Traverse City, Michigan, in the United States. The company is the leading insurance agency for collector vehicles in the world and host to the largest network of collector car owners. They have also been recognized as \"largest insurance agency for collector cars in the United States.\"",
+    "Doha (Arabic: الدوحة ‎ ‎, ad - Dawḥa or ad - Dōḥa, pronounced (addawħa), literally in MSA: ``the big tree '', locally:`` rounded bays'') is the capital city and most populous city of the State of Qatar. Doha has a population of 1,351,000 in a city proper with the population close to 1.5 million. The city is located on the coast of the Persian Gulf in the east of the country. It is Qatar's fastest growing city, with over 50% of the nation's population living in Doha or its surrounding suburbs, and it is also the economic center of the country.",
+    "Savannah (/ səˈvænə /) is the oldest city in the U.S. state of Georgia and is the county seat of Chatham County. Established in 1733 on the Savannah River, the city of Savannah became the British colonial capital of the Province of Georgia and later the first state capital of Georgia. A strategic port city in the American Revolution and during the American Civil War, Savannah is today an industrial center and an important Atlantic seaport. It is Georgia's fifth - largest city and third - largest metropolitan area.",
+    "Charles Mingus was born in Nogales, Arizona. His father, Charles Mingus Sr., was a sergeant in the U.S. Army. Mingus was largely raised in the Watts area of Los Angeles. His maternal grandfather was a Chinese British subject from Hong Kong, and his maternal grandmother was an African-American from the southern United States. Mingus was the third great-grandson of the family's founding patriarch who was, by most accounts, a German immigrant. His ancestors included German American, African American, and Native American.",
+    "Oklahoma had 598 incorporated places in 2010, including four cities over 100,000 in population and 43 over 10,000. Two of the fifty largest cities in the United States are located in Oklahoma, Oklahoma City and Tulsa, and 65 percent of Oklahomans live within their metropolitan areas, or spheres of economic and social influence defined by the United States Census Bureau as a metropolitan statistical area. Oklahoma City, the state's capital and largest city, had the largest metropolitan area in the state in 2010, with 1,252,987 people, and the metropolitan area of Tulsa had 937,478 residents. Between 2000 and 2010, the cities that led the state in population growth were Blanchard (172.4%), Elgin (78.2%), Jenks (77.0%), Piedmont (56.7%), Bixby (56.6%), and Owasso (56.3%).",
+    "Los Angeles (at 3.7 million people) and San Diego (at 1.3 million people), both in southern California, are the two largest cities in all of California (and two of the eight largest cities in the United States). In southern California there are also twelve cities with more than 200,000 residents and 34 cities over 100,000 in population. Many of southern California's most developed cities lie along or in close proximity to the coast, with the exception of San Bernardino and Riverside."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCharles Mingus, the performer of East Coasting, was born in Nogales, Arizona.\nArizona is the state where Charles Mingus was born.\nThe largest city in Arizona is Phoenix.\nThe Indy Car Race was revived in 2016 and held in Phoenix.\nThe race was held on Saturday night under the lights at Phoenix Raceway.\nThe winner of the 2016 Indy Car Race in Phoenix was Will Power.\nWill Power won the Indy Car Race in the largest city and state of the state where the performer of East Coasting is from.\n<answer> Will Power",
+  "predicted_answer": "Will Power",
+  "claims": [
+    "Charles Mingus, the performer of East Coasting, was born in Nogales, Arizona",
+    "Arizona is the state where Charles Mingus was born",
+    "The largest city in Arizona is Phoenix",
+    "The Indy Car Race was revived in 2016 and held in Phoenix",
+    "The race was held on Saturday night under the lights at Phoenix Raceway",
+    "The winner of the 2016 Indy Car Race in Phoenix was Will Power",
+    "Will Power won the Indy Car Race in the largest city and state of the state where the performer of East Coasting is from"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Charles Mingus, the performer of East Coasting, was born in Nogales, Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Arizona is the state where Charles Mingus was born",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C3",
+      "text": "The largest city in Arizona is Phoenix",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The Indy Car Race was revived in 2016 and held in Phoenix",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The race was held on Saturday night under the lights at Phoenix Raceway",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The winner of the 2016 Indy Car Race in Phoenix was Will Power",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "Will Power won the Indy Car Race in the largest city and state of the state where the performer of East Coasting is from",
+      "claim_type": "DR"
+    }
+  ]
+}

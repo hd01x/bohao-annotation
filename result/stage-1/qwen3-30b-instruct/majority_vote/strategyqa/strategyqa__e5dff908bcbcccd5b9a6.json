@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__e5dff908bcbcccd5b9a6",
+  "sample_id": "e5dff908bcbcccd5b9a6",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is being 5 year Capital One Venture member more cost effective than being in Church of Satan?",
+  "gold_answer": "no",
+  "context": [
+    "The Capital One Venture card has an annual fee of around $95.",
+    "The Church of Satan has a one time lifetime membership fee of $225."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Capital One Venture card has an annual fee of $95.\nA 5-year membership in the Capital One Venture card costs $95 × 5 = $475.\nThe Church of Satan has a one-time lifetime membership fee of $225.\n$225 is less than $475.\nBeing a 5-year Capital One Venture member costs more than a lifetime membership in the Church of Satan.\nBeing a 5-year Capital One Venture member is not more cost effective than being in the Church of Satan.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Capital One Venture card has an annual fee of $95",
+    "A 5-year membership in the Capital One Venture card costs $95 × 5 = $475",
+    "The Church of Satan has a one-time lifetime membership fee of $225",
+    "$225 is less than $475",
+    "Being a 5-year Capital One Venture member costs more than a lifetime membership in the Church of Satan",
+    "Being a 5-year Capital One Venture member is not more cost effective than being in the Church of Satan"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Capital One Venture card has an annual fee of $95",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "A 5-year membership in the Capital One Venture card costs $95 × 5 = $475",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Church of Satan has a one-time lifetime membership fee of $225",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "$225 is less than $475",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Being a 5-year Capital One Venture member costs more than a lifetime membership in the Church of Satan",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Being a 5-year Capital One Venture member is not more cost effective than being in the Church of Satan",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__c42d951f2b8339998c71",
+  "sample_id": "c42d951f2b8339998c71",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are the majority of Reddit users familiar with the Pledge of Allegiance?",
+  "gold_answer": "yes",
+  "context": [
+    "55% of the Reddit user base comes from the United States.",
+    "Congressional sessions open with the recital of the Pledge, as do many government meetings at local levels, and meetings held by many private organizations.",
+    "All states except California, Hawaii, Iowa, Vermont, and Wyoming require a regularly scheduled recitation of the pledge in public schools."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\n55% of the Reddit user base comes from the United States.\nAll states except California, Hawaii, Iowa, Vermont, and Wyoming require a regularly scheduled recitation of the Pledge of Allegiance in public schools.\nPublic school students in the United States are exposed to the Pledge of Allegiance during their education.\nThe majority of Reddit users are from the United States.\nThe majority of Reddit users are likely to have been exposed to the Pledge of Allegiance during their schooling.\nThe majority of Reddit users are familiar with the Pledge of Allegiance.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "55% of the Reddit user base comes from the United States",
+    "All states except California, Hawaii, Iowa, Vermont, and Wyoming require a regularly scheduled recitation of the Pledge of Allegiance in public schools",
+    "Public school students in the United States are exposed to the Pledge of Allegiance during their education",
+    "The majority of Reddit users are from the United States",
+    "The majority of Reddit users are likely to have been exposed to the Pledge of Allegiance during their schooling",
+    "The majority of Reddit users are familiar with the Pledge of Allegiance"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "55% of the Reddit user base comes from the United States",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "All states except California, Hawaii, Iowa, Vermont, and Wyoming require a regularly scheduled recitation of the Pledge of Allegiance in public schools",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Public school students in the United States are exposed to the Pledge of Allegiance during their education",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The majority of Reddit users are from the United States",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The majority of Reddit users are likely to have been exposed to the Pledge of Allegiance during their schooling",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The majority of Reddit users are familiar with the Pledge of Allegiance",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

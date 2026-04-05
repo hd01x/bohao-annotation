@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__2fd031c00bde11eba7f7acde48001122",
+  "sample_id": "2fd031c00bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where did the director of film Desolation Angels (1995 Film) graduate from?",
+  "gold_answer": "State University of New York at Purchase",
+  "context": [
+    "Tim McCann (born June 21, 1965) is an American film director and a professor of film at his alma mater, the State University of New York at Purchase.",
+    "Jason Moore( born October 22, 1970) is an American director of film, theatre and television.",
+    "Now Where Did the 7th Company Get To? is a 1973 French- Italian comedy war film directed by Robert Lamoureux. The film portrays the adventures of a French Army squad lost somewhere on the front in May 1940 during the Battle of France.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "The Seventh Company Outdoors is a 1977 French comedy film directed by Robert Lamoureux. It is a sequel to Now Where Did the 7th Company Get to ?.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Desolation Angels is a 1995 independent film written and directed by Tim McCann. The film premiered at the 1995 Telluride Film Festival. It then won the International Critics Prize (FIPRESCI Prize) at the Toronto International Film Festival, and was accepted to the Rotterdam Film Festival.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDesolation Angels (1995) was directed by Tim McCann.\nTim McCann is a professor of film at the State University of New York at Purchase.\nTim McCann is an alumnus of the State University of New York at Purchase.\nThe director of Desolation Angels (1995) graduated from the State University of New York at Purchase.\n<answer> State University of New York at Purchase",
+  "predicted_answer": "State University of New York at Purchase",
+  "claims": [
+    "Desolation Angels (1995) was directed by Tim McCann",
+    "Tim McCann is a professor of film at the State University of New York at Purchase",
+    "Tim McCann is an alumnus of the State University of New York at Purchase",
+    "The director of Desolation Angels (1995) graduated from the State University of New York at Purchase"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Desolation Angels (1995) was directed by Tim McCann",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Tim McCann is a professor of film at the State University of New York at Purchase",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Tim McCann is an alumnus of the State University of New York at Purchase",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The director of Desolation Angels (1995) graduated from the State University of New York at Purchase",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

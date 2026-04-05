@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__6837abca0bb011ebab90acde48001122",
+  "sample_id": "6837abca0bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Princess Adrienne, Duchess Of Blekinge's mother?",
+  "gold_answer": "Princess Madeleine, Duchess of Hälsingland and Gästrikland",
+  "context": [
+    "May Green Hinckley( May 1, 1881 – May 2, 1943) was the third general president of the Primary of The Church of Jesus Christ of Latter- day Saints( LDS Church) from 1940 until her death. She was the stepmother of Gordon B. Hinckley, fifteenth president of the LDS Church.",
+    "Dorothy Karolyn Granger( November 21, 1911 – January 4, 1995) was an American actress best known for her roles in short subject comedies in Hollywood. She was also the stepmother of film maker and former record producer Anthony J. Hilder.",
+    "Princess Adrienne of Sweden, Duchess of Blekinge (Adrienne Josephine Alice Bernadotte; born 9 March 2018) is the third child and second daughter of Princess Madeleine and Christopher O'Neill. She is a granddaughter of King Carl XVI Gustaf and Queen Silvia. She is tenth in the line of succession to the Swedish throne.",
+    "Jane Wigham( née Smeal; 1801–1888) was a leading Scottish abolitionist. She was the stepmother of Eliza Wigham and the second wife of John Wigham.",
+    "Marguerite of Lorraine( 22 July 1615 – 13 April 1672), Duchess of Orléans, was the wife of Gaston, younger brother of Louis XIII of France. As Gaston had married her in secret in defiance of the King; Louis had their marriage nullified when it became known. On his deathbed, Louis permitted them to marry. After their remarriage, Marguerite and Gaston had five children. She was the stepmother of\" La Grande Mademoiselle\".",
+    "Henriette Feuerbach( 13 August 1812 – 5 August 1892) was a German author and arts patron. She was the wife of Joseph Anselm Feuerbach and the stepmother of painter Anselm Feuerbach, whom she supported in his art.",
+    "Verona Barnes( born December 29, 1946) is an American actress who appeared in multiple New York City theater plays. She is the stepmother of actress Rachel True. Her roles include Mrs. Harris and the Street Person in\" All God's Chillun Got Wings,\" as well as Jack's friend in\" The Great White Hope\".",
+    "Christopher Paul O'Neill, KNO (born 27 June 1974) is a British-American financier and husband of Princess Madeleine, Duchess of Hälsingland and Gästrikland, a daughter of King Carl XVI Gustaf of Sweden.",
+    "Duchess Marie of Württemberg (Antoinette Friederike Auguste Marie Anna Herzogin von Württemberg; 17 September 1799 – 24 September 1860) was a daughter of Duke Alexander of Württemberg and Antoinette of Saxe-Coburg-Saalfeld. She was Duchess of Saxe-Coburg and Gotha from 1832 to 1844 as the second wife of Duke Ernest I. As such, she was the stepmother of Prince Albert, consort of Queen Victoria.",
+    "Edith Irene Bailey Baker( November 17, 1901 – April 2, 1994) was an American politician and a United States Representative from Tennessee. She was the widow of Howard Baker Sr. and the stepmother of Howard Baker Jr."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPrincess Adrienne of Sweden, Duchess of Blekinge, was born on 9 March 2018.\nShe is the third child and second daughter of Princess Madeleine and Christopher O'Neill.\nPrincess Madeleine is the daughter of King Carl XVI Gustaf and Queen Silvia of Sweden.\nPrincess Adrienne's mother is Princess Madeleine of Sweden.\n<answer> Princess Madeleine of Sweden",
+  "predicted_answer": "Princess Madeleine of Sweden",
+  "claims": [
+    "Princess Adrienne of Sweden, Duchess of Blekinge, was born on 9 March 2018",
+    "She is the third child and second daughter of Princess Madeleine and Christopher O'Neill",
+    "Princess Madeleine is the daughter of King Carl XVI Gustaf and Queen Silvia of Sweden",
+    "Princess Adrienne's mother is Princess Madeleine of Sweden"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Princess Adrienne of Sweden, Duchess of Blekinge, was born on 9 March 2018",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "She is the third child and second daughter of Princess Madeleine and Christopher O'Neill",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Princess Madeleine is the daughter of King Carl XVI Gustaf and Queen Silvia of Sweden",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Princess Adrienne's mother is Princess Madeleine of Sweden",
+      "claim_type": "DR"
+    }
+  ]
+}

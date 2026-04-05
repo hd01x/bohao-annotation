@@ -1,0 +1,125 @@
+{
+  "uid": "musique__4hop1__89530_624859_355213_203322",
+  "sample_id": "4hop1__89530_624859_355213_203322",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What county shares a border with the other county, that contains the city, where the singer of Hungry Eyes in the movie Dirty Dancing, was born?",
+  "gold_answer": "Cabarrus County",
+  "context": [
+    "The Definitive Collection is a 1997 greatest hits compilation album of all the singles released by Cleveland, Ohio singer-songwriter Eric Carmen. It features five hits by the Raspberries, a power pop group which he led in the early 1970s. It also contains his versions of two major hits which he wrote for Shaun Cassidy, two popular songs from the movie \"Dirty Dancing\", and his greatest hit, \"All By Myself\".",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city. It shares borders with the city in two areas, but is surrounded mostly by other suburbs.",
+    "Hungry Jack's Pty Ltd is the exclusive Australian master fast food franchise of Burger King Corporation. It is a wholly owned subsidiary of Competitive Foods Australia, a privately held company owned by Jack Cowin. Hungry Jack's owns and operates or sub-licences all of the Burger King / Hungry Jack's restaurants in Australia. As the master franchise for the country, the company is responsible for licensing new operators, opening its own stores and performing standards oversight of franchised locations in that country. With over 390 locations across Australia, Hungry Jack's is the second largest franchise of Burger King in the world (second to Carrols Corporation).",
+    "Adaba is one of the woredas in the Oromia Region of Ethiopia; it shares the name of its administrative center, Adaba. Part of the West Arsi Zone, Adaba is bordered on the southwest by Nensebo, on the west by Dodola, on the northwest by the Shabelle River which separates it from the Gedeb Asasa, and on the east and south by Bale Zone.",
+    "Krasnovishersky District () is an administrative district (raion) of Perm Krai, Russia; one of the thirty-three in the krai. Municipally, it is incorporated as Krasnovishersky Municipal District. It is located in the northeast of the krai, in the valley of the Vishera River, and borders with the Komi Republic in the north, Sverdlovsk Oblast in the east, Cherdynsky District in the west, Solikamsky District in the south, and with the territory of the town of krai significance of Alexandrovsk in the southeast. The area of the district is . Its administrative center is the town of Krasnovishersk. Population: The population of Krasnovishersk accounts for 71.4% of the district's total population.",
+    "Minsk Region or Minsk Voblasć or Minsk Oblast (, \"Minskaja vobłasć\" ; , \"Minskaja oblastj\") is one of the regions of Belarus. Its administrative center is Minsk, although it is a separate administrative territorial entity of Belarus. As of 2011, the region's population is 1,411,500.",
+    "\"Dirty Dancing\" is based in large part on screenwriter Eleanor Bergstein's own childhood: she is the younger daughter of a Jewish doctor from New York and had spent summers with her family in the Catskills where she participated in \"Dirty Dancing\" competitions; she was also nicknamed \"Baby\" herself as a girl. In 1980, Bergstein wrote a screenplay for the Michael Douglas film, \"It's My Turn\", however the producers cut an erotic dancing scene from the script, prompting her to conceive a new story that took inspiration from her youth dance competitions. In 1984, she pitched the idea to MGM executive Eileen Miselle, who liked it and teamed Bergstein with producer Linda Gottlieb. They set the film in 1963, with the character of Baby based on Bergstein's own life and the character of Johnny based on the stories of Michael Terrace, a dance instructor whom Bergstein met in the Catskills in 1985 while she was researching the story. She finished the script in November 1985, but management changes at MGM put the script into turnaround, or limbo.",
+    "Cleveland is a town in the Cleveland Township of Rowan County, North Carolina, United States. The population was 871 at the 2010 census.",
+    "Dirty Birds: The 1998 Atlanta Falcons (but is still a nickname for the Falcons). The name originates from an end zone dance started by Jamal Anderson that was adopted by all the players upon scoring.",
+    "``Hungry Eyes ''is a song performed by American artist Eric Carmen, a former member of the band Raspberries, and was featured in the film Dirty Dancing (1987). The song was recorded at Beachwood Studios in Beachwood, Ohio in 1987.`` Hungry Eyes'' peaked at # 4 on the Billboard Hot 100 chart and # 3 on the Cash Box Top 100 in 1988. The power ballad was not released commercially in the UK, but it managed to peak at # 82 in January 1988, having charted purely on import sales.",
+    "Notogawa Station (Location: N35.179899,E136.165913) is the only Japan Railway station in Higashiomi. The station is a rapid stop on the JR Biwako Line, located between stations in Omi-Hachiman to the east and Hikone to the west. The town shares a small border with Lake Biwa to the northwest.",
+    "``On the Good Ship Lollipop ''was the signature song of child actress Shirley Temple. Temple first sang it in the 1934 movie Bright Eyes. The song was composed by Richard A. Whiting and the lyrics were supplied by Sidney Clare.",
+    "Gold Hill is a small unincorporated community in southeastern Rowan County, North Carolina near the Cabarrus County line. It is situated near the Yadkin River and is served by U.S. Highway 52 and Old Beatty Ford Road. Gold was found in this small town outside Salisbury in the 19th century.",
+    "In the U.S., the issuance of birth certificates is a function of the Vital Records Office of the states, capital district, territories and former territories. Birth in the U.S. establishes automatic eligibility for American citizenship, so a birth certificate from a local authority is commonly provided to the federal government to obtain a U.S. passport. However, the U.S. State Department does issue a Consular Report of Birth Abroad for children born to U.S. citizens (who are also eligible for citizenship), including births on military bases in foreign territory.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary (French: Frontière internationale), is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Gmina Włodawa is a rural gmina (administrative district) in Włodawa County, Lublin Voivodeship, in eastern Poland, on the border with Belarus and Ukraine. Its seat is the town of Włodawa, although the town is not part of the territory of the gmina.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary, is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Cyprus Popular Bank (from 2006 to 2011 known as Marfin Popular Bank) was the second largest banking group in Cyprus behind the Bank of Cyprus until it was 'shuttered' in March 2013 and split into two parts. The 'good' Cypriot part was merged into the Bank of Cyprus (including insured deposits under 100,000 Euro) and the 'bad' part or legacy entity holds all the overseas operations as well as uninsured deposits above 100,000 Euro, old shares and bonds. The uninsured depositors were subject to a bail-in and became the new shareholders of the legacy entity. As at May 2017, the legacy entity is one of the largest shareholders of Bank of Cyprus with 4.8% but does not hold a board seat. All the overseas operations, of the now defunct Cyprus Popular Bank, are also held by the legacy entity, until they are sold by the Special Administrator, at first Ms Andri Antoniadou, who ran the legacy entity for two years, from March 2013 until 3 March 2015. She tendered her resignation due to disagreements, with the Governor of the Central Bank of Cyprus and the Central Bank Board members, who amended the lawyers of the legacy entity, without consulting her. Veteran banker Chris Pavlou who is an expert in Treasury and risk management took over as Special Administrator of the legacy entity in April 2015 until December 2016. The legacy entity is pursuing legal action against former major shareholder Marfin Investment Group.",
+    "Virginia is located in Lempira Honduras and shares a border with El Salvador. Many Virginians travel to El Salvador to do their shopping, because the Honduran cities are far away from Virginia.",
+    "The United States shares land borders with Canada (to the north) and Mexico (to the south), and a territorial water border with Russia in the northwest, and two territorial water borders in the southeast between Florida and Cuba, and Florida and the Bahamas. The contiguous forty-eight states are otherwise bounded by the Pacific Ocean on the west, the Atlantic Ocean on the east, and the Gulf of Mexico to the southeast. Alaska borders the Pacific Ocean to the south, the Bering Strait to the west, and the Arctic Ocean to the north, while Hawaii lies far to the southwest of the mainland in the Pacific Ocean."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe singer of \"Hungry Eyes\" in the movie Dirty Dancing is Eric Carmen.\nEric Carmen was born in Cleveland, Ohio.\nCleveland, Ohio is located in Cuyahoga County.\nCuyahoga County shares a border with Summit County.\nSummit County contains the city of Akron, which is not relevant to the birthplace of Eric Carmen.\nThe county that shares a border with the county containing the city where Eric Carmen was born is Summit County.\n<answer> Summit County",
+  "predicted_answer": "Summit County",
+  "claims": [
+    "The singer of \"Hungry Eyes\" in the movie Dirty Dancing is Eric Carmen",
+    "Eric Carmen was born in Cleveland, Ohio",
+    "Cleveland, Ohio is located in Cuyahoga County",
+    "Cuyahoga County shares a border with Summit County",
+    "Summit County contains the city of Akron, which is not relevant to the birthplace of Eric Carmen",
+    "The county that shares a border with the county containing the city where Eric Carmen was born is Summit County"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The singer of \"Hungry Eyes\" in the movie Dirty Dancing is Eric Carmen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Eric Carmen was born in Cleveland, Ohio",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Cleveland, Ohio is located in Cuyahoga County",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Cuyahoga County shares a border with Summit County",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Summit County contains the city of Akron, which is not relevant to the birthplace of Eric Carmen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The county that shares a border with the county containing the city where Eric Carmen was born is Summit County",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

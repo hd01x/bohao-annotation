@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__b86223c60bda11eba7f7acde48001122",
+  "sample_id": "b86223c60bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of death of the director of film Curse Of The Crimson Altar?",
+  "gold_answer": "Durban, South Africa",
+  "context": [
+    "Ian Barry is an Australian director of film and TV.",
+    "Curse of the Crimson Altar is a 1968 British horror film directed by Vernon Sewell and starring Christopher Lee, Boris Karloff, Barbara Steele and Mark Eden. The film was produced by Louis M. Heyward for Tigon British Film Productions. The film was edited and released as The Crimson Cult in the United States. The screenplay, by \"Doctor Who\" writers Mervyn Haisman and Henry Lincoln, was based (uncredited) on the short story \"The Dreams in the Witch House\" by H. P. Lovecraft. This film also featured one of the final film appearances of horror heavyweight Karloff.",
+    "Curse of the Maya( also known as Dawn of the Living Dead and Evil Grave: Curse of the Maya) is a 2004 American horror film written, directed by and starring David Heavener.",
+    "The Crimson Circle is a 1922 British silent crime film directed by George Ridgwell and starring Clifton Boyne, Fred Groves and Robert English. The film was an adaptation of the novel\" The Crimson Circle\" by Edgar Wallace. A German/ UK version of\" The Crimson Circle Die rote Kreis\"( 1929), was filmed in both a silent and Phonofilm sound- on- film version.",
+    "Virginia Wetherell( born 9 May 1943 in Farnham, Surrey) is an former English actress known for her roles in Hammer horror films such as\" Dr. Jekyll and Sister Hyde\"( 1971) and\" Demons of the Mind\"( 1972). Her other film appearances include\" The Big Switch\"( 1968),\" Curse of the Crimson Altar\"( 1968),\" The Other People\"( 1968),\" Man of Violence\"( 1969), Stanley Kubrick's\" A Clockwork Orange\"( 1971),\" Disciple of Death\"( 1972), and the TV film\" Dracula\"( 1973). On television, she was a regular cast member in\" The Troubleshooters\" as Julie Serres, and played Dyoni in the\" Doctor Who\" serial\" The Daleks\". Wetherell was married to actor Ralph Bates from 1973 until his death from cancer in 1991. Both their children, Daisy and William( Will) Bates, are also actors.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Vernon Campbell Sewell (4 July 1903 – 21 June 2001) was a British film director, writer, producer and, briefly, an actor. Sewell was born in London, England, and was educated at Marlborough College. He directed more than 30 films during his career, starting with \"Morgenrot\" (1933) and ending with \"Burke & Hare\" (1971). He worked chiefly in B-movies, some of which were, according to the BFI Screenonline, \"well above the usual cut-price standards of film-making at this level.\" He was married to the actress Joan Carol. Vernon Sewell died on 21 June 2001 in Durban, South Africa, at age 97.",
+    "Li Man( born 4 June 1988) is a Chinese actress. She is best known for her role in Zhang Yimou's 2006 film\" Curse of the Golden Flower\", which boosted her to stardom. She studied at the Central Academy of Drama.",
+    "Chantal Quesnel( sometimes credited as Chantal Quesnelle, born 1971) is a Canadian actress. She currently is a voice actress for the TV animated series\" Zeroman\", shown in Canada on Teletoon. She also appeared in Don Mancini's film\" Curse of Chucky\".",
+    "Roger Avon( 23 November 1914 – 21 December 1998) was an English stage, film and television actor born in Jarrow, County Durham. Some of his television appearances include\" Hancock's Half HourDad's ArmyWhen the Boat Comes InDepartment SDoctor Who\"( serials\" The Crusade\" and\" The Daleks' Master PlanRandall and Hopkirk( Deceased) Our Friends in the North\" and\" Blackadder the Third\". He appeared in the films\" Daleks' Invasion Earth 2150 A.D. The Likely LadsMutiny on the Buses Quatermass and the Pit\" and\" Curse of the Crimson Altar\", among others. Avon was still acting up until his death, aged 84, his last role being in the TV series\" Grafters\", starring Robson Green."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCurse of the Crimson Altar is a 1968 British horror film directed by Vernon Sewell.\nVernon Sewell was a British film director born in London, England.\nVernon Sewell died on 21 June 2001 in Durban, South Africa.\nThe place of death of the director of Curse of the Crimson Altar is Durban, South Africa.\n<answer> Durban, South Africa",
+  "predicted_answer": "Durban, South Africa",
+  "claims": [
+    "Curse of the Crimson Altar is a 1968 British horror film directed by Vernon Sewell",
+    "Vernon Sewell was a British film director born in London, England",
+    "Vernon Sewell died on 21 June 2001 in Durban, South Africa",
+    "The place of death of the director of Curse of the Crimson Altar is Durban, South Africa"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Curse of the Crimson Altar is a 1968 British horror film directed by Vernon Sewell",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Vernon Sewell was a British film director born in London, England",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Vernon Sewell died on 21 June 2001 in Durban, South Africa",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The place of death of the director of Curse of the Crimson Altar is Durban, South Africa",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

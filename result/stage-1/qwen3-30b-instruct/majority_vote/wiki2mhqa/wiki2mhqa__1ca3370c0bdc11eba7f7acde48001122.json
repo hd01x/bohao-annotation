@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__1ca3370c0bdc11eba7f7acde48001122",
+  "sample_id": "1ca3370c0bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What nationality is the performer of song Gone Fishin' (Song)?",
+  "gold_answer": "America",
+  "context": [
+    "Gone Fishin' is a song written by Nick and Charles Kenny and recorded by Bing Crosby and Louis Armstrong in 1951. The song had been published in 1950 and was recorded by Arthur Godfrey, The Three Suns with Texas Jim Robertson, and by the Johnny Guarnieri Quintet in 1950. None of these recordings charted. The Crosby recording came about when the singer had Armstrong as a guest on his radio show which was being taped on April 19, 1951 for broadcast on April 25 that year. As was customary, the songs to be used in the broadcast were taped in advance as a back-up in case the live broadcast versions did not go well. The song was so well received that Decca Records decided to issue the pre-recording commercially and it charted briefly in June 1951 with a peak position of #19. Crosby used the song in his concert performances in 1976 singing it with comedian Ted Rogers. The duet with Louis Armstrong is still heard frequently on radio. The song was later recorded by Pat Boone, Gene Autry and The Manhattan Transfer.",
+    "Caspar Babypants is the stage name of children's music artist Chris Ballew, who is also widely known as the singer of The Presidents of the United States of America.",
+    "Dáithí Sproule( born 23 May 1950) is a guitarist and singer of traditional Irish music. His niece is the singer Claire Sproule.",
+    "\" O Valencia!\" is the fifth single by the indie rock band The Decemberists, and the first released from their fourth studio album,\" The Crane Wife\". The music was written by The Decemberists and the lyrics by Colin Meloy. It tells a story of two star- crossed lovers. The singer falls in love with a person who belongs to an opposing gang. At the end of the song, the singer's lover jumps in to defend the singer, who is confronting his lover's brother( the singer's\" sworn enemy\") and is killed by the bullet intended for the singer.",
+    "Astrid North( Astrid Karina North Radmann; 24 August 1973, Berlin – 25 June 2019, Berlin) was a German soul singer and songwriter. She was the singer of the German band, with whom she released five Albums. As guest singer of the band she published three albums.",
+    "\" Panda\" is a song of the Chilean band Astro and is the fifth song of the homonymous album of the year 2011. The song was composed and produced by the singer of the band Andrés Nusser and released like third single of the album on February 1, 2013.",
+    "Bernard Bonvoisin, known as Bernie Bonvoisin( born 9 July 1956 in Nanterre, Hauts- de- Seine), is a French hard rock singer and film director. He is best known for having been the singer of Trust. He was one of the best friends of Bon Scott the singer of AC/ DC and together they recorded the song\" Ride On\" which was one of the last songs by Bon Scott.",
+    "Billy Milano is a Bronx- born heavy metal musician now based in Austin, Texas. He is the singer and- occasionally- guitarist and bassist of crossover thrash band M.O.D., and he was also the singer of its predecessor, Stormtroopers of Death. He was also the singer of United Forces, which also featured his Stormtroopers of Death bandmate Dan Lilker.",
+    "Kristian Leontiou (born February 1982) is a British singer of Greek Cypriot descent, and is the singer for the indie rock band One eskimO.",
+    "Harold Lillis \"Bing\" Crosby Jr. (May 3, 1903 – October 14, 1977) was an American singer, comedian and actor. The first multimedia star, Crosby was a leader in record sales, radio ratings, and motion picture grosses from 1931 to 1954. His early career coincided with recording innovations that allowed him to develop an intimate singing style that influenced many male singers who followed him, including Perry Como, Frank Sinatra, Dick Haymes, and Dean Martin. \"Yank\" magazine said that he was \"the person who had done the most for the morale of overseas servicemen\" during World War II. In 1948, American polls declared him the \"most admired man alive\", ahead of Jackie Robinson and Pope Pius XII. Also in 1948, \"Music Digest\" estimated that his recordings filled more than half of the 80,000 weekly hours allocated to recorded radio music. Crosby won an Oscar for Best Actor for his role as Father Chuck O'Malley in the 1944 motion picture \"Going My Way\" and was nominated for his reprise of the role in \"The Bells of St. Mary's\" opposite Ingrid Bergman the next year, becoming the first of six actors to be nominated twice for playing the same character. In 1963, Crosby received the first Grammy Global Achievement Award. He is one of 33 people to have three stars on the Hollywood Walk of Fame, in the categories of motion pictures, radio, and audio recording. He was also known for his collaborations with longtime friend Bob Hope, starring in the \"Road to...\" films from 1940 to 1962. Crosby influenced the development of the postwar recording industry. After seeing a demonstration of a German broadcast quality reel-to-reel tape recorder brought to America by John T. Mullin, he invested $50,000 in a California electronics company called Ampex to build copies. He then convinced ABC to allow him to tape his shows. He became the first performer to pre-record his radio shows and master his commercial recordings onto magnetic tape. Through the medium of recording, he constructed his radio programs with the same directorial tools and craftsmanship (editing, retaking, rehearsal, time shifting) used in motion picture production, a practice that became an industry standard. In addition to his work with early audio tape recording, he helped to finance the development of videotape, bought television stations, bred racehorses, and co-owned the Pittsburgh Pirates baseball team."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGone Fishin' was recorded by Bing Crosby and Louis Armstrong in 1951.\nBing Crosby Jr. was an American singer, comedian, and actor.\nLouis Armstrong was an American jazz musician and singer.\nBoth Bing Crosby and Louis Armstrong were American.\nThe performers of the song Gone Fishin' are Bing Crosby and Louis Armstrong.\nThe nationality of the performers of Gone Fishin' is American.\n<answer> American",
+  "predicted_answer": "American",
+  "claims": [
+    "Gone Fishin' was recorded by Bing Crosby and Louis Armstrong in 1951",
+    "Bing Crosby Jr. was an American singer, comedian, and actor",
+    "Louis Armstrong was an American jazz musician and singer",
+    "Both Bing Crosby and Louis Armstrong were American",
+    "The performers of the song Gone Fishin' are Bing Crosby and Louis Armstrong",
+    "The nationality of the performers of Gone Fishin' is American"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Gone Fishin' was recorded by Bing Crosby and Louis Armstrong in 1951",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Bing Crosby Jr. was an American singer, comedian, and actor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Louis Armstrong was an American jazz musician and singer",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Both Bing Crosby and Louis Armstrong were American",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The performers of the song Gone Fishin' are Bing Crosby and Louis Armstrong",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The nationality of the performers of Gone Fishin' is American",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

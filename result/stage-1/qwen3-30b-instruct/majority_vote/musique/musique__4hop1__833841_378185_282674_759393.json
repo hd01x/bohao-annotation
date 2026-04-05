@@ -1,0 +1,125 @@
+{
+  "uid": "musique__4hop1__833841_378185_282674_759393",
+  "sample_id": "4hop1__833841_378185_282674_759393",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What is the seat of the county sharing a border with the county in which Amy McKenzie was born?",
+  "gold_answer": "Green Bay",
+  "context": [
+    "Kis-Küküllő was an administrative county (comitatus) of the Kingdom of Hungary. Its territory is now in central Romania (central Transylvania). Kis-Küküllő is the Hungarian name for the Târnava Mică River. The capital of the county was \"Dicsőszentmárton\" (now Târnăveni).",
+    "Cyprus Popular Bank (from 2006 to 2011 known as Marfin Popular Bank) was the second largest banking group in Cyprus behind the Bank of Cyprus until it was 'shuttered' in March 2013 and split into two parts. The 'good' Cypriot part was merged into the Bank of Cyprus (including insured deposits under 100,000 Euro) and the 'bad' part or legacy entity holds all the overseas operations as well as uninsured deposits above 100,000 Euro, old shares and bonds. The uninsured depositors were subject to a bail-in and became the new shareholders of the legacy entity. As at May 2017, the legacy entity is one of the largest shareholders of Bank of Cyprus with 4.8% but does not hold a board seat. All the overseas operations, of the now defunct Cyprus Popular Bank, are also held by the legacy entity, until they are sold by the Special Administrator, at first Ms Andri Antoniadou, who ran the legacy entity for two years, from March 2013 until 3 March 2015. She tendered her resignation due to disagreements, with the Governor of the Central Bank of Cyprus and the Central Bank Board members, who amended the lawyers of the legacy entity, without consulting her. Veteran banker Chris Pavlou who is an expert in Treasury and risk management took over as Special Administrator of the legacy entity in April 2015 until December 2016. The legacy entity is pursuing legal action against former major shareholder Marfin Investment Group.",
+    "Pulaski High School is a public high school in Pulaski, Wisconsin, in Brown County, Wisconsin (school district also serves parts of Shawano, Outagamie and Oconto counties), that serves students in grades 9 through 12. Its mascot is the Red Raider.",
+    "Amy McKenzie (born August 2, 1959 in Appleton, Wisconsin) is an American producer, director, and actress. She is one of the founders of the New Age Vaudeville theatre company and the Third Avenue Playhouse.",
+    "Krasnovishersky District () is an administrative district (raion) of Perm Krai, Russia; one of the thirty-three in the krai. Municipally, it is incorporated as Krasnovishersky Municipal District. It is located in the northeast of the krai, in the valley of the Vishera River, and borders with the Komi Republic in the north, Sverdlovsk Oblast in the east, Cherdynsky District in the west, Solikamsky District in the south, and with the territory of the town of krai significance of Alexandrovsk in the southeast. The area of the district is . Its administrative center is the town of Krasnovishersk. Population: The population of Krasnovishersk accounts for 71.4% of the district's total population.",
+    "Rodnowo () is a village in the administrative district of Gmina Bartoszyce, within Bartoszyce County, Warmian-Masurian Voivodeship, in northern Poland, close to the border with the Kaliningrad Oblast of Russia. It lies approximately west of Bartoszyce and north of the regional capital Olsztyn.",
+    "The United States shares land borders with Canada (to the north) and Mexico (to the south), and a territorial water border with Russia in the northwest, and two territorial water borders in the southeast between Florida and Cuba, and Florida and the Bahamas. The contiguous forty-eight states are otherwise bounded by the Pacific Ocean on the west, the Atlantic Ocean on the east, and the Gulf of Mexico to the southeast. Alaska borders the Pacific Ocean to the south, the Bering Strait to the west, and the Arctic Ocean to the north, while Hawaii lies far to the southwest of the mainland in the Pacific Ocean.",
+    "A Nigerian State is a federated political entity, which shares sovereignty with the Federal Government of Nigeria, There are 36 States in Nigeria, which are bound together by a federal agreement. There is also a territory called the Federal Capital Territory (FCT), which is not a state, but a territory, under the direct control of the Federal Government. The States are further divided into a total of 774 Local Government Areas. Under the Nigerian Constitution, states have the power to ratify constitutional amendments.",
+    "Cielętnik () is a village in the administrative district of Gmina Braniewo, within Braniewo County, Warmian-Masurian Voivodeship, in northern Poland, close to the border with the Kaliningrad Oblast of Russia. It lies approximately west of Braniewo and north-west of the regional capital Olsztyn.",
+    "Born in Green Bay, Wisconsin, Quinn was a realtor and served on the Green Bay Common Council, the Brown County, Wisconsin Board of Supervisors, the local Board of Education, and the Wisconsin State Assembly from 1955 until 1973. He was a Republican.",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city. It shares borders with the city in two areas, but is surrounded mostly by other suburbs.",
+    "John C. Petersen (November 2, 1842 – July 10, 1887) was an American butcher and farmer from Appleton, Wisconsin who served as a member of the Wisconsin State Assembly from Outagamie County. He was elected in 1878 as a Greenbacker, and was re-elected the next year as a \"Greenback Democrat\" (even though he was opposed by a Democrat).",
+    "The Parliament of India can pass a law to amend the Constitution and provide a Legislature with elected Members and a Chief Minister for a Union Territory, as it has done for Delhi and Puducherry. In general, The President of India appoints an administrator or lieutenant - governor for each UT. There are seven union territories, including Chandigarh, the joint capital of Punjab and Haryana.",
+    "Each state and major mainland territory has its own parliament — unicameral in the Northern Territory, the ACT and Queensland, and bicameral in the other states. The states are sovereign entities, although subject to certain powers of the Commonwealth as defined by the Constitution. The lower houses are known as the Legislative Assembly (the House of Assembly in South Australia and Tasmania); the upper houses are known as the Legislative Council. The head of the government in each state is the Premier and in each territory the Chief Minister. The Queen is represented in each state by a governor; and in the Northern Territory, the Administrator. In the Commonwealth, the Queen's representative is the Governor-General.The Commonwealth Parliament also directly administers the following external territories: Ashmore and Cartier Islands; Australian Antarctic Territory; Christmas Island; Cocos (Keeling) Islands; Coral Sea Islands; Heard Island and McDonald Islands; and Jervis Bay Territory, a naval base and sea port for the national capital in land that was formerly part of New South Wales. The external territory of Norfolk Island previously exercised considerable autonomy under the Norfolk Island Act 1979 through its own legislative assembly and an Administrator to represent the Queen. In 2015, the Commonwealth Parliament abolished self-government, integrating Norfolk Island into the Australian tax and welfare systems and replacing its legislative assembly with a council. Macquarie Island is administered by Tasmania, and Lord Howe Island by New South Wales.",
+    "Tymce (, \"Tymtsi\") is a village in the administrative district of Gmina Lubaczów, within Lubaczów County, Subcarpathian Voivodeship, in south-eastern Poland, close to the border with Ukraine. It lies approximately north-east of Lubaczów and east of the regional capital Rzeszów.",
+    "The county lies in southern Hungary, on the border with Croatia. The River Drava forms part of its southern border, and the River Danube its eastern border. It shares borders with the Hungarian counties Somogy, Tolna, and Bács-Kiskun. The capital of Baranya county is Pécs.",
+    "Krasnolipie () is a village in the administrative district of Gmina Braniewo, within Braniewo County, Warmian-Masurian Voivodeship, in northern Poland, close to the border with the Kaliningrad Oblast of Russia. It lies approximately east of Braniewo and north-west of the regional capital Olsztyn.",
+    "In the U.S., the issuance of birth certificates is a function of the Vital Records Office of the states, capital district, territories and former territories. Birth in the U.S. establishes automatic eligibility for American citizenship, so a birth certificate from a local authority is commonly provided to the federal government to obtain a U.S. passport. However, the U.S. State Department does issue a Consular Report of Birth Abroad for children born to U.S. citizens (who are also eligible for citizenship), including births on military bases in foreign territory.",
+    "Gmina Włodawa is a rural gmina (administrative district) in Włodawa County, Lublin Voivodeship, in eastern Poland, on the border with Belarus and Ukraine. Its seat is the town of Włodawa, although the town is not part of the territory of the gmina.",
+    "Gmina Ujsoły is a rural gmina (administrative district) in Żywiec County, Silesian Voivodeship, in southern Poland, on the Slovak border. Its seat is the village of Ujsoły, which lies approximately south of Żywiec and south of the regional capital Katowice."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAmy McKenzie was born in Appleton, Wisconsin.\nAppleton is located in Outagamie County, Wisconsin.\nThe seat of Outagamie County is Appleton.\nThe county sharing a border with Outagamie County is Brown County.\nThe seat of Brown County is Green Bay.\nThe seat of the county sharing a border with the county in which Amy McKenzie was born is Green Bay.\n<answer> Green Bay",
+  "predicted_answer": "Green Bay",
+  "claims": [
+    "Amy McKenzie was born in Appleton, Wisconsin",
+    "Appleton is located in Outagamie County, Wisconsin",
+    "The seat of Outagamie County is Appleton",
+    "The county sharing a border with Outagamie County is Brown County",
+    "The seat of Brown County is Green Bay",
+    "The seat of the county sharing a border with the county in which Amy McKenzie was born is Green Bay"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Amy McKenzie was born in Appleton, Wisconsin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Appleton is located in Outagamie County, Wisconsin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The seat of Outagamie County is Appleton",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The county sharing a border with Outagamie County is Brown County",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The seat of Brown County is Green Bay",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The seat of the county sharing a border with the county in which Amy McKenzie was born is Green Bay",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

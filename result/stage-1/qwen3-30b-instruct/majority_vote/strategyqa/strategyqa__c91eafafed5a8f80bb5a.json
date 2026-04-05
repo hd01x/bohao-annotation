@@ -1,0 +1,78 @@
+{
+  "uid": "strategyqa__c91eafafed5a8f80bb5a",
+  "sample_id": "c91eafafed5a8f80bb5a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Miami a city on the American West Coast?",
+  "gold_answer": "no",
+  "context": [
+    "Miami is a city in the state of Florida.",
+    "Florida is the southernmost state on the American East Coast."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMiami is a city in the state of Florida.\nFlorida is located on the American East Coast.\nThe American West Coast is on the opposite side of the United States from Florida.\nMiami is not located on the American West Coast.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Miami is a city in the state of Florida",
+    "Florida is located on the American East Coast",
+    "The American West Coast is on the opposite side of the United States from Florida",
+    "Miami is not located on the American West Coast"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Miami is a city in the state of Florida",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Florida is located on the American East Coast",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The American West Coast is on the opposite side of the United States from Florida",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Miami is not located on the American West Coast",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

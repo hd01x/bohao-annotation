@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__3f4f06f08f8c926c68df",
+  "sample_id": "3f4f06f08f8c926c68df",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Amy Winehouse a fan of Star Wars: Rogue One?",
+  "gold_answer": "no",
+  "context": [
+    "Amy Winehouse died in 2011.",
+    "Star Wars: Rogue One was released in 2016."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAmy Winehouse died in 2011.\nStar Wars: Rogue One was released in 2016.\nAmy Winehouse could not have seen Star Wars: Rogue One after her death.\nThere is no evidence that Amy Winehouse expressed interest in Star Wars: Rogue One during her lifetime.\nThe question of whether she was a fan cannot be confirmed.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Amy Winehouse died in 2011",
+    "Star Wars: Rogue One was released in 2016",
+    "Amy Winehouse could not have seen Star Wars: Rogue One after her death",
+    "There is no evidence that Amy Winehouse expressed interest in Star Wars: Rogue One during her lifetime",
+    "The question of whether she was a fan cannot be confirmed"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Amy Winehouse died in 2011",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Star Wars: Rogue One was released in 2016",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Amy Winehouse could not have seen Star Wars: Rogue One after her death",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "There is no evidence that Amy Winehouse expressed interest in Star Wars: Rogue One during her lifetime",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The question of whether she was a fan cannot be confirmed",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

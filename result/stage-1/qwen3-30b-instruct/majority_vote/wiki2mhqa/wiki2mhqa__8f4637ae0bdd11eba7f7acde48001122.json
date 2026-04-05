@@ -1,0 +1,99 @@
+{
+  "uid": "wiki2mhqa__8f4637ae0bdd11eba7f7acde48001122",
+  "sample_id": "8f4637ae0bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Why did Edward Despenser (Died 1342)'s father die?",
+  "gold_answer": "hanged, drawn and quartered",
+  "context": [
+    "Isabel le Despenser, Countess of Worcester and Warwick, LG( 26 July 1400 – 27 December 1439) was the posthumous daughter and eventually the sole heiress of Thomas le Despenser, 1st Earl of Gloucester( died 1399) by his wife, Constance of York, daughter of Edmund of Langley( son of King Edward III of England). She was born six months after her father had been beheaded for plotting against King Henry IV of England( 1399 – 1413).",
+    "Philip le Despenser, 1st Baron le Despenser( 18 October 1342 in Gedney, Lincolnshire, England – 4 August 1401) was the son and heir of Sir Philip le Despenser of Goxhill, grandson of Philip Despenser, the elder, and great- grandson of Hugh le Despenser, 1st Earl of Winchester. His mother was Joan Cobham, daughter of John Cobham, 2nd Baron Cobham of Kent. He was created Baron le Despenser by writ of summons on 17 December 1387. He married a woman named Elizabeth. He was summoned to Parliament in 1400, and died on 4 August 1401. Any hereditary title later held to have been created by summons to Parliament would have passed to his son, Philip le Despenser, though none of his descendants were summoned as Barons le Despencer.",
+    "Hugh le Despenser, 1st Lord Despenser (c. 1286 – 24 November 1326), also referred to as \"the younger Despenser\", was the son and heir of Hugh le Despenser, Earl of Winchester (the elder Despenser) by his wife Isabella de Beauchamp, daughter of William de Beauchamp, 9th Earl of Warwick. He rose to national prominence as royal chamberlain and a favourite of Edward II of England. Despenser made many enemies across the nobility of England which, after the overthrow of Edward, eventually led to him being charged with high treason and ultimately hanged, drawn and quartered.",
+    "Elizabeth le Despenser( c. 1327 – 13 July 1389) was an English noblewoman. She was the youngest daughter of Hugh le Despenser the younger and his wife Eleanor de Clare. Her father is famous for being the favourite of Edward II of England, and being executed as a result of his position and actions. Through her mother, Elizabeth was a great granddaughter of King Edward I of England.",
+    "Philip le Despenser, 2nd Baron le Despenser( c.1365 in Nettlestead, Suffolk, England – 20 June 1424) was the son and heir of Philip le Despenser, 1st Baron le Despenser. Philip was aged 36 and more at the death of his father Philip Despencer in 1401, having been knighted in 1385. He married Elizabeth de Tibetot, co-heiress and daughter of Robert Tiptoft, 3rd Baron Tibetot and his wife Margaret Deincourt. By this marriage he inherited the manors of Nettlestead and Barrow among others. He was never summoned to Parliament, and died on 20 June 1424 without male heir. Any hereditary right created when his father was summoned passed with his property to his only daughter, Margery le Despencer, wife of John de Ros, 7th Baron de Ros and secondly Roger Wentworth of Nettlestead, Esq. Margery and Roger Wentworth of the later Lords Wentworth and of Jane Seymour, third queen consort of King Henry VIII.",
+    "Edward le Despenser (died 1342) was a son of Hugh le Despenser the Younger by his wife Eleanor de Clare. His father, a favourite of Edward II of England, was executed in 1326. Through his mother, he was a great-grandson of Edward I of England.",
+    "Thomas le Despenser, 2nd Baron Despenser, 1st Earl of Gloucester KG( 22 September 1373 – 13 January 1400) was the son of Edward le Despenser, 1st Baron le Despencer, whom he succeeded in 1375.",
+    "Edward le Despenser, 1st Baron Despenser( 24 March 1336, Essendine – 11 November 1375) was the son of another Edward le Despenser and Anne Ferrers, sister of Henry, Lord Ferrers of Groby. He succeeded as Lord of Glamorgan in 1349. Le Despencer went with Edward the Black Prince to France, and was present at the Battle of Poitiers. In recognition of his conduct in the French wars, he was summoned to Parliament as a baron in 1357. At the same time, he also became a Knight of the Garter. He was a friend and patron of Jean Froissart and the eldest brother of Henry le Despenser, Bishop of Norwich. There is a statue of him on the top of the Holy Trinity Chantry Chapel in Tewkesbury Abbey, renowned as the\" KNEELING KNIGHT\".",
+    "Hugh le Despenser, 2nd Baron le Despenser( 1308 – 1349), Lord of Glamorgan, was the eldest son and heir of Hugh Despenser the Younger and grandson of Hugh le Despenser, 1st Earl of Winchester. His father and grandfather were both executed in 1326. His mother was Eleanor de Clare,\" suo jure\" Lord of Glamorgan, daughter of Gilbert de Clare, 6th Earl of Hertford and Joan of Acre. Through his mother, Hugh was a great grandson of King Edward I. He married Elizabeth Montague( d.1359), and both are buried in Tewkesbury Abbey, Gloucestershire, which abbey was founded by Robert Fitzhamon( d.1107), the first Norman feudal baron of Gloucester and Lord of Glamorgan.",
+    "Elizabeth Despenser( died 10 April/ 11 April 1408) was an English noblewoman of the late 14th century. She should not be confused with Elizabeth le Despenser, Baroness Berkeley who was her great- aunt and who was the daughter of her great- grandmother, Eleanor de Clare. She was the daughter of Sir Edward le Despencer, 1st Baron le Despencer, by Lady Elizabeth Burghersh, daughter and heiress of Bartholomew de Burghersh, 2nd Baron Burghersh."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEdward le Despenser (died 1342) was the son of Hugh le Despenser the Younger.\nHugh le Despenser the Younger was a favourite of Edward II of England.\nHugh le Despenser the Younger was charged with high treason.\nHe was executed in 1326 after the overthrow of Edward II.\nEdward le Despenser's father died as a result of being executed for high treason.\n<answer> He died from being executed for high treason.",
+  "predicted_answer": "He died from being executed for high treason.",
+  "claims": [
+    "Edward le Despenser (died 1342) was the son of Hugh le Despenser the Younger",
+    "Hugh le Despenser the Younger was a favourite of Edward II of England",
+    "Hugh le Despenser the Younger was charged with high treason",
+    "He was executed in 1326 after the overthrow of Edward II",
+    "Edward le Despenser's father died as a result of being executed for high treason"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Edward le Despenser (died 1342) was the son of Hugh le Despenser the Younger",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Hugh le Despenser the Younger was a favourite of Edward II of England",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Hugh le Despenser the Younger was charged with high treason",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "He was executed in 1326 after the overthrow of Edward II",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Edward le Despenser's father died as a result of being executed for high treason",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

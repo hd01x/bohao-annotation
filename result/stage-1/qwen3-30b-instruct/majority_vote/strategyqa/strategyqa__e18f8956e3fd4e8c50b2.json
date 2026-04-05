@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__e18f8956e3fd4e8c50b2",
+  "sample_id": "e18f8956e3fd4e8c50b2",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would an explosion at a gunpowder storage facility result in a supersonic shock wave?",
+  "gold_answer": "no",
+  "context": [
+    "Gunpowder is classified as a low explosive",
+    "Low explosives burn at subsonic speeds"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGunpowder is classified as a low explosive.\nLow explosives burn at subsonic speeds.\nSubsonic speeds do not produce a supersonic shock wave.\nAn explosion at a gunpowder storage facility would not result in a supersonic shock wave.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Gunpowder is classified as a low explosive",
+    "Low explosives burn at subsonic speeds",
+    "Subsonic speeds do not produce a supersonic shock wave",
+    "An explosion at a gunpowder storage facility would not result in a supersonic shock wave"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Gunpowder is classified as a low explosive",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Low explosives burn at subsonic speeds",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Subsonic speeds do not produce a supersonic shock wave",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "An explosion at a gunpowder storage facility would not result in a supersonic shock wave",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

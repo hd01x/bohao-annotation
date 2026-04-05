@@ -1,0 +1,135 @@
+{
+  "uid": "musique__4hop2__71753_158279_70784_79935",
+  "sample_id": "4hop2__71753_158279_70784_79935",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "When was the region immediately north of the region where Israel is located and the final destination for the export crops created?",
+  "gold_answer": "1930",
+  "context": [
+    "The Região das Hortênsias, in English \"Hydrangea Flower Region\", is a tourist destination in the Serra Gaúcha region of the state of Rio Grande do Sul, Brazil. The cities in this region are: Nova Petrópolis, Gramado, Canela and São Francisco de Paula.",
+    "East Redonda Island is a coastal island in British Columbia, Canada, part of the Discovery Islands archipelago. It lies just to the north of Desolation Sound Marine Park, which is located off the north end of the Malaspina Peninsula at the mouth of Toba Inlet within Electoral Area C of the Strathcona Regional District.",
+    "The Wollaston Peninsula (previously, Wollaston Land) is a west-pointing peninsula located on southwestern Victoria Island, Canada. It is bordered by Prince Albert Sound to the north, Amundsen Gulf to the west and Dolphin and Union Strait to the south. Most of the peninsula lies in Nunavut's Kitikmeot Region but a smaller portion lies within the Northwest Territories's Inuvik Region. The peninsula is long, and between wide. Its westernmost point is Cape Baring.",
+    "Brinovščica (; in older sources also \"Brinošica\", ) is a small settlement in the hills north of Sodražica in southern Slovenia. It lies in the Municipality of Ribnica, part of the traditional region of Lower Carniola, and is now included in the Southeast Slovenia Statistical Region.",
+    "Hertfordshire is the county immediately north of London and is part of the East of England region, a mainly statistical unit. A significant minority of the population across all districts are City of London commuters. To the east is Essex, to the west is Buckinghamshire and to the north are Bedfordshire and Cambridgeshire.",
+    "Ami'oz () is a moshav in southern Israel. Located in the Hevel Eshkol area of the north-western Negev desert near the border with the Gaza Strip, it falls under the jurisdiction of Eshkol Regional Council. In it had a population of .",
+    "Andraž nad Polzelo () is a settlement in the Municipality of Polzela in Slovenia. It lies in the Ložnica Hills north of Polzela and south of Velenje. The area is part of the traditional region of Styria. The municipality is now included in the Savinja Statistical Region.",
+    "The Kingdom of Saudi Arabia is a country situated in Southwest Asia, the largest country of Arabia, bordering the Persian Gulf and the Red Sea, north of Yemen. Its extensive coastlines on the Persian Gulf and Red Sea provide great leverage on shipping (especially crude oil) through the Persian Gulf and Suez Canal. The kingdom occupies 80% of the Arabian Peninsula. Most of the country's boundaries with the United Arab Emirates (UAE), Oman, and the Republic of Yemen (formerly two separate countries: the Yemen Arab Republic or North Yemen; and the People's Democratic Republic of Yemen or South Yemen) are undefined, so the exact size of the country remains unknown. The Saudi government estimate is at 2,217,949 square kilometres, while other reputable estimates vary between 2,149,690 and 2,240,000 sq. kilometres. Less than 1% of the total area is suitable for cultivation, and in the early 1990s, population distribution varied greatly among the towns of the eastern and western coastal areas, the densely populated interior oases, and the vast, almost empty deserts.",
+    "Hevel Eilot Regional Council (, \"Mo'atza Azorit Hevel Eilot\") is a regional council in the Southern District of Israel, near the city of Eilat. It is the southernmost regional council in Israel.",
+    "Manitung Island is an uninhabited island in the Qikiqtaaluk Region of Nunavut, Canada. It is located in Davis Strait, southeast of Baffin Island's Cumberland Peninsula and north of Auyuittuq National Park Reserve. Other islands in the immediate vicinity include Alikdjuak Island, Kekertaluk Island, Nedlukseak Island, and Nudlung Island.",
+    "For much of the region's history a patchwork of tribal rulers controlled most of the area. The Al Saud (the Saudi royal family) emerged as minor tribal rulers in Najd in central Arabia. From the mid-18th century, imbued with the religious zeal of the Wahhabi Islamic movement, they became aggressively expansionist. Over the following 150 years, the extent of the Al Saud territory fluctuated. However, between 1902 and 1927, the Al Saud leader, Abdulaziz, carried out a series of wars of conquest which resulted in his establishing the Kingdom of Saudi Arabia in 1930.",
+    "Route 888 is a north-south regional highway in northern Israel. It begins at Beit Tzida junction with Highway 87 and ends at Beit HaMekhes junction with Highway 91.",
+    "Sobrado (San Salvador) is a parish in A Pobra de Trives municipality, Ourense province, Galicia region of north-west Spain. It lies towards the north-east of the province.",
+    "Cotton remains a major export of the southern United States, and a majority of the world's annual cotton crop is of the long - staple American variety.",
+    "Zaranna is a village in the administrative district of Gmina Strzelce, within Kutno County, Łódź Voivodeship, in central Poland. It lies approximately north of Kutno and north of the regional capital Łódź.",
+    "Gazit () is a kibbutz in northern Israel. Located in the Galilee, it falls under the jurisdiction of Jezreel Valley Regional Council. In it had a population of .",
+    "Israel (/ ˈɪzreɪəl /; Hebrew: יִשְׂרָאֵל ‎, Arabic: إِسْرَائِيل ‎), officially the State of Israel (Hebrew: מְדִינַת יִשְׂרָאֵל ‎, Arabic: دَوْلَة إِسْرَائِيل ‎), is a country in the Middle East, on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and Gaza Strip to the east and west, respectively, and Egypt to the southwest. The country contains geographically diverse features within its relatively small area. Israel's economy and technology center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem, although the state's sovereignty over East Jerusalem is not recognised internationally. The population of Israel was estimated in 2017 to be 8,777,580 people, of whom 74.7% were Jewish, 20.8% Arab and 4.5% others.",
+    "North Gosford is a south-eastern suburb of the Central Coast region of New South Wales, Australia immediately north-east of Gosford's central business district. It is part of the local government area.",
+    "Dobjoi is a village in the Tibet Autonomous Region of China north east of Shigatse. It lies at an altitude of 4,410 metres (14,471 feet).",
+    "Shiraz is the economic center of southern Iran. The second half of the 19th century witnessed certain economic developments that greatly changed the economy of Shiraz. The opening of the Suez Canal in 1869 allowed the extensive import into southern Iran of inexpensive European factory-made goods, either directly from Europe or via India. Farmers in unprecedented numbers began planting cash crops such as opium poppy, tobacco, and cotton. Many of these export crops passed through Shiraz on their way to the Persian Gulf. Iranian long-distance merchants from Fars developed marketing networks for these commodities, establishing trading houses in Bombay, Calcutta, Port Said, Istanbul and even Hong Kong.Shiraz's economic base is in its provincial products, which include grapes, citrus fruits, cotton and rice. Industries such as cement production, sugar, fertilizers, textile products, wood products, metalwork and rugs dominate. Shirāz also has a major oil refinery and is also a major center for Iran's electronic industries. 53% of Iran's electronic investment has been centered in Shiraz."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe region immediately north of Israel is Lebanon.\nLebanon is located to the north of Israel.\nThe final destination for export crops from Shiraz, Iran, is the Persian Gulf.\nShiraz is in southern Iran.\nThe Persian Gulf is not immediately north of Israel.\nThe region immediately north of Israel is Lebanon.\nLebanon was established as a modern state in 1920 under the French Mandate.\nThe French Mandate for Syria and the Lebanon was established after the dissolution of the Ottoman Empire.\nThe final destination for export crops from Shiraz is the Persian Gulf.\nThe Persian Gulf is not the region immediately north of Israel.\nThe region immediately north of Israel is Lebanon.\nLebanon's modern statehood began in 1920.\nThe region immediately north of Israel and the final destination for export crops are not the same.\nThe question asks for the creation date of the region immediately north of Israel.\nThe region immediately north of Israel is Lebanon.\nLebanon was created as a state in 1920.\n<answer> 1920",
+  "predicted_answer": "1920",
+  "claims": [
+    "The region immediately north of Israel is Lebanon",
+    "Lebanon is located to the north of Israel",
+    "The final destination for export crops from Shiraz, Iran, is the Persian Gulf",
+    "Shiraz is in southern Iran",
+    "The Persian Gulf is not immediately north of Israel",
+    "The region immediately north of Israel is Lebanon",
+    "Lebanon was established as a modern state in 1920 under the French Mandate",
+    "The French Mandate for Syria and the Lebanon was established after the dissolution of the Ottoman Empire",
+    "The final destination for export crops from Shiraz is the Persian Gulf",
+    "The Persian Gulf is not the region immediately north of Israel",
+    "The region immediately north of Israel is Lebanon",
+    "Lebanon's modern statehood began in 1920",
+    "The region immediately north of Israel and the final destination for export crops are not the same",
+    "The question asks for the creation date of the region immediately north of Israel",
+    "The region immediately north of Israel is Lebanon",
+    "Lebanon was created as a state in 1920"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The region immediately north of Israel is Lebanon",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Lebanon is located to the north of Israel",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C3",
+      "text": "The final destination for export crops from Shiraz, Iran, is the Persian Gulf",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Shiraz is in southern Iran",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The Persian Gulf is not immediately north of Israel",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The region immediately north of Israel is Lebanon",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "Lebanon was established as a modern state in 1920 under the French Mandate",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C8",
+      "text": "The French Mandate for Syria and the Lebanon was established after the dissolution of the Ottoman Empire",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C9",
+      "text": "The final destination for export crops from Shiraz is the Persian Gulf",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C10",
+      "text": "The Persian Gulf is not the region immediately north of Israel",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C11",
+      "text": "The region immediately north of Israel is Lebanon",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C12",
+      "text": "Lebanon's modern statehood began in 1920",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C13",
+      "text": "The region immediately north of Israel and the final destination for export crops are not the same",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C14",
+      "text": "The question asks for the creation date of the region immediately north of Israel",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C15",
+      "text": "The region immediately north of Israel is Lebanon",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C16",
+      "text": "Lebanon was created as a state in 1920",
+      "claim_type": "DR"
+    }
+  ]
+}

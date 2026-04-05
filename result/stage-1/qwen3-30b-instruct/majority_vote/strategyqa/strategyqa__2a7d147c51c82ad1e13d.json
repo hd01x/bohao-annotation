@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__2a7d147c51c82ad1e13d",
+  "sample_id": "2a7d147c51c82ad1e13d",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can a lifeboat rescue people in the Hooke Sea?",
+  "gold_answer": "no",
+  "context": [
+    "Lifeboats are used on bodies of liquid water",
+    "The Hooke Sea is a geographical feature on the surface of Mars",
+    "There are no bodies of liquid water on Mars"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLifeboats are used on bodies of liquid water.\nThe Hooke Sea is a geographical feature on the surface of Mars.\nThere are no bodies of liquid water on Mars.\nThe Hooke Sea does not contain liquid water.\nA lifeboat cannot function in the absence of liquid water.\nA lifeboat cannot rescue people in the Hooke Sea.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Lifeboats are used on bodies of liquid water",
+    "The Hooke Sea is a geographical feature on the surface of Mars",
+    "There are no bodies of liquid water on Mars",
+    "The Hooke Sea does not contain liquid water",
+    "A lifeboat cannot function in the absence of liquid water",
+    "A lifeboat cannot rescue people in the Hooke Sea"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lifeboats are used on bodies of liquid water",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Hooke Sea is a geographical feature on the surface of Mars",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "There are no bodies of liquid water on Mars",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Hooke Sea does not contain liquid water",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A lifeboat cannot function in the absence of liquid water",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A lifeboat cannot rescue people in the Hooke Sea",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__77f5a3dc0bb011ebab90acde48001122",
+  "sample_id": "77f5a3dc0bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the maternal grandfather of Princess Alexandra Of Hanover (Born 1999)?",
+  "gold_answer": "Rainier III, Prince of Monaco",
+  "context": [
+    "James Robert Bruce Ogilvy( born 29 February 1964) is a British landscape designer, and the founder and editor of\" Luxury Briefing\". He is the elder child and only son of Sir Angus Ogilvy and Princess Alexandra of Kent.",
+    "Elizabeth Charlotte Knollys (5 January 1835 – 24 April 1930) was an English courtier and member of the Knollys family. She was Lady of the Bedchamber, and the first woman private secretary, to Princess Alexandra of Denmark, later Queen Alexandra of the United Kingdom, consort of Edward VII of the United Kingdom.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "Caroline, Princess of Hanover (Caroline Louise Marguerite Grimaldi; born 23 January 1957), is the eldest child of Rainier III, Prince of Monaco, and the American actress Grace Kelly. She is the elder sister of Prince Albert II and Princess Stéphanie. Until the births of her niece and nephew, Princess Gabriella and Prince Jacques, in December 2014, she had been heiress presumptive to the throne of Monaco since 2005, a position which she previously held from 1957 to 1958. Caroline is married to Ernst August, Prince of Hanover (born 1954), the heir\nto the defunct throne of the former Kingdom of Hanover, as well as the heir male of George III of the United Kingdom.",
+    "Thyra, Princess Heinrich of Hanover( née Thyra von Westernhagen; born 14 August 1973) is a German forester and landowner. As the wife of Prince Heinrich of Hanover, she is a princess of the House of Hanover.",
+    "Chantal Hochuli, formerly Chantal, Princess of Hanover, Duchess of Brunswick and Lüneburg( born 2 June 1955) is a Swiss socialite and heiress. She is the ex-wife of Ernst August, Prince of Hanover, the head of the German House of Hanover.",
+    "Princess Alexandra of Hanover and Cumberland(\" German: Alexandra Louise Marie Olga Elisabeth Therese Vera Prinzessin von Hannover und Cumberland\"; 29 September 1882 – 30 August 1963) was the wife of Frederick Francis IV, Grand Duke of Mecklenburg- Schwerin, the last ruling Duke of Mecklenburg- Schwerin.",
+    "Princess Alexandra of Hanover (Alexandra Charlotte Ulrike Maryam Virginia; born 20 July 1999) is the only child of Princess Caroline of Monaco and Prince Ernst August of the defunct Kingdom of Hanover.",
+    "Princess Alexandra of Hanover, Duchess of Brunswick- Lüneburg, Princess of Leiningen( born 18 February 1959), is the wife of Andreas, 8th Prince of Leiningen. Born in Hanover, Lower Saxony, Germany, Alexandra is the youngest daughter of Ernest Augustus, Prince of Hanover( 1914 – 1987), and his wife, Princess Ortrud of Schleswig- Holstein- Sonderburg- Glücksburg( 1925–1980). Her eldest brother is Ernst August, Prince of Hanover, current head of the House of Hanover and her sister- in- law is Princess Caroline of Monaco.",
+    "Ernst August, Prince of Hanover( born 26 February 1954), is head of the royal House of Hanover which held the thrones of the United Kingdom until 1901, of the former Kingdom of Hanover until 1866, and of the sovereign Duchy of Brunswick from 1913 to 1918. As the husband of Princess Caroline of Monaco, he is the brother- in- law of Albert II, Prince of Monaco."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPrincess Alexandra of Hanover (born 1999) is the only child of Princess Caroline of Monaco and Prince Ernst August of Hanover.\nPrincess Caroline of Monaco is the eldest child of Rainier III, Prince of Monaco, and Grace Kelly.\nGrace Kelly was an American actress and the mother of Princess Caroline of Monaco.\nThe maternal grandfather of Princess Alexandra of Hanover (born 1999) is the father of Grace Kelly.\nGrace Kelly's father was Jack Kelly, a prominent American businessman and former Olympic rower.\nJack Kelly is the maternal grandfather of Princess Alexandra of Hanover (born 1999).\n<answer> Jack Kelly",
+  "predicted_answer": "Jack Kelly",
+  "claims": [
+    "Princess Alexandra of Hanover (born 1999) is the only child of Princess Caroline of Monaco and Prince Ernst August of Hanover",
+    "Princess Caroline of Monaco is the eldest child of Rainier III, Prince of Monaco, and Grace Kelly",
+    "Grace Kelly was an American actress and the mother of Princess Caroline of Monaco",
+    "The maternal grandfather of Princess Alexandra of Hanover (born 1999) is the father of Grace Kelly",
+    "Grace Kelly's father was Jack Kelly, a prominent American businessman and former Olympic rower",
+    "Jack Kelly is the maternal grandfather of Princess Alexandra of Hanover (born 1999)"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Princess Alexandra of Hanover (born 1999) is the only child of Princess Caroline of Monaco and Prince Ernst August of Hanover",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Princess Caroline of Monaco is the eldest child of Rainier III, Prince of Monaco, and Grace Kelly",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Grace Kelly was an American actress and the mother of Princess Caroline of Monaco",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The maternal grandfather of Princess Alexandra of Hanover (born 1999) is the father of Grace Kelly",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Grace Kelly's father was Jack Kelly, a prominent American businessman and former Olympic rower",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Jack Kelly is the maternal grandfather of Princess Alexandra of Hanover (born 1999)",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

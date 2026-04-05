@@ -1,0 +1,94 @@
+{
+  "uid": "strategyqa__6d92b708dfcdd1b904be",
+  "sample_id": "6d92b708dfcdd1b904be",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is the Asian black bear multicolored?",
+  "gold_answer": "yes",
+  "context": [
+    "The Asian black bear is an animal that lives in habitats with trees.",
+    "Multicolored refers to anything that is composed of more than one color.",
+    "The Sian black bear has a black coat with a white V-shaped patch."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Asian black bear is described as having a black coat with a white V-shaped patch.\nA black coat and a white patch indicate at least two distinct colors.\nAnything composed of more than one color is considered multicolored.\nThe Asian black bear has more than one color in its appearance.\nThe Asian black bear is multicolored.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Asian black bear is described as having a black coat with a white V-shaped patch",
+    "A black coat and a white patch indicate at least two distinct colors",
+    "Anything composed of more than one color is considered multicolored",
+    "The Asian black bear has more than one color in its appearance",
+    "The Asian black bear is multicolored"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Asian black bear is described as having a black coat with a white V-shaped patch",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "A black coat and a white patch indicate at least two distinct colors",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Anything composed of more than one color is considered multicolored",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Asian black bear has more than one color in its appearance",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Asian black bear is multicolored",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__f790b706fb7406d30160",
+  "sample_id": "f790b706fb7406d30160",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was the Parc des Princes fully operational during June of 2020?",
+  "gold_answer": "no",
+  "context": [
+    "June of 2020 was marked by a global pandemic.",
+    "During a global pandemic, large events are not permitted to proceed fully."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJune of 2020 was marked by a global pandemic.\nDuring a global pandemic, large events are not permitted to proceed fully.\nThe Parc des Princes is a large venue used for major events.\nLarge venues like the Parc des Princes are restricted during a global pandemic.\nThe Parc des Princes was not fully operational during June of 2020.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "June of 2020 was marked by a global pandemic",
+    "During a global pandemic, large events are not permitted to proceed fully",
+    "The Parc des Princes is a large venue used for major events",
+    "Large venues like the Parc des Princes are restricted during a global pandemic",
+    "The Parc des Princes was not fully operational during June of 2020"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "June of 2020 was marked by a global pandemic",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "During a global pandemic, large events are not permitted to proceed fully",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Parc des Princes is a large venue used for major events",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Large venues like the Parc des Princes are restricted during a global pandemic",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Parc des Princes was not fully operational during June of 2020",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__fe1fa9c008d211ebbd96ac1f6bf848b6",
+  "sample_id": "fe1fa9c008d211ebbd96ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who was born first out of Ole Jakobsen and Finnbjörn Þorvaldsson?",
+  "gold_answer": "Finnbjörn Þorvaldsson",
+  "context": [
+    "Ole Jakobsen( 19 October 1942 — 30 June 2010), was a Danish chess International Master( IM)( 1973), three- times Danish Chess Championship winner( 1969, 1971, 1980), Nordic Chess Championship winner( 1969).",
+    "Finnbjörn Þorvaldsson( 25 May 1924 – 9 July 2018) was an Icelandic sprinter who competed in the 1948 Summer Olympics. He was born in Hnífsdalur, Westfjords. Finnbjörn also competed in Handball and basketball. He won the Icelandic national championship in handball in 1946 with Íþróttafélag Reykjavíkur after scoring the winning goal in ÍR's 20- 19 victory against Haukar. In 1954, Finnbjörn won the national championship in basketball with ÍR ´s basketball team. Finnbjörn died on 9 July 2018 at the age of 94.",
+    "Fanny Bornedal( born 24 July 2000) is a Danish actress. Fanny is the daughter of Ole Bornedal.",
+    "Hartley W Lobban (9 May 1926 – 15 October 2004) was a Jamaican-born first-class cricketer who played 17 matches for Worcestershire in the early 1950s.",
+    "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand.",
+    "Wesley Barresi( born 3 May 1984) is a South African born first- class and Netherlands international cricketer. He is a right- handed wicket keeper- batsman and also bowls right- arm offbreak.",
+    "Berge Sigval Natanael Bergesen( 6 September 1914 – 10 July 1965) was a Norwegian ship- owner. He was born in Stavanger as a son of Ole Bergesen. He was a great- grandson of Ole Bergesen, grandson of Sigval Bergesen, nephew of Sigval Bergesen, Jr. and brother of Ole Bergesen. He was a co-owner of his father's shipping company from 1948 to his death.",
+    "Greg A. Hill is a Canadian- born First Nations artist and curator. He is Kanyen'kehaka, from Six Nations of the Grand River Territory, Ontario.",
+    "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford.",
+    "John William Joseph McMahon( 28 December 1917 – 8 May 2001) was an Australian- born first- class cricketer who played for Surrey and Somerset in England from 1947 to 1957."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nOle Jakobsen was born on 19 October 1942.\nFinnbjörn Þorvaldsson was born on 25 May 1924.\n1924 is earlier than 1942.\nFinnbjörn Þorvaldsson was born before Ole Jakobsen.\nThe person born first out of Ole Jakobsen and Finnbjörn Þorvaldsson is Finnbjörn Þorvaldsson.\n<answer> Finnbjörn Þorvaldsson",
+  "predicted_answer": "Finnbjörn Þorvaldsson",
+  "claims": [
+    "Ole Jakobsen was born on 19 October 1942",
+    "Finnbjörn Þorvaldsson was born on 25 May 1924",
+    "1924 is earlier than 1942",
+    "Finnbjörn Þorvaldsson was born before Ole Jakobsen",
+    "The person born first out of Ole Jakobsen and Finnbjörn Þorvaldsson is Finnbjörn Þorvaldsson"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Ole Jakobsen was born on 19 October 1942",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Finnbjörn Þorvaldsson was born on 25 May 1924",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1924 is earlier than 1942",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Finnbjörn Þorvaldsson was born before Ole Jakobsen",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The person born first out of Ole Jakobsen and Finnbjörn Þorvaldsson is Finnbjörn Þorvaldsson",
+      "claim_type": "DR"
+    }
+  ]
+}

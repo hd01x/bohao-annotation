@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__2ec440560bb011ebab90acde48001122",
+  "sample_id": "2ec440560bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the maternal grandfather of Antiochus X Eusebes?",
+  "gold_answer": "Ptolemy IX Lathyros",
+  "context": [
+    ", also known as Fujiwara no Nagayoshi, was a Japanese statesman, courtier and politician of the early Heian period. He was the grandfather of Emperor Yōzei.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "Guillaume Wittouck( 1749- 1829) was a Belgian lawyer and High Magistrate. He was the Grandfather of industrialist Paul Wittouck.",
+    "Antiochus X Eusebes Philopator (–92 or 88 BC) was a Hellenistic Seleucid monarch who reigned as the King of Syria between 95 BC and 92 BC or 89/88 BC (224 SE (Seleucid year)). He was the son of Antiochus IX and perhaps his Egyptian wife Cleopatra IV. He lived in a period during which there was a general disintegration of Seleucid Syria characterized by civil wars, foreign interference by Ptolemaic Egypt and incursions by the Parthians. Antiochus IX was killed in 95BC at the hands of Seleucus VI, the son of his half-brother and rival Antiochus VIII. Antiochus X then went to the city of Aradus where he declared himself king. He avenged his father by defeating Seleucus VI, who was eventually killed. Antiochus X did not enjoy a stable reign as he had to face three of Seleucus VI's brothers, Antiochus XI, Philip I and Demetrius III. Antiochus XI defeated AntiochusX and expelled him from the capital Antioch in 93 BC. A few months later, AntiochusX regained his position and killed Antiochus XI. This led to both Philip I and Demetrius III becoming involved. The civil war continued but its final outcome is uncertain due to the contradictions between different ancient historians' accounts. AntiochusX married his stepmother, Antiochus IX's widow Cleopatra Selene, and had several children with her, including a future king Antiochus XIII. The death of Antiochus X is shrouded in mystery. The year of his demise is traditionally given by modern scholars as 92 BC, but other dates are also possible including the year 224 SE (89/88BC). The most reliable account of his end is that of the first century historian Josephus, who wrote that AntiochusX marched east to fight off the Parthians who were attacking a queen called Laodice; the identity of this queen and who her people were continues to be debated. Other accounts exist: the ancient Greek historian Appian has AntiochusX defeated by the Armenian king Tigranes II and losing his kingdom; the third century historian Eusebius wrote that AntiochusX was defeated by his cousins and escaped to the Parthians before asking the Romans for help in having him reinstated on the throne. Modern scholars prefer the account of Josephus and question practically every aspect of the versions presented by other ancient historians. Numismatic evidence shows that AntiochusX was succeeded in Antioch by Demetrius III, who controlled the capital in SE (88/87 BC).",
+    "Rev. John Westley( 1636 – 78) was an English nonconformist minister. He was the grandfather of John Wesley( founder of Methodism).",
+    "Cleopatra IV  was Queen of Egypt briefly from 116 to 115 BC, jointly with her husband Ptolemy IX Lathyros. She later became queen consort of Syria as the wife of Antiochus IX Cyzicenus.",
+    "Laodice was a Queen of an unknown Kingdom in Asia. She lived at the time of the Seleucid king of Syria Antiochus X Eusebes who reigned 95 BC- 92 or 88 BC.",
+    "Prithvipati Shah( ?–1716) was the king of the Gorkha Kingdom in the Indian subcontinent, present- day Nepal. He was the grandfather of Nara Bhupal Shah.",
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist. He was the grandfather of singer/ poet Leonard Cohen."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAntiochus X Eusebes Philopator was the son of Antiochus IX Cyzicenus.\nAntiochus IX Cyzicenus was married to Cleopatra IV, who may have been his Egyptian wife.\nCleopatra IV was the mother of Antiochus X Eusebes.\nThe maternal grandfather of Antiochus X Eusebes is the father of Cleopatra IV.\nThe father of Cleopatra IV is not specified in the provided information.\nThe maternal grandfather of Antiochus X Eusebes is not stated.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Antiochus X Eusebes Philopator was the son of Antiochus IX Cyzicenus",
+    "Antiochus IX Cyzicenus was married to Cleopatra IV, who may have been his Egyptian wife",
+    "Cleopatra IV was the mother of Antiochus X Eusebes",
+    "The maternal grandfather of Antiochus X Eusebes is the father of Cleopatra IV",
+    "The father of Cleopatra IV is not specified in the provided information",
+    "The maternal grandfather of Antiochus X Eusebes is not stated"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Antiochus X Eusebes Philopator was the son of Antiochus IX Cyzicenus",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Antiochus IX Cyzicenus was married to Cleopatra IV, who may have been his Egyptian wife",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Cleopatra IV was the mother of Antiochus X Eusebes",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The maternal grandfather of Antiochus X Eusebes is the father of Cleopatra IV",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The father of Cleopatra IV is not specified in the provided information",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The maternal grandfather of Antiochus X Eusebes is not stated",
+      "claim_type": "FC"
+    }
+  ]
+}

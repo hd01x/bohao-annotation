@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__21852d1e0bde11eba7f7acde48001122",
+  "sample_id": "21852d1e0bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the spouse of the director of film Fire-Eater (Film)?",
+  "gold_answer": "Pirkko Saisio",
+  "context": [
+    "Elena Maire Karin Leeve( born 1 February 1983 in Helsinki) is a Finnish actress who has worked on television, in films and on stage. She received a Jussi Award as the Best Leading Actress for her work in a Pirjo Honkasalo film\" Fire- Eater\" in 1999. In 2009, she won her second Jussi for the leading role in a film\" Putoavia enkeleitä\".",
+    "Pirjo Irene Honkasalo (born 22 February 1947) is a Finnish film director who has also worked as a cinematographer, film editor, producer, screenwriter and actress. In 1980 she co-directed \"Flame Top\" with Pekka Lehto, with whom she worked earlier and later as well. The film was chosen for the 1981 Cannes Film Festival. In the 1990s she focused on feature documentaries such as \"The Trilogy of the Sacred and the SatanicMysterionTanjuska and the 7 Devils\" and \"Atman\"). Honkasalo returned to fiction with \"Fire-Eater\" (1998) and \"Concrete Night\" (2013), both of which were written by Pirkko Saisio. \" Concrete Night\" won six Jussi Awards in 2014, among them the Jussi for the Best Direction and the Jussi for the Best Film. Its world premiere was at the Toronto International Film Festival in Masters series. Pirjo Honkasalo worked as provincial artist laureate in Central Finland 1974–1975. At that time she drove around the area with one-armed scholar who made research of traditional handcrafts. Honkasalo photographed all the interviewees voluntarily. On that journey she met the main characters of her documentary \"Their Age\". She is the first honorary member of Women in Film & Television Finland. The organisation says that \"Honkasalo has  made touching films of universal topics\" and also spoken out about the gender inequality in film industry. Pirjo Honkasalo and her partner Pirkko Saisio live in Kruununhaka, Helsinki, but they also have apartments in Tavastia, Turku and Madeira. Both of them enjoy travelling and they together have written a travel book \"Exit\" (1987). They've raised Saisio's daughter, actress Elsa Saisio, and are one of the best-known lesbian couples in Finland.",
+    "Gertrude of Saxony and Bavaria( 1152/55–1197) was Duchess of Swabia as the spouse of Duke Frederick IV, and Queen of Denmark as the spouse of King Canute VI.",
+    "Princess Auguste of Bavaria( 28 April 1877 – 25 June 1964) was a member of the Bavarian Royal House of Wittelsbach and the spouse of Archduke Joseph August of Austria.",
+    "Sophia Magdalena of Denmark (3 July 1746 – 21 August 1813) was Queen of Sweden as the spouse of King Gustav III.",
+    "Fire-Eater  is a 1998 Finnish film directed and written by Pirjo Honkasalo. It tells a story of two orphaned sisters who end up working in a travelling circus. The film received several international awards, including the Grand Jury prize at the American Film Institute International Film Festival in 1998.",
+    "Mehdi Abrishamchi is an Iranian People's Mujahedin of Iran( MEK) politician who has been described as\" the right hand man of Massoud Rajavi\". He is the former spouse of the group's current leader, Maryam Rajavi, whom he divorced so that she could become the spouse of Massoud Rajavi.",
+    "Maria Teresa, Grand Duchess of Luxembourg( born María Teresa Mestre y Batista; on 22 March 1956), is the spouse of Grand Duke Henri.",
+    "Marie Louise Coidavid( 1778 – March 11, 1851), was the Queen of the Kingdom of Haiti 1811 – 20 as the spouse of Henri I of Haiti.",
+    "The Fire Eater is a 1921 American Western film directed by B. Reeves Eason and featuring Hoot Gibson."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe film Fire-Eater (1998) was directed by Pirjo Honkasalo.\nPirjo Honkasalo is a Finnish film director.\nPirjo Honkasalo's partner is Pirkko Saisio.\nPirkko Saisio is a playwright and actress.\nPirjo Honkasalo and Pirkko Saisio are a lesbian couple.\nThe spouse of the director of Fire-Eater (1998) is Pirkko Saisio.\n<answer> Pirkko Saisio",
+  "predicted_answer": "Pirkko Saisio",
+  "claims": [
+    "The film Fire-Eater (1998) was directed by Pirjo Honkasalo",
+    "Pirjo Honkasalo is a Finnish film director",
+    "Pirjo Honkasalo's partner is Pirkko Saisio",
+    "Pirkko Saisio is a playwright and actress",
+    "Pirjo Honkasalo and Pirkko Saisio are a lesbian couple",
+    "The spouse of the director of Fire-Eater (1998) is Pirkko Saisio"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The film Fire-Eater (1998) was directed by Pirjo Honkasalo",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Pirjo Honkasalo is a Finnish film director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Pirjo Honkasalo's partner is Pirkko Saisio",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Pirkko Saisio is a playwright and actress",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Pirjo Honkasalo and Pirkko Saisio are a lesbian couple",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The spouse of the director of Fire-Eater (1998) is Pirkko Saisio",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "uid": "wiki2mhqa__363fd4380bda11eba7f7acde48001122",
+  "sample_id": "363fd4380bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of death of Teresa D'Entença's husband?",
+  "gold_answer": "Barcelona",
+  "context": [
+    "Teresa d'Entença (1300 – 20 October 1327) was the eldest daughter of Gombald d'Entença and his wife Constance of Antillón. She was Countess of Urgell in her own right; however, control over her estate passed to her husband, Alfonso IV of Aragon.",
+    "Motherland is the place of one's birth, the place of one's ancestors, or the place of origin of an ethnic group. Motherland may also refer to:",
+    "James I( 1321 – 15 November 1347), the eighteenth Count of Urgell, was the fourth son of Alfonso IV King of Aragon and Teresa d' Entença& Cabrera, 17th Countess of Urgell.",
+    "The place of birth( POB) or birthplace is the place where a person was born. This place is often used in legal documents, together with name and date of birth, to uniquely identify a person. As a general rule with respect to passports, the place of birth is determined to be the country that currently has\" sovereignty\" over the actual place of birth, regardless of when the birth actually occurred. The place of birth is not necessarily the place where the parents of the new baby live. If the baby is born in a hospital in another place, that place is the place of birth. In many countries, this also means that the government requires that the birth of the new baby is registered in the place of birth. Some countries place less or no importance on the place of birth, instead using alternative geographical characteristics for the purpose of identity documents. For example, Sweden has used the concept of\" födelsehemortdomicile of birth\") since 1947. This means that the domicile of the baby's mother is the registered place of birth. The location of the maternity ward or other physical birthplace is considered unimportant. Similarly, Switzerland uses the concept of\" Heimatortlieu d'origineluogo d'origineplace of origin\" in German, French and Italian respectively). A child born to Swiss parents is automatically assigned the place of origin of the parent with the same last name, so the child either gets their mother's or father's place of origin. A child born to one Swiss parent and one foreign parent acquires the place of origin of their Swiss parent. In a Swiss passport and identity card, the holder's place of origin is stated, not their place of birth. In some countries( primarily in the Americas), the place of birth automatically determines the nationality of the baby, a practice often referred to by the Latin phrase\" jus soli\". Almost all countries outside the Americas instead attribute nationality based on the nationality( ies) of the baby's parents( referred to as\" jus sanguinis\"). There can be some confusion regarding the place of birth if the birth takes place in an unusual way: when babies are born on an airplane or at sea, difficulties can arise. The place of birth of such a person depends on the law of the countries involved, which include the nationality of the plane or ship, the nationality( ies) of the parents and/ or the location of the plane or ship( if the birth occurs in the territorial waters or airspace of a country). Some administrative forms may request the applicant's\" country of birth\". It is important to determine from the requester whether the information requested refers to the applicant's\" place of birth\" or\" nationality at birth\". For US citizens born abroad who under the US Constitution acquire US citizenship at the time of birth, the nationality at birth will be USA( American), while the place of birth would be the country in which the actual birth takes place.",
+    "Beaulieu- sur- Loire is a commune in the Loiret department in north -central France. It is also the place of death of Jacques MacDonald, a French general who served in the Napoleonic Wars",
+    "Vimala Devi is the pseudonym of Teresa da Piedade de Baptista Almeida( born 1932), a Goan writer, poet and translator.",
+    "\" Where Was I?\" may refer to:",
+    "Nicole Napolitano Mauriello is an American television personality and entrepreneur. She is best known for starring in the reality television series\" The Real Housewives of New Jersey\". She is the twin sister of Teresa Aprea.",
+    "Tessie is a feminine given name or nickname, often of Teresa or Theresa, which may refer to:",
+    "Alfonso IV, called the Kind (also \"the Gentle\" or \"the Nice\") (2 November 1299 – 24 January 1336) was the King of Aragon and Count of Barcelona (as Alfonso III) from 1327 to his death. His reign saw the incorporation of the County of Urgell, Duchy of Athens, and Duchy of Neopatria into the Crown of Aragon."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nTeresa d'Entença was Countess of Urgell in her own right.\nShe was married to Alfonso IV of Aragon.\nAlfonso IV of Aragon died on 24 January 1336.\nThe place of death of Alfonso IV of Aragon is not specified in the provided context.\nThe place of death of Teresa d'Entença's husband is not stated.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Teresa d'Entença was Countess of Urgell in her own right",
+    "She was married to Alfonso IV of Aragon",
+    "Alfonso IV of Aragon died on 24 January 1336",
+    "The place of death of Alfonso IV of Aragon is not specified in the provided context",
+    "The place of death of Teresa d'Entença's husband is not stated"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Teresa d'Entença was Countess of Urgell in her own right",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "She was married to Alfonso IV of Aragon",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Alfonso IV of Aragon died on 24 January 1336",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The place of death of Alfonso IV of Aragon is not specified in the provided context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The place of death of Teresa d'Entença's husband is not stated",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

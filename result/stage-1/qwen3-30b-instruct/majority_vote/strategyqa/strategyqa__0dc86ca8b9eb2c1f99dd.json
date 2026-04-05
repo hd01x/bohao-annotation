@@ -1,0 +1,119 @@
+{
+  "uid": "strategyqa__0dc86ca8b9eb2c1f99dd",
+  "sample_id": "0dc86ca8b9eb2c1f99dd",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does taking ukemi halt kinetic energy?",
+  "gold_answer": "no",
+  "context": [
+    "\"Taking ukemi\" refers to the art of falling or receiving in martial arts",
+    "Taking ukemi usually requires the person doing it to move their body in a way that minimizes injury, and so it uses kinetic energy"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nTaking ukemi refers to the technique of falling or receiving in martial arts.\nThe practice involves moving the body to minimize injury during a fall or impact.\nKinetic energy is the energy of motion, and it is present during falls or impacts.\nTaking ukemi does not halt kinetic energy entirely.\nInstead, it redirects or dissipates kinetic energy through controlled movement.\nThe goal is to reduce the force of impact by managing kinetic energy.\nTaking ukemi does not halt kinetic energy but reduces its harmful effects.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Taking ukemi refers to the technique of falling or receiving in martial arts",
+    "The practice involves moving the body to minimize injury during a fall or impact",
+    "Kinetic energy is the energy of motion, and it is present during falls or impacts",
+    "Taking ukemi does not halt kinetic energy entirely",
+    "Instead, it redirects or dissipates kinetic energy through controlled movement",
+    "The goal is to reduce the force of impact by managing kinetic energy",
+    "Taking ukemi does not halt kinetic energy but reduces its harmful effects"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Taking ukemi refers to the technique of falling or receiving in martial arts",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The practice involves moving the body to minimize injury during a fall or impact",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Kinetic energy is the energy of motion, and it is present during falls or impacts",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Taking ukemi does not halt kinetic energy entirely",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Instead, it redirects or dissipates kinetic energy through controlled movement",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The goal is to reduce the force of impact by managing kinetic energy",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Taking ukemi does not halt kinetic energy but reduces its harmful effects",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

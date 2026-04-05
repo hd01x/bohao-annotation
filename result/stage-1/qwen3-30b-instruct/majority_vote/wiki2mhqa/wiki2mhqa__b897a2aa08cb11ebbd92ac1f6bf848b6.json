@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__b897a2aa08cb11ebbd92ac1f6bf848b6",
+  "sample_id": "b897a2aa08cb11ebbd92ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film came out first, João Da Mata or Beautiful Girls (Film)?",
+  "gold_answer": "João Da Mata",
+  "context": [
+    "João da Silva is a Portuguese footballer who played as a half- back.",
+    "Cauê Santos da Mata, or simply Cauê( born May 1, 1986), is a Brazilian football( soccer) midfielder. He currently plays the\" Campeonato Gaúcho\" for\" São José de Porto Alegre\" and has previously played for others clubs in Brazil, Japan and USA. He also played for Brazilian National Team U- 17.",
+    "Beautiful Girls is a 1996 American romantic comedy- drama film directed by Ted Demme from a screenplay written by Scott Rosenberg, starring Matt Dillon, Lauren Holly, Timothy Hutton, Rosie O' Donnell, Martha Plimpton, Natalie Portman, Michael Rapaport, Mira Sorvino and Uma Thurman.",
+    "Matamata, Mata- Mata or mata mata may refer to:",
+    "Esporte Clube São João da Barra, commonly known as São João da Barra, is a Brazilian football club based in São João da Barra, Rio de Janeiro state.",
+    "São João da Mata is a municipality in the state of Minas Gerais in the Southeast region of Brazil.",
+    "Water is the 2006 compilation album from Australian three- piece band The Beautiful Girls.",
+    "The Roman Catholic Diocese of São João da Boa Vista is a diocese located in the city of São João da Boa Vista in the Ecclesiastical province of Ribeirão Preto in Brazil.",
+    "João da Mata is a 1923 Brazilian silent political drama film directed by Amilar Alves. The film premiered in Rio de Janeiro on October 9, 1923",
+    "João da Silveira( also known as João da Silva) was the first Captain of Portuguese Ceylon. Silveira was appointed in 1518 under Manuel I of Portugal. He was succeeded by Lopo de Brito."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJoão da Mata is a 1923 Brazilian silent political drama film directed by Amilar Alves.\nBeautiful Girls is a 1996 American romantic comedy-drama film directed by Ted Demme.\n1923 is earlier than 1996.\nThe film that came out first is João da Mata.\n<answer> João da Mata",
+  "predicted_answer": "João da Mata",
+  "claims": [
+    "João da Mata is a 1923 Brazilian silent political drama film directed by Amilar Alves",
+    "Beautiful Girls is a 1996 American romantic comedy-drama film directed by Ted Demme",
+    "1923 is earlier than 1996",
+    "The film that came out first is João da Mata"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "João da Mata is a 1923 Brazilian silent political drama film directed by Amilar Alves",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Beautiful Girls is a 1996 American romantic comedy-drama film directed by Ted Demme",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "1923 is earlier than 1996",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The film that came out first is João da Mata",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

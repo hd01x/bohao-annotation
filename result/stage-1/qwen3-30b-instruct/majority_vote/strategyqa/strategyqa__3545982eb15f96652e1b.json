@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__3545982eb15f96652e1b",
+  "sample_id": "3545982eb15f96652e1b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would students at Marist have to petition to get a rowing team?",
+  "gold_answer": "no",
+  "context": [
+    "Marist is located along the Hudson River.",
+    "Marist college has rowing teams for both men and women."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMarist is located along the Hudson River.\nMarist college has rowing teams for both men and women.\nThe presence of rowing teams at Marist college indicates that they are already established.\nStudents at Marist do not need to petition to get a rowing team because it already exists.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Marist is located along the Hudson River",
+    "Marist college has rowing teams for both men and women",
+    "The presence of rowing teams at Marist college indicates that they are already established",
+    "Students at Marist do not need to petition to get a rowing team because it already exists"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Marist is located along the Hudson River",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Marist college has rowing teams for both men and women",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The presence of rowing teams at Marist college indicates that they are already established",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Students at Marist do not need to petition to get a rowing team because it already exists",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

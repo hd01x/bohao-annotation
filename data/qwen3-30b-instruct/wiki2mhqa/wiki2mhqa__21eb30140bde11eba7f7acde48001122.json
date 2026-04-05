@@ -1,0 +1,32 @@
+{
+  "uid": "wiki2mhqa__21eb30140bde11eba7f7acde48001122",
+  "sample_id": "21eb30140bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where did the director of film Nalini By Day, Nancy By Night graduate from?",
+  "gold_answer": "Mount Holyoke College",
+  "context": [
+    "Peter Levin is an American director of film, television and theatre.",
+    "Escape by Night is a 1937 American film directed by Hamilton MacFadden.",
+    "Now Where Did the 7th Company Get To? is a 1973 French- Italian comedy war film directed by Robert Lamoureux. The film portrays the adventures of a French Army squad lost somewhere on the front in May 1940 during the Battle of France.",
+    "Nada Zeidan is\" one of Qatar ’s greatest celebrities — archer, spokesmodel, and road racer by day, mild- mannered emergency- room nurse by night.\"",
+    "Ian Barry is an Australian director of film and TV.",
+    "Nalini by Day, Nancy by Night is a 2005 documentary film by filmmaker Sonali Gulati. This film explores business process outsourcing in India. Told from the perspective of an Indian living in the United States, the film provides us with a glimpse into India’s call centers,\nwhere telemarketers acquire American names and accents to service the telephone-support industry of the U.S. The film incorporates animation as a way to build in personal narrative in a doodle-like manner. It also includes live action footage which takes the form of cinema verité and innovatively edited interviews, and archival footage that provides contextual analysis to the socio-political history of globalization and capitalism. The film is a commentary on identity in the new millennium that intersects diaspora with global outsourcing. It was first shown at the 2005 Margaret Mead Film Festival.",
+    "Clash by Night( released in the US as Escape by Night) is a 1963 British crime thriller directed by Montgomery Tully and starring Terence Longdon and Jennifer Jayne.",
+    "Sonali Gulati is an Indian independent filmmaker, a feminist, grass-roots activist, and an educator. She is a Professor at Virginia Commonwealth University's Department of Photography & Film. She has an MFA in Film & Media Arts from Temple University and a BA in Critical Social Thought from Mount Holyoke College. Ms. Gulati grew up in New Delhi, India and has made several short films that have screened at over four hundred film festivals worldwide.",
+    "Nor the Moon by Night is a 1958 British drama film directed by Ken Annakin and starring Michael Craig. It was based on the novel by Joy Packer and filmed in the Kruger National Park South Africa. The title comes from a passage in the Bible;\" The sun shall not smite thee by day, nor the moon by night.\" Psalm 121:6 The film was released in the United States as Elephant Gun.",
+    "The Seventh Company Outdoors is a 1977 French comedy film directed by Robert Lamoureux. It is a sequel to Now Where Did the 7th Company Get to ?."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nNalini by Day, Nancy by Night is a 2005 documentary film directed by Sonali Gulati.\nSonali Gulati is an Indian independent filmmaker and educator.\nSonali Gulati has an MFA in Film & Media Arts from Temple University.\nThe director of Nalini by Day, Nancy by Night graduated from Temple University.\nSo, the answer is Temple University.\n<answer> Temple University",
+  "claims": [
+    "Nalini by Day, Nancy by Night is a 2005 documentary film directed by Sonali Gulati",
+    "Sonali Gulati is an Indian independent filmmaker and educator",
+    "Sonali Gulati has an MFA in Film & Media Arts from Temple University",
+    "The director of Nalini by Day, Nancy by Night graduated from Temple University",
+    "So, the answer is Temple University"
+  ],
+  "predicted_answer": "Temple University"
+}

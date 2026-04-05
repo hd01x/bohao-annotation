@@ -1,0 +1,151 @@
+{
+  "uid": "musique__4hop3__129754_29339_508306_70744",
+  "sample_id": "4hop3__129754_29339_508306_70744",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who has more national championships than the school with Fort Hill or the facility in the location Edwards won the primary, but not the state with the 404 area code?",
+  "gold_answer": "University of South Carolina",
+  "context": [
+    "Area code 404 of the North American Numbering Plan (NANP) identifies a numbering plan area (NPA) that covers Atlanta, Georgia and its closest suburbs, roughly the area encircled by Interstate 285. It is an enclave area code, completely surrounded by area code 770, which serves most of Atlanta's suburbs. Both 404 and 770 are overlaid by area codes 678 and 470.",
+    "Fort Hill, also known as the John C. Calhoun Mansion and Library, is a National Historic Landmark on the Clemson University campus in Clemson, South Carolina. The house is significant as the home from 1825-50 of John C. Calhoun, a leading national politician of the period, and is now a museum and library maintained in his memory.",
+    "Gravel Hill is an unincorporated community in Sussex County, Delaware, United States. Gravel Hill is located at the intersection of U.S. Route 9/Delaware Route 404 and Delaware Route 30 east of Georgetown.",
+    "Kennecott, also known as Kennicott and Kennecott Mines, is an abandoned mining camp in the Valdez - Cordova Census Area in the U.S. state of Alaska that was the center of activity for several copper mines. It is located beside the Kennicott Glacier, northeast of Valdez, inside Wrangell - St. Elias National Park and Preserve. The camp and mines are now a National Historic Landmark District administered by the National Park Service.",
+    "Stirling is an unincorporated community located within Long Hill Township in Morris County, New Jersey, United States. The area is served as United States Postal Service ZIP Code 07980.",
+    "College comparison Clemson University University of South Carolina Location Clemson Columbia Students 23,406 34,618 School colors Clemson Orange and Regalia Garnet and Black Nickname Tigers Gamecocks Mascot The Tiger and The Tiger Cub Cocky National Championships 5 10",
+    "Delaware Route 404 (DE 404) is a major state highway in Sussex County, Delaware that spans the width of the state. DE 404's western terminus is at the Maryland border northwest of Bridgeville, where it continues as Maryland Route 404 (MD 404), and its eastern terminus is at the Five Points intersection with U.S. Route 9 (US 9), DE 1, and US 9 Business (US 9 Bus.). The route passes through rural areas as well as the towns of Bridgeville and Georgetown. DE 404 runs concurrent with DE 18 from east of Bridgeville to Georgetown and with US 9 from Georgetown to Five Points. DE 404 has a business route, DE 404 Bus., that passes through Bridgeville and a truck route, DE 404 Truck, that bypasses Georgetown. DE 404, along with MD 404, serves as a major route connecting the Chesapeake Bay Bridge and the Baltimore-Washington Metropolitan Area with the Delaware Beaches.",
+    "Fort Meade National Cemetery is a United States National Cemetery located near the city of Sturgis in Meade County, South Dakota. Administered by the United States Department of Veterans Affairs, it encompasses . It is maintained by Black Hills National Cemetery.",
+    "Dallas/Fort Worth International Airport (IATA: DFW, ICAO: KDFW, FAA LID: DFW) is the primary international airport serving the Dallas–Fort Worth metroplex area in the U.S. state of Texas.",
+    "David is an unincorporated community and coal town in Floyd County, Kentucky, United States along County Route 404. Located in the Appalachian Mountains, it lies approximately southeast of Lexington. The town was named for David L. Francis, president of Princess Elkhorn Coal Company which originally built and owned the town. It bears the postal ZIP code 41616. The U.S. Census of 2000 recorded a population of 435.",
+    "Glade Hill (also known as Gladehill) is an unincorporated community in Franklin County, Virginia, United States. Glade Hill is located on Virginia State Route 40 east of Rocky Mount. Glade Hill has a post office with ZIP code 24092, which opened on April 1, 1837.",
+    "A Nigerian State is a federated political entity, which shares sovereignty with the Federal Government of Nigeria, There are 36 States in Nigeria, which are bound together by a federal agreement. There is also a territory called the Federal Capital Territory (FCT), which is not a state, but a territory, under the direct control of the Federal Government. The States are further divided into a total of 774 Local Government Areas. Under the Nigerian Constitution, states have the power to ratify constitutional amendments.",
+    "In March's Super Tuesday, Kerry won decisive victories in the California, Connecticut, Georgia, Maryland, Massachusetts, New York, Ohio, and Rhode Island primaries and the Minnesota caucuses. Dean, despite having withdrawn from the race two weeks earlier, won his home state of Vermont. Edwards finished only slightly behind Kerry in Georgia, but, failing to win a single state other than South Carolina, chose to withdraw from the presidential race. Sharpton followed suit a couple weeks later. Kuninch did not leave the race officially until July.",
+    "Doe Hill is an unincorporated community in Highland County, Virginia, United States. Doe Hill is located southwest of the border with West Virginia on State Route 654. Doe Hill has a post office with ZIP code 24433. The community was named for the great number of does that could be seen in the nearby hills in earlier times.",
+    "Roxbury High Fort is a historic fort site on Beech Glen Street at Fort Avenue in the Roxbury neighborhood of Boston, Massachusetts. The site now contains a small park and the Cochituate Standpipe, also known as Fort Hill Tower, built in 1869. The fort site was added to the National Register of Historic Places in 1973. The site inspired the name of the Fort Hill neighborhood which surrounds the area of the High Fort.",
+    "Menteng is an administrative village in the Menteng district of Indonesia. It has a postal code of 10310. It is located on the southern area of the Menteng Project.",
+    "The name Vatican city was first used in the Lateran Treaty, signed on 11 February 1929, which established the modern city - state. The name is taken from Vatican Hill, the geographic location of the state. ``Vatican ''is derived from the name of an Etruscan settlement, Vatica or Vaticum meaning garden, located in the general area the Romans called vaticanus ager,`` Vatican territory''.",
+    "Bayville is an unincorporated community located within Berkeley Township in Ocean County, New Jersey, United States. The area is served as United States Postal Service ZIP Code 08721. As of the 2010 United States Census, the population for ZIP Code Tabulation Area (ZCTA) 08721 was 20,512. Central Regional High School is the local high school for the area.",
+    "Cassamata Hill National Park is a protected area of the Philippines located in the municipality of Bangued, Abra in the Cordillera Administrative Region. The park covers an area of 57 hectares (140 acres) and was declared a protected area in 1974.",
+    "Fort Irwin National Training Center is a major training area for the United States military and is a census-designated place located in the Mojave Desert in northern San Bernardino County, California. Fort Irwin is at an average elevation of . It is located northeast of Barstow, in the Calico Mountains."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFort Hill is located on the Clemson University campus in Clemson, South Carolina.\nClemson University has 5 national championships.\nThe facility in the location where Edwards won the primary but not the state with the 404 area code is not specified.\nEdwards won the primary in Georgia, which has area code 404.\nThe school in Georgia with the 404 area code is the University of Georgia.\nThe University of Georgia has 1 national championship.\nClemson University has more national championships than the University of Georgia.\nThe school with Fort Hill has more national championships than the school in the location Edwards won the primary but not the state with the 404 area code.\n<answer> The school with Fort Hill",
+  "predicted_answer": "The school with Fort Hill",
+  "claims": [
+    "Fort Hill is located on the Clemson University campus in Clemson, South Carolina",
+    "Clemson University has 5 national championships",
+    "The facility in the location where Edwards won the primary but not the state with the 404 area code is not specified",
+    "Edwards won the primary in Georgia, which has area code 404",
+    "The school in Georgia with the 404 area code is the University of Georgia",
+    "The University of Georgia has 1 national championship",
+    "Clemson University has more national championships than the University of Georgia",
+    "The school with Fort Hill has more national championships than the school in the location Edwards won the primary but not the state with the 404 area code"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Fort Hill is located on the Clemson University campus in Clemson, South Carolina",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Clemson University has 5 national championships",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The facility in the location where Edwards won the primary but not the state with the 404 area code is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Edwards won the primary in Georgia, which has area code 404",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The school in Georgia with the 404 area code is the University of Georgia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The University of Georgia has 1 national championship",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Clemson University has more national championships than the University of Georgia",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The school with Fort Hill has more national championships than the school in the location Edwards won the primary but not the state with the 404 area code",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

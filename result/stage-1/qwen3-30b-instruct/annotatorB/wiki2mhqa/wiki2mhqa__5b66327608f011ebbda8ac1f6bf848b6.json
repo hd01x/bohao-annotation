@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__5b66327608f011ebbda8ac1f6bf848b6",
+  "sample_id": "5b66327608f011ebbda8ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who was born later, Narayana Kasturi or Sigismund Toduță?",
+  "gold_answer": "Sigismund Toduță",
+  "context": [
+    "Joël Henry( born 1955) is a French journalist who was born in Strasbourg.",
+    "Alexander Fuks( 30 May 1917 – 29 November 1978) was a German- born, later Israeli historian, archaeologist and papyrologist. He worked with Victor Tcherikover and Menahem Stern on the standard edition of Jewish papyri. He was a specialist in the study of Hellenistic Judaism.",
+    "Catherine I( born, later known as Marta Samuilovna Skavronskaya; –) was the second wife of Peter the Great and Empress of Russia from 1725 until her death.",
+    "Narayana Kasturi( 25 December 1897 – 14 August 1987) was born Kasturi Ranganatha Sharma in North Travancore, which now forms part of the modern day Indian state of Kerala. He is remembered by many as a great visionary who promoted human fraternity and multilingualism. He received his bachelor's degree in Law, and his master's degree in Arts from the University College, Trivandrum, India. \" After his degree at the age of 21, he stumbled up on an advertisement for the post of a lecturer in a High School in the city of Mysore.\" He acquired the position. After a few years, Kasturi began to\" seriously contemplate on a career in Law.\" Around 1928 he served as a lecturer in Maharaja's College of Arts( affiliated to the Mysore University). He served as the Secretary of the Sri Ramakrishna Mission in Mysore for over seventeen years. During these years he came into contact with Sri Siddharudha Swami, Ramana Maharshi, Meher Baba, and Narayana Guru; and was initiated into Japam by Mahapurushji, the direct disciple of Ramakrishna Paramahamsa. He met Sathya Sai Baba in the year 1948 in Bangalore. In his first meeting with Sathya Sai Baba, Sai Baba related, After retiring from the University, stay with Me. You can write My biography. Me?\" Kasturi replied. \" Yes, I shall tell you whom to consult for details – parents, brothers, kinsmen, neighbours, teachers, etc. I shall also help.\" It was July 1948.\" He began to write the life of Sathya Sai Baba and published it as\" Sathyam Sivam Sundaram\" Part I. He later became the editor of the magazine of the Sathya Sai Organization, called\" Sanathana Sarathi\". In 1949,\" a University Order sent Mr. Kasturi to the Intermediate College, Davangere as its Principal.\" Kasturi stayed on for five years and then retired. \" When he retired in 1954 with a full year's pension, Swami( Sai Baba) suggested that he go on a spiritual pilgrimage to North India taking his mother and wife along.\" In 1956, Sathya Sai Baba suggested, and in spite of Kasturi's reluctance,\" convinced him to accept the offer of the post of Producer of Programmes for the newly established All India Radio Station, Bangalore.\" Kasturi enjoyed the post immensely, and\" during a visit to Bangalore in 1958,( Sathya Sai Baba) spotted him( Kasturi) at the residence of Mr. Vittal Rao and said,\" Now, you have to work at Puttaparthi. A monthly magazine will start soon. Guess! How is it named?\" \" In the initial days of\" Sanathana Sarathi\", with no professional or skilled help of any kind, be it in writing and editing to printing, pasting and parceling, it was a tremendous responsibility for Professor Kasturi to ensure that the issue, flawless in every aspect, reached the readers on time.\" Mrs. Geeta Mohan Ram, who watched and played with Professor Kasturi as a tiny girl in those days, recalls,\" The whole process of type- setting would be repeated so many times. After the sheets were printed, the ink would still be wet. They would then have to be spread all over the floor to dry, so the ink would not smear. Later, the pages were carefully collated, stapled together, packed and addressed in preparation for mailing – all done by hand. Although there were a few volunteers to help him, I remember Professor Kasturi doing all these jobs, month in and month out, for so many years. This was truly his labor of love for Swami( Sathya Sai Baba).\"",
+    "Dorothee Metlitzki( or Devora Metlitsky; July 27, 1914 – April 14, 2001) was a German- born, later American, author and professor of English at the University of California, Berkeley and, for most of her career, at Yale University. She was a specialist in medieval English literature and history, Arabic literature and language and of the author Herman Melville. In addition she was a Zionist who played an important role in the foundation of the modern State of Israel.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Jacob Knaani( Kishenev, 1894- Jerusalem, 1978) was a Moldavian born, later Israeli, lexicographer. He is not to be confused with another Hebrew lexicographer, Judah Even Shemuel, who also had the German- Yiddish surname Kaufmann, and whose English- Hebrew dictionary was known as the\" Kaufmann Dictionary\".",
+    "Edwin William Gruffydd Richards (sometimes referred to as Edward; 15 December 1879 – 10 December 1930) was a Welsh field hockey player from Abergavenny who competed in the 1908 Summer Olympics where he won the bronze medal as a member of the Wales team. Richards was the son of Susanna Thomas and Edwin William Richards, an iron monger from Goytre. His father died from Typhoid on the 3 September 1879; Edwin was born later that year on 15 December. He died in Ipswich on 10 December 1930.",
+    "Sigismund Toduță (Simeria, 17 May 1908 - Cluj-Napoca, 3 July 1991) was a Romanian composer, musicologist, and professor.",
+    "Judah Even Shemuel( Ukraine, 1886- Jerusalem, 1976) was a Ukrainian born, later Israeli, lexicographer, whose English- Hebrew dictionary was known as\" The Kaufman Dictionary\". He is not to be confused with another Hebrew lexicographer, Jacob Knaani, who also had the German- Yiddish surname Kaufmann."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nNarayana Kasturi was born on 25 December 1897.\nSigismund Toduță was born on 17 May 1908.\n1908 is later than 1897.\nSigismund Toduță was born later than Narayana Kasturi.\n<answer> Sigismund Toduță",
+  "predicted_answer": "Sigismund Toduță",
+  "claims": [
+    "Narayana Kasturi was born on 25 December 1897",
+    "Sigismund Toduță was born on 17 May 1908",
+    "1908 is later than 1897",
+    "Sigismund Toduță was born later than Narayana Kasturi"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Narayana Kasturi was born on 25 December 1897",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Sigismund Toduță was born on 17 May 1908",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1908 is later than 1897",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Sigismund Toduță was born later than Narayana Kasturi",
+      "claim_type": "DR"
+    }
+  ]
+}

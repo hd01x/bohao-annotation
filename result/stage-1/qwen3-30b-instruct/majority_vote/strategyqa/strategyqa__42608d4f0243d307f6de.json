@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__42608d4f0243d307f6de",
+  "sample_id": "42608d4f0243d307f6de",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would Bugs Bunny harm an olive tree in the real world?",
+  "gold_answer": "yes",
+  "context": [
+    "Bugs Bunny is an anthropomorphic gray and white rabbit.",
+    "Rabbits eat the bark of olive trees and can do considerable damage, especially to young trees."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBugs Bunny is an anthropomorphic gray and white rabbit.\nRabbits eat the bark of olive trees and can cause considerable damage, especially to young trees.\nBugs Bunny, as a rabbit, would exhibit the natural feeding behavior of rabbits.\nThe bark of olive trees is a food source for rabbits in the real world.\nBugs Bunny would harm an olive tree in the real world by eating its bark.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Bugs Bunny is an anthropomorphic gray and white rabbit",
+    "Rabbits eat the bark of olive trees and can cause considerable damage, especially to young trees",
+    "Bugs Bunny, as a rabbit, would exhibit the natural feeding behavior of rabbits",
+    "The bark of olive trees is a food source for rabbits in the real world",
+    "Bugs Bunny would harm an olive tree in the real world by eating its bark"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bugs Bunny is an anthropomorphic gray and white rabbit",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Rabbits eat the bark of olive trees and can cause considerable damage, especially to young trees",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Bugs Bunny, as a rabbit, would exhibit the natural feeding behavior of rabbits",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The bark of olive trees is a food source for rabbits in the real world",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Bugs Bunny would harm an olive tree in the real world by eating its bark",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

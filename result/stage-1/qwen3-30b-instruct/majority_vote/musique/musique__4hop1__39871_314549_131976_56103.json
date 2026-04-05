@@ -1,0 +1,110 @@
+{
+  "uid": "musique__4hop1__39871_314549_131976_56103",
+  "sample_id": "4hop1__39871_314549_131976_56103",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "When do hurricanes occur in the ocean that borders the state where Williamsburg, Main Street Station and another share a track?",
+  "gold_answer": "usually in the summer or fall",
+  "context": [
+    "The interchange consists of a National Rail station, a London Underground station and two bus stations, all interconnected. The main entrances are by the eastern bus station on Station Place. The National Rail ticket office here lies in between one entrance marked by the Underground roundel symbol, while the other is marked by the National Rail symbol, and provides direct access to the main line platforms. There is another exit by the western bus station along Wells Terrace, incorporating the Underground ticket office, plus a narrow side entrance to the south on the A503 Seven Sisters Road. The complex is located in Travelcard Zone 2.",
+    "The Dallas Municipal Building is a Dallas Landmark located along S. Harwood Street between Main and Commerce Street in the Main Street District of downtown Dallas, Texas that served as the city's fourth City Hall. The structure is also a Recorded Texas Historic Landmark and a contributing property in the Harwood Street Historic District, located across the street from Main Street Garden Park.",
+    "San Juan is located along the north - eastern coast of Puerto Rico. It lies south of the Atlantic Ocean; north of Caguas and Trujillo Alto; east of and Guaynabo; and west of Carolina. The city occupies an area of 76.93 square miles (199.2 km), of which, 29.11 square miles (75.4 km) (37.83%) is water. San Juan's main water bodies are San Juan Bay and two natural lagoons, the Condado and San José.",
+    "Oulu–Kontiomäki railway is a railway line in Finland. The line is owned and maintained by the Finnish Rail Administration. It connects the city of Oulu to station at Kontiomäki, which is a junction of five railway lines in Paltamo municipality, approximately north from the city of Kajaani. The line is single-tracked and electrified with a total length of . The traffic is controlled via centralized traffic control by the operator located in Oulu rail traffic control center at Oulu railway station. The line follows the south shore of Oulu River.",
+    "McCarren Park is a public park in Brooklyn, New York City. It is located in both Williamsburg, Brooklyn and Greenpoint, Brooklyn and is bordered by Nassau Avenue, Bayard Street, Lorimer Street and North 12th Street. It is operated by the New York City Department of Parks and Recreation. Opened in 1906 and originally named Greenpoint Park, the park was renamed McCarren Park in 1909 after State Senator Patrick H. McCarren (1849–1909), who began work as a cooper at Williamsburg sugar refineries and eventually became the Democratic boss of Brooklyn. The park is a popular destination for recreational softball, volleyball, soccer, handball, and other games. It is also used for sunbathing and dog-walking. In late 2004, the park's track was resurfaced and has been a popular destination for running enthusiasts.",
+    "Kipling GO Station is a GO Transit railway station along the Milton line rail corridor in the Greater Toronto Area, Ontario, Canada. It is located at 27 St. Albans Road in the Islington-City Centre West neighbourhood of Toronto (formerly Etobicoke), near Dundas Street. It is connected to the TTC's Kipling station on the Bloor-Danforth subway line which is right underneath it.",
+    "Mosaic Dallas, formerly Fidelity Union Life Insurance Building, is a residential development in the City Center District of downtown Dallas, Texas (USA), adjacent to Thanks-giving Square. The complex is located at 300 North Akard Street, across the street from DART's Akard Station, which serves its , and light rail lines.",
+    "The Melbourne rail network has its origins in privately built lines from the 1850s gold rush era, and today the suburban network consists of 209 suburban stations on 16 lines which radiate from the City Loop, a partially underground metro section of the network beneath the Central Business District (Hoddle Grid). Flinders Street Station is Melbourne's busiest railway station, and was the world's busiest passenger station in 1926. It remains a prominent Melbourne landmark and meeting place. The city has rail connections with regional Victorian cities, as well as direct interstate rail services to Sydney and Adelaide and beyond which depart from Melbourne's other major rail terminus, Southern Cross Station in Spencer Street. In the 2013–2014 financial year, the Melbourne rail network recorded 232.0 million passenger trips, the highest in its history. Many rail lines, along with dedicated lines and rail yards are also used for freight. The Overland to Adelaide departs Southern Cross twice a week, while the XPT to Sydney departs twice a day.",
+    "Virginia has a total area of , including of water, making it the 35th-largest state by area. Virginia is bordered by Maryland and Washington, D.C. to the north and east; by the Atlantic Ocean to the east; by North Carolina to the south; by Tennessee to the southwest; by Kentucky to the west; and by West Virginia to the north and west. Virginia's boundary with Maryland and Washington, D.C. extends to the low-water mark of the south shore of the Potomac River. The southern border is defined as the 36° 30′ parallel north, though surveyor error led to deviations of as much as three arcminutes. The border with Tennessee was not settled until 1893, when their dispute was brought to the U.S. Supreme Court.",
+    "The State Railways Administration of Uruguay (AFE) operates three commuter rail lines, namely the Empalme Olmos, San Jose and Florida. These lines operate to major suburban areas of Canelones, San José and Florida. Within the Montevideo city limits, local trains stop at Lorenzo Carnelli, Yatai (Step Mill), Sayago, Columbus (line to San Jose and Florida), Peñarol and Manga (line Empalme Olmos) stations. The historic 19th century General Artigas Central Station located in the neighbourhood of Aguada, six blocks from the central business district, was abandoned 1 March 2003 and remains closed. A new station, 500 metres (1,600 ft) north of the old one and part of the Tower of Communications modern complex, has taken over the rail traffic.",
+    "Waban is a surface-level light rail station on the Massachusetts Bay Transportation Authority's Green Line \"D\" Branch, located just south of Beacon Street at Waban Square in the Waban section of Newton, Massachusetts. The station is located below grade; access to both platforms is via Wyman Street on the outbound side of the tracks or a stairway from Beacon Street. Waban is not accessible.",
+    "Newport News is included in the Hampton Roads metropolitan area. It is at the southeastern end of the Virginia Peninsula, on the northern shore of the James River extending southeast from Skiffe's Creek along many miles of waterfront to the river's mouth at Newport News Point on the harbor of Hampton Roads. The area now known as Newport News was once a part of Warwick County. Warwick County was one of the eight original shires of Virginia, formed by the House of Burgesses in the British Colony of Virginia by order of King Charles I in 1634. The county was largely composed of farms and undeveloped land until almost 250 years later.",
+    "Refugio is a station on line 1 of the Guadalajara light rail system in the Guadalajara Metropolitan Area, Mexico. The station is located just north of the Parish Church of Our Lady of Refuge (La Parroquia de Nuestra Señora del Refugio) on Del Federalismo between Joaquín Angulo and Herrera y Cairo streets in the city centre.",
+    "An Atlantic hurricane or tropical storm is a tropical cyclone that forms in the Atlantic Ocean, usually in the summer or fall. A hurricane differs from a cyclone or typhoon only on the basis of location. A hurricane is a storm that occurs in the Atlantic Ocean and northeastern Pacific Ocean, a typhoon occurs in the northwestern Pacific Ocean, and a cyclone occurs in the south Pacific or Indian Ocean.",
+    "Tottenham railway station is located on the Sunbury line in Victoria, Australia. It serves the western Melbourne suburbs of Tottenham and West Footscray, opening on 2 March 1891. It is located above the Ashley Street rail overpass, which provides station access.",
+    "Kera is a station on the VR commuter rail network located in Karamalmi, a district of the city of Espoo in Finland. It is situated between stations Kilo railway station and Kauniainen railway station. It is located about to the northwest/west of Helsinki Central railway station.",
+    "Metropolitan Avenue/Lorimer Street is an underground New York City Subway station complex shared by the BMT Canarsie Line and the IND Crosstown Line. Located in the Williamsburg neighborhood of Brooklyn, the complex is served by the G and L trains at all times.",
+    "A typhoon differs from a cyclone or hurricane only on the basis of location. A hurricane is a storm that occurs in the Atlantic Ocean and northeastern Pacific Ocean, a typhoon occurs in the northwestern Pacific Ocean, and a cyclone occurs in the south Pacific or Indian Ocean.",
+    "The Monongahela City Bridge spans the Monongahela River from the City of Monongahela in Washington County, Pennsylvania to Forward Township in Allegheny County, Pennsylvania. It was constructed to replace a bridge which was 1/4 of a mile north of its location at First and Main Streets, and it opened to traffic in 1990.",
+    "The Richmond area also has two railroad stations served by Amtrak. Each station receives regular service from north of Richmond including Washington, D.C., Philadelphia, and New York. The suburban Staples Mill Road Station is located on a major north-south freight line and receives all service to and from all points south including, Raleigh, Durham, Savannah, Newport News, Williamsburg and Florida. Richmond's only railway station located within the city limits, the historic Main Street Station, was renovated in 2004. As of 2010, the station only receives trains headed to and from Newport News and Williamsburg due to track layout. As a result, the Staples Mill Road station receives more trains and serves more passengers overall."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nWilliamsburg, Main Street Station, and another station share a track in the Richmond area of Virginia.\nVirginia is bordered by the Atlantic Ocean to the east.\nHurricanes occur in the Atlantic Ocean during the summer and fall.\nThe ocean that borders Virginia is the Atlantic Ocean.\nHurricanes occur in the Atlantic Ocean during the summer and fall.\n<answer> Summer and fall",
+  "predicted_answer": "Summer and fall",
+  "claims": [
+    "Williamsburg, Main Street Station, and another station share a track in the Richmond area of Virginia",
+    "Virginia is bordered by the Atlantic Ocean to the east",
+    "Hurricanes occur in the Atlantic Ocean during the summer and fall",
+    "The ocean that borders Virginia is the Atlantic Ocean",
+    "Hurricanes occur in the Atlantic Ocean during the summer and fall"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Williamsburg, Main Street Station, and another station share a track in the Richmond area of Virginia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Virginia is bordered by the Atlantic Ocean to the east",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Hurricanes occur in the Atlantic Ocean during the summer and fall",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The ocean that borders Virginia is the Atlantic Ocean",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Hurricanes occur in the Atlantic Ocean during the summer and fall",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

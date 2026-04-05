@@ -1,0 +1,147 @@
+{
+  "uid": "strategyqa__23506d586f694c3fc8ec",
+  "sample_id": "23506d586f694c3fc8ec",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would a honey badger fit inside an oven?",
+  "gold_answer": "yes",
+  "context": [
+    " Adult honey badgers measure 23 to 28 cm (9.1 to 11.0 in) in shoulder height and 55–77 cm (22–30 in) in body length, with the tail adding another 12–30 cm (4.7–11.8 in).",
+    "Thirty-inch ovens are the standard for most homes and most kitchens. The inside dimensions of the oven are approximately 25 inches wide and 16 inches high. The oven will be approximately 16 inches deep. "
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA honey badger has a body length of 55–77 cm (22–30 in).\nThe inside width of a standard oven is approximately 25 inches.\nThe inside height of a standard oven is approximately 16 inches.\nThe inside depth of a standard oven is approximately 16 inches.\nA honey badger's body length is up to 30 inches.\nThe oven's internal dimensions are 25 inches wide, 16 inches high, and 16 inches deep.\nThe honey badger's body length of 30 inches exceeds the oven's width of 25 inches.\nThe honey badger's body length exceeds the oven's internal dimensions in all directions.\nA honey badger would not fit inside an oven.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "A honey badger has a body length of 55–77 cm (22–30 in)",
+    "The inside width of a standard oven is approximately 25 inches",
+    "The inside height of a standard oven is approximately 16 inches",
+    "The inside depth of a standard oven is approximately 16 inches",
+    "A honey badger's body length is up to 30 inches",
+    "The oven's internal dimensions are 25 inches wide, 16 inches high, and 16 inches deep",
+    "The honey badger's body length of 30 inches exceeds the oven's width of 25 inches",
+    "The honey badger's body length exceeds the oven's internal dimensions in all directions",
+    "A honey badger would not fit inside an oven"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A honey badger has a body length of 55–77 cm (22–30 in)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The inside width of a standard oven is approximately 25 inches",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The inside height of a standard oven is approximately 16 inches",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The inside depth of a standard oven is approximately 16 inches",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A honey badger's body length is up to 30 inches",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The oven's internal dimensions are 25 inches wide, 16 inches high, and 16 inches deep",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The honey badger's body length of 30 inches exceeds the oven's width of 25 inches",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The honey badger's body length exceeds the oven's internal dimensions in all directions",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "A honey badger would not fit inside an oven",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

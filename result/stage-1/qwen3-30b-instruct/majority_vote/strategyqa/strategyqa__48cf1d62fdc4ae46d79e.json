@@ -1,0 +1,135 @@
+{
+  "uid": "strategyqa__48cf1d62fdc4ae46d79e",
+  "sample_id": "48cf1d62fdc4ae46d79e",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would a body builder prefer an elk burger over a beef burger?",
+  "gold_answer": "yes",
+  "context": [
+    "Bodybuilders want to build muscle and keep fat low",
+    "Elk meat is leaner than beef",
+    "Elk meat has higher protein than beef",
+    "Protein helps build muscle"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBodybuilders aim to build muscle and maintain low body fat.\nElk meat is leaner than beef, meaning it has less fat.\nElk meat contains more protein per serving than beef.\nProtein is essential for muscle growth and repair.\nHigher protein and lower fat content in elk meat align with bodybuilding dietary goals.\nA bodybuilder would prefer a food that supports muscle building and fat reduction.\nAn elk burger provides more protein and less fat compared to a beef burger.\nA bodybuilder would prefer an elk burger over a beef burger.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Bodybuilders aim to build muscle and maintain low body fat",
+    "Elk meat is leaner than beef, meaning it has less fat",
+    "Elk meat contains more protein per serving than beef",
+    "Protein is essential for muscle growth and repair",
+    "Higher protein and lower fat content in elk meat align with bodybuilding dietary goals",
+    "A bodybuilder would prefer a food that supports muscle building and fat reduction",
+    "An elk burger provides more protein and less fat compared to a beef burger",
+    "A bodybuilder would prefer an elk burger over a beef burger"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bodybuilders aim to build muscle and maintain low body fat",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Elk meat is leaner than beef, meaning it has less fat",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Elk meat contains more protein per serving than beef",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Protein is essential for muscle growth and repair",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Higher protein and lower fat content in elk meat align with bodybuilding dietary goals",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A bodybuilder would prefer a food that supports muscle building and fat reduction",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "An elk burger provides more protein and less fat compared to a beef burger",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "A bodybuilder would prefer an elk burger over a beef burger",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

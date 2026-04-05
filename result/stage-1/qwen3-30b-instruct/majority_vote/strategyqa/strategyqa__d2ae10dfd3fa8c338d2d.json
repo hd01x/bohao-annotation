@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__d2ae10dfd3fa8c338d2d",
+  "sample_id": "d2ae10dfd3fa8c338d2d",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is it dangerous to consume chlorine when mixed with sodium?",
+  "gold_answer": "no",
+  "context": [
+    "Chlorine mixed with sodium is sodium chloride, also known as table salt.",
+    "Table salt is one of the most commonly consumed seasonings among all cultures."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nChlorine mixed with sodium forms sodium chloride.\nSodium chloride is commonly known as table salt.\nTable salt is one of the most commonly consumed seasonings across all cultures.\nConsuming table salt is not dangerous under normal dietary conditions.\nIt is not dangerous to consume chlorine when mixed with sodium.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Chlorine mixed with sodium forms sodium chloride",
+    "Sodium chloride is commonly known as table salt",
+    "Table salt is one of the most commonly consumed seasonings across all cultures",
+    "Consuming table salt is not dangerous under normal dietary conditions",
+    "It is not dangerous to consume chlorine when mixed with sodium"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Chlorine mixed with sodium forms sodium chloride",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Sodium chloride is commonly known as table salt",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Table salt is one of the most commonly consumed seasonings across all cultures",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Consuming table salt is not dangerous under normal dietary conditions",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "It is not dangerous to consume chlorine when mixed with sodium",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

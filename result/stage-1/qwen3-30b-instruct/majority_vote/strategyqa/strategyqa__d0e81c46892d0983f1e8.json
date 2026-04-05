@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__d0e81c46892d0983f1e8",
+  "sample_id": "d0e81c46892d0983f1e8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could Eddie Murphy dial 911 in a car as a young child?",
+  "gold_answer": "no",
+  "context": [
+    "Eddie Murphy was born in 1961.",
+    "Car phones did not become commonplace in cars in America until 1984."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEddie Murphy was born in 1961.\nCar phones did not become commonplace in American cars until 1984.\nA young child in 1961 would not have access to a car phone.\n911 emergency services were established in the United States in 1968.\nThe 911 system was not available in cars during the 1960s.\nEddie Murphy could not dial 911 in a car as a young child.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Eddie Murphy was born in 1961",
+    "Car phones did not become commonplace in American cars until 1984",
+    "A young child in 1961 would not have access to a car phone",
+    "911 emergency services were established in the United States in 1968",
+    "The 911 system was not available in cars during the 1960s",
+    "Eddie Murphy could not dial 911 in a car as a young child"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Eddie Murphy was born in 1961",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Car phones did not become commonplace in American cars until 1984",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A young child in 1961 would not have access to a car phone",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "911 emergency services were established in the United States in 1968",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The 911 system was not available in cars during the 1960s",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Eddie Murphy could not dial 911 in a car as a young child",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

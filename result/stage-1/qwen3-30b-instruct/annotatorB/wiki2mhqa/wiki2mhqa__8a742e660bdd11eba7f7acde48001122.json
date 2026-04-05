@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__8a742e660bdd11eba7f7acde48001122",
+  "sample_id": "8a742e660bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the award that the director of film Napoleon (1995 Film) got?",
+  "gold_answer": "Emmy Award",
+  "context": [
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Napoleon is a 1995 Australian family film directed by Mario Andreacchio, and written by Michael Bourchier, Mario Andreacchio and Mark Saltzman about a golden retriever puppy who runs away from his city home to be a wild dog.",
+    "John Donatich is the Director of Yale University Press.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Michael Govan( born 1963) is the director of the Los Angeles County Museum of Art since 2006. Prior to this, Govan worked as the director of the Dia Art Foundation in New York City.",
+    "John Farrell is the director of YouTube in Latin America.",
+    "Etan Boritzer( born 1950) is an American writer of children ’s literature who is best known for his book\" What is God?\" first published in 1989. His best selling\" What is?\" illustrated children's book series on character education and difficult subjects for children is a popular teaching guide for parents, teachers and child- life professionals. Boritzer gained national critical acclaim after\" What is God?\" was published in 1989 although the book has caused controversy from religious fundamentalists for its universalist views. The other current books in the\" What is?\" series include What is Love?, What is Death?, What is Beautiful?, What is Funny?, What is Right?, What is Peace?, What is Money?, What is Dreaming?, What is a Friend?, What is True?, What is a Family?, What is a Feeling?\" The series is now also translated into 15 languages. Boritzer was first published in 1963 at the age of 13 when he wrote an essay in his English class at Wade Junior High School in the Bronx, New York on the assassination of John F. Kennedy. His essay was included in a special anthology by New York City public school children compiled and published by the New York City Department of Education. Boritzer now lives in Venice, California and maintains his publishing office there also. He has helped numerous other authors to get published through\" How to Get Your Book Published!\" programs. Boritzer is also a yoga teacher who teaches regular classes locally and guest- teaches nationally. He is also recognized nationally as an erudite speaker on\" The Teachings of the Buddha.\"",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Mario Andreacchio (born 1 January 1955) is an Australian film producer/director. Born in Leigh Creek, South Australia to Italian parents, Andreacchio graduated from Flinders University with a degree in Psychology (after originally going to University to study Experimental Physics), and then was selected to study at the Australian Film and Television School to train as a film director. He has directed nine cinema feature films, made a series of television specials, two telemovies, three children's mini-series and a variety of documentaries. In 1988, he won an International Emmy Award in the 'Children and Young People' category for \"Captain Johnno\", an episode of the 1988 \"Touch the Sun\" TV series. In 2008 Andreacchio founded a film production company AMPCO FILMS PTY LTD (the Adelaide Motion Picture Company), based in Norwood, South Australia. He has served on the boards of the Australian Film Finance Corporation and the South Australian Film Corporation."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nNapoleon (1995) is an Australian family film directed by Mario Andreacchio.\nMario Andreacchio is an Australian film producer and director.\nIn 1988, Mario Andreacchio won an International Emmy Award in the 'Children and Young People' category for \"Captain Johnno\".\nThe award received by the director of Napoleon (1995) is the International Emmy Award.\n<answer> International Emmy Award",
+  "predicted_answer": "International Emmy Award",
+  "claims": [
+    "Napoleon (1995) is an Australian family film directed by Mario Andreacchio",
+    "Mario Andreacchio is an Australian film producer and director",
+    "In 1988, Mario Andreacchio won an International Emmy Award in the 'Children and Young People' category for \"Captain Johnno\"",
+    "The award received by the director of Napoleon (1995) is the International Emmy Award"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Napoleon (1995) is an Australian family film directed by Mario Andreacchio",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Mario Andreacchio is an Australian film producer and director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "In 1988, Mario Andreacchio won an International Emmy Award in the 'Children and Young People' category for \"Captain Johnno\"",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The award received by the director of Napoleon (1995) is the International Emmy Award",
+      "claim_type": "DR"
+    }
+  ]
+}

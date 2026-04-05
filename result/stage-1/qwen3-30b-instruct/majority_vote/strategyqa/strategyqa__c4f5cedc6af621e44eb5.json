@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__c4f5cedc6af621e44eb5",
+  "sample_id": "c4f5cedc6af621e44eb5",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Do children send their Christmas letters to the South Pole?",
+  "gold_answer": "no",
+  "context": [
+    "Children send Christmas letters to Santa Claus.",
+    "Santa Claus is fabled to live in the North Pole."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nChildren send Christmas letters to Santa Claus.\nSanta Claus is fabled to live in the North Pole.\nThe South Pole is not the residence of Santa Claus.\nChildren do not send their Christmas letters to the South Pole.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Children send Christmas letters to Santa Claus",
+    "Santa Claus is fabled to live in the North Pole",
+    "The South Pole is not the residence of Santa Claus",
+    "Children do not send their Christmas letters to the South Pole"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Children send Christmas letters to Santa Claus",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Santa Claus is fabled to live in the North Pole",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The South Pole is not the residence of Santa Claus",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Children do not send their Christmas letters to the South Pole",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__5f1e6610092a11ebbdaeac1f6bf848b6",
+  "sample_id": "5f1e6610092a11ebbdaeac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which album came out first, Bare Wires or Dead Vent 7?",
+  "gold_answer": "Bare Wires",
+  "context": [
+    "Dat Whoopty Woop is the debut album from Long Beach, California producer and rapper Soopafly. The album came out on July 31, 2001.",
+    "Came Out of the Grave is an album by the band Balzac.",
+    "Mulberry Violence is the debut album by American experimental artist Trevor Powers. The album came out on August 17, 2018 ..",
+    "A Town South of Bakersfield was a series of three compilation CDs showcasing New Country musicians in the late 1980s and early 1990s. The first album came out in 1986 and featured acts such as Dwight Yoakam. The Lonesome Strangers, and Candye Kane. The second album came out in 1988 and the third in 1992}.",
+    "Dead Vent 7 is an album by Single Cell Orchestra. It was released in 1995 on Reflective Records. The album closely resembles a radio drama, with a variety of actors voicing the roles of a deep- space military crew involved in an Alien- like space opera. This tale of spaceships, an unseen enemy, and the participants' eventual demise features narration by Miguel Fierro and friends, as well as Fierro's synthesizer- based bleeps, drones, and rhythms.",
+    "Ice Skating is the debut album from Ultrafox, released in 2004 on the Loser Friendly Records label. It was made in two weeks in Munich and London. The track\" Cloakroom Girl\" was released as a double- pack- 7\" single before the album came out. It was packaged with\" I Get LiftedMusic Is People Are\" and\" Horses\".",
+    "Living Very Happily is Cantopop artist Miriam Yeung's fourteenth Cantonese studio album. It was released by Amusic on 16 October 2009. The album includes eleven new songs. The second edition of the album came out on 2 December 2009. The second album includes a DVD with three music videos.",
+    "Join the Triumph marks the first album from Citizens& Saints. It is their second studio album after 2013's\" Citizens\" release with label mates BEC Recordings. The album came out on November 11, 2014.",
+    "\"For the American band see Matthew Melton\" Bare Wires is a studio album by John Mayall's Bluesbreakers, featuring Mick Taylor on guitar, released in 1968 on Decca Records. The album was the last John Mayall studio album to feature the name \"Bluesbreakers\". The album was also Mayall's first successful U.S. album reaching #59 on the \"Billboard\" 200. It was voted number 566 in the third edition of Colin Larkin's \"All Time Top 1000 Albums\" (2000).",
+    "Marching for Liberty is the third studio album by Hungarian heavy metal band Wisdom, released on September 27, 2013, through Noise Art Records. The album came out in Hungary one week later through Nail Records."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBare Wires is a studio album by John Mayall's Bluesbreakers.\nBare Wires was released in 1968 on Decca Records.\nDead Vent 7 is an album by Single Cell Orchestra.\nDead Vent 7 was released in 1995 on Reflective Records.\n1968 is earlier than 1995.\nThe album that came out first is Bare Wires.\n<answer> Bare Wires",
+  "predicted_answer": "Bare Wires",
+  "claims": [
+    "Bare Wires is a studio album by John Mayall's Bluesbreakers",
+    "Bare Wires was released in 1968 on Decca Records",
+    "Dead Vent 7 is an album by Single Cell Orchestra",
+    "Dead Vent 7 was released in 1995 on Reflective Records",
+    "1968 is earlier than 1995",
+    "The album that came out first is Bare Wires"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bare Wires is a studio album by John Mayall's Bluesbreakers",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Bare Wires was released in 1968 on Decca Records",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Dead Vent 7 is an album by Single Cell Orchestra",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Dead Vent 7 was released in 1995 on Reflective Records",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1968 is earlier than 1995",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The album that came out first is Bare Wires",
+      "claim_type": "DR"
+    }
+  ]
+}

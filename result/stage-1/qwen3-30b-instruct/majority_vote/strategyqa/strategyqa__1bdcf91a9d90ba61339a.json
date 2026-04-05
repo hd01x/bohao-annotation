@@ -1,0 +1,135 @@
+{
+  "uid": "strategyqa__1bdcf91a9d90ba61339a",
+  "sample_id": "1bdcf91a9d90ba61339a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would Mount Wycheproof be a breeze for Edmund Hillary?",
+  "gold_answer": "yes",
+  "context": [
+    "Edmund Hillary was a mountaineer that climbed Mount Everest.",
+    "Mount Everest reaches 29,029 feet in the air.",
+    "Mount Wycheproof is the smallest mountain in the world.",
+    "Mount Wycheproof rises a mere 486 feet above sea level."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEdmund Hillary was a mountaineer who climbed Mount Everest.\nMount Everest has an elevation of 29,029 feet above sea level.\nMount Wycheproof has an elevation of 486 feet above sea level.\n486 feet is significantly lower than 29,029 feet.\nClimbing Mount Everest required extreme physical endurance and technical skill.\nMount Wycheproof is much smaller and less technically challenging than Mount Everest.\nA climb of 486 feet would be easy for a mountaineer of Edmund Hillary's caliber.\nMount Wycheproof would be a breeze for Edmund Hillary.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Edmund Hillary was a mountaineer who climbed Mount Everest",
+    "Mount Everest has an elevation of 29,029 feet above sea level",
+    "Mount Wycheproof has an elevation of 486 feet above sea level",
+    "486 feet is significantly lower than 29,029 feet",
+    "Climbing Mount Everest required extreme physical endurance and technical skill",
+    "Mount Wycheproof is much smaller and less technically challenging than Mount Everest",
+    "A climb of 486 feet would be easy for a mountaineer of Edmund Hillary's caliber",
+    "Mount Wycheproof would be a breeze for Edmund Hillary"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Edmund Hillary was a mountaineer who climbed Mount Everest",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Mount Everest has an elevation of 29,029 feet above sea level",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Mount Wycheproof has an elevation of 486 feet above sea level",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "486 feet is significantly lower than 29,029 feet",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Climbing Mount Everest required extreme physical endurance and technical skill",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Mount Wycheproof is much smaller and less technically challenging than Mount Everest",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "A climb of 486 feet would be easy for a mountaineer of Edmund Hillary's caliber",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Mount Wycheproof would be a breeze for Edmund Hillary",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

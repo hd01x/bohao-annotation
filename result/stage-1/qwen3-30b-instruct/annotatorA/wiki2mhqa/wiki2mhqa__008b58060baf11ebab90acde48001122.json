@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__008b58060baf11ebab90acde48001122",
+  "sample_id": "008b58060baf11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Augustus Berkeley, 4Th Earl Of Berkeley's maternal grandmother?",
+  "gold_answer": "Anne Brudenell",
+  "context": [
+    "John Manners, 4th Earl of Rutland( c. 1559 – 24 February 1588) was the son of Henry Manners, 2nd Earl of Rutland, and Lady Margaret Neville, daughter of Ralph Neville, 4th Earl of Westmorland.",
+    "Elizabeth Berkeley, Countess Berkeley( c.1720 – 29 June 1792), formerly Elizabeth Drax, was a British court official, the wife of Augustus Berkeley, 4th Earl of Berkeley. She was the daughter of Henry Drax and his wife, the former Elizabeth Ernle. She married the earl on 7 May 1744. Their children were: From 1745 to 1772, she held the position of Lady of the Bedchamber to the Princess of Wales( The Dowager Princess of Wales from 1751), Augusta of Saxe- Gotha. Following the earl's death in 1755, the countess remarried. Her second husband was Robert Nugent, 1st Earl Nugent, whom she married on 2 January 1757. They had two children: The countess had her portrait painted in 1759 by Sir Joshua Reynolds. Following her death, she was buried with her first husband in Berkeley, Gloucestershire.",
+    "Hannah Arnold, also known as Hannah Waterman King, was the grandmother of Benedict Arnolds children.",
+    "Margaret Stafford( born c. 1364; died 9 June 1396) was the daughter of Hugh de Stafford, 2nd Earl of Stafford, and Philippa de Beauchamp. She was the first wife of Ralph Neville, 1st Earl of Westmorland, and the grandmother of the 2nd Earl.",
+    "After the elections of 2009, she became more widely known as the grandmother of Prime Minister Yukio Hatoyama and his politician brother Kunio Hatoyama.",
+    "Louisa Berkeley, Countess of Berkeley (24 December 1694 – 15 January 1716), formerly Lady Louisa Lennox, was the first wife of James Berkeley, 3rd Earl of Berkeley. She was the older daughter of Charles Lennox, 1st Duke of Richmond, and his wife, the former Anne Brudenell. She married the Earl of Berkeley on 13 February 1711. At the time of her wedding, Jonathan Swift said of her: \"the chit is but 17 and is ill-natured, covetous, vicious and proud in extremes.\" They had two children: The countess died of smallpox, aged 22, and was buried at St Mary's Church, Berkeley. From 1714 until her death, she was a Lady of the Bedchamber to Caroline of Ansbach, Princess of Wales.",
+    "Lieutenant-Colonel Augustus Berkeley, 4th Earl of Berkeley, KT (18 February 1715 – 9 January 1755) was the son of Vice-Admiral James Berkeley, 3rd Earl of Berkeley, and the former Lady Louisa Lennox. He was made an ensign in the 1st Regiment of Foot Guards in November 1734, and succeeded his father on 17 August 1736 as 4th Earl of Berkeley, 12th Baron Berkeley and 4th Viscount Dursley. In 1737, he was created Lord Lieutenant of Gloucestershire and Constable of St. Briavel's Castle, offices which he held until his death, and was made lieutenant-colonel of the 2nd Regiment of Foot Guards. On 9 June 1739, he was invested as a knight of the Order of the Thistle. In October of that same year, the Foundling Hospital received its royal charter, a charity for which Berkeley was a founding governor. From 1738 until 1741, he was having a well-known relationship with the already married Frances Vane, Viscountess Vane. He married Elizabeth Drax, daughter of Henry Drax and Elizabeth Ernle, on 7 May 1744. They had at least one son, Frederick Augustus, 5th Earl of Berkeley, and a daughter, Elizabeth Craven. The earl died on 9 January 1755 and was buried on 17 January 1755 at Berkeley, Gloucestershire.",
+    "Frederick Augustus Berkeley, 5th Earl of Berkeley( 24 May 1745 – 8 August 1810) was a British peer.",
+    "Tjuyu( sometimes transliterated as Thuya or Thuyu) was an Egyptian noblewoman and the mother of queen Tiye, and the wife of Yuya. She is the grandmother of Akhenaten, and great grandmother of Tutankhamun.",
+    "Hubba bint Hulail was the grandmother of Hashim ibn' Abd Manaf, thus the great- great- great- grandmother of the Islamic\" Nabī\"( Prophet) Muhammad ibn Abdullah."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAugustus Berkeley, 4th Earl of Berkeley, was the son of James Berkeley, 3rd Earl of Berkeley.\nJames Berkeley, 3rd Earl of Berkeley, was the son of Charles Lennox, 1st Duke of Richmond.\nLouisa Berkeley, Countess of Berkeley, was the wife of James Berkeley, 3rd Earl of Berkeley.\nLouisa Berkeley, Countess of Berkeley, was the daughter of Charles Lennox, 1st Duke of Richmond.\nThe maternal grandmother of Augustus Berkeley, 4th Earl of Berkeley, is the mother of Louisa Berkeley, Countess of Berkeley.\nThe mother of Louisa Berkeley, Countess of Berkeley, is not specified in the text.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Augustus Berkeley, 4th Earl of Berkeley, was the son of James Berkeley, 3rd Earl of Berkeley",
+    "James Berkeley, 3rd Earl of Berkeley, was the son of Charles Lennox, 1st Duke of Richmond",
+    "Louisa Berkeley, Countess of Berkeley, was the wife of James Berkeley, 3rd Earl of Berkeley",
+    "Louisa Berkeley, Countess of Berkeley, was the daughter of Charles Lennox, 1st Duke of Richmond",
+    "The maternal grandmother of Augustus Berkeley, 4th Earl of Berkeley, is the mother of Louisa Berkeley, Countess of Berkeley",
+    "The mother of Louisa Berkeley, Countess of Berkeley, is not specified in the text"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Augustus Berkeley, 4th Earl of Berkeley, was the son of James Berkeley, 3rd Earl of Berkeley",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "James Berkeley, 3rd Earl of Berkeley, was the son of Charles Lennox, 1st Duke of Richmond",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Louisa Berkeley, Countess of Berkeley, was the wife of James Berkeley, 3rd Earl of Berkeley",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Louisa Berkeley, Countess of Berkeley, was the daughter of Charles Lennox, 1st Duke of Richmond",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The maternal grandmother of Augustus Berkeley, 4th Earl of Berkeley, is the mother of Louisa Berkeley, Countess of Berkeley",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The mother of Louisa Berkeley, Countess of Berkeley, is not specified in the text",
+      "claim_type": "FC"
+    }
+  ]
+}

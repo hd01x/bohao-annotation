@@ -1,0 +1,32 @@
+{
+  "uid": "wiki2mhqa__a00f22640bdb11eba7f7acde48001122",
+  "sample_id": "a00f22640bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where did the director of film Search And Destroy (1995 Film) study?",
+  "gold_answer": "California Institute of the Arts",
+  "context": [
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Now Where Did the 7th Company Get To? is a 1973 French- Italian comedy war film directed by Robert Lamoureux. The film portrays the adventures of a French Army squad lost somewhere on the front in May 1940 during the Battle of France.",
+    "David Salle (born September 28, 1952) is an American painter, printmaker, photographer, and stage designer. Salle was born in Norman, Oklahoma, and lives and works in East Hampton, New York. He earned a BFA and MFA from the California Institute of the Arts, Valencia, California, where he studied with John Baldessari. Salle’s work first came to public attention in New York in the early 1980s.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "The Seventh Company Outdoors is a 1977 French comedy film directed by Robert Lamoureux. It is a sequel to Now Where Did the 7th Company Get to ?.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Search and Destroy is a 1995 drama film based on a stage play by Howard Korder and directed by David Salle. The film stars Griffin Dunne, repeating his role from the stage production, Rosanna Arquette, Illeana Douglas, Ethan Hawke, Dennis Hopper, John Turturro and Christopher Walken, and features Martin Scorsese as \"The Accountant. \" Salle was nominated for the Grand Special Prize at the Deauville American Film Festival.",
+    "Scot Armstrong is an American screenwriter, director, and producer. He is credited with writing or co-writing numerous comedy films, including\" Old SchoolSemi- ProRoad Trip\", and many others. He is also the writer and director of the 2015 film,\" Search Party\". The film will be released in the US in May 2016. Also in 2016, his TV series,\" Dice\", premiered on Showtime.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSearch and Destroy (1995) was directed by David Salle.\nDavid Salle earned a BFA and MFA from the California Institute of the Arts.\nThe California Institute of the Arts is located in Valencia, California.\nThe director of Search and Destroy studied at the California Institute of the Arts.\nSo, the answer is the California Institute of the Arts.\n<answer> the California Institute of the Arts",
+  "claims": [
+    "Search and Destroy (1995) was directed by David Salle",
+    "David Salle earned a BFA and MFA from the California Institute of the Arts",
+    "The California Institute of the Arts is located in Valencia, California",
+    "The director of Search and Destroy studied at the California Institute of the Arts",
+    "So, the answer is the California Institute of the Arts"
+  ],
+  "predicted_answer": "the California Institute of the Arts"
+}

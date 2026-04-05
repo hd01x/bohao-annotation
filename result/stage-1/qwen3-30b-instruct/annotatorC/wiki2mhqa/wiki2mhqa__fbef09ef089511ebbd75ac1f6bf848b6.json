@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__fbef09ef089511ebbd75ac1f6bf848b6",
+  "sample_id": "fbef09ef089511ebbd75ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director died later, The Big Cube or Rangila Ratan?",
+  "gold_answer": "Rangila Ratan",
+  "context": [
+    "Thulasi is a 1987 Tamil romantic drama film directed by Ameerjan. The film features Murali and Seetha in lead roles. The film, produced by P. S. V. Hariharan, had musical score by Sampath Selvam and was released on 27 November 1987. The music director died before the release of the film.",
+    "Rangila Ratan is a 1976 Bollywood action film directed by S. Ramanathan.",
+    "Tito Davison( 14 November 1912 – 21 March 1985) was a Chilean- born Mexican film director and screenwriter. He directed 60 films between 1937 and 1982.",
+    "The Big Cube is a 1969 American thriller film directed by Tito Davison and starring Lana Turner, Karin Mossberg, George Chakiris, Daniel O' Herlihy and Richard Egan; it was one of Lana Turner's last movies. It is notable for its aggressive portrayal of LSD use and the 1960s youth counterculture as vicious evils.",
+    "Ravina is an Indian actress who acted in Dhallywood movies. She acted in\" Praner Cheye Priyo\" which film is considered as turning point of the career of Riaz.",
+    "S. Ramanathan( 1929 – 9 January 2013 in Chennai) was an Indian film director and producer. He began as a director in Malayalam cinema, but in the 1970s he worked in the Hindi industry and worked with Amitabh Bachchan on several occasions such as in\" Bombay to Goa\"( 1972) and\" Mahaan\"( 1983). \" Zamaanat\", a project with Bachchan which had been delayed since 1986, was released after his death in 2013. He produced several Kannada films along with his brother Shivaram and formed the home banner\" Rashi Brothers\".",
+    "The Big Score is a 1983 American crime drama film directed by Fred Williamson. The film has music composed by Jay Chattaway.",
+    "Querelle is a 1982 West German- French English- language drama film directed by Rainer Werner Fassbinder and starring Brad Davis, adapted from French author Jean Genet's 1947 novel\" Querelle of Brest\". It marked Fassbinder's final film as a writer/ director; it was posthumously released just months after the director died of a drug overdose in June 1982.",
+    "Mohsen Eslamzadeh is an Iranian documentary filmmaker. He is the director of\" Alone Among The Taliban\". This film has won the best documentary award at the 44th Athens International Film and Video Festival in the United States. This film has won the best documentary award at the 12th Marbella International Film Festival in Spain. This film has won the Shahid Avini Award offers.",
+    "Le masque de la Méduse is a 2009 fantasy horror film directed by Jean Rollin. The film is a modern-day telling of the Greek mythological tale of the Gorgon and was inspired by the 1964 classic Hammer Horror film of the same name and the 1981 cult classic\" Clash of the Titans\". It was Rollin's final film, as the director died in 2010."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Big Cube is a 1969 American thriller film directed by Tito Davison.\nTito Davison died on 21 March 1985.\nRangila Ratan is a 1976 Bollywood action film directed by S. Ramanathan.\nS. Ramanathan died on 9 January 2013.\n1985 is earlier than 2013.\nThe director of The Big Cube died earlier than the director of Rangila Ratan.\nThe film with the director who died later is Rangila Ratan.\n<answer> Rangila Ratan",
+  "predicted_answer": "Rangila Ratan",
+  "claims": [
+    "The Big Cube is a 1969 American thriller film directed by Tito Davison",
+    "Tito Davison died on 21 March 1985",
+    "Rangila Ratan is a 1976 Bollywood action film directed by S. Ramanathan",
+    "S. Ramanathan died on 9 January 2013",
+    "1985 is earlier than 2013",
+    "The director of The Big Cube died earlier than the director of Rangila Ratan",
+    "The film with the director who died later is Rangila Ratan"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Big Cube is a 1969 American thriller film directed by Tito Davison",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Tito Davison died on 21 March 1985",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Rangila Ratan is a 1976 Bollywood action film directed by S. Ramanathan",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "S. Ramanathan died on 9 January 2013",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1985 is earlier than 2013",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The director of The Big Cube died earlier than the director of Rangila Ratan",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director who died later is Rangila Ratan",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__cbebe1a0113581f37141",
+  "sample_id": "cbebe1a0113581f37141",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are psychiatric patients welcome to join the United States Air Force?",
+  "gold_answer": "no",
+  "context": [
+    "Having a history of mental illness disqualifies most people from joining the Armed Forces.",
+    "Psychiatric patients are being seen for management of mental illness."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHaving a history of mental illness disqualifies most people from joining the Armed Forces.\nPsychiatric patients are individuals receiving treatment for mental illness.\nThe United States Air Force is part of the Armed Forces.\nA history of mental illness typically results in disqualification from military service.\nPsychiatric patients are not welcome to join the United States Air Force.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Having a history of mental illness disqualifies most people from joining the Armed Forces",
+    "Psychiatric patients are individuals receiving treatment for mental illness",
+    "The United States Air Force is part of the Armed Forces",
+    "A history of mental illness typically results in disqualification from military service",
+    "Psychiatric patients are not welcome to join the United States Air Force"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Having a history of mental illness disqualifies most people from joining the Armed Forces",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Psychiatric patients are individuals receiving treatment for mental illness",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The United States Air Force is part of the Armed Forces",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "A history of mental illness typically results in disqualification from military service",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Psychiatric patients are not welcome to join the United States Air Force",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

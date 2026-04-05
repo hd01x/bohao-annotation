@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__6034a51a093811ebbdaeac1f6bf848b6",
+  "sample_id": "6034a51a093811ebbdaeac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do the movies Seven Sinners (1936 Film) and Everyday (Film), originate from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "Shadow of Chinatown is both a 1936 film serial and a feature film edited from the serial made by Sam Katzman's Victory Pictures.",
+    "Seven Sinners is a 1936 British thriller film directed by Albert de Courville and starring Edmund Lowe, Constance Cummings and Felix Aylmer. In the U.S. it was known under this title and also as Doomed Cargo. The screenplay concerns an American detective and his sidekick, who travel from France to England to take on a gang of international criminals. The film was made at Lime Grove Studios by Gainsborough Pictures. Its sets were designed by the Hungarian art director Ernö Metzner.",
+    "Second Wife is a 1936 film directed by Edward Killy and starring Gertrude Michael and Walter Abel.",
+    "Reunion is a 1936 film produced by 20th Century Fox and directed by Norman Taurog.",
+    "The Voice of Bugle Ann is a 1936 film directed by Richard Thorpe and starring Lionel Barrymore and Maureen O'Sullivan. It was based on a novel of the same name by MacKinlay Kantor.",
+    "South Sea Sinner is a 1950 American adventure film directed by H. Bruce Humberstone and starring MacDonald Carey and Shelley Winters. It is a remake of\" Seven Sinners\"( 1940). Liberace has a small role.",
+    "Seven Sinners( UK title Cafe of the Seven Sinners) is a 1940 American drama romance film directed by Tay Garnett starring Marlene Dietrich and John Wayne in the first of three films they made together. The film was produced by Universal Pictures in black and white.",
+    "Fatal Lady is a 1936 film. It recorded a loss of$ 296,665.",
+    "The film is remake of the 1936 film drama of the same name\" Sisters of the Gion\" by Kenji Mizoguchi.",
+    "Everyday is a 2012 British drama film directed by Michael Winterbottom. Known during its lengthy production variously as\" Seven Days\" and then\" Here and There\", the film stars John Simm as a man named Ian who is imprisoned for drug smuggling and charts his relationship with his wife Karen, played by Shirley Henderson. \" Everyday\" premiered at the Telluride Film Festival on 3 September 2012 and then screened at the Toronto International Film Festival on 8 September 2012."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSeven Sinners (1936) is a British thriller film directed by Albert de Courville.\nThe film was made at Lime Grove Studios by Gainsborough Pictures.\nGainsborough Pictures was a British film studio.\nEveryday (2012) is a British drama film directed by Michael Winterbottom.\nThe film premiered at the Telluride Film Festival and screened at the Toronto International Film Festival.\nBoth films were produced in the United Kingdom.\nThe movies Seven Sinners (1936) and Everyday (2012) originate from the same country.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Seven Sinners (1936) is a British thriller film directed by Albert de Courville",
+    "The film was made at Lime Grove Studios by Gainsborough Pictures",
+    "Gainsborough Pictures was a British film studio",
+    "Everyday (2012) is a British drama film directed by Michael Winterbottom",
+    "The film premiered at the Telluride Film Festival and screened at the Toronto International Film Festival",
+    "Both films were produced in the United Kingdom",
+    "The movies Seven Sinners (1936) and Everyday (2012) originate from the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Seven Sinners (1936) is a British thriller film directed by Albert de Courville",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The film was made at Lime Grove Studios by Gainsborough Pictures",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Gainsborough Pictures was a British film studio",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Everyday (2012) is a British drama film directed by Michael Winterbottom",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The film premiered at the Telluride Film Festival and screened at the Toronto International Film Festival",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "Both films were produced in the United Kingdom",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The movies Seven Sinners (1936) and Everyday (2012) originate from the same country",
+      "claim_type": "DR"
+    }
+  ]
+}

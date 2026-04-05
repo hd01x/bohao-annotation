@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__04f1ab4808c611ebbd90ac1f6bf848b6",
+  "sample_id": "04f1ab4808c611ebbd90ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film was released more recently, Sacred Silence or Ek Haseena Thi Ek Deewana Tha?",
+  "gold_answer": "Ek Haseena Thi Ek Deewana Tha",
+  "context": [
+    "The film was released in Japan on 10 October 2009.",
+    "The film was released on YouTube and Steam on 14 June 2017.",
+    "Lloyd is a 2001 American comedy film. The film was released on May 4, 2001.",
+    "The film was released theatrically in the United States in the summer of 1960 by Columbia Pictures.",
+    "Ekk Deewana Tha is a 2012 Indian Hindi romantic drama film, written and directed by Gautham Menon, featuring Prateik Babbar and Amy Jackson in her Bollywood debut, and in lead roles. The film is a remake of Menon's own Tamil film\" Vinnaithaandi Varuvaayaa\"( 2010) and features reused soundtrack and film score composed by A. R. Rahman, while the cinematography and editing are handled by M. S. Prabhu and Anthony Gonsalves, respectively. Singer Chinmayi has provided the talking voice of the female lead, reprising her role from the Tamil version and the Telugu simultaneously made version where she dubbed for actresses Trisha Krishnan and Samantha Ruth Prabhu respectively. While on production stage, the film was titled\" Prem Katha\", but was renamed as\" Ekk Deewana Tha\", as the director wanted some abstract title for the film, similar to the original. The film, produced by Fox Star Studios, a subsidiary of Hollywood studio 20th Century Fox, Photon Kathaas and RS Infotainment was released on 17 February 2012 in two different versions with a number of endings to suit the taste of regional viewers. The film opened to universally mixed reviews and had a lukewarm reception at the box office. After year's of it s release this movie got huge popularity among youth.",
+    "Sacred Silence is a 1996 Italian film directed by Antonio Capuano that deals with a Catholic priest, his pederastic relationship with a Napolitan street boy, and the domination of daily life in Southern Italy by the Camorra. The title translates as\" Pianese Nunzio, 14 in May\" and the movie was released in the USA with the title\" Sacred Silence\".",
+    "The film was released in 1961 in Japan and was later released in the United States on television. In 1998, the film was featured on an episode of\" Mystery Science Theater 3000\".",
+    "Ek Haseena Thi Ek Deewana Tha  is a 2017 Indian Hindi-language romantic musical drama film written, produced and directed by Suneel Darshan and stars Shiv Darshan, Natasha Fernandez and Upen Patel in lead roles. The music was composed by Nadeem Saifi.",
+    "Coney Island Baby is a 2003 comedy- drama in which film producer Amy Hobby made her directorial debut. Karl Geary wrote the film and Tanya Ryno was the film's producer. The music was composed by Ryan Shore. The film was shot in Sligo, Ireland, which is known locally as\" Coney Island\". The film was screened at the Newport International Film Festival. Hobby won the Jury Award for\" Best First Time Director\". The film made its premiere television broadcast on the Sundance Channel.",
+    "Sacred Silence is a 1919 American silent drama film directed by Harry F. Millarde and starring William Russell and Agnes Ayres."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSacred Silence is a 1996 Italian film directed by Antonio Capuano.\nSacred Silence is also a 1919 American silent drama film directed by Harry F. Millarde.\nEk Haseena Thi Ek Deewana Tha is a 2017 Indian Hindi-language romantic musical drama film.\n2017 is later than 1996 and 1919.\nThe film released more recently is Ek Haseena Thi Ek Deewana Tha.\n<answer> Ek Haseena Thi Ek Deewana Tha",
+  "predicted_answer": "Ek Haseena Thi Ek Deewana Tha",
+  "claims": [
+    "Sacred Silence is a 1996 Italian film directed by Antonio Capuano",
+    "Sacred Silence is also a 1919 American silent drama film directed by Harry F. Millarde",
+    "Ek Haseena Thi Ek Deewana Tha is a 2017 Indian Hindi-language romantic musical drama film",
+    "2017 is later than 1996 and 1919",
+    "The film released more recently is Ek Haseena Thi Ek Deewana Tha"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Sacred Silence is a 1996 Italian film directed by Antonio Capuano",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Sacred Silence is also a 1919 American silent drama film directed by Harry F. Millarde",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Ek Haseena Thi Ek Deewana Tha is a 2017 Indian Hindi-language romantic musical drama film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "2017 is later than 1996 and 1919",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The film released more recently is Ek Haseena Thi Ek Deewana Tha",
+      "claim_type": "DR"
+    }
+  ]
+}

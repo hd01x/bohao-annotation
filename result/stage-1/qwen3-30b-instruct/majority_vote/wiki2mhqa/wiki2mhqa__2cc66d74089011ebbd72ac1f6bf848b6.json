@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__2cc66d74089011ebbd72ac1f6bf848b6",
+  "sample_id": "2cc66d74089011ebbd72ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director born later, Life Hits or It'S In The Air?",
+  "gold_answer": "Life Hits",
+  "context": [
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Jacques Décombe is a French author, actor and director born in 1953.",
+    "Sepideh Farsi is an Iranian film director, born in Tehran in 1965.",
+    "Yolonda Ross is an American character actress, writer and director born (31 July 1974).",
+    "It ’s in the Air is a 1938 British comedy film written and directed by Anthony Kimmins and starring George Formby, Polly Ward and Jack Hobbs. The film was released in the United States with the alternative title George Takes the Air in 1940. Although released in pre-war times, no mention of the imminent hostilities is in\" It's in the Air\".",
+    "Anthony Martin Kimmins( 10 November 1901 – 19 May 1964) was an English director, playwright, screenwriter, producer and actor.",
+    "Life Hits is a 2006 Danish drama film directed by Christian E. Christiansen.",
+    "Claude Weisz is a French film director born in Paris.",
+    "Christian E. Christiansen( born 14 December 1972) is a Danish filmmaker.",
+    "Fred R. Krug is an American film and television producer- director born in Bern, Switzerland."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLife Hits is a 2006 Danish drama film directed by Christian E. Christiansen.\nChristian E. Christiansen was born on 14 December 1972.\nIt's in the Air is a 1938 British comedy film directed by Anthony Kimmins.\nAnthony Kimmins was born on 10 November 1901.\n1972 is later than 1901.\nThe film with the director born later is Life Hits.\n<answer> Life Hits",
+  "predicted_answer": "Life Hits",
+  "claims": [
+    "Life Hits is a 2006 Danish drama film directed by Christian E. Christiansen",
+    "Christian E. Christiansen was born on 14 December 1972",
+    "It's in the Air is a 1938 British comedy film directed by Anthony Kimmins",
+    "Anthony Kimmins was born on 10 November 1901",
+    "1972 is later than 1901",
+    "The film with the director born later is Life Hits"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Life Hits is a 2006 Danish drama film directed by Christian E. Christiansen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Christian E. Christiansen was born on 14 December 1972",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "It's in the Air is a 1938 British comedy film directed by Anthony Kimmins",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Anthony Kimmins was born on 10 November 1901",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1972 is later than 1901",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The film with the director born later is Life Hits",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

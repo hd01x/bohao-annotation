@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__f4a616ac0bae11ebab90acde48001122",
+  "sample_id": "f4a616ac0bae11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the paternal grandmother of Renaud Iii, Count Of Soissons?",
+  "gold_answer": "Adelaide, Countess of Soissons",
+  "context": [
+    "Nocher II( d. 1019), Count of Bar- sur- Aube, Count of Soissons. He was the son of Nocher I, Count of Bar-sur- Aube. Nocher ’s brother Beraud( d. 1052) was Bishop of Soissons. Nocher became Count of Soissons, jure uxoris, upon his marriage to Adelise, Countess of Soissons. Nocher and Adelisa had three children: Nocher ’s son and namesake became Count of Bar-sur- Aube upon his death, and the countship of Soissons reverted to his wife. His son Renaud would eventually become the Count of Soissons.",
+    "William Busac( 1020- 1076), son of William I, Count of Eu, and his wife Lesceline. Count of Eu, Count of Soissons,\" de jure uxoris\". William was given the nickname Busac by the medieval chronicler Robert of Torigni. William appealed to King Henry I of France, who gave him in marriage Adelaide, the heiress of the county of Soissons. Adelaide was daughter of Renaud I, Count of Soissons, and Grand Master of the Hotel de France. William then became Count of Soissons in right of his wife. William and Adelaide had four children: His son Renaud became Count of Soissons upon William ’s death, and he was succeeded by his brother John.",
+    "Renaud II( died 1099), son of William Busac, Count of Eu and Soissons, and Adelaide, Countess of Soissons. Count of Soissons. It is unclear when Renaud assumed the countship of Soissons from his disgraced father. The latter was stripped of the County of Eu in 1050 but it is unclear when he relinquished the countship of Soissons. Alberic of Trois- Fontaines identifies Renaud in his\" Chronicles\" but little is known about his rule. It is not known whether Renaud married or had any children. Upon the death of Renaud, his brother John became the Count of Soissons.",
+    "John V( 21 March 1281 – 1304), son of John IV, Count of Soissons, and his wife Marguerite of Rumigny. Count of Soissons. John inherited the countship of Soissons from his father in 1302. Nothing is known about his brief rule of the county. He never married and died with no heirs. Upon his death, his brother Hugh became Count of Soissons.",
+    "Adelaide( died 1105), was sovereign Countess of Soissons from 1057 until 1105. She was the daughter of Renaud I, Count of Soissons, and his wife, whose name is unknown, widow of Hilduin III, Count of Montdidier.. Adelaide became ruler of the County of Soissons upon the death of her father and brother, Guy II, Count of Soissons, in 1057. Adelaide married William Busac, Count of Eu, grandson of Richard I, Duke of Normandy. Adelaide and William had five children: William Busac became Count of Soissons,\" de jure uxoris\", upon their marriage.",
+    "John I (d. after 1115), son of William Busac, Count of Eu and Soissons, and Adelaide, Countess of Soissons. Count of Soissons. John became Count of Soissons after the death of his brother Renaud II in 1099. John was involved with the Abbey of St. Jean des Vignes. John married Aveline de Pierrefonds, daughter of Nivelon II, Seigneur de Pierrefonds. John and Aveline had one child: Upon the death of John, his son Renaud became the last of the Norman Counts of Soissons.",
+    "Yves II le Vieux of Nesle( Ives, Ivo)( d. 1178), son of Raoul I, Seigneur of Nesle, and his wife Rainurde( Ermentrude) of Eu-Soissons. Seigneur of Nesle, Count of Soissons. Upon the death of Renaud III, Count of Soissons, Yves was chosen as the next count by the Bishop of Soissons, Joscelin de Vierzi. Following the preaching of Bernard of Clairvaux at Vézelay in 1146, Yves joined Louis VII and a host of French nobles in the Second Crusade. He was part of the Crusade Concilium in Acre in June 1148 and was one of many suitors for Constance of Antioch following her husband's death in 1149. Yves married Yolande, a daughter of Baldwin IV, Count of Hainaut, and his wife Alice of Namur. They had no children. Upon the death of Yves, his nephew Conon became Count of Soissons.",
+    "Renaud III (d. 1141), son of John I, Count of Soissons, and Aveline de Pierrefonds. Count of Soissons. Little is known about Renaud other than he inherited the Count of Soissons from his father in 1115. Upon Renaud's death in 1141, Ivo II de Nesle was chosen as his successor by the Bishop of Soisson, Joscelin de Vierzi. Renaud married Bathilde, of an unknown family, in 1137. No children are recorded. Renaud was the last of the Norman counts of Soissons.",
+    "Guy II( d. 1057), son of Renaud I, Count of Soissons, and his wife( name unknown), widow of Hilduin III, Count of Montdidier. Count of Soissons. Guy was identified as Count of Soissons in 1042 in a charter in which Gaunilo of Marmoutiers, the treasurer of St. Martin, denoted property. Guy died with his father in 1057 at the siege of Soissons. It is not known whether or not Guy was married and no children are recorded. Upon his death, his sister Adelaide assumed the countship of Soissons.",
+    "Margaret (or Margaretha) of Soissons (died ca. 1350) was ruling Countess of Soissons in 1305-1344. She was the only daughter of Hugh, Count of Soissons, and Johanna of Argies. In 1306 she succeeded her father as Countess of Soissons. Margaret was married to John of Beaumont, son of John II, Count of Holland. Margaret and John had five children:\nUpon their marriage, John became Count of Soissons, \"jure uxoris\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRenaud III was the son of John I, Count of Soissons.\nJohn I was the son of William Busac, Count of Eu and Soissons, and Adelaide, Countess of Soissons.\nAdelaide was the daughter of Renaud I, Count of Soissons, and his wife, whose name is unknown.\nAdelaide was the mother of John I, making her the maternal grandmother of Renaud III.\nThe paternal grandmother of Renaud III is the mother of John I, who is not explicitly named in the text.\nThe mother of John I is not stated.\nThe paternal grandmother of Renaud III is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Renaud III was the son of John I, Count of Soissons",
+    "John I was the son of William Busac, Count of Eu and Soissons, and Adelaide, Countess of Soissons",
+    "Adelaide was the daughter of Renaud I, Count of Soissons, and his wife, whose name is unknown",
+    "Adelaide was the mother of John I, making her the maternal grandmother of Renaud III",
+    "The paternal grandmother of Renaud III is the mother of John I, who is not explicitly named in the text",
+    "The mother of John I is not stated",
+    "The paternal grandmother of Renaud III is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Renaud III was the son of John I, Count of Soissons",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "John I was the son of William Busac, Count of Eu and Soissons, and Adelaide, Countess of Soissons",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Adelaide was the daughter of Renaud I, Count of Soissons, and his wife, whose name is unknown",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Adelaide was the mother of John I, making her the maternal grandmother of Renaud III",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The paternal grandmother of Renaud III is the mother of John I, who is not explicitly named in the text",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The mother of John I is not stated",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "The paternal grandmother of Renaud III is not specified",
+      "claim_type": "FC"
+    }
+  ]
+}

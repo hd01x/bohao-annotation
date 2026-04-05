@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__42852587e89ab6ade6b9",
+  "sample_id": "42852587e89ab6ade6b9",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are amoebas safe from breast cancer?",
+  "gold_answer": "yes",
+  "context": [
+    "Breast cancer is a disease that occurs in the mammary tissues of mammals.",
+    "Amoebas are single cell organisms that lack mammary tissue."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBreast cancer occurs in the mammary tissues of mammals.\nAmoebas are single-celled organisms.\nAmoebas lack mammary tissue.\nWithout mammary tissue, breast cancer cannot occur.\nAmoebas are safe from breast cancer.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Breast cancer occurs in the mammary tissues of mammals",
+    "Amoebas are single-celled organisms",
+    "Amoebas lack mammary tissue",
+    "Without mammary tissue, breast cancer cannot occur",
+    "Amoebas are safe from breast cancer"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Breast cancer occurs in the mammary tissues of mammals",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Amoebas are single-celled organisms",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Amoebas lack mammary tissue",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Without mammary tissue, breast cancer cannot occur",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Amoebas are safe from breast cancer",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

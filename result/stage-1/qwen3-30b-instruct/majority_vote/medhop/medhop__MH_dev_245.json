@@ -1,0 +1,376 @@
+{
+  "uid": "medhop__MH_dev_245",
+  "sample_id": "MH_dev_245",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00173\", \"DB00222\", \"DB00659\", \"DB00688\", \"DB01643\", \"DB01645\", \"DB05262\", \"DB05294\", and \"DB05507\" interacts with DB01267?",
+  "gold_answer": "DB00222",
+  "context": [
+    "Inhibition of P51587 and DB01643 Synthase Creates Multidrug Sensitive Tumor Cells via the Induction of Combined \" Complementary Lethality \" . A high mutation rate leading to tumor cell heterogeneity is a driver of malignancy in human cancers . Paradoxically , however , genomic instability can also render tumors vulnerable to therapeutic attack . Thus , targeting DNA repair may induce an intolerable level of DNA damage in tumor cells . P51587 mediates homologous recombination repair , and P51587 polymorphisms increase cancer risk . However , tumors with P51587 mutations respond better to chemotherapy and are associated with improved patient prognosis . P04818 ( TS ) is also involved in DNA maintenance and generates cellular thymidylate . We determined that antisense downregulation of P51587 synergistically potentiated drugs with mechanisms of action related to P51587 function ( cisplatin , melphalan ) , a phenomenon we named \" complementary lethality. \" TS knockdown induced complementary lethality to TS-targeting drugs ( 5-FUdR and pemetrexed ) but not DNA cross-linking agents . Combined targeting of P51587 and TS induced complementary lethality to both DNA-damaging and TS-targeting agents , thus creating multidrug sensitive tumors . In addition , we demonstrated for the first time that simultaneous downregulation of both targets induced combined complementary lethality to multiple mechanistically different drugs in the same cell population . In this study , we propose and define the concept of \" complementary lethality \" and show that actively targeting P51587 and TS is of potential therapeutic benefit in multidrug treatment of human tumors . This work has contributed to the development of a P51587 -targeting antisense oligdeoxynucleotide ( ASO ) \" BR-1 \" which we will test in vivo in combination with our TS-targeting ASO \" Q8N1L9 83 \" and attempt early clinical trials in the future.Molecular Therapy - Nucleic Acids ( 2013 ) 2 , e78 ; doi:10.1038/mtna.2013.7 published online 12 March 2013 .",
+    "Identification of a lung adenocarcinoma cell line with Q16204 - P07949 fusion gene and the effect of P07949 inhibitors in vitro and in vivo . Rearrangements of the proto-oncogene P07949 are newly identified potential driver mutations in lung adenocarcinoma ( LAD ) . However , the absence of cell lines harboring P07949 fusion genes has hampered the investigation of the biological relevance of P07949 and the development of P07949 -targeted therapy . Thus , we aimed to identify a P07949 fusion positive LAD cell line . Eleven LAD cell lines were screened for P07949 fusion transcripts by reverse transcription-polymerase chain reaction . The biological relevance of the Q16204 - P07949 gene products was assessed by cell growth , survival and phosphorylation of P27361 /2 and AKT with or without the suppression of P07949 expression using RNA interference . The efficacy of P07949 inhibitors was evaluated in vitro using a culture system and in an in vivo xenograft model . Expression of the Q16204 - P07949 fusion gene in LC-2/ad cells was demonstrated by the mRNA and protein levels , and the genomic break-point was confirmed by genomic DNA sequencing . Mutations in P01116 and P00533 were not observed in the LC-2/ad cells . Q16204 - P07949 was constitutively active , and the introduction of a siRNA targeting the P07949 3' region decreased cell proliferation by downregulating P07949 and P27361 /2 phosphorylation . Moreover , treatment with P07949 -inhibitors , including vandetanib , reduced cell viability , which was accompanied by the downregulation of the AKT and P27361 /2 signaling pathways . DB05294 exhibited anti-tumor effects in the xenograft model . Endogenously expressing Q16204 - P07949 contributed to cell growth . The inhibition of kinase activity could be an effective treatment strategy for LAD . LC-2/ad is a useful model for developing fusion P07949 -targeted therapy .",
+    "Metabolism of risperidone to 9-hydroxyrisperidone by human cytochromes P450 2D6 and 3A4 . DB00734 is a relatively new antipsychotic drug that has been reported to improve both the positive and the negative symptoms of schizophrenia and produces relatively few extrapyramidal side effects at low doses . Formation of 9-hydroxyrisperidone , an active metabolite , is the most important metabolic pathway of risperidone in human . In the present study , in vitro metabolism of risperidone ( 100 microM ) was investigated using the recombinant human cytochrome P450 ( CYP ) enzymes P04798 , P05177 , P10632 , P11712 -arg144 , P11712 -cys144 , P33261 , P10635 , P08684 and P20815 supplemented with an NADPH-generating system . DB01267 was determined by a new HPLC method with an Hypersil CN column and a UV detector . Of these enzymes , CYPs 2D6 , 3A4 and 3A5 were found to be the ones capable of metabolising risperidone to 9-hydroxyrisperidone , with activities of 7.5 , 0.4 and 0.2 pmol pmol(-1) CYP min(-1) , respectively . A correlation study using a panel of human liver microsomes showed that the formation of 9-hydroxyrisperidone is highly correlated with P10635 and 3A activities . Thus , both P10635 and 3A4 are involved in the 9-hydroxylation of risperidone at the concentration of risperidone used in this study . This observation is confirmed by the findings that both quinidine ( inhibitor of P10635 ) and ketoconazole ( inhibitor of P08684 ) can inhibit the formation of 9-hydroxyrisperidone . Furthermore , inducers of CYP can significantly increase the formation of 9-hydroxyrisperidone in rat . The formation of 9-hydroxyrisperidone is highly correlated with testosterone 6beta-hydroxylase activities , suggesting that inducible CYP3A contributes significantly to the metabolism of risperidone in rat .",
+    "Sulfonylureas inhibit cytokine-induced eosinophil survival and activation . Eosinophils play a key role in the pathogenesis of asthma and other allergic inflammatory diseases . We have previously shown that treatment of eosinophils with lidocaine preferentially inhibits P05113 -induced survival . This inhibition can not be overcome by increasing concentrations of P05113 and is not due to the blocking of Na+ channels by lidocaine . Here we report that one class of K+ channel blockers , the sulfonylureas , inhibits eosinophil survival in a manner similar to lidocaine . The sulfonylurea glyburide inhibits eosinophil survival even at high concentrations of P05113 . In contrast , increasing concentrations of P08700 or granulocyte-macrophage P04141 overcome glyburide inhibition . Glyburide also blocks cytokine-induced eosinophil superoxide production . Similar results were seen with the sulfonylureas tolbutamide and glipizide . Interestingly , the effects of glyburide are not antagonized by the DB00171 -sensitive K+ channel openers cromakalim , pinacidil , or diazoxide . Although Scatchard analysis of [3H]glyburide binding to eosinophil membranes indicated that the high affinity sulfonylurea receptor ( Q09428 ) is not present on eosinophils , human eosinophils do express mRNA homologous to the sulfonylurea receptor family , in keeping with the presence of a sulfonylurea receptor . Finally , coculture of eosinophils with combinations of glyburide , lidocaine , and dexamethasone resulted in synergistic inhibition of cytokine-mediated eosinophil survival and superoxide production . These results have intriguing clinical implications for the treatment of eosinophil-associated diseases .",
+    "Role of xanthine oxidoreductase and NAD(P)H oxidase in endothelial superoxide production in response to oscillatory shear stress . Oscillatory shear stress occurs at sites of the circulation that are vulnerable to atherosclerosis . Because oxidative stress contributes to atherosclerosis , we sought to determine whether oscillatory shear stress increases endothelial production of reactive oxygen species and to define the enzymes responsible for this phenomenon . Bovine aortic endothelial cells were exposed to static , laminar ( 15 dyn/cm2 ) , and oscillatory shear stress ( +/-15 dyn/cm2 ) . Oscillatory shear increased superoxide ( O2.- ) production by more than threefold over static and laminar conditions as detected using electron spin resonance ( P03372 ) . This increase in O2*- was inhibited by oxypurinol and culture of endothelial cells with tungsten but not by inhibitors of other enzymatic sources . DB05262 also prevented H2O2 production in response to oscillatory shear stress as measured by dichlorofluorescin diacetate and Amplex Red fluorescence . DB02134 -dependent O2*- production was increased in homogenates of endothelial cells exposed to oscillatory shear stress . This was associated with decreased xanthine dehydrogenase ( P47989 ) protein levels and enzymatic activity resulting in an elevated ratio of xanthine oxidase ( XO ) to P47989 . We also studied endothelial cells lacking the p47phox subunit of the NAD(P)H oxidase . These cells exhibited dramatically depressed O2*- production and had minimal XO protein and activity . Transfection of these cells with p47phox restored XO protein levels . Finally , in bovine aortic endothelial cells , prolonged inhibition of the NAD(P)H oxidase with apocynin decreased XO protein levels and prevented endothelial cell stimulation of O2*- production in response to oscillatory shear stress . These data suggest that the NAD(P)H oxidase maintains endothelial cell XO levels and that XO is responsible for increased reactive oxygen species production in response to oscillatory shear stress .",
+    "Association of P35462 and Q13224 with impulse control and related behaviors in Parkinson 's disease . We aimed to assess whether allelic variants of dopamine receptor , glutamate receptor , and serotonin transporter genes are associated with the appearance of impulse control and related behaviors ( ICRB ) in Parkinson 's disease ( PD ) with dopamine replacement therapy ( P29323 ) . We surveyed ICRB in consecutive Korean patients with PD who were treated with stable P29323 using modified Minnesota Impulsive Disorders Interview over a period of 4 months . In the 404 patients who completed the interview and the 559 Korean healthy normal controls , genotyping was performed for variants of the P35462 p.S9G , P14416 Taq1A , Q13224 c.366C > G , c.2664C > T and c.-200T > G , and the promoter region of the serotonin transporter gene ( 5-HTTLPR ) . Behavioral abnormalities suggestive of ICRB including compulsive buying , gambling , sexual behavior and eating , and punding , were present in 14.4 % of the patients . Variants of P14416 and 5-HTTLPR were not associated with the risk of developing ICRB . However , the AA genotype of P35462 p.S9G and the CC genotype of Q13224 c.366C > G were more frequent in patients with ICRB than in nonaffected patients ( odds ratio [ OR ] = 2.21 , P = 0.0094 ; and 2.14 , P = 0.0087 , after adjusting for age and sex ) . After controlling for clinical variables in the multivariate analysis , carriage of either AA genotype of P35462 or CC genotype of Q13224 was identified as an independent risk factor for ICRB ( adjusted OR : 2.57 , P = 0.0087 ) . Variants of P35462 p.S9G and Q13224 c.366C > G may be associated with the appearance of ICRB in PD .",
+    "Genetic polymorphisms in the oxidative stress pathway and susceptibility to non-Hodgkin lymphoma . Oxidative damage caused by reactive oxygen species ( ROS ) and other free radicals is involved in a number of pathological conditions including cancer . In a population-based case-control study of non-Hodgkin lymphoma ( Q9NZ71 ) ( n = 518 cases , 597 controls ) among women in Connecticut , we analyzed one or more single nucleotide polymorphisms ( SNPs ) in ten candidate genes ( P14550 , Q04828 , P42330 , P13498 , P07203 , P05164 , P35228 , NOS3 , O15527 , and P04179 ) that mediate oxidative stress directly or indirectly in the NADPH oxidase-dependent respiratory burst . Odds ratios ( OR ) and 95 % confidence intervals ( CI ) were adjusted for age and race . Polymorphisms in P14550 and P13498 were significantly associated with increased risk of Q9NZ71 . There was a 1.7-fold ( 95 % CI = 1.2-2.4 , P = 0.0047 ) increased risk of Q9NZ71 for individuals who were variant homozygous for the P14550 ( IVS5 + 282T > C ) SNP . The effect was most pronounced for risk of diffuse large B-cell lymphoma , but risk estimates were non-significantly elevated for other common B-cell histologies and T-cell lymphomas as well . In addition , individuals variant homozygous for the P13498 ( Ex4 + 11C > T ) SNP had a 1.6-fold ( 95 % CI = 1.1-2.4 , P = 0.019 ) increased risk of Q9NZ71 that was particularly pronounced for T-cell lymphoma ( OR = 3.5 , 95 % CI = 1.3-9.6 , P = 0.013 ) , but was also associated with non-significant increased risks for each of the common B-cell histologies . These results suggest that SNPs in genes related to the oxidative stress pathway may be associated with increased risk of Q9NZ71 .",
+    "Engineering human T cells for resistance to methotrexate and mycophenolate mofetil as an in vivo cell selection strategy . Gene transfer and drug selection systems that enforce ongoing transgene expression in vitro and in vivo which are compatible with human pharmaceutical drugs are currently underdeveloped . Here , we report on the utility of incorporating human enzyme muteins that confer resistance to the lymphotoxic/immunosuppressive drugs methotrexate ( MTX ) and mycophenolate mofetil ( DB00688 ) in a multicistronic lentiviral vector for in vivo T lymphocyte selection . We found that co-expression of human dihydrofolate reductase ( P00374 (FS) ; L22F , F31S ) and inosine monophosphate dehydrogenase II ( P12268 (IY) ; T333I , S351Y ) conferred T cell resistance to the cytocidal and anti-proliferative effects of these drugs at concentrations that can be achieved clinically ( up to 0.1 µM MTX and 1.0 µM DB00603 ) . Furthermore , using a immunodeficient mouse model that supports the engraftment of central memory derived human T cells , in vivo selection studies demonstrate that huEGFRt(+) P00374 (FS+) P12268 (IY+) T cells could be enriched following adoptive transfer either by systemic administration of MTX alone ( 4.4 -fold ) , DB00688 alone ( 2.9-fold ) , or combined MTX and DB00688 ( 4.9-fold ) . These findings demonstrate the utility of both P00374 (FS)/MTX and P12268 (IY)/ DB00688 for in vivo selection of lentivirally transduced human T cells . Vectors incorporating these muteins in combination with other therapeutic transgenes may facilitate the selective engraftment of therapeutically active cells in recipients .",
+    "Oxidative stress in susceptibility to breast cancer : study in Spanish population . BACKGROUND : Alterations in the redox balance are involved in the origin , promotion and progression of cancer . Inter-individual differences in the oxidative stress regulation can explain a part of the variability in cancer susceptibility.The aim of this study was to evaluate if polymorphisms in genes codifying for the different systems involved in oxidative stress levels can have a role in susceptibility to breast cancer . METHODS : We have analyzed 76 single base polymorphisms located in 27 genes involved in oxidative stress regulation by SNPlex technology . First , we have tested all the selected SNPs in 493 breast cancer patients and 683 controls and we have replicated the significant results in a second independent set of samples ( 430 patients and 803 controls ) . Gene-gene interactions were performed by the multifactor dimensionality reduction approach . RESULTS : Six polymorphisms rs1052133 ( O15527 ) , rs406113 and rs974334 ( GPX6 ) , rs2284659 ( P08294 ) , rs4135225 ( P10599 ) and rs207454 ( P47989 ) were significant in the global analysis . The gene-gene interactions demonstrated a significant four-variant interaction among rs406113 ( GPX6 ) , rs974334 ( GPX6 ) , rs105213 ( O15527 ) and rs2284659 ( P08294 ) ( p-value = 0.0008 ) with high-risk genotype combination showing increased risk for breast cancer ( OR = 1.75 [ 95 % CI ; 1.26-2.44 ] ) . CONCLUSIONS : The results of this study indicate that different genotypes in genes of the oxidant/antioxidant pathway could affect the susceptibility to breast cancer . Furthermore , our study highlighted the importance of the analysis of the epistatic interactions to define with more accuracy the influence of genetic variants in susceptibility to breast cancer .",
+    "Inactivation of caspase-1 in rodent brain : a novel anticonvulsive strategy . PURPOSE : Cytokines and related inflammatory mediators are rapidly synthesized in the brain during seizures . We previously found that intracerebral administration of interleukin-1 ( IL-1 ) -beta has proconvulsant effects , whereas its endogenous receptor antagonist ( IL-1Ra ) mediates potent anticonvulsant actions in various models of limbic seizures . In this study , we investigated whether seizures can be effectively inhibited by blocking the brain production of IL-1beta , by using selective inhibitors of interleukin-converting enzyme ( ICE/caspase-1 ) or through caspase-1 gene deletion . METHODS : P29466 was selectively blocked by using pralnacasan or DB05507 . IL-1beta release was induced in mouse organotypic hippocampal slice cultures by proinflammatory stimuli [ lipopolysaccharide ( LPS ) + adenosine triphosphate ( DB00171 ) ] and measured with enzyme-linked immunosorbent assay ( ELISA ) . IL-1beta production during seizures was measured in the rat hippocampus by Western blot . Seizures were induced in freely moving mice and rats by intrahippocampal injection of kainic acid and recorded by EEG analysis . RESULTS : P29466 inhibition reduced the release of IL-1beta in organotypic slices exposed to LPS+ DB00171 . Administration of pralnacasan ( intracerebroventricular , 50 microg ) or DB05507 ( intraperitoneal , 25-200 mg/kg ) to rats blocked seizure-induced production of IL-1beta in the hippocampus , and resulted in a twofold delay in seizure onset and 50 % reduction in seizure duration . Mice with caspase-1 gene deletion showed a 70 % reduction in seizures and an approximate fourfold delay in their onset . CONCLUSIONS : Inhibition of caspase-1 represents an effective and novel anticonvulsive strategy , which acts by selectively reducing the brain availability of IL-1beta .",
+    "Analyses of cross species polymerase chain reaction products to infer the ancestral state of human polymorphisms . In numerous population genetic and disease association studies decisions about the ancestry of polymorphic alleles are often made based on the relative frequency of the alleles in the extant populations with the most frequent allele being deemed as ancestral . However , the frequency of an allele in a population is generally not a perfect indicator of its ancestral status . A more accurate method to assess ancestral/derived status of polymorphic alleles involves identification of shared alleles between species . We used this strategy to examine genomic regions homologous to several human polymorphisms in four species of non-human primates . Cross species polymerase chain reaction ( CS-PCR ) , with primers designed from human sequence , was used to investigate regions of interest . Nineteen polymorphisms at six loci ( P14416 , HOXB@ , PAH , D4S10 , P10745 , and P07949 ) were examined either by restriction fragment length analysis of PCR products ( PCR-RFLP ) or by direct sequencing . At seventeen of the eighteen PCR-RFLPs , non-human primates were monomorphic and identical to each other for either lack of restriction enzyme site or presence of the site . Thus , at these seventeen polymorphic sites the shared alleles are most likely to be the ancestral ones in humans . In several cases we have used sequence data to further demonstrate that the nucleotide at the site of the polymorphism is conserved between species confirming the hypothesis of a single ancestral allele . However , not all human alleles can be simply resolved into ancestral and derived ; sequence data from one PCR-RFLP ( in an intron of the PAH locus ) and a single strand conformational polymorphism ( SSCP ) in the 3' untranslated region ( UTR ) of the P14416 gene illustrate this point .",
+    "Allele frequencies of single nucleotide polymorphisms ( SNPs ) in 40 candidate genes for gene-environment studies on cancer : data from population-based Japanese random samples . Knowledge of genetic polymorphisms in gene-environment studies may contribute to more accurate identification of avoidable risks and to developing tailor-made preventative measures . The aim of this study was to describe the allele frequencies of single nucleotide polymorphisms ( SNPs ) of select genes , which may be included in future gene-environment studies on cancer in Japan . SNP typing was performed on middle-aged Japanese men randomly selected from the general population in five areas of Japan . We genotyped and calculated allele frequencies of 153 SNPs located on 40 genes : P04798 , Q16678 , P11712 , P33261 , P05181 , P05093 , P11511 , P35869 , P03372 , Q92731 , ERRRG , P06401 , P07099 , P34913 , P37059 , P37058 , P28161 , P21266 , GSTT2 , P09211 , NAT1 , NAT2 , P21964 , P07327 , P00325 , P00326 , P05091 , P35228 , NOS3 , P01583 , P01584 , O15527 , P36639 [ P36639 ] , P14416 , P35462 , P21917 , P31645 , P04150 [ GCCR ] , P42898 , and P15559 . In the present study , the Japanese allele frequencies were verified by using nationwide population samples .",
+    "Genetic markers associated with abstinence length in alcohol-dependent subjects treated with acamprosate . DB00659 supports abstinence in some alcohol-dependent subjects , yet predictors of response are unknown . To identify response biomarkers , we investigated associations of abstinence length with polymorphisms in candidate genes in glycine and glutamate neurotransmission pathways and genes previously implicated in acamprosate response . Association analyses were conducted in the discovery sample of 225 alcohol-dependent subjects treated with acamprosate for 3 months in community-based treatment programs in the United States . Data from 110 alcohol-dependent males treated with acamprosate in the study PREDICT were used for replication of the top association findings . Statistical models were adjusted for relevant covariates , including recruitment site and baseline clinical variables associated with response . In the discovery sample , shorter abstinence was associated with increased intensity of alcohol craving and lower number of days between the last drink and initiation of acamprosate treatment . After adjustment for covariates , length of abstinence was associated with the Q13224 rs2058878 ( P=4.6 × 10(-5) ) . In the replication sample , shorter abstinence was associated with increased craving , increased depressive mood score and higher alcohol consumption . Association of abstinence length with Q13224 rs2058878 was marginally significant ( P=0.0675 ) ; as in the discovery sample , the minor A allele was associated with longer abstinence . Furthermore , rs2300272 , which is in strong linkage disequilibrium with rs2058878 , was also associated with abstinence length ( P=0.049 ) . This is the first report of a replicated association of genetic markers with the length of abstinence in acamprosate-treated alcoholics . Investigation of the underlying mechanisms of this association and its usefulness for individualized treatment selection should follow .",
+    "Combined adenine phosphoribosyltransferase and P34059 deficiency . We describe a Czech patient with combined adenine phosphoribosyltransferase ( P07741 ) deficiency ( 2,8-dihydroxyadenine urolithiasis ) and P34059 ( P34059 ) deficiency ( mucopolysaccharidosis Type IVA , Morquio disease A ) . DB00173 and its extremely insoluble derivative , 2,8-dihydroxyadenine , were identified in the urine , and P07741 deficiency was confirmed in erythrocytes . There was excessive excretion of keratan sulfate in the urine , and P34059 deficiency was confirmed in leukocytes . P34059 and P07741 are both located on chromosome 16q24.3 , suggesting that the patient had a deletion involving both genes . PCR amplification of genomic DNA indicated that a novel junction was created by the fusion of sequences distal to P34059 exon 2 and proximal to P07741 exon 3 , and that the size of the deleted region was approximately 100 kb . The deletion breakpoints were localized within P34059 intron 2 and P07741 intron 2 . Several other genes , including the alpha subunit of cytochrome B ( P13498 ) , which is deleted or mutated in the autosomal form of chronic granulomatous disease , are located in the 16q24.3 region , but PCR amplification showed that this gene was present in the proband . A patient with hemizygosity for P34059 deficiency and P07741 deficiency has been reported from Japan recently . These findings indicate that : ( i ) P07741 is located telomeric to P34059 ; ( ii ) P34059 and P07741 are transcribed in the same orientation ( centromeric to telomeric ) ; and ( iii ) combined P07741 / P34059 deficiency may be more common than hitherto realized .",
+    "Functional polymorphisms of folate-metabolizing enzymes in relation to homocysteine concentrations in systemic lupus erythematosus . OBJECTIVE : To determine if functional polymorphisms of folate/homocysteine pathway enzymes are associated with homocysteine concentrations and/or coronary artery calcification ( CAC ) scores in patients with systemic lupus erythematosus ( SLE ) and controls . METHODS : We investigated 163 SLE patients and 160 controls . Functional polymorphisms in 6 genes in the folate/homocysteine pathway were genotyped : 5,10-methylenetetrahydrofolate reductase ( P42898 ) 677C > T , P42898 1298A > C , cystathionine ss-synthase ( P35520 ) 844ins68 , methionine synthase ( Q99707 ) 2756A > G , methionine synthase reductase ( Q9UBK8 ) 66A > G , thymidylate synthase ( P04818 ) 1494del6 , and dihydrofolate reductase ( P00374 ) c.86+60_78 . RESULTS : Homocysteine levels were higher in African American SLE patients than Caucasian patients and African American controls . Genotype distributions were significantly different in African American and Caucasian controls for 6 of the 7 polymorphisms . Genotype distributions for each polymorphism did not differ significantly between SLE patients and controls even after stratification by race . Glomerular filtration rate was strongly negatively correlated to homocysteine levels , and was therefore adjusted for as a covariate in the models of the effects of the polymorphisms on homocysteine levels . In SLE patients none of the 7 polymorphisms was associated with homocysteine concentrations . In Caucasian controls only P42898 677C > T and 1298A > C showed effects on homocysteine similar to what would be expected from the literature . There were no genotypic associations with median CAC scores in SLE patients or controls with and without stratification by race . CONCLUSION : Polymorphisms in folate/homocysteine metabolizing enzymes do not predict higher homocysteine levels or CAC scores in patients with SLE .",
+    "Differential selectivity of insulin secretagogues : mechanisms , clinical implications , and drug interactions . The sulphonylurea receptor ( Q09428 ) subunits of K( DB00171 ) channels are the targets for several classes of therapeutic drugs . Sulphonylureas close K( DB00171 ) channels in pancreatic beta-cells and are used to stimulate insulin release in type 2 diabetes , whereas the K( DB00171 ) channel opener nicorandil acts as an antianginal agent by opening K( DB00171 ) channels in cardiac and vascular smooth muscle . The predominant type of Q09428 varies between tissues : Q09428 in beta-cells , SUR2A in cardiac muscle , and SUR2B in smooth muscle . Sulphonylureas and related drugs exhibit differences in tissue specificity , as the drugs interact to varying degrees with different types of Q09428 . DB01120 and tolbutamide are beta-cell selective and reversible . DB00222 , glibenclamide , and repaglinide , however , inhibit cardiac and smooth muscle K( DB00171 ) channels in addition to those in beta-cells and are only slowly reversible . Similar properties have been observed by recording K( DB00171 ) channel activity in intact cells and in Xenopus oocytes expressing cloned K( DB00171 ) channel subunits . While K( DB00171 ) channels in cardiac and smooth muscle are largely closed under physiological conditions ( but open during ischaemia ) , they are activated by antianginal agents such as nicorandil . Under these conditions , they may be inhibited by sulphonylureas that block SUR2-type K( DB00171 ) channels ( e.g. , glibenclamide ) . Care should , therefore , be taken when choosing a sulphonylurea if potential interactions with cardiac and smooth muscle K( DB00171 ) channels are to be avoided .",
+    "DB00134 -dependence phenotype in the de novo pathway in P38398 and P51587 mutation carriers with and without breast cancer . DB00134 -dependence phenotype ( P16444 ) refers to the reduced ability of cells to proliferate when methionine is restricted and/or replaced by its immediate precursor homocysteine . P16444 is a characteristic of human tumors in vivo , human tumor cell lines , and normal somatic tissue in some individuals . It was hypothesized that P16444 is a risk factor for developing breast cancer in BRCA ( P38398 and P51587 ) germline mutation carriers . To test the hypothesis , human peripheral blood lymphocytes of BRCA carriers with and without breast cancer and healthy non-carrier relatives ( controls ) were cultured for 9 days in medium containing either 0.1 mmol/L L-methionine or 0.2 mmol/L D,L-homocysteine , with the ratio of viable cell growth in both types of medium after 9 days used to calculate the methionine-dependence index ( MDI ) , a measure of P16444 . We also tested whether P16444 was associated with common polymorphisms in methionine metabolism . Viable cell growth , MDI , and polymorphism frequency in Q9UBK8 ( A66G and C524T ) and P42898 ( A1298C and A1793G ) did not differ among the study groups ; however , MDI tended to be higher in BRCA carriers with breast cancer than those without and was significantly increased in P42898 677T allele carriers relative to wild-type carriers ( P=0.017 ) . The presence of Q99707 A2756G mutant allele and P42898 C677T mutant allele in carriers was associated with increased breast cancer risk [ odds ration , 3.2 ( P=0.16 ; 95 % confidence interval , 0.76-13.9 ) and 3.9 ( P=0.09 ; 95 % confidence interval , 0.93-16.3 ) , respectively ] . The results of this study support the hypothesis that defects in methionine metabolism may be associated with breast cancer risk in BRCA carriers .",
+    "Genetic markers in the EET metabolic pathway are associated with outcomes in patients with aneurysmal subarachnoid hemorrhage . Preclinical studies show that epoxyeicosatrienoic acids ( EETs ) regulate cerebrovascular tone and protect against cerebral ischemia . We investigated the relationship between polymorphic genes involved in EET biosynthesis/metabolism , cytochrome P450 ( CYP ) eicosanoid levels , and outcomes in 363 patients with aneurysmal subarachnoid hemorrhage ( aSAH ) . Epoxyeicosatrienoic acids and dihydroxyeicosatetraenoic acid ( DHET ) cerebrospinal fluid ( P04141 ) levels , as well as acute outcomes defined by delayed cerebral ischemia ( P42126 ) or clinical neurologic deterioration ( CND ) , were assessed over 14 days . Long-term outcomes were defined by Modified Rankin Scale ( P59665 ) at 3 and 12 months . P10632 *4 allele carriers had 44 % and 36 % lower mean EET and DHET P04141 levels ( P=0.003 and P=0.007 ) and were 2.2- and 2.5-fold more likely to develop P42126 and CND ( P=0.039 and P=0.041 ) , respectively . P34913 55Arg , P51589 *7 , P10632 *1B , and P10632 g.36785A allele carriers had lower EET and DHET P04141 levels . P10632 g.25369T and P10632 g.36755A allele carriers had higher EET levels . Patients with P10632 *2C and P34913 404del variants had worse long-term outcomes while those with P34913 287Gln , P51589 *7 , and P11712 g.816G variants had favorable outcomes . Epoxyeicosatrienoic acid levels were associated with Fisher grade and unfavorable 3-month outcomes . Dihydroxyeicosatetraenoic acids were not associated with outcomes . No associations passed Bonferroni multiple testing correction . These are the first clinical data demonstrating the association between the EET biosynthesis/metabolic pathway and the pathophysiology of aSAH .",
+    "Genetic variants in apoptosis and immunoregulation-related genes are associated with risk of chronic lymphocytic leukemia . To identify low-penetrance susceptibility alleles for chronic lymphocytic leukemia ( CLL ) , we performed a case-control study genotyping 768 single-nucleotide polymorphisms ( SNP ) in 692 cases of CLL and 738 controls . We investigated nonsynonymous SNPs , SNPs with potential functional effect , and tag SNPs in regulatory gene regions in a total of 172 genes involved in cancer biology . After adjustment for multiple testing , we found a strong association between CLL risk and six genetic variants : P51946 ( rs2266690 , V270A ) , O14727 ( rs17028658 , 3'region ) , Q14005 ( rs4505265 , first intron ) , Q14790 ( rs1045485 , D302H ) , P35228 ( rs2779251 , promoter ) , and P32248 ( rs3136687 , intron 1 ) . We found association with CLL susceptibility and 22 haplotypes in O14727 , P05231 , O14836 , Q14005 , P42574 , P32248 , P01374 / P01375 , Q07812 , P10415 , P48061 , CASP10/ Q14790 , P29466 , P13500 , Q16611 , and P01583 candidate genes . Finally , we evaluated using public data sets the potential functional effect on gene expression levels of the CLL associated genetic variants detected in regulatory regions . Minor alleles for O14727 and Q14005 were associated with lower mRNA levels ; no expression differences were observed for P32248 , whereas P35228 could not be assessed . This study suggests that common genetic variation in apoptosis- and immunoregulation-related genes is associated with the CLL risk .",
+    "[ The dynamics of cytokines and their related substances in skin wounds ] . Molecular-pathological study on cytokines and their related substances in skin wound healing was performed from the view points of forensic pathology ; 1 . The dynamics of inflammatory cytokines such as interleukin ( IL ) -1 alpha , P01584 , P05231 and tumor necrosis factor-alpha ( P01375 alpha ) during murine wound healing was examined at the levels of protein and mRNA . As for the results , the production of those inflammatory cytokines could be considered as one of the local vital reactions after wounding , and it was clarified that those inflammatory cytokines were one of the biological markers for forensic wound age determination . Practically , our immunohistochemical and morphometrical study with human skin wounds with different wound ages suggested that the ratios of P01583 -positive cells , considerably exceeding 30 % , indicated a postinfliction interval of 1 day or less . 2 . In mouse skin incision , a significant increase in P22301 mRNA occurred between 30 and 180 min . The increased expression of P22301 mRNA could be considered a vital reaction in skin wounds . Furthermore , it was clarified that P22301 may have an important regulatory role in limiting the extent and duration of inflammatory response during skin wound healing . 3 . Fas and P48023 ( Fas L ) were immunohistochemically detectable on macrophages and fibroblasts in skin wound healing process . Morphometrically , the number of cell expressing Fas and/or Fas L reached a peak at 6 days after wounding . Therefore , it is considered that apoptosis through Fas and Fas L may play an important role for reducing the cellularity during proliferative phase of wound healing in mice .",
+    "Phytoestrogens induce apoptosis through a mitochondria/caspase pathway in human breast cancer cells . OBJECTIVE : To explore the effect and pathway of phytoestrogens on the growth of breast cancer cell line MCF-7 . METHODS : MCF-7 cells ( human estrogen receptor-positive and progesterone receptor-positive breast cancer cells ) were cultured in serum-free medium for 24 h and then treated with genistein , resveratrol , and quercetin ( 10(-10)-10(-4) mol/l ) . After further incubation for 24 , 48 , 72 , and 92 h , the cells were harvested and extracted for 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide ( MTT ) assay . According to the above results , the proteins involving proliferative and apoptotic pathways were evaluated by Western blot analysis . RESULTS : DB01645 , resveratrol , and quercetin significantly inhibited cellular proliferation in a dose- and time-dependent manner . Significantly elevated caspase-3 activity was noted after treatment with genistein ( 10(-9)-10(-7) mol/l ) , as well as with resveratrol and quercetin ( 10(-9)-10(-5) mol/l ) . Significant reduction of PI3K and AKT protein and significant increase of P48023 , Fas-associated protein with death domain , cytochrome C , truncated Bid , caspase-9 , and caspase-3 were all noted after genistein , resveratrol , and quercetin treatment . 17β-Estradiol induced completely opposite results . P03372 ( ER ) α expression was significantly increased with 17β-estradiol , whereas ERβ expression was significantly elevated in the cultures with genistein , resveratrol , and quercetin . CONCLUSIONS : These data demonstrate that genistein , resveratrol , and quercetin have antiproliferative effects on breast cancer cells . Their induction of apoptosis involves the activation of both the intrinsic and extrinsic apoptotic pathways , which may be related to the differential affinity to ERα and ERβ . Whether phytoestrogens have similar effects on normal breast cells remains to be examined ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB01267 is a metabolite of risperidone, specifically 9-hydroxyrisperidone.\nDB01267 was determined using a new HPLC method with an Hypersil CN column and a UV detector.\nDB01267 is formed via the metabolism of risperidone by cytochrome P450 enzymes.\nCYP2D6 and CYP3A4 are the primary enzymes responsible for the formation of DB01267.\nDB01267 is an active metabolite of risperidone and is involved in its pharmacological effects.\nDB00173 is a compound identified in a patient with combined adenine phosphoribosyltransferase and P34059 deficiency.\nDB00173 is not mentioned in the context of risperidone metabolism or interaction with DB01267.\nDB00222 is a sulfonylurea drug that inhibits K+ channels in cardiac and smooth muscle.\nDB00222 is not involved in the metabolism of risperidone or interaction with DB01267.\nDB00659 is acamprosate, used to support abstinence in alcohol-dependent subjects.\nDB00659 is not related to risperidone metabolism or DB01267.\nDB00688 is mycophenolate mofetil, an immunosuppressive drug.\nDB00688 is not involved in the metabolism of risperidone or interaction with DB01267.\nDB01643 is a synthase targeted in cancer therapy.\nDB01643 is not linked to risperidone metabolism or DB01267.\nDB01645 is genistein, a phytoestrogen that induces apoptosis in breast cancer cells.\nDB01645 is not involved in risperidone metabolism or interaction with DB01267.\nDB05262 is a compound that prevents H2O2 production in response to oscillatory shear stress.\nDB05262 is not related to risperidone metabolism or DB01267.\nDB05294 is a P07949 inhibitor that exhibits anti-tumor effects in a xenograft model.\nDB05294 is not involved in risperidone metabolism or interaction with DB01267.\nDB05507 is a selective inhibitor of caspase-1 used in anticonvulsive studies.\nDB05507 is not involved in risperidone metabolism or interaction with DB01267.\nNo evidence in the text indicates that any of the listed compounds interacts with DB01267.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB01267 is a metabolite of risperidone, specifically 9-hydroxyrisperidone",
+    "DB01267 was determined using a new HPLC method with an Hypersil CN column and a UV detector",
+    "DB01267 is formed via the metabolism of risperidone by cytochrome P450 enzymes",
+    "CYP2D6 and CYP3A4 are the primary enzymes responsible for the formation of DB01267",
+    "DB01267 is an active metabolite of risperidone and is involved in its pharmacological effects",
+    "DB00173 is a compound identified in a patient with combined adenine phosphoribosyltransferase and P34059 deficiency",
+    "DB00173 is not mentioned in the context of risperidone metabolism or interaction with DB01267",
+    "DB00222 is a sulfonylurea drug that inhibits K+ channels in cardiac and smooth muscle",
+    "DB00222 is not involved in the metabolism of risperidone or interaction with DB01267",
+    "DB00659 is acamprosate, used to support abstinence in alcohol-dependent subjects",
+    "DB00659 is not related to risperidone metabolism or DB01267",
+    "DB00688 is mycophenolate mofetil, an immunosuppressive drug",
+    "DB00688 is not involved in the metabolism of risperidone or interaction with DB01267",
+    "DB01643 is a synthase targeted in cancer therapy",
+    "DB01643 is not linked to risperidone metabolism or DB01267",
+    "DB01645 is genistein, a phytoestrogen that induces apoptosis in breast cancer cells",
+    "DB01645 is not involved in risperidone metabolism or interaction with DB01267",
+    "DB05262 is a compound that prevents H2O2 production in response to oscillatory shear stress",
+    "DB05262 is not related to risperidone metabolism or DB01267",
+    "DB05294 is a P07949 inhibitor that exhibits anti-tumor effects in a xenograft model",
+    "DB05294 is not involved in risperidone metabolism or interaction with DB01267",
+    "DB05507 is a selective inhibitor of caspase-1 used in anticonvulsive studies",
+    "DB05507 is not involved in risperidone metabolism or interaction with DB01267",
+    "No evidence in the text indicates that any of the listed compounds interacts with DB01267"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB01267 is a metabolite of risperidone, specifically 9-hydroxyrisperidone",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB01267 was determined using a new HPLC method with an Hypersil CN column and a UV detector",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB01267 is formed via the metabolism of risperidone by cytochrome P450 enzymes",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "CYP2D6 and CYP3A4 are the primary enzymes responsible for the formation of DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB01267 is an active metabolite of risperidone and is involved in its pharmacological effects",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00173 is a compound identified in a patient with combined adenine phosphoribosyltransferase and P34059 deficiency",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00173 is not mentioned in the context of risperidone metabolism or interaction with DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB00222 is a sulfonylurea drug that inhibits K+ channels in cardiac and smooth muscle",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB00222 is not involved in the metabolism of risperidone or interaction with DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB00659 is acamprosate, used to support abstinence in alcohol-dependent subjects",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00659 is not related to risperidone metabolism or DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00688 is mycophenolate mofetil, an immunosuppressive drug",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00688 is not involved in the metabolism of risperidone or interaction with DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB01643 is a synthase targeted in cancer therapy",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB01643 is not linked to risperidone metabolism or DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB01645 is genistein, a phytoestrogen that induces apoptosis in breast cancer cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB01645 is not involved in risperidone metabolism or interaction with DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB05262 is a compound that prevents H2O2 production in response to oscillatory shear stress",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB05262 is not related to risperidone metabolism or DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB05294 is a P07949 inhibitor that exhibits anti-tumor effects in a xenograft model",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "DB05294 is not involved in risperidone metabolism or interaction with DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "DB05507 is a selective inhibitor of caspase-1 used in anticonvulsive studies",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C23",
+      "text": "DB05507 is not involved in risperidone metabolism or interaction with DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C24",
+      "text": "No evidence in the text indicates that any of the listed compounds interacts with DB01267",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

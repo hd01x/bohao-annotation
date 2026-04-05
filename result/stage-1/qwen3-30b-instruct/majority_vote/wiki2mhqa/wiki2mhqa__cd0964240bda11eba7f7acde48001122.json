@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__cd0964240bda11eba7f7acde48001122",
+  "sample_id": "cd0964240bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of burial of Marie-Louise Loubet's husband?",
+  "gold_answer": "Montélimar",
+  "context": [
+    "Daigo's reign spanned the years from 897 through 930. He is named after his place of burial.",
+    "Marie Louise de Rohan (Marie Louise Geneviève; 7 January 1720 – 4 March 1803), also known as Madame de Marsan, was the governess of Louis XVI of France and his siblings. She was an influential figure of the French court and a driving force of the Dévots and the conservative fraction of the court nobility.",
+    "Marie Louise (Maria Ludovica Leopoldina Franziska Therese Josepha Lucia; Italian: \"Maria Luigia Leopoldina Francesca Teresa Giuseppa Lucia\"; 12 December 1791 – 17 December 1847) was an Austrian archduchess who reigned as Duchess of Parma from 1814 until her death. She was Napoleon's second wife and, as such, Empress of the French from 1810 to 1814. As the eldest child of the Habsburg Emperor Francis II of Austria and his second wife, Maria Theresa of Naples and Sicily, Marie Louise grew up during a period of continuous conflict between Austria and revolutionary France. A series of military defeats at the hands of Napoleon Bonaparte had inflicted a heavy human toll on Austria and led Francis to dissolve the Holy Roman Empire. The end of the War of the Fifth Coalition resulted in the marriage of Napoleon and Marie Louise in 1810, which ushered in a brief period of peace and friendship between Austria and the French Empire. Marie Louise agreed to the marriage despite being raised to despise France. She was adored by Napoleon, who had been eager to marry a member of one of Europe's leading royal houses to cement his relatively young Empire. With Napoleon, she bore a son, styled the King of Rome at birth, later Duke of Reichstadt, who briefly succeeded him as Napoleon II. Napoleon's fortunes changed dramatically in 1812 after his failed invasion of Russia. The European powers, including Austria, resumed hostilities towards France in the War of the Sixth Coalition, which ended with the abdication of Napoleon and his exile to Elba. The 1814 Treaty of Fontainebleau handed over the Duchies of Parma, Piacenza and Guastalla to Empress Marie Louise. She ruled the duchies until her death. Marie Louise married morganatically twice after Napoleon's death in 1821. Her second husband was Count Adam Albert von Neipperg (married 1821), an equerry she met in 1814. She and Neipperg had three children. After Neipperg's death, she married Count Charles-René de Bombelles, her chamberlain, in 1834. Marie Louise died in Parma in 1847.",
+    "Marie- Louise Jensen( born 22 September 1964) is an English children's author.",
+    "Vernon Richards( 19 July 1915 – 10 December 2001) was an Anglo- Italian anarchist, editor, author and companion of Marie- Louise Berneri.",
+    "Marie Forleo( born December 7, 1975) is an American life coach, motivational speaker, author and web television host of Marie TV. She is the owner of Marie Forleo International, B- School and MarieTV.",
+    "Marie Louise de La Tour d' Auvergne( Marie Louise Henriette Jeanne; 15 August 1725 – 1793) was a French noblewoman and member of the House of La Tour d'Auvergne. She was the Princess of Guéméné by marriage.",
+    "Marie-Louise Loubet (1843-1925) was the wife of the President of France Émile Loubet. She was reportedly not interested in participating in representation but did so anyway, hosting garden party's and accompanying her spouse to the theatre and opera. Her daughter performed many of her tasks. She was however reportedly somewhat interested in diplomacy and once referred to as the presidential adviser in foreign policy. She received the Grand Cordon of the Order of Charity of the Ottoman Empire in early 1900. When Marie Curie was invited to the Elysée palace this happened:",
+    "Émile François Loubet (30 December 183820 December 1929) was the 45th Prime Minister of France and later President of France. Trained in law, he became mayor of Montélimar, where he was noted as a forceful orator. He was elected to the Chamber of Deputies in 1876 and the Senate in 1885. He was appointed as a Republican minister under Carnot and Ribot. He was briefly Prime Minister of France in 1892. As President (1899–1906), he saw the successful Paris Exhibition of 1900, and the forging of the Entente Cordiale with the United Kingdom of Great Britain and Ireland, resolving their sharp differences over the Boer War and the Dreyfus Affair.",
+    "Marie Louise Steffensen( born 5 September 1996) is a Danish badminton player."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMarie-Louise Loubet was the wife of Émile Loubet.\nÉmile Loubet served as President of France from 1899 to 1906.\nHe died on 20 December 1929.\nThe place of burial of Émile Loubet is not specified in the provided context.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Marie-Louise Loubet was the wife of Émile Loubet",
+    "Émile Loubet served as President of France from 1899 to 1906",
+    "He died on 20 December 1929",
+    "The place of burial of Émile Loubet is not specified in the provided context"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Marie-Louise Loubet was the wife of Émile Loubet",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Émile Loubet served as President of France from 1899 to 1906",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "He died on 20 December 1929",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The place of burial of Émile Loubet is not specified in the provided context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

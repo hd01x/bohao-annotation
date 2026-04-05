@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__84d526bd088711ebbd6dac1f6bf848b6",
+  "sample_id": "84d526bd088711ebbd6dac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do both films The Dust Of Naples and Col Cuore In Gola have the directors that share the same nationality?",
+  "gold_answer": "yes",
+  "context": [
+    "The Dust of Naples is a 1998 Italian comedy film written and directed by Antonio Capuano.",
+    "Maria Isabelle of Naples and Sicily ( 2 December 1793 – 23 April 1801) was a member of the Bourbons of Naples and Sicily( itself descended from the Bourbons of France). She was styled\" Princess of Naples and Sicily\".",
+    "Giovanni\" Tinto\" Brass( born 26 March 1933) is an Italian filmmaker. In the 1960s and 1970s, he directed many critically acclaimed avant- garde films of various genres. Today, he is mainly known for his later work in the erotic genre, with films such as\" CaligulaCosì fan tutte\"( released under the English title\" All Ladies Do ItPaprikaMonellaFrivolous Lola\") and\" Trasgredire\".",
+    "Maria Cristina Amelia of Naples and Sicily( 17 January 1779 – 26 February 1783) was a Princess of Naples and Sicily and twin sister of the future Queen of Sardinia. She died of smallpox in 1783.",
+    "Col cuore in gola is a 1967\" giallo\" film directed by Tinto Brass. It is loosely based on the novel\" Il sepolcro di carta\"( The Paper Tomb) written by Sergio Donati. The film used storyboards from cartoonist Guido Crepax. It has been released under several titles including\" Deadly Sweet\" and\" I Am What I Am\".",
+    "Maria Cristina of Naples and Sicily (Maria Cristina Amelia Teresa; 17 January 1779 – 11 March 1849) was a Princess of Naples and Sicily and later Queen of Sardinia as wife of King Charles Felix.",
+    "Alberto of Naples and Sicily (Alberto Lodovico Maria Filipo Gaetano; 2 May 1792 – 25 December 1798) was a Prince of Naples and Sicily. He died on board , a British Royal Navy vessel.",
+    "Antonio Capuano( born 9 April 1940) is an Italian film director and screenwriter.",
+    "Margaret of Durazzo (28 July 1347 – 6 August 1412) was Queen of Naples and Hungary and Princess of Achaea as the spouse of Charles III of Naples. She was regent of Naples from 1386 until 1393 during the minority of her son Ladislaus of Naples.",
+    "Carlo of Naples and Sicily (4 January 1775 – 17 December 1778) was Duke of Calabria as heir to Naples and Sicily."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Dust of Naples is a 1998 Italian comedy film directed by Antonio Capuano.\nAntonio Capuano was born on 9 April 1940 and is an Italian film director and screenwriter.\nCol cuore in gola is a 1967 giallo film directed by Tinto Brass.\nTinto Brass, born 26 March 1933, is an Italian filmmaker.\nBoth Antonio Capuano and Tinto Brass are Italian.\nThe directors of both films share the same nationality.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Dust of Naples is a 1998 Italian comedy film directed by Antonio Capuano",
+    "Antonio Capuano was born on 9 April 1940 and is an Italian film director and screenwriter",
+    "Col cuore in gola is a 1967 giallo film directed by Tinto Brass",
+    "Tinto Brass, born 26 March 1933, is an Italian filmmaker",
+    "Both Antonio Capuano and Tinto Brass are Italian",
+    "The directors of both films share the same nationality"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Dust of Naples is a 1998 Italian comedy film directed by Antonio Capuano",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Antonio Capuano was born on 9 April 1940 and is an Italian film director and screenwriter",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Col cuore in gola is a 1967 giallo film directed by Tinto Brass",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Tinto Brass, born 26 March 1933, is an Italian filmmaker",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Both Antonio Capuano and Tinto Brass are Italian",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The directors of both films share the same nationality",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

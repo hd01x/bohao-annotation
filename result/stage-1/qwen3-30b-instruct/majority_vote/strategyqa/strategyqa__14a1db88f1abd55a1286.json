@@ -1,0 +1,121 @@
+{
+  "uid": "strategyqa__14a1db88f1abd55a1286",
+  "sample_id": "14a1db88f1abd55a1286",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could you drive a Rowe 550 to the 2008 Summer Olympics?",
+  "gold_answer": "yes",
+  "context": [
+    "The Rowe 550 was a car produced by the Chinese SAIC motor company.",
+    "The Rowe 550 debuted at the 2007 Shanghai Auto Show.",
+    "The 2008 Beijing Summer Olympics happened in the Capital of the People's Republic of China."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Rowe 550 was a car produced by SAIC Motor in China.\nThe Rowe 550 debuted at the 2007 Shanghai Auto Show.\nThe 2008 Beijing Summer Olympics were held in Beijing, China.\nBeijing is the capital city of the People's Republic of China.\nThe Rowe 550 was a road-legal vehicle produced for consumer use.\nThere is no information indicating that the Rowe 550 was not available for public use or transport.\nA Rowe 550 could be driven to the 2008 Summer Olympics in Beijing.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Rowe 550 was a car produced by SAIC Motor in China",
+    "The Rowe 550 debuted at the 2007 Shanghai Auto Show",
+    "The 2008 Beijing Summer Olympics were held in Beijing, China",
+    "Beijing is the capital city of the People's Republic of China",
+    "The Rowe 550 was a road-legal vehicle produced for consumer use",
+    "There is no information indicating that the Rowe 550 was not available for public use or transport",
+    "A Rowe 550 could be driven to the 2008 Summer Olympics in Beijing"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Rowe 550 was a car produced by SAIC Motor in China",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Rowe 550 debuted at the 2007 Shanghai Auto Show",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The 2008 Beijing Summer Olympics were held in Beijing, China",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Beijing is the capital city of the People's Republic of China",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Rowe 550 was a road-legal vehicle produced for consumer use",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "There is no information indicating that the Rowe 550 was not available for public use or transport",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "A Rowe 550 could be driven to the 2008 Summer Olympics in Beijing",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

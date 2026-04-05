@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__a638412a0bdb11eba7f7acde48001122",
+  "sample_id": "a638412a0bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where did the director of film Carbon (Film) study?",
+  "gold_answer": "Film and Television Institute of India",
+  "context": [
+    "Jason Moore( born October 22, 1970) is an American director of film, theatre and television.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Carbon is a 2018 Indian Malayalam-language adventure thriller film written and directed by Venu, starring Fahadh Faasil and Mamta Mohandas. The film follows Sebastian and Sameera on their expedition to find a lost treasure deep inside a forest. K. U. Mohanan was the cinematographer, while Vishal Bhardwaj and Bijibal composed the songs and the score, respectively. Principal photography took place between August and October 2017 in several hilly terrain locations in North Kerala. \"Carbon\" was released in India on 19 January 2018 to positive response from the critics, particularly praising the visuals and Faasil's performance. The film won six Kerala State Film Awards, the most awards for any film on that year.",
+    "Ian Barry is an Australian director of film and TV.",
+    "The Seventh Company Outdoors is a 1977 French comedy film directed by Robert Lamoureux. It is a sequel to Now Where Did the 7th Company Get to ?.",
+    "Now Where Did the 7th Company Get To? is a 1973 French- Italian comedy war film directed by Robert Lamoureux. The film portrays the adventures of a French Army squad lost somewhere on the front in May 1940 during the Battle of France.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Venu is an Indian cinematographer and film director who works mainly in Malayalam cinema. An alumnus of the Film and Television Institute of India, Pune , he has been the recipient of four National Film Awards, including three for Best Cinematography, and four Kerala State Film Awards. He is a founding member of the Indian Society of Cinematographers (ISC). Venu is married to Beena Paul, a film editor who works predominantly in Malayalam films.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCarbon is a 2018 Indian Malayalam-language adventure thriller film directed by Venu.\nVenu is an Indian cinematographer and film director who works mainly in Malayalam cinema.\nVenu is an alumnus of the Film and Television Institute of India, Pune.\nThe director of the film Carbon studied at the Film and Television Institute of India, Pune.\n<answer> Film and Television Institute of India, Pune",
+  "predicted_answer": "Film and Television Institute of India, Pune",
+  "claims": [
+    "Carbon is a 2018 Indian Malayalam-language adventure thriller film directed by Venu",
+    "Venu is an Indian cinematographer and film director who works mainly in Malayalam cinema",
+    "Venu is an alumnus of the Film and Television Institute of India, Pune",
+    "The director of the film Carbon studied at the Film and Television Institute of India, Pune"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Carbon is a 2018 Indian Malayalam-language adventure thriller film directed by Venu",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Venu is an Indian cinematographer and film director who works mainly in Malayalam cinema",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Venu is an alumnus of the Film and Television Institute of India, Pune",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The director of the film Carbon studied at the Film and Television Institute of India, Pune",
+      "claim_type": "DR"
+    }
+  ]
+}

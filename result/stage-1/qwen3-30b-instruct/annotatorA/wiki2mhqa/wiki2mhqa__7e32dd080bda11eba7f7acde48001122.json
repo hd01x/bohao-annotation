@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__7e32dd080bda11eba7f7acde48001122",
+  "sample_id": "7e32dd080bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of the director of film I'M Not Mata Hari?",
+  "gold_answer": "Madrid",
+  "context": [
+    "Mata Hari's Daughter( Italian: La figlia di Mata Hari) is a 1954 French- Italian adventure film directed by Carmine Gallone and starring Ludmilla Tchérina, Erno Crisa and Frank Latimore. It is based on a novel of the same title by Jacques Laurent. The film's sets were designed by the art director Virgilio Marchi.",
+    "Operation Mata Hari( Spanish: Operación Mata Hari) is a 1968 Spanish comedy film directed by Mariano Ozores and starring Gracita Morales, José Luis López Vázquez and Antonio Ozores. It is based on the story of the German spy Mata Hari's activities during the First World War.",
+    "Mata Hari, Agent H21( Italian: Mata- Hari, agente segreto H21) is a 1964 French- Italian spy film directed by Jean- Louis Richard and starring Jeanne Moreau, Jean- Louis Trintignant and Claude Rich. It portrays the activities of the First World War spy Mata Hari.",
+    "Benito Perojo (Madrid, 14 June 1894 – Madrid, 11 November 1974) was a successful Spanish film director and film producer. On 18 July 1966 he was honoured by the Caballero Gran Cruz de la Orden del Mérito Civil. He died in Madrid on 11 November 1974 aged 80 and he was survived by his daughter Carmen Perojo Carreras.",
+    "Himanshu Hari( born 1 April 1994) is an Indian cricketer. He made his first- class debut for Bihar in the 2018 – 19 Ranji Trophy on 1 November 2018.",
+    "Mata Hari is a 1985 erotic biographical film directed by Curtis Harrington, produced by Golan- Globus and featuring Sylvia Kristel in the title role of exotic dancer Mata Hari, executed for espionage during World War I. The film portrays Mata Hari as an innocent woman manipulated by the secret services of Germany and France into providing intelligence, at first unwittingly and unwillingly, and later driven by the nonpartisan desire to save lives. Eventually she is cynically sacrificed by the French who are aware of her innocence but believe her execution will boost morale.",
+    "I'm Not Mata Hari (Spanish: Yo no soy la Mata-Hari) is a 1949 Spanish comedy spy film directed by Benito Perojo and starring Niní Marshall, Roberto Font and Virgilio Teixeira. The film's sets were designed by the art director Sigfrido Burmann. The film's title refers to Mata Hari, the First World War-era spy.",
+    "Chetan Singh Hari( born 14 September 1936) is a former Indian cyclist. He competed in the team time trial and the team pursuit events at the 1964 Summer Olympics.",
+    "Mata Hari: The Red Dancer, often shortened on release to Mata Hari, is a 1927 German silent drama film directed by Friedrich Feher and starring Magda Sonja, Wolfgang Zilzer and Fritz Kortner. It depicts the life and death of the German World War I spy Mata Hari. It was the first feature- length portrayal of Hari. It was shot at the Staaken Studios in Berlin with sets designed by Alfred Junge.",
+    "Erwin Hari( born 16 October 1933) is a Swiss cross- country skier. He competed in the men's 15 kilometre event at the 1956 Winter Olympics."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nI'm Not Mata Hari is a 1949 Spanish comedy spy film.\nThe film was directed by Benito Perojo.\nBenito Perojo was born in Madrid, Spain.\nThe place of birth of the director of I'm Not Mata Hari is Madrid.\n<answer> Madrid",
+  "predicted_answer": "Madrid",
+  "claims": [
+    "I'm Not Mata Hari is a 1949 Spanish comedy spy film",
+    "The film was directed by Benito Perojo",
+    "Benito Perojo was born in Madrid, Spain",
+    "The place of birth of the director of I'm Not Mata Hari is Madrid"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "I'm Not Mata Hari is a 1949 Spanish comedy spy film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The film was directed by Benito Perojo",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Benito Perojo was born in Madrid, Spain",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The place of birth of the director of I'm Not Mata Hari is Madrid",
+      "claim_type": "DR"
+    }
+  ]
+}

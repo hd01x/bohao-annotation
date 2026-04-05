@@ -1,0 +1,368 @@
+{
+  "uid": "medhop__MH_dev_98",
+  "sample_id": "MH_dev_98",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00191\", \"DB00222\", \"DB00338\", \"DB00459\", \"DB00588\", \"DB00951\", \"DB01128\", \"DB01238\", and \"DB06822\" interacts with DB08865?",
+  "gold_answer": "DB01238",
+  "context": [
+    "Circulating hepatocyte growth factor as an independent prognostic factor of disseminated intravascular coagulation . BACKGROUND : P14210 ( P14210 ) , a pleiotropic factor regulating development and wound healing , is secreted as inactive pro- P14210 and is converted into active P14210 by coagulation serine proteases . P08581 overexpression can cause massive venous thrombi , and factor Xa is reported to release soluble P14210 from granulocytes . We hypothesized that a hypercoagulable condition , such as disseminated intravascular coagulation ( DIC ) , may increase circulating P14210 through active cleavage by coagulation serine proteases . METHODS : In 172 DIC-suspected patients , plasma levels of total and active P14210 , thrombin-antithrombin complex ( TAT ) , plasmin-antiplasmin complex ( PAP ) , and interleukin ( IL ) -6 were measured by ELISA . Active P14210 release in granulocytes was examined in patients with and without overt-DIC . P14210 -induced tissue factor expression in peripheral monocytes was measured by flow cytometry . RESULTS : Circulating levels of total and active P14210 correlated well with coagulopathy severity , including DIC score , D-dimer , TAT and PAP levels . P14210 positively correlated with P05231 and absolute neutrophil count . In contrast to the cancer group , P14210 levels were significantly increased in accordance with increased DIC scores in non-cancer group . Elevated circulating P14210 was an independent prognostic marker in the non-cancer group , while P14210 level failed to predict mortality in the cancer group . Amounts of P14210 released from stimulated granulocytes were not significantly different between overt-DIC and no overt-DIC patients . P14210 potentiated endotoxin-induced tissue factor expression of monocytes in vitro . CONCLUSION : These findings suggest that circulating P14210 is a potential laboratory marker reflecting coagulation activity and DIC prognosis in non-cancer patients and that P14210 may play a role in a vicious cycle of hypercoagulability .",
+    "Kringle 1-4 of hepatocyte growth factor inhibits proliferation and migration of human microvascular endothelial cells . P24001 composed of the N-terminal hairpin and subsequent four-kringle domains of hepatocyte growth factor ( P14210 ) is bifunctional , acting as a competitive antagonist for P14210 and an angiogenesis inhibitor . In this study , we determined whether or not four-kringle domains of P14210 ( P04264 -4 ) have anti-angiogenic activity . For this purpose , we prepared recombinant P04264 -4 and P24001 , using the baculovirus expression system . Although P24001 antagonized P14210 -induced DNA synthesis of rat hepatocytes , cell scattering of MDCK cells and the c- DB00134 / P08581 tyrosine phosphorylation in endothelial cells , P04264 -4 failed to antagonize P14210 -induced DNA synthesis , cell scattering and the c- DB00134 / P08581 tyrosine phosphorylation in endothelial cells , thus , indicating that P04264 -4 lacks P14210 -antagonist activity . However , endothelial proliferation and migration induced by P14210 was inhibited by P04264 -4 , similar to the case seen with P24001 . Furthermore , P04264 -4 inhibited the proliferation and migration of human dermal microvascular endothelial cells induced by vascular endothelial growth factor or by basic fibroblast growth factor . We propose that kringle 1-4 of P14210 inhibits angiogenic responses in endothelial cells , independently of P14210 -c- DB00134 signaling pathways .",
+    "Is phentermine an inhibitor of monoamine oxidase ? A critical appraisal . DB00191 produces a spectrum of concentration-dependent biochemical effects . It interacts with NE transporters at 0.1 microM , DA transporters at about 1 microM , 5-HT transporters at 15 microM and P21397 at about 100 microM . When administered at typical anorectic doses , phentermine primarily interacts with DA and NE transporters and does not produce biochemical or neurochemical effects which would occur if it were inhibiting P21397 . Some other explanation other than MAO inhibition must be sought to explain how oral phentermine increases platelet 5-HT , since platelet P27338 does not metabolize platelet 5-HT , and since amphetamine-type drugs are even weaker inhibitors of P27338 than P21397 . Clinical studies in humans have shown that amphetamine , which is a more potent inhibitor of P21397 than phentermine , does not inhibit P21397 at therapeutic doses . Neither phentermine alone , fluoxetine alone or their combined use have been associated with cardiac valvulopathy , and clinical experience has shown their combined use to be free of significant adverse effects . Viewed collectively , there appears to be no data to support the hypothesis that phentermine inhibits MAO at typical therapeutic doses .",
+    "5-Azacitidine restores and amplifies the bicalutamide response on preclinical models of androgen receptor expressing or deficient prostate tumors . BACKGROUND : Epigenetic modifications play a key role in the in prostate cancer ( Pca ) progression to a hormone refractory state ( HRPC ) and the current use of agents targeting epigenetic changes has become a topic of intense interest in cancer research . In this regard , 5-Azacitine ( 5-Aza ) represents a promising epigenetic modulator . This study tested the hypothesis that 5-Aza may restore and enhance the responsiveness of HRPC cells to anti-hormonal therapy on P10275 ( AR ) expressing ( 22rv1 ) and AR-deficient ( PC3 ) cells . METHODS : The effects were studied in vitro and in vivo models . This sequential treatment induced in vitro cell cycle arrest and apoptosis both in 22rv1 and PC3 tumor cell lines . RESULTS : This combined treatment up-regulated the expression of P48023 , phospho- Q13158 , p16(INKA) , Bax , Bak , and P38936 ( P38936 ) , and inhibited FLIP , Bcl-2 , and Bcl-XL expression . The re-activation of hormonal response of AR-negative PC3 cell line was partially due to the AR re-expression mediated by 5-Aza treatment . In contrast , the increase in the response to anti-androgenic therapy in 22rv1 did not correlate with AR expression levels . Furthermore , xenograft studies revealed that the combined treatment of 5-Aza with AR-antagonist DB01128 had additive/synergistic effects in repressing tumor growth in vivo and the underlying mechanisms responsible for these effects seem to be in part mediated by induction of apoptosis . CONCLUSIONS : So , this study strongly suggests a therapeutic potential of 5-Aza in combination with anti-androgen therapy in patients with in AR expressing and AR-deficient HRPC .",
+    "[ Low doses of sulphonyluria as a successful replacement for insulin therapy in a patient with neonatal diabetes due to a mutation of Q14654 gene encoding Kir6.2 ] . Neonatal diabetes mellitus is a rare metabolic disorder with an estimated incidence of 1:300.000 to 400.000 newborns , and less than 50 % of the neonates have permanent neonatal diabetes mellitus ( PNDM ) . Recently , activating mutation in the Q14654 gene encoding Kir6.2 subunit of the adenosin triphosphate-sensitive potassium ( K( DB00171 ) ) channel has been described as the most frequent cause of PNDM . Under physiological circumstances K( DB00171 ) channel closure plays a central role in glucose-stimulated insulin secretion from pancreatic beta cells . Sulphonylurea drugs stimulate insulin secretion by binding to and closing K( DB00171 ) channels and thus bypassing beta cell metabolism stimulate the same chain of reactions as glucose . We describe a boy diagnosed with PNDM at the age of 3 months when insulin therapy was started , and at the age of 4.5 years Q14654 gene was sequenced and found that the boy carried a de novo activating R201H mutation . P01308 therapy was successfully switched to low doses of oral glibenclamide . Accordingly , it is important to emphasize that every person diagnosed with diabetes before six months of life , however old they actually are , should be tested for K( DB00171 ) mutations which is offered via the website www.diabetesgenes.org .",
+    "DB00338 , a gastric proton pump inhibitor , inhibits melanogenesis by blocking Q04656 trafficking . DB00338 is a proton pump inhibitor used in the treatment of peptic ulcer disease and gastrosophageal reflux disease and acts by irreversibly blocking P20648 , a P-type H+/K+ ATPase in gastric parietal cells . We found that omeprazole and its closely related congeners inhibited melanogenesis at micromolar concentrations in B16 mouse melanoma cells , normal human epidermal melanocytes , and in a reconstructed human skin model . DB00338 topically applied to the skin of UV-irradiated human subjects significantly reduced pigment levels after 3 weeks compared with untreated controls . DB00338 had no significant inhibitory effect on the activities of purified human tyrosinase or on the mRNA levels of tyrosinase , dopachrome tautomerase , Pmel17 , or O75030 mRNA levels . Although melanocytes do not express P20648 , they do express Q04656 , a copper transporting P-type ATPase in the trans-Golgi network that is required for copper acquisition by tyrosinase . Q04656 relocalization from the trans-Golgi network to the plasma membrane in response to elevated copper concentrations in melanocytes was inhibited by omeprazole . DB00338 treatment increased the proportion of EndoH sensitive tyrosinase , indicating that tyrosinase maturation was impaired . In addition , omeprazole reduced tyrosinase protein abundance in the presence of cycloheximide , suggestive of increased degradation . Our findings are consistent with the hypothesis that omeprazole reduces melanogenesis by inhibiting Q04656 and by enhancing degradation of tyrosinase .",
+    "Modeling of Q14654 and inhibition mechanism of the natural ligand , ellagic acid , using molecular docking . Diabetes mellitus is a disorder in which blood sugar ( glucose ) levels are abnormally high because the body does not produce enough insulin to meet its needs . Post-prandial hyperglycemia ( PPHG ) is an independent risk factor for the development of macro vascular complications . It is now recognized that normalizing post-prandial blood glucose is more difficult than normalizing fasting glucose . DB01345 channels are the most widely distributed type of ion channel and are found in virtually all living organisms . The function of KATP channels is best understood in pancreatic beta cells , the membrane potential of which is responsive to external glucose concentration . Beta cells show a remarkably complex electrical bursting behavior in response to an increase in glucose level . DB00731 and DB00222 are a class of insulin secretagog agents that lowers blood glucose levels by stimulating insulin secretion from the pancreas . These compounds interact with the DB00171 -sensitive potassium ( K+ DB00171 ) channel in pancreatic beta cells . However , the side effects of these drugs overpass their uses , and the need to identify compounds with less adverse effects is exigent . In our research study , we used the natural compound ellagic acid , which is an already proven anti-carcinogen , anti-mutagen , and anticancer initiator , for its anti-diabetic activity in comparison to the two commercial drugs ( DB00731 and DB00222 ) . The drugs and the compounds were docked to the DB00171 -dependent potassium channel and their energy value showed that the compound had higher binding value than the commercial drugs . Then an ADME/Tox analysis for the compound was carried out which showed that ellagic can be a possible lead molecule .",
+    "Aripiprazole : a novel atypical antipsychotic drug with a uniquely robust pharmacology . Aripiprazole ( DB01238 ) is an atypical antipsychotic drug that has been recently introduced for clinical use in the treatment of schizophrenia . Aripiprazole has a unique pharmacologic profile that includes partial agonism at several G-protein coupled receptors ( GPCRs ) [ especially dopamine ( D2 ) and P08908 ] and antagonistic action at others ( especially 5- Q13049 ) . Clinical trials indicate that aripiprazole is effective in treating the positive and negative symptoms of schizophrenia . In short-term studies rapid onset of action ( within one week ) has been demonstrated . Preliminary data indicate that aripiprazole may also be effective in the treatment of manic symptoms of bipolar disorder . At recommended doses , aripiprazole appears to be safe and well tolerated in most adult patients with schizophrenia and schizoaffective disorder . There is only limited information available on the use of aripiprazole in children and adolescents , and pilot data suggest that a revised dosing strategy , based on weight , is indicated in this population . In the long-term studies , the use of aripiprazole was associated with continued efficacy , good compliance and increased time-to-relapse . Aripiprazole represents the first functionally selective atypical antipsychotic drug .",
+    "P14210 plays a key role in insulin resistance-associated compensatory mechanisms . P01308 resistance is present in obesity and in type 2 diabetes and is associated with islet cell hyperplasia and hyperinsulinemia , but the driving forces behind this compensatory mechanism are incompletely understood . Previous data have suggested the involvement of an unknown circulating insulin resistance-related β-cell growth factor . In this context , looking for candidates to be a circulating factor , we realized that hepatocyte growth factor ( P14210 ) is a strong candidate as a link between insulin resistance and increased mass of islets/hyperinsulinemia . Our approach aimed to show a possible cause-effect relationship between increase in circulating P14210 levels and compensatory islet hyperplasia/hyperinsulinemia by showing the strength of the association , whether or not is a dose-dependent response , the temporality , consistency , plausibility , and reversibility of the association . In this regard , our data showed : 1 ) a strong and consistent correlation between P14210 and the compensatory mechanism in three animal models of insulin resistance ; 2 ) P14210 increases β-cell mass in a dose-dependent manner ; 3 ) blocking P14210 shuts down the compensatory mechanisms ; and 4 ) an increase in P14210 levels seems to precede the compensatory response associated with insulin resistance , indicating that these events occur in a sequential mode . Additionally , blockages of P08581 ( DB00134 ) worsen the impaired insulin-induced insulin signaling in liver of diet-induced obesity rats . Overall , our data indicate that P14210 is a growth factor playing a key role in islet mass increase and hyperinsulinemia in diet-induced obesity rats and suggest that the P14210 - DB00134 axis may have a role on insulin signaling in the liver .",
+    "P14210 and DB01277 synergize with SDF-1α in promoting migration of myeloma cells by cooperative activation of P38936 -activated kinase . Stromal-derived factor ( SDF ) -1α , insulin-like growth factor ( IGF ) -1 and hepatocyte growth factor ( P14210 ) are potent mediators of cell migration . We studied the effect of combinations of these cytokines on the migration of myeloma cells . When SDF-1α was combined with either P14210 or DB01277 , we found a striking synergy in the cytokines ' ability to guide cells across a transwell membrane . Between P14210 and DB01277 there was no cooperativity . However , the effects of P14210 and DB01277 were not redundant . P14210 and P48061 caused concentration gradient-directed migration , as opposed to DB01277 , which apparently caused randomly directed cell movement . The SDF-1α-driven migration of JJN-3 cells , a myeloma cell line secreting large amounts of P14210 , was reduced when JJN-3 cells were given an inhibitor of the P08581 , demonstrating a cooperative activity between autocrine P14210 and exogenous SDF-1α . There was a clear positive correlation between the degree of cytokine-induced migration and phosphorylation of P38936 -activated kinase ( PAK ) both in primary myeloma cells and in cell lines including Q16352 -6 and IH-1 . Downregulation of PAK with small interfering RNA in Q16352 -6 cells resulted in decreased cytokine-driven migration . This study shows synergy between SDF-1α and P14210 / DB01277 in inducing migration of myeloma cells , yet each cytokine has distinct properties in the way it regulates cell migration . These findings are likely to be of clinical relevance because multiple myeloma cells are located in an environment containing P14210 and DB01277 and are exposed to an SDF-1α gradient between the bone marrow and peripheral blood .",
+    "Agonist-promoted down-regulation and functional desensitization in two naturally occurring variants of the human serotonin1A receptor . We recently reported two naturally occurring polymorphisms of the human serotonin1A ( P08908 ) receptor : glycine22 --> serine ( Ser22 ) and isoleucine28 --> valine ( Val28 ) in the putative aminoterminal domain of the receptor . To investigate the regulatory properties of these variants , the wild type ( WT ) and variant P08908 receptors were stably expressed in CHO- P04264 cells . WT , Ser22 , and Val28 displayed similar high-affinity binding to [ 3H ] -8-OH-DPAT . Competition experiments with P08908 agonists and antagonists demonstrated similar pharmacological profiles . Receptor agonist-promoted down-regulation was tested by exposure to 100 mumol/L 8-OH-DPAT . After 24-h exposure , WT and Val28 underwent 59.3 +/- 3.9 % and 59.5 +/- 1.4 % reduction in receptor density respectively , whereas the degree of down-regulation was significantly lower for Ser22 ( 21.4 +/- 4.2 % ) . Cell treatment for 24 h with 100 mumol/L 8-OH-DPAT reduced the 5-HT-induced inhibition of DB02527 accumulation by 24.9 +/- 5.1 % for WT and 16.4 +/- 0.8 % for Val28 , but only by 4.8 +/- 3 % for Ser22 . We conclude that the Ser22 variant is capable of attenuating agonist-mediated receptor down-regulation and desensitization .",
+    "Activation of hepatocyte growth factor receptor , c-met , in renal tubules is required for renoprotection after acute kidney injury . P14210 is a pleiotrophic protein that promotes injury repair and regeneration in multiple organs . Here , we show that after acute kidney injury ( AKI ) , the P08581 , c-met , was induced predominantly in renal tubular epithelium . To investigate the role of tubule-specific induction of c-met in AKI , we generated conditional knockout mice , in which the c-met gene was specifically disrupted in renal tubules . These Ksp-met-/- mice were phenotypically normal and had no appreciable defect in kidney morphology and function . However , in AKI induced by cisplatin or ischemia/reperfusion injury , the loss of tubular c-met substantially aggravated renal injury . Compared with controls , Ksp-met-/- mice displayed higher serum creatinine , more severe morphologic lesions , and increased apoptosis , which was accompanied by an increased expression of Bax and P48023 and decreased phosphorylation/activation of Akt . In addition , ablation of c-met in renal tubules promoted chemokine expression and renal inflammation after AKI . Consistently , ectopic expression of hepatocyte growth factor in vivo protected the kidneys against AKI in control mice , but not in Ksp-met-/- counterparts . Thus , our results suggest that tubule-specific c-met signaling is crucial in conferring renal protection after AKI , primarily by its anti-apoptotic and anti-inflammatory mechanisms .",
+    "Protective effects of metallothionein on isoniazid and rifampicin-induced hepatotoxicity in mice . Isoniazid ( DB00951 ) and DB01045 ( RFP ) are widely used in the world for the treatment of tuberculosis , but the hepatotoxicity is a major concern during clinical therapy . Previous studies showed that these drugs induced oxidative stress in liver , and several antioxidants abated this effect . Metallothionein ( MT ) , a member of cysteine-rich protein , has been proposed as a potent antioxidant . This study attempts to determine whether endogenous expression of MT protects against DB00951 and RFP-induced hepatic oxidative stress in mice . Wild type ( MT+/+ ) and MT-null ( MT-/- ) mice were treated intragastrically with DB00951 ( 150 mg/kg ) , RFP ( 300 mg/kg ) , or the combination ( 150 mg/kg DB00951 +300 mg/kg RFP ) for 21 days . The results showed that MT-/- mice were more sensitive than MT+/+ mice to DB00951 and RFP-induced hepatic injuries as evidenced by hepatic histopathological alterations , increased serum Q9NRA2 levels and liver index , and hepatic oxidative stress as evidenced by the increase of MDA production and the change of liver antioxidant status . Furthermore , DB00951 increased the protein expression of hepatic P05181 and DB00951 /RFP ( alone or in combination ) decreased the expression of hepatic P05177 . These findings clearly demonstrate that basal MT provides protection against DB00951 and RFP-induced toxicity in hepatocytes . The P05181 and P05177 were involved in the pathogenesis of DB00951 and RFP-induced hepatotoxicity .",
+    "Can a cocktail designed for phenotyping pharmacokinetics and metabolism enzymes in human be used efficiently in rat ? We recently designed the CIME cocktail consisting of 10 drugs to assess the activity of the major human CYPs ( P05177 , P10632 , P11712 , P33261 , P10635 and CYP3A ) , a phase II enzyme ( P22309 /6/9 ) , two drug transporters ( P-gp and Q9Y6L6 ) and a component of the renal function ( Videau et al. 2010 ) . The present work aimed at studying the usefulness of the CIME cocktail in the rat.The CIME cocktail was given per os to three male and three female rats , or incubated with rat liver microsomes . Parent substrates and metabolites were quantified by LC-MS/MS in plasma , urine and hepatic microsomal media , and phenotyping index were subsequently calculated.The CIME cocktail could therefore be used in the rat to phenotype rapidly and simultaneously CYP3A1/2 with omeprazole/omeprazole-sulfone , midazolam/1'-hydroxymidazolam or 4-hydroxymidazolam and/or dextromethorphan/3-methoxymorphinan , CYP2C6/11 with tolbutamide/4-hydroxytolbutamide , CYP2D1/2 with omeprazole/5-hydroxyomeprazole or dextromethorphan/dextrorphan , and P19224 /7 with acetaminophen/acetaminophen-glucuronide . Our results confirmed also several known gender differences and brought new information on the urinary excretion of rosuvastatin . However , the major rat CYPs , CYP2C11 and CYP2C12 , are not specifically assessed . An optimized version of the CIME cocktail should therefore be designed and would be of major importance to more largely phenotype Q09013 enzymes in rats to study Q09013 variability factors such as disease , age , or to exposure to inductors or inhibitors .",
+    "Modulatory effects of heparin and short-length oligosaccharides of heparin on the metastasis and growth of LMD MDA-MB 231 breast cancer cells in vivo . Expression of the chemokine receptor P61073 allows breast cancer cells to migrate towards specific metastatic target sites which constitutively express P48061 . In this study , we determined whether this interaction could be disrupted using short-chain length heparin oligosaccharides . Radioligand competition binding assays were performed using a range of heparin oligosaccharides to compete with polymeric heparin or heparan sulphate binding to I(125) P48061 . DB01109 dodecasaccharides were found to be the minimal chain length required to efficiently bind P48061 ( 71 % inhibition ; P < 0.001 ) . These oligosaccharides also significantly inhibited P48061 -induced migration of P61073 -expressing LMD MDA-MB 231 breast cancer cells . In addition , heparin dodecasaccharides were found to have less anticoagulant activity than either a smaller quantity of polymeric heparin or a similar amount of the low molecular weight heparin pharmaceutical product , DB06822 . When given subcutaneously in a SCID mouse model of human breast cancer , heparin dodecasaccharides had no effect on the number of lung metastases , but did however inhibit ( P < 0.05 ) tumour growth ( lesion area ) compared to control groups . In contrast , polymeric heparin significantly inhibited both the number ( P < 0.001 ) and area of metastases , suggesting a differing mechanism for the action of polymeric and heparin-derived oligosaccharides in the inhibition of tumour growth and metastases .",
+    "A tandem repeat of a fragment of Listeria monocytogenes internalin B protein induces cell survival and proliferation . P14210 ( P14210 ) is critical for tissue homeostasis and repair in many organs including the lung , heart , kidney , liver , nervous system , and skin . P14210 is a heterodimeric protein containing 20 disulfide bonds distributed among an amino-terminal hairpin , four kringle domains , and a serine protease-like domain . Due to its complex structure , recombinant production of P14210 in prokaryotes requires denaturation and refolding , processes that are impractical for large-scale manufacture . Thus , pharmaceutical quantities of P14210 are not available despite its potential applications . A fragment of the Listeria monocytogenes internalin B protein from amino acids 36-321 ( InlB₃₆₋₃₂₁ ) was demonstrated to bind to and partially activate the P08581 DB00134 . InlB₃₆₋₃₂₁ has a stable β-sheet structure and is easily produced in its native conformation by Escherichia coli . We cloned InlB₃₆₋₃₂₁ ( 1×InlB₃₆₋₃₂₁ ) and engineered a head-to-tail repeat of InlB₃₆₋₃₂₁ with a linker peptide ( 2×InlB₃₆₋₃₂₁ ) ; 1×InlB₃₆₋₃₂₁ and 2×InlB₃₆₋₃₂₁ were purified from E. coli . Both 1× and 2×InlB₃₆₋₃₂₁ activated the DB00134 tyrosine kinase . We subsequently compared signal transduction of the two proteins in primary lung endothelial cells . 2×InlB₃₆₋₃₂₁ activated P27361 /2 , P40763 , and phosphatidylinositol 3-kinase/Akt pathways , whereas 1×InlB₃₆₋₃₂₁ activated only P40763 and P27361 /2 . The 2×InlB₃₆₋₃₂₁ promoted improved motility compared with 1×InlB₃₆₋₃₂₁ and additionally stimulated proliferation equivalent to full-length P14210 . Both the 1× and 2×InlB₃₆₋₃₂₁ prevented apoptosis by the profibrotic peptide angiotensin II in cell culture and ex vivo lung slice cultures . The ease of large-scale production and capacity of 2×InlB₃₆₋₃₂₁ to mimic P14210 make it a potential candidate as a pharmaceutical agent for tissue repair .",
+    "A new role for the P40763 inhibitor , Q9Y6X2 : a repressor of microphthalmia transcription factor . In vitro and in vivo evidence suggest that microphthalmia transcription factor ( O75030 ) plays a key regulatory role in tissue-specific gene regulation in several cell types , including melanocytes , osteoclasts , and mast cells . A yeast two-hybrid search , using a portion of a nonmutated O75030 gene as the bait in the screening of a mast cell library , resulted in the isolation of the P40763 inhibitor , Q9Y6X2 . Q9Y6X2 is a transcriptional inhibitor that acts by specifically inhibiting P40763 's DNA binding activity . We found that it can directly associate with O75030 using an in vitro pull-down assay . Immunoprecipitation of O75030 from rat basophilic leukemic cells or mouse melanocytes resulted in the specific co-immunoprecipitation of Q9Y6X2 . Co-transfection of O75030 with Q9Y6X2 in NIH 3T3 fibroblasts containing an mMCP-6 promoter-luciferase reporter demonstrated up to 94 % inhibition of O75030 -mediated transcriptional activation . Using a gel-shift assay , it was shown that Q9Y6X2 can block DNA binding activity . It was also found that P40763 does not interfere , either in vitro or in vivo , with the interaction between Q9Y6X2 and O75030 . These data suggest that Q9Y6X2 functions in vivo as a key molecule in supressing the transcriptional activity of O75030 , a role of considerable importance in mast cell and melanocyte development .",
+    "Genetic factors influencing outcome from neurotrauma . PURPOSE OF REVIEW : Clinical outcome after neurotrauma is considerably variable and can only partly be explained by known prognostic factors . There is converging evidence from genetic research that a number of genetic variants may contribute to this variability . This review provides recent data from human studies , published in the previous year , on genetic factors influencing outcome after neurotrauma . The bibliographic databases MEDLINE , EMBASE and PsycINFO were searched to identify relevant studies . RECENT FINDINGS : Genetic susceptibility to various aspects of clinical outcome after neurotrauma was reported in recent clinical studies . Genetic loci investigated include polymorphisms in P02649 , P21397 , P23560 , NOS3 , P05231 , P12036 , P31645 , P21964 , P48454 and Q8IX03 genes . The importance of these findings and future directions are discussed . SUMMARY : Recent genetic studies have revealed emerging aspects and extended the existing knowledge regarding the pathogenesis of neurotrauma and the genetic influence on phenotypic diversity . A better understanding of the underlying biological pathways and molecular mechanisms of an individual 's response to neurotrauma may hold the promise of novel treatment strategies and improved clinical outcome .",
+    "DB08865 for the treatment of patients with advanced non-small cell lung cancer . DB08865 is a potent small-molecule inhibitor of Q9UM73 ( anaplastic lymphoma kinase ; Q9UM73 ) and hepatocyte growth factor receptor ( P08581 , proto-oncogene c- DB00134 ) . A range of tumors , including subsets of non-small cell lung cancer ( NSCLC ) , anaplastic large cell lymphoma and inflammatory myofibroblastic tumors harbor an Q9UM73 rearrangement that leads to oncogenic activation of Q9UM73 . DB08865 has demonstrated preclinical and clinical activity against such malignancies through inhibition of Q9UM73 , and patients harboring Q9UM73 - rearranged NSCLC have demonstrated high response rates and prolonged progression-free survival in phase I and II studies . In August 2011 , crizotinib was approved for the treatment of advanced Q9UM73 -positive NSCLC .",
+    "Growth factors temporally associate with airway responsiveness and inflammation in allergen-exposed mice . BACKGROUND : To clarify whether growth factors play critical roles in the development of airway hyperresponsiveness ( P35869 ) and airway inflammation in the early stages of asthma , the relationship between growth factors and P35869 and airway inflammation were analyzed in a mouse model of asthma . METHODS : Following ovalbumin ( OVA ) sensitization and challenge , airway function , inflammation , cytokine and growth factor levels were monitored . RESULTS : P35869 to inhaled methacholine increased at 6 h , peaked at 48 h , and remained elevated for 14 days . P05112 and P05113 levels in bronchoalveolar lavage ( BAL ) fluid were increased at 6 h , peaked at 24 h , but returned to baseline quickly . P35225 levels increased up to 14 days , peaking at 48 h . Increases in BAL fluid transforming growth factor-beta(1) and platelet-derived growth factor were observed at 12 h , and remained elevated at 14 days . Nerve growth factor levels were increased at 24-28 days . BAL fluid hepatocyte growth factor ( P14210 ) was detected at 12 h , peaked at 24 h , and returned to baseline by 72 h . c- DB00134 / P08581 was detected in the airways at 6 h , before P14210 in the BAL , and continued to be observed 96 h after the last OVA challenge . CONCLUSIONS : These data identify a temporal association between growth factor production and Th2 cytokine production and the kinetics of P35869 . Growth factors may play important roles in the development of allergic airway inflammation and P35869 even in the early stages of asthma , before remodeling is initiated .",
+    "Genetic analysis of expression profile involved in retinoid metabolism in non-alcoholic fatty liver disease . AIM : The patients with non-alcoholic fatty liver disease ( NAFLD ) have been reported to be at greater risk for progression to chronic liver disease including liver cirrhosis ( LC ) . To examine the mechanisms for the progression of NAFLD , a genetic analysis of hepatic expression profile in retinoid metabolism in NAFLD was performed since the loss of retinoid signaling is associated with the progression of liver disease via reactive oxygen species ( ROS ) generation . METHODS : Fifty-one genes , which are associated with retinoid metabolism and action , were examined in thirty six subjects including 17 patients with simple steatosis , 11 with non-alcoholic steatohepatitis ( NASH ) and eight controls were examined by real-time reverse transcriptase polymerase chain reaction . Immunohistochemical study was also done by 3 kinds of antibodies . RESULTS : Higher expression of P09455 O95237 , DGT1/2 and CES1 in NAFLD suggests that mutual conversion between retinyl ester and retinal occurs actively . Expression of P07327 /2/3 , Q92781 /10/11 , O75911 and RALDH1/3 was increased in NAFLD , suggesting that oxidation process from retinol to all-trans retinoic acid ( DB00755 ) was enhanced . Importantly , greater expression of O43174 indicated that degradation of DB00755 was enhanced in NAFLD . Further , expression of P00441 /2 , catalase , thioredoxin and uncoupling protein 2 was also enhanced . CONCLUSION : Hyperdynamic state of retinoid metabolism is present in the liver tissues with NAFLD , which may be a putative mechanism by which NAFLD progresses to chronic liver disease including LC .",
+    "P14210 suppresses the anticancer effect of irinotecan by decreasing the level of active metabolite in HepG2 cells . In the liver , carboxylesterase ( CES ) converts irinotecan ( CPT-11 ) to its active metabolite SN-38 , which exerts anticancer effects . SN-38 is metabolized to an inactive metabolite SN-38 glucuronide by uridine 5'-diphospho-glucuronosyltransferase 1A1 ( P22309 ) . Therefore , single nucleotide polymorphisms ( SNPs ) of the P22309 gene are responsible for the severe adverse effects associated with the disruption of SN-38 metabolism . However , despite having SNPs of the P22309 gene , many patients metabolize SN-38 sufficiently to avoid severe adverse effects . Among these patients , we found individuals with elevated serum concentrations of hepatocyte growth factor ( P14210 ) . The aim of this study was to evaluate whether P14210 alters the metabolism of CPT-11 , resulting in a reduction in the anticancer effect of CPT11 . The cytotoxicity of CPT-11 and SN-38 was evaluated in HepG2 cells pretreated with P14210 . Furthermore , we explored the level of expression and mechanisms of activity of CES and P22309 . P14210 suppressed the cytotoxicity of CPT-11 by decreasing intracellular SN-38 levels that resulted from a decrease in CES2 and an increase in P22309 . Furthermore , this P14210 -induced suppression was improved by pretreatment with an inhibitor of P08581 c- DB00134 , and the improvement was synergistically potentiated by epidermal growth factor receptor ( P00533 ) inhibitors . Moreover , P14210 induced phosphorylation of signal transducer and activator of transcription 3 and transactivated P00533 . These results suggest that P14210 is a possible causative agent of acquired clinical resistance in chemotherapy with CPT-11 and could be useful as a predictor of clinical resistance . Additional treatment using c- DB00134 and/or P00533 inhibitors could be a novel strategy to overcome resistance .",
+    "Disease-dependent reciprocal phosphorylation of serine and tyrosine residues of c- DB00134 / P08581 contributes disease retardation of a transgenic mouse model of P35858 . Amyotrophic lateral sclerosis ( P35858 ) is a fatal disease characterized by progressive degeneration of motoneurons . We have demonstrated that hepatocyte growth factor ( P14210 ) attenuates loss of both spinal and brainstem motoneurons of P35858 model mice expressing mutated human P00441 (G93A) ( G93A ) . This study was designed to assess disease-dependent regulatory mechanisms of c- DB00134 / P08581 ( c- DB00134 ) activation in the facial motoneurons of G93A mice . Using double transgenic mice expressing P14210 and mutated P00441 (G93A) ( G93A/ P14210 ) , we showed that phosphorylation of c- DB00134 tyrosine residues at positions 1230 , 1234 and 1235 ( phospho- DB00135 ) , and thereby its activation , was slightly evident in G93A and highly obvious in G93A/ P14210 mice ( but absent in WT and P14210 -Tg mice ) . Phosphorylation of the c- DB00134 serine residue at position 985 ( phospho- DB00133 ) , a residue involved in the negative regulation of its activation , was evident in WT and P14210 -Tg mice . Protein phosphatase 2A ( PP2A ) , which is capable of dephosphorylating c- DB00134 phospho-serine , is upregulated in the facial motoneurons of G93A and G93A/ P14210 mice compared with WT and P14210 -Tg mice . Thus , c- DB00134 activation is reciprocally regulated by phosphorylation between c- DB00134 serine and tyrosine residues through PP2A induction in the presence or absence of mutant P00441 expression , and P14210 functions more efficiently in P35858 and P35858 -related diseases .",
+    "Glucocorticoid-induced surface expression of annexin 1 blocks beta2-integrin adhesion of human eosinophils to intercellular adhesion molecule 1 surrogate protein . BACKGROUND : Glucocorticoids attenuate the population of eosinophils and T lymphocytes in asthmatic airways . The decrease in airway eosinophilia is caused both by accelerated cell death and by induction of blockade of integrin adhesion . In this study , we examined the hypothesis that annexin 1 surface expression , which is upregulated by the glucocorticoid receptor , prevents integrin adhesion essential to cell migration by blocking intracellular translocation of cytosolic group IV phospholipase A2 ( P47712 ) . OBJECTIVE : To examine the relationship of the glucocorticoid on annexin 1 expression and the effect of blockade of annexin 1 activity on adhesion of human eosinophils in vitro . To determine the relationship between annexin 1surface expression and nuclear membrane translocation of P47712 . METHODS : Eosinophils isolated from human peripheral blood were pretreated with fluticasone propionate ( FP ) , and beta2-integrin adhesion was measured after stimulation with P05113 or eotaxin . Effects of FP on P47712 expression , phosphorylation , and translocation were determined . The role of annexin 1 was examined by using annexin 1 blocking antibody and/or mimetic peptides . RESULTS : DB00588 decreased stimulated eosinophil adhesion and caused 4-fold increase in annexin 1 expression on the plasma membrane . Inhibition of adhesion by FP was blocked with annexin 1 blocking antibody . Annexin 1 N-terminal mimetic peptide also blocked beta2-integrin adhesion . Translocation of P47712 to the nuclear membrane was significantly blocked by incubation with FP . Blockade was reversed with annexin 1 blocking antibody . CONCLUSION : Blockade of beta2-integrin adhesion by glucocorticoid is regulated by annexin 1 , which blocks P47712 translocation to nuclear membrane .",
+    "Therapy with a synthetic retinoid -- ( Ro 10-1670 ) etretin -- increases the cellular retinoic acid-binding protein in nonlesional psoriatic skin . Cellular retinol ( P09455 ) -and retinoic acid ( CRABP ) -binding proteins were determined in samples of lesional and nonlesional skin of psoriatic patients , before and during oral administration of a synthetic retinoid , DB00459 ( Ro 10-1670 ) . A 200 % increase in CRABP levels , measured by the ability of the protein to bind retinoic acid , was observed in the normal skin during treatment . The P09455 levels were not altered during therapy . The results show that P09455 and CRABP are independently regulated in human skin and suggest that synthetic retinoids may exert their pharmacologic effects by interfering with the regulation of natural retinoic acid receptors ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB08865 is a potent small-molecule inhibitor of Q9UM73 (anaplastic lymphoma kinase) and hepatocyte growth factor receptor (P08581, proto-oncogene c-DB00134).\nDB08865 inhibits both Q9UM73 and P08581.\nP08581 is the same as c-DB00134.\nDB01238 is aripiprazole, which acts as a partial agonist at dopamine (D2) and P08908 receptors.\nDB01238 does not interact with P08581 or Q9UM73.\nDB00191 is phentermine, which interacts with NE and DA transporters but not with P08581.\nDB00222 is an insulin secretagogue that interacts with DB00171-sensitive potassium channels.\nDB00222 does not interact with P08581 or Q9UM73.\nDB00338 is a gastric proton pump inhibitor that inhibits Q04656 trafficking.\nDB00338 does not interact with P08581 or Q9UM73.\nDB00459 is Ro 10-1670, a synthetic retinoid that increases CRABP levels.\nDB00459 does not interact with P08581 or Q9UM73.\nDB00588 is fluticasone propionate, a glucocorticoid that increases annexin 1 expression.\nDB00588 does not interact with P08581 or Q9UM73.\nDB00951 is isoniazid, an antituberculosis drug.\nDB00951 does not interact with P08581 or Q9UM73.\nDB01128 is an anti-androgenic therapy used in combination with 5-azacitidine.\nDB01128 does not interact with P08581 or Q9UM73.\nDB06822 is a low molecular weight heparin pharmaceutical product.\nDB06822 does not interact with P08581 or Q9UM73.\nDB08865 is specifically described as an inhibitor of P08581 and Q9UM73.\nNo other compound listed is described as interacting with P08581 or Q9UM73.\nThe compound that interacts with DB08865 is not among the listed options.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB08865 is a potent small-molecule inhibitor of Q9UM73 (anaplastic lymphoma kinase) and hepatocyte growth factor receptor (P08581, proto-oncogene c-DB00134)",
+    "DB08865 inhibits both Q9UM73 and P08581",
+    "P08581 is the same as c-DB00134",
+    "DB01238 is aripiprazole, which acts as a partial agonist at dopamine (D2) and P08908 receptors",
+    "DB01238 does not interact with P08581 or Q9UM73",
+    "DB00191 is phentermine, which interacts with NE and DA transporters but not with P08581",
+    "DB00222 is an insulin secretagogue that interacts with DB00171-sensitive potassium channels",
+    "DB00222 does not interact with P08581 or Q9UM73",
+    "DB00338 is a gastric proton pump inhibitor that inhibits Q04656 trafficking",
+    "DB00338 does not interact with P08581 or Q9UM73",
+    "DB00459 is Ro 10-1670, a synthetic retinoid that increases CRABP levels",
+    "DB00459 does not interact with P08581 or Q9UM73",
+    "DB00588 is fluticasone propionate, a glucocorticoid that increases annexin 1 expression",
+    "DB00588 does not interact with P08581 or Q9UM73",
+    "DB00951 is isoniazid, an antituberculosis drug",
+    "DB00951 does not interact with P08581 or Q9UM73",
+    "DB01128 is an anti-androgenic therapy used in combination with 5-azacitidine",
+    "DB01128 does not interact with P08581 or Q9UM73",
+    "DB06822 is a low molecular weight heparin pharmaceutical product",
+    "DB06822 does not interact with P08581 or Q9UM73",
+    "DB08865 is specifically described as an inhibitor of P08581 and Q9UM73",
+    "No other compound listed is described as interacting with P08581 or Q9UM73",
+    "The compound that interacts with DB08865 is not among the listed options"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB08865 is a potent small-molecule inhibitor of Q9UM73 (anaplastic lymphoma kinase) and hepatocyte growth factor receptor (P08581, proto-oncogene c-DB00134)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB08865 inhibits both Q9UM73 and P08581",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "P08581 is the same as c-DB00134",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB01238 is aripiprazole, which acts as a partial agonist at dopamine (D2) and P08908 receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB01238 does not interact with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00191 is phentermine, which interacts with NE and DA transporters but not with P08581",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00222 is an insulin secretagogue that interacts with DB00171-sensitive potassium channels",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB00222 does not interact with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB00338 is a gastric proton pump inhibitor that inhibits Q04656 trafficking",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB00338 does not interact with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00459 is Ro 10-1670, a synthetic retinoid that increases CRABP levels",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00459 does not interact with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00588 is fluticasone propionate, a glucocorticoid that increases annexin 1 expression",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB00588 does not interact with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB00951 is isoniazid, an antituberculosis drug",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB00951 does not interact with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB01128 is an anti-androgenic therapy used in combination with 5-azacitidine",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB01128 does not interact with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB06822 is a low molecular weight heparin pharmaceutical product",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB06822 does not interact with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "DB08865 is specifically described as an inhibitor of P08581 and Q9UM73",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "No other compound listed is described as interacting with P08581 or Q9UM73",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C23",
+      "text": "The compound that interacts with DB08865 is not among the listed options",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

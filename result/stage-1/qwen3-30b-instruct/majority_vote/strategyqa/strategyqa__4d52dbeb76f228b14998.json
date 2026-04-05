@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__4d52dbeb76f228b14998",
+  "sample_id": "4d52dbeb76f228b14998",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would the yearly precipitation on Snowdon submerge an upright bowling pin?",
+  "gold_answer": "yes",
+  "context": [
+    "Snowdown gets about 200 inches of precipitation a year ",
+    "A standard bowling pin is one foot, three inches tall"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSnowdown receives approximately 200 inches of precipitation annually.\nA standard bowling pin is 15 inches tall.\n200 inches of precipitation is greater than 15 inches.\nThe yearly precipitation on Snowdon would exceed the height of an upright bowling pin.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Snowdown receives approximately 200 inches of precipitation annually",
+    "A standard bowling pin is 15 inches tall",
+    "200 inches of precipitation is greater than 15 inches",
+    "The yearly precipitation on Snowdon would exceed the height of an upright bowling pin"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Snowdown receives approximately 200 inches of precipitation annually",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "A standard bowling pin is 15 inches tall",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "200 inches of precipitation is greater than 15 inches",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The yearly precipitation on Snowdon would exceed the height of an upright bowling pin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

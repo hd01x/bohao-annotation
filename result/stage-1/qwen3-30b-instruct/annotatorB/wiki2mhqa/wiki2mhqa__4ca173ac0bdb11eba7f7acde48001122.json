@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__4ca173ac0bdb11eba7f7acde48001122",
+  "sample_id": "4ca173ac0bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of the director of film Pages Of Life (Film)?",
+  "gold_answer": "Concepción",
+  "context": [
+    "Jeffry Life( born 1938) is a physician and author from the United States, known for maintaining a youthful body in old age.",
+    "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980. He was also the Director General of Police in Punjab.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Pages of Life is a 1922 silent British drama film directed by Adelqui Migliar and starring Evelyn Brent. The film is considered to be lost.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Adelqui Migliar (5 August 1891 – 6 August 1956), also known as Adelqui Millar, was a Chilean film actor, director, writer and producer. He appeared in 31 silent films between 1916 and 1928. He also directed 24 films between 1922 and 1954. He was born in Concepción, Chile, and lived and worked in the Netherlands, the United Kingdom and the United States. He died in Santiago, Chile."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPages of Life is a 1922 silent British drama film.\nThe film was directed by Adelqui Migliar.\nAdelqui Migliar was born in Concepción, Chile.\nThe place of birth of the director of Pages of Life is Concepción.\n<answer> Concepción",
+  "predicted_answer": "Concepción",
+  "claims": [
+    "Pages of Life is a 1922 silent British drama film",
+    "The film was directed by Adelqui Migliar",
+    "Adelqui Migliar was born in Concepción, Chile",
+    "The place of birth of the director of Pages of Life is Concepción"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Pages of Life is a 1922 silent British drama film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The film was directed by Adelqui Migliar",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Adelqui Migliar was born in Concepción, Chile",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The place of birth of the director of Pages of Life is Concepción",
+      "claim_type": "DR"
+    }
+  ]
+}

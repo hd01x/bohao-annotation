@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__0de2785a6eaba087541a",
+  "sample_id": "0de2785a6eaba087541a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Jon Brower Minnoch suffer from anorexia nervosa?",
+  "gold_answer": "no",
+  "context": [
+    "Jon Brower Minnoch was an American man who, at his peak weight, was the heaviest human being ever recorded, weighing 1,400 lb.",
+    "Anorexia nervosa,Anorexia nervosa is an eating disorder, characterized by low weight, food restriction, fear of gaining weight, and a strong desire to be thin. Many people with anorexia see themselves as overweight even though they are, in fact, underweight."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJon Brower Minnoch was the heaviest human being ever recorded, weighing 1,400 lb.\nAnorexia nervosa is characterized by low weight and food restriction.\nPeople with anorexia nervosa perceive themselves as overweight despite being underweight.\nJon Brower Minnoch had a massive weight of 1,400 lb, which is far above normal and not consistent with low weight.\nThe symptoms of anorexia nervosa, such as food restriction and fear of gaining weight, are not consistent with the condition of being the heaviest person ever recorded.\nJon Brower Minnoch did not suffer from anorexia nervosa.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Jon Brower Minnoch was the heaviest human being ever recorded, weighing 1,400 lb",
+    "Anorexia nervosa is characterized by low weight and food restriction",
+    "People with anorexia nervosa perceive themselves as overweight despite being underweight",
+    "Jon Brower Minnoch had a massive weight of 1,400 lb, which is far above normal and not consistent with low weight",
+    "The symptoms of anorexia nervosa, such as food restriction and fear of gaining weight, are not consistent with the condition of being the heaviest person ever recorded",
+    "Jon Brower Minnoch did not suffer from anorexia nervosa"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Jon Brower Minnoch was the heaviest human being ever recorded, weighing 1,400 lb",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Anorexia nervosa is characterized by low weight and food restriction",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "People with anorexia nervosa perceive themselves as overweight despite being underweight",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Jon Brower Minnoch had a massive weight of 1,400 lb, which is far above normal and not consistent with low weight",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The symptoms of anorexia nervosa, such as food restriction and fear of gaining weight, are not consistent with the condition of being the heaviest person ever recorded",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Jon Brower Minnoch did not suffer from anorexia nervosa",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

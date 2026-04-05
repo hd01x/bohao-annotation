@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__8dfa054a0bda11eba7f7acde48001122",
+  "sample_id": "8dfa054a0bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the date of death of Peter Dale Scott's mother?",
+  "gold_answer": "28 November 1993",
+  "context": [
+    "Charles\" Babe\" Baron( b?-d?) was an organized crime figure in Chicago, Illinois. He owned a successful Chicago new car dealership( Charles Baron Ford) as well as holding the rank of Brigadier- General in the Illinois National Guard. He was involved in illegal gambling as a handbook operator for the Chicago Outfit. Along with Dave Yaras and Lenny Patrick, Baron served as a protégé to Democratic Party ward boss Jacob Arvey. Baron was an associate of Meyer Lansky.( see: Peter Dale Scott, 1993:199) He was also a close associate of Patrick Hoy, a Henry Crown employee of General Dynamics who was later able to arrange a job for Sidney Korshak at the Hilton Hotels. Twice arrested for murder, including that of bootlegger James Walsh, whom he shot and killed following a prize fight in 1929, and of North Side Gang financier' Smiling' Gus Winkler, on October 9, 1933. Baron was identified as an associate of John Roselli during the Kefauver Hearings, in the 1950s. According to Jack Ruby and Baron associate Tony Zoppi, Baron knew U.S. Air Force General Curtis LeMay.( see: Peter Dale Scott, 1993:199, 355) A former general manager of the\" Havana Riviera\" in pre-revolutionary Cuba, Baron was one of the first to be granted a gaming license by the Gaming Control Act, in 1960, and served as the official greeter of the\" Sands Hotel and Casino\", in Las Vegas, under Joseph\" Doc\" Stacher.",
+    "Theodred II was a medieval Bishop of Elmham. The date of Theodred's consecration unknown, but the date of his death was sometime between 995 and 997.",
+    "Peter Dale( born 30 October 1963) is an Australian swimmer. He competed in two events at the 1984 Summer Olympics.",
+    "Peter Dale Scott (born 11 January 1929) is a Canadian-born poet, academic, and former diplomat. A son of the Canadian poet and constitutional lawyer F. R. Scott and painter Marian Dale Scott, he is best known for his critiques of deep politics and American foreign policy since the era of the Vietnam War. Although trained as a political scientist, Scott holds an atypical academic appointment as a poet-scholar in an English department. After receiving undergraduate degrees in philosophy (first-class honours) and political science (second-class honours) from McGill University in 1949, he studied at the Institut d'Etudes Politiques (France, 1949) and University College, Oxford (1950-1952) before receiving a Ph.D. in political science from McGill (with a dissertation on the social and political philosophy of T.S. Eliot) in 1955. He briefly taught in McGill's political science department and spent four years (1957–1961) with the Canadian diplomatic service before joining the speech department of the University of California, Berkeley as a lecturer in 1961. He was subsequently promoted to assistant professor of speech (1962), associate professor of English (1968), and professor of English (1980); since his nominal retirement in 1994, he has served as professor emeritus of English. Notably, he was a signatory in 1968 of the \"Writers and Editors War Tax Protest\" pledge, in which participants vowed to refuse tax payments in protest against the Vietnam War.",
+    "Marian Dale Scott (\"née\" Dale; 26 June 1906 – 28 November 1993) was a Canadian painter.",
+    "Timothy Dale Scott( born November 16, 1966) is a former Major League Baseball right- handed pitcher.",
+    "Etan Boritzer( born 1950) is an American writer of children ’s literature who is best known for his book\" What is God?\" first published in 1989. His best selling\" What is?\" illustrated children's book series on character education and difficult subjects for children is a popular teaching guide for parents, teachers and child- life professionals. Boritzer gained national critical acclaim after\" What is God?\" was published in 1989 although the book has caused controversy from religious fundamentalists for its universalist views. The other current books in the\" What is?\" series include What is Love?, What is Death?, What is Beautiful?, What is Funny?, What is Right?, What is Peace?, What is Money?, What is Dreaming?, What is a Friend?, What is True?, What is a Family?, What is a Feeling?\" The series is now also translated into 15 languages. Boritzer was first published in 1963 at the age of 13 when he wrote an essay in his English class at Wade Junior High School in the Bronx, New York on the assassination of John F. Kennedy. His essay was included in a special anthology by New York City public school children compiled and published by the New York City Department of Education. Boritzer now lives in Venice, California and maintains his publishing office there also. He has helped numerous other authors to get published through\" How to Get Your Book Published!\" programs. Boritzer is also a yoga teacher who teaches regular classes locally and guest- teaches nationally. He is also recognized nationally as an erudite speaker on\" The Teachings of the Buddha.\"",
+    "Peter Dale Wimbrow, usually known as Dale Wimbrow,( June 6, 1895 – January 26, 1954) was an American composer, radio artist and writer. He is best known for the poem,\" The Guy in the Glass\", written in 1934. Earlier in his career, he created several musical recordings in the still- young recording industry, and was known as\" The Del- Mar- Va Songster\". He occasionally recorded with a quartet of musicians known as the\" Rubeville Tuners\", and he was also sometimes known as Peter Dale.",
+    "Thomas Scott( 1907- date of death unknown) was an English diver.",
+    "Dale Scott Thayer (born December 17, 1980) is an American former professional baseball pitcher. He played in Major League Baseball (MLB) for the Tampa Bay Rays, New York Mets, and San Diego Padres."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPeter Dale Scott was born on 11 January 1929.\nPeter Dale Scott's mother is Marian Dale Scott.\nMarian Dale Scott died on 28 November 1993.\nThe date of death of Peter Dale Scott's mother is 28 November 1993.\n<answer> 28 November 1993",
+  "predicted_answer": "28 November 1993",
+  "claims": [
+    "Peter Dale Scott was born on 11 January 1929",
+    "Peter Dale Scott's mother is Marian Dale Scott",
+    "Marian Dale Scott died on 28 November 1993",
+    "The date of death of Peter Dale Scott's mother is 28 November 1993"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Peter Dale Scott was born on 11 January 1929",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Peter Dale Scott's mother is Marian Dale Scott",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Marian Dale Scott died on 28 November 1993",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The date of death of Peter Dale Scott's mother is 28 November 1993",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

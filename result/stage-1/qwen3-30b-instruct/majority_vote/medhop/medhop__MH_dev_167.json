@@ -1,0 +1,196 @@
+{
+  "uid": "medhop__MH_dev_167",
+  "sample_id": "MH_dev_167",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00203\", \"DB01037\", \"DB01281\", and \"DB09280\" interacts with DB00030?",
+  "gold_answer": "DB01037",
+  "context": [
+    "Aging and age-related diseases -- from endocrine therapy to target therapy . Aging represents an important health issue not only for the individual , but also for society in general . Burdens associated with aging are expanding as longevity increases . This has led to an enhanced focus on issues related to aging and age-related diseases . Until recently , anti-aging endocrine-therapy has been largely limited to hormone-replacement therapy ( HRT ) that is associated with multiple side effects , including an increased risk of cancer . This has greatly limited the application of HRT in anti-aging therapy . Recently , the focus of anti-aging research has expanded from endocrine signaling pathways to effects on regulatory gene networks . In this regard , the P01286 -GH- DB01277 / P01308 , TOR- P23443 ,NAD(+)-Sirtuin , P04637 , Q9UEF7 and P02649 pathways have been linked to processes associated with age-related diseases , including cancer , cardiovascular disease , diabetes , osteoporosis , and neurodegenerative diseases , all of which directly influence health in aging , and represent key targets in anti-aging therapy .",
+    "P01308 is involved in transcriptional regulation of NKCC and the P13569 Cl(-) channel through PI3K activation and P29323 inactivation in renal epithelial cells . It is is well known that insulin stimulates glucose transport and epithelial Na(+) channel ( ENaC ) -mediated Na(+) reabsorption ; however , the action of insulin on Cl(-) secretion is not fully understood . In this study , we investigated the action of insulin on Na(+)-K(+)-2Cl(-) cotransporter ( NKCC ) -mediated Cl(-) secretion in epithelial A6 cells . Interestingly , insulin treatment remarkably enhanced the forskolin-stimulated Cl(-) secretion associated with an increase in apical Cl(-) conductance by upregulating mRNA expression of both P13569 and NKCC , although insulin treatment alone had no effect on the basal Cl(-) secretion or apical Cl(-) conductance without forskolin application . We next elucidated a role of phosphoinositide 3-kinase ( PI3K ) in the insulin-induced enhancement of the Cl(-) secretion , since insulin actually activated PI3K , resulting in activation of Akt , a downstream molecule of PI3K . LY294002 ( a PI3K inhibitor ) reduced the Cl(-) secretion by suppressing mRNA expression of NKCC , whereas insulin still had a stimulatory action on mRNA expression of P13569 even in the presence of LY294002 . On the other hand , we found that a MEK inhibitor ( PD98059 ) further enhanced the insulin-stimulated P13569 mRNA expression and the Cl(-) secretion in forskolin-stimulated A6 cells and that insulin induced slight , transient activation of P29323 followed by significant inactivation of P29323 . These observations suggest that : ( 1 ) insulin respectively upregulates mRNA expression of NKCC and P13569 through activation of PI3K and inactivation of P29323 ; ( 2 ) insulin signals on mRNA expression of NKCC and P13569 are not enough to stimulate transepithelial Cl(-) secretion , but enhance the stimulatory action of DB02527 on transepithelial Cl(-) secretion .",
+    "Genetic factors influencing outcome from neurotrauma . PURPOSE OF REVIEW : Clinical outcome after neurotrauma is considerably variable and can only partly be explained by known prognostic factors . There is converging evidence from genetic research that a number of genetic variants may contribute to this variability . This review provides recent data from human studies , published in the previous year , on genetic factors influencing outcome after neurotrauma . The bibliographic databases MEDLINE , EMBASE and PsycINFO were searched to identify relevant studies . RECENT FINDINGS : Genetic susceptibility to various aspects of clinical outcome after neurotrauma was reported in recent clinical studies . Genetic loci investigated include polymorphisms in P02649 , P21397 , P23560 , NOS3 , P05231 , P12036 , P31645 , P21964 , P48454 and Q8IX03 genes . The importance of these findings and future directions are discussed . SUMMARY : Recent genetic studies have revealed emerging aspects and extended the existing knowledge regarding the pathogenesis of neurotrauma and the genetic influence on phenotypic diversity . A better understanding of the underlying biological pathways and molecular mechanisms of an individual 's response to neurotrauma may hold the promise of novel treatment strategies and improved clinical outcome .",
+    "P01308 action on H292 bronchial carcinoma cells as compared to normal bronchial epithelial cells . DB00030 may contribute to bronchial carcinoma due to P08069 activation by high local concentrations . Therefore , effects of insulin and P05019 on human bronchial carcinoma cells ( H292 ) and normal bronchial epithelium cells ( P02100 ) were studied . TGF-β was included since it also influences carcinoma progression . H292 and P02100 cells expressed both the insulin receptor and the P08069 ; in H292 cells an additional , shorter , splicing variant ( IR-A ) of the insulin receptor was present . P06213 expression was around four to five times higher in H292 than in P02100 cells at mRNA and protein levels . P01308 and TGF-β exerted contrary actions on proliferation and gene expression in H292 cells . Genes regulated by insulin , P05019 , and TGF-β were linked to inflammation , cell adhesion , muscle contraction and differentiation . P01308 and P05019 also suppressed DNA repair genes . EC(50) for insulin-induced proliferation was around 5 nM in H292 and around 30 nM P02100 cells . The EC(50) values for gene expression ranged from 9 to 90 nM in both cell types , dependent on the gene studied . In H292 cells , the proliferative response was much stronger if TGF-β was present . In P02100 cells this interaction of insulin and TGF-β was not observed , and changes in gene expression were mostly lower by at least 10-fold as compared to H292 . All in all , the insulin effects in H292 were generally much stronger than in P02100 cells and - with regard to proliferation - occurred at lower concentrations . Thus , insulin will hardly induce cancer from normal bronchial cells but may favour progression of pre-existing tumours .",
+    "TGFbeta1 , TNFalpha , and insulin signaling crosstalk in regulation of the rat cholesterol 7alpha-hydroxylase gene expression . The TGFbeta1/Smad pathway plays a critical role in cholestasis and liver fibrosis . Previous studies show that TGFbeta1 , TNFalpha , and insulin inhibit cholesterol 7alpha-hydroxylase ( P22680 ) gene transcription and bile acid synthesis in human hepatocytes . In this study , we investigated insulin , TGFbeta1 , and TNFalpha regulation of rat Cyp7a1 gene transcription . In contrast to inhibition of human P22680 gene transcription , TGFbeta1 stimulates rat Cyp7a1 reporter activity . P84022 , FoxO1 , and HNF4alpha synergistically stimulated rat Cyp7a1 gene transcription . Mutations of the P84022 , FoxO1 , or HNF4alpha binding site attenuated the rat Cyp7a1 promoter activity . Furthermore , TNFalpha and cJun attenuated TGFbeta1 stimulation of rat Cyp7a1 . P01308 or adenovirus-mediated expression of constitutively active P31749 inhibited FoxO1 and P84022 synergy . In streptozotocin-induced diabetic rats , Cyp7a1 mRNA expression levels were induced and insulin attenuated P22680 mRNA levels . Chromatin immunoprecipitation assay showed that FoxO1 binding to Cyp7a1 chromatin was increased in diabetic rat livers and insulin reduced FoxO1 binding . These results suggest a mechanistic basis for induction of Cyp7a1 activity and bile acid synthesis in cholestatic rats and in diabetic rats . The crosstalk of insulin , TGFbeta and TNFalpha signaling pathways may regulate bile acid synthesis and lipid homeostasis in diabetes , fatty liver disease , and liver fibrosis .",
+    "DB00203 reduces insulin-resistance in human endothelial cells . BACKGROUND : The efficacy of Phosphodiesterase 5 ( O76074 ) inhibitors to re-establish endothelial function is reduced in diabetic patients . Recent evidences suggest that therapy with O76074 inhibitors , i.e. sildenafil , may increase the expression of nitric oxide synthase ( NOS ) proteins in the heart and cardiomyocytes . In this study we analyzed the effect of sildenafil on endothelial cells in insulin resistance conditions in vitro . METHODOLOGY/PRINCIPAL FINDINGS : Human umbilical vein endothelial cells ( HUVECs ) were treated with insulin in presence of glucose 30 mM ( HG ) and glucosamine 10 mM ( Gluc-N ) with or without sildenafil . P01308 increased the expression of O76074 and P29474 mRNA assayed by Real time-PCR . Cytofluorimetric analysis showed that sildenafil significantly increased NO production in basal condition . This effect was partially inhibited by the PI3K inhibitor LY 294002 and completely inhibited by the NOS inhibitor L-NAME . Akt-1 and P29474 activation was reduced in conditions mimicking insulin resistance and completely restored by sildenafil treatment . Conversely sildenafil treatment can counteract this noxious effect by increasing NO production through P29474 activation and reducing oxidative stress induced by hyperglycaemia and glucosamine . CONCLUSIONS/SIGNIFICANCE : These data indicate that sildenafil might improve NOS activity of endothelial cells in insulin resistance conditions and suggest the potential therapeutic use of sildenafil for improving vascular function in diabetic patients .",
+    "DB01037 transdermal system : in the treatment of major depressive disorder . The monamine oxidase ( MAO ) inhibitor selegiline is selective for P27338 at the low oral dosages used in the treatment of Parkinson 's disease . However , P21397 is also inhibited at the high oral dosages needed to effectively treat depression ( not an approved indication ) , necessitating a tyramine-restricted diet . The selegiline transdermal system was designed to deliver antidepressant drug concentrations to the CNS , without substantially impairing small intestine P21397 activity . At the target dose of 6 mg/24 hours , tyramine dietary restrictions are not needed . Short-term treatment with fixed ( 6 mg/24 hours ) or flexible ( 6 , 9 or 12 mg/24 hours ) doses of selegiline transdermal system was superior to placebo on most measures of antidepressant activity in 6- or 8-week , randomised , double-blind , multicentre studies in adult outpatients with major depressive disorder ( MDD ) . Likewise , long-term treatment with a fixed dose of selegiline transdermal system 6 mg/24 hours was superior to placebo as maintenance therapy in a 52-week , randomised , double-blind , multicentre , relapse-prevention trial in patients with MDD . DB01037 transdermal system therapy was generally well tolerated in placebo-controlled studies ; application site reactions , mostly of mild to moderate severity , were the most commonly reported adverse events . The incidence of sexual adverse effects and weight gain was low and similar to that with placebo .",
+    "Potentiator ivacaftor abrogates pharmacological correction of ΔF508 P13569 in cystic fibrosis . Cystic fibrosis ( CF ) is caused by mutations in the CF transmembrane conductance regulator ( P13569 ) . Newly developed \" correctors \" such as DB09280 ( VX-809 ) that improve P13569 maturation and trafficking and \" potentiators \" such as ivacaftor ( VX-770 ) that enhance channel activity may provide important advances in CF therapy . Although VX-770 has demonstrated substantial clinical efficacy in the small subset of patients with a mutation ( G551D ) that affects only channel activity , a single compound is not sufficient to treat patients with the more common P13569 mutation , ΔF508 . Thus , patients with ΔF508 will likely require treatment with both correctors and potentiators to achieve clinical benefit . However , whereas the effectiveness of acute treatment with this drug combination has been demonstrated in vitro , the impact of chronic therapy has not been established . In studies of human primary airway epithelial cells , we found that both acute and chronic treatment with VX-770 improved P13569 function in cells with the G551D mutation , consistent with clinical studies . In contrast , chronic VX-770 administration caused a dose-dependent reversal of VX-809-mediated P13569 correction in ΔF508 homozygous cultures . This result reflected the destabilization of corrected ΔF508 P13569 by VX-770 , markedly increasing its turnover rate . Chronic VX-770 treatment also reduced mature wild-type P13569 levels and function . These findings demonstrate that chronic treatment with P13569 potentiators and correctors may have unexpected effects that can not be predicted from short-term studies . Combining these drugs to maximize rescue of ΔF508 P13569 may require changes in dosing and/or development of new potentiator compounds that do not interfere with P13569 stability .",
+    "DB01281 inhibits effector T cells through regulatory T cells and TGF-β . The P10747 costimulatory receptor is a critical regulator of T cell function , making it an attractive therapeutic target for the treatment of immune-mediated diseases . DB01281 , now approved for use in humans , prevents naive T cell activation by binding to P33681 proteins and blocking engagement of P10747 . However , DB01281 suppresses inflammation even if administered when disease is established , suggesting alternative mechanisms . We identified a novel , P10747 -independent mechanism by which DB01281 inhibits activated T cells . We show that in vitro , DB01281 synergizes with NO from bone marrow-derived macrophages to inhibit T cell proliferation . Depletion of regulatory T cells ( Tregs ) or interference with TGF-β signaling abrogated the inhibitory effect of DB01281 . Parallel in vivo experiments using an allergic airway inflammation model demonstrated that this novel mechanism required both macrophages and regulatory T cells . Furthermore , DB01281 was ineffective in P84022 -deficient mice , supporting a requirement for TGF-β signaling . Thus , in addition to preventing naive T cells from being fully activated , DB01281 can turn off already activated effector T cells by an NO/regulatory T cell/TGF-β-dependent pathway . This mechanism is similar to cell-extrinsic effects of endogenous P16410 and may be particularly important in the ability of DB01281 to treat chronic inflammatory disease ."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00030 may contribute to bronchial carcinoma due to P08069 activation by high local concentrations.\nDB00030 is associated with activation of P08069 in bronchial carcinoma.\nDB01281 inhibits effector T cells through regulatory T cells and TGF-β.\nDB01281 does not interact with DB00030 based on the provided context.\nDB00203 reduces insulin-resistance in human endothelial cells.\nDB00203 is linked to P01308 and O76074 pathways.\nDB01037 is a transdermal system containing selegiline, which inhibits P21397 and P27338.\nDB01037 does not interact with DB00030 based on the provided context.\nDB09280 (VX-809) is a corrector that improves P13569 maturation and trafficking in cystic fibrosis.\nDB09280 interacts with P13569, not DB00030.\nNo direct interaction between DB00030 and any of DB00203, DB01037, DB01281, or DB09280 is stated.\nThe interaction between DB00030 and any of the listed compounds is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB00030 may contribute to bronchial carcinoma due to P08069 activation by high local concentrations",
+    "DB00030 is associated with activation of P08069 in bronchial carcinoma",
+    "DB01281 inhibits effector T cells through regulatory T cells and TGF-β",
+    "DB01281 does not interact with DB00030 based on the provided context",
+    "DB00203 reduces insulin-resistance in human endothelial cells",
+    "DB00203 is linked to P01308 and O76074 pathways",
+    "DB01037 is a transdermal system containing selegiline, which inhibits P21397 and P27338",
+    "DB01037 does not interact with DB00030 based on the provided context",
+    "DB09280 (VX-809) is a corrector that improves P13569 maturation and trafficking in cystic fibrosis",
+    "DB09280 interacts with P13569, not DB00030",
+    "No direct interaction between DB00030 and any of DB00203, DB01037, DB01281, or DB09280 is stated",
+    "The interaction between DB00030 and any of the listed compounds is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00030 may contribute to bronchial carcinoma due to P08069 activation by high local concentrations",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB00030 is associated with activation of P08069 in bronchial carcinoma",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB01281 inhibits effector T cells through regulatory T cells and TGF-β",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB01281 does not interact with DB00030 based on the provided context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00203 reduces insulin-resistance in human endothelial cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00203 is linked to P01308 and O76074 pathways",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01037 is a transdermal system containing selegiline, which inhibits P21397 and P27338",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01037 does not interact with DB00030 based on the provided context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB09280 (VX-809) is a corrector that improves P13569 maturation and trafficking in cystic fibrosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB09280 interacts with P13569, not DB00030",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "No direct interaction between DB00030 and any of DB00203, DB01037, DB01281, or DB09280 is stated",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "The interaction between DB00030 and any of the listed compounds is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

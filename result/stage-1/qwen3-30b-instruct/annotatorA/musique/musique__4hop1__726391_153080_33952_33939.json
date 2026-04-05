@@ -1,0 +1,81 @@
+{
+  "uid": "musique__4hop1__726391_153080_33952_33939",
+  "sample_id": "4hop1__726391_153080_33952_33939",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "In 1900, what was the population of the second largest city in the state where the Oh Yeah performer is from?",
+  "gold_answer": "7,531",
+  "context": [
+    "Saint Paul (abbreviated St. Paul) is the capital and second-most populous city of the U.S. state of Minnesota. As of 2017, the city's estimated population was 309,180. Saint Paul is the county seat of Ramsey County, the smallest and most densely populated county in Minnesota. The city lies mostly on the east bank of the Mississippi River in the area surrounding its point of confluence with the Minnesota River, and adjoins Minneapolis, the state's largest city. Known as the ``Twin Cities '', the two form the core of Minneapolis -- Saint Paul, the 16th - largest metropolitan area in the United States, with about 3.6 million residents.",
+    "Jersey City is the second-most - populous city in the U.S. state of New Jersey, after Newark. It is the seat of Hudson County as well as the county's largest city. As of 2016, the Census Bureau's Population Estimates Program calculated that Jersey City's population was 264,152, with the largest population increase of any municipality in New Jersey since 2010, an increase of about 6.7% from the 2010 United States Census, when the city's population was at 247,597, ranking the city the 77th - largest in the nation.",
+    "Tennessee (i/tɛnᵻˈsiː/) (Cherokee: ᏔᎾᏏ, Tanasi) is a state located in the southeastern United States. Tennessee is the 36th largest and the 17th most populous of the 50 United States. Tennessee is bordered by Kentucky and Virginia to the north, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, and Arkansas and Missouri to the west. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms the state's western border. Tennessee's capital and second largest city is Nashville, which has a population of 601,222. Memphis is the state's largest city, with a population of 653,450.",
+    "Show Your Bones is the second studio album by American indie rock band Yeah Yeah Yeahs, released on March 22, 2006 by Interscope Records. The album was nominated for a Grammy Award for Best Alternative Music Album in 2007.",
+    "Charles Mingus was born in Nogales, Arizona. His father, Charles Mingus Sr., was a sergeant in the U.S. Army. Mingus was largely raised in the Watts area of Los Angeles. His maternal grandfather was a Chinese British subject from Hong Kong, and his maternal grandmother was an African-American from the southern United States. Mingus was the third great-grandson of the family's founding patriarch who was, by most accounts, a German immigrant. His ancestors included German American, African American, and Native American.",
+    "Staunton is the second largest city in Macoupin County, Illinois, United States. As of the 2010 Census, the population was 5,139.",
+    "Oh Yeah is a 1962 album by jazz musician Charles Mingus. It was recorded in 1961, and features the leader (mainly known as a bassist and composer) singing on three of the cuts and playing piano throughout.",
+    "Česká Třebová (; ) is a town in the Pardubice Region of the Czech Republic. The city is located in the east of the Czech Republic. It is the fourth most populated city and second largest in the Pardubice Region. Česká Třebová is spread over 41 km² and the population is about 15,500 citizens. The city of Česká Třebová is divided into 6 cadastral areas: Česká Třebová, Kozlov, Lhotka, Parník, Skuhrov and Svinná.",
+    "Tucson (/ˈtuːsɒn/ /tuːˈsɒn/) is a city and the county seat of Pima County, Arizona, United States, and home to the University of Arizona. The 2010 United States Census put the population at 520,116, while the 2013 estimated population of the entire Tucson metropolitan statistical area (MSA) was 996,544. The Tucson MSA forms part of the larger Tucson-Nogales combined statistical area (CSA), with a total population of 980,263 as of the 2010 Census. Tucson is the second-largest populated city in Arizona behind Phoenix, both of which anchor the Arizona Sun Corridor. The city is  located 108 miles (174 km) southeast of Phoenix and 60 mi (97 km) north of the U.S.-Mexico border. Tucson is the 33rd largest city and the 59th largest metropolitan area in the United States. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems, earning Tucson the nickname Optics Valley.",
+    "Tucson is located 118 mi (190 km) southeast of Phoenix and 60 mi (97 km) north of the United States - Mexico border. The 2010 United States Census puts the city's population at 520,116 with a metropolitan area population at 980,263. In 2009, Tucson ranked as the 32nd largest city and 52nd largest metropolitan area in the United States. A major city in the Arizona Sun Corridor, Tucson is the largest city in southern Arizona, the second largest in the state after Phoenix. It is also the largest city in the area of the Gadsden Purchase. As of 2015, The Greater Tucson Metro area has exceeded a population of 1 million.",
+    "Hubbard is a city in Trumbull County, Ohio, United States. It is formed from part of Hubbard Township, which was formed from the Connecticut Western Reserve. The population was 7,874 at the 2010 census. It is part of the Youngstown-Warren-Boardman, OH-PA Metropolitan Statistical Area.",
+    "The Charleston-North Charleston-Summerville Metropolitan Statistical Area consists of three counties: Charleston, Berkeley, and Dorchester. As of the 2013 U.S. Census, the metropolitan statistical area had a total population of 712,239 people. North Charleston is the second-largest city in the Charleston-North Charleston-Summerville Metropolitan Statistical Area and ranks as the third-largest city in the state; Mount Pleasant and Summerville are the next-largest cities. These cities combined with other incorporated and unincorporated areas along with the city of Charleston form the Charleston-North Charleston Urban Area with a population of 548,404 as of 2010. The metropolitan statistical area also includes a separate and much smaller urban area within Berkeley County, Moncks Corner (with a 2000 population of 9,123).",
+    "Daniel Francis Murphy (August 11, 1876 in Philadelphia, Pennsylvania – November 22, 1955 in Jersey City, New Jersey) was a second baseman in Major League Baseball from 1900 to 1915. He managed the Jersey City Skeeters in 1919.",
+    "Detroit (/dᵻˈtrɔɪt/) is the most populous city in the U.S. state of Michigan, the fourth-largest city in the Midwest and the largest city on the United States–Canada border. It is the seat of Wayne County, the most populous county in the state. Detroit's metropolitan area, known as Metro Detroit, is home to 5.3 million people, making it the fourteenth-most populous metropolitan area in the United States and the second-largest in the Midwestern United States (behind Chicago). It is a major port on the Detroit River, a strait that connects the Great Lakes system to the Saint Lawrence Seaway. The City of Detroit anchors the second-largest economic region in the Midwest, behind Chicago, and the thirteenth-largest in the United States.",
+    "West Mineral is a city in Cherokee County, Kansas, United States. It is the home of Big Brutus, the second largest electric shovel in the world. As of the 2010 census, the city population was 185.",
+    "Beach City is a village in Stark County, Ohio, United States. The population was 1,033 at the 2010 census. It is part of the Canton-Massillon, OH Metropolitan Statistical Area.",
+    "Ocala (/ oʊ ˈkælə / oh - KAL - ə) is a city located in Northern Florida. As of the 2013 census, its population, estimated by the United States Census Bureau, was 57,468, making it the 45th most populated city in Florida.",
+    "Jacksonville is the largest city by population in the U.S. state of Florida, and the largest city by area in the contiguous United States. It is the county seat of Duval County, with which the city government consolidated in 1968. Consolidation gave Jacksonville its great size and placed most of its metropolitan population within the city limits; with an estimated population of 853,382 in 2014, it is the most populous city proper in Florida and the Southeast, and the 12th most populous in the United States. Jacksonville is the principal city in the Jacksonville metropolitan area, with a population of 1,345,596 in 2010.",
+    "Houston is the most populous city in Texas and the fourth largest in the U.S., while San Antonio is the second most populous in the state and seventh largest in the U.S. Dallas -- Fort Worth and Greater Houston are the fourth and fifth largest metropolitan statistical areas in the country, respectively. Other major cities include Austin, the second most populous state capital in the U.S., and El Paso. Texas is nicknamed ``The Lone Star State ''to signify its former status as an independent republic, and as a reminder of the state's struggle for independence from Mexico. The`` Lone Star'' can be found on the Texas state flag and on the Texan state seal. The origin of Texas's name is from the word ``Tejas, ''which means`` friends'' in the Caddo language.",
+    "By 1900, 7,531 people lived in the city. The population increased gradually to 13,913 in 1910. At about this time, the U.S. Veterans Administration had begun construction on the present Veterans Hospital. Many veterans who had been gassed in World War I and were in need of respiratory therapy began coming to Tucson after the war, due to the clean dry air. Over the following years the city continued to grow, with the population increasing to 20,292 in 1920 and 36,818 in 1940. In 2006 the population of Pima County, in which Tucson is located, passed one million while the City of Tucson's population was 535,000."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCharles Mingus was born in Nogales, Arizona.\nOh Yeah is a 1962 album by Charles Mingus.\nThe performer of Oh Yeah is Charles Mingus.\nCharles Mingus is from Arizona.\nThe second largest city in Arizona is Tucson.\nIn 1900, the population of Tucson was 7,531.\nThe population of the second largest city in the state where the Oh Yeah performer is from in 1900 was 7,531.\n<answer> 7,531",
+  "predicted_answer": "7,531",
+  "claims": [
+    "Charles Mingus was born in Nogales, Arizona",
+    "Oh Yeah is a 1962 album by Charles Mingus",
+    "The performer of Oh Yeah is Charles Mingus",
+    "Charles Mingus is from Arizona",
+    "The second largest city in Arizona is Tucson",
+    "In 1900, the population of Tucson was 7,531",
+    "The population of the second largest city in the state where the Oh Yeah performer is from in 1900 was 7,531"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Charles Mingus was born in Nogales, Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Oh Yeah is a 1962 album by Charles Mingus",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The performer of Oh Yeah is Charles Mingus",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Charles Mingus is from Arizona",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The second largest city in Arizona is Tucson",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "In 1900, the population of Tucson was 7,531",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "The population of the second largest city in the state where the Oh Yeah performer is from in 1900 was 7,531",
+      "claim_type": "DR"
+    }
+  ]
+}

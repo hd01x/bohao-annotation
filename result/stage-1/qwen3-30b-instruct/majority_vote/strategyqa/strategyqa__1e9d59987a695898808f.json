@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__1e9d59987a695898808f",
+  "sample_id": "1e9d59987a695898808f",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are you likely to find a crucifix in Karachi?",
+  "gold_answer": "no",
+  "context": [
+    "The crucifix is a symbol of Christianity",
+    "The vast majority of Pakistan's population is Muslim"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA crucifix is a symbol of Christianity.\nThe vast majority of Pakistan's population is Muslim.\nKarachi is a city in Pakistan.\nChristianity is a minority religion in Pakistan.\nThe presence of crucifixes in public or private spaces in Karachi is unlikely due to the dominant Muslim population.\nYou are unlikely to find a crucifix in Karachi.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "A crucifix is a symbol of Christianity",
+    "The vast majority of Pakistan's population is Muslim",
+    "Karachi is a city in Pakistan",
+    "Christianity is a minority religion in Pakistan",
+    "The presence of crucifixes in public or private spaces in Karachi is unlikely due to the dominant Muslim population",
+    "You are unlikely to find a crucifix in Karachi"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A crucifix is a symbol of Christianity",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The vast majority of Pakistan's population is Muslim",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Karachi is a city in Pakistan",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Christianity is a minority religion in Pakistan",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The presence of crucifixes in public or private spaces in Karachi is unlikely due to the dominant Muslim population",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "You are unlikely to find a crucifix in Karachi",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

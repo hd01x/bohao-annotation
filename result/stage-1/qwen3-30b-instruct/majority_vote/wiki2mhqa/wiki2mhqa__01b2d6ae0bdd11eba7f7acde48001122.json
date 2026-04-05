@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__01b2d6ae0bdd11eba7f7acde48001122",
+  "sample_id": "01b2d6ae0bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the date of birth of Frederick Of Liege's father?",
+  "gold_answer": "1027",
+  "context": [
+    "Frederick of Nassau, Lord of Zuylestein( 1624–1672) was an illegitimate son of Frederick Henry, Prince of Orange, by Margaretha Catharina Bruyns,",
+    "Frederick of Montbéliard or Frederick of Mömpelgard( died 29 June 1091) was from a noble family in Lotharingia. Through marriage he became margrave of Turin( 1080 – 1091).",
+    "Frederick was Bishop of Liege, son of Albert III, Count of Namur. Godfrey I, Count of Louvain came into conflict with Otbert, Bishop of Liège, over the county of Brunengeruz that both claimed. In 1099, Emperor Henry IV allotted the county to his close supporter, the bishop, who entrusted it to Albert III, Count of Namur. Bishop Otbert died in 1119. Two separate candidates were elected to replace him and Godfrey sided with the loser. Frederick became Bishop of Liege succeeding Bishop Alexander (who was forced to stand down after being charged with acts of simony, 1119). As a result, the newly appointed Bishop Frederick suffered open animosity from Alexander’s supporters. It is believed that Frederick was poisoned by the count of Louvain, and suffered death in 1121.",
+    "Albert III (born 1027; died 29 July 1102) was the Count of Namur from 1063 until his death. He was the son of Count Albert II and Regelinde of Verdun.",
+    "Brian Saunders( date of birth and death unknown) was a male weightlifter who competed for England.",
+    "Duke Eugen of Württemberg( 21 November 1758 – 20 June 1822) was a German prince. He was the brother of Frederick I of Württemberg",
+    "Etan Boritzer( born 1950) is an American writer of children ’s literature who is best known for his book\" What is God?\" first published in 1989. His best selling\" What is?\" illustrated children's book series on character education and difficult subjects for children is a popular teaching guide for parents, teachers and child- life professionals. Boritzer gained national critical acclaim after\" What is God?\" was published in 1989 although the book has caused controversy from religious fundamentalists for its universalist views. The other current books in the\" What is?\" series include What is Love?, What is Death?, What is Beautiful?, What is Funny?, What is Right?, What is Peace?, What is Money?, What is Dreaming?, What is a Friend?, What is True?, What is a Family?, What is a Feeling?\" The series is now also translated into 15 languages. Boritzer was first published in 1963 at the age of 13 when he wrote an essay in his English class at Wade Junior High School in the Bronx, New York on the assassination of John F. Kennedy. His essay was included in a special anthology by New York City public school children compiled and published by the New York City Department of Education. Boritzer now lives in Venice, California and maintains his publishing office there also. He has helped numerous other authors to get published through\" How to Get Your Book Published!\" programs. Boritzer is also a yoga teacher who teaches regular classes locally and guest- teaches nationally. He is also recognized nationally as an erudite speaker on\" The Teachings of the Buddha.\"",
+    "Theodred II was a medieval Bishop of Elmham. The date of Theodred's consecration unknown, but the date of his death was sometime between 995 and 997.",
+    "Frederick of Denmark( 13 April 1532–7 October 1556) was the youngest son of Frederick I of Denmark and Sophie of Pomerania. He was the Prince- Bishop of Hildesheim and Bishop of Schleswig.",
+    "Terence D. Robinson( date of birth and death unknown) was a male wrestler who competed for England."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFrederick of Liege was the son of Albert III, Count of Namur.\nAlbert III, Count of Namur was born in 1027.\nThe date of birth of Frederick of Liege's father is 1027.\n<answer> 1027",
+  "predicted_answer": "1027",
+  "claims": [
+    "Frederick of Liege was the son of Albert III, Count of Namur",
+    "Albert III, Count of Namur was born in 1027",
+    "The date of birth of Frederick of Liege's father is 1027"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Frederick of Liege was the son of Albert III, Count of Namur",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Albert III, Count of Namur was born in 1027",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The date of birth of Frederick of Liege's father is 1027",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

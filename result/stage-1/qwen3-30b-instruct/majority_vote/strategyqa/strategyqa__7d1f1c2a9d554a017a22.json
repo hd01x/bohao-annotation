@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__7d1f1c2a9d554a017a22",
+  "sample_id": "7d1f1c2a9d554a017a22",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are there bones in an anchovy pizza?",
+  "gold_answer": "yes",
+  "context": [
+    "Anchovies used on pizza are typically packed whole in oil or water. ",
+    "Anchovies on pizza are not usually cut or filleted in any way."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAnchovies used on pizza are typically packed whole in oil or water.\nAnchovies on pizza are not usually cut or filleted in any way.\nWhole anchovies include their bones.\nThe bones in whole anchovies are small but present.\nAnchovy pizza contains whole anchovies.\nAnchovy pizza contains bones.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Anchovies used on pizza are typically packed whole in oil or water",
+    "Anchovies on pizza are not usually cut or filleted in any way",
+    "Whole anchovies include their bones",
+    "The bones in whole anchovies are small but present",
+    "Anchovy pizza contains whole anchovies",
+    "Anchovy pizza contains bones"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Anchovies used on pizza are typically packed whole in oil or water",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Anchovies on pizza are not usually cut or filleted in any way",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Whole anchovies include their bones",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The bones in whole anchovies are small but present",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Anchovy pizza contains whole anchovies",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Anchovy pizza contains bones",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

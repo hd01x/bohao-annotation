@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__ee89128e112aca3b7efd",
+  "sample_id": "ee89128e112aca3b7efd",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are blue lips normal?",
+  "gold_answer": "no",
+  "context": [
+    "Lips and skin turn blue in response to a lack of oxygen.",
+    "When oxygen flow is inadequate, someone's health can be in danger.",
+    "Lips can turn blue due to extreme cold."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLips and skin turn blue in response to a lack of oxygen.\nA lack of oxygen can indicate a serious health issue.\nLips can turn blue due to extreme cold.\nBlue lips are a sign of inadequate oxygen flow.\nBlue lips are not a normal physiological state.\nBlue lips are a symptom of an underlying medical condition.\nBlue lips are not normal.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Lips and skin turn blue in response to a lack of oxygen",
+    "A lack of oxygen can indicate a serious health issue",
+    "Lips can turn blue due to extreme cold",
+    "Blue lips are a sign of inadequate oxygen flow",
+    "Blue lips are not a normal physiological state",
+    "Blue lips are a symptom of an underlying medical condition",
+    "Blue lips are not normal"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lips and skin turn blue in response to a lack of oxygen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "A lack of oxygen can indicate a serious health issue",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Lips can turn blue due to extreme cold",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Blue lips are a sign of inadequate oxygen flow",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Blue lips are not a normal physiological state",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Blue lips are a symptom of an underlying medical condition",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Blue lips are not normal",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

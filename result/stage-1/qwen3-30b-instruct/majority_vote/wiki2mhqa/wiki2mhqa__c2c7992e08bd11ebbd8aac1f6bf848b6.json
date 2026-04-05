@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__c2c7992e08bd11ebbd8aac1f6bf848b6",
+  "sample_id": "c2c7992e08bd11ebbd8aac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born later, Budak Nafsu or The Bilingual Lover?",
+  "gold_answer": "Budak Nafsu",
+  "context": [
+    "Ben Palmer is a British film and television director who is known for being the director of\" Bo' Selecta\" and\" The Inbetweeners\".",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Hassan Zee is a Pakistani- American film director who was born in Chakwal, Pakistan.",
+    "The Bilingual Lover is a 1993 Spanish film, written and directed by Vicente Aranda and adapted from a novel by Juan Marsé. The film stars Imanol Arias, Ornella Muti and Loles León. The film is a grotesque drama, with some elements of comedy. Set in Barcelona in the 1980s,\" El Amante Bilingüe\" takes an ironic approach to Catalan linguistic policies, nationalism and eroticism with a pattern of double identity that was based on elements from the author's life.",
+    "Vicente Aranda Ezquerra (9 November 1926 – 26 May 2015) was a Spanish film director, screenwriter and producer. Due to his refined and personal style, he was one of the most renowned Spanish filmmakers. He started as a founding member of the Barcelona School of Film and became known for bringing contemporary Spanish novels to life on the big screen. Aranda was also noted for exploring difficult social issues and variations on the theme of desire while using the codes of melodrama. Love as uncontrollable passion, eroticism and cruelty are constant themes in his filmography. The frank examination of sexuality is one of the trademarks of his work, as seen in his most internationally successful film: \"Amantes\" (1990) \"(Lovers)\".",
+    "Budak Nafsu( literally\" Slave to Lust\", also known as Fatima) is a 1983 Indonesian film directed by Sjumandjaja and adapted from the 1981 novel\" Fatima\" by Titie Said. Starring Jenny Rachman and El Manik, it follows a mother who is forced to serve as a comfort woman for Japanese men stationed in British Malaya in an effort to save her daughter. The film was a commercial success, although critics have emphasised its sexual aspects.",
+    "Rumbi Katedza is a Zimbabwean Film Producer and Director who was born on 17 January 1974.",
+    "Catherine I( born, later known as Marta Samuilovna Skavronskaya; –) was the second wife of Peter the Great and Empress of Russia from 1725 until her death.",
+    "Sjumandjaja( Perfected Spelling: Syumanjaya; 5 August 1934 – 19 July 1985) was an Indonesian director, screenwriter, and actor. During his career he wrote numerous films, directed fourteen, acted in ten, and produced nine; he also won five Citra Awards from the Indonesian Film Festival. His films reflected social realism. Sjumandjaja was born in Batavia( modern day Jakarta), Dutch East Indies, and grew up there. During high school, he became interested in creative writing and acting, eventually joining the Senen Artists' Group. In 1956, when one of his short stories was adapted into a film, Sjumandjaja became active in the filmmaking industry, writing two films for the production company Persari. After receiving a government scholarship, he moved to Moscow and attended the All- Union State Institute of Cinematography. Upon returning to Indonesia in 1965, Sjumandjaja took a job at the Ministry of Information and continued writing screenplays. In 1971, after leaving the ministry, he directed his first feature film,\" Lewat Tengah MalamPast Midnight\"). He continued to write and direct films until his death from a heart attack on 19 July 1985. Reportedly a strict director, Sjumandjaja valued creative value over receiving a director's fee. He married three times and had three children, two with his first wife and one with his second. His son, Sri Aksana, is the former drummer of Dewa 19, and his daughter Djenar Maesa Ayu is also a Citra Award- winning director.",
+    "Edward J. Yates( September 16, 1918 – June 2, 2006) was an American television director who was the director of the ABC television program\" American Bandstand\" from 1952 until 1969."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBudak Nafsu (1983) was directed by Sjumandjaja.\nSjumandjaja was born on 5 August 1934.\nThe Bilingual Lover (1993) was directed by Vicente Aranda.\nVicente Aranda was born on 9 November 1926.\n1934 is later than 1926.\nThe director of Budak Nafsu was born later than the director of The Bilingual Lover.\nThe film with the director born later is Budak Nafsu.\n<answer> Budak Nafsu",
+  "predicted_answer": "Budak Nafsu",
+  "claims": [
+    "Budak Nafsu (1983) was directed by Sjumandjaja",
+    "Sjumandjaja was born on 5 August 1934",
+    "The Bilingual Lover (1993) was directed by Vicente Aranda",
+    "Vicente Aranda was born on 9 November 1926",
+    "1934 is later than 1926",
+    "The director of Budak Nafsu was born later than the director of The Bilingual Lover",
+    "The film with the director born later is Budak Nafsu"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Budak Nafsu (1983) was directed by Sjumandjaja",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Sjumandjaja was born on 5 August 1934",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Bilingual Lover (1993) was directed by Vicente Aranda",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Vicente Aranda was born on 9 November 1926",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1934 is later than 1926",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director of Budak Nafsu was born later than the director of The Bilingual Lover",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born later is Budak Nafsu",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

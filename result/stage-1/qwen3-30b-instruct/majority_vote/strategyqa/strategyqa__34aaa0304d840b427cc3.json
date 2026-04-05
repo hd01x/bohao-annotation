@@ -1,0 +1,121 @@
+{
+  "uid": "strategyqa__34aaa0304d840b427cc3",
+  "sample_id": "34aaa0304d840b427cc3",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are any of J.K. Rowling's books in the genre of And Then There Were None?",
+  "gold_answer": "yes",
+  "context": [
+    "And Then There Were None was a mystery novel written by Agatha Christie.",
+    "J.K. Rowling is best known for her wizard fantasy series Harry Potter.",
+    "Robert Galbraith is the author of the Cuckoo's Calling, a mystery crime fiction novel.",
+    "Robert Galbraith is the pseudonym that J.K. Rowling writes under."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAnd Then There Were None is a mystery novel written by Agatha Christie.\nRobert Galbraith is the pseudonym used by J.K. Rowling.\nRobert Galbraith wrote Cuckoo's Calling, a mystery crime fiction novel.\nCuckoo's Calling belongs to the mystery genre.\nJ.K. Rowling writes under the pseudonym Robert Galbraith.\nThe books written by J.K. Rowling under the name Robert Galbraith are in the mystery genre.\nOne of J.K. Rowling's books, Cuckoo's Calling, is in the genre of And Then There Were None.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "And Then There Were None is a mystery novel written by Agatha Christie",
+    "Robert Galbraith is the pseudonym used by J.K. Rowling",
+    "Robert Galbraith wrote Cuckoo's Calling, a mystery crime fiction novel",
+    "Cuckoo's Calling belongs to the mystery genre",
+    "J.K. Rowling writes under the pseudonym Robert Galbraith",
+    "The books written by J.K. Rowling under the name Robert Galbraith are in the mystery genre",
+    "One of J.K. Rowling's books, Cuckoo's Calling, is in the genre of And Then There Were None"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "And Then There Were None is a mystery novel written by Agatha Christie",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Robert Galbraith is the pseudonym used by J.K. Rowling",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Robert Galbraith wrote Cuckoo's Calling, a mystery crime fiction novel",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Cuckoo's Calling belongs to the mystery genre",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "J.K. Rowling writes under the pseudonym Robert Galbraith",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The books written by J.K. Rowling under the name Robert Galbraith are in the mystery genre",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "One of J.K. Rowling's books, Cuckoo's Calling, is in the genre of And Then There Were None",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

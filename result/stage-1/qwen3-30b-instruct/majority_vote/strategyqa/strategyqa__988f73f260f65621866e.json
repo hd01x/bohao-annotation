@@ -1,0 +1,150 @@
+{
+  "uid": "strategyqa__988f73f260f65621866e",
+  "sample_id": "988f73f260f65621866e",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can an adult male stand on top Donatello's bronze David and touch the Sistine Chapel ceiling?",
+  "gold_answer": "no",
+  "context": [
+    "Donatello's created a bronze David statue that stands over five feet tall.",
+    "The average height of an adult male is five feet and nine inches.",
+    "The tallest adult male in history was eight feet and eleven inches.",
+    "The Sistine Chapel ceiling is sixty eight feet high."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDonatello's bronze David statue is over five feet tall.\nThe average height of an adult male is five feet and nine inches.\nThe tallest adult male in history was eight feet and eleven inches.\nThe Sistine Chapel ceiling is sixty-eight feet high.\nAn adult male standing on top of the statue would add his height to the statue's height.\nThe maximum possible height of a man standing on the statue is eight feet eleven inches plus five feet (statue height), totaling thirteen feet eleven inches.\nThirteen feet eleven inches is less than sixty-eight feet.\nThe Sistine Chapel ceiling is much higher than the combined height of the tallest man and the statue.\nAn adult male standing on top of Donatello's bronze David cannot touch the Sistine Chapel ceiling.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Donatello's bronze David statue is over five feet tall",
+    "The average height of an adult male is five feet and nine inches",
+    "The tallest adult male in history was eight feet and eleven inches",
+    "The Sistine Chapel ceiling is sixty-eight feet high",
+    "An adult male standing on top of the statue would add his height to the statue's height",
+    "The maximum possible height of a man standing on the statue is eight feet eleven inches plus five feet (statue height), totaling thirteen feet eleven inches",
+    "Thirteen feet eleven inches is less than sixty-eight feet",
+    "The Sistine Chapel ceiling is much higher than the combined height of the tallest man and the statue",
+    "An adult male standing on top of Donatello's bronze David cannot touch the Sistine Chapel ceiling"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Donatello's bronze David statue is over five feet tall",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The average height of an adult male is five feet and nine inches",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The tallest adult male in history was eight feet and eleven inches",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Sistine Chapel ceiling is sixty-eight feet high",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "An adult male standing on top of the statue would add his height to the statue's height",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The maximum possible height of a man standing on the statue is eight feet eleven inches plus five feet (statue height), totaling thirteen feet eleven inches",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Thirteen feet eleven inches is less than sixty-eight feet",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The Sistine Chapel ceiling is much higher than the combined height of the tallest man and the statue",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "An adult male standing on top of Donatello's bronze David cannot touch the Sistine Chapel ceiling",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

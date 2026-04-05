@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__d64d24180bd911eba7f7acde48001122",
+  "sample_id": "d64d24180bd911eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the director of film Aylwin (Film) born?",
+  "gold_answer": "Weston-super-Mare, Somerset",
+  "context": [
+    "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980. He was also the Director General of Police in Punjab.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "Henry Edwards (18 September 1882 – 2 November 1952) was an English actor and film director. He appeared in 81 films between 1915 and 1952. He also directed 67 films between 1915 and 1937. Edwards was married to actress Chrissie White, who co-starred in a number of his films. He was born in Weston-super-Mare, Somerset and died in Chobham, Surrey.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Aylwin is a 1920 British silent drama film directed by Henry Edwards and starring Henry Edwards, Chrissie White and Gerald Ames. It is based on Theodore Watts-Dunton's novel of the same name.",
+    "Jason Moore( born October 22, 1970) is an American director of film, theatre and television.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Ian Barry is an Australian director of film and TV."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAylwin (1920) is a British silent drama film directed by Henry Edwards.\nHenry Edwards was an English actor and film director.\nHenry Edwards was born in Weston-super-Mare, Somerset.\nThe director of the film Aylwin was born in Weston-super-Mare, Somerset.\n<answer> Weston-super-Mare, Somerset",
+  "predicted_answer": "Weston-super-Mare, Somerset",
+  "claims": [
+    "Aylwin (1920) is a British silent drama film directed by Henry Edwards",
+    "Henry Edwards was an English actor and film director",
+    "Henry Edwards was born in Weston-super-Mare, Somerset",
+    "The director of the film Aylwin was born in Weston-super-Mare, Somerset"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Aylwin (1920) is a British silent drama film directed by Henry Edwards",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Henry Edwards was an English actor and film director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Henry Edwards was born in Weston-super-Mare, Somerset",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The director of the film Aylwin was born in Weston-super-Mare, Somerset",
+      "claim_type": "DR"
+    }
+  ]
+}

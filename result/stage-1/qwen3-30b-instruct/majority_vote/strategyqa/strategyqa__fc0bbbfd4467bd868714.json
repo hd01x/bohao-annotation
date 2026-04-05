@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__fc0bbbfd4467bd868714",
+  "sample_id": "fc0bbbfd4467bd868714",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is a curling iron necessary in curling?",
+  "gold_answer": "no",
+  "context": [
+    "A curling iron is a tool used to make the hair curly using heat.",
+    "The sport of curling requires curling brooms, stones (rocks), and curling shoes.",
+    "Changing the structure of your hair has no practical benefit to the sport of curling."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA curling iron is a tool used to make hair curly using heat.\nThe sport of curling requires curling brooms, stones (rocks), and curling shoes.\nChanging the structure of your hair has no practical benefit to the sport of curling.\nA curling iron is not listed among the required equipment for curling.\nA curling iron is not necessary in curling.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "A curling iron is a tool used to make hair curly using heat",
+    "The sport of curling requires curling brooms, stones (rocks), and curling shoes",
+    "Changing the structure of your hair has no practical benefit to the sport of curling",
+    "A curling iron is not listed among the required equipment for curling",
+    "A curling iron is not necessary in curling"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A curling iron is a tool used to make hair curly using heat",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The sport of curling requires curling brooms, stones (rocks), and curling shoes",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Changing the structure of your hair has no practical benefit to the sport of curling",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "A curling iron is not listed among the required equipment for curling",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A curling iron is not necessary in curling",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

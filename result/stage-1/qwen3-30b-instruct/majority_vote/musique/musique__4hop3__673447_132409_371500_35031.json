@@ -1,0 +1,123 @@
+{
+  "uid": "musique__4hop3__673447_132409_371500_35031",
+  "sample_id": "4hop3__673447_132409_371500_35031",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Among the top five largest urban areas in the state where Infest's performer was formed, where does Veoh's headquarters city rank?",
+  "gold_answer": "third-largest",
+  "context": [
+    "An infestation of the coconut rhinoceros beetle (CRB), Oryctes rhinoceros, was detected on Guam on September 12, 2007. CRB is not known to occur in the United States except in American Samoa. Delimiting surveys performed September 13–25, 2007 indicated that the infestation was limited to Tumon Bay and Faifai Beach, an area of approximately 900 acres (3.6 km2). Guam Department of Agriculture (GDA) placed quarantine on all properties within the Tumon area on October 5 and later expanded the quarantine to about 2,500 acres (10 km2) on October 25; approximately 0.5 miles (800 m) radius in all directions from all known locations of CRB infestation. CRB is native to Southern Asia and distributed throughout Asia and the Western Pacific including Sri Lanka, Upolu, Samoa, American Samoa, Palau, New Britain, West Irian, New Ireland, Pak Island and Manus Island (New Guinea), Fiji, Cocos (Keeling) Islands, Mauritius, and Reunion.",
+    "The Greater Mexico City has a gross domestic product (GDP) of US$411 billion in 2011, making Mexico City urban agglomeration one of the economically largest metropolitan areas in the world. The city was responsible for generating 15.8% of Mexico's Gross Domestic Product and the metropolitan area accounted for about 22% of total national GDP. As a stand-alone country, in 2013, Mexico City would be the fifth-largest economy in Latin America—five times as large as Costa Rica's and about the same size as Peru's.",
+    "Prior to moving its headquarters to Chicago, aerospace manufacturer Boeing (#30) was the largest company based in Seattle. Its largest division is still headquartered in nearby Renton, and the company has large aircraft manufacturing plants in Everett and Renton, so it remains the largest private employer in the Seattle metropolitan area. Former Seattle Mayor Greg Nickels announced a desire to spark a new economic boom driven by the biotechnology industry in 2006. Major redevelopment of the South Lake Union neighborhood is underway, in an effort to attract new and established biotech companies to the city, joining biotech companies Corixa (acquired by GlaxoSmithKline), Immunex (now part of Amgen), Trubion, and ZymoGenetics. Vulcan Inc., the holding company of billionaire Paul Allen, is behind most of the development projects in the region. While some see the new development as an economic boon, others have criticized Nickels and the Seattle City Council for pandering to Allen's interests at taxpayers' expense. Also in 2006, Expansion Magazine ranked Seattle among the top 10 metropolitan areas in the nation for climates favorable to business expansion. In 2005, Forbes ranked Seattle as the most expensive American city for buying a house based on the local income levels. In 2013, however, the magazine ranked Seattle No. 9 on its list of the Best Places for Business and Careers.",
+    "Kathmandu is located in the northwestern part of the Kathmandu Valley to the north of the Bagmati River and covers an area of 50.67 km2 (19.56 sq mi). The average elevation is 1,400 metres (4,600 ft) above sea level. The city is directly bounded by several other municipalities of the Kathmandu valley: south of the Bagmati by Lalitpur Sub-Metropolitan City (Patan) with which it today forms one urban area surrounded by a ring road, to the southwest by Kirtipur Municipality and to the east by Madyapur Thimi Municipality. To the north the urban area extends into several Village Development Committees. However, the urban agglomeration extends well beyond the neighboring municipalities, e. g. to Bhaktapur and just about covers the entire Kathmandu valley.",
+    "Papa Roach is an American rock band from Vacaville, California, formed in 1993. The original lineup consisted of lead vocalist Jacoby Shaddix, guitarist Jerry Horton, drummer Dave Buckner, bassist Will James, and trombonist Ben Luther.",
+    "The city had a population of 1,307,402 according to the 2010 census, distributed over a land area of 372.1 square miles (963.7 km2). The urban area of San Diego extends beyond the administrative city limits and had a total population of 2,956,746, making it the third-largest urban area in the state, after that of the Los Angeles metropolitan area and San Francisco metropolitan area. They, along with the Riverside–San Bernardino, form those metropolitan areas in California larger than the San Diego metropolitan area, with a total population of 3,095,313 at the 2010 census.",
+    "In 2008, Houston received top ranking on Kiplinger's Personal Finance Best Cities of 2008 list, which ranks cities on their local economy, employment opportunities, reasonable living costs, and quality of life. The city ranked fourth for highest increase in the local technological innovation over the preceding 15 years, according to Forbes magazine. In the same year, the city ranked second on the annual Fortune 500 list of company headquarters, first for Forbes magazine's Best Cities for College Graduates, and first on their list of Best Cities to Buy a Home. In 2010, the city was rated the best city for shopping, according to Forbes.",
+    "Dharwad is the district headquarters of Dharwad district in the state of Karnataka, India. It was merged with the city of Hubballi in 1961 to form the twin cities of Hubballi-Dharwad. It covers an area of 200.23 km² and is located 430 km northwest of Bengaluru, on NH-48, between Bengaluru and Pune.",
+    "Southern California consists of a heavily developed urban environment, home to some of the largest urban areas in the state, along with vast areas that have been left undeveloped. It is the third most populated megalopolis in the United States, after the Great Lakes Megalopolis and the Northeastern megalopolis. Much of southern California is famous for its large, spread-out, suburban communities and use of automobiles and highways. The dominant areas are Los Angeles, Orange County, San Diego, and Riverside-San Bernardino, each of which is the center of its respective metropolitan area, composed of numerous smaller cities and communities. The urban area is also host to an international metropolitan region in the form of San Diego–Tijuana, created by the urban area spilling over into Baja California.",
+    "The Baylor College of Medicine has annually been considered within the top ten medical schools in the nation; likewise, the MD Anderson Cancer Center has consistently ranked as one of the top two U.S. hospitals specializing in cancer care by U.S. News & World Report since 1990. The Menninger Clinic, a renowned psychiatric treatment center, is affiliated with Baylor College of Medicine and The Methodist Hospital System. With hospital locations nationwide and headquarters in Houston, the Triumph Healthcare hospital system is the third largest long term acute care provider nationally.",
+    "Veoh is an Internet television company based in San Diego, California. It allows users to find and watch major studio content, independent productions and user-generated material. The company is a subsidiary of Israeli start-up Qlipso.",
+    "Stretching west from the Blue Ridge for approximately 55 miles (89 km) is the Ridge and Valley region, in which numerous tributaries join to form the Tennessee River in the Tennessee Valley. This area of Tennessee is covered by fertile valleys separated by wooded ridges, such as Bays Mountain and Clinch Mountain. The western section of the Tennessee Valley, where the depressions become broader and the ridges become lower, is called the Great Valley. In this valley are numerous towns and two of the region's three urban areas, Knoxville, the 3rd largest city in the state, and Chattanooga, the 4th largest city in the state. The third urban area, the Tri-Cities, comprising Bristol, Johnson City, and Kingsport and their environs, is located to the northeast of Knoxville.",
+    "A global city, Boston is placed among the top 30 most economically powerful cities in the world. Encompassing $363 billion, the Greater Boston metropolitan area has the sixth-largest economy in the country and 12th-largest in the world.",
+    "Katrineholm ( ) is a locality and the seat of Katrineholm Municipality, Södermanland County, Sweden with 21,993 inhabitants in 2010. It is located in the inland of Södermanland and is the third largest urban area in the county after Eskilstuna and county seat Nyköping.",
+    "Infest is the second studio album and major-label debut by the American rock band Papa Roach. It was released on April 25, 2000 through DreamWorks Records, and became the 20th highest-selling album of 2000 in the United States. The sound of the album is nu metal and rap metal. Many of the album songs contains rapping and hip hop influences. It was certified 3× Platinum in the U.S. on July 18, 2001, and peaked at  5 on the \"Billboard\" 200 chart. This album earned the band a Grammy nomination for Best New Artist. \"Infest\" has sold more than seven million copies worldwide with three million in U.S. and is their best-selling album to date.",
+    "The Charleston-North Charleston-Summerville Metropolitan Statistical Area consists of three counties: Charleston, Berkeley, and Dorchester. As of the 2013 U.S. Census, the metropolitan statistical area had a total population of 712,239 people. North Charleston is the second-largest city in the Charleston-North Charleston-Summerville Metropolitan Statistical Area and ranks as the third-largest city in the state; Mount Pleasant and Summerville are the next-largest cities. These cities combined with other incorporated and unincorporated areas along with the city of Charleston form the Charleston-North Charleston Urban Area with a population of 548,404 as of 2010. The metropolitan statistical area also includes a separate and much smaller urban area within Berkeley County, Moncks Corner (with a 2000 population of 9,123).",
+    "The state has one city with a population exceeding one million: Ciudad Juárez. Ciudad Juárez is ranked eighth most populous city in the country and Chihuahua City was ranked 16th most populous in Mexico. Chihuahua (along with Baja California) is the only state in Mexico to have two cities ranked in the top 20 most populated. El Paso and Ciudad Juárez comprise one of the largest binational metropolitan areas in the world with a combined population of 2.4 million. In fact, Ciudad Juárez is one of the fastest growing cities in the world in spite of the fact that it is \"the most violent zone in the world outside of declared war zones\". For instance, a few years ago the Federal Reserve Bank of Dallas published that in Ciudad Juárez \"the average annual growth over the 10-year period 1990–2000 was 5.3 percent. Juárez experienced much higher population growth than the state of Chihuahua and than Mexico as a whole\". Chihuahua City has one of the highest literacy rates in the country at 98%; 35% of the population is aged 14 or below, 60% 15-65, and 5% over 65. The growth rate is 2.4%. The 76.5% of the population of the state of Chihuahua live in cities which makes the state one of the most urbanized in Mexico.",
+    "Pune (Marathi pronunciation: (puɳe); English: / ˈpuːnə /;), formerly spelled Poona (1857 -- 1978), is the second largest city in the Indian state of Maharashtra, after Mumbai. It is the ninth most populous city in the country with an estimated population of 3.13 million. Along with its industrial twin Pimpri - Chinchwad as well as the three cantonment towns of Pune, Khadki and Dehu Road, Pune forms the urban core of the eponymous Pune Metropolitan Region (PMR). According to the 2011 census, the urban area has a combined population of 5.05 million while the population of the metropolitan region is estimated at 7.27 million. Situated 560 metres (1,837 feet) above sea level on the Deccan plateau on the right bank of the Mutha river, Pune is also the administrative headquarters of its namesake district. In the 18th century, the city was the seat of the Peshwas, the prime ministers of the Maratha Empire and so was one of the most important political centres on the Indian subcontinent.",
+    "Many Fortune 500 corporations are headquartered in New York City, as are a large number of foreign corporations. One out of ten private sector jobs in the city is with a foreign company. New York City has been ranked first among cities across the globe in attracting capital, business, and tourists. This ability to attract foreign investment helped New York City top the FDi Magazine American Cities of the Future ranking for 2013.",
+    "Jakarta (/ dʒ əˈkɑːrtə /, Indonesian pronunciation: (dʒaˈkarta)), officially the Special Capital Region of Jakarta, is the capital of Indonesia, which was formerly known as Batavia during Dutch East Indies and Sunda Kelapa during Sunda Kingdom. Located on the northwest coast of the world's most populous island of Java, Jakarta is the center of economics, culture and politics of Indonesia, with a population of 10,075,310 as of 2014. Greater Jakarta metropolitan area, which is known as Jabodetabek (a name formed by combining the initial syllables of Jakarta, Bogor, Depok, Tangerang and Bekasi), is the second largest urban agglomeration and 2nd largest city area in the world after Tokyo, with a population of 30,214,303 inhabitants as of 2010 census. Jakarta's business opportunities, as well as its potential to offer a higher standard of living, attract migrants from all over the Indonesian archipelago, making it a melting pot of many communities and cultures. Jakarta is officially a province with special capital region status, yet is commonly referred to as a city. The Jakarta provincial government administers five administrative cities and one administrative regency."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPapa Roach is an American rock band formed in Vacaville, California.\nVacaville is located in the state of California.\nThe top five largest urban areas in California are: Los Angeles, San Francisco, San Diego, Riverside-San Bernardino, and Sacramento.\nVeoh is an Internet television company based in San Diego, California.\nSan Diego is the third-largest urban area in California.\nVeoh's headquarters city ranks third among the top five largest urban areas in California.\n<answer> Third",
+  "predicted_answer": "Third",
+  "claims": [
+    "Papa Roach is an American rock band formed in Vacaville, California",
+    "Vacaville is located in the state of California",
+    "The top five largest urban areas in California are: Los Angeles, San Francisco, San Diego, Riverside-San Bernardino, and Sacramento",
+    "Veoh is an Internet television company based in San Diego, California",
+    "San Diego is the third-largest urban area in California",
+    "Veoh's headquarters city ranks third among the top five largest urban areas in California"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Papa Roach is an American rock band formed in Vacaville, California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Vacaville is located in the state of California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The top five largest urban areas in California are: Los Angeles, San Francisco, San Diego, Riverside-San Bernardino, and Sacramento",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Veoh is an Internet television company based in San Diego, California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "San Diego is the third-largest urban area in California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Veoh's headquarters city ranks third among the top five largest urban areas in California",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

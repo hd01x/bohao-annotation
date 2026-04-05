@@ -1,0 +1,192 @@
+{
+  "uid": "strategyqa__0f28837d8ce6901345bf",
+  "sample_id": "0f28837d8ce6901345bf",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could Brooke Shields succeed at University of Pennsylvania?",
+  "gold_answer": "yes",
+  "context": [
+    "Brooke Shields graduated from Princeton University.",
+    "Princeton is ranked as the number 1 national college by US news.",
+    "University of Pennsylvania is ranked as number 6 national college by US news.",
+    "Princeton only admits around 6 percent of applicants as of 2018.",
+    "University of Pennsylvania accepts around 9% of applicants as of 2018."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBrooke Shields graduated from Princeton University.\nPrinceton University is ranked as the number 1 national college by US News.\nUniversity of Pennsylvania is ranked as number 6 national college by US News.\nPrinceton admits around 6 percent of applicants as of 2018.\nUniversity of Pennsylvania accepts around 9 percent of applicants as of 2018.\nA lower acceptance rate indicates higher selectivity.\nBrooke Shields was admitted to Princeton University.\nPrinceton is more selective than the University of Pennsylvania.\nBrooke Shields met the academic standards required for admission to a highly selective institution.\nThe academic standards for University of Pennsylvania are less stringent than those for Princeton.\nBrooke Shields has demonstrated the academic capability to succeed at a top-tier university.\nBrooke Shields could succeed at University of Pennsylvania.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Brooke Shields graduated from Princeton University",
+    "Princeton University is ranked as the number 1 national college by US News",
+    "University of Pennsylvania is ranked as number 6 national college by US News",
+    "Princeton admits around 6 percent of applicants as of 2018",
+    "University of Pennsylvania accepts around 9 percent of applicants as of 2018",
+    "A lower acceptance rate indicates higher selectivity",
+    "Brooke Shields was admitted to Princeton University",
+    "Princeton is more selective than the University of Pennsylvania",
+    "Brooke Shields met the academic standards required for admission to a highly selective institution",
+    "The academic standards for University of Pennsylvania are less stringent than those for Princeton",
+    "Brooke Shields has demonstrated the academic capability to succeed at a top-tier university",
+    "Brooke Shields could succeed at University of Pennsylvania"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Brooke Shields graduated from Princeton University",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Princeton University is ranked as the number 1 national college by US News",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "University of Pennsylvania is ranked as number 6 national college by US News",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Princeton admits around 6 percent of applicants as of 2018",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "University of Pennsylvania accepts around 9 percent of applicants as of 2018",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A lower acceptance rate indicates higher selectivity",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Brooke Shields was admitted to Princeton University",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Princeton is more selective than the University of Pennsylvania",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "Brooke Shields met the academic standards required for admission to a highly selective institution",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "The academic standards for University of Pennsylvania are less stringent than those for Princeton",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "Brooke Shields has demonstrated the academic capability to succeed at a top-tier university",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "Brooke Shields could succeed at University of Pennsylvania",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

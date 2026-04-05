@@ -1,0 +1,124 @@
+{
+  "uid": "strategyqa__0ad62a523a3634a2a12a",
+  "sample_id": "0ad62a523a3634a2a12a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does Paulo Coelho's wife make a living through speech?",
+  "gold_answer": "no",
+  "context": [
+    "Paulo Coelho's wife is Christina Oiticica.",
+    "Christina Oiticica is a Brazilian artist.",
+    "Artists make a living through drawing things, which is done by their hands.",
+    "Speech is typically performed with one's mouth."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPaulo Coelho's wife is Christina Oiticica.\nChristina Oiticica is a Brazilian artist.\nArtists make a living through drawing things, which is done by their hands.\nSpeech is typically performed with one's mouth.\nDrawing is a hand-based activity, not speech.\nChristina Oiticica makes a living through drawing, not speech.\nPaulo Coelho's wife makes a living through drawing, not speech.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Paulo Coelho's wife is Christina Oiticica",
+    "Christina Oiticica is a Brazilian artist",
+    "Artists make a living through drawing things, which is done by their hands",
+    "Speech is typically performed with one's mouth",
+    "Drawing is a hand-based activity, not speech",
+    "Christina Oiticica makes a living through drawing, not speech",
+    "Paulo Coelho's wife makes a living through drawing, not speech"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Paulo Coelho's wife is Christina Oiticica",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Christina Oiticica is a Brazilian artist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Artists make a living through drawing things, which is done by their hands",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Speech is typically performed with one's mouth",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Drawing is a hand-based activity, not speech",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Christina Oiticica makes a living through drawing, not speech",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Paulo Coelho's wife makes a living through drawing, not speech",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

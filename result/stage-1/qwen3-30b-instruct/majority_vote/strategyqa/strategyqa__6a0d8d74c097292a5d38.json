@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__6a0d8d74c097292a5d38",
+  "sample_id": "6a0d8d74c097292a5d38",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Maroon 5 go on tour with Nirvana?",
+  "gold_answer": "no",
+  "context": [
+    "Maroon 5 formed in 2001.",
+    "Nirvana's final performances were in 1994."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMaroon 5 formed in 2001.\nNirvana's final performances occurred in 1994.\nThe years of Maroon 5's formation and Nirvana's final performances do not overlap.\nMaroon 5 did not exist during Nirvana's active years.\nMaroon 5 could not have gone on tour with Nirvana.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Maroon 5 formed in 2001",
+    "Nirvana's final performances occurred in 1994",
+    "The years of Maroon 5's formation and Nirvana's final performances do not overlap",
+    "Maroon 5 did not exist during Nirvana's active years",
+    "Maroon 5 could not have gone on tour with Nirvana"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Maroon 5 formed in 2001",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Nirvana's final performances occurred in 1994",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The years of Maroon 5's formation and Nirvana's final performances do not overlap",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Maroon 5 did not exist during Nirvana's active years",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Maroon 5 could not have gone on tour with Nirvana",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

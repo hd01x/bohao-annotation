@@ -1,0 +1,196 @@
+{
+  "uid": "medhop__MH_dev_199",
+  "sample_id": "MH_dev_199",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00030\", \"DB00098\", \"DB00107\", \"DB00918\", \"DB01277\", \"DB04088\", \"DB05101\", \"DB06693\", and \"DB08932\" interacts with DB02546?",
+  "gold_answer": "DB00030",
+  "context": [
+    "[ Synthesis of ( 2'-bromo-4 ' , 5'-dimethoxy-phenyl ) -(2,3-dibromo-4,5-dimethoxy-phenyl)-methane as P18031 inhibitor ] . OBJECTIVE : To synthesize (2'-bromo-4',5'-dimethoxy-phenyl)- ( 2,3- dibromo-4,5-dimethoxy-phenyl ) -methane ( 6 ) as protein tyrosine phosphatase 1B ( P18031 ) inhibitor . METHOD : DB04088 was synthesized by Friedel-Crafts reaction , bromination and decarbonylation and screened inhibitory activity against P18031 by the colorimetric assay . The structure of synthetic intermediates and target product were identified on the basis of spectral analysis . RESULT : DB04088 was synthesized successfully in four steps and evaluated for its P18031 inhibitory activity , the screening result shown that compound 6 displayed good inhibitory activity against P18031 . CONCLUSION : The target compound 6 was synthesized with the overall yield of 20 % , which was a new compound and shown good inhibitory activity against P18031 ( inhibition 40.16 % at 5 mg x L(-1) ) .",
+    "Histone deacetylase inhibitors increase microRNA-146a expression and enhance negative regulation of interleukin-1β signaling in osteoarthritis fibroblast-like synoviocytes . OBJECTIVE : MiR-146a exerts negative control on inflammatory responses by suppressing cytokine-induced expression of interleukin-1 receptor-associated kinase-1 ( P51617 ) and tumor necrosis factor receptor-associated factor 6 ( Q9Y4K3 ) by impairing NF-κB activity and inhibiting the expression of target genes . Recent study suggests that histone deacetylases ( HDACs ) are involved in the regulation of microRNA ( miRNA ) expression . Therefore , we determined whether HDAC inhibitors can increase miR-146a expression , thereby inhibiting interleukin-1β ( IL-1β ) -induced signaling in osteoarthritis fibroblast-like synoviocytes ( OA-FLS ) . METHOD : MiRNA expression was analyzed using real-time PCR . IL-1β-induced downstream signals and cytokine expression were evaluated using Western blotting and ELISA . Transcription factors regulating promoter activation were identified using chromatin immunoprecipitation assays . RESULTS : IL-1β treatment of OA-FLS induced a mild ( 1.7-fold ) increase in miR-146a expression that was unable to appropriately downregulate P51617 and Q9Y4K3 expression . HDAC inhibitors , DB02546 ( vorinostat ) , and LBH589 ( DB06603 ) significantly ( 6.1- and 5.4-fold ) elevated miR-146a expression by increasing the binding of the transcription factor NF-κB to the miR-146a promoter , and negatively regulated IL-1β-induced IKK/IκB/p65 phosphorylation signaling and P05231 secretion . The increase in miR-146a expression induced by the HDAC inhibitors was prevented by transfection of miR-146a inhibitor or Q13547 ( class I HDAC ) , P56524 ( class IIa HDAC ) , and Q9UBN7 ( class IIb HDAC ) overexpression , suggesting that they were due to inhibition of HDAC activity . CONCLUSIONS : Our study demonstrated that HDAC inhibitor treatment in OA-FLS significantly increased miR-146a expression and mediated markedly negative regulation to inhibit IL-1β-induced signaling and cytokine secretion . Our results indicate the potential rationale of anti-inflammatory effects for HDAC inhibitors .",
+    "DB00107 predominantly excites putative oxytocin neurons in the rat supraoptic nucleus in vitro . To determine the oxytocin ( P01178 ) sensitivity of neurons in the supraoptic nucleus ( P18583 ) , extracellular recordings were made from the rat hypothalamic slice preparation . P01178 added to the bathing medium ( 3 X 10(-7) M ) excited 13 ( 93 % ) of 14 cells which fired continuously ( average 4.9 +/- 0.7 spikes/s ) and 26 ( 81 % ) of 32 cells which fired slowly and irregularly ( average 1.4 +/- 0.4 spikes/s ) . By contrast , only 2 ( 8 % ) of 26 phasically firing neurons were excited and none of the P18583 cells tested were inhibited . The excitation was reversibly antagonized by a synthetic P01178 analogue , 1-deamino- [ 2-(O-methyltyrosine) , 4-valine , 8-D-arginine ] vasopressin . The results suggest that P01178 exerts predominantly excitatory effects in the P18583 and that putative P01178 cells are more likely to be affected than putative vasopressin cells .",
+    "Effect of thymoglobulin induction on HIV-infected renal transplant recipients : differences between HIV-positive and HIV-negative patients . The best immunosuppressive regimen in HIV-infected renal transplant recipients has not been established . DB00098 has been associated with an increased risk of serious bacterial infections in HIV-negative patients and , for this reason , there is some concern over its use in the HIV-infected population . We describe three consecutive HIV-infected renal transplant recipients who received thymoglobulin as induction therapy , and we compared their progress with a cohort of 23 HIV-negative recipients . Median follow-up was 24 and 11 months , respectively . Nadir lymphocytopenia was observed at 1 week in both groups , and their absolute lymphocyte count recovery was similar . An early and deep ( < 30 cells/mm(3) ) P01730 (+) T cell lymphocytopenia was seen in two of the three HIV-infected patients . No opportunistic infections were diagnosed in HIV-positive patients . One HIV-positive patient had a bacterial infection and five HIV-negative patients had one or more bacterial infections . DB00098 was safe in our three HIV-infected renal transplant recipients . Until those data are confirmed in larger studies , close monitoring is recommended during the thymoglobulin-induced P01730 (+) T cell lymphocytopenia period .",
+    "Age-related changes in rat bone-marrow mesenchymal stem cell plasticity . BACKGROUND : The efficacy of adult stem cells is known to be compromised as a function of age . This therefore raises questions about the effectiveness of autologous cell therapy in elderly patients . RESULTS : We demonstrated that the expression profile of stemness markers was altered in BM-MSCs derived from old rats . BM-MSCs from young rats ( 4 months ) expressed Q01860 , Sox-2 and Q9H9S0 , but we failed to detect Sox-2 and Q9H9S0 in BM-MSCs from older animals ( 15 months ) . Chondrogenic , osteogenic and adipogenic potential is compromised in old BM-MSCs . Stimulation with a cocktail mixture of bone morphogenetic protein ( P12643 ) , fibroblast growth factor ( P09038 ) and insulin-like growth factor ( DB01277 ) induced cardiomyogenesis in young BM-MSCs but not old BM-MSCs . Significant differences in the expression of gap junction protein connexin-43 were observed between young and old BM-MSCs . Young and old BM-MSCs fused with neonatal ventricular cardiomyocytes in co-culture and expressed key cardiac transcription factors and structural proteins . Cells from old animals expressed significantly lower levels of P15692 , IGF , P01133 , and DB00099 . Significantly higher levels of DNA double strand break marker γ- P16104 and diminished levels of telomerase activity were observed in old BM-MSCs . CONCLUSION : The results suggest age related differences in the differentiation capacity of BM-MSCs . These changes may affect the efficacy of BM-MSCs for use in stem cell therapy .",
+    "Combined effects of C225 and 125-iodine seed radiation on colorectal cancer cells . BACKGROUND : To characterize the effect of combined treatment of the anti-epidermal growth factor receptor ( P00533 ) monoclonal antibody C225 and 125-iodine ( 125I ) seed radiation in human colorectal cancer . METHODS : We treated LS180 cells with 125I continuous low dose rate radiation in the presence and absence of 100 nM C225 . The clonogenic capacity , cellular proliferation , cell cycle distribution , apoptosis , and molecular pathways of the cells following the treatments were analyzed in vitro . RESULTS : The sensitizer enhancement ratio of C225 was approximately 1.4 . Treatment with C225 and radiation alone produced significant inhibition of cell growth , but combination therapy produced greater inhibition than either treatment administered alone . C225 increased the radiation-induced apoptosis and the fraction of γ- P16104 foci positive cells at 48 h after treatment . The Akt phosphorylation level was lower in the cells receiving the combination treatment than in the cells treated with radiation or C225 alone . CONCLUSIONS : These findings indicate that C225 sensitizes LS180 cells to 125I seed radiation . Growth inhibition is mediated by inducing apoptosis and not cell cycle arrest . Additionally , we confirmed that C225 impairs DNA repair by reducing the cellular level of the P78527 and P12956 proteins . Furthermore , the inhibition of Akt signaling activation may be responsible for the C225-mediated radiosensitization .",
+    "Transcriptional alterations of ET-1 axis and DNA damage in lung tissue of a rat obesity model . Obesity has been implicated in the development of many cancers . This can lead to genome damage , especially in the form of double-strand break , the presence of which is now easily detected through nuclear phosphorylation of histone P16104 ( γ- P16104 ) focus assay . Recently , the endothelin ( ET ) axis has also been shown to have a role in the growth and progression of several tumors , including lung cancer . The aim of this study was to evaluate the ET-1 system transcriptional alterations and γ- P16104 in lung tissue of Zucker rats subdivided into obese ( O , n=22 ) and controls ( CO , n=18 ) rats : under either fasting conditions ( CO(fc)-O(fc) ) or acute hyperglycemia ( CO(AH)-O(AH) ) . Significantly higher prepro-ET-1 ( p=0.05 ) and ET-converting enzyme ( ECE ) -2 mRNA expression was observed in O with respect to CO . A significant positive association was observed between prepro-ET-1 and P25101 in the whole rat population ( p=0.009 ) or in the obese group alone ( p=0.007 ) . The levels of γ- P16104 in O and in O(AH) rats were significantly higher ( p=0.019 ) than in the corresponding CO and CO(AH) rats ( p=0.038 ) . The study shows an inappropriate secretion of ET-1 in O animals with a parallel DNA damage in their lungs , providing novel mechanisms by which ET receptor antagonist may exert organ protection .",
+    "The novel phospho-non-steroidal anti-inflammatory drugs , P01178 -328 , MDC-22 and MDC-917 , inhibit adjuvant-induced arthritis in rats . BACKGROUND AND PURPOSE : The use of non-steroidal anti-inflammatory drugs ( NSAIDs ) in the treatment of rheumatoid arthritis ( RA ) is limited by their toxicity . We evaluated the anti-inflammatory efficacy and safety of three novel modified NSAIDs , phospho-aspirin , phospho-ibuprofen and phospho-sulindac . EXPERIMENTAL APPROACH : We determined the anti-inflammatory effects and gastrointestinal safety of the phospho-NSAIDs in the rat adjuvant arthritis model and studied their mechanism of action in cultured cells , Cytokines were measured with elisa and activation of nuclear factor-κB ( NF-κB ) by immunohistochemistry . KEY RESULTS : All three phospho-NSAIDs showed less gastrointestinal toxicity than their parent compounds and demonstrated strong anti-inflammatory effects , essentially reversing joint inflammation and oedema . They have a broad but not uniform effect on the expression of relevant cytokines , in general decreasing P05231 and IL-1β and increasing P22301 levels in rat plasma and cultured cells . Phospho-sulindac and phospho-ibuprofen but not phospho-aspirin suppressed PGE(2) production in vitro , whereas phospho-aspirin ( in contrast to aspirin ) showed the same effect in vivo . In joint tissues , phospho-aspirin inhibited NF-κB activation , and suppressed inflammation and bone resorption . Phospho-aspirin also inhibited Jurkat T cell proliferation . In general , phospho-aspirin had greater efficacy but different effects upon inflammatory mediators compared with aspirin . The chemical modification of the parent NSAIDs seems crucial for their safety and efficacy . CONCLUSIONS AND IMPLICATIONS : Phospho-aspirin , phospho-ibuprofen and phospho-sulindac were safer than their parent NSAIDs , were highly effective in rat adjuvant arthritis and inhibited many key mediators in the pathophysiology of RA . These novel compounds are promising candidate drugs for the treatment of RA and merit further evaluation .",
+    "DB09341 and fructose have sugar-specific effects in both liver and skeletal muscle in vivo : a role for liver fructokinase . We examined glucose and fructose effects on serine phosphorylation levels of a range of proteins in rat liver and muscle cells . For this , healthy adult rats were subjected to either oral glucose or fructose loads . A mini-array system was utilized to determine serine phosphorylation levels of liver and skeletal muscle proteins . A glucose oral load of 125 mg/100 g body weight ( G 1/2 ) did not induce changes in phosphorylated serines of the proteins studied . Loading with 250 mg/100 g body weight of fructose ( Fr ) , which induced similar glycemia levels as G 1/2 , significantly increased serine phosphorylation of liver cyclin D3 , P19957 kinase/p85 , P28482 , PTP2 and clusterin . The G 1/2 increased serine levels of the skeletal muscle proteins cyclin H , Cdk2 , P51617 , total PKC , P18031 , c-Raf 1 , Ras and the β-subunit of the insulin receptor . The Fr induced a significant increase only in muscle serine phosphorylation of P19957 kinase/p85 . The incubation of isolated rat hepatocytes with 10 mM glucose for 5 min significantly increased serine phosphorylation of 31 proteins . In contrast , incubation with 10 mM fructose produced less intense effects . Incubation with 10 mM glucose plus 75 µM fructose counteracted the effects of the incubation with glucose alone , except those on P04049 and Ras . Less marked effects were detected in cultured muscle cells incubated with 10 mM glucose or 10 mM glucose plus 75 µM fructose . Our results suggest that glucose and fructose act as specific functional modulators through a general mechanism that involves liver-generated signals , like micromolar fructosemia , which would inform peripheral tissues of the presence of either glucose- or fructose-derived metabolites .",
+    "DB08932 ( Opsumit ) for the treatment of pulmonary arterial hypertension . The endothelin pathway is a key pathway for the pathogenesis of pulmonary arterial hypertension ( PAH ) . Antagonism of this pathway is recommended as initial therapy in low-risk patient with PAH to inhibit fibrosis , cell proliferation , and inflammation caused by endothelin . Prior to October 2013 , ambrisentan , a selective P25101 receptor antagonist and DB00559 , a dual P25101 /ETB antagonist , were the only currently available agents for PAH targeting the endothelin pathway . Based on the results of the SERAPHIN trial , macitentan ( brand name Opsumit® ) , a new P25101 /ETB antagonist , has been US FDA approved to delay disease progression and reduce hospitalizations for PAH . SERAPHIN is the first ERA trial to use an event-driven strategy with a composite primary end point of morbidity or mortality . Previous trials have focused on short-term outcomes , such as improved 6-min walk distance and WHO functional class .",
+    "Safety profile of almotriptan , a new antimigraine agent . Effects on central nervous system , renal function and respiratory dynamics . DB00918 ( 3- [ 2-(dimethylamino) ethyl ] -5-(pyrrolidin-1-ylsulfonylmethyl)-1H-indole , CAS 154323-57-6 ) is a new P28222 /1D agonist whose clinical efficacy has been demonstrated in Phase III clinical trials . This study aimed to evaluate the safety of almotriptan with respect to the central nervous system , renal function and respiratory dynamics using preclinical animal models . The results indicate that almotriptan does not cross the blood-brain barrier , since no effects on/interaction with spontaneous locomotor activity , hexobarbital-induced sleeping time , caffeine-induced increase of spontaneous locomotor activity , or hypothermia ( caused by stimulation of central P28221 receptors ) was observed following treatment . DB00918 had a mild antiemetic effect and a slight , transient diuretic effect in dogs , although the latter effect is probably of no clinical relevance . In addition , no effect on the respiratory system of conscious guinea pigs was observed following almotriptan treatment . These results indicate that almotriptan has a favourable safety profile with respect to the central nervous , renal and respiratory systems .",
+    "Calorie restriction promotes mammalian cell survival by inducing the Q96EB6 deacetylase . A major cause of aging is thought to result from the cumulative effects of cell loss over time . In yeast , caloric restriction ( CR ) delays aging by activating the Sir2 deacetylase . Here we show that expression of mammalian Sir2 ( Q96EB6 ) is induced in CR rats as well as in human cells that are treated with serum from these animals . P01308 and insulin-like growth factor 1 ( DB01277 ) attenuated this response . Q96EB6 deacetylates the DNA repair factor P12956 , causing it to sequester the proapoptotic factor Bax away from mitochondria , thereby inhibiting stress-induced apoptotic cell death . Thus , CR could extend life-span by inducing Q96EB6 expression and promoting the long-term survival of irreplaceable cells .",
+    "Selective inhibition of histone deacetylase 6 ( Q9UBN7 ) induces DNA damage and sensitizes transformed cells to anticancer agents . Q9UBN7 ( Q9UBN7 ) is structurally and functionally unique among the 11 human zinc-dependent histone deacetylases . Here we show that chemical inhibition with the Q9UBN7 -selective inhibitor tubacin significantly enhances cell death induced by the topoisomerase II inhibitors etoposide and doxorubicin and the pan-HDAC inhibitor DB02546 ( vorinostat ) in transformed cells ( LNCaP , MCF-7 ) , an effect not observed in normal cells ( human foreskin fibroblast cells ) . The inactive analogue of tubacin , nil-tubacin , does not sensitize transformed cells to these anticancer agents . Further , we show that down-regulation of Q9UBN7 expression by shRNA in LNCaP cells enhances cell death induced by etoposide , doxorubicin , and DB02546 . Tubacin in combination with DB02546 or etoposide is more potent than either drug alone in activating the intrinsic apoptotic pathway in transformed cells , as evidenced by an increase in PARP cleavage and partial inhibition of this effect by the pan-caspase inhibitor Z-VAD-fmk . Q9UBN7 inhibition with tubacin induces the accumulation of γ P16104 , an early marker of DNA double-strand breaks . Tubacin enhances DNA damage induced by etoposide or DB02546 as indicated by increased accumulation of γ P16104 and activation of the checkpoint kinase Chk2 . Tubacin induces the expression of P35638 ( P35638 / P35638 ) , a transcription factor up-regulated in response to cellular stress . P35638 induction is further increased when tubacin is combined with DB02546 . These findings point to mechanisms by which Q9UBN7 -selective inhibition can enhance the efficacy of certain anti-cancer agents in transformed cells .",
+    "Identification of an acetylation-dependant P12956 /FLIP complex that regulates FLIP expression and HDAC inhibitor-induced apoptosis . FLIP is a potential anti-cancer therapeutic target that inhibits apoptosis by blocking caspase 8 activation by death receptors . We report a novel interaction between FLIP and the DNA repair protein P12956 that regulates FLIP protein stability by inhibiting its polyubiquitination . Furthermore , we found that the histone deacetylase ( HDAC ) inhibitor DB02546 ( DB02546 ) enhances the acetylation of P12956 , thereby disrupting the FLIP/ P12956 complex and triggering FLIP polyubiquitination and degradation by the proteasome . Using in vitro and in vivo colorectal cancer models , we further demonstrated that DB02546 -induced apoptosis is dependant on FLIP downregulation and caspase 8 activation . In addition , an Q9UBN7 -specific inhibitor Tubacin recapitulated the effects of DB02546 , suggesting that Q9UBN7 is a key regulator of P12956 acetylation and FLIP protein stability . Thus , HDAC inhibitors with anti- Q9UBN7 activity act as efficient post-transcriptional suppressors of FLIP expression and may , therefore , effectively act as ' FLIP inhibitors ' .",
+    "P01308 action on H292 bronchial carcinoma cells as compared to normal bronchial epithelial cells . DB00030 may contribute to bronchial carcinoma due to P08069 activation by high local concentrations . Therefore , effects of insulin and P05019 on human bronchial carcinoma cells ( H292 ) and normal bronchial epithelium cells ( P02100 ) were studied . TGF-β was included since it also influences carcinoma progression . H292 and P02100 cells expressed both the insulin receptor and the P08069 ; in H292 cells an additional , shorter , splicing variant ( IR-A ) of the insulin receptor was present . P06213 expression was around four to five times higher in H292 than in P02100 cells at mRNA and protein levels . P01308 and TGF-β exerted contrary actions on proliferation and gene expression in H292 cells . Genes regulated by insulin , P05019 , and TGF-β were linked to inflammation , cell adhesion , muscle contraction and differentiation . P01308 and P05019 also suppressed DNA repair genes . EC(50) for insulin-induced proliferation was around 5 nM in H292 and around 30 nM P02100 cells . The EC(50) values for gene expression ranged from 9 to 90 nM in both cell types , dependent on the gene studied . In H292 cells , the proliferative response was much stronger if TGF-β was present . In P02100 cells this interaction of insulin and TGF-β was not observed , and changes in gene expression were mostly lower by at least 10-fold as compared to H292 . All in all , the insulin effects in H292 were generally much stronger than in P02100 cells and - with regard to proliferation - occurred at lower concentrations . Thus , insulin will hardly induce cancer from normal bronchial cells but may favour progression of pre-existing tumours .",
+    "The chronic oral administration of arginine aspartate decreases secretion of DB01277 and P17936 in healthy volunteers . To investigate the effect of chronic oral arginine aspartate on the growth hormone ( GH ) , GH-releasing hormone ( P01286 ) , insulin-like growth factor-1 ( DB01277 ) and IGF-binding protein-3 ( P17936 ) secretions in healthy volunteers . Twenty-three healthy non-athlete volunteer males were administered arginine aspartate ( 30 g ) orally once daily at 21:00 h for 21 consecutive days . Subjects were hospitalized on days 0 , 1 , 3 , 5 , 7 , 14 and 21 of treatment . At each hospitalization , concentrations of P01286 , GH , DB01277 and P17936 were measured over 4 h after arginine aspartate intake . GH , DB01277 and P17936 concentrations were also determined over 12 h at days 0 , 1 and 21 . Compared with day 1 , 4 h GH levels dropped at day 5 and subsequently rose to levels not significantly different from initial ones . The latter was substantiated by 12 h GH levels that did not significantly change from days 1 to 21 . P01286 levels were not statistically different , although there was a trend in median values that seemed to inversely mirror those of GH . This dynamic over the course of the study for GH and P01286 was accompanied by a general decrease in DB01277 and P17936 . In healthy volunteers , a chronic oral treatment with 30 g/day arginine aspartate is followed by a decrease in DB01277 and P17936 secretions .",
+    "A phase I pharmacokinetic study of matuzumab in combination with paclitaxel in patients with P00533 -expressing advanced non-small cell lung cancer . DB05101 is a humanized IgG1 P00533 monoclonal antibody . This phase I study investigated the tolerability , safety and pharmacokinetics ( PK ) of matuzumab in combination with paclitaxel in patients with P00533 -expressing advanced non-small cell lung cancer ( NSCLC ) . Six dose levels/schedules of matuzumab were explored in combination with paclitaxel . Dose was escalated from 100 mg to 1,600 mg on a modified Fibonacci scheme according to the incidence of dose-limiting toxicity ( DLT ) over the first two cycles . DLT was assessed in patients who completed the first two treatment cycles or who stopped treatment because of a DLT during those cycles . Patients with non-progressive disease could then continue to receive study treatment for up to 6 months . The safety population comprised 44 patients , with DLT evaluable in 33 . The maximum tolerated dose was not reached , with only one DLT reported at the 1,600 mg 3-weekly dose level . The most frequent grade 3/4 adverse events across all cycles were dyspnea ( 23 % ) and neutropenia ( 11 % ) . DB05101 exhibited non-linear PK , with accumulation after escalation and repeated dosing . Tumor growth control was seen in 15/44 ( 34 % ) patients , including 5/9 ( 56 % ) at the 800 mg weekly dose level . DB05101 combined with paclitaxel was generally well tolerated in patients with advanced NSCLC . There was some evidence of anticancer activity in relation to the matuzumab 800 mg weekly dose .",
+    "P40189 -linked signal transduction promotes the differentiation and maturation of dendritic cells . In order to explore the role of P40189 -linked signal transduction in the differentiation and maturation of dendritic cells ( DC ) , the mAb , B- P28222 , an agonist of P40189 , was used for the activation of P40189 on DC . The effects of cytokines and of anti- P40189 mAb on the proliferation of DC , and their expression of IL-12 and P33681 ( P33681 -1 ) by DC were evaluated . DC differentiating from peripheral blood mononuclear cells did not express the P05231 receptor alpha chain , but expressed P40189 . Anti- P40189 mAb promoted the proliferation of DC , induced by P05112 and granulocyte macrophage colony stimulating factor ( GM- P04141 ) , by up-regulating the GM- P04141 receptor on DC . DC induced by P40189 mAb and cytokines expressed DC-derived CC chemokine , as measured by RT-PCR . Induced DC also stimulated strong proliferation of autologous T cells in mixed lymphocyte reaction since an up-regulated expression of IL-12 and P33681 ( P33681 -1 ) was observed in DC activated by anti- P40189 mAb . Thus , P40189 signal transduction is important for the differentiation and maturation of DC .",
+    "P12956 and ku80 null mutants improve the gene targeting frequency in Monascus ruber M7 . Normally , gene targeting by homologous recombination occurs rarely during a transformation process since non-homologous recombination is predominant in filamentous fungi . In our previous researches , the average gene replacement frequency ( P01286 ) in Monascus ruber M7 was as low as 15 % . To develop a highly efficient gene targeting system for M. ruber M7 , two M. ruber M7 null mutants of ku70 ( MrΔku70 ) and ku80 ( MrΔku80 ) were constructed which had no apparent defects in the development including vegetative growth , colony phenotype , microscopic morphology and spore yield compared with M. ruber M7 . In addition , the production of some significant secondary metabolites such as pigments and citrinin had no differences between the two disruptants and the wild-type strain . Further results revealed that the GRFs of triA ( encoding a putative acetyltransferase ) were 42.2 % and 61.5 % in the MrΔku70 and MrΔku80 strains , respectively , while it was only about 20 % in M. ruber M7 . Furthermore , GRFs of these two disruptants at other loci ( the pigE , fmdS genes in MrΔku70 and the ku70 gene in MrΔku80 ) were investigated , and the results indicated that GRFs in the MrΔku70 strain and the MrΔku80 strain were doubled and tripled compared with that in M. ruber M7 , respectively . Therefore , the ku70 and ku80 null mutants of M. ruber M7 , especially the ku80-deleted strain , will be excellent hosts for efficient gene targeting .",
+    "DB06693 and simvastatin , but not pravastatin , induce bone morphogenetic protein-2 in human osteosarcoma cells . Bone morphogenetic protein ( BMP ) -2 , a member of the BMP family , plays an important role in osteoblast differentiation and bone formation . To discover small molecules that induce P12643 , a luciferase reporter vector containing the 5'-flanking promoter region of the human P12643 gene was constructed and transfected into human osteosarcoma ( Q9UKB1 ) cells . By the screening of an in-house natural product library with stably transfected Q9UKB1 cells , a fungal metabolite , compactin , known as an inhibitor of 3-hydroxy-3-methylglutaryl coenzyme A ( HMG- DB01992 ) reductase , was isolated . The stimulation of the promoter activity by compactin seemed to be specific for P12643 gene in Q9UKB1 cells , since it had little effect on P12644 or SV40 promoter activity and the stimulation was not observed in Chinese hamster ovary ( CHO ) cells . RT-PCR analysis and alkaline phosphatase assay revealed that compactin induced an increase in the expression of P12643 mRNA and protein . Like compactin , simvastatin also activated the P12643 promoter , whereas pravastatin did not . The statin-mediated activation of P12643 promoter was completely inhibited by the downstream metabolite of P04035 , mevalonate , indicating that the activation was a result of the inhibition of the enzyme . These results suggest that statins , if they are selectively targeted to bone , have beneficial effects in the treatment of osteoporosis or bone fracture .",
+    "Selective targeting of the repressive transcription factors P25490 and cMyc to disrupt quiescent human immunodeficiency viruses . Quiescent HIV-1 infection of resting P01730 (+) T cells is an obstacle to eradication of HIV-1 infection . These reservoirs are maintained , in part , by repressive complexes that bind to the HIV-1 long terminal repeat ( LTR ) and recruit histone deacetylases (HDACs). cMyc and P25490 are two transcription factors that are recruited as part of well-described , distinct complexes to the HIV-1 LTR and in turn recruit HDACs . In prior studies , depletion of single factors that recruit Q13547 in various cell lines was sufficient to upregulate LTR activity . We used short hairpin RNAs ( shRNAs ) to test the effect of targeted disruption of a single transcription factor on quiescent proviruses in T cell lines . In this study , we found that depletion of P25490 significantly increases mRNA and protein expression from the HIV-1 promoter in some contexts , but does not affect Q13547 , Q92769 , O15379 , or acetylated histone 3 occupancy of the HIV-1 LTR . Conversely , depletion of cMyc or cMyc and P25490 does not significantly alter the level of transcription from the LTR or affect recruitment of HDACs to the HIV-1 LTR . Furthermore , global inhibition of HDACs with the HDAC inhibitor suberoylanilide hydroxamic acid ( DB02546 ) enhanced the increase in LTR transcription in cells that were depleted of P25490 .These findings show that despite prior isolated findings , redundancy in repressors of HIV-1 LTR expression will require selective targeting of multiple restrictive mechanisms to comprehensively induce the escape of quiescent proviruses from latency ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB02546 is an HDAC inhibitor, specifically vorinostat.\nDB02546 increases miR-146a expression by enhancing NF-κB binding to the miR-146a promoter in osteoarthritis fibroblast-like synoviocytes.\nDB02546 enhances acetylation of P12956, disrupting the FLIP/P12956 complex and triggering FLIP degradation.\nDB02546 is used in combination with tubacin, a Q9UBN7-selective inhibitor, to enhance apoptosis in colorectal cancer models.\nDB02546 induces P35638 expression, a stress-response transcription factor, and its effect is amplified when combined with tubacin.\nDB02546 is also used in combination with etoposide and doxorubicin to enhance cell death in transformed cells.\nDB02546 inhibits HDAC activity, which leads to increased acetylation of P12956 and subsequent FLIP degradation.\nDB02546 is a key agent in the study of FLIP regulation via P12956 acetylation.\nDB02546 interacts with Q9UBN7, as shown by the fact that tubacin, a Q9UBN7-selective inhibitor, recapitulates the effects of DB02546.\nDB02546 interacts with Q9UBN7, a class IIb HDAC, to regulate FLIP expression and induce apoptosis.\nDB02546 interacts with Q9UBN7.\n<answer> Q9UBN7",
+  "predicted_answer": "Q9UBN7",
+  "claims": [
+    "DB02546 is an HDAC inhibitor, specifically vorinostat",
+    "DB02546 increases miR-146a expression by enhancing NF-κB binding to the miR-146a promoter in osteoarthritis fibroblast-like synoviocytes",
+    "DB02546 enhances acetylation of P12956, disrupting the FLIP/P12956 complex and triggering FLIP degradation",
+    "DB02546 is used in combination with tubacin, a Q9UBN7-selective inhibitor, to enhance apoptosis in colorectal cancer models",
+    "DB02546 induces P35638 expression, a stress-response transcription factor, and its effect is amplified when combined with tubacin",
+    "DB02546 is also used in combination with etoposide and doxorubicin to enhance cell death in transformed cells",
+    "DB02546 inhibits HDAC activity, which leads to increased acetylation of P12956 and subsequent FLIP degradation",
+    "DB02546 is a key agent in the study of FLIP regulation via P12956 acetylation",
+    "DB02546 interacts with Q9UBN7, as shown by the fact that tubacin, a Q9UBN7-selective inhibitor, recapitulates the effects of DB02546",
+    "DB02546 interacts with Q9UBN7, a class IIb HDAC, to regulate FLIP expression and induce apoptosis",
+    "DB02546 interacts with Q9UBN7"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB02546 is an HDAC inhibitor, specifically vorinostat",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB02546 increases miR-146a expression by enhancing NF-κB binding to the miR-146a promoter in osteoarthritis fibroblast-like synoviocytes",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB02546 enhances acetylation of P12956, disrupting the FLIP/P12956 complex and triggering FLIP degradation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB02546 is used in combination with tubacin, a Q9UBN7-selective inhibitor, to enhance apoptosis in colorectal cancer models",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB02546 induces P35638 expression, a stress-response transcription factor, and its effect is amplified when combined with tubacin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB02546 is also used in combination with etoposide and doxorubicin to enhance cell death in transformed cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB02546 inhibits HDAC activity, which leads to increased acetylation of P12956 and subsequent FLIP degradation",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB02546 is a key agent in the study of FLIP regulation via P12956 acetylation",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB02546 interacts with Q9UBN7, as shown by the fact that tubacin, a Q9UBN7-selective inhibitor, recapitulates the effects of DB02546",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB02546 interacts with Q9UBN7, a class IIb HDAC, to regulate FLIP expression and induce apoptosis",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB02546 interacts with Q9UBN7",
+      "claim_type": "FC",
+      "votes": {
+        "DR": 1,
+        "FC": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

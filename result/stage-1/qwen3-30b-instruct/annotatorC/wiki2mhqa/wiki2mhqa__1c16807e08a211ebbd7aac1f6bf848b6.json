@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__1c16807e08a211ebbd7aac1f6bf848b6",
+  "sample_id": "1c16807e08a211ebbd7aac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director died earlier, The Nun And The Devil or Aladdin'S Other Lamp?",
+  "gold_answer": "Aladdin'S Other Lamp",
+  "context": [
+    "Guda was a 12 th- century nun and illuminator.",
+    "The Nun and the Bandit is an Australian film directed by Paul Cox.",
+    "John H. Collins (December 31, 1889 - October 31, 1918) was an American writer and director of the silent film era. He married film actress Viola Dana. His career was cut short when he died due to the flu epidemic in 1918. During his career which began in 1914, he directed more than 40 features and film shorts, and wrote the scenario for over a dozen more features. His 1917 film The Girl Without a Soul was selected by the National Film Registry to be preserved by the Library of Congress. His final works were shown posthumously in 1919.",
+    "The Nun and the Sergeant is a 1962 Korean War drama starring Anna Sten and Robert Webber in the title roles. It was produced by Sten's husband Eugene Frenke, who had produced\" Heaven Knows, Mr Allison\", also a pairing of a Catholic nun and a U.S. Marine. It was directed by Franklin Adreon and released through United Artists.",
+    "Domenico Paolella( 18 October 1915- 7 October 2002) was an Italian director, screenwriter and journalist. Born in Foggia, between 1933 and 1935 Paolella won several contests for amateur directors; in the same years he started working as a journalist for several newspapers and magazines. In 1937 he entered the film industry as assistant of Carmine Gallone for\" Scipio the African\", and the following year made his debut as a director of short films. During the war he was correspondent from the Soviet front. From 1946 to 1951 he was artistic director and chief editor of the INCOM newsreel production company. In 1939 Paolella directed his first feature film,\" The Last of the Road\". In subsequent years, he first directed a series of musical films of great success produced by Carlo Infascelli, then he specialized in the comic genre. Paolella directed his last film in 1979, and briefly rejoined the industry in the early nineties when he collaborated on several screenplays for films directed by Sergio Sollima, Stelvio Massi, Lamberto Bava and Aldo Lado.",
+    "Art of the Devil (or Khon len khong) is a 2004 Thai horror film directed by Tanit Jitnukul. It has two titular sequels, \"Art of the Devil 2\" (2005) and \"Art of the Devil 3\" (2008), but these films feature a different story with new characters.",
+    "The Nun is an English- language 2005 Spanish horror film directed by Luis De La Madrid.",
+    "The Nun and the Devil, or\" Le Monache di Sant'Arcangelo\" in the original Italian, is an erotic 1973- Italian nunsploitation film directed by Domenico Paolella. It is also known as:\" Sisters of Satan\"( UK) and\" The Nuns of Saint Archangel\"( US). The action is set in the 16th century at the convent of Sant Arcangelo, near Naples, then under Spanish rule. The success of the film resulted in another period drama/ nunsploitation film by Paolella released the same year,\" Story of a Cloistered Nun\", an Italian/ French/ West German co-production starring Eleonora Giorgi. The opening credits state that the movie is\" Based on authentic 16th Century records and a story by Stendhal\" -- possibly Stendhal's\" L'Abbesse de Castro\"( 1832) is meant.",
+    "Aladdin's Other Lamp is a 1917 American fantasy- comedy silent film based on the play,\" The Dream Girl\" by Willard Mack. It was adapted for the screen by June Mathis and directed by John H. Collins. The film stars Viola Dana and Robert Walker, and was distributed by Metro Pictures Corp., a forerunner of Metro- Goldwyn- Mayer. It is not known whether the film currently survives.",
+    "The Lady of Monza( also known as\" The Awful Story of the Nun of Monza\" and\" The Nun of Monza\") is a 1969 Italian historical drama film directed by Eriprando Visconti. It is loosely based on the real life events of Marianna de Leyva, better known as\" The Nun of Monza\", whose story was made famous by Alessandro Manzoni's novel\" The Betrothed\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Nun and the Devil was directed by Domenico Paolella.\nDomenico Paolella died on 7 October 2002.\nAladdin's Other Lamp was directed by John H. Collins.\nJohn H. Collins died on 31 October 1918.\n1918 is earlier than 2002.\nThe director of Aladdin's Other Lamp died earlier than the director of The Nun and the Devil.\nThe film with the director who died earlier is Aladdin's Other Lamp.\n<answer> Aladdin's Other Lamp",
+  "predicted_answer": "Aladdin's Other Lamp",
+  "claims": [
+    "The Nun and the Devil was directed by Domenico Paolella",
+    "Domenico Paolella died on 7 October 2002",
+    "Aladdin's Other Lamp was directed by John H. Collins",
+    "John H. Collins died on 31 October 1918",
+    "1918 is earlier than 2002",
+    "The director of Aladdin's Other Lamp died earlier than the director of The Nun and the Devil",
+    "The film with the director who died earlier is Aladdin's Other Lamp"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Nun and the Devil was directed by Domenico Paolella",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Domenico Paolella died on 7 October 2002",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Aladdin's Other Lamp was directed by John H. Collins",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "John H. Collins died on 31 October 1918",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1918 is earlier than 2002",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The director of Aladdin's Other Lamp died earlier than the director of The Nun and the Devil",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director who died earlier is Aladdin's Other Lamp",
+      "claim_type": "DR"
+    }
+  ]
+}

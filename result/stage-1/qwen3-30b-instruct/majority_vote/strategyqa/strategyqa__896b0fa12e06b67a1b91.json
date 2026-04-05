@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__896b0fa12e06b67a1b91",
+  "sample_id": "896b0fa12e06b67a1b91",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are ground bell peppers the main ingredient of black pepper?",
+  "gold_answer": "no",
+  "context": [
+    "Black pepper is made from black peppercorns.",
+    "Black peppercorns grow on the Piper Nigrum plant.",
+    "Bell peppers are from the capsicum annuum plant."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBlack pepper is made from black peppercorns.\nBlack peppercorns grow on the Piper Nigrum plant.\nBell peppers are from the capsicum annuum plant.\nGround bell peppers are not derived from black peppercorns.\nGround bell peppers are not the main ingredient of black pepper.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Black pepper is made from black peppercorns",
+    "Black peppercorns grow on the Piper Nigrum plant",
+    "Bell peppers are from the capsicum annuum plant",
+    "Ground bell peppers are not derived from black peppercorns",
+    "Ground bell peppers are not the main ingredient of black pepper"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Black pepper is made from black peppercorns",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Black peppercorns grow on the Piper Nigrum plant",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Bell peppers are from the capsicum annuum plant",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Ground bell peppers are not derived from black peppercorns",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Ground bell peppers are not the main ingredient of black pepper",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

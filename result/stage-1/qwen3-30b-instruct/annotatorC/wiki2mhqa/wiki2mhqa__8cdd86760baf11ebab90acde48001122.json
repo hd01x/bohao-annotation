@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__8cdd86760baf11ebab90acde48001122",
+  "sample_id": "8cdd86760baf11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the paternal grandfather of Diarmait Ua Briain?",
+  "gold_answer": "Tadc mac Briain",
+  "context": [
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Guillaume Wittouck( 1749- 1829) was a Belgian lawyer and High Magistrate. He was the Grandfather of industrialist Paul Wittouck.",
+    "Muircheartach Ua Briain( old spelling: Muirchertach Ua Briain)( also known as Murtough O'Brien)( c. 1050 – c. 10 March 1119), son of Toirdelbach Ua Briain and great- grandson of Brian Bóruma, was King of Munster and later self- declared High King of Ireland.",
+    "Prithvipati Shah( ?–1716) was the king of the Gorkha Kingdom in the Indian subcontinent, present- day Nepal. He was the grandfather of Nara Bhupal Shah.",
+    "Toirdhealbhach Ua Briain (old spelling: Toirdelbach Ua Briain), anglicised \"Turlough O'Brien\" (100914 July 1086), was King of Munster and effectively High King of Ireland. A grandson of Brian Bóruma, Toirdelbach was the son of Tadc mac Briain who was killed in 1023 by his half-brother Donnchad mac Briain. For the first forty years of his life nothing is known of Toirdelbach. It was not until the 1050s that he found allies in Connacht and in Leinster, particularly the powerful King of Leinster Diarmait mac Maíl na mBó, who would aid his claims to be ruler of Munster. It took perhaps ten years of sustained attack to remove his uncle Donnchad from power, and send him into exile, and to place Toirdelbach in power in Munster as Diarmait's faithful ally. On Diarmait's death Toirdelbach took over the reins of power, establishing himself as ruler of more than half of Ireland. While not a great military leader, he was a capable politician whose influence extended as far north as Ulaid and who made and unmade Kings of Connacht. He died after more than two decades in power, following a lengthy illness, still in control of events. His son Muirchertach Ua Briain would be the leading king of his day, and his grandson Toirdelbach Ua Conchobair would be greater yet.",
+    "Diarmait Ua Briain (1060–1118) was an 11th-century Irish king who ruled Munster from 1114 to 1118. One of three sons of Toirdelbach Ua Briain, he was banished from Munster by his brother Muirchertach Ua Briain shortly after the death of their father in 1086. He lived in exile for several years while his brother ruled as King of Munster. He is believed to have been the commander of the Irish fleet that supported Rhys ap Tewdwr at the Battle of Mynydd Carn. In 1093, he reconciled with Muirchertach after recognizing his claim and was installed as \"dux\" of Waterford. He eventually succeeded his brother as acting King of Munster when his brother became seriously ill in 1114. After taking the throne, he banished Muircheartach and soon was involved in a four-year struggle for control of Munster. In 1116, he attacked Muirchertach and Brian Ua Briain in violation of a mutual oath on the relics of Ireland besieging Limerick. This resulted in Muirchertach making peace with Diarmait but he was eventually captured by Muircheartach. He later died in Cork in 1118 and in the same year, Toirdelbach Ua Conchobair invaded Munster and partitioned the land between the sons of Diarmait Ua Briain and Tadg Mac Carthaig, Conchobar Ua Briain of Thomond and Toirdelbach Mac Carthaig of Desmond respectively.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist. He was the grandfather of singer/ poet Leonard Cohen.",
+    "Rev. John Westley( 1636 – 78) was an English nonconformist minister. He was the grandfather of John Wesley( founder of Methodism).",
+    "Conchobar Ua Briain( died 1142) was a mid- twelfth- century ruler of the kingdoms of Munster and Dublin. Conchobar was a son of Diarmait Ua Briain, King of Munster. In 1138, Conchobar assumed the kingship of Munster. The\" Annals of the Four Masters\" reveals that he gained the kingship of Dublin in 1141. He died the following year. It is believed that Conchobar Ua Briain founded what is now known as in the early 12th century. Cahir Castle was a state- of- the- art defensive fortress at the time, and continued to be in use for hundreds of years after being gifted to the in 1154 by."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDiarmait Ua Briain was an 11th-century Irish king who ruled Munster from 1114 to 1118.\nDiarmait Ua Briain was one of three sons of Toirdelbach Ua Briain.\nToirdelbach Ua Briain was the father of Diarmait Ua Briain.\nToirdelbach Ua Briain was the paternal grandfather of Diarmait Ua Briain.\n<answer> Toirdelbach Ua Briain",
+  "predicted_answer": "Toirdelbach Ua Briain",
+  "claims": [
+    "Diarmait Ua Briain was an 11th-century Irish king who ruled Munster from 1114 to 1118",
+    "Diarmait Ua Briain was one of three sons of Toirdelbach Ua Briain",
+    "Toirdelbach Ua Briain was the father of Diarmait Ua Briain",
+    "Toirdelbach Ua Briain was the paternal grandfather of Diarmait Ua Briain"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Diarmait Ua Briain was an 11th-century Irish king who ruled Munster from 1114 to 1118",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Diarmait Ua Briain was one of three sons of Toirdelbach Ua Briain",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Toirdelbach Ua Briain was the father of Diarmait Ua Briain",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Toirdelbach Ua Briain was the paternal grandfather of Diarmait Ua Briain",
+      "claim_type": "DR"
+    }
+  ]
+}

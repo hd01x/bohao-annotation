@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__c0c6685bdfb09af180a1",
+  "sample_id": "c0c6685bdfb09af180a1",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Should Peter Griffin be an expert at the craft of brewing?",
+  "gold_answer": "yes",
+  "context": [
+    "Peter Griffin is an employee of a brewery in Quahog. ",
+    "Peter has worked at the brewery for many years and is expected to be familiar with how beer is made."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPeter Griffin is an employee of a brewery in Quahog.\nHe has worked at the brewery for many years.\nEmployees who work at a brewery for many years are likely to gain extensive knowledge of the brewing process.\nPeter is expected to be familiar with how beer is made.\nFamiliarity with the brewing process over many years implies a high level of expertise.\nPeter Griffin should be an expert at the craft of brewing.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Peter Griffin is an employee of a brewery in Quahog",
+    "He has worked at the brewery for many years",
+    "Employees who work at a brewery for many years are likely to gain extensive knowledge of the brewing process",
+    "Peter is expected to be familiar with how beer is made",
+    "Familiarity with the brewing process over many years implies a high level of expertise",
+    "Peter Griffin should be an expert at the craft of brewing"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Peter Griffin is an employee of a brewery in Quahog",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "He has worked at the brewery for many years",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Employees who work at a brewery for many years are likely to gain extensive knowledge of the brewing process",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Peter is expected to be familiar with how beer is made",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Familiarity with the brewing process over many years implies a high level of expertise",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Peter Griffin should be an expert at the craft of brewing",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

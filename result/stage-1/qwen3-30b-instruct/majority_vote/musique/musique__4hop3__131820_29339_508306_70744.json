@@ -1,0 +1,209 @@
+{
+  "uid": "musique__4hop3__131820_29339_508306_70744",
+  "sample_id": "4hop3__131820_29339_508306_70744",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Which university has more national championships, university of the state having Fort Hill or university of the state whose primary was won by Edwards besides the state having WEKL?",
+  "gold_answer": "University of South Carolina",
+  "context": [
+    "Omassery is a town in Kozhikode district, Kerala, India and it is a junction between Thiruvambady, Thamarassery, Mukkam, Koduvally, Kodencheri and Kattangal. Omassery is located 29 kilometers southeast of Kozhikode in the eastern part of Kerala; better known as Malabar (Northern Kerala). Omassery is a fast developing place and is well connected to the other parts of the state. Besides that, it is known as the gateway to the hill ranges of Western Ghats in Malabar.",
+    "Usually, a federation is formed at two levels: the central government and the regions (states, provinces, territories), and little to nothing is said about second or third level administrative political entities. Brazil is an exception, because the 1988 Constitution included the municipalities as autonomous political entities making the federation tripartite, encompassing the Union, the States, and the municipalities. Each state is divided into municipalities (municípios) with their own legislative council (câmara de vereadores) and a mayor (prefeito), which are partly autonomous from both Federal and State Government. Each municipality has a \"little constitution\", called \"organic law\" (lei orgânica). Mexico is an intermediate case, in that municipalities are granted full-autonomy by the federal constitution and their existence as autonomous entities (municipio libre, \"free municipality\") is established by the federal government and cannot be revoked by the states' constitutions. Moreover, the federal constitution determines which powers and competencies belong exclusively to the municipalities and not to the constituent states. However, municipalities do not have an elected legislative assembly.",
+    "Cassamata Hill National Park is a protected area of the Philippines located in the municipality of Bangued, Abra in the Cordillera Administrative Region. The park covers an area of 57 hectares (140 acres) and was declared a protected area in 1974.",
+    "Rochester Community Schools District serves Rochester, the majority of both Oakland Township, and Rochester Hills, as well as parts of Orion Township and Auburn Hills in northeast Oakland County and parts of Shelby Township and Washington Township in northwest Macomb County, in the U.S. state of Michigan. It currently has upwards of 14,500 students in 21 buildings, all located in Rochester Hills and Oakland Township, Michigan. The Administration Center is located in the city of Rochester.",
+    "Fort Hill, also known as the John C. Calhoun Mansion and Library, is a National Historic Landmark on the Clemson University campus in Clemson, South Carolina. The house is significant as the home from 1825-50 of John C. Calhoun, a leading national politician of the period, and is now a museum and library maintained in his memory.",
+    "Hill is a town in Price County, Wisconsin, United States. The population was 364 at the 2000 census. Timms Hill, the highest point in Wisconsin, is located in the town of Hill.",
+    "Francis Allen \"Red\" Synott (December 28, 1890 in Chatham, New Brunswick – October 12, 1945 in Boston, Massachusetts) was an ice hockey star of the early 1920s, playing on the first two United States hockey teams, and winning silver medals with them in 1920 and 1924. Besides the Olympics, he won a world championship with the U.S. in 1920.",
+    "Fort Meade National Cemetery is a United States National Cemetery located near the city of Sturgis in Meade County, South Dakota. Administered by the United States Department of Veterans Affairs, it encompasses . It is maintained by Black Hills National Cemetery.",
+    "In March's Super Tuesday, Kerry won decisive victories in the California, Connecticut, Georgia, Maryland, Massachusetts, New York, Ohio, and Rhode Island primaries and the Minnesota caucuses. Dean, despite having withdrawn from the race two weeks earlier, won his home state of Vermont. Edwards finished only slightly behind Kerry in Georgia, but, failing to win a single state other than South Carolina, chose to withdraw from the presidential race. Sharpton followed suit a couple weeks later. Kuninch did not leave the race officially until July.",
+    "WEKL, known on-air as \"102.3 K-Love\", is a Contemporary Christian radio station in the United States, licensed by the Federal Communications Commission (FCC) to Augusta, Georgia, broadcasting on 102.3 MHz with an ERP of 1.5 kW. Its studios are located at the Augusta Corporate Center with the market’s other iHeartMedia owned sister stations in Augusta, and the transmitter is located in Augusta near Fort Gordon.",
+    "Stockton Springs is a town in Waldo County, Maine, United States. The population was 1,591 at the 2010 census. Stockton Springs is home to Fort Point State Park and Fort Point Light, both located on Fort Point, a peninsula on Cape Jellison.",
+    "College comparison Clemson University University of South Carolina Location Clemson Columbia Students 23,406 34,618 School colors Clemson Orange and Regalia Garnet and Black Nickname Tigers Gamecocks Mascot The Tiger and The Tiger Cub Cocky National Championships 5 10",
+    "Marshall R. Sanguinet House is located on 4729 Collinwood Avenue in Fort Worth, Texas, United States. It was added to the National Register of Historic Places on June 7, 1983.",
+    "Central Wisconsin Airport , referred to as \"C-Way\", is a public airport located southeast of the central business district of Mosinee, in Marathon County, Wisconsin, United States. It is owned by Marathon County and Portage County. It is included in the Federal Aviation Administration (FAA) National Plan of Integrated Airport Systems for 2019–2023, in which it is categorized as a non-hub primary commercial service facility. It is the fifth busiest of eight commercial airports in Wisconsin in terms of passengers served.",
+    "Located in Tswana territory west of the Transvaal, Goshen existed as an independent nation for a short period; from 1882 to 1883 as the State of Goshen and, after unification with neighbouring Stellaland, as the United States of Stellaland (Dutch: \"Verenigde Staten van Stellaland\") from 1883 to 1885.",
+    "The name Vatican city was first used in the Lateran Treaty, signed on 11 February 1929, which established the modern city - state. The name is taken from Vatican Hill, the geographic location of the state. ``Vatican ''is derived from the name of an Etruscan settlement, Vatica or Vaticum meaning garden, located in the general area the Romans called vaticanus ager,`` Vatican territory''.",
+    "Kennecott, also known as Kennicott and Kennecott Mines, is an abandoned mining camp in the Valdez - Cordova Census Area in the U.S. state of Alaska that was the center of activity for several copper mines. It is located beside the Kennicott Glacier, northeast of Valdez, inside Wrangell - St. Elias National Park and Preserve. The camp and mines are now a National Historic Landmark District administered by the National Park Service.",
+    "A Nigerian State is a federated political entity, which shares sovereignty with the Federal Government of Nigeria, There are 36 States in Nigeria, which are bound together by a federal agreement. There is also a territory called the Federal Capital Territory (FCT), which is not a state, but a territory, under the direct control of the Federal Government. The States are further divided into a total of 774 Local Government Areas. Under the Nigerian Constitution, states have the power to ratify constitutional amendments.",
+    "Minsk Region or Minsk Voblasć or Minsk Oblast (, \"Minskaja vobłasć\" ; , \"Minskaja oblastj\") is one of the regions of Belarus. Its administrative center is Minsk, although it is a separate administrative territorial entity of Belarus. As of 2011, the region's population is 1,411,500.",
+    "All 193 members states of the United Nations are members of the General Assembly. Further, the United Nations General Assembly may grant observer status to an international organization, entity or non-member state, which entitles the entity to participate in the work of the United Nations General Assembly, though with limitations."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFort Hill is located on the Clemson University campus in Clemson, South Carolina.\nClemson University is the university in the state of South Carolina.\nClemson University has 5 national championships.\nEdwards won the South Carolina primary in the 2004 Democratic presidential race.\nThe state where Edwards won the primary is South Carolina.\nThe university in South Carolina is Clemson University.\nWEKL is licensed to Augusta, Georgia.\nThe university in Georgia is the University of Georgia.\nThe University of Georgia is not mentioned as having national championships in the context.\nThe university in the state of South Carolina (where Edwards won) has 5 national championships.\nThe university in the state of South Carolina (where Fort Hill is located) has 5 national championships.\nThe university with more national championships is Clemson University.\n<answer> Clemson University",
+  "predicted_answer": "Clemson University",
+  "claims": [
+    "Fort Hill is located on the Clemson University campus in Clemson, South Carolina",
+    "Clemson University is the university in the state of South Carolina",
+    "Clemson University has 5 national championships",
+    "Edwards won the South Carolina primary in the 2004 Democratic presidential race",
+    "The state where Edwards won the primary is South Carolina",
+    "The university in South Carolina is Clemson University",
+    "WEKL is licensed to Augusta, Georgia",
+    "The university in Georgia is the University of Georgia",
+    "The University of Georgia is not mentioned as having national championships in the context",
+    "The university in the state of South Carolina (where Edwards won) has 5 national championships",
+    "The university in the state of South Carolina (where Fort Hill is located) has 5 national championships",
+    "The university with more national championships is Clemson University"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Fort Hill is located on the Clemson University campus in Clemson, South Carolina",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Clemson University is the university in the state of South Carolina",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Clemson University has 5 national championships",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Edwards won the South Carolina primary in the 2004 Democratic presidential race",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The state where Edwards won the primary is South Carolina",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The university in South Carolina is Clemson University",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "WEKL is licensed to Augusta, Georgia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The university in Georgia is the University of Georgia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The University of Georgia is not mentioned as having national championships in the context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "The university in the state of South Carolina (where Edwards won) has 5 national championships",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "The university in the state of South Carolina (where Fort Hill is located) has 5 national championships",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "The university with more national championships is Clemson University",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

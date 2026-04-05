@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__5378f4b41639a2676635",
+  "sample_id": "5378f4b41639a2676635",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Cynthia Powell celebrate a silver anniversary with John Lennon?",
+  "gold_answer": "no",
+  "context": [
+    "A silver anniversary takes place during the 25th year of marriage.",
+    "Cynthia Powell married John Lennon in 1962.",
+    "Cynthia Powell and John Lennon got divorced in 1968."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCynthia Powell married John Lennon in 1962.\nA silver anniversary occurs during the 25th year of marriage.\nThe 25th year after 1962 would be 1987.\nCynthia Powell and John Lennon divorced in 1968.\nThey were no longer married after 1968.\nCynthia Powell did not remain married to John Lennon through 1987.\nCynthia Powell did not celebrate a silver anniversary with John Lennon.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Cynthia Powell married John Lennon in 1962",
+    "A silver anniversary occurs during the 25th year of marriage",
+    "The 25th year after 1962 would be 1987",
+    "Cynthia Powell and John Lennon divorced in 1968",
+    "They were no longer married after 1968",
+    "Cynthia Powell did not remain married to John Lennon through 1987",
+    "Cynthia Powell did not celebrate a silver anniversary with John Lennon"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Cynthia Powell married John Lennon in 1962",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "A silver anniversary occurs during the 25th year of marriage",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The 25th year after 1962 would be 1987",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Cynthia Powell and John Lennon divorced in 1968",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "They were no longer married after 1968",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Cynthia Powell did not remain married to John Lennon through 1987",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Cynthia Powell did not celebrate a silver anniversary with John Lennon",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

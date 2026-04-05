@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__4f5f3dc321468c1d052d",
+  "sample_id": "4f5f3dc321468c1d052d",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can you buy chlorine at a dollar store?",
+  "gold_answer": "yes",
+  "context": [
+    "Chlorine, when added to water, creates household bleach.",
+    "Household bleach is available at most dollar stores."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nChlorine, when added to water, creates household bleach.\nHousehold bleach is available at most dollar stores.\nChlorine is a key ingredient in the production of household bleach.\nHousehold bleach sold at dollar stores contains chlorine.\nThe chlorine in household bleach is not sold separately at dollar stores.\nChlorine is not available for purchase at dollar stores in its elemental form.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Chlorine, when added to water, creates household bleach",
+    "Household bleach is available at most dollar stores",
+    "Chlorine is a key ingredient in the production of household bleach",
+    "Household bleach sold at dollar stores contains chlorine",
+    "The chlorine in household bleach is not sold separately at dollar stores",
+    "Chlorine is not available for purchase at dollar stores in its elemental form"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Chlorine, when added to water, creates household bleach",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Household bleach is available at most dollar stores",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Chlorine is a key ingredient in the production of household bleach",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Household bleach sold at dollar stores contains chlorine",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The chlorine in household bleach is not sold separately at dollar stores",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Chlorine is not available for purchase at dollar stores in its elemental form",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

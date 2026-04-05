@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__3679391b4ff09377acef",
+  "sample_id": "3679391b4ff09377acef",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would Persephone be a good consultant to a landscape architect?",
+  "gold_answer": "yes",
+  "context": [
+    "Persephone is a vegetation goddess. ",
+    "A vegetation deity is a nature deity whose disappearance and reappearance, or life, death and rebirth, embodies the growth cycle of plants.",
+    "Landscape architects deal with planning and laying out gardens and other plant life."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPersephone is a vegetation goddess.\nVegetation deities are associated with the growth cycle of plants.\nLandscape architects plan and design gardens and plant life.\nThe growth cycle of plants is relevant to landscape architecture.\nPersephone's association with plant growth makes her knowledge applicable to landscape design.\nPersephone would provide insight into plant life cycles relevant to landscaping.\nPersephone would be a good consultant to a landscape architect.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Persephone is a vegetation goddess",
+    "Vegetation deities are associated with the growth cycle of plants",
+    "Landscape architects plan and design gardens and plant life",
+    "The growth cycle of plants is relevant to landscape architecture",
+    "Persephone's association with plant growth makes her knowledge applicable to landscape design",
+    "Persephone would provide insight into plant life cycles relevant to landscaping",
+    "Persephone would be a good consultant to a landscape architect"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Persephone is a vegetation goddess",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Vegetation deities are associated with the growth cycle of plants",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Landscape architects plan and design gardens and plant life",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The growth cycle of plants is relevant to landscape architecture",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Persephone's association with plant growth makes her knowledge applicable to landscape design",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Persephone would provide insight into plant life cycles relevant to landscaping",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Persephone would be a good consultant to a landscape architect",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

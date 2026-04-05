@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__bacc6ba00bdd11eba7f7acde48001122",
+  "sample_id": "bacc6ba00bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the child of the director of film Anna (1970 Film)?",
+  "gold_answer": "Johan Donner",
+  "context": [
+    "Ian Barry is an Australian director of film and TV.",
+    "Eric Chan Kwok- ki, SBS, IDSM( born 1959) is a Hong Kong civil servant who is the Director of the Chief Executive's Office. Previously, Chan was the Director of Immigration( 2011–2016).",
+    "Anna is a 1970 Finnish movie written by Jörn Donner and Eija-Elina Bergholm, and directed by Donner, featuring Harriet Andersson, Pertti Melasniemi and Marja Packalén. Filmed in Kustavi and Turku, Finland.",
+    "Pierre Koralnik( born 22 December 1938) is a French film director and screenwriter. He directed the 1967 film\" Anna\", which starred Anna Karina.",
+    "John Farrell is the director of YouTube in Latin America.",
+    "Jörn Johan Donner (born 5 February 1933 in Helsinki, Finland) is a Swedish-speaking Finnish writer, film director, actor, producer, politician, founder of Finnish Film Archive and a member of the Donner family. He is the son of the linguist Kai Donner. Jörn Donner has for long periods lived and worked in Sweden, and has, among other things, served as director of the Swedish Film Institute. In 1979, he was a member of the jury at the 29th Berlin International Film Festival. Internationally Jörn Donner is best known as the producer of Ingmar Bergman's film \"Fanny and AlexanderFanny och Alexander\", 1982). In 1984 the movie won a total of four Academy Awards including the award for best foreign language film, making him to date the only Finn to receive an Oscar. His novel \"Far och sonFather and Son\") won the Finlandia Prize in 1985. Donner has been associated with several different political parties, such as SDP and RKP, and has at different times been a member both of the Finnish parliament and the European Parliament. he was again a member of the Finnish parliament for a short while, after Eva Biaudet resigned to take a position at the OSCE. Donner has suffered from prostate and lung cancers.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Laurent Le Bon( born 2 April 1969) is a French art historian who is the director of the Musée Picasso.",
+    "Michael Govan( born 1963) is the director of the Los Angeles County Museum of Art since 2006. Prior to this, Govan worked as the director of the Dia Art Foundation in New York City."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe 1970 film Anna was directed by Jörn Donner.\nJörn Donner is the son of the linguist Kai Donner.\nThe child of Jörn Donner is not mentioned in the provided information.\nThe child of the director of the 1970 film Anna is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "The 1970 film Anna was directed by Jörn Donner",
+    "Jörn Donner is the son of the linguist Kai Donner",
+    "The child of Jörn Donner is not mentioned in the provided information",
+    "The child of the director of the 1970 film Anna is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The 1970 film Anna was directed by Jörn Donner",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Jörn Donner is the son of the linguist Kai Donner",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The child of Jörn Donner is not mentioned in the provided information",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The child of the director of the 1970 film Anna is not specified",
+      "claim_type": "DR"
+    }
+  ]
+}

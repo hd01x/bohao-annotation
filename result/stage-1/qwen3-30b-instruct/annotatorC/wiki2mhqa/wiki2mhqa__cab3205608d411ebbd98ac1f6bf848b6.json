@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__cab3205608d411ebbd98ac1f6bf848b6",
+  "sample_id": "cab3205608d411ebbd98ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film came out earlier, Der Wixxer or The Butterfly Room?",
+  "gold_answer": "Der Wixxer",
+  "context": [
+    "Dis is a genus of skippers in the butterfly family Hesperiidae.",
+    "The butterfly bend is a knot used to join the ends of two ropes together. It is the analogous bend form of the butterfly loop, in that it is the butterfly loop with the loop cut. The observation that the butterfly loop is secure enough to isolate a worn or damaged section of rope within the loop indicated that the bend form of the knot would be similarly secure.",
+    "The Butterfly Super Sky Cycle is an American homebuilt roadable gyroplane designed and manufactured by The Butterfly Aircraft LLC.",
+    "The Butterfly is a 2007 Indonesian film directed by Nayato Fio Nuola.",
+    "The Butterfly Monarch is an American autogyro, designed and produced by The Butterfly LLC of Aurora, Texas. The aircraft is supplied as a kit for amateur construction.",
+    "Der Wixxer( refers to German\" Wichserwanker\") is a 2004 German parody of likewise German crime films based on works by Edgar Wallace, especially the film\" Der Hexer\"( 1964) – a German adaption of\" The Ringer\". The film was directed by Tobi Baumann and written by Oliver Kalkofe, Oliver Welke and Bastian Pastewka. It is about two policemen, Inspector Very Long( Pastewka) and Chief Inspector Even Longer( Kalkofe) who must find the Wixxer, a gangster who wants to take over London's crime world.",
+    "The Butterfly Lovers, also known as The Assassin's Blade or Jiandie, is a 2008 Hong Kong film directed by Jingle Ma and starring Wu Chun, Charlene Choi and Hu Ge. It is based on the Chinese legend of the Butterfly Lovers, but in a\" wuxia\" setting.",
+    "The Butterfly Room is a 2012 American- Italian thriller- horror film directed by Jonathan Zarantonello. It is based on Zarantonello's novel\" Alice dalle 4 alle 5 Alice from 4 to 5\"). The film won the Denis- de- Rougemont Youth Award at the 2012 Neuchâtel International Fantastic Film Festival. The storyline revolves around Ann( Barbara Steele), a reclusive and butterfly- obsessed elderly lady who develops a disturbing relationship with a mysterious young girl, years after destroying the relationship with her daughter Dorothy( Heather Langenkamp). Ray Wise, Adrienne King, Camille Keaton, and P.J. Soles also make appearances, as well as James Karen in his final film role; Karen died six years after the film's release.",
+    "The BBN Butterfly was a massively parallel computer built by Bolt, Beranek and Newman in the 1980s. It was named for the\" butterfly\" multi-stage switching network around which it was built. Each machine had up to 512 CPUs, each with local memory, which could be connected to allow every CPU access to every other CPU's memory, although with a substantially greater latency( roughly 15:1) than for its own. The CPUs were commodity microprocessors. The memory address space was shared. The first generation used Motorola 68000 processors, followed by a 68010 version. The Butterfly connect was developed specifically for this computer. The second or third generation, GP- 1000 models used Motorola 68020's and scaled to 256 CPUs. The later, TC- 2000 models used Motorola MC88100's, and scaled to 512 CPUs. The Butterfly was initially developed as the Voice Funnel, a router for the ST- II protocol intended for carrying voice and video over IP networks. The Butterfly hardware was later used for the Butterfly Satellite IMP( BSAT) packet switch of DARPA's Wideband Packet Satellite Network which operated at multiple sites around the US over a shared 3 Mbit/ s broadcast satellite channel. In the late 1980s, this network became the Terrestrial Wideband Network, based on terrestrial T1 circuits instead of a shared broadcast satellite channel and the BSAT became the Wideband Packet Switch( WPS). Another DARPA sponsored project at BBN produced the Butterfly Multiprocessor Internet Gateway( Internet Router) to interconnect different types of networks at the IP layer. Like the BSAT, the Butterfly Gateway broke the contention of a shared bus minicomputer architecture that had been in use for Internet Gateways by combining the routing computations and I/O at the network interfaces and using the Butterfly's switch fabric to provide the network interconnections. This resulted in significantly higher link throughputs. The Butterfly began with a proprietary operating system called Chrysalis, but moved to a Mach kernel operating system in 1989. While the memory access time was non-uniform, the machine had SMP memory semantics, and could be operated as a symmetric multiprocessor. The largest configured system with 128 processors was at the University of Rochester Computer Science Department. Most delivered systems had about 16 processors. No known configurations appear to be in museums. At least one system is thought to be sitting within a DARPA autonomous vehicle. TotalView, the parallel program debugger developed for the Butterfly, outlived the platform and was ported to a number of other massively parallel machines.",
+    "The Butterfly's Dream can refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDer Wixxer is a 2004 German parody film directed by Tobi Baumann.\nThe Butterfly Room is a 2012 American-Italian thriller-horror film directed by Jonathan Zarantonello.\n2004 is earlier than 2012.\nDer Wixxer was released before The Butterfly Room.\n<answer> Der Wixxer",
+  "predicted_answer": "Der Wixxer",
+  "claims": [
+    "Der Wixxer is a 2004 German parody film directed by Tobi Baumann",
+    "The Butterfly Room is a 2012 American-Italian thriller-horror film directed by Jonathan Zarantonello",
+    "2004 is earlier than 2012",
+    "Der Wixxer was released before The Butterfly Room"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Der Wixxer is a 2004 German parody film directed by Tobi Baumann",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The Butterfly Room is a 2012 American-Italian thriller-horror film directed by Jonathan Zarantonello",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "2004 is earlier than 2012",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Der Wixxer was released before The Butterfly Room",
+      "claim_type": "DR"
+    }
+  ]
+}

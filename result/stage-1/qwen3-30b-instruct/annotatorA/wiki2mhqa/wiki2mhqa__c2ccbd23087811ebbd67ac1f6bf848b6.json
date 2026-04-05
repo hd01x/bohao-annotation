@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__c2ccbd23087811ebbd67ac1f6bf848b6",
+  "sample_id": "c2ccbd23087811ebbd67ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Are the movies About A Wife, A Dream And Another... and The Doolins Of Oklahoma, from the same country?",
+  "gold_answer": "no",
+  "context": [
+    "Patience Sewell Latting( August 27, 1918 – December 29, 2012) was an American politician who served as Mayor of Oklahoma City, Oklahoma, from 1971 to 1983. Latting was the first female Mayor of Oklahoma City.",
+    "David Lyle Boren( born April 21, 1941) is an American university administrator and politician from the state of Oklahoma. A member of the Democratic Party, he served as the 21st governor of Oklahoma from 1975 to 1979 and three terms in the United States Senate from 1979 to 1994, and as of 2019, is the last Democrat to have served as a U.S. Senator from Oklahoma. He was the 13th and second- longest serving president of the University of Oklahoma from 1994 to 2018. He was the longest serving chairman of the Senate Select Committee on Intelligence. On September 20, 2017, Boren officially announced his retirement as president of the University of Oklahoma, effective June 30, 2018. Boren was a subject of a University of Oklahoma investigation into sexual harassment shortly after the end of his 24 year tenure as the institution's president. University of Oklahoma regents have received the findings of that investigation, conducted by law firm Jones Day, but have not publicly released any information. Boren's successor, James L. Gallogly who ordered investigations of Boren, resigned May 12, 2019 after ten months in office.",
+    "The Doolins of Oklahoma is a 1949 American Western film directed by Gordon Douglas and starring Randolph Scott.",
+    "Pat O'Neal is a retired American football coach. He is known for coaching East Central University in Ada, Oklahoma from 1972 to 1989, where he won 96 games and retired as the program's all- time winningest coach. Prior to that, he played under coach Bud Wilkinson at the University of Oklahoma from 1951 to 1954.",
+    "Logan County is a county located in the U.S. state of Oklahoma. As of the 2010 census, the population was 41,848. Its county seat is Guthrie. Logan County is part of the Oklahoma City, OK Metropolitan Statistical Area. Guthrie served as the capital of Oklahoma Territory from 1890 until 1907 and of the state of Oklahoma from 1907 until 1910.",
+    "Danny C. Williams Sr. is an American attorney who served as the United States Attorney for the Northern District of Oklahoma from 2012 to 2017.",
+    "A Night at the Movies can be:",
+    "About a Wife, a Dream and Another ... is a 2013 Russian language film written and directed by Alexander Pozhenskiy. The film has received positive reviews, and has also been well- received at various film festivals.",
+    "Spencer Thomas Bernard( February 5, 1918 – March 9, 2001) was an American politician from the U.S. state of Oklahoma. Bernard served as the eleventh Lieutenant Governor of Oklahoma from 1979 to 1987. He also served in the Oklahoma House of Representatives.",
+    "At the Movies may refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAbout a Wife, a Dream and Another... is a 2013 Russian language film.\nThe Doolins of Oklahoma is a 1949 American Western film.\nRussia and the United States are different countries.\nThe film About a Wife, a Dream and Another... is from Russia.\nThe film The Doolins of Oklahoma is from the United States.\nThe movies About a Wife, a Dream and Another... and The Doolins of Oklahoma are not from the same country.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "About a Wife, a Dream and Another... is a 2013 Russian language film",
+    "The Doolins of Oklahoma is a 1949 American Western film",
+    "Russia and the United States are different countries",
+    "The film About a Wife, a Dream and Another... is from Russia",
+    "The film The Doolins of Oklahoma is from the United States",
+    "The movies About a Wife, a Dream and Another... and The Doolins of Oklahoma are not from the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "About a Wife, a Dream and Another... is a 2013 Russian language film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The Doolins of Oklahoma is a 1949 American Western film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Russia and the United States are different countries",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The film About a Wife, a Dream and Another... is from Russia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The film The Doolins of Oklahoma is from the United States",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The movies About a Wife, a Dream and Another... and The Doolins of Oklahoma are not from the same country",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__c23b892b2ce50d0582d1",
+  "sample_id": "c23b892b2ce50d0582d1",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could Carl Friedrich Gauss speak to someone 100 miles away?",
+  "gold_answer": "no",
+  "context": [
+    "Carl Friedrich Gauss was born in 1777.",
+    "Speaking to someone 100 miles away requires a telephone.",
+    "The telephone was invented in 1876."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCarl Friedrich Gauss was born in 1777.\nThe telephone was invented in 1876.\nGauss died in 1855.\n1855 is before 1876.\nThe telephone did not exist during Gauss's lifetime.\nSpeaking to someone 100 miles away requires a telephone.\nCarl Friedrich Gauss could not speak to someone 100 miles away.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Carl Friedrich Gauss was born in 1777",
+    "The telephone was invented in 1876",
+    "Gauss died in 1855",
+    "1855 is before 1876",
+    "The telephone did not exist during Gauss's lifetime",
+    "Speaking to someone 100 miles away requires a telephone",
+    "Carl Friedrich Gauss could not speak to someone 100 miles away"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Carl Friedrich Gauss was born in 1777",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The telephone was invented in 1876",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Gauss died in 1855",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "1855 is before 1876",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The telephone did not exist during Gauss's lifetime",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Speaking to someone 100 miles away requires a telephone",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Carl Friedrich Gauss could not speak to someone 100 miles away",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

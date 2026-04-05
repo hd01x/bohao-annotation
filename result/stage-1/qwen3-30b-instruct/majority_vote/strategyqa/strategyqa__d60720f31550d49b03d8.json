@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__d60720f31550d49b03d8",
+  "sample_id": "d60720f31550d49b03d8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Metallica protective over their music?",
+  "gold_answer": "yes",
+  "context": [
+    "Napster was a P2P music sharing service.",
+    "Metallica sued Napster in order to remove their songs from the program, as they were not getting profit from it."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nNapster was a peer-to-peer music sharing service that allowed users to share music files.\nMetallica sued Napster to remove their songs from the platform.\nThe lawsuit was initiated because Metallica was not receiving profit from the unauthorized distribution of their music.\nThe action of suing to stop unauthorized use indicates a desire to control how their music is distributed.\nMetallica is protective over their music.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Napster was a peer-to-peer music sharing service that allowed users to share music files",
+    "Metallica sued Napster to remove their songs from the platform",
+    "The lawsuit was initiated because Metallica was not receiving profit from the unauthorized distribution of their music",
+    "The action of suing to stop unauthorized use indicates a desire to control how their music is distributed",
+    "Metallica is protective over their music"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Napster was a peer-to-peer music sharing service that allowed users to share music files",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Metallica sued Napster to remove their songs from the platform",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The lawsuit was initiated because Metallica was not receiving profit from the unauthorized distribution of their music",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The action of suing to stop unauthorized use indicates a desire to control how their music is distributed",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Metallica is protective over their music",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

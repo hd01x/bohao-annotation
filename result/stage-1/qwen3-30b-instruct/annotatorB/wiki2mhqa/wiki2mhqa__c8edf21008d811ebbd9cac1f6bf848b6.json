@@ -1,0 +1,77 @@
+{
+  "uid": "wiki2mhqa__c8edf21008d811ebbd9cac1f6bf848b6",
+  "sample_id": "c8edf21008d811ebbd9cac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do both directors of films The Curse Of Iku and Cops And Robbers (1973 Film) have the same nationality?",
+  "gold_answer": "yes",
+  "context": [
+    "Aram A. Avakian( April 23, 1926 – January 17, 1987) was an Armenian- American film editor and director. His work in the latter role includes\" Jazz on a Summer's Day\"( 1959) and the indie film\" End of the Road\"( 1970).",
+    "Kent Levaughn Harris( October 15, 1930 – April 16, 2019) was an American songwriter and record producer, who is best known as the writer of novelty tunes such as\" Shoppin' for Clothes\"( a hit for The Coasters, credited to Harris, Leiber and Stoller) and\" Cops and Robbers\"( a hit for Bo Diddley). He recorded under various pseudonyms including Ducky Drake and Boogaloo and his Gallant Crew.",
+    "Frank Borzage( April 23, 1894 – June 19, 1962) was an Academy Award- winning American film director and actor, most remembered for directing\" 7th Heaven\"( 1927),\" Street Angel\"( 1928),\" Bad Girl\"( 1931),\" Man's Castle\"( 1933),\" The Mortal Storm\"( 1940) and\" Moonrise\"( 1948).",
+    "Cops and Robbers is a 1993 Australian- New Zealand film about a bankrupt man who embarks on a career of crime.",
+    "The Curse of Iku is a 1918 American drama film directed by Frank Borzage and featuring Borzage, Tsuru Aoki, and Thomas Kurihara in lead dual roles. It is not known whether the film currently survives.",
+    "Blestemul pământului, blestemul iubirii(\" The curse of the land, the curse of love\") is a 1981 Romanian drama film directed by Mircea Mureșan. The film is an adaptation of Liviu Rebreanu's 1920 social novel\" Ion\", starring Șerban Ionescu as the titular character, a poor Transylvanian peasant.",
+    "The Curse of El Charro is a 2005 horror film starring Danny Trejo. \" The Curse of El Charro\" was released on DVD by Paramount Home Video in 2006.",
+    "The Curse of Vererbung( German: Der Fluch der Vererbung)(\" The Curse of Heredity: Those Who Should Not Be Mothers\") is a 1927 German silent film directed by Adolf Trotz and starring Marcella Albani, Maly Delschaft and Carl de Vogt. The film's sets were designed by the art director Leopold Blonder.",
+    "The Curse of Man is a 1920 German film directed by Richard Eichberg and featuring Béla Lugosi.",
+    "Cops and Robbers is a 1973 heist comedy crime film directed by Aram Avakian with an original screenplay by Donald E. Westlake which Westlake subsequently expanded into a novel. The film stars Cliff Gorman as Tom and Joseph Bologna as Joe."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Curse of Iku is a 1918 American drama film directed by Frank Borzage.\nFrank Borzage was an American film director and actor.\nCops and Robbers (1973) is a heist comedy crime film directed by Aram Avakian.\nAram Avakian was an Armenian-American film editor and director.\nFrank Borzage was American.\nAram Avakian was Armenian-American.\nBoth directors are American by nationality.\nThe directors of The Curse of Iku and Cops and Robbers (1973) have the same nationality.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Curse of Iku is a 1918 American drama film directed by Frank Borzage",
+    "Frank Borzage was an American film director and actor",
+    "Cops and Robbers (1973) is a heist comedy crime film directed by Aram Avakian",
+    "Aram Avakian was an Armenian-American film editor and director",
+    "Frank Borzage was American",
+    "Aram Avakian was Armenian-American",
+    "Both directors are American by nationality",
+    "The directors of The Curse of Iku and Cops and Robbers (1973) have the same nationality"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Curse of Iku is a 1918 American drama film directed by Frank Borzage",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Frank Borzage was an American film director and actor",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Cops and Robbers (1973) is a heist comedy crime film directed by Aram Avakian",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Aram Avakian was an Armenian-American film editor and director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Frank Borzage was American",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "Aram Avakian was Armenian-American",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "Both directors are American by nationality",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C8",
+      "text": "The directors of The Curse of Iku and Cops and Robbers (1973) have the same nationality",
+      "claim_type": "DR"
+    }
+  ]
+}

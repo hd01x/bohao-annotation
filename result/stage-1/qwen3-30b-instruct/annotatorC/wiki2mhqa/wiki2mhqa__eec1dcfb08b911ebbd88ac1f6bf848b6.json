@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__eec1dcfb08b911ebbd88ac1f6bf848b6",
+  "sample_id": "eec1dcfb08b911ebbd88ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director born later, Battle Of Memories or The Wedding Of Lilli Marlene?",
+  "gold_answer": "Battle Of Memories",
+  "context": [
+    "The Wedding in Monaco is a 1956 documentary film covering the celebrations in Monaco leading up to the wedding of Prince Rainier III to Grace Kelly. The 31- minute color CinemaScope film was directed by Jean Masson and released by Metro- Goldwyn- Mayer, Kelly ’s film studio before her retirement from acting.",
+    "Battle of Memories is a 2017 Chinese science fiction crime thriller film directed by Leste Chen and starring Huang Bo, Xu Jinglei, Duan Yihong, Yang Zishan and Ann Hsu. It was released in China on April 28, 2017.",
+    "Leste Chen( born 3 March 1981) is a Taiwanese film director, a screenwriter and sometimes a producer.",
+    "Martin Honert( born 1953) is a German artist based in Düsseldorf. He is known for making veristic sculptures of memories or images related to his childhood. Honert is represented by the Matthew Marks Gallery in New York.",
+    "Claude Weisz is a French film director born in Paris.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "Crime Unlimited is a 1935 British crime film that was made as a Quota quickie. It was directed by Ralph Ince. The film marked the English- language debut of Lilli Palmer.",
+    "The Wedding of Lilli Marlene is a 1953 British drama film directed by Arthur Crabtree and starring Lisa Daniely, Hugh McDermott and Sid James. It was made at Southall Studios, as a sequel to the 1950 film\" Lilli Marlene\".",
+    "Arthur Crabtree( 29 October 1900 in Shipley, Yorkshire, England – 15 March 1975 in Worthing, Sussex, England) was a British cinematographer and film director. He directed several of the Gainsborough Melodramas.",
+    "Sepideh Farsi is an Iranian film director, born in Tehran in 1965."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBattle of Memories was directed by Leste Chen.\nLeste Chen was born on 3 March 1981.\nThe Wedding of Lilli Marlene was directed by Arthur Crabtree.\nArthur Crabtree was born on 29 October 1900.\n1981 is later than 1900.\nThe film with the director born later is Battle of Memories.\n<answer> Battle of Memories",
+  "predicted_answer": "Battle of Memories",
+  "claims": [
+    "Battle of Memories was directed by Leste Chen",
+    "Leste Chen was born on 3 March 1981",
+    "The Wedding of Lilli Marlene was directed by Arthur Crabtree",
+    "Arthur Crabtree was born on 29 October 1900",
+    "1981 is later than 1900",
+    "The film with the director born later is Battle of Memories"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Battle of Memories was directed by Leste Chen",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Leste Chen was born on 3 March 1981",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The Wedding of Lilli Marlene was directed by Arthur Crabtree",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Arthur Crabtree was born on 29 October 1900",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1981 is later than 1900",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The film with the director born later is Battle of Memories",
+      "claim_type": "DR"
+    }
+  ]
+}

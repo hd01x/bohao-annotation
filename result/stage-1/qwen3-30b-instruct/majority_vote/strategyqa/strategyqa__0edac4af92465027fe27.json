@@ -1,0 +1,63 @@
+{
+  "uid": "strategyqa__0edac4af92465027fe27",
+  "sample_id": "0edac4af92465027fe27",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Cholera alive?",
+  "gold_answer": "yes",
+  "context": [
+    "Cholera are a type of bacteria.",
+    "Bacteria are considered living creatures."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCholera is a type of bacteria.\nBacteria are considered living creatures.\nCholera is a living creature.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Cholera is a type of bacteria",
+    "Bacteria are considered living creatures",
+    "Cholera is a living creature"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Cholera is a type of bacteria",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Bacteria are considered living creatures",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Cholera is a living creature",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

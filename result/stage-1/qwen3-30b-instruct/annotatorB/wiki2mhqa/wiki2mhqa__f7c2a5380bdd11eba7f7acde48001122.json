@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__f7c2a5380bdd11eba7f7acde48001122",
+  "sample_id": "f7c2a5380bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of death of Thomas Sheridan (Soldier)'s father?",
+  "gold_answer": "London",
+  "context": [
+    "Thomas E. Sheridan( born 5 September 1951) is an anthropologist of Sonora, Mexico and the history and culture of the US South West. He is Distinguished Outreach Professor at the University of Arizona, affiliated with the Department of Anthropology and the Southwest Center since 2003.",
+    "Patrick Joseph Thomas Sheridan K.H.S., K.M.,( March 10, 1922 – December 2, 2011) was an American prelate of the Roman Catholic Church who served as Auxiliary Bishop of the Archdiocese of New York from 1990 until his retirement in 2001.",
+    "General Sir Thomas Sheridan Riddell- Webster( 12 February 1886 – 27 May 1974) was Quartermaster- General to the Forces during the Second World War.",
+    "Thomas B. Sheridan( born 23 December 1929, Cincinnati, OH) is American professor of mechanical engineering and Applied Psychology Emeritus at the Massachusetts Institute of Technology. He is a pioneer of robotics and remote control technology.",
+    "He is the younger brother of Thomas Gravesen.",
+    "Thomas Sheridan (16 or 17 November 1775 – 12 September 1817), known as Tom Sheridan, was the only son of the Irish playwright and poet Richard Brinsley Sheridan and the soprano Elizabeth Ann Linley, although his father had at least one other son from a second marriage. Born in mid-November 1775, Thomas initially tried for a career in politics but was unsuccessful.",
+    "Thomas Sheridan (1687 – 10 October 1738) was an Anglican divine, essayist, playwright, poet, schoolmaster and translator. He is chiefly remembered for his friendship with Jonathan Swift.",
+    "Richard Brinsley Butler Sheridan (30 October 17517 July 1816) was an Irish satirist, a playwright, poet and long-term owner of the London Theatre Royal, Drury Lane. He is known for his plays such as \"The RivalsThe School for ScandalThe Duenna\" and \"A Trip to Scarborough\". He was also a Whig MP for 32 years in the British House of Commons for Stafford (1780–1806), Westminster (1806–1807), and Ilchester (1807–1812). He is buried at Poets' Corner in Westminster Abbey. His plays remain a central part of the canon and are regularly performed worldwide.",
+    "Thomas I. Sheridan( c. 1890 in New York City – c. 1962) was an American lawyer and politician from New York.",
+    "Sir Thomas Sheridan, the elder( c. 1646 – 1712) was the Chief Secretary for Ireland between 1687 and 1688."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThomas Sheridan (Soldier) is General Sir Thomas Sheridan Riddell-Webster.\nGeneral Sir Thomas Sheridan Riddell-Webster was born on 12 February 1886.\nHe served as Quartermaster-General to the Forces during the Second World War.\nHis father is not identified in the provided information.\nThe place of death of Thomas Sheridan (Soldier)'s father is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Thomas Sheridan (Soldier) is General Sir Thomas Sheridan Riddell-Webster",
+    "General Sir Thomas Sheridan Riddell-Webster was born on 12 February 1886",
+    "He served as Quartermaster-General to the Forces during the Second World War",
+    "His father is not identified in the provided information",
+    "The place of death of Thomas Sheridan (Soldier)'s father is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Thomas Sheridan (Soldier) is General Sir Thomas Sheridan Riddell-Webster",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "General Sir Thomas Sheridan Riddell-Webster was born on 12 February 1886",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "He served as Quartermaster-General to the Forces during the Second World War",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "His father is not identified in the provided information",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The place of death of Thomas Sheridan (Soldier)'s father is not specified",
+      "claim_type": "FC"
+    }
+  ]
+}

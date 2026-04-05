@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__8a0ed810089d11ebbd78ac1f6bf848b6",
+  "sample_id": "8a0ed810089d11ebbd78ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born first, Angel And The Badman or Happy Days In Aranjuez?",
+  "gold_answer": "Happy Days In Aranjuez",
+  "context": [
+    "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand.",
+    "Manuel' Manu' Hernández- Sonseca Hervás( born 6 June 1986 in Aranjuez, Community of Madrid) is a Spanish retired footballer who played as a defensive midfielder.",
+    "Johannes Meyer( 13 August 1888 – 25 January 1976) was a German screenwriter and film director. He directed a number of films during the Weimar, Nazi and post- War eras, most notably\" Fridericus\"( 1936), one in a series of epics about Frederick the Great.",
+    "Happy Days in Aranjuez is a 1933 German comedy film directed by Johannes Meyer and starring Brigitte Helm, Gustaf Gründgens and Wolfgang Liebeneiner. The film focus on a notorious jewel thief operating in high society. The title refers to Aranjuez in Spain. The film was made by UFA, Germany's largest studio with sets designed by art directors Erich Kettelhut and Max Mellin. It was based on a play of the same name by Hans Székely and Robert A. Stemmle. A separate French- language version with Brigitte Helm and Jean Gabin was made. In 1936 the film was remade in Hollywood as\" Desire\", a vehicle for Marlene Dietrich.",
+    "Hartley W Lobban (9 May 1926 – 15 October 2004) was a Jamaican-born first-class cricketer who played 17 matches for Worcestershire in the early 1950s.",
+    "James Edward Grant( July 2, 1905 – February 19, 1966) was an American short story writer and screenwriter who contributed to more than fifty films between 1935 and 1971. He collaborated with John Wayne on twelve projects, starting with\" Angel and the Badman\"( which he also directed) in 1947 through\" Circus World\" in 1964. \" Support Your Local Gunfighter\" was released in 1971, five years after his death.",
+    "Hassan Zee is a Pakistani- American film director who was born in Chakwal, Pakistan.",
+    "Angel and the Badman is a 1947 American Western film written and directed by James Edward Grant and starring John Wayne, Gail Russell, Harry Carey and Bruce Cabot. The film is about an injured gunfighter who is nursed back to health by a Quaker girl and her family whose way of life influences him and his violent ways. \" Angel and the Badman\" was the first film Wayne produced as well as starred in, and was a departure for this genre at the time it was released. Writer- director James Edward Grant was Wayne's frequent screenwriting collaborator. In 1975, the film entered the public domain in the United States because the claimants did not renew its copyright registration in the 28th year after publication.",
+    "Day of the Badman is a 1958 American Eastmancolor Western film directed by Harry Keller and starring Fred MacMurray, Joan Weldon and John Ericson.",
+    "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAngel and the Badman was directed by James Edward Grant.\nJames Edward Grant was born on July 2, 1905.\nHappy Days in Aranjuez was directed by Johannes Meyer.\nJohannes Meyer was born on August 13, 1888.\n1888 is earlier than 1905.\nThe director born first is Johannes Meyer.\nThe film with the director born first is Happy Days in Aranjuez.\n<answer> Happy Days in Aranjuez",
+  "predicted_answer": "Happy Days in Aranjuez",
+  "claims": [
+    "Angel and the Badman was directed by James Edward Grant",
+    "James Edward Grant was born on July 2, 1905",
+    "Happy Days in Aranjuez was directed by Johannes Meyer",
+    "Johannes Meyer was born on August 13, 1888",
+    "1888 is earlier than 1905",
+    "The director born first is Johannes Meyer",
+    "The film with the director born first is Happy Days in Aranjuez"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Angel and the Badman was directed by James Edward Grant",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "James Edward Grant was born on July 2, 1905",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Happy Days in Aranjuez was directed by Johannes Meyer",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Johannes Meyer was born on August 13, 1888",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1888 is earlier than 1905",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The director born first is Johannes Meyer",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born first is Happy Days in Aranjuez",
+      "claim_type": "DR"
+    }
+  ]
+}

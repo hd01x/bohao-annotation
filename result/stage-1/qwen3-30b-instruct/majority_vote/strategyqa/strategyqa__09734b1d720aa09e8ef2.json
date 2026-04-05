@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__09734b1d720aa09e8ef2",
+  "sample_id": "09734b1d720aa09e8ef2",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is the use of the word Gypsy by non-Romani people considered okay?",
+  "gold_answer": "no",
+  "context": [
+    "'Gypsy' is considered a slur in the Americas by Romani people.",
+    "Lady Gaga has faced online criticism regarding her use of the word 'Gypsy' as the title and lyrics of a song."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe term 'Gypsy' is considered a slur by Romani people in the Americas.\nLady Gaga has been criticized for using the word 'Gypsy' in her song title and lyrics.\nThe use of the word by non-Romani people is viewed as offensive by Romani communities.\nThe use of the word Gypsy by non-Romani people is not considered okay.\n<answer> Not okay",
+  "predicted_answer": "Not okay",
+  "claims": [
+    "The term 'Gypsy' is considered a slur by Romani people in the Americas",
+    "Lady Gaga has been criticized for using the word 'Gypsy' in her song title and lyrics",
+    "The use of the word by non-Romani people is viewed as offensive by Romani communities",
+    "The use of the word Gypsy by non-Romani people is not considered okay"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The term 'Gypsy' is considered a slur by Romani people in the Americas",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Lady Gaga has been criticized for using the word 'Gypsy' in her song title and lyrics",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The use of the word by non-Romani people is viewed as offensive by Romani communities",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The use of the word Gypsy by non-Romani people is not considered okay",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

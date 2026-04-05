@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__9fa4b205aaca877a15bf",
+  "sample_id": "9fa4b205aaca877a15bf",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would an owl monkey enjoy a strawberry?",
+  "gold_answer": "yes",
+  "context": [
+    "Owl monkeys are frugivores, and they prefer small, ripe fruit when available.",
+    "Strawberries vary in size but are generally under 2 inches across and an inch in diameter.",
+    "Strawberries are a kind of fruit."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nOwl monkeys are frugivores that prefer small, ripe fruit.\nStrawberries are a type of fruit.\nStrawberries are generally under 2 inches across and an inch in diameter.\nThe size of strawberries falls within the range of small fruit preferred by owl monkeys.\nStrawberries are typically ripe when consumed.\nOwl monkeys would enjoy a strawberry.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Owl monkeys are frugivores that prefer small, ripe fruit",
+    "Strawberries are a type of fruit",
+    "Strawberries are generally under 2 inches across and an inch in diameter",
+    "The size of strawberries falls within the range of small fruit preferred by owl monkeys",
+    "Strawberries are typically ripe when consumed",
+    "Owl monkeys would enjoy a strawberry"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Owl monkeys are frugivores that prefer small, ripe fruit",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Strawberries are a type of fruit",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Strawberries are generally under 2 inches across and an inch in diameter",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The size of strawberries falls within the range of small fruit preferred by owl monkeys",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Strawberries are typically ripe when consumed",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Owl monkeys would enjoy a strawberry",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

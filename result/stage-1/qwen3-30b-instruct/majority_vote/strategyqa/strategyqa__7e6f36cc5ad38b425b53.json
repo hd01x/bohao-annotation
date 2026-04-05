@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__7e6f36cc5ad38b425b53",
+  "sample_id": "7e6f36cc5ad38b425b53",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are there Pink music videos that are triggering for eating disorder patients?",
+  "gold_answer": "yes",
+  "context": [
+    "The video for 'Stupid Girls' features a scene where Pink and a woman share a toothbrush to induce vomiting in the bathroom.",
+    "Images or discussion of purging activity can be triggering for people with Eating Disorders."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe music video for 'Stupid Girls' includes a scene where Pink and another woman share a toothbrush to induce vomiting.\nVomiting and purging behaviors are associated with eating disorders.\nImages or discussions of purging activities can be triggering for individuals with eating disorders.\nThe 'Stupid Girls' music video contains content that may trigger eating disorder patients.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The music video for 'Stupid Girls' includes a scene where Pink and another woman share a toothbrush to induce vomiting",
+    "Vomiting and purging behaviors are associated with eating disorders",
+    "Images or discussions of purging activities can be triggering for individuals with eating disorders",
+    "The 'Stupid Girls' music video contains content that may trigger eating disorder patients"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The music video for 'Stupid Girls' includes a scene where Pink and another woman share a toothbrush to induce vomiting",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Vomiting and purging behaviors are associated with eating disorders",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Images or discussions of purging activities can be triggering for individuals with eating disorders",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The 'Stupid Girls' music video contains content that may trigger eating disorder patients",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__042463e9ca7cd4c7eb5a",
+  "sample_id": "042463e9ca7cd4c7eb5a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Do hyenas appear in a Broadway musical?",
+  "gold_answer": "yes",
+  "context": [
+    "Scar is the evil lion in Disney's Lion King.",
+    "Scar's minions are a group of hyenas.",
+    "There is a Broadway stage version of Lion King."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nScar is the evil lion in Disney's Lion King.\nScar's minions are a group of hyenas.\nThere is a Broadway stage version of Lion King.\nThe hyenas are part of Scar's entourage in the story.\nThe Broadway musical adaptation includes Scar and his minions.\nHyenas appear in the Broadway musical adaptation of Lion King.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Scar is the evil lion in Disney's Lion King",
+    "Scar's minions are a group of hyenas",
+    "There is a Broadway stage version of Lion King",
+    "The hyenas are part of Scar's entourage in the story",
+    "The Broadway musical adaptation includes Scar and his minions",
+    "Hyenas appear in the Broadway musical adaptation of Lion King"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Scar is the evil lion in Disney's Lion King",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Scar's minions are a group of hyenas",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "There is a Broadway stage version of Lion King",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The hyenas are part of Scar's entourage in the story",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Broadway musical adaptation includes Scar and his minions",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Hyenas appear in the Broadway musical adaptation of Lion King",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

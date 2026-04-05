@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__0ff6800fcdbfabb483b8",
+  "sample_id": "0ff6800fcdbfabb483b8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are Brussels sprout particularly good for adrenal fatigue?",
+  "gold_answer": "yes",
+  "context": [
+    "Adenal fatigue is a disorder in which the body does not produce enough hormones and people get tired.",
+    "Brussels sprout are foods rich in vitamin C.",
+    "When stress levels rise, the adrenal glands require more Vitamin C and it is used very quickly."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAdrenal fatigue involves insufficient hormone production and chronic tiredness.\nThe adrenal glands require increased amounts of vitamin C during periods of high stress.\nBrussels sprouts are rich in vitamin C.\nVitamin C is rapidly consumed by the adrenal glands under stress.\nConsuming foods high in vitamin C may support adrenal function during stress.\nBrussels sprouts provide a dietary source of vitamin C that can help meet increased adrenal demands.\nBrussels sprouts are particularly good for adrenal fatigue due to their high vitamin C content.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Adrenal fatigue involves insufficient hormone production and chronic tiredness",
+    "The adrenal glands require increased amounts of vitamin C during periods of high stress",
+    "Brussels sprouts are rich in vitamin C",
+    "Vitamin C is rapidly consumed by the adrenal glands under stress",
+    "Consuming foods high in vitamin C may support adrenal function during stress",
+    "Brussels sprouts provide a dietary source of vitamin C that can help meet increased adrenal demands",
+    "Brussels sprouts are particularly good for adrenal fatigue due to their high vitamin C content"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Adrenal fatigue involves insufficient hormone production and chronic tiredness",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The adrenal glands require increased amounts of vitamin C during periods of high stress",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Brussels sprouts are rich in vitamin C",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Vitamin C is rapidly consumed by the adrenal glands under stress",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Consuming foods high in vitamin C may support adrenal function during stress",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Brussels sprouts provide a dietary source of vitamin C that can help meet increased adrenal demands",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Brussels sprouts are particularly good for adrenal fatigue due to their high vitamin C content",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

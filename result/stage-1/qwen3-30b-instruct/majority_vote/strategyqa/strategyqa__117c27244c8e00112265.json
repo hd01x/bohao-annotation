@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__117c27244c8e00112265",
+  "sample_id": "117c27244c8e00112265",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would a northern fur seal pass a driving test?",
+  "gold_answer": "no",
+  "context": [
+    "A driving test measures the ability to drive according to traffic laws.",
+    "The northern fur seal does not have the ability to legally drive."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA driving test measures the ability to drive according to traffic laws.\nThe northern fur seal does not have the ability to legally drive.\nThe northern fur seal lacks the physical and cognitive capacity to operate a vehicle.\nThe northern fur seal cannot follow traffic laws.\nA northern fur seal would not pass a driving test.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "A driving test measures the ability to drive according to traffic laws",
+    "The northern fur seal does not have the ability to legally drive",
+    "The northern fur seal lacks the physical and cognitive capacity to operate a vehicle",
+    "The northern fur seal cannot follow traffic laws",
+    "A northern fur seal would not pass a driving test"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A driving test measures the ability to drive according to traffic laws",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The northern fur seal does not have the ability to legally drive",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The northern fur seal lacks the physical and cognitive capacity to operate a vehicle",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The northern fur seal cannot follow traffic laws",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A northern fur seal would not pass a driving test",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

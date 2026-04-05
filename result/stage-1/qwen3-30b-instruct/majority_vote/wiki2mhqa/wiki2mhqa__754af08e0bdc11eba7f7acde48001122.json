@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__754af08e0bdc11eba7f7acde48001122",
+  "sample_id": "754af08e0bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the father of the performer of song Don'T Touch My Hair?",
+  "gold_answer": "Mathew Knowles",
+  "context": [
+    "\"Don't Touch My Hair\" is the ninth track on American singer and songwriter Solange's third studio album, \"A Seat at the Table\". It was released by Saint Records and Columbia Records on September 30, 2016 with its music video being released the following week. It was written by Knowles, Bryndon Cook, Sampha Sisay, Dave Andrew Sitek, and Patrick Wimberly.",
+    "\" Please Do n't Touch\" is the debut single by English rock and roll group Johnny Kidd& the Pirates, released in 1959 reaching number 25 on the UK Singles Chart.",
+    "Don't Touch Me may refer to:",
+    "\" Touch My Body\" is a song by American singer and songwriter Mariah Carey, released as the lead single from her eleventh studio album,\" E= MC ²\"( 2008). Carey co-produced the song with Christopher\" Tricky\" Stewart, and they co-wrote it with Crystal\" Cri$tyle\" Johnson, and Terius\" The Dream\" Nash. \" Touch My Body\" was released as the album's lead single on February 12, 2008. The song's lyrics feature a double message, with the first describing sexual fantasies with her lover, while also jokingly warning him against recording or releasing information regarding their rendezvous. The song received generally positive reviews from music critics, with many highlighting the song's light pop melody and hook; however, it also garnered some backlash from certain music reviewers, who felt the song did not properly represent the singer's acclaimed 5- octave vocal range. \" Touch My Body\" became Carey's eighteenth chart topper on the\" Billboard\" Hot 100, making Carey the solo artist with the most number one singles in United States history, surpassing the record held by Elvis Presley. Additionally, it gave Carey her 79th week atop the chart, tying Presley for most weeks at number one. Throughout Europe, the song also achieved high charting, peaking within the top five on the charts in Italy, Japan, New Zealand, Switzerland, and the United Kingdom. Carey performed\" Touch My Body\" on several live televised events and programs, debuting it on\" Saturday Night Live\" as a two- piece performance. Similarly, Carey opened the\" Good Morning AmericaSummer Concert Series\" on April 25, 2008, singing the song, as well as two other singles from\" E= MC ²\". Similar renditions took place at the season premiere party of\" The Hills\", as well as a mash- up of the song with\" I'll Be Lovin' U Long Time\" at the Teen Choice Awards. Aside from reprising performances of the British programs\" The Sunday Night Project\" and\" The Paul O' Grady Show\", and German talent show\" Deutschland sucht den Superstar\", the song was included on the set- list of Carey's North American Angels Advocate Tour, held throughout 2009 and 2010. The song's music video was directed by filmmaker Brett Ratner, who had previously worked with Carey on five other music videos. It follows a story revolving around a computer employee's fantasy as he visits Carey's home. As he fixes her computer, he enters a fantasy in which the pair perform several activities together, including pillow fights, laser tag, Guitar Hero, slot cars, and frisbee throwing, all while Carey shows off her figure in several revealing outfits. The music video won in the category of\" Best Comedic Video\" at the 2008 BET Awards, and won the\" MTV Video Vanguard Award\" at the 2008 MTV Video Music Awards Japan. Additionally, the video was nominated for\" Best Female Video\" at the 2008 MTV Video Music Awards.",
+    "The Greatest Hits: Do n't Touch My Moustache is a greatest hits album released by rock band Hoobastank. It was released in August 2009 by Universal Records in Japan. It includes tracks from their first four studio albums, as well as non-album material. The Japanese title is 「どういたしまして」(\" Douitashimashite\"), which is Japanese for\" You're welcome\" and has a similar pronunciation to the phrase\" Do n't touch my moustache\".",
+    "\" O Valencia!\" is the fifth single by the indie rock band The Decemberists, and the first released from their fourth studio album,\" The Crane Wife\". The music was written by The Decemberists and the lyrics by Colin Meloy. It tells a story of two star- crossed lovers. The singer falls in love with a person who belongs to an opposing gang. At the end of the song, the singer's lover jumps in to defend the singer, who is confronting his lover's brother( the singer's\" sworn enemy\") and is killed by the bullet intended for the singer.",
+    "\" Another Girl\" is a song by the English rock band the Beatles from their 1965 album\" Help!\" and included in the film of the same name. The song was written by Paul McCartney but credited to Lennon – McCartney. The song is addressed to the singer's girlfriend, who is informed that the singer has found\" another girl.\"",
+    "Solange Piaget Knowles (born June 24, 1986), also known mononymously as Solange, is an American singer, songwriter, record producer, performance artist, and actress. Expressing an interest in music from an early age, Knowles had several temporary stints as a backup dancer for Destiny's Child, which featured her elder sister, Beyoncé, among its members, before signing with her father Mathew Knowles's Music World Entertainment label. At age 16, Knowles released her first studio album \"Solo Star\" (2002). Between 2005 and 2007, Knowles had several minor acting roles, including the direct-to-video  (2006) and continued writing music for Beyoncé and for former Destiny's Child group members Kelly Rowland and Michelle Williams. In 2007, Knowles began to record music again. Her second studio album \"Sol-Angel and the Hadley St. Dreams\" (2008) deviated from the pop-oriented music of her debut to the Motown Sound of the 1960s and 1970s. It peaked at number nine on US \"Billboard\" 200 and received positive reviews from critics. She followed this up with the 1980s pop and R&B–inspired extended play \"True\" (2012) on Terrible Records and her imprint Saint Records. Her third studio album, \"A Seat at the Table\" (2016) was released to widespread critical acclaim, and became her first number-one album in the United States. The album's lead single, \"Cranes in the Sky\" won the Grammy for Best R&B Performance. Her fourth studio album, \"When I Get Home\", was released in 2019. Knowles was heavily influenced by Motown girl groups and says that her first passion is songwriting. She is frequently compared by the media to her sister, Beyoncé, but Solange insists they have different aspirations and are musically different. She has been ranked by \"Billboard\" as the 100th most successful dance artist of all-time, and in 2017 was honored with the \"Impact Award\" at \"Billboard\" Women in Music. Her other ventures include an endorsement deal with Rimmel London and a line of hip-hop-oriented merchandise for young children. On November 16, 2014, Knowles married music video director Alan Ferguson in New Orleans, Louisiana.",
+    "\" Panda\" is a song of the Chilean band Astro and is the fifth song of the homonymous album of the year 2011. The song was composed and produced by the singer of the band Andrés Nusser and released like third single of the album on February 1, 2013.",
+    "Emma Dabiri is an Irish model, BBC television presenter, visual sociology researcher, and teaching fellow in the Africa department at SOAS. She has published in a number of anthologies, and is the author of the book,\" Do n't Touch My Hair\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\n\"Don't Touch My Hair\" is a song by Solange Knowles.\nSolange Knowles is the daughter of Mathew Knowles.\nMathew Knowles is the father of Solange Knowles.\nThe father of the performer of \"Don't Touch My Hair\" is Mathew Knowles.\n<answer> Mathew Knowles",
+  "predicted_answer": "Mathew Knowles",
+  "claims": [
+    "\"Don't Touch My Hair\" is a song by Solange Knowles",
+    "Solange Knowles is the daughter of Mathew Knowles",
+    "Mathew Knowles is the father of Solange Knowles",
+    "The father of the performer of \"Don't Touch My Hair\" is Mathew Knowles"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "\"Don't Touch My Hair\" is a song by Solange Knowles",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Solange Knowles is the daughter of Mathew Knowles",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Mathew Knowles is the father of Solange Knowles",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The father of the performer of \"Don't Touch My Hair\" is Mathew Knowles",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

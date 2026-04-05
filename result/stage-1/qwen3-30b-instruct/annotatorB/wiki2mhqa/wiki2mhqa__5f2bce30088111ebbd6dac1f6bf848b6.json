@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__5f2bce30088111ebbd6dac1f6bf848b6",
+  "sample_id": "5f2bce30088111ebbd6dac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do both films King Uncle and Kanyaka (Film) have the directors from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "William Albert Henry( November 10, 1914 – August 10, 1982) was an American actor who worked in both films and television.",
+    "Kanyaka is a 1978 Indian Malayalam film, directed by J. Sasikumar. The film stars Madhu, Jayan, Jayabharathi and KPAC Lalitha in the lead roles. The film has musical score by M. K. Arjunan.",
+    "Matt Corboy( born June 4, 1973) is an American actor. He has appeared in both films and television series.",
+    "Nambiathusseril Varkey John( 14 October 1927 – 17 July 2014), better known by his screen name Sasikumar, was an Indian film director who worked in Malayalam cinema. One of the most prolific directors in world cinema, he has directed more than 141 films in his career which began in the mid-1960s. He is often referred to as Hitmaker Sasikumar due to the commercial success of his films. Sasikumar holds three world records: the records for most films( 141), most films having the same actor as hero( Prem Nazir in 84 films) and the most films directed in a year( 15 films in 1977). He died in 2014 at the age of 86.",
+    "Naukane( c. 1779 – February 2, 1850), also known as John Coxe, Edward Cox, and Coxe was a Native Hawaiian chief who traveled widely through North America in the early 19th century. He was either considered a member of the royal household of Kamehameha I or a chiefly retainer, possibly the same person as Noukana, the son of High Chief Kamanawa, the King's uncle and trusted advisor.",
+    "King Uncle is a 1993 Indian Hindi- language comedy- drama film directed by Rakesh Roshan. The film stars Jackie Shroff, Shah Rukh Khan, and Anu Agarwal in the lead roles. Nagma, Paresh Rawal, Sushmita Mukherjee, Pooja Ruparel, Deven Verma in supporting roles. The film was inspired from the 1982 English film\" Annie\" that starred Aileen Marie Quinn and Albert Finney, which in turn is based upon the 1924 comic strip\" Little Orphan Annie\" by Harold Gray. Although the film was a box office success ran over 100 days at the time, it has since gained cult status and is loved by families and children. Jackie Shroff ’s performance was much loved and appreciated; as well as child artiste Pooja Ruparel as the orphan Munna.",
+    "Rakesh Roshan( born Rakesh Roshan Lal Nagrath on 6 September 1949) is an Indian producer, director, screenwriter, editor, former actor and music director in Hindi films. He is the son of Roshanlal Nagrath, who was born in Gujranwala, Punjab. He appeared in 84 films throughout the 1970s and 1980s till 1989. As an actor, he was mostly known for his supporting roles in big-budget films starring Sanjeev Kumar and Rajesh Khanna in the lead role. Later, he achieved fame for directing films with titles beginning with the letter\" K\" since 1987. As a filmmaker, his most notable work includes the drama\" Khudgarz\"( 1987), the revenge drama\" Khoon Bhari Maang\"( 1988), the comedy- drama\" Kishen Kanhaiya\"( 1990), the crime thriller\" Karan Arjun\"( 1995), the romance\" Kaho Naa ... Pyaar Hai\"( 2000), the science fiction\" Koi ... Mil Gaya\"( 2003) and the superhero\" Krrish\" film series( 20062013). Roshan won the Filmfare Award for Best Director for directing the films;\" Kaho Naa ... Pyaar Hai\" and\" Koi ... Mil Gaya\". He is the father of actor Hrithik Roshan. In January 2019, Roshan had been diagnosed with early- stage squamous cell carcinoma of the throat.",
+    "Satan Town is a 1926 American Western film featuring Harry Carey. Prints of the film have survived.",
+    "Charles K. Gifford is an American banker and businessman. He is the chairman emeritus of Bank of America having served on its board of directors from 2004 to 2016.",
+    "In 2009, Kitagawa made her directorial debut in the coming- of- age film\" Halfway\", which she also wrote and co-edited. She then wrote and directed the 2012 film\" I Have to Buy New Shoes\", a contemporary romantic comedy set in Paris. Both films were produced by her friend Shunji Iwai, and Kitagawa appeared in his 2011 documentary\" Friends after 3.11\", which explores the aftermath of the 2011 Tōhoku earthquake and tsunami."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nKing Uncle is a 1993 Indian Hindi-language film directed by Rakesh Roshan.\nRakesh Roshan is an Indian filmmaker.\nKanyaka is a 1978 Indian Malayalam film directed by J. Sasikumar.\nJ. Sasikumar, also known as Nambiathusseril Varkey John, was an Indian film director.\nBoth Rakesh Roshan and J. Sasikumar are from India.\nThe directors of both King Uncle and Kanyaka are from the same country.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "King Uncle is a 1993 Indian Hindi-language film directed by Rakesh Roshan",
+    "Rakesh Roshan is an Indian filmmaker",
+    "Kanyaka is a 1978 Indian Malayalam film directed by J. Sasikumar",
+    "J. Sasikumar, also known as Nambiathusseril Varkey John, was an Indian film director",
+    "Both Rakesh Roshan and J. Sasikumar are from India",
+    "The directors of both King Uncle and Kanyaka are from the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "King Uncle is a 1993 Indian Hindi-language film directed by Rakesh Roshan",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Rakesh Roshan is an Indian filmmaker",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Kanyaka is a 1978 Indian Malayalam film directed by J. Sasikumar",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "J. Sasikumar, also known as Nambiathusseril Varkey John, was an Indian film director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Both Rakesh Roshan and J. Sasikumar are from India",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The directors of both King Uncle and Kanyaka are from the same country",
+      "claim_type": "DR"
+    }
+  ]
+}

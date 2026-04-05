@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__8d91d1b60bb011ebab90acde48001122",
+  "sample_id": "8d91d1b60bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Eleanor Of Aragon, Countess Of Toulouse's paternal grandfather?",
+  "gold_answer": "Ramon Berenguer IV",
+  "context": [
+    "Sancho Alfonso de Castilla( 1342–1374) is known in Spanish as\" Don Sancho Alfonso de Castilla, Infante de Castilla, I conde de Alburquerque\". He was the ninth of the ten illegitimate children of King Alfonso XI of Castile and Lady Eleanor de Guzmán. He was born in Seville. He participated in a revolt of the Castilian nobles against the despotic rule of his brother, Pedro of Castile. In 1373 he married Beatrice of Portugal, daughter of Peter I of Portugal and Inês de Castro. They had two children: Fernando Sánchez, 2nd Count of Alburquerque, and Eleanor of Alburquerque, who married Ferdinand I of Aragon. He also had an illegitimate daughter, Leonor Sánchez de Castilla, who married Fadrique de Castilla y Ponce de Leon, illegitimate son of Henry II, King of Castile.",
+    "Hernando de Aragón y de Gurrea, OCist( 25 July 1498 – 29 January 1575), Archbishop of Zaragoza and Lieutenant General of Aragon, was an Aragonese humanist and historian.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "Eleanor of Aragon, Countess of Tolouse (1182–1226) was a daughter of King Alfonso II of Aragon and Sancha of Castile, Queen of Aragon. She married Raymond VI, Count of Toulouse.",
+    "Juan de Aragón y de Jonqueras, 2nd Count of Ribagorza,( 27 March 1457 in Benabarre, Spain – 5 July 1528 in Monzón, Spain) was a Viceroy of Naples( 1507 – 1509), replacing Gonzalo Fernández de Córdoba.",
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Henry J.\" Red\" Krause, Jr.( August 28, 1913 – February 20, 1987) was an American football offensive lineman in the National Football League for the Brooklyn Dodgers and the Washington Redskins. He played college football at St. Louis University. He is the grandfather of Jennifer Krause He is the great grandfather of Payton Hoeing",
+    "Alfonso II (1–25 March 1157 – 25 April 1196), called the Chaste or the Troubadour, was the King of Aragon and, as Alfons I, the Count of Barcelona from 1164 until his death. The eldest son of Count Ramon Berenguer IV of Barcelona and Queen Petronilla of Aragon, he was the first King of Aragon who was also Count of Barcelona. He was also Count of Provence, which he conquered from Douce II, from 1166 until 1173, when he ceded it to his brother, Ramon Berenguer III. His reign has been characterised by nationalistic and nostalgic Catalan historians, as \"l'engrandiment occitànic\" or \"the Pyrenean unity\": a great scheme to unite various lands on both sides of the Pyrenees under the rule of the House of Barcelona.",
+    "Alfonso de Castilla y Molina( 1286 in Valladolid – 1291 in Valladolid) was a Spanish noble in the service of the Kingdom of Castile. He was an Infante de Castilla, son of King Sancho IV de Castilla, King of Castile and of his wife, the Queen María de Molina.",
+    "Frederick\" Fred\" Le Deux( born 4 December 1934) was an Australian rules footballer who played with Geelong in the Victorian Football League( VFL). He is the grandfather of Tom Hawkins."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEleanor of Aragon, Countess of Toulouse, was a daughter of King Alfonso II of Aragon.\nKing Alfonso II of Aragon was the son of Count Ramon Berenguer IV of Barcelona and Queen Petronilla of Aragon.\nThe paternal grandfather of Eleanor of Aragon, Countess of Toulouse, is Count Ramon Berenguer IV of Barcelona.\n<answer> Count Ramon Berenguer IV of Barcelona",
+  "predicted_answer": "Count Ramon Berenguer IV of Barcelona",
+  "claims": [
+    "Eleanor of Aragon, Countess of Toulouse, was a daughter of King Alfonso II of Aragon",
+    "King Alfonso II of Aragon was the son of Count Ramon Berenguer IV of Barcelona and Queen Petronilla of Aragon",
+    "The paternal grandfather of Eleanor of Aragon, Countess of Toulouse, is Count Ramon Berenguer IV of Barcelona"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Eleanor of Aragon, Countess of Toulouse, was a daughter of King Alfonso II of Aragon",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "King Alfonso II of Aragon was the son of Count Ramon Berenguer IV of Barcelona and Queen Petronilla of Aragon",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The paternal grandfather of Eleanor of Aragon, Countess of Toulouse, is Count Ramon Berenguer IV of Barcelona",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

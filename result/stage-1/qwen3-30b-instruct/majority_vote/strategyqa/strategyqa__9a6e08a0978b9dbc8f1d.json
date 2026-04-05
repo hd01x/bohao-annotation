@@ -1,0 +1,121 @@
+{
+  "uid": "strategyqa__9a6e08a0978b9dbc8f1d",
+  "sample_id": "9a6e08a0978b9dbc8f1d",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Lil Wayne similar real name rapper has over quadruple Wayne's Grammy awards?",
+  "gold_answer": "yes",
+  "context": [
+    "Lil Wayne was born Dwayne Michael Carter.",
+    "Jay-Z was born Shawn Corey Carter.",
+    "Lil Wayne has won 5 Grammy awards.",
+    "Jay-Z has won 22 Grammy awards."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLil Wayne's real name is Dwayne Michael Carter.\nJay-Z's real name is Shawn Corey Carter.\nJay-Z has won 22 Grammy awards.\nLil Wayne has won 5 Grammy awards.\n22 is more than four times 5.\nJay-Z has over quadruple Lil Wayne's Grammy awards.\nThe rapper with a similar real name who has over quadruple Lil Wayne's Grammy awards is Jay-Z.\n<answer> Jay-Z",
+  "predicted_answer": "Jay-Z",
+  "claims": [
+    "Lil Wayne's real name is Dwayne Michael Carter",
+    "Jay-Z's real name is Shawn Corey Carter",
+    "Jay-Z has won 22 Grammy awards",
+    "Lil Wayne has won 5 Grammy awards",
+    "22 is more than four times 5",
+    "Jay-Z has over quadruple Lil Wayne's Grammy awards",
+    "The rapper with a similar real name who has over quadruple Lil Wayne's Grammy awards is Jay-Z"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lil Wayne's real name is Dwayne Michael Carter",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Jay-Z's real name is Shawn Corey Carter",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Jay-Z has won 22 Grammy awards",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Lil Wayne has won 5 Grammy awards",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "22 is more than four times 5",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Jay-Z has over quadruple Lil Wayne's Grammy awards",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The rapper with a similar real name who has over quadruple Lil Wayne's Grammy awards is Jay-Z",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

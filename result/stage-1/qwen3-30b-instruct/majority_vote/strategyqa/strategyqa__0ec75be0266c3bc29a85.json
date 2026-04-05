@@ -1,0 +1,133 @@
+{
+  "uid": "strategyqa__0ec75be0266c3bc29a85",
+  "sample_id": "0ec75be0266c3bc29a85",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is the Fibonacci number sequence longer than every number discovered in Pi?",
+  "gold_answer": "yes",
+  "context": [
+    "The Fibonaacci number is a sequence of numbers that adds a number to the one before it and goes on forever.",
+    "Pi is a sequence of numbers and 2.7 trillion digits were discovered in 2010."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Fibonacci sequence is infinite and continues indefinitely by adding the two previous numbers.\nPi is an irrational number with an infinite non-repeating decimal expansion.\n2.7 trillion digits of Pi have been computed as of 2010.\nThe Fibonacci sequence is not a finite list of digits but a growing sequence of integers.\nThe length of the Fibonacci sequence is unbounded and infinite.\nThe number of digits discovered in Pi is finite, even if very large.\nAn infinite sequence is longer than any finite sequence.\nThe Fibonacci number sequence is longer than every number discovered in Pi.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Fibonacci sequence is infinite and continues indefinitely by adding the two previous numbers",
+    "Pi is an irrational number with an infinite non-repeating decimal expansion",
+    "2.7 trillion digits of Pi have been computed as of 2010",
+    "The Fibonacci sequence is not a finite list of digits but a growing sequence of integers",
+    "The length of the Fibonacci sequence is unbounded and infinite",
+    "The number of digits discovered in Pi is finite, even if very large",
+    "An infinite sequence is longer than any finite sequence",
+    "The Fibonacci number sequence is longer than every number discovered in Pi"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Fibonacci sequence is infinite and continues indefinitely by adding the two previous numbers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Pi is an irrational number with an infinite non-repeating decimal expansion",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "2.7 trillion digits of Pi have been computed as of 2010",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Fibonacci sequence is not a finite list of digits but a growing sequence of integers",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The length of the Fibonacci sequence is unbounded and infinite",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The number of digits discovered in Pi is finite, even if very large",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "An infinite sequence is longer than any finite sequence",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The Fibonacci number sequence is longer than every number discovered in Pi",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

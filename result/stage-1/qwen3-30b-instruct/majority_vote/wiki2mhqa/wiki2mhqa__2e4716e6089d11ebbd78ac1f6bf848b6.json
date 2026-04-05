@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__2e4716e6089d11ebbd78ac1f6bf848b6",
+  "sample_id": "2e4716e6089d11ebbd78ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born earlier, Legend Of The Inca Bridge or Gangs Of New York?",
+  "gold_answer": "Legend Of The Inca Bridge",
+  "context": [
+    "Rumbi Katedza is a Zimbabwean Film Producer and Director who was born on 17 January 1974.",
+    "Hassan Zee is a Pakistani- American film director who was born in Chakwal, Pakistan.",
+    "Paccha Duchicela( 1485 – 1525), was a consort of the Inca Empire by marriage to the Sapa Inca Huayna Capac( r 1493 – 1527). She has been pointed out as the mother of Atahualpa. Paccha Duchicela was the daughter of the Puruhá chief Cacha Duchicela of Quito in Ecuador. She was the heir of her father's throne, and when Quito became a vassal of the Inca Empire, she was married to the Inca emperor. Her right to the throne of Quito was thereby transferred to the royal Inca dynasty. She is reported to have had four children by the Inca; that she was the mother of Atahualpa is not confirmed.",
+    "Herbert Asbury( September 1, 1889 – February 24, 1963) was an American journalist and writer best known for his books detailing crime during the 19th and early- 20th centuries, such as\" Gem of the Prairie: An Informal History of the Chicago Underworld The Barbary Coast: An Informal History of the San Francisco UnderworldSucker's Progress: An Informal History of Gambling in America\" and\" The Gangs of New York\". \" The Gangs of New York\" was later adapted for film as Martin Scorsese's\" Gangs of New York\"( 2002). However, the film adaptation of\" Gangs of New York\" was so loose that\" Gangs\" was nominated for\" Best Original Screenplay\" rather than as a screenplay adapted from another work.",
+    "José A( gustín) Ferreyra( 28 August 1889 – 29 January 1943), popularly known as\" Negro Ferreyra\"( Black Ferreyra, due to his mulato ethnicity), was an early Argentine film director, screenwriter and film producer. He was also sometimes credited as production designer. Ferreyra was born in Vicente López, Gran Buenos Aires. He began simultaneously directing and screenwriting for film in 1915, and moved on to success directing films such as\" Palomas rubias\" in 1920. His films tended to focus on lower- class family drama, most notably\" Perdón, viejita\"( 1927), and were filmed on a low budget and with little to no script as a guide. Ferreyra prevailes through the 1920s and 1930s as a distinguished filmmaker of the masses, but was displaced in the late 1930s and early 1940s by big budget cinema. He directed over 40 films and wrote the scripts for the majority of them between 1915 and 1941, working with noted actors such as Libertad Lamarque and Mario Soffici on his screen debut, before moving on to directing. He died on 29 January 1943 from throat cancer.",
+    "Gangs of New York is a 2002 American epic period drama film directed by Martin Scorsese, set in the New York slums, and inspired by Herbert Asbury's non-fiction book,\" The Gangs of New York\". The screenplay was written by Jay Cocks, Steven Zaillian, and Kenneth Lonergan. The film stars Leonardo DiCaprio, Daniel Day- Lewis and Cameron Diaz. In 1863, a long- running Catholic – Protestant feud erupts into violence, just as an Irish immigrant group is protesting about low wages caused by an influx of freed slaves, as well as the threat of conscription. Scorsese spent twenty years developing the project until in 1999 Harvey Weinstein and his production company Miramax Films acquired it. Made in Cinecittà, Rome and in New York, the film was completed by 2001, but its release was delayed following the September 11 attacks. Released on December 20, 2002, it grossed$ 193 million worldwide against its$ 100 million budget. The film received positive reviews from critics for Day- Lewis' performance, Scorsese's directing, the production design and costume design. It was nominated for ten Oscars at the 75th Academy Awards.",
+    "Martin Charles Scorsese( born November 17, 1942) is an American filmmaker and actor, whose career spans more than 50 years. Part of the New Hollywood wave of filmmaking, he is widely regarded as one of the most significant and influential filmmakers in cinematic history. Scorsese's body of work explores such themes as Italian- American identity, Catholic concepts of guilt and redemption, faith, machismo, modern crime, and gang conflict. Many of his films are also known for their depiction of violence and liberal use of profanity. In 1990, he founded The Film Foundation, a nonprofit organization dedicated to film preservation, and in 2007 he founded the World Cinema Foundation. He is a recipient of the AFI Life Achievement Award for his contributions to the cinema, and has won an Academy Award, a Palme d' Or, Cannes Film Festival Best Director Award, Silver Lion, Grammy Award, Emmys, Golden Globes, BAFTAs, and Directors Guild of America Awards. He has directed works such as the crime film\" Mean Streets\"( 1973), the vigilante- thriller\" Taxi Driver\"( 1976), the biographical sports drama\" Raging Bull\"( 1980), the black comedies\" The King of Comedy\"( 1983) and\" After Hours\"( 1985), the religious epic\" The Last Temptation of Christ\"( 1988), the crime film\" Goodfellas\"( 1990), the psychological thriller\" Cape Fear\"( 1991), the historical romantic drama\" The Age of Innocence\"( 1993) and the crime epics\" Casino\"( 1995) and\" The Irishman\"( 2019), most of which he collaborated on with actor and close friend Robert De Niro. Scorsese has also been noted for his successful collaborations with actor Leonardo DiCaprio, having directed him in five films, beginning with\" Gangs of New York\"( 2002) and most recently\" The Wolf of Wall Street\"( 2013). Their third film together,\" The Departed\"( 2006), won Scorsese the Academy Award for Best Director in addition to the film winning the award for Best Picture. Scorsese's other film work includes the biographical drama\" The Aviator\"( 2004), the psychological thriller\" Shutter Island\"( 2010), the historical adventure drama\" Hugo\"( 2011), and the religious epic\" Silence\"( 2016). His work in television includes the pilot episodes of the HBO series\" Boardwalk Empire\" and\" Vinyl\", the latter of which he also co-created. With eight Best Director Oscar nominations, he is the most -nominated living director and is tied with Billy Wilder for the second- most nominations overall. As a fan of rock music, he has directed several documentaries on the subject, including\" The Last Waltz\"( 1978),\" No Direction Home\"( 2005),\" Shine a Light\"( 2008),( 2011), and( 2019).",
+    "Leyenda del puente inca( English language: Legend of the Inca Bridge) is a 1923 silent Argentine film directed and written by José A. Ferreyra. The film premiered in November 1923 in Buenos Aires.",
+    "Quilago( 1485–1515) was a chieftainess or queen regnant of the Cochasquí in Ecuador, famed for her defense of the Cochasquí against the expansion of the Inca Empire. She was a chieftainess or queen of the Cochasquí around the city of Tabacundo in Ecuador. From 1513 to 1515, she defended her chiefdom against the expansionism of the Inca Empire under Huayna Capac. She was finally defeated and placed under house arrest in her city in 1515. She was possibly placed in the harem of the Inca after her defeat and has been singled out as one of the possible mothers of the Inca Atahualpa, Huayna Capac's heir, although this has never been confirmed. According to legend, she attempted to murder the Inca by setting a trap; however, he was alerted to her plans by spies and instead he had her thrown down the trap she had set for him.",
+    "Sneha Khanwalkar is an Indian music director who works in Hindi films. She is best known for her score for the film,\" Oye Lucky! Lucky Oye!\", and also for\" Gangs of Wasseypur Part 1, Part 2\". She had been nominated in Best Music Director category at the 58th Filmfare Awards for Gangs of Wasseypur Part 1& Part 2( credited as music director of\" Gangs of Wasseypur\"). She is only the second woman to gain a nomination in this category 28 years after Usha Khanna."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLegend of the Inca Bridge was directed by José A. Ferreyra.\nJosé A. Ferreyra was born on 28 August 1889.\nGangs of New York was directed by Martin Scorsese.\nMartin Scorsese was born on 17 November 1942.\n1889 is earlier than 1942.\nThe film with the director born earlier is Legend of the Inca Bridge.\n<answer> Legend of the Inca Bridge",
+  "predicted_answer": "Legend of the Inca Bridge",
+  "claims": [
+    "Legend of the Inca Bridge was directed by José A. Ferreyra",
+    "José A. Ferreyra was born on 28 August 1889",
+    "Gangs of New York was directed by Martin Scorsese",
+    "Martin Scorsese was born on 17 November 1942",
+    "1889 is earlier than 1942",
+    "The film with the director born earlier is Legend of the Inca Bridge"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Legend of the Inca Bridge was directed by José A. Ferreyra",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "José A. Ferreyra was born on 28 August 1889",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Gangs of New York was directed by Martin Scorsese",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Martin Scorsese was born on 17 November 1942",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1889 is earlier than 1942",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The film with the director born earlier is Legend of the Inca Bridge",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

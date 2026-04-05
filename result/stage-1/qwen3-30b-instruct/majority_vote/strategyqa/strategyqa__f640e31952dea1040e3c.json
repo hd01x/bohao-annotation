@@ -1,0 +1,107 @@
+{
+  "uid": "strategyqa__f640e31952dea1040e3c",
+  "sample_id": "f640e31952dea1040e3c",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Electronic Arts profit from Metroid sales?",
+  "gold_answer": "no",
+  "context": [
+    "Metroid was created and published by Nintendo.",
+    "Electronic Arts is a video game company that is a competitor to Nintendo.",
+    "Companies cannot profit of the work owned by another company typically.",
+    "Companies do not typically share profits with their competitors."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMetroid was created and published by Nintendo.\nElectronic Arts is a competitor to Nintendo.\nCompanies typically do not profit from the work owned by another company.\nCompanies do not typically share profits with their competitors.\nElectronic Arts did not create or own Metroid.\nElectronic Arts did not profit from Metroid sales.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Metroid was created and published by Nintendo",
+    "Electronic Arts is a competitor to Nintendo",
+    "Companies typically do not profit from the work owned by another company",
+    "Companies do not typically share profits with their competitors",
+    "Electronic Arts did not create or own Metroid",
+    "Electronic Arts did not profit from Metroid sales"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Metroid was created and published by Nintendo",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Electronic Arts is a competitor to Nintendo",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Companies typically do not profit from the work owned by another company",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Companies do not typically share profits with their competitors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Electronic Arts did not create or own Metroid",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Electronic Arts did not profit from Metroid sales",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

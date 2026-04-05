@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__a9d22dce3199e77dd271",
+  "sample_id": "a9d22dce3199e77dd271",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can professional boxers expect to have low dental bills?",
+  "gold_answer": "no",
+  "context": [
+    "Professional boxers often receive punches to their face.",
+    "Even with a mouth guard, dental injuries occur often in boxing.",
+    "The average cost for one dental crown is between $500-$3000"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nProfessional boxers often receive punches to their face.\nDental injuries occur frequently in boxing despite wearing mouth guards.\nThe average cost of a dental crown ranges from $500 to $3000.\nMultiple dental crowns may be required due to repeated injuries.\nHigh dental costs are likely due to the frequency and severity of injuries.\nProfessional boxers can expect to have high dental bills.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Professional boxers often receive punches to their face",
+    "Dental injuries occur frequently in boxing despite wearing mouth guards",
+    "The average cost of a dental crown ranges from $500 to $3000",
+    "Multiple dental crowns may be required due to repeated injuries",
+    "High dental costs are likely due to the frequency and severity of injuries",
+    "Professional boxers can expect to have high dental bills"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Professional boxers often receive punches to their face",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Dental injuries occur frequently in boxing despite wearing mouth guards",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The average cost of a dental crown ranges from $500 to $3000",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Multiple dental crowns may be required due to repeated injuries",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "High dental costs are likely due to the frequency and severity of injuries",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Professional boxers can expect to have high dental bills",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

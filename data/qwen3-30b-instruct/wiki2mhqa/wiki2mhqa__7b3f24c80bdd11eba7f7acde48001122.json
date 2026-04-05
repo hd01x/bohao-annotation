@@ -1,0 +1,32 @@
+{
+  "uid": "wiki2mhqa__7b3f24c80bdd11eba7f7acde48001122",
+  "sample_id": "7b3f24c80bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where did the director of film Journal Of A Crime die?",
+  "gold_answer": "New York",
+  "context": [
+    "Motherland is the place of one's birth, the place of one's ancestors, or the place of origin of an ethnic group. Motherland may also refer to:",
+    "William Jackson Keighley (August 4, 1889, Philadelphia, Pennsylvania – June 24, 1984, New York, New York) was an American stage actor and Hollywood film director. After graduating from the Ludlum School of Dramatic Art, Keighley began acting at the age of 23. By the 1910s and 1920s, he was acting and directing on Broadway. With the advent of talking pictures, he relocated to Hollywood. He eventually signed with Warner Bros., where he proved adept at directing in a wide variety of genres. He was the initial director of \"The Adventures of Robin Hood\", starring Errol Flynn and Olivia de Havilland, but was replaced by Michael Curtiz. During World War II, he supervised the First Motion Picture Unit of the U.S. Army Air Forces. He retired in 1953 and moved to Paris with his actress wife Genevieve Tobin. In retirement he became an award-winning, renowned still photographer. He died of a stroke.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Božidar Zečević( Belgrade, January 2, 1948) is the leading Serbian filmologist, film historian, dramatist, screenwriter, director, university professor of film analysis, founder and editor- in- chief of the film journal\" Filmograf\".",
+    "Journal of a Crime is a 1934 American pre-Code film produced by First National Pictures, directed by William Keighley, and starring Ruth Chatterton, Adolphe Menjou, and Claire Dodd. The film is a remake of the 1933 French film, \"Une vie perdue\",written by Jacques Deval.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Karin Fossum( born 6 November 1954) is a Norwegian author of crime fiction, often referred to as the\" Norwegian queen of crime\".",
+    "\" Where Was I?\" may refer to:",
+    "The place of birth( POB) or birthplace is the place where a person was born. This place is often used in legal documents, together with name and date of birth, to uniquely identify a person. As a general rule with respect to passports, the place of birth is determined to be the country that currently has\" sovereignty\" over the actual place of birth, regardless of when the birth actually occurred. The place of birth is not necessarily the place where the parents of the new baby live. If the baby is born in a hospital in another place, that place is the place of birth. In many countries, this also means that the government requires that the birth of the new baby is registered in the place of birth. Some countries place less or no importance on the place of birth, instead using alternative geographical characteristics for the purpose of identity documents. For example, Sweden has used the concept of\" födelsehemortdomicile of birth\") since 1947. This means that the domicile of the baby's mother is the registered place of birth. The location of the maternity ward or other physical birthplace is considered unimportant. Similarly, Switzerland uses the concept of\" Heimatortlieu d'origineluogo d'origineplace of origin\" in German, French and Italian respectively). A child born to Swiss parents is automatically assigned the place of origin of the parent with the same last name, so the child either gets their mother's or father's place of origin. A child born to one Swiss parent and one foreign parent acquires the place of origin of their Swiss parent. In a Swiss passport and identity card, the holder's place of origin is stated, not their place of birth. In some countries( primarily in the Americas), the place of birth automatically determines the nationality of the baby, a practice often referred to by the Latin phrase\" jus soli\". Almost all countries outside the Americas instead attribute nationality based on the nationality( ies) of the baby's parents( referred to as\" jus sanguinis\"). There can be some confusion regarding the place of birth if the birth takes place in an unusual way: when babies are born on an airplane or at sea, difficulties can arise. The place of birth of such a person depends on the law of the countries involved, which include the nationality of the plane or ship, the nationality( ies) of the parents and/ or the location of the plane or ship( if the birth occurs in the territorial waters or airspace of a country). Some administrative forms may request the applicant's\" country of birth\". It is important to determine from the requester whether the information requested refers to the applicant's\" place of birth\" or\" nationality at birth\". For US citizens born abroad who under the US Constitution acquire US citizenship at the time of birth, the nationality at birth will be USA( American), while the place of birth would be the country in which the actual birth takes place.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJournal of a Crime was directed by William Keighley.\nWilliam Keighley died on June 24, 1984.\nWilliam Keighley died in New York, New York.\nThe director of the film Journal of a Crime died in New York, New York.\nSo, the answer is New York, New York.\n<answer> New York, New York",
+  "claims": [
+    "Journal of a Crime was directed by William Keighley",
+    "William Keighley died on June 24, 1984",
+    "William Keighley died in New York, New York",
+    "The director of the film Journal of a Crime died in New York, New York",
+    "So, the answer is New York, New York"
+  ],
+  "predicted_answer": "New York, New York"
+}

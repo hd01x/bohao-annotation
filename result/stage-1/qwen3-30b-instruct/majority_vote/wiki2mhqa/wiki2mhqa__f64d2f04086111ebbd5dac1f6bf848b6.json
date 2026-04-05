@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__f64d2f04086111ebbd5dac1f6bf848b6",
+  "sample_id": "f64d2f04086111ebbd5dac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film whose director is younger, Hell To Pay (2014 Film) or Darwin'S Nightmare?",
+  "gold_answer": "Darwin'S Nightmare",
+  "context": [
+    "Orla O'Rourke is an Irish actress, best known for her role in the 2014 film\" Calvary\".",
+    "Circle is a 2014 film written and directed by Atıl İnaç.",
+    "Hell of Borneo also known as Hell to Borneo and From Hell to Borneo is a 1964 English language Philippine film produced by and starring George Montgomery who also directed and co-wrote the screenplay. The film does not take place in Borneo.",
+    "Lisa Bruce is an American film producer known for the 2014 film\" The Theory of Everything\".",
+    "Hell- to- Pay Austin( also known, without hyphens, as Hell to Pay Austin) is a 1916 American silent comedy- drama film directed by Paul Powell and starring Wilfred Lucas in the title role, with Bessie Love, Eugene Pallette, and Mary Alden in supporting roles. Written by Mary H. O'Connor, the film was produced by D. W. Griffith's Fine Arts Film Company and distributed by Triangle Film Corporation. It is presumed lost.",
+    "Jay Robert Jennings( born August 23, 1965) is an American independent filmmaker and author. He has directed two feature films,\" Loanshark\"( 1999) and\" Hell to Pay\"( 2014), as well as, an assortment of short films and documentaries. Jennings uses handheld cameras and cinéma vérité techniques, shooting his films among old Hollywood buildings and streets.",
+    "Hell to Pay is a 2014 black- and- white neo-noir film written and directed by Jay Jennings. The film pays homage to 1950s film noir and 1970s crime dramas.",
+    "La Bestia humana is a 1957 Argentine film whose story is based on the novel\" La Bête Humaine\" by the French writer Émile Zola.",
+    "Hubert Sauper( born 27 July 1966) is an Austrian documentary filmmaker, director, writer, producer, and actor best known for the highly controversial\" Darwin's Nightmare\"( 2004) which was nominated for an Academy Award. Sauper has lived in the UK, Italy, and the United States and now lives in France. He studied film directing in universities in Vienna and France. He teaches film classes in Europe and the USA. Sauper is famed for his political documentary films, shot in cinema verite style. He earned worldwide recognition for his film's expression, content, and aesthetics. His films are usually controversial for their explicit political, social, and poetic expression. Sauper's film\" Darwin's Nightmare\" was nominated for best documentary at the Oscars, and he has been awarded for his work with more than 50 international film prizes. His two latest documentaries have received twelve International Film Prizes. He acted in several short films and two feature- length films:\" In The Circle Of The Iris\", directed by Peter Patzak,( with Philippe Léotard), and\" Blue Distance\", directed by Peter Schreiner. Hubert Sauper is also a member of: Academy of Motion Picture Arts and Sciences, European Film Academy, and Academie Francaise du Cinema. He has taught as a visiting professor/ tutor at Harvard, Yale, UCLA, Columbia University, Colorado University, Universidad de Caracas, Universidad de la Havana, FEMIS( French film school), Moscow International Film School, Istanbul University, and Southern Mediterranean Cinema School.",
+    "Darwin's Nightmare is a 2004 Austrian- French- Belgian documentary film written and directed by Hubert Sauper, dealing with the environmental and social effects of the fishing industry around Lake Victoria in Tanzania. It premiered at the 2004 Venice Film Festival, and was nominated for the 2006 Academy Award for Best Documentary Feature at the 78th Academy Awards. \" The Boston Globe\" called it\" the year's best documentary about the animal world.\""
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nJay Robert Jennings was born on August 23, 1965.\nJay Jennings directed Hell to Pay (2014).\nHubert Sauper was born on July 27, 1966.\nHubert Sauper directed Darwin's Nightmare (2004).\n1965 is earlier than 1966.\nJay Robert Jennings is younger than Hubert Sauper.\nThe director of Hell to Pay (2014) is younger than the director of Darwin's Nightmare.\n<answer> Hell to Pay (2014)",
+  "predicted_answer": "Hell to Pay (2014)",
+  "claims": [
+    "Jay Robert Jennings was born on August 23, 1965",
+    "Jay Jennings directed Hell to Pay (2014)",
+    "Hubert Sauper was born on July 27, 1966",
+    "Hubert Sauper directed Darwin's Nightmare (2004)",
+    "1965 is earlier than 1966",
+    "Jay Robert Jennings is younger than Hubert Sauper",
+    "The director of Hell to Pay (2014) is younger than the director of Darwin's Nightmare"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Jay Robert Jennings was born on August 23, 1965",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Jay Jennings directed Hell to Pay (2014)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Hubert Sauper was born on July 27, 1966",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Hubert Sauper directed Darwin's Nightmare (2004)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1965 is earlier than 1966",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Jay Robert Jennings is younger than Hubert Sauper",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The director of Hell to Pay (2014) is younger than the director of Darwin's Nightmare",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

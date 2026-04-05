@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__58f7df5e3836b24b08d0",
+  "sample_id": "58f7df5e3836b24b08d0",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can Cyril Ramaphosa become Secretary General of NATO?",
+  "gold_answer": "no",
+  "context": [
+    "Cyril Ramaphosa is the President of South Africa",
+    "The Secretary General of NATO comes from one of NATO's member countries",
+    "South Africa is not a member of NATO"
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCyril Ramaphosa is the President of South Africa.\nSouth Africa is not a member of NATO.\nThe Secretary General of NATO must come from one of NATO's member countries.\nCyril Ramaphosa is not from a NATO member country.\nCyril Ramaphosa cannot become Secretary General of NATO.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Cyril Ramaphosa is the President of South Africa",
+    "South Africa is not a member of NATO",
+    "The Secretary General of NATO must come from one of NATO's member countries",
+    "Cyril Ramaphosa is not from a NATO member country",
+    "Cyril Ramaphosa cannot become Secretary General of NATO"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Cyril Ramaphosa is the President of South Africa",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "South Africa is not a member of NATO",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Secretary General of NATO must come from one of NATO's member countries",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Cyril Ramaphosa is not from a NATO member country",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Cyril Ramaphosa cannot become Secretary General of NATO",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

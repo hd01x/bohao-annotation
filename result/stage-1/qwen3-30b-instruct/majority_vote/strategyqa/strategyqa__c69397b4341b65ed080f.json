@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__c69397b4341b65ed080f",
+  "sample_id": "c69397b4341b65ed080f",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is the language used in Saint Vincent and the Grenadines rooted in English?",
+  "gold_answer": "yes",
+  "context": [
+    "The primary language spoken in Saint Vincent and the Grenadines is Vincentian Creole.",
+    "Vincentian Creole is English-based, with elements of French, Antillean Creole, and indigenous South American and African languages."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe primary language spoken in Saint Vincent and the Grenadines is Vincentian Creole.\nVincentian Creole is English-based.\nEnglish-based languages have their roots in English.\nThe language used in Saint Vincent and the Grenadines is rooted in English.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The primary language spoken in Saint Vincent and the Grenadines is Vincentian Creole",
+    "Vincentian Creole is English-based",
+    "English-based languages have their roots in English",
+    "The language used in Saint Vincent and the Grenadines is rooted in English"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The primary language spoken in Saint Vincent and the Grenadines is Vincentian Creole",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Vincentian Creole is English-based",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "English-based languages have their roots in English",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The language used in Saint Vincent and the Grenadines is rooted in English",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

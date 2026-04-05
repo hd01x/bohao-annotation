@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__c6339a040bdd11eba7f7acde48001122",
+  "sample_id": "c6339a040bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of the director of film Growing Up Smith?",
+  "gold_answer": "Melbourne",
+  "context": [
+    "Lewis Smith( born August 1, 1956) is an American actor.",
+    "Bruce Smith( born 1946) is an American poet.",
+    "Chen Kunhou( born 25 July 1939 in Taichū, Japanese Formosa) is a Taiwanese film director and cinematographer. He is known for his film\" Growing Up\"( 1983), one of the films that initiated the Taiwan New Cinema movement. Chen was also the cinematographer for several of fellow director Hou Hsiao-hsien's earlier films.",
+    "Frank Lotito is an Australian actor, comedian, film director and film producer. He currently resides in Melbourne, Australia with his wife and children.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Growing Up Smith is a 2017 comedy-drama film written by Anjul Nigam, Paul Quinn, and Gregory Scott Houghton. It was produced by Anjul Nigam, Frank Lotito, and Steve Straka and directed by Frank Lotito. Prior to its theatrical release, the film was originally produced and exhibited in some festivals under the title \"Good Ol' Boy\". The movie takes place in 1979, when an Indian family moves to America with hopes of living the American Dream. While their 10-year-old boy Smith falls head-over-heels for the girl next door, his desire to become a \"good old boy\" propels him further away from his family's ideals than ever before. The film premiered on June 1, 2015, at the Seattle International Film Festival, where it won the Best of the Fest Top Five. \" Growing Up Smith\" went on to win the Audience Awards at the Woodstock Film Festival, Naples International Film Festival, Prescott Film Festival; the Jury Prize at CAAMFest; and the Best Family Film at Garden State Film Festival. It was the Opening Night Film at the Cleveland International Film Festival and the SouthSide Film Festival. The movie had its theatrical release in select cities in the United States on February 3, 2017, and expanded wider on February 10, 2017. Produced for $2 million, it received mostly positive reviews including TIME Magazine's Pick of the Week.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGrowing Up Smith is a 2017 comedy-drama film directed by Frank Lotito.\nFrank Lotito is an Australian actor, comedian, film director, and film producer.\nFrank Lotito currently resides in Melbourne, Australia with his wife and children.\nThe place of birth of the director of Growing Up Smith is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Growing Up Smith is a 2017 comedy-drama film directed by Frank Lotito",
+    "Frank Lotito is an Australian actor, comedian, film director, and film producer",
+    "Frank Lotito currently resides in Melbourne, Australia with his wife and children",
+    "The place of birth of the director of Growing Up Smith is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Growing Up Smith is a 2017 comedy-drama film directed by Frank Lotito",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Frank Lotito is an Australian actor, comedian, film director, and film producer",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Frank Lotito currently resides in Melbourne, Australia with his wife and children",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The place of birth of the director of Growing Up Smith is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

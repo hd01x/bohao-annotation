@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__07d6f60c085c11ebbd5cac1f6bf848b6",
+  "sample_id": "07d6f60c085c11ebbd5cac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who is older than the other, The Man With The Glass Eye or The Pom Pom Girls? ",
+  "gold_answer": "The Man With The Glass Eye",
+  "context": [
+    "Alfred Vohrer( 29 December 1914 – 3 February 1986) was a German film director and actor. He directed 48 films between 1958 and 1984. His 1969 film\" Seven Days Grace\" was entered into the 6th Moscow International Film Festival. His 1972 film\" Tears of Blood\" was entered into the 8th Moscow International Film Festival. His 1974 film\" Only the Wind Knows the Answer\" was entered into the 9th Moscow International Film Festival.",
+    "Joseph Porter Ruben( born May 10, 1950) is an American film director, screenwriter and producer.",
+    "The Man with the Glass Eye( German: Der Mann mit dem Glasauge) is a 1969 West German crime film directed by Alfred Vohrer and starring Horst Tappert, Karin Hübner and Hubert von Meyerinck. It is part of Rialto Film's long- running series of Edgar Wallace adaptations. The film's sets were designed by the art directors Walter Kutz and Wilhelm Vorwerg. It was shot at the Spandau Studios and on location in West Berlin, Hamburg and London.",
+    "The Man with Two Faces is a 1975 South Korean horror film.",
+    "Mr. Boo Meets Pom Pom is a 1985 Hong Kong comedy film directed by Wu Ma and starring Richard Ng and John Shum. It is the third film in the\" Pom Pom\" film series which is a spin- off the My Lucky Stars series.",
+    "The Man with the Fake Banknote or The Man with the Counterfeit Money( German: Der Mann mit der falschen Banknote) is a 1927 German silent crime film directed by Romano Mengon and starring Nils Asther, Vivian Gibson and Margarete Lanner. The film's art direction was by Robert A. Dietrich.",
+    "The Man with the Gun is a 1938 Soviet history drama film directed by Sergei Yutkevich.",
+    "The Return of Pom Pom is a 1984 Hong Kong comedy film directed by Philip Chan and starring Richard Ng and John Shum. It is the second film in the\" Pom Pom\" film series which is a spin- off the\" My Lucky Stars\" series.",
+    "The Pom Pom Girls( also known as Palisades High) is a 1976 film directed by Joseph Ruben. The screenplay was written by Ruben and based on a story by him and Robert J. Rosenthal. The movie was shot on location at Chaminade High School in Los Angeles. The Pom Pom Girls is a teensploitation film, female relationships and cheerleaders in locations that are\" any town\" American. Disobedient teens in a date movie with romance and sex, plenty of outdoor activities, stunts that are coordinated for actors and actresses, and indoor activities for a new audience.",
+    "Mr. Boo Meets Pom Pom is a 1986 Hong Kong comedy film directed by Wu Ma and starring Richard Ng and John Shum. It is the fourth and final film in the\" Pom Pom\" film series which is a spin- off the My Lucky Stars series."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAlfred Vohrer was born on 29 December 1914.\nJoseph Porter Ruben was born on 10 May 1950.\n1914 is earlier than 1950.\nAlfred Vohrer is older than Joseph Porter Ruben.\nThe Man with the Glass Eye was directed by Alfred Vohrer.\nThe Pom Pom Girls was directed by Joseph Ruben.\nThe film directed by the older director is The Man with the Glass Eye.\n<answer> The Man with the Glass Eye",
+  "predicted_answer": "The Man with the Glass Eye",
+  "claims": [
+    "Alfred Vohrer was born on 29 December 1914",
+    "Joseph Porter Ruben was born on 10 May 1950",
+    "1914 is earlier than 1950",
+    "Alfred Vohrer is older than Joseph Porter Ruben",
+    "The Man with the Glass Eye was directed by Alfred Vohrer",
+    "The Pom Pom Girls was directed by Joseph Ruben",
+    "The film directed by the older director is The Man with the Glass Eye"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Alfred Vohrer was born on 29 December 1914",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Joseph Porter Ruben was born on 10 May 1950",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1914 is earlier than 1950",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Alfred Vohrer is older than Joseph Porter Ruben",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The Man with the Glass Eye was directed by Alfred Vohrer",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The Pom Pom Girls was directed by Joseph Ruben",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "The film directed by the older director is The Man with the Glass Eye",
+      "claim_type": "DR"
+    }
+  ]
+}

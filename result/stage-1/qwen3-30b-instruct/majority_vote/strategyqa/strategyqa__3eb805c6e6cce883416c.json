@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__3eb805c6e6cce883416c",
+  "sample_id": "3eb805c6e6cce883416c",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can preventive healthcare reduce STI transmission?",
+  "gold_answer": "yes",
+  "context": [
+    "Preventive healthcare includes screenings for STI/STD's. ",
+    "Increases in testing for STI's allow for citizens to protect themselves from infection and contain outbreaks."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPreventive healthcare includes screenings for sexually transmitted infections (STIs).\nScreenings enable early detection of STIs before symptoms appear.\nEarly detection allows individuals to receive timely treatment and prevent further transmission.\nIncreased testing helps contain outbreaks by identifying and isolating infected individuals.\nPreventive healthcare measures such as STI screenings reduce the likelihood of transmission.\nPreventive healthcare can reduce STI transmission.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Preventive healthcare includes screenings for sexually transmitted infections (STIs)",
+    "Screenings enable early detection of STIs before symptoms appear",
+    "Early detection allows individuals to receive timely treatment and prevent further transmission",
+    "Increased testing helps contain outbreaks by identifying and isolating infected individuals",
+    "Preventive healthcare measures such as STI screenings reduce the likelihood of transmission",
+    "Preventive healthcare can reduce STI transmission"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Preventive healthcare includes screenings for sexually transmitted infections (STIs)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Screenings enable early detection of STIs before symptoms appear",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Early detection allows individuals to receive timely treatment and prevent further transmission",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Increased testing helps contain outbreaks by identifying and isolating infected individuals",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Preventive healthcare measures such as STI screenings reduce the likelihood of transmission",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Preventive healthcare can reduce STI transmission",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

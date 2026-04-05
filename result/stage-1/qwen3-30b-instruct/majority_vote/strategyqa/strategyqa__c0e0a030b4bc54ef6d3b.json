@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__c0e0a030b4bc54ef6d3b",
+  "sample_id": "c0e0a030b4bc54ef6d3b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would someone with leukophobia enjoy looking at the Flag of the United States?",
+  "gold_answer": "no",
+  "context": [
+    "Leukophobia is a fear of the color white.",
+    "The United States flag is colored red, white, and blue.",
+    "People do not typically enjoy facing their fears."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLeukophobia is a fear of the color white.\nThe United States flag contains the color white.\nPeople with a phobia typically do not enjoy facing their fear.\nSomeone with leukophobia would not enjoy looking at the color white.\nThe flag of the United States includes white, which would trigger discomfort in someone with leukophobia.\nSomeone with leukophobia would not enjoy looking at the Flag of the United States.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Leukophobia is a fear of the color white",
+    "The United States flag contains the color white",
+    "People with a phobia typically do not enjoy facing their fear",
+    "Someone with leukophobia would not enjoy looking at the color white",
+    "The flag of the United States includes white, which would trigger discomfort in someone with leukophobia",
+    "Someone with leukophobia would not enjoy looking at the Flag of the United States"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Leukophobia is a fear of the color white",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The United States flag contains the color white",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "People with a phobia typically do not enjoy facing their fear",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Someone with leukophobia would not enjoy looking at the color white",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The flag of the United States includes white, which would trigger discomfort in someone with leukophobia",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Someone with leukophobia would not enjoy looking at the Flag of the United States",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

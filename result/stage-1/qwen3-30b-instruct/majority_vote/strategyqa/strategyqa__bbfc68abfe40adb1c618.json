@@ -1,0 +1,135 @@
+{
+  "uid": "strategyqa__bbfc68abfe40adb1c618",
+  "sample_id": "bbfc68abfe40adb1c618",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is tobacco use made to seem enjoyable in Alice's Adventures in Wonderland?",
+  "gold_answer": "yes",
+  "context": [
+    "In Alice's Adventures in Wonderland, one of the characters is a caterpillar that smokes hookah.",
+    "Hookah is a water pipe used to smoke tobacco products.",
+    "The caterpillar speaks to Alice while making letters out of the smoke he blows."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe caterpillar in Alice's Adventures in Wonderland smokes a hookah.\nHookah is a device used to smoke tobacco products.\nThe caterpillar blows smoke in the form of letters while speaking to Alice.\nThe act of smoking is portrayed as a calm, deliberate, and almost ritualistic activity.\nThe caterpillar's behavior is not shown to have negative consequences in the narrative.\nThe scene does not depict smoking as harmful or unpleasant.\nTobacco use is presented in a neutral to positive light through the caterpillar's composed demeanor.\nTobacco use is made to seem enjoyable in Alice's Adventures in Wonderland.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The caterpillar in Alice's Adventures in Wonderland smokes a hookah",
+    "Hookah is a device used to smoke tobacco products",
+    "The caterpillar blows smoke in the form of letters while speaking to Alice",
+    "The act of smoking is portrayed as a calm, deliberate, and almost ritualistic activity",
+    "The caterpillar's behavior is not shown to have negative consequences in the narrative",
+    "The scene does not depict smoking as harmful or unpleasant",
+    "Tobacco use is presented in a neutral to positive light through the caterpillar's composed demeanor",
+    "Tobacco use is made to seem enjoyable in Alice's Adventures in Wonderland"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The caterpillar in Alice's Adventures in Wonderland smokes a hookah",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Hookah is a device used to smoke tobacco products",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The caterpillar blows smoke in the form of letters while speaking to Alice",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The act of smoking is portrayed as a calm, deliberate, and almost ritualistic activity",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The caterpillar's behavior is not shown to have negative consequences in the narrative",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The scene does not depict smoking as harmful or unpleasant",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Tobacco use is presented in a neutral to positive light through the caterpillar's composed demeanor",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Tobacco use is made to seem enjoyable in Alice's Adventures in Wonderland",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

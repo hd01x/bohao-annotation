@@ -1,0 +1,237 @@
+{
+  "uid": "medhop__MH_dev_324",
+  "sample_id": "MH_dev_324",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00133\", \"DB00193\", \"DB00981\", \"DB03428\", \"DB04970\", \"DB06692\", \"DB08868\", \"DB09029\", and \"DB09217\" interacts with DB00682?",
+  "gold_answer": "DB00193",
+  "context": [
+    "Population studies of polymorphisms at loci of neuropsychiatric interest ( tryptophan hydroxylase ( P17752 ) , dopamine transporter protein ( Q01959 ) , D3 dopamine receptor ( P35462 ) , apolipoprotein E ( P02649 ) , mu opioid receptor ( P35372 ) , and ciliary neurotrophic factor ( P26441 ) ) . We determined allele frequencies for polymorphisms at several loci of interest in neuropsychiatry-tryptophan hydroxylase ( P17752 ) , dopamine transporter protein ( Q01959 ) , D3 dopamine receptor ( P35462 ) , apolipoprotein E ( P02649 ) , ciliary neurotrophic factor ( P26441 ) , and the mu opioid receptor ( P35372 ) -in samples of individuals from populations in several different parts of the world . Associations with psychiatric illness have been proposed for specific polymorphisms at P17752 ( suicide-related behaviors and impulsivity ) , P35462 ( schizophrenia and bipolar affective disorder ) , Q01959 ( susceptibility to cocaine-induced paranoia and attention-deficit disorder ) , P26441 ( psychosis ) , and P35372 ( substance dependence ) . P02649 alleles are related to risk of Alzheimer disease . We found significant allele frequency variation among populations at all six loci . These results will provide a global framework of normal variation at these loci that might have functional significance or otherwise be related to susceptibility to various disorders or behavioral phenomena . Knowledge of this variation can be important for study design and data interpretation when individuals from various population groups are research subjects and may eventually help lead to a better understanding of behavioral adaptation .",
+    "Inhibition of Q16552 as a pharmacological approach for Q9UKU7 . Several experimental approaches have been utilized , in order to critically examine the roles of Q16552 family members in intestinal inflammation . These approaches have included : ( 1 ) the use of Q16552 and Q96PD4 -deficient mice , ( 2 ) specific antibodies directed against Q16552 , ( 3 ) an Q16552 vaccine , ( 4 ) methods to block the Q16552 receptor and ( 5 ) small-molecule inhibitors of Q16552 . Previous studies found somewhat conflicting results in preclinical models of Inflammatory Bowel Disease ( Q9UKU7 ) , using specific strains of Q16552 -deficient mice . This paper will review the preclinical results using various pharmacological approaches [ specific Q16552 antibodies , an Q16552 receptor fusion protein , IL-12/IL-23 p40 subunit and Q16552 vaccine approaches , as well as a small molecule inhibitor ( Vidofludimus ) ] to inhibit Q16552 in animal models of Q9UKU7 . Recent clinical results in patients with Q9UKU7 will also be discussed for DB09029 ( an Q16552 antibody ) , Brodalumab ( an Q16552 receptor antibody ) and two small-molecule drugs ( Vidofludimus and DB08895 ) , which inhibit Q16552 as part of their overall pharmacological profiles . This review paper will also discuss some pharmacological lessons learned from the preclinical and clinical studies with anti- Q16552 drugs , as related to drug pharmacodynamics , Q16552 receptor subtypes and other pertinent factors . Finally , future pharmacological approaches of interest will be discussed , such as : ( 1 ) Retinoic acid receptor-related orphan nuclear receptor gamma t ( Rorγt ) antagonists , ( 2 ) P10276 ( RARα ) antagonists , ( 3 ) Pim-1 kinase inhibitors and ( 4 ) Dual small-molecule inhibitors of NF-κB and P40763 , like synthetic triterpenoids .",
+    "Consequences of the Y139F Vkorc1 mutation on resistance to AVKs : in-vivo investigation in a 7th generation of congenic Y139F strain of rats . OBJECTIVES : In humans , warfarin is used as an anticoagulant to reduce the risk of thromboembolic clinical events . DB00682 derivatives are also used as rodenticides in pest control . The gene encoding the protein targeted by anticoagulants is the Vitamin K-2,3-epoxide reductase subunit 1 ( Q9BQB6 ) . Since its discovery in 2004 , various amino acid and transcription-regulatory altering Q9BQB6 mutations have been identified in patients who required extreme antivitamin K dosages , or wild populations of rodents that were difficult to control with anticoagulant rodenticides . One unresolved question concerns the dependency of the Q9BQB6 on the genetic background in humans and rodents that respond weakly or not at all to anticoagulants . Moreover , an important question requiring further analyses concerns the role of the Vkorc1 gene in mediating resistance to more recently developed warfarin derivatives ( superwarfarins ) . METHODS : In this study , we bred a quasicongenic rat strain by using a wild-caught anticoagulant resistant rat as a donor to introduce the Y > F amino acid change at position 139 in the Vkorc1 into the genetic background of an anticoagulant susceptible Spraque-Dawley recipient strain . RESULTS AND CONCLUSION : In this manuscript we report the prothrombin times measured in the P08709 generation after exposure to chlorophacinone , bromadiolone , difenacoum and difethialone . We observed that the mutation Y139F mediates resistance in an otherwise susceptible genetic background when exposed to chlorophacinone and bromadiolone . However , the physiological response to the super-warfarins , difenacoum and difethialone , may be strongly dependent on other genes located outside the congenic interval ( 28.3 cM ) bracketing the Vkorc1 in our P08709 generation congenic strain .",
+    "P12004 -dependent kinase 5 is associated with risk for Alzheimer 's disease in a Dutch population-based study . Although the role of the Cdk5 protein in Alzheimer 's disease ( AD ) is well recognized , there have been relatively few studies investigating genetic variants in the Q00535 gene in AD . In this study , we assessed the association between five previously described single nucleotide polymorphisms ( SNPs ) in the Q00535 gene and late onset AD by means of logistic regression and haplotype association analyses . Including all prevalent and incident AD cases , we found a significantly increased risk of AD for carriers of the GG genotype of SNP rs2069442 ( OR = 1.79 , 95 % CI 1.16-2.79 , p = 0.001 ) in those without P02649 *4 . When limiting the analysis to incident cases without P02649 *4 , carriers of the GG genotype showed a 1.9-fold increased risk of AD ( 95 % CI 1.16-3.10 , p = 0.003 ) . Variations in the Q00535 gene can be described in 5 haplotype blocks . In our analysis , the haplotype tagged by the G allele of SNP rs2069442 was significantly associated with AD ( p = 0.05 ) . In conclusion , our study suggests that Q00535 may be associated with AD .",
+    "Polymorphisms of the HTR1a allele are linked to frontal brain electrical asymmetry . Polymorphic variations in genes related to serotonin synthesis , transport , recognition , or degradation may convey subtle changes in serotonin system architecture that may place an individual at risk for psychopathology when faced with life stressors . The relationship between three key serotonin alleles and frontal brain electrical asymmetry , a putative endophenotype of depression , was examined . Risk alleles were hypothesized to predict relatively greater right frontal brain activity regardless of current clinical state . A sample of 313 college-age individuals , spanning a range of depressive severity from no symptomotology to clinically meaningful levels , participated . Resting encephalographic ( EEG ) activity was recorded from 64 scalp sites on four occasions separated by at least 24h ( two 8-min recording sessions occurring at each occasion ) . Alpha power asymmetry scores between homologous sites were calculated for each session and then averaged to form a trait metric of asymmetry for each pair . PCR based genotyping was conducted for the HTR1a , HTR2a , and HTTLPR genes . Variations in the HTR1a gene were related to trait EEG asymmetry , regardless of any history of depression . Compared to subjects with at least one non-risk allele , subjects with homozygous P08908 risk alleles had significantly greater relative right frontal activity at sites P08709 / P00451 , P12259 /F6 , and F1/F2 . In conclusion , variation in HTR1a can influence trait level brain activity , which may ultimately be indicative of risk for psychopathology .",
+    "Novel pyrrolyllactone and pyrrolyllactam indolinones as potent cyclin-dependent kinase 2 inhibitors . P12004 -dependent kinases ( CDKs ) are essential in the control of cell cycle progression . Inhibition of CDKs represents a new approach for pharmacological intervention in the treatment of a variety of proliferative diseases , especially cancer . Based on the crystal structure of P24941 in complex with an imidazole indolinone compound 1 ( DB03428 ) , lead optimization through modeling , synthesis , and SAR studies has led to the discovery of a novel series of pyrrolyllactone and pyrrolyllactam indolinones as potent P24941 inhibitors .",
+    "Interleukin 23 regulates proliferation of lung cancer cells in a concentration-dependent way in association with the interleukin-23 receptor . A proinflammatory cytokine , interleukin 23 ( IL-23 ) , plays a role in tumor progression by inducing inflammation in the tumor microenvironment , although there is debate about its role in carcinogenesis . Direct effects of IL-23 on tumor cells have been reported rarely , and contradictory effects have been observed . Here , we studied such effects of IL-23 in lung cancer cells in vitro and in vivo and explored the underlying mechanism . We found Q5VWK5 expression in tissues from lung adenocarcinoma and small cell carcinoma but not in lung squamous cell carcinoma tissue . Interestingly , different concentrations of IL-23 had opposite effects in the same types of cells . We confirmed that the different effects could be explained by differences in binding to the Q5VWK5 ( subunits IL-23r and IL-12Rβ1 ) . Low concentrations of IL-23 promoted the proliferation of Q5VWK5 -positive A549 and P08709 -1 lung cancer cells by binding to IL-23r , whereas high concentrations of IL-23 inhibited proliferation of these cells by binding to both IL-23r and IL-12Rβ1 . In contrast , IL-23 had no effect on Q5VWK5 -negative SK-MES-1 cells . IL-23 regulated the growth of human lung cancer cells through its effects on P40763 expression and phosphorylation in a concentration-dependent way ; the Ki-67 gene was involved in these processes . Our findings demonstrate for the first time that IL-23 affects the proliferation of Q5VWK5 -positive lung cancer cells and that this effect is dependent on the IL-23 concentration . This can explain at least part of the inconsistent reports on the role of IL-23 in the progression of carcinogenesis .",
+    "Effects of lesopitron on the central nervous system arising from its interaction with P08908 receptors . DB04970 acts as a ligand for central serotonin P08908 receptors . Ki obtained from [3H]8-OH-DPAT competition studies was 104.8 +/- 10.6 nmol/l . As lesopitron did not affect the binding of [3H]paroxetine , involvement of the serotonin reuptake system in the effects of lesopitron is rejected . DB04970 inhibits haloperidol-induced catalepsy that is the consequence of its action on P08908 autoreceptors . The ability of lesopitron to induce 5-HT syndrome reflects post-synaptic P08908 receptor activation and the reversion of 8-OHDPAT-induced 5-HT syndrome by lesopitron suggests a partial agonist effect on this receptor-type . DB04970 induced a hypothermic effect due to the enhanced activation of post-synaptic P08908 receptors . The agonist effect of lesopitron on P08908 receptors and its marked hypothermic effect is an added value for this drug and a stimulus to the study of its possible neuroprotective action .",
+    "Q9BQB6 pharmacogenetics and pharmacoproteomics in patients on warfarin anticoagulant therapy : transthyretin precursor as a potential biomarker . BACKGROUND : Recognizing specific protein changes in response to drug administration in humans has the potential for the development of personalized medicine . Such changes can be identified by pharmacoproteomics approach based on proteomic technologies . It can also be helpful in matching a particular target-based therapy to a particular marker in a subgroup of patients , in addition to the profile of genetic polymorphism . DB00682 is a commonly prescribed oral anticoagulant in patients with prosthetic valve disease , venous thromboembolism and stroke . METHODS AND FINDING : We used a combined pharmacogenetics and iTRAQ-coupled LC-MS/MS pharmacoproteomics approach to analyze plasma protein profiles of 53 patients , and identified significantly upregulated level of transthyretin precursor in patients receiving low dose of warfarin but not in those on high dose of warfarin . In addition , real-time RT-PCR , western blotting , human P05231 ELISA assay were done for the results validation . CONCLUSION : This combined pharmacogenomics and pharmacoproteomics approach may be applied for other target-based therapies , in matching a particular marker in a subgroup of patients , in addition to the profile of genetic polymorphism .",
+    "First report of warfarin dose requirements in patients possessing the P11712 *12 allele . BACKGROUND : DB00682 is the most frequently prescribed anticoagulant in North America and Europe . It is administered as a racemate , but S-warfarin is principally responsible for its anticoagulant activity . Cytochrome P450 ( CYP ) 2C9 is the enzyme primarily responsible for the metabolism of S-warfarin . Numerous variant alleles of P11712 have been identified . The P11712 *12 ( rs9332239 ) allele harbors a P489S substitution in P11712 which has been shown to result in a 40 % decline in catalytic activity in vitro . CASES : Four Caucasian patients with a low mean weekly warfarin dose ( MWWD ) were genotyped for P11712 , Q9BQB6 and P02649 variant alleles . None of the four patients carried the common P11712 variant alleles ( *2 , *3 , *5 , *6 , *7 , *8 , *9 , *11 , *13 ) despite a relatively low MWWD ( 23.4±7.94 mg ) compared to 208 patients carrying the CYP29C9*1 genotype ( 32.2±12.65 mg ) . Given that P11712 *12 confers decreased in vitro activity to the enzyme , we investigated whether these patients carried this allele . All four patients were P11712 *12 CT heterozygotes . Individual comparisons with patients possessing the same Q9BQB6 and P02649 genotypes also demonstrated lower dose requirements in the patients that possessed P11712 *12 allele . CONCLUSIONS : There are no reports of the clinical impact of rs9332239 on P11712 substrates . This is the first report of patients with the rare P11712 *12 genotype and lower warfarin dose requirements .",
+    "DB00133 palmitoyltransferase , a key enzyme for de novo synthesis of sphingolipids , is essential for male gametophyte development in Arabidopsis . Sphingolipids are important signaling molecules involved in various cellular activities . De novo sphingolipid synthesis is initiated by a rate-limiting enzyme , serine palmitoyltransferase ( P21549 ) , a heterodimer consisting of LONG-CHAIN BASE1 ( O15269 ) and O15270 subunits . A mutation in the Arabidopsis thaliana O15269 gene , lcb1-1 , was found to cause embryo lethality . However , the underpinning molecular and cellular mechanisms remain largely unclear . Here , we report the identification of the fumonisin B(1) resistant11-2 ( fbr11-2 ) mutant , an allele of lcb1-1 . The fbr11-2 mutation , most likely an allele stronger than lcb1-1 , was transmitted only through female gametophytes and caused the formation of abortive microspores . During the second pollen mitosis , fbr11-2 initiated apoptotic cell death in binucleated microspores characteristic of nuclear DNA fragmentation , followed by cytoplasm shrinkage and organelle degeneration at the trinucleated stage . In addition , a double mutant with T-DNA insertions in two homologous O15270 genes showed a phenotype similar to fbr11-2 . Consistent with these observations , the FBR11/ O15269 expression was confined in microspores during microgametogenesis . These results suggest that P21549 -modulated programmed cell death plays an important role in the regulation of male gametophyte development .",
+    "Genome-wide association study identifies genetic determinants of warfarin responsiveness for Japanese . DB00682 is a commonly used anticoagulant , whose dose needs to be determined for each individual patient owing to large inter-individual variability in its therapeutic dose . Although several clinical and genetic variables influencing warfarin dose have been identified , uncovering additional factors are critically important for safer use of warfarin . Through a genome-wide association study , we identified single-nucleotide polymorphism ( SNP ) rs2108622 [ cytochrome P450 , family 4 , subfamily F , polypeptide 2 ( P78329 ) ] as a genetic determinant of warfarin responsiveness for Japanese . Stratifying subjects who have been pre-classified according to the genotypes of SNP rs10509680 [ cytochrome P450 , family 2 , subfamily C , polypeptide 9 ( P11712 ) ] and SNP rs9923231 [ vitamin K epoxide reductase complex subunit 1 ( Q9BQB6 ) ] , based on their genotypes of rs2108622 allowed identification of subjects who require higher dose of warfarin . Incorporating genotypes of rs2108622 into a warfarin dosing algorithm that considers age , body surface area , status of amiodarone co-administration and genotypes of SNPs in the P11712 and Q9BQB6 genes improved the model 's predictability to 43.4 % . In this study , the association of P78329 with warfarin dose of the Japanese has been established for the first time . Besides , a warfarin dosing algorithm that incorporates genotypes of rs2108622 and amiodarone co-administration status was suggested for the Japanese . Our study also implied that common SNPs other than those in the P11712 , Q9BQB6 and P78329 genes that show strong effect on the therapeutic warfarin dose might not exist .",
+    "A new cell culture-based assay quantifies vitamin K 2,3-epoxide reductase complex subunit 1 function and reveals warfarin resistance phenotypes not shown by the dithiothreitol-driven Q9BQB6 assay . BACKGROUND : DB00682 directly inhibits the vitamin K 2,3-epoxide reductase complex subunit 1 ( Q9BQB6 ) enzyme to effect anticoagulation . Q9BQB6 function has historically been assessed in vitro using a dithiothreitol ( DTT ) -driven vitamin K 2,3-epoxide reductase ( Q9BQB6 ) assay . DB00682 inhibits wild-type Q9BQB6 function by the DTT- Q9BQB6 assay . However , Q9BQB6 variants with warfarin resistance-associated missense mutations often show low Q9BQB6 activities and warfarin sensitivity instead of resistance . OBJECTIVES : A cell culture-based , indirect Q9BQB6 assay was developed and characterized that accurately reports warfarin sensitivity or resistance for wild-type and variant Q9BQB6 proteins . METHODS : Human coagulation factor (F)IX and Q9BQB6 variants were coexpressed in P29320 293T cells under standardized conditions at various warfarin concentrations . Secreted FIX activity served as surrogate marker to report wild-type and variant Q9BQB6 inhibition by warfarin . RESULTS AND CONCLUSIONS : DB00682 dose-response curves fit to the secreted FIX activity data for coexpressed hVKORC1 wild-type , Val29Leu , Val45Ala and Leu128Arg variants . The corresponding calculated IC50 values were 24.7 , 136.4 , 152.0 and 1226.4 nm , respectively . Basal activities in the absence of warfarin for all Q9BQB6 variants were similar to that of wild-type Q9BQB6 . Ranked IC50 values from the cell culture-based assay accurately reflect elevated warfarin dosages for patients with Q9BQB6 missense mutation-associated warfarin resistance .",
+    "In vitro effects and in vivo efficacy of a novel cyclooxygenase-2 inhibitor in cats with lipopolysaccharide-induced pyrexia . OBJECTIVE : To determine cyclooxygenase ( P36551 ) -2 selectivity , pharmacokinetic properties , and in vivo efficacy of firocoxib ( Q9NTI2 ,785,713 ) in cats . ANIMALS : 5 healthy male and 14 healthy female domestic shorthair cats . PROCEDURE : Selectivity of firocoxib for inhibiting P35354 was determined by comparing the potency for inhibiting P23219 with that of P35354 in feline blood . Pharmacokinetic properties were determined after i.v. ( 2 mg/kg ) and oral ( 3 mg/kg ) administration in male cats . In vivo efficacy was evaluated in female cats with lipopolysaccharide ( LPS ) -induced pyrexia with administration of firocoxib 1 or 14 hours before LPS challenge . RESULTS : Blood concentrations resulting in 50 % inhibition of P23219 and P35354 activity in vitro were 75 +/- 2 microM and 0.13 +/- 0.03 microM , respectively , and selectivity for inhibiting P35354 relative to P23219 was 58 . DB09217 had moderate to high oral bioavailability ( 54 % to 70 % ) , low plasma clearance ( 4.7 to 5.8 mL/min/kg ) , and an elimination half-life of 8.7 to 12.2 hours . DB09217 at doses from 0.75 to 3 mg/kg was efficacious in attenuating fever when administered to cats 1 or 14 hours before LPS challenge . CONCLUSIONS AND CLINICAL RELEVANCE : DB09217 is a potent P35354 inhibitor and is the only selective P35354 inhibitor described for use in cats to date . It is effective in attenuating febrile responses in cats when administered 14 hours before LPS challenge , suggesting it would be suitable for once-a-day dosing . Because selective P35354 inhibitors have an improved therapeutic index relative to nonselective nonsteroidal anti-inflammatory drugs in humans , firocoxib has the potential to be a safe , effective anti-inflammatory agent for cats .",
+    "Aflatoxin B1 induces Src phosphorylation and stimulates lung cancer cell migration . AflatoxinB1 ( AFB1 ) is well known as a potent carcinogen . Epidemiological studies have shown an association between AFB1 exposure and lung cancer in humans . AFB1 can induce the mutations of genes such as tumor suppressor p53 through its metabolite AFB1-8,9-exo-epoxide , which acts as a mutagen to react with DNA . In addition , recent study demonstrates AFB1 positively regulates type I insulin-like growth factor receptor ( IGF-IR ) signaling in hepatoma cells . The current study aims to determine the effects of AFB1 on Src kinase and insulin receptor substrate ( P41252 ) in lung cancer cells and the effects of AFB1 on lung cancer cell migration . To this end , the effects of AFB1 on P41252 expression , Src , Akt , and P29323 phosphorylation were measured by Western blot analysis . The migration of lung cancer cells was detected by wound-healing assay . AFB1 downregulates P35568 but paradoxically upregulates Q9Y4H2 through positive regulation of the stability of Q9Y4H2 and the proteasomal degradation of P35568 in lung cancer cell lines A549 and P08709 -1 . In addition , AFB1 induces Src , Akt , and P27361 /2 phosphorylation . Treatment of lung cancer cells with Src inhibitor saracatinib abrogates AFB1-induced Q9Y4H2 accumulation . Moreover , AFB1 stimulates lung cancer cell migration , which can be inhibited by saracatinib . We conclude that AFB1 may upregulate Q9Y4H2 and stimulate lung cancer cell migration through Src .",
+    "[ A novel function of anti-fibrinolytic factor , P05121 , in the central nervous system : a possible role as the neurotrophic factor ] . P00747 activator inhibitor-1 ( P05121 ) is a serpin that suppresses fibrinolysis by inhibiting the activity of plasminogen activator ( PA ) . Together with PA , P05121 is expressed in the central nervous system and may play a role in the regulation of PA activity . Our present study has demonstrated that , in cultures of PC-12 neurons , depletion of P05121 from the culture medium induces disappearance of the cell 's neurites and the cell death . DB06692 and antipain , the inhibitors of PA , were not counterparts of P05121 in the protection of neurite disappearance . We also found that P05121 had the abilities to promote release of the survival factors of neurons , P05231 and P15692 and activation of a survival serine/threonine kinase Akt . These results suggest that P05121 has physiological functions other than its role as PA inhibitor for the survival of neurons .",
+    "P21453 as a useful target for treatment of multiple sclerosis . DB03203 1-phosphate ( Q14703 ) , a lysophospholipid mediator , is generated from sphingosine by sphingosine kinases and binds five known cell surface receptors . P21453 ( P21453 ) plays an essential role in lymphocyte egress from secondary lymphoid organs ( Q12791 ) , as evinced by the inability of lymphocytes to exit from the Q12791 in mice lacking lymphocytic P21453 . DB08868 hydrochloride ( FTY720 ) is a first-in-class , orally active , Q14703 receptor modulator with a structure closely related to sphingosine . FTY720 was first synthesized by chemical modification of a natural product , myriocin . FTY720 is effectively converted to an active metabolite , FTY720 phosphate ( FTY720-P ) by sphingosine kinases . FTY720-P shows high affinity to 4 of the Q14703 receptors ( P21453 , Q99500 , O95977 , and Q9H228 ) . In particular , FTY720-P strongly induces internalization and degradation of P21453 , inhibits Q14703 responsiveness of lymphocytes in the Q12791 , and acts as a functional antagonist at lymphocytic P21453 . Consequently , FTY720 inhibits P21453 -dependent lymphocyte egress from the Q12791 to decrease circulation of lymphocytes including autoreactive Th17 cells and is highly effective in experimental autoimmune encephalomyelitis ( EAE ) , an animal model of multiple sclerosis ( MS ) . Because FTY720 shows a superior efficacy in relapsing remitting MS patients compared to intramuscular interferon-β-1a ( Avonex® ) , P21453 is presumed to be a useful target for the therapy of MS .",
+    "Evaluation of commercial antibodies against human sphingosine-1-phosphate receptor 1 . DB03203 -1-phosphate receptor 1 ( P21453 ) , also called endothelial differentiation gene 1 , plays an important role in migration , proliferation , and survival of several types of cells including endothelial cells and lymphocytes and is involved in multiple sclerosis . Two commercial rabbit anti- P21453 antibodies ( polyclonal and monoclonal ) were tested on CHO cells expressing P21453 receptors fused to the green fluorescent protein at the C-terminal end and on Pichia pastoris and P29320 cells expressing cmyc-tagged P21453 . Polyclonal antibodies did not give any signal by Western blot , immunofluorescence , and flow cytofluorometry . Monoclonal antibodies were able to reveal an unspecific band by Western blot performed on various cell types . Consequently , in our hands and using our protocols , we show that these antibodies did not specifically detect P21453 receptors .",
+    "Oral L-serine supplementation reduces production of neurotoxic deoxysphingolipids in mice and humans with hereditary sensory autonomic neuropathy type 1 . Hereditary sensory and autonomic neuropathy type 1 ( HSAN1 ) causes sensory loss that predominantly affects the lower limbs , often preceded by hyperpathia and spontaneous shooting or lancinating pain . It is caused by several missense mutations in the genes encoding 2 of the 3 subunits of the enzyme serine palmitoyltransferase ( P21549 ) . The mutant forms of the enzyme show a shift from their canonical substrate L-serine to the alternative substrate L-alanine . This shift leads to increased formation of neurotoxic deoxysphingolipids ( dSLs ) . Our initial analysis showed that in P29320 cells transfected with O15269 mutants , dSL generation was modulated in vitro in the presence of various amino acids . We therefore examined whether in vivo specific amino acid substrate supplementation influenced dSL levels and disease severity in HSAN1 . In mice bearing a transgene expressing the C133W O15269 mutant linked to HSAN1 , a 10 % L-serine–enriched diet reduced dSL levels . L-serine supplementation also improved measures of motor and sensory performance as well as measures of male fertility . In contrast , a 10 % L-alanine–enriched diet increased dSL levels and led to severe peripheral neuropathy . In a pilot study with 14 HSAN1 patients , L-serine supplementation similarly reduced dSL levels . These observations support the hypothesis that an altered substrate selectivity of the mutant P21549 is key to the pathophysiology of HSAN1 and raise the prospect of l-serine supplementation as a first treatment option for this disorder .",
+    "Cytochromes P450 are differently expressed in normal and varicose human saphenous veins : linkage with varicosis . The expression of cytochrome P450 ( CYP ) enzymes and cyclo-oxygenases ( P36551 ) was investigated in human saphenous veins by reverse transcription-polymerase chain reaction analysis . Non-varicose veins were obtained from patients undergoing aortocoronary bypass grafting , whereas varicose veins were obtained from patients undergoing stripping removal of varicose saphenous veins . In non-varicose veins , Q16678 , CYP2C , P05181 and Q02928 were detected , whereas P51589 , P20815 , P23219 and P35354 were detected almost exclusively in varicose veins . P78329 was not detectable . Except for Q02928 , the levels of individual CYP mRNA were higher in varicose veins than in control veins . Smooth muscle cell volume , determined by a colour image-analysis system , was increased approximately 1.5-fold in varicose veins . Because CYPs and COXs produce various vasoactive compounds , increased expression of these enzymes could be involved in the impairment of vascular tone and may contribute to varicose pathology . Then , CYP or P36551 modulators may be potentially active in the treatment of chronic venous insufficiency .",
+    "P35372 -dependent and independent components in effects of tramadol . DB00193 is thought to induce analgesia via both opioid and non-opioid pathways , although the precise mechanisms remain to be elucidated . In this study , we investigated the roles of the mu-opioid receptor ( MOP ) in analgesic and rewarding effects of tramadol by using MOP knockout ( KO ) mice . DB00193 -induced antinociception , assessed by hot-plate and tail-flick tests , was significantly reduced in heterozygous and homozygous MOP-KO mice when compared with that in wild-type mice . Interestingly , however , tramadol retained its ability to induce significant antinociception in homozygous MOP-KO mice . The tramadol-induced antinociception remaining in homozygous MOP-KO mice was not significantly affected by methysergide , a serotonin receptor antagonist , but was partially blocked by yohimbine , an adrenaline alpha2 receptor antagonist , and both naloxone , a non-selective opioid receptor antagonist , and yohimbine . In addition , antinociceptive effects of an active tramadol metabolite M1 were abolished or remarkably reduced in MOP-KO mice . On the other hand , neither wild-type nor homozygous MOP-KO mice showed significant place preference for tramadol in a conditioned place preference test , although there were slight tendencies toward preference in wild-type mice and avoidance in homozygous MOP-KO mice . These results strongly support the idea suggested in the previous pharmacological studies that MOP and the adrenaline alpha2 receptor mediate most of the analgesic properties of tramadol .",
+    "An acetylcholinesterase inhibitor , eserine , induces long-term depression at P07451 - P00915 synapses in the hippocampus of adult rats . Studies in humans and rodents support a role for muscarinic ACh receptor ( mAChR ) and nicotinic AChR in learning and memory , and both regulate hippocampal synaptic plasticity using complex and often times opposing mechanisms . P22303 ( P22303 ) inhibitors are commonly prescribed to enhance cholinergic signaling in Alzheimer 's disease in hopes of rescuing cognitive function , caused , in part , by degeneration of cholinergic innervation to the hippocampus and cortex . Unfortunately , therapeutic efficacy is moderate and inconsistent , perhaps due to unanticipated mechanisms . M1 mAChRs bidirectionally control synaptic strength at P07451 - P00915 synapses ; weak pharmacological activation using carbachol ( CCh ) facilitates potentiation , whereas strong agonism induces muscarinic long-term depression ( mLTD ) via an P29323 -dependent mechanism . Here , we tested the prediction that accumulation of extracellular ACh via inhibition of P22303 is sufficient to induce LTD at P07451 - P00915 synapses in hippocampal slices from adult rats . Although P22303 inhibition with eserine induces LTD , it unexpectedly does not share properties with mLTD induced by CCh , as reported previously . DB00981 -LTD was prevented by the M3 mAChR-preferring antagonist 1,1-dimethyl-4-diphenylacetoxypiperidinium iodide ( 4-DAMP ) , and pharmacological inhibition of MEK was completely ineffective . Additionally , pharmacological inhibition of p38 MAPK prevents mLTD but has no effect on eserine-LTD . Finally , long-term expression of eserine-LTD is partially dependent on a decrease in presynaptic release probability , likely caused by tonic activation of mAChRs by the sustained increase in extracellular ACh . Thus these findings extend current literature by showing that pharmacological P22303 inhibition causes a prolonged decrease in presynaptic glutamate release at P07451 - P00915 synapses , in addition to inducing a likely postsynaptic form of LTD ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00682 is warfarin, an anticoagulant that inhibits the vitamin K 2,3-epoxide reductase complex subunit 1 (Q9BQB6) enzyme.\nDB00682 derivatives are used as rodenticides in pest control.\nThe gene encoding the protein targeted by anticoagulants is the Vitamin K-2,3-epoxide reductase subunit 1 (Q9BQB6).\nDB00682 directly inhibits Q9BQB6 function to effect anticoagulation.\nDB00133 is a palmitoyltransferase involved in sphingolipid synthesis and is not related to warfarin's mechanism.\nDB00193 is tramadol, a drug acting on opioid and adrenergic receptors, not related to Q9BQB6.\nDB00981 is not mentioned in the context of warfarin or Q9BQB6.\nDB03428 is an imidazole indolinone compound that inhibits P24941 (CDK2), unrelated to warfarin.\nDB04970 is lesopitron, a serotonin receptor ligand, not involved in anticoagulation.\nDB06692 is an inhibitor of plasminogen activator, not related to warfarin.\nDB08868 is FTY720, a sphingosine-1-phosphate receptor modulator, unrelated to Q9BQB6.\nDB09029 is an anti-Q16552 antibody, targeting a different pathway.\nDB09217 is firocoxib, a COX-2 inhibitor, not involved in anticoagulation.\nNo drug among the listed options is described as interacting with DB00682.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB00682 is warfarin, an anticoagulant that inhibits the vitamin K 2,3-epoxide reductase complex subunit 1 (Q9BQB6) enzyme",
+    "DB00682 derivatives are used as rodenticides in pest control",
+    "The gene encoding the protein targeted by anticoagulants is the Vitamin K-2,3-epoxide reductase subunit 1 (Q9BQB6)",
+    "DB00682 directly inhibits Q9BQB6 function to effect anticoagulation",
+    "DB00133 is a palmitoyltransferase involved in sphingolipid synthesis and is not related to warfarin's mechanism",
+    "DB00193 is tramadol, a drug acting on opioid and adrenergic receptors, not related to Q9BQB6",
+    "DB00981 is not mentioned in the context of warfarin or Q9BQB6",
+    "DB03428 is an imidazole indolinone compound that inhibits P24941 (CDK2), unrelated to warfarin",
+    "DB04970 is lesopitron, a serotonin receptor ligand, not involved in anticoagulation",
+    "DB06692 is an inhibitor of plasminogen activator, not related to warfarin",
+    "DB08868 is FTY720, a sphingosine-1-phosphate receptor modulator, unrelated to Q9BQB6",
+    "DB09029 is an anti-Q16552 antibody, targeting a different pathway",
+    "DB09217 is firocoxib, a COX-2 inhibitor, not involved in anticoagulation",
+    "No drug among the listed options is described as interacting with DB00682"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00682 is warfarin, an anticoagulant that inhibits the vitamin K 2,3-epoxide reductase complex subunit 1 (Q9BQB6) enzyme",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB00682 derivatives are used as rodenticides in pest control",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The gene encoding the protein targeted by anticoagulants is the Vitamin K-2,3-epoxide reductase subunit 1 (Q9BQB6)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00682 directly inhibits Q9BQB6 function to effect anticoagulation",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00133 is a palmitoyltransferase involved in sphingolipid synthesis and is not related to warfarin's mechanism",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00193 is tramadol, a drug acting on opioid and adrenergic receptors, not related to Q9BQB6",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00981 is not mentioned in the context of warfarin or Q9BQB6",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB03428 is an imidazole indolinone compound that inhibits P24941 (CDK2), unrelated to warfarin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB04970 is lesopitron, a serotonin receptor ligand, not involved in anticoagulation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB06692 is an inhibitor of plasminogen activator, not related to warfarin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB08868 is FTY720, a sphingosine-1-phosphate receptor modulator, unrelated to Q9BQB6",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB09029 is an anti-Q16552 antibody, targeting a different pathway",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB09217 is firocoxib, a COX-2 inhibitor, not involved in anticoagulation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "No drug among the listed options is described as interacting with DB00682",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

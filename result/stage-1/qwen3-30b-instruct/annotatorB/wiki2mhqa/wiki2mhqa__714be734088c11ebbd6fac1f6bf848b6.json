@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__714be734088c11ebbd6fac1f6bf848b6",
+  "sample_id": "714be734088c11ebbd6fac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who died earlier, Slums Of Berlin or Phantom India?",
+  "gold_answer": "Slums Of Berlin",
+  "context": [
+    "G. Marthandan is an Indian film director who works in Malayalam cinema.",
+    "Abhishek Saxena is an Indian Bollywood and Punjabi film director who directed the movie Phullu. The Phullu movie was released in theaters on 16 June 2017, in which film Sharib Hashmi is the lead role. Apart from these, he has also directed Patiala Dreamz, this is a Punjabi film. This film was screened in cinemas in 2014.",
+    "Louis Marie Malle( 30 October 1932 – 23 November 1995) was a French film director, screenwriter and producer. His film\" Le Monde du silence\" won the Palme d' Or in 1956 and the Academy Award for Best Documentary in 1957, although he was not credited at the ceremony; the award was instead presented to the film's co-director Jacques Cousteau. Later in his career he was nominated multiple times for Academy Awards. Malle is also one of only four directors to have won the Golden Lion twice. Malle worked in both French cinema and Hollywood, and he produced both French and English language films. His most famous films include the crime film\" Ascenseur pour l'échafaud\"( 1958), the World War II drama\" Lacombe, Lucien\"( 1974), the romantic crime film\" Atlantic City\"( 1980), the comedy- drama\" My Dinner with Andre\"( 1981), and the autobiographical film\" Au revoir les enfants\"( 1987).",
+    "Drew Esocoff( born c. 1957) is an American television sports director, who as of 2006 has been the director of NBC Sunday Night Football.",
+    "Ben Palmer is a British film and television director who is known for being the director of\" Bo' Selecta\" and\" The Inbetweeners\".",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "L' Inde fantôme: Reflexions sur un voyage is a 1969 French seven part television documentary miniseries about India, directed by Louis Malle. It was shown on BBC television as Phantom India. Malle later said that the film was his most personal work and the one he was most proud of, it is widely regarded as the crowning achievement of his career. It was initially inspired by a two- month trip to India in late 1967 that Malle made on behalf of the French Ministry of Foreign Affairs to present a selection of\" new French cinema\" throughout the country. Filming took place between January 5, 1968, and May 1, 1968, with a crew of two, a cameraman and a sound recordist. Malle arrived in India with no particular plans and financed the trip himself. The resulting 30 hours of footage was then edited down to the 363 minutes of\" Phantom India\". The 105- minute- long\" Calcutta\" used the footage he had recorded over his three- week stay in that city. \" Phantom India\" was shown on French television and the BBC in the UK in 1969. Many British Indians and the Indian Government felt that Malle had shown a one- sided portrait of India, focussing on the impoverished, rather than the developing, parts of the country. A diplomatic incident occurred when the Indian government asked the BBC to stop broadcasting the programme. The BBC refused and were briefly asked to leave their New Delhi bureau.",
+    "Elliot Silverstein( born August 3, 1927, in Boston, Massachusetts) is an American director, who is best known for being the director of the movie\" Cat Ballou\"( 1965).",
+    "Gerhard Lamprecht (6 October 1897 – 4 May 1974) was a German film director, screenwriter and film historian. He directed 63 films between 1920 and 1958. He also wrote for 26 films between 1918 and 1958.",
+    "Slums of Berlin( German: Die Verrufenen) is a 1925 German silent drama film directed by Gerhard Lamprecht and starring Aud Egede- Nissen, Bernhard Goetzke and Mady Christians."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSlums of Berlin was directed by Gerhard Lamprecht.\nGerhard Lamprecht died on 4 May 1974.\nPhantom India was directed by Louis Marie Malle.\nLouis Marie Malle died on 23 November 1995.\n4 May 1974 is earlier than 23 November 1995.\nThe film with the director who died earlier is Slums of Berlin.\n<answer> Slums of Berlin",
+  "predicted_answer": "Slums of Berlin",
+  "claims": [
+    "Slums of Berlin was directed by Gerhard Lamprecht",
+    "Gerhard Lamprecht died on 4 May 1974",
+    "Phantom India was directed by Louis Marie Malle",
+    "Louis Marie Malle died on 23 November 1995",
+    "4 May 1974 is earlier than 23 November 1995",
+    "The film with the director who died earlier is Slums of Berlin"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Slums of Berlin was directed by Gerhard Lamprecht",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Gerhard Lamprecht died on 4 May 1974",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Phantom India was directed by Louis Marie Malle",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Louis Marie Malle died on 23 November 1995",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "4 May 1974 is earlier than 23 November 1995",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "The film with the director who died earlier is Slums of Berlin",
+      "claim_type": "DR"
+    }
+  ]
+}

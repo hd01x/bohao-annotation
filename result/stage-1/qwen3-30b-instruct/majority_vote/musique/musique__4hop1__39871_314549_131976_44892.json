@@ -1,0 +1,137 @@
+{
+  "uid": "musique__4hop1__39871_314549_131976_44892",
+  "sample_id": "4hop1__39871_314549_131976_44892",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "A line with Williamsburg, Main Street and another station are in a state that's next to an ocean. When did that ocean start to open up?",
+  "gold_answer": "around 140 million years ago",
+  "context": [
+    "Booval railway station is located on the Main line in Queensland, Australia. It serves the suburb of Booval in City of Ipswich. It opened in 1876.",
+    "Addison Transit Center is a bus-only station located along Quorum Drive and Addison Road in Addison, Texas (USA). The station opened in 1999. This transit center will become a future rail station on the Silver Line as part of DART's 2030 Transit System Plan.",
+    "Nizamuddin हज़रत निज़ामुद्दीन Rapid transit, Light rail, Commuter rail & Regional rail station Location New Delhi, Delhi India 28 ° 35 ′ 21 ''N 77 ° 15 ′ 15'' E ﻿ / ﻿ 28.58917 ° N 77.25417 ° E ﻿ / 28.58917; 77.25417 Elevation 206.7 metres (678 ft) Platforms 7 Construction Structure type Standard (on ground station) Parking Yes Other information Status Functioning Station code NZM Zone (s) Northern Railway zone Division (s) Delhi Electrified Yes Traffic Passengers (Daily) 360,000 + Location Nizamuddin Location within Delhi",
+    "Newport News is included in the Hampton Roads metropolitan area. It is at the southeastern end of the Virginia Peninsula, on the northern shore of the James River extending southeast from Skiffe's Creek along many miles of waterfront to the river's mouth at Newport News Point on the harbor of Hampton Roads. The area now known as Newport News was once a part of Warwick County. Warwick County was one of the eight original shires of Virginia, formed by the House of Burgesses in the British Colony of Virginia by order of King Charles I in 1634. The county was largely composed of farms and undeveloped land until almost 250 years later.",
+    "The Kennedytunnel is an important road, rail and bicycle tunnel to the south of Antwerp, Belgium under the Scheldt river. The road tunnel forms a part of Highway R1, the not yet completed inner ring motorway surrounding the city. Opened to road traffic on 31 May 1969, and to rail traffic on 1 February 1970, the tunnel was named after John F. Kennedy, the thirty-fifth President of the United States.",
+    "The Montclair-Boonton Line is a commuter rail line of New Jersey Transit Rail Operations in the United States. It is part of the Hoboken Division. The line is a consolidation of three individual lines: the former Delaware, Lackawanna & Western Railroad's Montclair Branch, which ran from Hoboken Terminal to Bay Street, Montclair; the Erie Railroad's Greenwood Lake Division (segment from Montclair to Mountain View-Wayne), which originally ran from the Erie's Jersey City Terminal to Greenwood Lake, NY; and the former Lackawanna Boonton Line, which ran from Hoboken to Hackettstown, New Jersey. The Montclair-Boonton line was formed when the Montclair Connection opened on September 30, 2002. The line serves 28 active rail stations in New Jersey along with New York Pennsylvania Station. It crosses through six counties, serving six stations in the township of Montclair, two in the town of Bloomfield, and one in the city of Newark. Trains along the Montclair-Boonton Line heading eastward usually originate at Hackettstown, Mount Olive, Lake Hopatcong, Dover, or Montclair State University, bound for either Hoboken Terminal or New York Penn Station.",
+    "Virginia has a total area of , including of water, making it the 35th-largest state by area. Virginia is bordered by Maryland and Washington, D.C. to the north and east; by the Atlantic Ocean to the east; by North Carolina to the south; by Tennessee to the southwest; by Kentucky to the west; and by West Virginia to the north and west. Virginia's boundary with Maryland and Washington, D.C. extends to the low-water mark of the south shore of the Potomac River. The southern border is defined as the 36° 30′ parallel north, though surveyor error led to deviations of as much as three arcminutes. The border with Tennessee was not settled until 1893, when their dispute was brought to the U.S. Supreme Court.",
+    "The Monongahela City Bridge spans the Monongahela River from the City of Monongahela in Washington County, Pennsylvania to Forward Township in Allegheny County, Pennsylvania. It was constructed to replace a bridge which was 1/4 of a mile north of its location at First and Main Streets, and it opened to traffic in 1990.",
+    "Oslo West Station () or Oslo V, is a former railway station located in Vika in Oslo, Norway. It was the terminus of the Drammen Line between 1872 and 1980, until the Oslo Tunnel opened. The station remained in use until 1989, when all traffic was moved to the new Oslo Central Station. Until its closure it was the main station for trains on the Sørland Line, the Drammen Line and the Vestfold Line. There was no passenger rail connection to Oslo Ø, the eastern station that served the eastern lines and trains to Bergen. The only connection was the Oslo Port Line that went partially through some of the most trafficked streets in Oslo.",
+    "Metropolitan Avenue/Lorimer Street is an underground New York City Subway station complex shared by the BMT Canarsie Line and the IND Crosstown Line. Located in the Williamsburg neighborhood of Brooklyn, the complex is served by the G and L trains at all times.",
+    "San Juan is located along the north - eastern coast of Puerto Rico. It lies south of the Atlantic Ocean; north of Caguas and Trujillo Alto; east of and Guaynabo; and west of Carolina. The city occupies an area of 76.93 square miles (199.2 km), of which, 29.11 square miles (75.4 km) (37.83%) is water. San Juan's main water bodies are San Juan Bay and two natural lagoons, the Condado and San José.",
+    "Rocks from the North Atlantic Igneous Province have been found in Greenland, the Irminger Basin, Faroe Islands, Vøring Plateau (off Norway), Faroe - Shetland Basin, Hebrides, Outer Moray Firth and Denmark. The supercontinent known as Pangea existed during the late Paleozoic and early Mesozoic eras and began to rift around 200 million years ago. Pangea had three major phases of breakup. The first major phase began in the Early - Middle Jurassic, taking place between North America and Africa. The second major phase of breakup began in the Early Cretaceous. The South Atlantic Ocean opened around 140 million years ago as Africa separated from South America, and about the same time, India separated from Antarctica and Australia, forming the central Indian Ocean. The final major phase of breakup occurred in the early Cenozoic, as Laurentia separated from Eurasia. As the two plates broke free from each other, the Atlantic Ocean continued to expand.",
+    "Navigation Road is a station that serves both Northern and Manchester Metrolink located in the east of Altrincham, in Greater Manchester, England. It consists of a Northern-operated heavy rail station on the Mid-Cheshire Line, and an adjoining light rail stop on the Altrincham Line of Greater Manchester's Metrolink network. The original heavy rail element of the station was opened by the Manchester, South Junction and Altrincham Railway in 1931, and the Metrolink element opened in 1992. A level crossing operates at the southern end of the station.",
+    "Kipling GO Station is a GO Transit railway station along the Milton line rail corridor in the Greater Toronto Area, Ontario, Canada. It is located at 27 St. Albans Road in the Islington-City Centre West neighbourhood of Toronto (formerly Etobicoke), near Dundas Street. It is connected to the TTC's Kipling station on the Bloor-Danforth subway line which is right underneath it.",
+    "The Dallas Municipal Building is a Dallas Landmark located along S. Harwood Street between Main and Commerce Street in the Main Street District of downtown Dallas, Texas that served as the city's fourth City Hall. The structure is also a Recorded Texas Historic Landmark and a contributing property in the Harwood Street Historic District, located across the street from Main Street Garden Park.",
+    "The interchange consists of a National Rail station, a London Underground station and two bus stations, all interconnected. The main entrances are by the eastern bus station on Station Place. The National Rail ticket office here lies in between one entrance marked by the Underground roundel symbol, while the other is marked by the National Rail symbol, and provides direct access to the main line platforms. There is another exit by the western bus station along Wells Terrace, incorporating the Underground ticket office, plus a narrow side entrance to the south on the A503 Seven Sisters Road. The complex is located in Travelcard Zone 2.",
+    "The Richmond area also has two railroad stations served by Amtrak. Each station receives regular service from north of Richmond including Washington, D.C., Philadelphia, and New York. The suburban Staples Mill Road Station is located on a major north-south freight line and receives all service to and from all points south including, Raleigh, Durham, Savannah, Newport News, Williamsburg and Florida. Richmond's only railway station located within the city limits, the historic Main Street Station, was renovated in 2004. As of 2010, the station only receives trains headed to and from Newport News and Williamsburg due to track layout. As a result, the Staples Mill Road station receives more trains and serves more passengers overall.",
+    "The Melbourne rail network has its origins in privately built lines from the 1850s gold rush era, and today the suburban network consists of 209 suburban stations on 16 lines which radiate from the City Loop, a partially underground metro section of the network beneath the Central Business District (Hoddle Grid). Flinders Street Station is Melbourne's busiest railway station, and was the world's busiest passenger station in 1926. It remains a prominent Melbourne landmark and meeting place. The city has rail connections with regional Victorian cities, as well as direct interstate rail services to Sydney and Adelaide and beyond which depart from Melbourne's other major rail terminus, Southern Cross Station in Spencer Street. In the 2013–2014 financial year, the Melbourne rail network recorded 232.0 million passenger trips, the highest in its history. Many rail lines, along with dedicated lines and rail yards are also used for freight. The Overland to Adelaide departs Southern Cross twice a week, while the XPT to Sydney departs twice a day.",
+    "Tanum Tunnel () is double-track railway tunnel on the Asker Line, between Jong in Bærum and Åstad in Asker, Norway. It was built as part of the first stage of the Asker Line, between Asker and Sandvika; construction started in February 2002 and the tunnel opened on 27 August 2005. The tunnel was built by AF Gruppen for the Norwegian National Rail Administration. Most of the tunneling was conducted using the drilling and blasting method, although the easternmost were built using the cut-and-cover method. After the tunnel opened, there have been problems with leaks damaging the superstructure. The tunnel has double track, is electrified and allows for a maximum speed of . The cost to build the tunnel, excluding the superstructure, was 370 million Norwegian krone (NOK). The tunnel will accelerate intercity and regional traffic west of Oslo and free up capacity for the Oslo Commuter Rail on the Drammen Line.",
+    "Oulu–Kontiomäki railway is a railway line in Finland. The line is owned and maintained by the Finnish Rail Administration. It connects the city of Oulu to station at Kontiomäki, which is a junction of five railway lines in Paltamo municipality, approximately north from the city of Kajaani. The line is single-tracked and electrified with a total length of . The traffic is controlled via centralized traffic control by the operator located in Oulu rail traffic control center at Oulu railway station. The line follows the south shore of Oulu River."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nWilliamsburg is a city in Virginia, USA.\nMain Street Station is a railway station in Richmond, Virginia.\nThe state of Virginia is bordered by the Atlantic Ocean to the east.\nThe Atlantic Ocean began to open up during the breakup of Pangea.\nThe second major phase of Pangea's breakup began in the Early Cretaceous.\nThe South Atlantic Ocean opened around 140 million years ago as Africa separated from South America.\nThe Atlantic Ocean started to open up approximately 140 million years ago.\n<answer> 140 million years ago",
+  "predicted_answer": "140 million years ago",
+  "claims": [
+    "Williamsburg is a city in Virginia, USA",
+    "Main Street Station is a railway station in Richmond, Virginia",
+    "The state of Virginia is bordered by the Atlantic Ocean to the east",
+    "The Atlantic Ocean began to open up during the breakup of Pangea",
+    "The second major phase of Pangea's breakup began in the Early Cretaceous",
+    "The South Atlantic Ocean opened around 140 million years ago as Africa separated from South America",
+    "The Atlantic Ocean started to open up approximately 140 million years ago"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Williamsburg is a city in Virginia, USA",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Main Street Station is a railway station in Richmond, Virginia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The state of Virginia is bordered by the Atlantic Ocean to the east",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Atlantic Ocean began to open up during the breakup of Pangea",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The second major phase of Pangea's breakup began in the Early Cretaceous",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The South Atlantic Ocean opened around 140 million years ago as Africa separated from South America",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The Atlantic Ocean started to open up approximately 140 million years ago",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

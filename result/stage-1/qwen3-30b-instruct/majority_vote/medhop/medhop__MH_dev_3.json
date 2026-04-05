@@ -1,0 +1,292 @@
+{
+  "uid": "medhop__MH_dev_3",
+  "sample_id": "MH_dev_3",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00162\", \"DB00619\", \"DB01221\", \"DB01229\", \"DB01240\", \"DB05095\", \"DB05465\", \"DB05657\", and \"DB05876\" interacts with DB08815?",
+  "gold_answer": "DB00619",
+  "context": [
+    "Array-comparative genomic hybridization to detect genomewide changes in microdissected primary and metastatic oral squamous cell carcinomas . Oral squamous cell carcinoma ( OSCC ) is a common worldwide malignancy . However , it is unclear what , if any , genomic alterations occur as the disease progresses to invasive and metastatic OSCC . This study used genomewide array-CGH in microdissected specimens to map genetic alterations found in primary OSCC and neck lymph node metastases . We used array-based comparative genomic hybridization ( array-CGH ) to screen genomewide alterations in eight pairs of microdissected tissue samples from primary and metastatic OSCC . In addition , 25 primary and metastatic OSCC tissue pairs were examined with immunohistochemistry for protein expression of the most frequently altered genes . The highest frequencies of gains were detected in P12524 , Q04864 , TERC , P42336 , P10242 , P08183 , P01112 , GARP , P30279 , P07332 , P04626 , P01127 , and Q05066 . The highest frequencies of losses were detected in p44S10 , O15164 , P06858 , Q13126 , P35226 , P11161 , and Q13163 . Genomic alterations in TGFbeta2 , cellular retinoid-binding protein 1 gene ( P09455 ) , P42336 , P28222 , P01112 , P21860 , and O14965 differed significantly between primary OSCC and their metastatic counterparts . Genomic alterations in Q05513 , P00519 , and P08620 were significantly different in patients who died compared with those who survived . Immunohistochemistry confirmed high P42336 immunoreactivity in primary and metastatic OSCC . Higher P08620 immunoreactivity in primary OSCC is associated with a worse prognosis . Loss of P09455 immunoreactivity is evident in primary and metastatic OSCC . Our study suggests that precise genomic profiling can be useful in determining gene number changes in OSCC . As our understanding of these changes grow , this profiling may become a practical tool for clinical evaluation .",
+    "Q16647 gene transfer inhibits neointimal formation by suppressing Q07869 delta expression . OBJECTIVE : DB01240 ( P06744 (2) ) is a potent ligand of peroxisome proliferator-activated receptor delta ( Q07869 delta ) that regulates cell growth and differentiation . The aim of this study was to elucidate how endogenous P06744 (2) overexpression affects the expressions of Q07869 delta and mitogen-activated protein kinases ( MAPKs ) in the development of neointimal formation in experimental angioplasty with adenovirus-mediated P06744 (2) synthase ( Ad-PGIS ) gene transfer . METHODS AND RESULTS : In human aortic smooth muscle cells , protein blotting analysis showed that P06744 (2) overproduction decreased the levels of phosphorylated p38 MAPK ( P-p38 MAPK ) ( 2.0-fold versus 0.83-fold relative to control ) . Immunohistochemical analysis in balloon-injured arteries revealed diffuse expression of Q07869 delta in the neointima of control vessels , with no expression in uninjured vessels . The level of Q07869 delta expression was lower in Ad-PGIS-treated arteries than in control vessels , with the Q07869 delta localized in the neointima adjacent to endothelium . Staining of P-p38 MAPK showed a similar pattern to Q07869 delta among the three groups . Morphometric analysis at day 14 revealed that Ad-PGIS reduced the intima-to-media ratio by up to 59 % . CONCLUSIONS : Ad-PGIS gene transfer reduced Q07869 delta expression and inhibited neointimal formation after balloon injury in accordance with the reduction in the phosphorylation of p38 MAPK .",
+    "Regulation of DB02527 phosphodiesterase mRNAs expression in rat brain by acute and chronic fluoxetine treatment . An in situ hybridization study . Changes in brain cyclic AMP ( DB02527 ) have been suggested to underlie the clinical action of antidepressant treatments . Also , a regionally-selective regulation of DB02527 -specific phosphodiesterases ( PDEs ) has been demonstrated for some antidepressants . To further investigate the effects of antidepressant treatments on PDEs , we examined the expression of different DB02527 -specific PDEs in the brain of rats treated ( 1 and 14 days ) with fluoxetine 3 mg/kg day . The mRNAs coding for P27815 , Q07343 , Q08499 , and the five known Q08499 splice variants were analyzed by in situ hybridization on 45 brain structures of acute and chronic fluoxetine-treated rats . We also examined the binding sites for the putative antidepressant drug [(3)H]rolipram , a DB05876 -selective inhibitor . In some brain areas single fluoxetine administration increased the density of the mRNA of all DB05876 isozymes , except Q08499 and PDE4D5 . Chronic fluoxetine treatment increased P27815 mRNA levels and decreased those for Q07343 , Q08499 and PDE4D1 mRNAs in some brain regions . The study was complemented with the analysis of the expression of the transcripts of P23560 . Chronic fluoxetine treatment down-regulated the expression of P23560 . These results show that the expression of DB05876 isozymes is modulated by a clinically relevant fluoxetine dose . The significance of these changes in DB05876 expression to the antidepressant effect of fluoxetine is discussed .",
+    "Expression of cellular retinol-binding protein and lecithin-retinol acyltransferase in developing rat testis . DB00162 deficiency in mammals results in the loss of germ cells on the adluminal side of the blood-testis barrier , suggesting a need for vitamin A that would be supplied by the surrounding Sertoli cells . P09455 ( P09455 ) and lecithin-retinol acyltransferase ( O95237 ) are two proteins found in Sertoli cells that are known to be involved in vitamin A trafficking . To clarify the role of these two proteins in the delivery of vitamin A to developing germ cells , we have examined changes in their cell-specific expression during the onset of puberty in the rat . In adult rats , Sertoli cell expression of P09455 varies with the cycle of the seminiferous epithelium . Here , we demonstrate that differences in the intensity of P09455 immunoreactivity are detectable in Sertoli cells of different tubules as early as postnatal Day 4 , prior to the onset of meiosis . This indicates that variable expression of P09455 by Sertoli cells is established independently of late germ cells and may anticipate the cyclical variation seen in the adult . We further demonstrate that the specific activity of O95237 in rat testis increases tenfold between postnatal Days 20 and 35 . This increase is attributable to the appearance of post-meiotic germ cells : the O95237 activity of microsomes prepared from a round spermatid-enriched cell fraction from post-pubertal rat testis could account for the majority of the O95237 activity observed in the whole testis . The presence of O95237 activity within adluminal germ cells suggests that they receive vitamin A as retinol and synthesize the retinyl esters that have been shown to be present in mature sperm .",
+    "Inhibition of noradrenaline release via presynaptic P28222 receptors of the rat vena cava . In the rat inferior vena cava preincubated with 3H-noradrenaline , the effects of nine serotonin ( 5-HT ) receptor agonists and of eight antagonists ( including two beta-adrenoceptor blocking agents ) on the electrically evoked 3H overflow were determined . 1 . 5-HT , 5-carboxamido-tryptamine , 5-methoxy-3(1,2,3,6-tetrahydropyridine-4-yl)-1H-indole ( RU 24969 ) , 5-methoxytryptamine , N,N-dimethyl-5HT , tryptamine and 5-aminotryptamine inhibited the evoked 3H overflow . The potencies of these agonists in inhibiting overflow were significantly correlated with their affinities for P28222 binding sites , but not with their affinities for P08908 , P28335 or 5-HT2 binding sites . 8-Hydroxy-2-(di-n-propylamino)tetralin ( 8-OH-DPAT ) , a P08908 receptor agonist , and ipsapirone , a partial agonist at these receptors , did not inhibit overflow . 2 . Cyanopindolol facilitated the evoked 3H overflow , an effect which was abolished by propranolol . The maximum inhibition of overflow obtainable with 5-HT was diminished by cyanopindolol . 3 . The concentration-response curve for 5-HT was shifted to the right by metitepine , metergoline , quipazine , 6-chloro-2-(1-piperazinyl)pyrazine ( MK 212 ) and propranolol which , given alone , did not affect 3H overflow . The apparent pA2 values of these antagonists tended to be correlated with their affinities for P28222 ( but not P08908 , P28335 or 5-HT2 ) binding sites . Ketanserin , a 5-HT2 receptor antagonist , and spiperone , which blocks 5-HT2 and P08908 but not P28222 or P28335 receptors , failed to antagonize the effect of 5-HT. ( ABSTRACT TRUNCATED AT 250 WORDS )",
+    "NO-donor P35354 inhibitors . New nitrooxy-substituted 1,5-diarylimidazoles endowed with P35354 inhibitory and vasodilator properties . A series of NO-donor diarylimidazoles derived from the lead compound DB05095 were synthesized and evaluated for their P35354 inhibitory activity and their stability in whole blood as well as for vasodilator properties . The products are partly transformed into the corresponding alcohols following 24-h incubation in whole blood . All of them display good P23219 / P35354 selectivity , but are less potent than the lead ; a molecular modeling study was carried out to investigate their binding mode . The compounds are also capable of relaxing rat aorta strips precontracted with phenylephrine with a NO-dependent mechanism ; this property could confer reduced cardiotoxicity with respect to traditional P35354 inhibitors .",
+    "Q92847 agonist ( DB05657 ) accelerates gastric emptying in adults with diabetes and symptomatic gastroparesis . BACKGROUND : DB05657 is a synthetic , selective ghrelin agonist in development for gastroparesis . AIM : To assess safety and effects of DB05657 in diabetes patients with symptomatic gastroparesis . METHODS : Adults with type 1 or type 2 diabetes mellitus received placebo and DB05657 ( 80 , 160 , 320 or 600 microg/kg ) infusions in a cross-over manner following a radiolabelled meal . Blood glucose levels were stabilized using a hyperinsulinemic-euglycemic clamp . Primary endpoints were gastric half emptying and latency times . Secondary measures included assessment of gastroparesis symptoms and endocrine responses . RESULTS : Ten patients with type 1 ( n = 7 ) or 2 ( n = 3 ) diabetes , moderate-to-severe gastroparesis symptoms and > or =29 % retention 4 h after a radiolabelled solid meal were enrolled . DB05657 produced significant reductions in solid meal half-emptying ( 20 % , P = 0.043 ) and latency ( 34 % , P = 0.037 ) times vs. placebo . Reductions in overall postmeal symptom intensity ( 24 % ) and postprandial fullness ( 37 % ) following DB05657 infusion were not statistically significant . Most adverse events were mild and self-limiting and there were no identifiable differences in numbers or types of adverse events between DB05657 and placebo . CONCLUSIONS : This proof-of-concept study demonstrates that the ghrelin agonist DB05657 is well-tolerated in diabetes patients with moderate-to-severe chronic gastroparesis and shows statistically significant improvements in gastric emptying .",
+    "Tandutinib , an oral , small-molecule inhibitor of P36888 for the treatment of AML and other cancer indications . An improved understanding of acute myelogenous leukemia ( AML ) over the past two decades has led to a characterization of associated recurring cytogenetic abnormalities . AML is often driven by the overexpression or constitutive activation of receptor tyrosine kinases such as P36888 ( P36888 ) , which serves as a good therapeutic target . Millennium Pharmaceuticals Inc 's DB05465 ( DB05465 ) is an orally active inhibitor of P36888 kinase and family members P09619 beta and c-Kit . Tandutinib inhibited P36888 phosphorylation , downstream signaling and malignant growth in vitro and in animal models . The drug exhibited limited activity as a single agent in phase I and II clinical trials in patients with AML and myelodysplastic syndrome , but displayed promising antileukemic activity ( 90 % complete remissions ) in a phase I/II trial in patients with newly diagnosed AML when administered in combination with cytarabine and daunorubicin . Phase II clinical trials for DB05465 are ongoing in patients with AML or renal cell carcinoma .",
+    "Presynaptic serotonergic inhibition of GABAergic synaptic transmission in mechanically dissociated rat basolateral amygdala neurons . 1. The basolateral amygdala ( P00519 ) nuclei contribute to the process of anxiety . GABAergic transmission is critical in these nuclei and serotonergic inputs from dorsal raphe nuclei also significantly regulate GABA release . In mechanically dissociated rat P00519 neurons , spontaneous miniature inhibitory postsynaptic currents ( mIPSCs ) arising from attached GABAergic presynaptic nerve terminals were recorded with the nystatin-perforated patch method and pharmacological isolation . 2 . 5-HT reversibly reduced the GABAergic mIPSC frequency without affecting the mean amplitude . The serotonergic effect was mimicked by the P08908 specific agonist 8-OH DPAT ( 8-hydroxy-2-(di-n-propylamino)tetralin ) and blocked by the P08908 antagonist spiperone . 3 . The GTP-binding protein inhibitor N-ethylmaleimide removed the serotonergic inhibition of mIPSC frequency . In either K+-free or Ca2+-free external solution , 5-HT could inhibit mIPSC frequency . 4 . High K+ stimulation increased mIPSC frequency and 8-OH DPAT inhibited this increase even in the presence of Cd2+ . 5 . DB02587 , an activator of adenylyl cyclase ( AC ) , significantly increased synaptic GABA release frequency . Pretreatment with forskolin prevented the serotonergic inhibition of mIPSC frequency in both the standard and high K+ external solution . 6 . Ruthenium Red ( RR ) , an agent facilitating the secretory process in a Ca2+-independent manner , increased synaptic GABA release . 5-HT also suppressed RR-facilitated mIPSC frequency . 7 . We conclude that 5-HT inhibits GABAergic mIPSCs by inactivating the AC- DB02527 signal transduction pathway via a G-protein-coupled P08908 receptor and this intracellular pathway directly acts on the GABA-releasing process independent of K+ and Ca2+ channels in the presynaptic nerve terminals .",
+    "Signaling pathways mediating induction of the early response genes prostaglandin G/H synthase-2 and egr-1 by serotonin via 5- Q13049 receptors . Signaling pathways responsible for serotonin ( 5-HT ) -mediated induction of early response genes prostaglandin G/H synthase-2 ( P35354 , cyclooxygenase-2 ) and egr-1 were investigated in rat mesangial cells . Gene induction by 5-HT was dependent on 5- Q13049 receptors that were pertussis toxin insensitive indicating coupling to a G-protein of the Gq family . Binding of 5-HT to this receptor activates phosphatidylinositol-specific phospholipase C ( P98160 ) and release of Ca2+ from internal stores , but this activation was not related to P35354 mRNA expression . Similarly , P19957 kinase was not involved in 5-HT signaling . Instead , inhibition of phosphatidylcholine-specific P98160 interfered with P35354 and egr-1 mRNA induction , suggesting this enzyme as a link between 5- Q13049 receptors and protein kinase C , an essential part of 5-HT-mediated signaling . The Q96HU1 kinase pathway was identified as common signaling pathway of 5-HT or phorbol ester-induced gene expression . Increase of intracellular DB02527 by forskolin or dibutyryl DB02527 did not induce P35354 or egr-1 mRNA expression by itself , but strongly inhibited 5-HT-mediated mRNA induction . P35354 mRNA and protein induction by 5-HT was also abolished by chelation of Ca2+ ions by EGTA , suggesting involvement of Ca2+-dependent enzymes . In contrast , egr-1 mRNA expression was superinduced in the presence of EGTA . Induction of Egr-1 protein was not changed by EGTA hinting to Ca2+-sensitive posttranscriptional steps . Activation of the Gq-coupled 5- Q13049 receptor thus leads to the expression of the early response genes P35354 and egr-1 , using common as well as differing signaling elements that allow differential regulation of the expression of these genes that are functionally related to renal hemodynamics and proliferation of mesangial cells , respectively .",
+    "Improved islet yields from pancreas preserved in perflurocarbon is via inhibition of apoptosis mediated by mitochondrial pathway . Islet transplantation is a treatment option for type I diabetic patients . Preservation of human pancreata prior to islet isolation using two-layer method with perfluorocarbon ( P27918 ) and University of Wisconsin solution ( UW ) results in twofold increase in islet yields . The objective of this study was to determine the mechanism by which islets undergo apoptosis and determine P27918 's effects on this process . Gene array analysis was used to analyze the expression of pro- and anti-apoptotic genes in islets isolated from pancreata preserved under varying conditions . A 12-fold increase in the expression of inhibitor of apoptosis ( IAP ) and survivin was observed in islets isolated from pancreata preserved in P27918 . This was accompanied by decreased expression of Q92934 ( 3.7-fold ) , Q07812 ( 2.7-fold ) and caspases ( 5.2-fold ) . Levels of activated caspase-9 ( 77.98 % ) , caspase-2 ( 61.5 % ) , caspase-3 ( 68.3 % ) and caspase-8 ( 37.2 % ) were also reduced . ' Rescue ' of pancreata after storage ( 12 h ) in UW by preservation using P27918 also resulted in a down-regulation of pro-apoptotic genes and inhibition of caspase activation . Apoptosis observed in islets from all groups was mainly mitochondria-dependent , mediated by change in redox potential initiated by hypoxia . We demonstrate that reduction in hypoxia of pancreata preserved using P27918 leads to significant up-regulation of anti-apoptotic and inhibition of pro-apoptotic genes .",
+    "Rikkunshito , a Kampo medicine , ameliorates post-operative ileus by anti-inflammatory action . Rikkunshito ( RKT ) , a Kampo ( Japanese herbal ) medicine , is used as a prokinetic for patients with various diseases including functional dyspepsia . RKT promotes delayed gastric emptying via 5- Q9H205 receptor blockade . Otherwise , RKT increases ghrelin release via P41595 and P28335 receptor activation . Recent studies revealed that ghrelin and 5- Q9H205 receptor antagonists have an anti-inflammatory effect . So we hypothesize that RKT may have an anti-inflammatory action in the post-operative ileus . Intestinal manipulation ( IM ) was applied to the distal ileum of mice . RKT was administered orally 4 times before and after IM . Gastrointestinal transit in vivo , leukocyte infiltration , and gastric emptying were analyzed . We also investigated the effects of the 5- Q9H205 receptor agonist m-chlorophenylbiguamide ( mCPBG ) and ghrelin-receptor antagonist [ D-Lys3 ] - Q92847 -6 on the ameliorative action of RKT . RKT treatment led to recovery of the delayed intestinal transit and gastric emptying rate induced by IM . RKT significantly inhibited the infiltration of neutrophils and macrophages . [ D-Lys3 ] - Q92847 -6 reduced and mCPBG partially reduced the RKT-mediated anti-inflammatory activity , as monitored by infiltrating macrophages and neutrophils . RKT serves as a novel therapeutic agent for POI characterized by its anti-inflammatory potency , in addition to prokinetic action . The RKT-induced anti-inflammatory activity may be partly mediated by inhibition of the 5- Q9H205 receptor and ghrelin release .",
+    "LG839 : anti-obesity effects and polymorphic gene correlates of reward deficiency syndrome . INTRODUCTION : This study systematically assessed the weight management effects of a novel experimental DNA-customized nutraceutical , LG839 ( LifeGen , Inc. , La Jolla , CA , USA ) . METHODS : A total of 1058 subjects who participated in the overall D.I.E.T. study were genotyped and administered an LG839 variant based on polymorphic outcomes . A subset of 27 self-identified obese subjects of Dutch descent , having the same DNA pattern of four out of the five candidate genes tested ( chi-square analysis ) as the entire data set , was subsequently evaluated . Simple t tests comparing a number of weight management parameters before and after 80 days of treatment with LG839 were performed . RESULTS : Significant results were observed for weight loss , sugar craving reduction , appetite suppression , snack reduction , reduction of late night eating ( all P < 0.01 ) , increased perception of overeating , enhanced quality of sleep , increased happiness ( all P < 0.05 ) , and increased energy ( P < 0.001 ) . Polymorphic correlates were obtained for a number of genes ( P41159 , Q07869 -gamma2 , P42898 , 5- Q13049 , and P14416 genes ) with positive clinical parameters tested in this study . Of all the outcomes and gene polymorphisms , only the P14416 gene polymorphism ( A1 allele ) had a significant Pearson correlation with days on treatment ( r=0.42 , P=0.045 ) . CONCLUSION : If these results are confirmed in additional rigorous , controlled studies , we carefully suggest that DNA-directed targeting of certain regulator genes , along with customized nutraceutical intervention , provides a unique framework and strategic modality to combat obesity .",
+    "[ Signal transduction inhibitor -- STI571 -- a new treatment for chronic myeloid leukemia ( CML ) , which opens a new targeted approach to cancer therapy ] . Chronic myeloid leukemia ( CML ) , in most of the cases , is the molecular consequence of the t(9,22) translocation , resulting in the Philadelphia ( Ph ) chromosome and the creation of the fusion gene P11274 - P00519 . The fusion gene is translated to the protooncogen P11274 - P00519 , a constitutively activated tyrosine kinase that is linked to the malignant transformation . Thus , this tyrosine kinase became an attractive target for drug design . The development of the novel investigational drug DB00619 is based on its potent and selective ability to inhibit this fusion tyrosine kinase . In preclinical studies , DB00619 selectively inhibited the growth of CML cells that carry the Ph chromosome . In this review we discuss the drug development and design , its mechanism of action , the preclinical studies and the results of phase I and II clinical trials .",
+    "Role of presynaptic serotonergic receptors on the mechanism of action of P08908 and P28222 agonists on masculine sexual behaviour : physiological and pharmacological implications . In order to establish whether the P08908 or the 5HT1B agonists , 8-OH-DPAT or TFMPP , produce their facilitatory or inhibitory actions on masculine sexual behaviour via a mechanism involving : ( a ) the serotonin synthesis or release ; ( b ) the stimulation of presynaptic receptors , or ( c ) the stimulation of somatodendritic receptors , three series of experiments were performed . The administration of the serotonin synthesis inhibitor , p-chlorophenylalanine ( p- P15085 , 300 mg/kg x 3 days ) , facilitated sexual behaviour but does not interfere neither with the inhibitory nor with the facilitatory effects of TFMPP ( 0.5 mg/kg ) or 8-OH-DPAT ( 0.5 mg/kg ) , respectively . The icv or the intraraphé administration of the serotonergic neurotoxin , 5,7-dihydroxytryptamine ( 5,7- DB02901 ) , slightly stimulated masculine sexual behaviour and produced a decrease in serotonin and its metabolite levels . In lesioned animals TFMPP ( 0.5 mg/kg ) resulted in an inhibitory effect reflected as a prolongation of the ejaculation latency . The inhibitory effect of this drug on mounting behaviour was not observed in 5,7- DB02901 treated rats . In lesioned animals 8-OH-DPAT ( 0.5 mg/kg ) produced the same facilitatory effect . Present data indicate that serotonergic postsynaptic receptors mediate both the inhibitory and the facilitatory actions of TFMPP or 8-OH-DPAT in copulation . All data further support the idea that endogenous serotonin acts via the stimulation of P28222 receptors to induce its inhibitory effects on masculine sexual behaviour .",
+    "A comparison of the effects of 8-OH-DPAT pretreatment of different behavioural responses to 8-OH-DPAT . The effects of daily pretreatments with the prototypical P08908 receptor agonist 8-hydroxy-(di-n-propylamino) tetralin ( 8-OH-DPAT ) ( 1.0 mg/kg s.c. ) on behavioural responses to challenge by 8-OH-DPAT ( 0.5 mg/kg s.c. ) due to activation of P08908 receptors were determined . The responses had strikingly different susceptibilities to pretreatment . These were not explicable by different effects on pre- and postsynaptic responses . Thus , two components of the 5-HT syndrome due to action at postsynaptic sites ( i.e. flat body posture and reciprocal forepaw treading ) were substantially attenuated 1 day after a single pretreatment with 8-OH.DPAT , but the tail-flick response , though due to action at postsynaptic P08908 sites , was completely unimpaired by 14 pretreatments while the hypothermic response which also probably involves postsynaptic sites showed progressively increased attenuation on 14 pretreatments . 8-OH-DPAT-induced hyperphagia which depends on activation of presynaptic sites was unimpaired by the pretreatment schedule . The results are discussed in relation to receptor reserve , second messenger changes and effects at DB01221 receptors . They imply a need for caution in the use of chronic effects of 5-HTergic drugs on specific P08908 receptor-dependent responses as indices of mechanisms for the therapeutic actions of the drugs .",
+    "Serotonin transporter interacts with the PDGFβ receptor in DB00102 -induced signaling and mitogenesis in pulmonary artery smooth muscle cells . The serotonin transporter ( P31645 ) and the platelet-derived growth factor receptor ( P09619 ) have been implicated in both clinical and experimental pulmonary hypertension ( PH ) and the facilitation of pulmonary artery smooth muscle cell ( PASMC ) growth . To gain a better understanding of the possible relationship of these two cell surface molecules we have explored interactions between P31645 and P09619 . We have previously demonstrated that P31645 transactivates PDGFRβ in serotonin-stimulated PASMC proliferation . We now provide evidence for a role for P31645 in DB00102 signaling and PASMC proliferation by using pharmacological inhibitors , genetic ablation , and construct overexpression of P31645 . The results show that four tested P31645 blockers dose dependently inhibit PDGF-stimulated human and bovine PASMC proliferation with comparable efficacy to that of P09619 inhibitors , whereas P28222 or 5- Q13049 receptor inhibitors had no effect . Combinations of the P31645 and P09619 inhibitors led to synergistic/additive inhibition . Similarly , PDGF-induced PASMC proliferation was attenuated by small interfering RNA downregulation of P31645 . Inhibition of P31645 in PASMCs attenuated PDGF-induced phosphorylation of PDGFRβ , Akt , and p38 but not Erk . Overexpression of P31645 in HEK293 cells led to enhanced Akt phosphorylation by PDGF , which was blunted by a P31645 PDZ motif mutant , indicating the mechanistic need for the PDZ motif of P31645 in PDGF signaling . Furthermore , coimmunoprecipitation experiments showed that P31645 and PDGFRβ become physically associated upon PDGF stimulation . In total , the data show for the first time an important interactive relationship between P31645 and the PDGFRβ in the production of PASMC proliferation triggered by PDGF that may be important in PH .",
+    "Effects of lurasidone on executive function in common marmosets . Cognitive impairment is one of the major symptoms of schizophrenia , and is considered largely due to dysfunctions in the prefrontal cortex ( P27918 ) . DB08815 , a novel atypical antipsychotic agent with high binding affinity for dopamine D2 , serotonin P34969 , 5- Q13049 and P08908 receptors has been reported to have superior efficacy in rodents ' models of cognitive impairment . However , the beneficial effect of lurasidone on cognitive impairment has not been evaluated in non-human primates . In this study , we investigated the effect of lurasidone on executive function , which is one of the cognitive domains , in common marmosets and compared the results to those of other antipsychotics . The effects of lurasidone , haloperidol , olanzapine , risperidone , quetiapine and clozapine on executive function were evaluated in naïve marmosets using the object retrieval with detours ( ORD ) task . Before drug treatment , marmosets ' success rates in the easy trial of the test were almost 90 % . However , maximum success in the difficult trial of the task reached only 50 % after 8 days of training . DB00502 , olanzapine and risperidone decreased correct performance even in the easy trial of the task . All drugs , except lurasidone , impaired success rate in the difficult trial . On the other hand , lurasidone dose-dependently increased marmosets ' success rates in the difficult trial with significant effect at 10mg/kg . In conclusion , we have shown in this study that lurasidone , unlike conventional antipsychotics , improves cognition associated with executive function in common marmosets . These findings suggest that lurasidone would be more useful for treatment of schizophrenia cognitive impairment than other antipsychotics .",
+    "Molecular response of HL-60 cells to mitotic inhibitors vincristine and taxol visualized with apoptosis-related gene expressions , including the new member Q9HB09 . DB01229 and vincristine belong to a group of anticancer drugs that target microtubules , subsequently arresting cells at the mitotic phase of the cell cycle and inducing programmed cell death . The P10415 ( bcl-2 ) family of genes is of known implication in apoptosis induced by various stimuli , among which Q9HB09 , a new member of the family , cloned by our group . For further insights into the mechanisms and molecular targets implicated and modified as a result of apoptosis induced by these two mitosis-arresting drugs , we studied the possible alterations , at the mRNA level , of various apoptosis-related genes ( P10415 , Q07812 , Q9HB09 , CASPASE-3 , FAS ) after leukemia cell ( HL-60 ) treatment with these drugs . The kinetics of cell toxicity were evaluated by the MTT [ 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide ] method , trypan blue staining , and cell proliferation efficiency ; apoptosis induction was assayed by endonucleosomal cleavage of DNA ( DNA laddering ) ; and the expression levels of the genes were analysed by RT-PCR , using gene-specific primers . The percentage of nonviable cells was upregulated with increasing cell exposure time and drug concentrations to both taxol and vincristine . Distinct modulations of apoptosis-related genes at the mRNA level were also observed , mainly concerning P10415 and Q9HB09 along apoptosis induction . Our results indicate and support the hypothesis that the apoptosis-related genes P10415 and Q9HB09 respond similarly to treatment of the human , acute , myelocytic leukemia HL60 cells with the anticancer drugs vincristine and taxol though in a drug-specific and time-dependent manner .",
+    "The effectiveness of lurasidone as an adjunct to lithium or divalproex in the treatment of bipolar disorder . The majority of patients with bipolar disorder spend a lot of time in depressive episodes that impose a great burden on patients , caregivers , and society and accounts for the largest part of the morbidity-mortality of the illness . DB08815 is an atypical antipsychotic with a potent binding affinity as antagonist for D2 , 5- Q13049 , P34969 , and partial agonist at P08908 receptors . Affinity for other receptors as H1 and muscarinic were negligible . DB08815 was approved in 2010 for the treatment of schizophrenia and recently , 2013 , for bipolar depression in monotherapy and an adjunct to lithium or valproate . Clinical trials have established that lurasidone adjuvant to lithium or valproate has more efficacy than the placebo and is associated with minimal weight gain and no clinically meaningful alterations in glucose , lipids , or the QT interval . Additional studies are desirable to know the clinical profile of lurasidone in long-term treatment , in patients with bipolar II disorders , and versus other antipsychotic agents .",
+    "Constellation of HCN channels and DB02527 regulating proteins in dendritic spines of the primate prefrontal cortex : potential substrate for working memory deficits in schizophrenia . Schizophrenia associates with impaired prefrontal cortical ( P27918 ) function and alterations in cyclic AMP ( DB02527 ) signaling pathways . These include genetic insults to disrupted-in-schizophrenia ( Q9NRI5 ) and phosphodiesterases ( PDE4s ) regulating DB02527 hydrolysis , and increased dopamine D1 receptor ( D1R ) expression that elevates DB02527 . We used immunoelectron microscopy to localize Q9NRI5 , P27815 , Q07343 , and D1R in monkey P27918 and to view spatial interactions with hyperpolarization-activated cyclic nucleotide-gated ( HCN ) channels that gate network inputs when opened by DB02527 . Physiological interactions between PDE4s and HCN channels were tested in recordings of P27918 neurons in monkeys performing a spatial working memory task . The study reveals a constellation of DB02527 -related proteins ( Q9NRI5 , P27815 , and D1R ) and HCN channels next to excitatory synapses and the spine neck in thin spines of superficial P27918 , where working memory microcircuits interconnect and spine loss is most evident in schizophrenia . In contrast , channels in dendrites were distant from synapses and DB02527 -related proteins , and were associated with endosomal trafficking . The data suggest that a DB02527 signalplex is selectively positioned in the spines to gate P27918 pyramidal cell microcircuits . Single-unit recordings confirmed physiological interactions between DB02527 and HCN channels , consistent with gating actions . These data may explain why P27918 networks are especially vulnerable to genetic insults that dysregulate DB02527 signaling ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB08815 is an atypical antipsychotic with high binding affinity for dopamine D2, serotonin P34969, 5-Q13049, and P08908 receptors.\nDB08815 is also a partial agonist at P08908 receptors.\nDB01240 is a potent ligand of peroxisome proliferator-activated receptor delta (Q07869 delta).\nDB05465 is an inhibitor of P36888 kinase and is also known as tandutinib.\nDB05657 is a synthetic selective ghrelin agonist.\nDB00619 is a drug developed to inhibit the fusion tyrosine kinase P11274-P00519 in chronic myeloid leukemia.\nDB01229 is a mitotic inhibitor that targets microtubules.\nDB00162 deficiency results in loss of germ cells in the testis.\nDB01221 is mentioned in the context of receptor reserve and second messenger changes in response to 8-OH-DPAT.\nDB05876 is a selective inhibitor of phosphodiesterase (PDE4).\nDB08815 interacts with P08908 receptors, which are also targeted by 8-OH-DPAT.\nDB01221 is involved in the mechanism of 8-OH-DPAT effects, suggesting a functional interaction.\nDB01221 is not directly linked to DB08815 in the text.\nDB08815 is not described as interacting with DB00162, DB00619, DB01229, DB01240, DB05095, DB05465, DB05657, or DB05876.\nThe only drug with a documented interaction with DB08815 is not among the listed compounds.\nThe interaction between DB08815 and DB01221 is not explicitly stated.\nNo direct interaction between DB08815 and any of the listed compounds is confirmed.\nThe compound that interacts with DB08815 is not among the listed options.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB08815 is an atypical antipsychotic with high binding affinity for dopamine D2, serotonin P34969, 5-Q13049, and P08908 receptors",
+    "DB08815 is also a partial agonist at P08908 receptors",
+    "DB01240 is a potent ligand of peroxisome proliferator-activated receptor delta (Q07869 delta)",
+    "DB05465 is an inhibitor of P36888 kinase and is also known as tandutinib",
+    "DB05657 is a synthetic selective ghrelin agonist",
+    "DB00619 is a drug developed to inhibit the fusion tyrosine kinase P11274-P00519 in chronic myeloid leukemia",
+    "DB01229 is a mitotic inhibitor that targets microtubules",
+    "DB00162 deficiency results in loss of germ cells in the testis",
+    "DB01221 is mentioned in the context of receptor reserve and second messenger changes in response to 8-OH-DPAT",
+    "DB05876 is a selective inhibitor of phosphodiesterase (PDE4)",
+    "DB08815 interacts with P08908 receptors, which are also targeted by 8-OH-DPAT",
+    "DB01221 is involved in the mechanism of 8-OH-DPAT effects, suggesting a functional interaction",
+    "DB01221 is not directly linked to DB08815 in the text",
+    "DB08815 is not described as interacting with DB00162, DB00619, DB01229, DB01240, DB05095, DB05465, DB05657, or DB05876",
+    "The only drug with a documented interaction with DB08815 is not among the listed compounds",
+    "The interaction between DB08815 and DB01221 is not explicitly stated",
+    "No direct interaction between DB08815 and any of the listed compounds is confirmed",
+    "The compound that interacts with DB08815 is not among the listed options"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB08815 is an atypical antipsychotic with high binding affinity for dopamine D2, serotonin P34969, 5-Q13049, and P08908 receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB08815 is also a partial agonist at P08908 receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB01240 is a potent ligand of peroxisome proliferator-activated receptor delta (Q07869 delta)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB05465 is an inhibitor of P36888 kinase and is also known as tandutinib",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB05657 is a synthetic selective ghrelin agonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00619 is a drug developed to inhibit the fusion tyrosine kinase P11274-P00519 in chronic myeloid leukemia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01229 is a mitotic inhibitor that targets microtubules",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB00162 deficiency results in loss of germ cells in the testis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB01221 is mentioned in the context of receptor reserve and second messenger changes in response to 8-OH-DPAT",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB05876 is a selective inhibitor of phosphodiesterase (PDE4)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB08815 interacts with P08908 receptors, which are also targeted by 8-OH-DPAT",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB01221 is involved in the mechanism of 8-OH-DPAT effects, suggesting a functional interaction",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB01221 is not directly linked to DB08815 in the text",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB08815 is not described as interacting with DB00162, DB00619, DB01229, DB01240, DB05095, DB05465, DB05657, or DB05876",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "The only drug with a documented interaction with DB08815 is not among the listed compounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "The interaction between DB08815 and DB01221 is not explicitly stated",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "No direct interaction between DB08815 and any of the listed compounds is confirmed",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "The compound that interacts with DB08815 is not among the listed options",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

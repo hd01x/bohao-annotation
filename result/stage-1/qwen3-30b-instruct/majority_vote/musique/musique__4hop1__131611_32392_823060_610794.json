@@ -1,0 +1,109 @@
+{
+  "uid": "musique__4hop1__131611_32392_823060_610794",
+  "sample_id": "4hop1__131611_32392_823060_610794",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "In which county is the city sharing a border with the capitol of the state where Ocean Forest Country Club is located?",
+  "gold_answer": "Richland County",
+  "context": [
+    "Spain (Spanish: España (esˈpaɲa) (listen)), officially the Kingdom of Spain (Spanish: Reino de España), is a sovereign state located on the Iberian Peninsula in southwestern Europe, with two large archipelagoes, the Balearic Islands in the Mediterranean Sea and the Canary Islands off the North African Atlantic coast, two cities, Ceuta and Melilla, in the North African mainland and several small islands in the Alboran Sea near the Moroccan coast. The country's mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean. It is the only European country to have a border with an African country (Morocco) and its African territory accounts for nearly 5% of its population, mostly in the Canary Islands but also in Ceuta and Melilla.",
+    "The United States of America (USA), commonly known as the United States (U.S.) or America (/ əˈmɛrɪkə /), is a federal republic composed of 50 states, a federal district, five major self - governing territories, and various possessions. Forty - eight states and the federal district are contiguous and located in North America between Canada and Mexico. The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The state of Hawaii is an archipelago in the mid-Pacific Ocean. The U.S. territories are scattered about the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones. The extremely diverse geography, climate and wildlife of the United States make it one of the world's 17 megadiverse countries.",
+    "Namibia (i/nəˈmɪbiə/, /næˈ-/), officially the Republic of Namibia (German:  Republik Namibia (help·info); Afrikaans: Republiek van Namibië) is a country in southern Africa whose western border is the Atlantic Ocean. It shares land borders with Zambia and Angola to the north, Botswana to the east and South Africa to the south and east. Although it does not border Zimbabwe, a part of less than 200 metres of the Zambezi River (essentially a small bulge in Botswana to achieve a Botswana/Zambia micro-border) separates it from that country. Namibia gained independence from South Africa on 21 March 1990, following the Namibian War of Independence. Its capital and largest city is Windhoek, and it is a member state of the United Nations (UN), the Southern African Development Community (SADC), the African Union (AU), and the Commonwealth of Nations.",
+    "The Shark River Inlet is an inlet that connects the Atlantic Ocean with the Shark River, located entirely in Monmouth County, New Jersey, United States. The Shark River Inlet acts as a border between the towns of Belmar and Avon-by-the-Sea at the Atlantic Ocean. The Shark River Inlet is the only river inlet exclusively in Monmouth County that drains directly into the Atlantic Ocean; the Shrewsbury and Navesink rivers drain into Sandy Hook Bay (part of the much larger Lower New York Bay), and the Manasquan River is shared with Ocean County.",
+    "Canada (/ ˈkænədə / (listen); French: (kanadɑ)) is a country in the northern part of North America. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second - largest country by total area and the fourth - largest country by land area. Canada's southern border with the United States is the world's longest bi-national land border. The majority of the country has a cold or severely cold winter climate, but southerly areas are warm in summer. Canada is sparsely populated, the majority of its land territory being dominated by forest and tundra and the Rocky Mountains. It is highly urbanized with 82 per cent of the 35.15 million people concentrated in large and medium - sized cities, many near the southern border. Its capital is Ottawa, and its five largest metropolitan areas are Toronto, Montreal, Vancouver, Calgary and Ottawa.",
+    "The United States of America (USA), commonly known as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major self - governing territories, and various possessions. At 3.8 million square miles (9.8 million km) and with over 325 million people, the United States is the world's third - or fourth - largest country by total area and the third-most populous. The capital is Washington, D.C., and the largest city by population is New York City. Forty - eight states and the capital's federal district are contiguous and located in North America between Canada and Mexico. The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The state of Hawaii is an archipelago in the mid-Pacific Ocean. The U.S. territories are scattered about the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones. The extremely diverse geography, climate, and wildlife of the United States make it one of the world's 17 megadiverse countries.",
+    "Although the city lost the status of state capital to Columbia in 1786, Charleston became even more prosperous in the plantation-dominated economy of the post-Revolutionary years. The invention of the cotton gin in 1793 revolutionized the processing of this crop, making short-staple cotton profitable. It was more easily grown in the upland areas, and cotton quickly became South Carolina's major export commodity. The Piedmont region was developed into cotton plantations, to which the sea islands and Lowcountry were already devoted. Slaves were also the primary labor force within the city, working as domestics, artisans, market workers, and laborers.",
+    "Mexico (Spanish: México [ˈmexiko] (listen); Nahuatl languages: Mēxihco), officially the United Mexican States (Spanish: Estados Unidos Mexicanos [esˈtaðos uˈniðoz mexiˈkanos] (listen)), is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico. Covering almost 2,000,000 square kilometers (770,000 sq mi), the nation is the fifth largest country in the Americas by total area and the 13th largest independent state in the world. With an estimated population of over 120 million people, the country is the tenth most populous state and the most populous Spanish-speaking state in the world, while being the second most populous nation in Latin America after Brazil. Mexico is a federation comprising 31 states and Mexico City, a special federal entity that is also the capital city and its most populous city. Other metropolises in the state include Guadalajara, Monterrey, Puebla, Toluca, Tijuana and León.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary (French: Frontière internationale), is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Washington, D.C. is the current federal capital city of the United States, as it has been since 1800. Each U.S. state has its own capital city, as do many of its Insular areas. Historically, most states have not changed their capital city since becoming a state, but the capital cities of their respective preceding colonies, territories, kingdoms, and republics typically changed multiple times. There have also been other governments within the current borders of the United States with their own capitals, such as the Republic of Texas, Native American nations, and other unrecognized governments.",
+    "Hadashville is a small community in eastern Manitoba, Canada. It is located about 100 kilometres east of Winnipeg on Highway 11, 2 miles north of the Trans-Canada Highway. Hadashville is located in the Whitemouth River watershed north of the Sandilands Provincial Forest. Administratively, it is part of the Rural Municipality of Reynolds. It has sandy soil, many farms, and is surrounded by the boreal forest. This Whitemouth River area is very close to the western edge of the Canadian Shield, and just north of the United States border.",
+    "Ocean Forest Country Club, also known as Ocean Forest Hotel and Country Club, is a historic country club and hotel located at Myrtle Beach in Horry County, South Carolina. The club and hotel were designed by an influential New York architect, Raymond Hood (1881-1934) and is an unusual example of Classical Revival architecture. Construction of the club began in 1926 and was completed in 1927. In addition to the hotel / club building, a 27-hole golf course was built in association with the club. It was designed by Robert White, a golf course designer and future president of the Professional Golfers' Association of America. The present 18-hole course dates to 1946.",
+    "A Nigerian State is a federated political entity, which shares sovereignty with the Federal Government of Nigeria, There are 36 States in Nigeria, which are bound together by a federal agreement. There is also a territory called the Federal Capital Territory (FCT), which is not a state, but a territory, under the direct control of the Federal Government. The States are further divided into a total of 774 Local Government Areas. Under the Nigerian Constitution, states have the power to ratify constitutional amendments.",
+    "The Nemadji State Forest is a state forest located primarily in Pine County, Minnesota. A small portion of the forest extends into neighboring Carlton County. The eastern perimeter of the forest borders the state of Wisconsin. It is managed by the Minnesota Department of Natural Resources. Gray wolves, white-tailed deer, and eagles are present in the forest.",
+    "Keanapuka Mountain is a mountain located on the Hawaiian Island of Kauai. It rises 4,000 ft above the ocean floor and is located near the border of Na Pali Coast State Park. Due to its location, the mountain receives intense amounts of rain.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary, is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Forest Acres is a city in Richland County, South Carolina, United States. The population was 10,361 at the 2010 census. It is part of the Columbia, South Carolina, Metropolitan Statistical Area.",
+    "Israel (/ˈɪzreɪəl/ or /ˈɪzriːəl/; Hebrew: יִשְׂרָאֵל‎ Yisrā'el; Arabic: إِسْرَائِيل‎ Isrāʼīl), officially the State of Israel (Hebrew: מְדִינַת יִשְׂרָאֵל‎ Medīnat Yisrā'el [mediˈnat jisʁaˈʔel] ( listen); Arabic: دولة إِسْرَائِيل‎ Dawlat Isrāʼīl [dawlat ʔisraːˈʔiːl]), is a sovereign state in Western Asia. The country is situated in the Middle East at the southeastern shore of the Mediterranean Sea and the northern shore of the Gulf of Aqaba in the Red Sea. It shares land borders with Lebanon to the north, Syria in the northeast, Jordan on the east, the Palestinian territories (which are claimed by the State of Palestine and are partially controlled by Israel) comprising the West Bank and Gaza Strip to the east and west, respectively, and Egypt to the southwest. It contains geographically diverse features within its relatively small area. Israel's financial and technology center is Tel Aviv while Jerusalem is both the self-designated capital and most populous individual city under the country's governmental administration. Israeli sovereignty over Jerusalem is internationally unrecognized.[note 1]",
+    "Abuja (/ əˈbuːdʒə /) is the capital city of Nigeria located in the centre of the country within the Federal Capital Territory (FCT). It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991. Abuja's geography is defined by Aso Rock, a 400 - metre (1,300 ft) monolith left by water erosion. The Presidential Complex, National Assembly, Supreme Court and much of the city extend to the south of the rock. Zuma Rock, a 792 - metre (2,598 ft) monolith, lies just north of the city on the road to Kaduna State.",
+    "WWNQ is a radio station licensed to Forest Acres, South Carolina, serving the Columbia, South Carolina market. Owned by Midlands Media Group LLC, the station broadcasts a country music format branded as 94.3 The Dude."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nOcean Forest Country Club is located in Myrtle Beach, South Carolina.\nThe capital of South Carolina is Columbia.\nForest Acres is a city in Richland County, South Carolina.\nForest Acres shares a border with Columbia, the capital of South Carolina.\nThe county where the city sharing a border with the capitol of the state is Richland County.\n<answer> Richland County",
+  "predicted_answer": "Richland County",
+  "claims": [
+    "Ocean Forest Country Club is located in Myrtle Beach, South Carolina",
+    "The capital of South Carolina is Columbia",
+    "Forest Acres is a city in Richland County, South Carolina",
+    "Forest Acres shares a border with Columbia, the capital of South Carolina",
+    "The county where the city sharing a border with the capitol of the state is Richland County"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Ocean Forest Country Club is located in Myrtle Beach, South Carolina",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The capital of South Carolina is Columbia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Forest Acres is a city in Richland County, South Carolina",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Forest Acres shares a border with Columbia, the capital of South Carolina",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The county where the city sharing a border with the capitol of the state is Richland County",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

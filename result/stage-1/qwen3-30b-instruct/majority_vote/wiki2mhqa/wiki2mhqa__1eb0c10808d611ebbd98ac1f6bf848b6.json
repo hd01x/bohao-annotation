@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__1eb0c10808d611ebbd98ac1f6bf848b6",
+  "sample_id": "1eb0c10808d611ebbd98ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director died later, The Man From Lost River or Mcveagh Of The South Seas?",
+  "gold_answer": "The Man From Lost River",
+  "context": [
+    "Lee Jeong- beom( born September 21, 1971) is a South Korean film director and screenwriter. He is best known for such films as\" Cruel Winter Blues\"( 2006) and\" The Man from Nowhere\"( 2010). With more than 6 million admissions and a revenue of,\" The Man from Nowhere\" was the best- selling film( domestic and foreign) in Korea in 2010.",
+    "McVeagh of the South Seas is a 1914 American drama film directed by and starring Harry Carey. The film was reissued under the title\" Brute Island\" and has been released on DVD under that title.",
+    "Henry DeWitt Carey II( January 16, 1878 – September 21, 1947) was an American actor and one of silent film's earliest superstars. One of his best known performances is as the President of the Senate( Vice President of the United States) in the drama film\" Mr. Smith Goes to Washington\"( 1939), for which he was nominated for the Academy Award for Best Supporting Actor. He was the father of Harry Carey Jr., who was also a prominent actor.",
+    "Frank William George Lloyd( 2 February 1886 – 10 August 1960) was a British- born American film director, actor, scriptwriter, and producer. He was among the founders of the Academy of Motion Picture Arts and Sciences, and was its president from 1934 to 1935.",
+    "The Man from Lost River is a lost American silent drama film directed by Frank Lloyd and released in 1921. It stars House Peters, Fritzi Brunette, and Allan Forrest.",
+    "The Man from Red Gulch is a 1925 American Western film featuring Harry Carey.",
+    "Aloma of the South Seas is a 1941 American romantic adventure drama film directed by Alfred Santell and starring Dorothy Lamour and Jon Hall. The film was shot in Technicolor and distributed by Paramount Pictures. \" Aloma of the South Seas\" is based on the 1925 Broadway play of the same name by LeRoy Clemens and John B. Hymer. It is a remake of the 1926 silent film of the same name. Lamour and Hall were the reigning darlings of south sea island adventures of this era having starred in John Ford's\" The HurricaneAloma of the South Seas\" fits into the romance adventure canon of which Lamour and Hall excelled at.",
+    "Frederick O'Brien( 1869- 1932) was an American author, journalist, hobo, peripatetic world traveler, and public administrator. He wrote three best- selling travel books about French Polynesia between 1919 and 1922:\" White Shadows in the South Seas, Mystic Isles of the South Seas,\" and\" Atolls of the Sun.\" A movie was made in 1928 of\" White Shadows in the South Seas\".",
+    "The Man from Nowhere is a 1961 Soviet comedy film directed by Eldar Ryazanov.",
+    "Isle of Escape is a 1930 American Pre-Code film produced and released by Warner Bros .. The film stars Monte Blue and Myrna Loy and is set in the South Seas. Blue had been playing the man-stranded- on- island roles, in such films as\" White Shadows in the South Seas\" at MGM towards the end of the silent era and in this early talkie film continues on in the tradition."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Man from Lost River was directed by Frank Lloyd.\nFrank Lloyd was born on 2 February 1886 and died on 10 August 1960.\nMcVeagh of the South Seas was directed by Harry Carey.\nHarry Carey was born on 18 January 1878 and died on 21 September 1947.\n1960 is later than 1947.\nThe director of The Man from Lost River died later than the director of McVeagh of the South Seas.\n<answer> The Man from Lost River",
+  "predicted_answer": "The Man from Lost River",
+  "claims": [
+    "The Man from Lost River was directed by Frank Lloyd",
+    "Frank Lloyd was born on 2 February 1886 and died on 10 August 1960",
+    "McVeagh of the South Seas was directed by Harry Carey",
+    "Harry Carey was born on 18 January 1878 and died on 21 September 1947",
+    "1960 is later than 1947",
+    "The director of The Man from Lost River died later than the director of McVeagh of the South Seas"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Man from Lost River was directed by Frank Lloyd",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Frank Lloyd was born on 2 February 1886 and died on 10 August 1960",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "McVeagh of the South Seas was directed by Harry Carey",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Harry Carey was born on 18 January 1878 and died on 21 September 1947",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1960 is later than 1947",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director of The Man from Lost River died later than the director of McVeagh of the South Seas",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

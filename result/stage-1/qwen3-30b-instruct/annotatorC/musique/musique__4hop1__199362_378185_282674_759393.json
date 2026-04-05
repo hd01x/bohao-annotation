@@ -1,0 +1,69 @@
+{
+  "uid": "musique__4hop1__199362_378185_282674_759393",
+  "sample_id": "4hop1__199362_378185_282674_759393",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What is the capital of the county that shares a border with the county where WAPL is licensed to broadcast?",
+  "gold_answer": "Green Bay",
+  "context": [
+    "The county lies in southern Hungary, on the border with Croatia. The River Drava forms part of its southern border, and the River Danube its eastern border. It shares borders with the Hungarian counties Somogy, Tolna, and Bács-Kiskun. The capital of Baranya county is Pécs.",
+    "Bondary is a village in the administrative district of Gmina Michałowo, within Białystok County, Podlaskie Voivodeship, in north-eastern Poland, close to the border with Belarus. It lies approximately south-east of Michałowo and south-east of the regional capital Białystok.",
+    "Cyprus Popular Bank (from 2006 to 2011 known as Marfin Popular Bank) was the second largest banking group in Cyprus behind the Bank of Cyprus until it was 'shuttered' in March 2013 and split into two parts. The 'good' Cypriot part was merged into the Bank of Cyprus (including insured deposits under 100,000 Euro) and the 'bad' part or legacy entity holds all the overseas operations as well as uninsured deposits above 100,000 Euro, old shares and bonds. The uninsured depositors were subject to a bail-in and became the new shareholders of the legacy entity. As at May 2017, the legacy entity is one of the largest shareholders of Bank of Cyprus with 4.8% but does not hold a board seat. All the overseas operations, of the now defunct Cyprus Popular Bank, are also held by the legacy entity, until they are sold by the Special Administrator, at first Ms Andri Antoniadou, who ran the legacy entity for two years, from March 2013 until 3 March 2015. She tendered her resignation due to disagreements, with the Governor of the Central Bank of Cyprus and the Central Bank Board members, who amended the lawyers of the legacy entity, without consulting her. Veteran banker Chris Pavlou who is an expert in Treasury and risk management took over as Special Administrator of the legacy entity in April 2015 until December 2016. The legacy entity is pursuing legal action against former major shareholder Marfin Investment Group.",
+    "Gmina Ujsoły is a rural gmina (administrative district) in Żywiec County, Silesian Voivodeship, in southern Poland, on the Slovak border. Its seat is the village of Ujsoły, which lies approximately south of Żywiec and south of the regional capital Katowice.",
+    "Rodnowo () is a village in the administrative district of Gmina Bartoszyce, within Bartoszyce County, Warmian-Masurian Voivodeship, in northern Poland, close to the border with the Kaliningrad Oblast of Russia. It lies approximately west of Bartoszyce and north of the regional capital Olsztyn.",
+    "WAPL (105.7 FM) is a classic rock formatted radio station licensed to Appleton, Wisconsin, that serves the Green Bay and Appleton-Oshkosh areas. The station is owned by Woodward Communications, and has studios on College Avenue in Appleton, with transmitting facilities located near the WGBA Tower west of unincorporated Shirley in the Town of Glenmore in southeastern Brown County.",
+    "The United States shares land borders with Canada (to the north) and Mexico (to the south), and a territorial water border with Russia in the northwest, and two territorial water borders in the southeast between Florida and Cuba, and Florida and the Bahamas. The contiguous forty-eight states are otherwise bounded by the Pacific Ocean on the west, the Atlantic Ocean on the east, and the Gulf of Mexico to the southeast. Alaska borders the Pacific Ocean to the south, the Bering Strait to the west, and the Arctic Ocean to the north, while Hawaii lies far to the southwest of the mainland in the Pacific Ocean.",
+    "The Parliament of India can pass a law to amend the Constitution and provide a Legislature with elected Members and a Chief Minister for a Union Territory, as it has done for Delhi and Puducherry. In general, The President of India appoints an administrator or lieutenant - governor for each UT. There are seven union territories, including Chandigarh, the joint capital of Punjab and Haryana.",
+    "John C. Petersen (November 2, 1842 – July 10, 1887) was an American butcher and farmer from Appleton, Wisconsin who served as a member of the Wisconsin State Assembly from Outagamie County. He was elected in 1878 as a Greenbacker, and was re-elected the next year as a \"Greenback Democrat\" (even though he was opposed by a Democrat).",
+    "WRGV (107.3 FM) is a radio station licensed to serve the community of Pensacola, Florida, United States. The station is currently owned by iHeartMedia, Inc. and the broadcast license is held by Clear Channel Broadcasting Licenses, Inc. WRGV broadcasts an urban contemporary music format to the greater Pensacola, Florida, and Mobile, Alabama, area. Its studios are located located inside the building of unrelated television station WKRG on Broadcast Drive in Mobile, and the transmitter is near Robertsdale, Alabama.",
+    "Pulaski High School is a public high school in Pulaski, Wisconsin, in Brown County, Wisconsin (school district also serves parts of Shawano, Outagamie and Oconto counties), that serves students in grades 9 through 12. Its mascot is the Red Raider.",
+    "The Naas River, a perennial stream of the Murrumbidgee catchment within the Murray-Darling basin, is located in the Australian Capital Territory, Australia.",
+    "Confederate Arizona, commonly referred to as Arizona Territory, and officially the Territory of Arizona, was a territory claimed by the Confederate States of America during the American Civil War, between 1861 and 1865. Delegates to secession conventions had voted in March 1861 to secede from the New Mexico Territory and the United States, and seek to join the Confederacy. It consisted of the portion of the New Mexico Territory south of the 34th parallel, including parts of the modern states of New Mexico and Arizona. Its capital was Mesilla along the southern border. The Confederate territory overlapped the Arizona Territory later established by the Union government in 1863.",
+    "A Nigerian State is a federated political entity, which shares sovereignty with the Federal Government of Nigeria, There are 36 States in Nigeria, which are bound together by a federal agreement. There is also a territory called the Federal Capital Territory (FCT), which is not a state, but a territory, under the direct control of the Federal Government. The States are further divided into a total of 774 Local Government Areas. Under the Nigerian Constitution, states have the power to ratify constitutional amendments.",
+    "Tymce (, \"Tymtsi\") is a village in the administrative district of Gmina Lubaczów, within Lubaczów County, Subcarpathian Voivodeship, in south-eastern Poland, close to the border with Ukraine. It lies approximately north-east of Lubaczów and east of the regional capital Rzeszów.",
+    "Born in Green Bay, Wisconsin, Quinn was a realtor and served on the Green Bay Common Council, the Brown County, Wisconsin Board of Supervisors, the local Board of Education, and the Wisconsin State Assembly from 1955 until 1973. He was a Republican.",
+    "Krasnovishersky District () is an administrative district (raion) of Perm Krai, Russia; one of the thirty-three in the krai. Municipally, it is incorporated as Krasnovishersky Municipal District. It is located in the northeast of the krai, in the valley of the Vishera River, and borders with the Komi Republic in the north, Sverdlovsk Oblast in the east, Cherdynsky District in the west, Solikamsky District in the south, and with the territory of the town of krai significance of Alexandrovsk in the southeast. The area of the district is . Its administrative center is the town of Krasnovishersk. Population: The population of Krasnovishersk accounts for 71.4% of the district's total population.",
+    "WFFG-FM (100.3 FM), known as \"Froggy 100.3\", is a country music radio station in the United States, licensed to Warrensburg, New York, and owned by Pamal Broadcasting. The station broadcasts 24 hours a day on 100.3 MHz with 1,450 watts effective radiated power from a transmitter located near Black Spruce mountain in the town of Warrensburg, Warren County, New York. (shared with WCKM-FM, WCQL and the former location of WNYQ, now WQSH in the Albany market), and serves the Adirondack Region and the Capital District of New York.",
+    "Each state and major mainland territory has its own parliament — unicameral in the Northern Territory, the ACT and Queensland, and bicameral in the other states. The states are sovereign entities, although subject to certain powers of the Commonwealth as defined by the Constitution. The lower houses are known as the Legislative Assembly (the House of Assembly in South Australia and Tasmania); the upper houses are known as the Legislative Council. The head of the government in each state is the Premier and in each territory the Chief Minister. The Queen is represented in each state by a governor; and in the Northern Territory, the Administrator. In the Commonwealth, the Queen's representative is the Governor-General.The Commonwealth Parliament also directly administers the following external territories: Ashmore and Cartier Islands; Australian Antarctic Territory; Christmas Island; Cocos (Keeling) Islands; Coral Sea Islands; Heard Island and McDonald Islands; and Jervis Bay Territory, a naval base and sea port for the national capital in land that was formerly part of New South Wales. The external territory of Norfolk Island previously exercised considerable autonomy under the Norfolk Island Act 1979 through its own legislative assembly and an Administrator to represent the Queen. In 2015, the Commonwealth Parliament abolished self-government, integrating Norfolk Island into the Australian tax and welfare systems and replacing its legislative assembly with a council. Macquarie Island is administered by Tasmania, and Lord Howe Island by New South Wales.",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city. It shares borders with the city in two areas, but is surrounded mostly by other suburbs."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nWAPL (105.7 FM) is licensed to Appleton, Wisconsin.\nAppleton is located in Brown County, Wisconsin.\nThe county that shares a border with Brown County, Wisconsin, is Outagamie County.\nThe capital of Outagamie County is Menasha.\nThe capital of the county that shares a border with the county where WAPL is licensed to broadcast is Menasha.\n<answer> Menasha",
+  "predicted_answer": "Menasha",
+  "claims": [
+    "WAPL (105.7 FM) is licensed to Appleton, Wisconsin",
+    "Appleton is located in Brown County, Wisconsin",
+    "The county that shares a border with Brown County, Wisconsin, is Outagamie County",
+    "The capital of Outagamie County is Menasha",
+    "The capital of the county that shares a border with the county where WAPL is licensed to broadcast is Menasha"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "WAPL (105.7 FM) is licensed to Appleton, Wisconsin",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Appleton is located in Brown County, Wisconsin",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The county that shares a border with Brown County, Wisconsin, is Outagamie County",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The capital of Outagamie County is Menasha",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The capital of the county that shares a border with the county where WAPL is licensed to broadcast is Menasha",
+      "claim_type": "DR"
+    }
+  ]
+}

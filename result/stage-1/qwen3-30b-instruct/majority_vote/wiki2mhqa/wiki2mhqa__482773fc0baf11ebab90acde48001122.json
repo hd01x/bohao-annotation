@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__482773fc0baf11ebab90acde48001122",
+  "sample_id": "482773fc0baf11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Robert Vere Buxton's paternal grandfather?",
+  "gold_answer": "Sir Edward Buxton, 2nd Baronet",
+  "context": [
+    "Robert Vere Buxton (29 April 1883 – 1 October 1953), known as Robin Buxton, was an English cricketer, soldier and banker. Buxton was born in Belgravia, London, a son of Francis Buxton, Liberal Member of Parliament, barrister and banker. He was educated at Eton and Trinity College, Oxford. He was a first-class cricketer. He was in the Eton XI of 1902, scoring 3 and 74 against Harrow. At Oxford he played in the University Match with Cambridge, scored 33 and 28, and received his Blue in 1906. In 1906 and 1907, he played a few times for Middlesex. Buxton served in the Sudan Civil Service, 1907–11. He then joined Martins Bank, becoming a director in 1913. In November 1911, Buxton was commissioned in the West Kent (Queen's Own) Yeomanry in the Territorial Force. During the First World War, he served as a captain in the West Kent Yeomanry before he was seconded to the Imperial Camel Corps in 1916. Serving in the Middle East, he became a colleague of T. E. Lawrence. In 1918, a long-distance raid to sever the Hejaz railway, was launched. On 24 July, Nos. 5 and 7 Companies of the Imperial Camel Corps Brigade commanded by Major Buxton, marched from the Suez Canal to arrive at Aqaba on 30 July. On 8 August 1918, the Imperial Camel Corps, supported by the Royal Air Force, seized the well-defended Hejaz railway station at Mudawwara. They captured a large number of Ottoman prisoners and two guns and destroyed the water towers, but suffered 17 casualties in the operation. Buxton's two companies of Imperial Camel Corps continued on towards Amman, where they hoped to destroy the main bridge. However from the city they were attacked by aircraft, forcing them to withdraw; they eventually arrived at Beersheba on 6 September, a march of in 44 days. He was awarded the DSO in 1919: He was also awarded the 3rd class of the Order of the Nile of Egypt and made an officer of the Order of the Crown of Italy. He was promoted to lieutenant colonel in October 1919. After the war, Buxton returned to Martins Bank and his association with T. E. Lawrence continued as his banker and effectively the financier of the Subscribers' Edition of \"Seven Pillars of Wisdom\". He was drawn by William Roberts for \"Seven Pillars of Wisdom\". Buxton was invited to revise chapters of the book. From 1945, he was deputy chairman of Martins Bank and chairman of its London board. He married Irene Marguerite Pix, widow of Sir Richard Levinge, 10th baronet, in 1916. He had no issue. He died in Itchen Abbas, Hampshire.",
+    "Henry J.\" Red\" Krause, Jr.( August 28, 1913 – February 20, 1987) was an American football offensive lineman in the National Football League for the Brooklyn Dodgers and the Washington Redskins. He played college football at St. Louis University. He is the grandfather of Jennifer Krause He is the great grandfather of Payton Hoeing",
+    "Zhao Shoushan( 12 November 1894 – 20 June 1965) was a KMT general and later Chinese Communist Party politician. He is the grandfather of Zhao Leji.",
+    "Frederick\" Fred\" Le Deux( born 4 December 1934) was an Australian rules footballer who played with Geelong in the Victorian Football League( VFL). He is the grandfather of Tom Hawkins.",
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Francis William Buxton (5 August 1847 – 14 November 1911) was a British barrister and Liberal Party politician. Buxton was the son of Sir Edward Buxton, 2nd Baronet, and the grandson of the anti-slavery campaigner Sir Thomas Buxton, 1st Baronet. His mother was Catherine, daughter of Samuel Gurney, while Sir Thomas Buxton, 3rd Baronet, was his elder brother, Charles Buxton his uncle, Noel Noel-Buxton, 1st Baron Noel-Buxton, his nephew and Sydney Buxton, 1st Earl Buxton, his first cousin. He was born at Colne House, Cromer, Norfolk, and educated at Trinity College, Cambridge, graduating B.A. in 1869 before training for the bar at Lincoln's Inn. Called to the Bar in 1874, he became a partner in the London banking firm of Prescott and Company. Between 1880 and 1885 he sat as Member of Parliament for Andover. He was also a Justice of the Peace for the County of London and for Hertfordshire, a Public Works Loan Commissioner in 1893 and a member of the London School Board from 1899 to 1904. He was also a member of the council of the Girls' Public Day School Company, 1886–1903, and one of its vice-presidents from 1903. Buxton married the Hon. Mary Emma, daughter of John Lawrence, 1st Baron Lawrence, in 1872. Their sons included John Lawrence Buxton, a brigadier in the British Army and Robert Vere Buxton DSO, a cricketer, soldier and banker. Buxton died in Marylebone, London in November 1911, aged 64. His wife was appointed an OBE in 1918. She died in February 1939.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "John Mackay( 1656–1754), known as( The Blind Piper), was a Scottish Gaelic poet and composer, and the grandfather of William Ross.",
+    "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist. He was the grandfather of singer/ poet Leonard Cohen.",
+    "Rev. John Westley( 1636 – 78) was an English nonconformist minister. He was the grandfather of John Wesley( founder of Methodism)."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRobert Vere Buxton was the son of Francis William Buxton.\nFrancis William Buxton was a British barrister and Liberal Party politician.\nFrancis William Buxton was the son of Sir Edward Buxton, 2nd Baronet.\nSir Edward Buxton, 2nd Baronet, was the son of Sir Thomas Buxton, 1st Baronet.\nSir Thomas Buxton, 1st Baronet, was an anti-slavery campaigner.\nRobert Vere Buxton's paternal grandfather is Sir Edward Buxton, 2nd Baronet.\n<answer> Sir Edward Buxton, 2nd Baronet",
+  "predicted_answer": "Sir Edward Buxton, 2nd Baronet",
+  "claims": [
+    "Robert Vere Buxton was the son of Francis William Buxton",
+    "Francis William Buxton was a British barrister and Liberal Party politician",
+    "Francis William Buxton was the son of Sir Edward Buxton, 2nd Baronet",
+    "Sir Edward Buxton, 2nd Baronet, was the son of Sir Thomas Buxton, 1st Baronet",
+    "Sir Thomas Buxton, 1st Baronet, was an anti-slavery campaigner",
+    "Robert Vere Buxton's paternal grandfather is Sir Edward Buxton, 2nd Baronet"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Robert Vere Buxton was the son of Francis William Buxton",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Francis William Buxton was a British barrister and Liberal Party politician",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Francis William Buxton was the son of Sir Edward Buxton, 2nd Baronet",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Sir Edward Buxton, 2nd Baronet, was the son of Sir Thomas Buxton, 1st Baronet",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Sir Thomas Buxton, 1st Baronet, was an anti-slavery campaigner",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Robert Vere Buxton's paternal grandfather is Sir Edward Buxton, 2nd Baronet",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

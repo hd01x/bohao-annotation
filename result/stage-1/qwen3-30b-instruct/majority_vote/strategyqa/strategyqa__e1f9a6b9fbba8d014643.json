@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__e1f9a6b9fbba8d014643",
+  "sample_id": "e1f9a6b9fbba8d014643",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Will a rock float in the atmosphere of Earth?",
+  "gold_answer": "no",
+  "context": [
+    "Things only float if they are less dense than the surrounding material.",
+    "Rocks are denser than air.",
+    "The atmosphere of Earth is made up of air."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThings only float if they are less dense than the surrounding material.\nRocks are denser than air.\nThe atmosphere of Earth is made up of air.\nA rock is denser than the surrounding atmosphere of Earth.\nA rock will not float in the atmosphere of Earth.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Things only float if they are less dense than the surrounding material",
+    "Rocks are denser than air",
+    "The atmosphere of Earth is made up of air",
+    "A rock is denser than the surrounding atmosphere of Earth",
+    "A rock will not float in the atmosphere of Earth"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Things only float if they are less dense than the surrounding material",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Rocks are denser than air",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The atmosphere of Earth is made up of air",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "A rock is denser than the surrounding atmosphere of Earth",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A rock will not float in the atmosphere of Earth",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__1aec8f200bb011ebab90acde48001122",
+  "sample_id": "1aec8f200bb011ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Myat Phaya's maternal grandmother?",
+  "gold_answer": "Hsinbyumashin",
+  "context": [
+    "Princess Myat Phaya (born in Madras at 7 March 1886 – 21 July 1962), was a Burmese royal princess and senior member of the Royal House of Konbaung. She is the third daughter of the last ruling king of Burma, King Thibaw and his queen Supayalat.",
+    "Supayalat (13 December 1859 – 24 November 1925), also spelt Suphayalat, was the last queen of Burma who reigned in Mandalay (1878–1885), born to King Mindon Min and Queen of Alenandaw (literally Middle Palace, also known as Hsinbyumashin or Lady of the White Elephant). The British corruption of her name was \"Soup Plate\". She was married to her half-brother, Thibaw, who became the last king of the Konbaung dynasty in 1878, upon Mindon Min's death. She is best known for engineering a massacre of 80 to 100 royal family members, to prevent potential rivals from usurping Thibaw's power, although she had always denied any knowledge of the plot, which may have been hatched by her mother together with some of the ministers, including the chancellor Kinwon Min Gyi U Kaung.",
+    "Gülbahar Hatun( 1432 – 1492) was the consort of Sultan Mehmed II, and mother of Sultan Bayezid II of the Ottoman Empire and the grandmother of Selim I.",
+    "Hubba bint Hulail was the grandmother of Hashim ibn' Abd Manaf, thus the great- great- great- grandmother of the Islamic\" Nabī\"( Prophet) Muhammad ibn Abdullah.",
+    "Anne Denman( 1587–1661) was born in Olde Hall, Retford, Nottinghamshire. Through a fortunate second marriage with Thomas Aylesbury, she became the grandmother of Lady Anne Hyde, Duchess of York and great- grandmother of Queen Mary II and Queen Anne.",
+    "Tjuyu( sometimes transliterated as Thuya or Thuyu) was an Egyptian noblewoman and the mother of queen Tiye, and the wife of Yuya. She is the grandmother of Akhenaten, and great grandmother of Tutankhamun.",
+    "Mona Hopton Bell( 1867- 1940) was a British artist, best known for her portraits of civic figures. She was the grandmother of the painter Jean H. Bell.",
+    "After the elections of 2009, she became more widely known as the grandmother of Prime Minister Yukio Hatoyama and his politician brother Kunio Hatoyama.",
+    "Prince Edward Taw Phaya(( 22 March 1924 – 12 January 2019), also known as Tun Aung) was the Pretender to the Throne of Burma( abolished in 1885). He was the second son of Princess Myat Phaya Galay, the fourth daughter of King Thibaw and Queen Supayalat. Upon the death of his aunt Myat Phaya Lat in 1956, he became the Head of the Royal House of Konbaung.",
+    "Hannah Arnold, also known as Hannah Waterman King, was the grandmother of Benedict Arnolds children."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPrincess Myat Phaya was the third daughter of King Thibaw and Queen Supayalat.\nQueen Supayalat was born to King Mindon Min and Queen of Alenandaw (also known as Hsinbyumashin or Lady of the White Elephant).\nThe maternal grandmother of Myat Phaya is the mother of Queen Supayalat.\nQueen of Alenandaw, also known as Hsinbyumashin or Lady of the White Elephant, was the mother of Queen Supayalat.\nThe maternal grandmother of Myat Phaya is Queen of Alenandaw.\n<answer> Queen of Alenandaw",
+  "predicted_answer": "Queen of Alenandaw",
+  "claims": [
+    "Princess Myat Phaya was the third daughter of King Thibaw and Queen Supayalat",
+    "Queen Supayalat was born to King Mindon Min and Queen of Alenandaw (also known as Hsinbyumashin or Lady of the White Elephant)",
+    "The maternal grandmother of Myat Phaya is the mother of Queen Supayalat",
+    "Queen of Alenandaw, also known as Hsinbyumashin or Lady of the White Elephant, was the mother of Queen Supayalat",
+    "The maternal grandmother of Myat Phaya is Queen of Alenandaw"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Princess Myat Phaya was the third daughter of King Thibaw and Queen Supayalat",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Queen Supayalat was born to King Mindon Min and Queen of Alenandaw (also known as Hsinbyumashin or Lady of the White Elephant)",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The maternal grandmother of Myat Phaya is the mother of Queen Supayalat",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Queen of Alenandaw, also known as Hsinbyumashin or Lady of the White Elephant, was the mother of Queen Supayalat",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The maternal grandmother of Myat Phaya is Queen of Alenandaw",
+      "claim_type": "DR"
+    }
+  ]
+}

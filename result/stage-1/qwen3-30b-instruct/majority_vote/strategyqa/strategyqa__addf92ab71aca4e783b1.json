@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__addf92ab71aca4e783b1",
+  "sample_id": "addf92ab71aca4e783b1",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is watching  Star Wars necessary to know who Darth Vader is?",
+  "gold_answer": "no",
+  "context": [
+    "Star Wars is one of the most widely parodied film series to be produced.",
+    "Star Wars merchandise, from tees to Halloween costumes, is widely available and is plentiful. "
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nStar Wars is one of the most widely parodied film series to be produced.\nStar Wars merchandise, including items featuring Darth Vader, is widely available and plentiful.\nDarth Vader is a prominent character in the Star Wars franchise.\nThe widespread availability of Star Wars merchandise featuring Darth Vader means the character is recognizable outside of watching the films.\nKnowing who Darth Vader is does not require watching Star Wars.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Star Wars is one of the most widely parodied film series to be produced",
+    "Star Wars merchandise, including items featuring Darth Vader, is widely available and plentiful",
+    "Darth Vader is a prominent character in the Star Wars franchise",
+    "The widespread availability of Star Wars merchandise featuring Darth Vader means the character is recognizable outside of watching the films",
+    "Knowing who Darth Vader is does not require watching Star Wars"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Star Wars is one of the most widely parodied film series to be produced",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Star Wars merchandise, including items featuring Darth Vader, is widely available and plentiful",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Darth Vader is a prominent character in the Star Wars franchise",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The widespread availability of Star Wars merchandise featuring Darth Vader means the character is recognizable outside of watching the films",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Knowing who Darth Vader is does not require watching Star Wars",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

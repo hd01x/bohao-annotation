@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__e0681b8c0bda11eba7f7acde48001122",
+  "sample_id": "e0681b8c0bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "When was the director of film I Want Someone To Eat Cheese With born?",
+  "gold_answer": "June 5, 1962",
+  "context": [
+    "Brian Saunders( date of birth and death unknown) was a male weightlifter who competed for England.",
+    "Terence D. Robinson( date of birth and death unknown) was a male wrestler who competed for England.",
+    "Theodred II was a medieval Bishop of Elmham. The date of Theodred's consecration unknown, but the date of his death was sometime between 995 and 997.",
+    "I Want Someone to Eat Cheese With is a 2006 American independent romantic comedy film written, produced, directed by, and starring Jeff Garlin, also featuring Sarah Silverman and Bonnie Hunt. Many improv veterans of Chicago's Second City and even its 1950s predecessor Compass Players appear, as well as Chicago radio personality Steve Dahl in a cameo.",
+    "Steven Robert Dahl (born November 20, 1954 in Pasadena, California) is an American radio personality and humorist . He is the owner and operator of the Steve Dahl Network, a subscription-based podcasting network. Originally, Dahl broadcast with Detroit stations WABX and WWWW and later with Chicago stations WCKG, WDAI, WLUP, WMVP and WLS. He also served as a columnist for the \"Chicago Tribune\" in their \"Live\" section as the resident \"vice advisor\" until November 2010. Additionally, Dahl has served on the Board of Trustees at Columbia College Chicago. Dahl's radio show takes an \"every guy\" approach to life in Chicago and Dahl often tells bucolic stories about his life and family on the air. Dahl is also well known in Chicago for his song parodies and his impressions. He is considered a pioneer in talk radio and has been influential for many other radio personalities. He gained a measure of national attention after the Disco Demolition Night promotion at Comiskey Park, and he is also known in Chicago for his longstanding former role as one half of the \"Steve and Garry\" team (with Garry Meier). In addition to his radio career, Dahl is a singer, songwriter, and guitarist. His band, Teenage Radiation, recorded and performed a number of song parodies (which he often played on his show throughout the 1980s) and since 1990 he has performed and recorded as Steve Dahl and the Dahlfins. Dahl also is an occasional actor, and has appeared in films such as \"Grandview, U.S.A.Outing Riley\" and \"I Want Someone to Eat Cheese With\".",
+    "Etan Boritzer( born 1950) is an American writer of children ’s literature who is best known for his book\" What is God?\" first published in 1989. His best selling\" What is?\" illustrated children's book series on character education and difficult subjects for children is a popular teaching guide for parents, teachers and child- life professionals. Boritzer gained national critical acclaim after\" What is God?\" was published in 1989 although the book has caused controversy from religious fundamentalists for its universalist views. The other current books in the\" What is?\" series include What is Love?, What is Death?, What is Beautiful?, What is Funny?, What is Right?, What is Peace?, What is Money?, What is Dreaming?, What is a Friend?, What is True?, What is a Family?, What is a Feeling?\" The series is now also translated into 15 languages. Boritzer was first published in 1963 at the age of 13 when he wrote an essay in his English class at Wade Junior High School in the Bronx, New York on the assassination of John F. Kennedy. His essay was included in a special anthology by New York City public school children compiled and published by the New York City Department of Education. Boritzer now lives in Venice, California and maintains his publishing office there also. He has helped numerous other authors to get published through\" How to Get Your Book Published!\" programs. Boritzer is also a yoga teacher who teaches regular classes locally and guest- teaches nationally. He is also recognized nationally as an erudite speaker on\" The Teachings of the Buddha.\"",
+    "Jeffrey Todd Garlin (born June 5, 1962) is an American comedian and actor. He played Jeff Greene on the HBO show \"Curb Your Enthusiasm\", Mort Meyers on \"Arrested Development\" for Fox and Netflix and Murray Goldberg, the patriarch of the eponymous family in the ABC sitcom \"The Goldbergs\". He has also appeared in \"ParaNormanWall-EToy Story 3\" and \"Safety Not Guaranteed\", among other films and has hosted his own podcast on Earwolf since 2013.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Les Richards( date of birth unknown) was an Australian rules footballer who played with North Melbourne in the Victorian Football League( VFL)."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nI Want Someone to Eat Cheese With is a 2006 American independent romantic comedy film.\nThe film was directed by Jeff Garlin.\nJeffrey Todd Garlin was born on June 5, 1962.\nThe director of the film I Want Someone to Eat Cheese With was born on June 5, 1962.\n<answer> June 5, 1962",
+  "predicted_answer": "June 5, 1962",
+  "claims": [
+    "I Want Someone to Eat Cheese With is a 2006 American independent romantic comedy film",
+    "The film was directed by Jeff Garlin",
+    "Jeffrey Todd Garlin was born on June 5, 1962",
+    "The director of the film I Want Someone to Eat Cheese With was born on June 5, 1962"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "I Want Someone to Eat Cheese With is a 2006 American independent romantic comedy film",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The film was directed by Jeff Garlin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Jeffrey Todd Garlin was born on June 5, 1962",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The director of the film I Want Someone to Eat Cheese With was born on June 5, 1962",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

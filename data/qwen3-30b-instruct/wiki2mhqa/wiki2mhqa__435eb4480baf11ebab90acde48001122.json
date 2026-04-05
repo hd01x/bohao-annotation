@@ -1,0 +1,36 @@
+{
+  "uid": "wiki2mhqa__435eb4480baf11ebab90acde48001122",
+  "sample_id": "435eb4480baf11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Rostislav I Of Kiev's paternal grandfather?",
+  "gold_answer": "Vladimir II Monomakh",
+  "context": [
+    "Maria( b. ca. 1140 – d. after 1173), was by marriage High Duchess of Poland. By the majority of historians and web sources, her parentage is unknown; however, others authors believed that she was a daughter of Rostislav I Mstislavich, Grand Prince of Kiev.",
+    "Mstislav I Vladimirovich the Great (Russian: Мстислав Владимирович Великий,(June 1, 1076 – April 14, 1132) was the Grand Prince of Kiev (1125–1132), the eldest son of Vladimir II Monomakh by Gytha of Wessex. He is figured prominently in the Norse Sagas under the name Harald, to allude to his grandfather, Harold II of England. Mstislav's Christian name was Theodore.",
+    "Roman Rostislavich ( Cyrillic: Роман Ростиславич)( died 1180), Prince of Smolensk( 1160 – 1172, 1177 – 1180), Grand Prince of Kiev( 1171 – 1173, 1175 – 1177) and Prince of Novgorod( 1178 – 1179). He was the son of Rostislav Mstislavich. Temporarily installed as Grand Prince of Kiev in July 1171, he was quickly replaced by Andrey Bogolyubsky's brother, Mikhail of Vladimir. He had a son: Mstislav III of Kiev.",
+    "Wenceslaus II Přemyslid( 27 September 1271 – 21 June 1305) was King of Bohemia( 1278 – 1305), Duke of Cracow( 1291 – 1305), and King of Poland( 1300 – 1305). He was the only son of King Ottokar II of Bohemia and Ottokar's second wife Kunigunda. He was born in 1271, ten years after the marriage of his parents. Kunigunda was the daughter of Rostislav Mikhailovich, lord of Slavonia, son of a Grand Prince of Kiev, and Anna of Hungary, daughter of Béla IV of Hungary. His great- grandfather was the German king Philip of Swabia. Wenceslaus II was the grandfather of the Holy Roman Emperor, Charles IV. He was a member of the Přemyslid dynasty.",
+    "Rostislav Mstislavich (Russian and Ukrainian: Ростисла́в Мстисла́вич) (c. 1110–1167), Kniaz' (Prince) of Smolensk (1125–1160), Novgorod (1154) and Velikiy Kniaz (Grand Prince) of Kiev (1154, 1159–1167). He was the son of Mstislav I of Kiev and Christina Ingesdotter of Sweden. After Yaroslav II of Kiev was driven out of Novgorod, Rostislav was invited to become the ruler of Novgorod. He accepted, and became the prince on April 17, 1154. Then, learning that Iziaslav II had died, Rostislav left Novgorod to take the Kievan throne. Indignant that their prince had abandoned them and angered that he did not make order among them, but tore them more apart, the citizens of Novgorod drove out Rostislav's son, David, who was their governor. They replaced him with Mstislav Yurievich, the son of Yury Dolgoruky. Rostislav ruled Kiev for one week before Iziaslav III of Kiev forced him to flee to Chernigov. He left four sons, princes David Rostislavich of Novgorod, Mstislav Rostislavich of Smolensk, Roman I of Kiev and Rurik Rostislavich and two daughters Elena Rostislavna of Kiev-Smolensk (died 1204) and Agrafena Rostislavna (died 1237).",
+    "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist. He was the grandfather of singer/ poet Leonard Cohen.",
+    "Rev. John Westley( 1636 – 78) was an English nonconformist minister. He was the grandfather of John Wesley( founder of Methodism).",
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Rurik Rostislavich( Russian and Ukrainian: Рюрик Ростиславич)( ?– 1215), Prince of Novgorod( 1170 – 1171), Belgorod Kievsky, presently Bilohorodka( 1173–1194), Grand Prince of Kiev( 1173, 1180–1182, 1194–1202, 1203–1205, 1206, 1207–1210), Prince of Chernigov( 1210–1214). Rurik was the son of Rostislav I of Kiev, and succession conflicts placed Rurik on the throne of the Kievan Rus' no less than seven times. In 1182, he became co-ruler with Sviatoslav III of Kiev, an arrangement that lasted until Sviatoslav's death in 1194. Rurik ruled alone until 1199, when his rule was challenged by Roman the Great, who deposed Rurik. After a brief stint in Chernihiv, where he built the Church of St. Paraskebas, Rurik, along with his kinsmen and a Cuman army, attacked and sacked Kiev in 1203, but was repelled until Roman's death in 1205. Rurik had been confined to a monastery in 1204, but he abandoned his holy vows and returned to the throne. His cousin, Vsevolod, felt that Rurik's previous monastic vows rendered his authority invalid, and so attacked and briefly seized Kiev in 1206, 1207, and 1211. He succeeded in capturing Rurik, who died in captivity in Chernigov. Rurik was married to Anna of Turov; among their children was Rostislav II of Kiev.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRostislav I Mstislavich was the son of Mstislav I of Kiev.\nMstislav I of Kiev was the son of Vladimir II Monomakh.\nVladimir II Monomakh was the son of Vladimir I of Kiev.\nVladimir I of Kiev was the son of Sviatoslav I of Kiev.\nSviatoslav I of Kiev was the son of Igor of Kiev.\nIgor of Kiev was the son of Rurik.\nRurik was the founder of the Rurik dynasty.\nRostislav I of Kiev's paternal grandfather is Rurik.\nSo, the answer is Rurik.\n<answer> Rurik",
+  "claims": [
+    "Rostislav I Mstislavich was the son of Mstislav I of Kiev",
+    "Mstislav I of Kiev was the son of Vladimir II Monomakh",
+    "Vladimir II Monomakh was the son of Vladimir I of Kiev",
+    "Vladimir I of Kiev was the son of Sviatoslav I of Kiev",
+    "Sviatoslav I of Kiev was the son of Igor of Kiev",
+    "Igor of Kiev was the son of Rurik",
+    "Rurik was the founder of the Rurik dynasty",
+    "Rostislav I of Kiev's paternal grandfather is Rurik",
+    "So, the answer is Rurik"
+  ],
+  "predicted_answer": "Rurik"
+}

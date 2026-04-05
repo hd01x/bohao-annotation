@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__ec0463f1bd3c28fe300a",
+  "sample_id": "ec0463f1bd3c28fe300a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would a Germaphobia be able to participate in Judo?",
+  "gold_answer": "no",
+  "context": [
+    "Germaphobia is a term used by psychologists to describe a pathological fear of germs, bacteria, microbes, contamination and infection.",
+    "If you’re training Judo, you will also find yourself getting into close proximity to the people you are training with, and rolling around on matted floors too. ",
+    "Additionally, you will sweat and roll around on a shared mat when practicing judo."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGermaphobia is a pathological fear of germs, contamination, and infection.\nJudo involves close physical contact with others during training.\nJudo training includes rolling on shared mats that are used by multiple people.\nSweating and contact with shared surfaces increase exposure to germs and microbes.\nA person with germaphobia would likely experience intense anxiety in such environments.\nThe physical and environmental demands of judo directly conflict with the core fears of germaphobia.\nA germaphobia would find it extremely difficult to participate in judo due to the unavoidable exposure to germs and shared surfaces.\n<answer> A germaphobia would not be able to participate in judo.",
+  "predicted_answer": "A germaphobia would not be able to participate in judo.",
+  "claims": [
+    "Germaphobia is a pathological fear of germs, contamination, and infection",
+    "Judo involves close physical contact with others during training",
+    "Judo training includes rolling on shared mats that are used by multiple people",
+    "Sweating and contact with shared surfaces increase exposure to germs and microbes",
+    "A person with germaphobia would likely experience intense anxiety in such environments",
+    "The physical and environmental demands of judo directly conflict with the core fears of germaphobia",
+    "A germaphobia would find it extremely difficult to participate in judo due to the unavoidable exposure to germs and shared surfaces"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Germaphobia is a pathological fear of germs, contamination, and infection",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Judo involves close physical contact with others during training",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Judo training includes rolling on shared mats that are used by multiple people",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Sweating and contact with shared surfaces increase exposure to germs and microbes",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A person with germaphobia would likely experience intense anxiety in such environments",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The physical and environmental demands of judo directly conflict with the core fears of germaphobia",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "A germaphobia would find it extremely difficult to participate in judo due to the unavoidable exposure to germs and shared surfaces",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

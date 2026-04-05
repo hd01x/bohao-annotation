@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__57c12b50094711ebbdaeac1f6bf848b6",
+  "sample_id": "57c12b50094711ebbdaeac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which album was released earlier, American Tunes or I'M In Love Again?",
+  "gold_answer": "I'M In Love Again",
+  "context": [
+    "Falling in Love Again is a solo album by David Gates of Bread.",
+    "Falling in Love Again is the second studio album by the American singer- songwriter Davitt Sigerson. It was originally released in 1984 on the record label, ZE worldwide.",
+    "Opet sam se zaljubio( English translation: I Fell in Love Again) is the ninth studio album of Bosnian singer Halid Bešlić. It was released in 1990.",
+    "American Tunes is the final recording from New Orleans jazz and R&B pianist Allen Toussaint, released on Nonesuch Records on June 10, 2016. It was produced by Joe Henry and includes music from a 2013 solo session at the pianist's home studio in New Orleans and an October 2015 session featuring musicians Bill Frisell, Charles Lloyd, Greg Leisz, Jay Bellerose, and David Piltch, with special guest vocalist Rhiannon Giddens and pianist Van Dyke Parks, recorded in Los Angeles the month before Toussaint died. The album title is taken from the 1973 Paul Simon song\" American Tune,\" which Toussaint performs on the album. Also included are songs written or recorded by Toussaint, Professor Longhair, Duke Ellington, Bill Evans, and Fats Waller. Allen Toussaint was due to play with Paul Simon in a New Orleans benefit concert to celebrate the 30th anniversary of New Orleans Artists Against Hunger and Homelessness, an organization Toussaint co-founded, on December 8, 2015; instead, Simon played the concert without Toussaint in tribute to the late musician. \" Allen Toussaint brought New Orleans to the world,\" Simon has said,\" and he left before he could bless us with the complete genius of his music.\"",
+    "To Love Again: The Duets is the eighth studio album by Chris Botti, released on October 18, 2005. It consists of cover versions of pop and jazz standards, except for the title track \"To Love Again\".",
+    "Lost in Love is the first extended play by South Korean singer Younha. The album was released on December 9, 2010.",
+    "Back in Love Again may refer to:",
+    "I'm In Love Again is the sixth solo album released by American recording artist Patti LaBelle in 1983. LaBelle's commercial breakthrough, it featured her first top ten R&B hits,\" Love, Need and Want You\" and\" If Only You Knew\", the latter topping the R&B chart in early 1984. It was later certified gold for selling half a million copies and paved the way for her pop breakthrough in late 1984 with the dance hit\" New Attitude\".",
+    "Falling in Love Again may refer to:",
+    "In Love Again! is a 1964 studio album by Peggy Lee, arranged by Dick Hazard, Bill Holman and Shorty Rogers."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAmerican Tunes was released on June 10, 2016.\nI'm In Love Again was released in 1983.\n1983 is earlier than 2016.\nThe album released earlier is I'm In Love Again.\n<answer> I'm In Love Again",
+  "predicted_answer": "I'm In Love Again",
+  "claims": [
+    "American Tunes was released on June 10, 2016",
+    "I'm In Love Again was released in 1983",
+    "1983 is earlier than 2016",
+    "The album released earlier is I'm In Love Again"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "American Tunes was released on June 10, 2016",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "I'm In Love Again was released in 1983",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1983 is earlier than 2016",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "The album released earlier is I'm In Love Again",
+      "claim_type": "DR"
+    }
+  ]
+}

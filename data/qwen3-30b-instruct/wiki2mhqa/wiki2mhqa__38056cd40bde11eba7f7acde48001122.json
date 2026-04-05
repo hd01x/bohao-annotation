@@ -1,0 +1,31 @@
+{
+  "uid": "wiki2mhqa__38056cd40bde11eba7f7acde48001122",
+  "sample_id": "38056cd40bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "When did Thomas Knox, 3Rd Earl Of Ranfurly's father die?",
+  "gold_answer": "21 March 1858",
+  "context": [
+    "Thomas Knox, 3rd Earl of Ranfurly (13 November 1816 – 20 May 1858), styled Viscount Northland between 1840 and 1858, was an Irish peer and Member of Parliament. He was the son of Thomas Knox, 2nd Earl of Ranfurly and his wife Mary Juliana Stuart, and represented Dungannon as a Member of Parliament between 9 June 1838 and 3 February 1851, when he resigned through the position of Steward of the Chiltern Hundreds. He was educated at St John's College, Cambridge.",
+    "Thomas Daniel Knox, 6th Earl of Ranfurly KCMG( 29 May 1914 – 6 November 1988), known as Dan Ranfurly, was a British Army officer and farmer, who served as Governor of the Bahamas. His exploits in the Second World War, along with those of his wife, Hermione, and his valet, Whitaker, were chronicled in his wife's memoirs from the time,\" To War With Whitaker: The Wartime Diaries of the Countess of Ranfurly, 1939 – 1945\".",
+    "John Lindsay, 19th Earl of Crawford and 3rd Earl of Lindsay( died December 1713) was a Scottish peer and politician.",
+    "Theodred II was a medieval Bishop of Elmham. The date of Theodred's consecration unknown, but the date of his death was sometime between 995 and 997.",
+    "Thomas Knox, 2nd Earl of Ranfurly (19 April 1786 – 21 March 1858), styled Viscount Northland between 1831 and 1840, was an Anglo-Irish peer and politician.",
+    "Hermione, Countess of Ranfurly, OBE,( née Llewellyn)( 13 November 1913 – 11 February 2001), was the British author of\" To War With Whitaker: The Wartime Diaries of the Countess of Ranfurly, 1939 – 1945\".",
+    "Uchter John Mark Knox, 5th Earl of Ranfurly( 14 August 1856 – 1 October 1933), was a British politician and colonial governor. He was Governor of New Zealand from 1897 to 1904.",
+    "Thomas Knox, 1st Earl of Ranfurly( 5 August 1754 – 26 April 1840), styled The Honourable Thomas Knox between 1781 and 1818 and known as The Viscount Northland between 1818 and 1831, was an Irish peer and politician.",
+    "Thomas Knox Clyde( 1923–2005) was an American Major League Baseball pitcher. He played for the Philadelphia Athletics during the season.",
+    "John Gordon, 3rd Earl of Aboyne( born April 1700, died 7 April 1732) was the son of Charles Gordon, 2nd Earl of Aboyne and Elizabeth Lyon. He succeeded his father as 3rd Earl of Aboyne in April 1702. On his death in 1732 he was succeeded in his titles by his eldest son."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThomas Knox, 3rd Earl of Ranfurly, was the son of Thomas Knox, 2nd Earl of Ranfurly.\nThomas Knox, 2nd Earl of Ranfurly, died on 21 March 1858.\nThe father of Thomas Knox, 3rd Earl of Ranfurly, died on 21 March 1858.\nSo, the answer is 21 March 1858.\n<answer> 21 March 1858",
+  "claims": [
+    "Thomas Knox, 3rd Earl of Ranfurly, was the son of Thomas Knox, 2nd Earl of Ranfurly",
+    "Thomas Knox, 2nd Earl of Ranfurly, died on 21 March 1858",
+    "The father of Thomas Knox, 3rd Earl of Ranfurly, died on 21 March 1858",
+    "So, the answer is 21 March 1858"
+  ],
+  "predicted_answer": "21 March 1858"
+}

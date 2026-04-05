@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__daad21e40bdd11eba7f7acde48001122",
+  "sample_id": "daad21e40bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the husband of Emily Davenport born?",
+  "gold_answer": "Williamstown, Vermont",
+  "context": [
+    "Stan Marks is an Australian writer and journalist. He is the husband of Holocaust survivor Eva Marks.",
+    "Stan Rice( November 7, 1942 – December 9, 2002) was an American poet and artist. He was the husband of author Anne Rice.",
+    "Thomas Davenport (9 July 1802 – 6 July 1851) was a Vermont blacksmith who constructed the first American DC electric motor in 1834. Davenport was born in Williamstown, Vermont. He lived in Forest Dale, a village near the town of Brandon. As early as 1834, he developed a battery-powered electric motor. He used it to operate a small model car on a short section of track, paving the way for the later electrification of streetcars. Davenport's 1833 visit to the Penfield and Taft iron works at Crown Point, New York, where an electromagnet was operating, based on the design of Joseph Henry, was an impetus for his electromagnetic undertakings. Davenport bought an electromagnet from the Crown Point factory and took it apart to see how it worked. Then he forged a better iron core and redid the wiring, using silk from his wife's wedding gown. With his wife Emily and colleague Orange Smalley, Davenport received the first American patent on an electric machine in 1837, U. S. Patent No. 132. He used his electric motor in 1840 to print \"The Electro-Magnetic and Mechanics Intelligencer\" - the first newspaper printed using electricity. In 1849, Charles Grafton Page, the Washington scientist and inventor, commenced a project to build an electromagnetically powered locomotive, with substantial funds appropriated by the US Senate. Davenport challenged the expenditure of public funds, arguing for the motors he had already invented. In 1851, Page's full sized electromagnetically operated locomotive was put to a calamity-laden test on the rail line between Washington and Baltimore.",
+    "Emily Goss Davenport (April 29, 1810 in Brandon, Vermont – October 5, 1862 in Brandon, Vermont) was an American inventor from Vermont, United States. Emily, with her husband Thomas Davenport, invented an electric motor and electric locomotive circa 1834. Throughout the process of invention, Emily kept detailed notes and actively contributed to the process. Needing to insulate the motor's iron core, Davenport cut her wedding dress into strips of silk to insulate the wire windings. She is also credited with the idea of using mercury as a conductor, enabling the motor to function for the first time.",
+    "Andrew Upton( born 1 February 1966) is an Australian playwright, screenwriter, and director. He is the husband of actress Cate Blanchett.",
+    "Jacob Alexander Davenport( born 28 December 1998) is an English professional footballer who plays for Blackburn Rovers, as a midfielder.",
+    "Jonathan Leach( born April 18, 1973) is a former professional tennis player from the United States. He is the husband of Lindsay Davenport.",
+    "Ian Davenport( born 8 July 1966) is an English abstract painter and former Turner Prize nominee.",
+    "Don Davenport( born 18 April 1945) is a former Australian rules footballer who played with Richmond in the Victorian Football League( VFL).",
+    "Jason Davenport( born 4 September 1985) is an Australian rules footballer who played for the Port Adelaide Football Club in the Australian Football League( AFL)."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEmily Davenport was an American inventor from Vermont, United States.\nEmily Davenport was married to Thomas Davenport.\nThomas Davenport was born in Williamstown, Vermont.\nThe husband of Emily Davenport was born in Williamstown, Vermont.\n<answer> Williamstown, Vermont",
+  "predicted_answer": "Williamstown, Vermont",
+  "claims": [
+    "Emily Davenport was an American inventor from Vermont, United States",
+    "Emily Davenport was married to Thomas Davenport",
+    "Thomas Davenport was born in Williamstown, Vermont",
+    "The husband of Emily Davenport was born in Williamstown, Vermont"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Emily Davenport was an American inventor from Vermont, United States",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Emily Davenport was married to Thomas Davenport",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Thomas Davenport was born in Williamstown, Vermont",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The husband of Emily Davenport was born in Williamstown, Vermont",
+      "claim_type": "DR"
+    }
+  ]
+}

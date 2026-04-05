@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__1cfd64486a9cabeb7c0c",
+  "sample_id": "1cfd64486a9cabeb7c0c",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Do mollymawks live where albatrosses cannot?",
+  "gold_answer": "no",
+  "context": [
+    "A mollymawk is a type of albatross",
+    "Any place inaccessible to albatrosses in general is inaccessible to specific types of albatross"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA mollymawk is a type of albatross.\nAny place inaccessible to albatrosses in general is inaccessible to specific types of albatross.\nMollymawks cannot live in places where albatrosses cannot live.\nThe question asks if mollymawks live where albatrosses cannot.\nMollymawks do not live where albatrosses cannot.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "A mollymawk is a type of albatross",
+    "Any place inaccessible to albatrosses in general is inaccessible to specific types of albatross",
+    "Mollymawks cannot live in places where albatrosses cannot live",
+    "The question asks if mollymawks live where albatrosses cannot",
+    "Mollymawks do not live where albatrosses cannot"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A mollymawk is a type of albatross",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Any place inaccessible to albatrosses in general is inaccessible to specific types of albatross",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Mollymawks cannot live in places where albatrosses cannot live",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The question asks if mollymawks live where albatrosses cannot",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Mollymawks do not live where albatrosses cannot",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

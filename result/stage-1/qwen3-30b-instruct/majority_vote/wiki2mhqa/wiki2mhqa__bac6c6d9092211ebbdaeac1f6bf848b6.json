@@ -1,0 +1,115 @@
+{
+  "uid": "wiki2mhqa__bac6c6d9092211ebbdaeac1f6bf848b6",
+  "sample_id": "bac6c6d9092211ebbdaeac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do the movies Beyond The Reach and Mondovino, originate from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "Beyond the Reach is a 2014 American adventure thriller film directed by Jean- Baptiste Léonetti and written by Stephen Susco. It is based on the 1972 novel\" Deathwatch\" by Robb White. The film, starring Michael Douglas, Jeremy Irvine, and Ronny Cox, was released on April 17, 2015, by Roadside Attractions.",
+    "Mondovino is a 2004 documentary film on the impact of globalization on the world's different wine regions written and directed by American film maker Jonathan Nossiter. It was nominated for the Palme d' Or at the 2004 Cannes Film Festival and a César Award. The film explores the impact of globalization on the various wine- producing regions, and the influence of critics like Robert Parker and consultants like Michel Rolland in defining an international style. It pits the ambitions of large, multinational wine producers, in particular Robert Mondavi, against the small, single estate wineries who have traditionally boasted wines with individual character driven by their terroir. \" Mondovino\" was originally intended to be a two- month affair as a break between feature projects upon the completion of Nossiter's film\" Signs& Wonders\"( 2000). The film gave Nossiter a chance to utilize his knowledge as a trained sommelier from his time working at Balthazar in New York as well as an opportunity to visit some of the great wine regions of the world.",
+    "Do the Twist may refer to:",
+    "This song was included in the band's compilation albums\" Do the Best\" and\" Do the A- side\".",
+    "Saturday Night at the Movies may refer to:",
+    "Killed the Family and Went to the Movies may refer to:",
+    "The Muppets Go To The Movies( or The Muffets Go To The Movies as misspelled by Fozzie Bear) is a 1981 one- hour television special that aired on ABC. It was used to help promote\" The Great Muppet Caper\".",
+    "A Night at the Movies can be:",
+    "This song was included in the band's compilation albums\" Do the Best\" and\" Do the A- side\".",
+    "At the Movies may refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBeyond the Reach is a 2014 American adventure thriller film.\nMondovino is a 2004 documentary film directed by American filmmaker Jonathan Nossiter.\nBoth films were produced in the United States.\nThe country of origin for Beyond the Reach is the United States.\nThe country of origin for Mondovino is the United States.\nBeyond the Reach and Mondovino originate from the same country.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Beyond the Reach is a 2014 American adventure thriller film",
+    "Mondovino is a 2004 documentary film directed by American filmmaker Jonathan Nossiter",
+    "Both films were produced in the United States",
+    "The country of origin for Beyond the Reach is the United States",
+    "The country of origin for Mondovino is the United States",
+    "Beyond the Reach and Mondovino originate from the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Beyond the Reach is a 2014 American adventure thriller film",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Mondovino is a 2004 documentary film directed by American filmmaker Jonathan Nossiter",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Both films were produced in the United States",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The country of origin for Beyond the Reach is the United States",
+      "claim_type": "FC",
+      "votes": {
+        "DR": 1,
+        "FC": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The country of origin for Mondovino is the United States",
+      "claim_type": "FC",
+      "votes": {
+        "DR": 1,
+        "FC": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Beyond the Reach and Mondovino originate from the same country",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

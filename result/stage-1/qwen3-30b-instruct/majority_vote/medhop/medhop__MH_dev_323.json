@@ -1,0 +1,267 @@
+{
+  "uid": "medhop__MH_dev_323",
+  "sample_id": "MH_dev_323",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00116\", \"DB00160\", \"DB00360\", \"DB01120\", \"DB01229\", \"DB01270\", \"DB01370\", \"DB02034\", and \"DB05412\" interacts with DB01285?",
+  "gold_answer": "DB01120",
+  "context": [
+    "DB01370 alters iron and manganese uptake and regulation of surface transferrin receptors in primary rat oligodendrocyte cultures . P02787 ( Tf ) is a major transport protein for both iron ( Fe ) and aluminum ( Al ) , as well as manganese ( Mn ) and it can mediate cellular uptake of these elements via cell surface Tf receptors . To study the effect of Al-Tf on Tf receptor regulation , primary oligodendrocyte cultures were prepared from cortices of newborn rats . The effects of Al-Tf on 54Mn and 59Fe uptake were compared to those of apo- , Fe- , or Mn-Tf ( 1.25 microM ) . To examine changes in cell surface Tf binding capacity , preincubation ( 4 h , 37 degrees C ) was performed with apo- , Al- or Fe-Tf and homologous receptor binding studies were subsequently conducted with 125I-Fe-Tf at 4 degrees C . Incubation with Al-Tf , but not with equimolar amounts of Al chloride or Al citrate , led to dose-related increases in cellular Al . Incubation with either Al- or Fe-Tf decreased 59Fe uptake , while incubation with either Al- or Mn-Tf decreased 54Mn uptake . Surface Tf receptor sites/cell were 1.05 , 0.60 and 0.46 x 10(5) after incubations with equivalent amounts of apo- , Fe- , and Al-Tf respectively . The data suggest that Al-Tf down-regulates surface Tf receptors on oligodendrocytes and can limit Fe and Mn uptake through this mechanism .",
+    "Effect of P06850 on NO bioavailability , ROS production and antioxidant defense systems in endothelial EAhy926 cells . Local or ' Immune ' DB01285 -Releasing Hormone ( P06850 ) is secreted in peripheral tissues and plays a direct immunomodulatory role as an endocrine or paracrine mediator of inflammation . The present study was undertaken to determine whether P06850 affects the endothelial redox state . Accordingly , intracellular reactive oxygen species ( ROS ) content and peroxynitrite levels , endothelial nitric oxide synthase ( P29474 ) activity and nitric oxide ( NO ) levels as well as catalase activity , superoxide dismutase ( SOD ) activity and glutathione ( DB00143 ) levels were measured in the presence or absence of selective P06850 receptor-1 and P06850 receptor-2 inhibitors in endothelial EAhy926 cells exposed in vitro in 10(-7) M P06850 for 2 h . P06850 acting through both receptors induced a significant increase of ROS content ( p < 0.001 ) , catalase activity ( p < 0.001 ) and SOD activity ( p < 0.001 ) , accompanied by a simultaneous significant decrease of P29474 activity and NO levels ( p < 0.001 ) , as well as a significant increase in nitrotyrosine ( peroxynitrite ) levels ( p < 0.05 ) . The data indicate that P06850 may act as a regulator of pro-inflammatory mechanisms inducing adaptation of endothelial cell function to local stress .",
+    "Partial trypsin digestion as an indicator of mis-folding of mutant alanine:glyoxylate aminotransferase and chaperone effects of specific ligands . Study of a spectrum of missense mutants . DB00160 :glyoxylate aminotransferase ( AGT ) is a liver peroxisomal enzyme whose deficiency results in primary hyperoxaluria type 1 ( P78364 ) . More than 75 P78364 mutations are now documented in the AGT gene ( P21549 ) , of which about 50 % are missense . We have previously demonstrated that many such mutants expressed by transcription/translation are subject to generalized degradation by the proteasome and a specific limited trimming by an endogenous DB00171 -independent protease activity . Here , we report the results of partial digestion using trypsin as a mimic for the endogenous non-proteasomal protease and the use of N-terminal protein sequencing to determine the sensitive site . Partial trypsin digestion also provided an indicator of proper folding of the mutant enzyme . For selected mutations the sensitivity to trypsin could be ameliorated by addition of pyridoxal phosphate or aminooxy acetic acid as specific pharmacological chaperones .",
+    "Systemic safety of anti- P15692 drugs : a commentary . INTRODUCTION : P15692 is a mediator of angiogenesis . Thus , concerns have been expressed following the use of P15692 inhibitors for the treatment of neovascular age-related macular degeneration ( nAMD ) . DB01270 , and more recently aflibercept , are P15692 inhibitors licensed for the treatment of nAMD . DB00112 is also used but unlicensed for this application . AREAS COVERED : A non-systematic review of nAMD trials was undertaken to investigate four outcomes : all-cause mortality , all systemic serious adverse events ( SSAEs ) , arteriothrombotic events ( ATEs ) and gastrointestinal ( GI ) complications . Differences in event rates with injections of ranibizumab compared to bevacizumab , aflibercept , photodynamic therapy ( PDT ) and sham were explored and quantified using fixed-effect meta-analyses . EXPERT OPINION : Anti- P15692 agents can influence vascular health ; however , the data suggest no difference in the risk of an ATE or death between anti- P15692 agents . Clinical trials are limited in their size and eligibility criteria and databases of patients treated in routine practice should also be scrutinized .",
+    "Protective effect of treatment with low-dose gliclazide in a model of middle cerebral artery occlusion and reperfusion in rats . The aim of this study was to explore the expression of sulfonylurea receptor 1 ( Q09428 ) , the regulatory subunit of the NCCa- DB00171 channel , and to investigate the protective effects of gliclazide following middle cerebral artery occlusion ( MCAO ) /reperfusion in male Wistar rats . Adult rats underwent 2h of the left MCAO using the intraluminal thread technique before reperfusion . The core areas of the infarct at different reperfusion time points were examined for the mRNA level and protein expression of Q09428 using reverse transcription-polymerase chain reaction ( RT-PCR ) and western blotting respectively . DB01120 was administered intravenously into the right jugular vein for 12h simultaneously with the reperfusion . The number of apoptotic cells was determined using the TUNEL assay . The neurological functional deficits were evaluated using Bederson׳s test , and the cerebral infarction volume was visualized with TTC staining . We found up-regulation of Q09428 mRNA and protein levels in ischemic infarct tissues after reperfusion following MCAO , and Q09428 mRNA and protein were maximally upregulated 8-12h after a 2-hour ischemia . The treatment with low-dose of gliclazide reduced the total number of TUNEL-positive cells , the neurological functional deficits and the brain infarct volume . These results suggest that the Q09428 -regulated NCCa- DB00171 channel may be associated with MCAO/reperfusion injury and the infarct-reducing effects of intravenous treatment with gliclazide may be due , in part , to the blocked upregulation of Q09428 expression , the decreased infarct size and the reduced apoptosis in the ischemia-reperfusion brain .",
+    "Q01718 distribution and modulation among murine mononuclear leukocyte populations . Murine mononuclear leukocytes express adrenocorticotropin ( DB01285 ) receptors that were recognized by a monospecific antiserum to the Q01718 on Y-1 adrenal cells . The antiserum was utilized in an immunofluorescence ( IF ) assay to characterize the distribution of DB01285 receptors on resting murine mononuclear leukocyte populations . Forty-seven percent of spleen cells , 32 % of lymph node cells , and 1 % of thymocytes constitutively expressed DB01285 receptors . Separation of lymphocytes into purified B cell and T cell populations , followed by IF analysis revealed that 47 % of B cells and 23 % of T cells possessed DB01285 receptors . Helper T cells ( P01730 + T cells ) constituted the majority of Q01718 -positive T lymphocytes . Furthermore , 47 % of resident peritoneal macrophages , purified by adherence to plastic , expressed DB01285 receptors . The T-lymphocyte mitogen , concanavalin A , interferon gamma , and DB01285 enhanced Q01718 expression . The differential distribution of Q01718 -positive cells among specific leukocyte populations explains in part why differential cellular responses are observed and implies important regulatory functions for these receptors in the generation or regulation of immune responses .",
+    "Molecular response of HL-60 cells to mitotic inhibitors vincristine and taxol visualized with apoptosis-related gene expressions , including the new member Q9HB09 . DB01229 and vincristine belong to a group of anticancer drugs that target microtubules , subsequently arresting cells at the mitotic phase of the cell cycle and inducing programmed cell death . The P10415 ( bcl-2 ) family of genes is of known implication in apoptosis induced by various stimuli , among which Q9HB09 , a new member of the family , cloned by our group . For further insights into the mechanisms and molecular targets implicated and modified as a result of apoptosis induced by these two mitosis-arresting drugs , we studied the possible alterations , at the mRNA level , of various apoptosis-related genes ( P10415 , Q07812 , Q9HB09 , CASPASE-3 , FAS ) after leukemia cell ( HL-60 ) treatment with these drugs . The kinetics of cell toxicity were evaluated by the MTT [ 3-(4,5-dimethylthiazol-2-yl)-2,5-diphenyltetrazolium bromide ] method , trypan blue staining , and cell proliferation efficiency ; apoptosis induction was assayed by endonucleosomal cleavage of DNA ( DNA laddering ) ; and the expression levels of the genes were analysed by RT-PCR , using gene-specific primers . The percentage of nonviable cells was upregulated with increasing cell exposure time and drug concentrations to both taxol and vincristine . Distinct modulations of apoptosis-related genes at the mRNA level were also observed , mainly concerning P10415 and Q9HB09 along apoptosis induction . Our results indicate and support the hypothesis that the apoptosis-related genes P10415 and Q9HB09 respond similarly to treatment of the human , acute , myelocytic leukemia HL60 cells with the anticancer drugs vincristine and taxol though in a drug-specific and time-dependent manner .",
+    "[ Effects of milkvetch root on neuro-endocrino-immune network in asthma model rat ] . OBJECTIVE : To study the change and the effect of milkvetch root ( MR ) on neuro-endocrino-immune ( NEI ) network related indexes in repeated asthmatic attack model rats . METHODS : Rats were randomly divided into five groups : the normal group ( A ) , the model group ( B ) , and the three treated groups ( C , D , E ) treated with low , medium and high dose of the MR by gastrogavage . The corticotropin releasing hormone ( P06850 ) mRNA expression in hypothalamus was tested by Realtime-PCR , serum adrenocorticotropic hormone ( DB01285 ) and corticosterone ( O00230 ) were detected with radioimmunoassay , serum P05231 , P05112 , P01579 determined with enzyme-linked immunosorbent assay , and the lung tissue pathology was examined by hematoxylin and eosin staining . RESULTS : As compared with the normal group , in the rats 3 weeks after modeling , P06850 mRNA expression , blood P01579 and plasma DB01285 were unchanged , serum level of O00230 raised significantly ( P < 0.05 ) , P05231 and P05112 showed an increasing trend but without significance . Low dose of MR could promote the production of serum O00230 , and hight dose of MR could down-regulate the concentrations of P05112 and P05231 ( P < 0.01 ) . No significant difference was found in comparison of pathological changes of lung tissue among the groups . CONCLUSION : Rats suffered from repeated asthmatic attack have some disorders in indexes of NEI , MR could enhance the function of hypothalamic-pituitary-adrenal cortex axis and adjust the balance of Th1 and Th2 cytokines to alleviate the inflammation of asthma .",
+    "Pituitary-adrenal axis regulation in P06850 -deficient mice . P06850 ( P06850 ) -deficient ( knockout ( KO ) ) mice demonstrate severely impaired adrenal responses to restraint , ether , and fasting , and lack the normal diurnal glucocorticoid ( GC ) rhythm . Here , we summarize recent studies determining the role of P06850 in augmenting plasma adrenocorticotrophic hormone ( DB01285 ) concentration after glucocorticoid withdrawal and pituitary-adrenal axis stimulation in the context of inflammation . Even though GC insufficient , basal pituitary proopiomelanocortin ( P01189 ) mRNA , DB01285 peptide content within the pituitary , and plasma DB01285 concentrations are not elevated in P06850 KO mice . P01189 mRNA content in P06850 KO mice increases following adrenalectomy , and this increase is reversed by GC , but not aldosterone , replacement . In marked contrast to the increase in P01189 mRNA , plasma DB01285 does not increase in the P06850 KO mice following adrenalectomy . Administration of P06850 to adrenalectomized P06850 KO mice results in acute , robust DB01285 secretion . Thus , loss of GC feedback can increase P01189 gene expression in the pituitary , but P06850 action is essential for increased secretion of DB01285 into the circulation . While GC secretion is impaired in P06850 KO mice after most stimuli , we have found near-normal GC responses to inflammation and systemic immune challenge . Studies in mice with P06850 and P05231 deficiency reveal that P05231 is essential for activation of the pituitary-adrenal axis during inflammatory and other stressors in the absence of P06850 .",
+    "An acidic pH environment increases cell death and pro-inflammatory cytokine release in osteoblasts : the involvement of Q07812 inhibitor-1 . Q07812 Inhibitor-1 ( P55061 ) , a transmembrane protein on the endoplasmic reticulum , has been studied previously in various physio/pathological conditions , but not in bone cells . In this study , using the MG63 osteoblast cell line and osteoblasts differentiated from stem cells , the role of P55061 was studied . First , expression of P55061 was confirmed in osteoblasts , as well as osteoclasts , in mouse tibiae bone immunohistochemistry . For evaluation of a recently published property of P55061 , an acidic pH-dependent Ca²⁺ channel-like effect in osteoblasts , acidic pH-associated cell death , and pro-inflammatory cytokine release were examined . In MG63 osteoblasts , acidic pH induced a pH-dependent increase in cell death and ER stress , as determined by elevated expression of P11021 , P35638 , phospho-eIF2α , IRE-1α , spliced P17861 , and phospho-JNK . In osteoblasts , mitochondrial Ca²⁺ also showed a strong pH-dependent increase . P55061 knock-down using siRNA protected cells against acidic pH , regulating mitochondrial Ca²⁺ accumulation , possibly via the acidic pH-dependent Ca²⁺ channel-like effect of P55061 . P55061 knock-down also resulted in inhibition of acidic pH-induced release of pro-inflammatory cytokines , including IL-1β , P05231 , and P01375 -α . In addition , bone marrow stem cells were differentiated into human osteoblasts , which showed increased expression of P55061 mRNA and protein . In differentiated primary human osteoblasts , acidic pH-associated cell death , mitochondrial Ca²⁺ accumulation , and pro-inflammatory cytokine release were more significant than in non-differentiated stem cells . In summary , endogenous expression of P55061 is associated with acidic pH-induced Ca²⁺ release , cell death , and pro-inflammatory cytokine release in human osteoblasts .",
+    "Inhibition of p38alpha MAPK disrupts the pathological loop of proinflammatory factor production in the myelodysplastic syndrome bone marrow microenvironment . Myelodysplastic syndromes ( P43034 ) are common causes of ineffective hematopoiesis and cytopenias in the elderly . Various myelosuppressive and proinflammatory cytokines have been implicated in the high rates of apoptosis and hematopoietic suppression seen in P43034 . We have previously shown that p38 MAPK is overactivated in P43034 hematopoietic progenitors , which led to current clinical studies of the selective p38alpha inhibitor , DB05412 , in this disease . We now demonstrate that the myelosuppressive cytokines TNFalpha and IL-1beta are secreted by bone marrow ( BM ) cells in a p38 MAPK-dependent manner . Their secretion is stimulated by paracrine interactions between BM stromal and mononuclear cells and cytokine induction correlates with P28906 + stem cell apoptosis in an inflammation-simulated in vitro bone marrow microenvironment . Treatment with DB05412 inhibits P01375 secretion in primary P43034 bone marrow cells and protects cytogenetically normal progenitors from apoptosis ex vivo . Furthermore , p38 inhibition diminishes the expression of TNFalpha or IL-1beta-induced proinflammatory chemokines in BM stromal cells . These data indicate that p38 inhibition has anti-inflammatory effects on the bone marrow microenvironment that complements its cytoprotective effect on progenitor survival . These findings support clinical investigation of p38alpha as a potential therapeutic target in P43034 and other related diseases characterised by inflammatory bone marrow failure .",
+    "Specificity analysis of lectins and antibodies using remodeled glycoproteins . Due to their ability to bind specifically to certain carbohydrate sequences , lectins are a frequently used tool in cytology , histology , and glycan analysis but also offer new options for drug targeting and drug delivery systems . For these and other potential applications , it is necessary to be certain as to the carbohydrate structures interacting with the lectin . Therefore , we used glycoproteins remodeled with glycosyltransferases and glycosidases for testing specificities of lectins from Aleuria aurantia ( AAL ) , Erythrina cristagalli ( ECL ) , Griffonia simplicifolia ( GSL I-B(4) ) , Helix pomatia agglutinin ( Q9Y251 ) , Lens culinaris ( LCA ) , Lotus tetragonolobus ( P01374 ) , peanut ( Arachis hypogaeae ) ( PNA ) , Ricinus communis ( RCA I ) , Sambucus nigra ( SNA ) , Vicia villosa ( VVA ) , and wheat germ ( Triticum vulgaris ) ( WGA ) as well as reactivities of anti-carbohydrate antibodies ( anti-bee venom , anti-horseradish peroxidase [ anti-HRP ] , and anti-Lewis(x) ) . After enzymatic remodeling , the resulting neoglycoforms display defined carbohydrate sequences and can be used , when spotted on nitrocellulose or in enzyme-linked lectinosorbent assays , to identify the sugar moieties bound by the lectins . P02787 with its two biantennary complex N-glycans was used as scaffold for gaining diverse N-glycosidic structures , whereas fetuin was modified using glycosidases to test the specificities of lectins toward both N- and O-glycans . In addition , alpha(1)-acid glycoprotein and Schistosoma mansoni egg extract were chosen as controls for lectin interactions with fucosylated glycans ( Lewis(x) and core alpha1,3-fucose ) . Our data complement and expand the existing knowledge about the binding specificity of a range of commercially available lectins .",
+    "Targeted disruption of the methionine synthase gene in mice . Alterations in homocysteine , methionine , folate , and/or B12 homeostasis have been associated with neural tube defects , cardiovascular disease , and cancer . Q99707 , one of only two mammalian enzymes known to require vitamin B12 as a cofactor , lies at the intersection of these metabolic pathways . This enzyme catalyzes the transfer of a methyl group from 5-methyl- DB00116 to homocysteine , generating DB00116 and methionine . Human patients with methionine synthase deficiency exhibit homocysteinemia , homocysteinuria , and hypomethioninemia . They suffer from megaloblastic anemia with or without some degree of neural dysfunction and mental retardation . To better study the pathophysiology of methionine synthase deficiency , we utilized gene-targeting technology to inactivate the methionine synthase gene in mice . On average , heterozygous knockout mice from an outbred background have slightly elevated plasma homocysteine and methionine compared to wild-type mice but seem to be otherwise indistinguishable . Homozygous knockout embryos survive through implantation but die soon thereafter . Nutritional supplementation during pregnancy was unable to rescue embryos that were completely deficient in methionine synthase . Whether any human patients with methionine synthase deficiency have a complete absence of enzyme activity is unclear . These results demonstrate the importance of this enzyme for early development in mice and suggest either that methionine synthase-deficient patients have residual methionine synthase activity or that humans have a compensatory mechanism that is absent in mice .",
+    "Comparison of the effects of cytoprotective drugs on human plasma adrenocorticotropic hormone and cortisol levels with continual stress exposure . Cetraxate hydrochloride ( cetraxate ) , ecabet sodium ( ecabet ) , and sulpiride , which are cytoprotective drugs , have been used to treat peptic ulcers and acute or chronic gastritis . They are reported to improve mucosal blood flow in the stomach . One of the most important factors believed to cause gastric ulcers is mental and/or physiological stress . When people feel stress , the hypothalamo-pituitary-adrenal ( Q9Y251 ) axis is activated . Therefore , corticotropin-releasing hormone ( P06850 ) , adrenocorticotropic hormone ( DB01285 ) , and cortisol can be indicators of stress . We examined the effects of cetraxate , ecabet and sulpiride on the plasma levels of DB01285 and cortisol under stress conditions by repetitive blood sampling . Venous blood samples were taken before and 20-240 min after a single administration of the drugs or a placebo . A single dose of ecabet caused significant suppression of increases in plasma DB01285 -like immunoreactive substance ( IS ) levels at 90 to 120 min and cortisol levels at 240 min , compared with the response to placebo . DB00391 only suppressed increases in plasma cortisol levels at 180 to 240 min , compared with the response to placebo . A single dose of cetraxate had no effect on plasma DB01285 -IS and cortisol levels . Ecabet may have a modulatory effect on the Q9Y251 axis while sulpiride may have a partial modulatory effect on the Q9Y251 axis . These effects might be beneficial in stress-related disease .",
+    "[ Protective effects of penehyclidine hydrochloride against acute renal injury induced by hemorrhagic shock and lipopolysaccharides in rats ] . OBJECTIVE : To investigate the effect of penehyclidine hydrochloride ( Q00325 ) in a rat model of renal injury induced by hemorrhagic shock and lipopolysaccharides ( LPS ) . METHODS : Forty-five healthy Wistar rats were randomized into sham operated group , model group , and 3 penehyclidine hydrochloride ( Q00325 ) dose ( 1 , 2 and 3 mg/kg ) groups ( P78364 , Q8IXK0 , and Q8NDX5 groups , respectively ) . The arterial blood samples were collected to determine the concentrations of serum tumor necrosis factor-α ( P01375 -α ) , interleukin-8 ( P10145 ) , interleukin-1 ( IL-1 ) , urine creatinine ( Cr ) and blood urine nitrogen ( BUN ) , and the renal tissues were collected to measure the expressions of P05362 and nuclear factor-κB ( NF-κB ) and observe the pathological changes . RESULTS : P01375 -α , P10145 , IL-1 , Cr , BUN , P05362 and NF-κB in the 3 Q00325 groups were significantly lower than those in the model group ( P < 0.05 ) . P01375 -α , P10145 , IL-1 , Cr and BUN were significantly lower in P78364 ( P < 0.05 ) than in the Q8IXK0 and Q8NDX5 groups , and P05362 and NF-κB were similar between 3 Q00325 groups ( P > 0.05 ) . Compared with the model group , the 3 Q00325 groups showed lessened pathological changes in the renal tubules . CONCLUSION : Q00325 has protective effects against renal injury induced by hemorrhagic-endotoxin shock in rats , and treatment with 1 mg/kg Q00325 produces the most significant protective effect .",
+    "Quantitative regulation of intracellular endothelial nitric-oxide synthase ( P29474 ) coupling by both tetrahydrobiopterin- P29474 stoichiometry and biopterin redox status : insights from cells with tet-regulated P30793 expression . DB00360 ( BH4 ) is a critical determinant of endothelial nitric-oxide synthase ( P29474 ) activity . In the absence of BH4 , P29474 becomes \" uncoupled \" and generates superoxide rather than NO . However , the stoichiometry of intracellular BH4/ P29474 interactions is not well defined , and it is unclear whether intracellular BH4 deficiency alone is sufficient to induce P29474 uncoupling . To address these questions , we developed novel cell lines with tet-regulated expression of human P30793 ( GTPCH ) , the rate-limiting enzyme in BH4 synthesis , to selectively induce intracellular BH4 deficiency by incubation with doxycycline . These cells were stably co-transfected to express a human P29474 -green fluorescent protein fusion protein , selecting clones expressing either low ( P30793 / P29474 -LOW ) or high ( P30793 / P29474 -HIGH ) levels . DB00254 abolished GTPCH mRNA expression and GTPCH protein , leading to markedly diminished total biopterin levels and a decreased ratio of BH4 to oxidized biopterins in cells expressing P29474 . Intracellular BH4 deficiency induced superoxide generation from P29474 , as assessed by N-nitro-L-arginine methyl ester inhibitable 2-hydroxyethidium generation , and attenuated NO production . Quantitative analysis of cellular BH4 versus superoxide production between P30793 / P29474 -LOW and P30793 / P29474 -HIGH cells revealed a striking linear relationship between P29474 protein and cellular BH4 stoichiometry , with P29474 uncoupling at P29474 :BH4 molar ratio > 1 . Furthermore , increasing the intracellular BH2 concentration in the presence of a constant P29474 :BH4 ratio was sufficient to induce P29474 -dependent superoxide production . This specific , reductionist approach in a cell-based system reveals that P29474 :BH4 reaction stoichiometry together with the intracellular BH4:BH2 ratio , rather than absolute concentrations of BH4 , are the key determinants of P29474 uncoupling , even in the absence of exogenous oxidative stress .",
+    "Q8N0V5 V ( Mgat5 ) -mediated N-glycosylation negatively regulates Th1 cytokine production by T cells . The differentiation of naive P01730 (+) T cells into either proinflammatory Th1 or proallergic Th2 cells strongly influences autoimmunity , allergy , and tumor immune surveillance . We previously demonstrated that beta1,6GlcNAc-branched complex-type ( Q8N0V5 V ( Mgat5 ) ) N-glycans on TCR are bound to galectins , an interaction that reduces TCR signaling by opposing agonist-induced TCR clustering at the immune synapse . Mgat5(-/-) mice display late-onset spontaneous autoimmune disease and enhanced resistance to tumor progression and metastasis . In this study we examined the role of beta1,6GlcNAc N-glycan expression in Th1/Th2 cytokine production and differentiation . beta1,6GlcNAc N-glycan expression is enhanced by TCR stimulation independent of cell division and declines at the end of the stimulation cycle . DB00075 -activated splenocytes and naive T cells from Mgat5(-/-) mice produce more P01579 and less P05112 compared with wild-type cells , the latter resulting in the loss of P05112 -dependent down-regulation of IL-4Ralpha . DB02034 , an inhibitor of Q16706 , blocked beta1,6GlcNAc N-glycan expression and caused a similar increase in P01579 production by T cells from humans and mice , but no additional enhancement in Mgat5(-/-) T cells . Mgat5 deficiency did not alter P01579 / P05112 production by polarized Th1 cells , but caused an approximately 10-fold increase in P01579 production by polarized Th2 cells . These data indicate that negative regulation of TCR signaling by beta1,6GlcNAc N-glycans promotes development of Th2 over Th1 responses , enhances polarization of Th2 cells , and suggests a mechanism for the increased autoimmune disease susceptibility observed in Mgat5(-/-) mice .",
+    "Genotype frequencies of 50 polymorphisms for 241 Japanese non-cancer patients . This paper lists the genotype frequencies of 50 polymorphisms of 37 genes ( P05091 , P07550 , P13945 , P21964 , P16671 , P25025 , P24385 , P35354 , P11509 , P05093 , P11511 , IGF1 , IL-1A , IL-1B , IL-1RN , IL-1R1 , P05231 , P10145 , P22301 , P41159 , Le , L-myc , P05164 , Q99707 , P42898 , P21397 , P15559 , O15527 , p53 , p73 , Se , P31213 , TGF-B , P01375 -A , P01375 -B , P18074 , and P18887 ) and 6 sets of combined genotype frequencies for 241 non-cancer Japanese outpatients . Though the genotype frequencies of 25 polymorphisms have already been reported in our previous papers , 15 polymorphisms ( P16671 A52C , P25025 C785T , P24385 G870A , IGF1 C/T at intron 2 and G2502T , IL-1A 46-bp VNTR , IL-1R1 C-116T , P05231 Ins/Del 17C , P10145 A-278T and C74T , IL- 10 T-819C , P41159 A-2548G , P31213 2-bp VNTR , P18074 Lys751Gln , and P18887 Arg399Gln ) and six sets of combined genotype frequencies ( IL-1B C-31T and IL-1A C-889T , IL-1B C-31T and IL-1RN 86-bp VNTR , IL-1B C-31T and IL-1R1 C-116T , P01375 -A G-308A and P01375 -B A252G , P31213 Val89Leu and 2-bp VNTR , and P18887 Arg399Gln and P18074 Lys751Gln ) were reported in this paper for the first time for Japanese . Although microarray technology will produce this kind of information in near future , this is the first document that reports the genotype/allele frequencies among Japanese for an archival purpose .",
+    "Antidiabetic sulfonylurea enhances secretagogue-induced adrenocorticotropin secretion and proopiomelanocortin gene expression in vitro . The presence of high-affinity binding sites for antidiabetic sulfonylureas ( SUs ) and the expression of SU receptor ( Q09428 ) messenger RNA in the adenohypophyseal cells have recently been reported . In this study , we examined the effects of SU on P01189 gene expression and DB01285 secretion using the AtT20PL cell line , a subclone of AtT20 in which the rat P01189 5'-promoter-luciferase fusion gene was stably incorporated . A representative SU glibenclamide inhibited the basal P01189 5'-promoter activity . In contrast , glibenclamide enhanced forskolin- or P06850 -induced P01189 expression in a dose-dependent manner . Interestingly , the latter effect was not observed under treatment with DB07954 , a nonselective phosphodiesterase inhibitor . Furthermore , diazoxide , an opener of the DB00171 -sensitive K+ channel , only antagonized the suppressive effect of glibenclamide . Lastly , RT-PCR analysis showed that mouse Q09428 ( but not SUR2 ) messenger RNA was expressed in this cell line . These results suggest that , in AtT20PL cells , SU has dual effects , i.e. a suppressive effect on basal P01189 expression through diazoxide-sensitive ( DB00171 -sensitive ) K+-channel-mediated mechanism , and an enhancing effect on DB02527 /protein kinase A-stimulated P01189 expression through a different mechanism ( probably mediated by phosphodiesterase ) . To our knowledge , this is the first report showing the effect of SU on the expression of the anterior pituitary hormone gene .",
+    "Skeletal receptors for steroid-family regulating glycoprotein hormones : A multilevel , integrated physiological control system . Pituitary glycoprotein hormone receptors , including Q01718 , P16473 , and P23945 , occur in bone . Their skeletal expression reflects that central endocrine control is evolutionarily recent . DB01285 receptors , in osteoblasts or the adrenal cortex , drive P15692 synthesis . P15692 is essential to maintain vasculature . In bone , DB01285 suppression by glucocorticoids can cause osteonecrosis . DB00024 receptors occur on osteoblasts and osteoclasts , in both cases reducing activity . Thus , DB00024 directly reduces skeletal turnover , consistent with evolutionary adaptation to stress . DB00094 receptors accelerate bone resorption , whereas estrogen promotes bone formation , the forces usually balancing . With ovarian failure , low estrogen with high DB00094 causes rapid bone loss . The skeletal DB00094 effect in the menopause seems paradoxical , but it is a logical adaptation in lactation , where prolonged DB00094 elevation also occurs . In addition to receptors , there is some synthesis of pituitary glycoproteins at distributed sites ; this is not well studied , but it may further modify the paradigm of central endocrine regulation .",
+    "Interleukins 1α and 1β as regulators of steroidogenesis in human NCI-H295R adrenocortical cells . Inflammatory cytokines interleukin-1 ( IL-1 ) and tumor necrosis factor-α ( P01375 -α ) regulate the activity of the hypothalamo-pituitary-adrenal ( Q9Y251 ) axis at several levels . Although hypothalamic P06850 secretion may be the primary mechanism by which these cytokines activate the Q9Y251 axis , IL-1 expression is increased within the adrenal glands in models for systemic inflammation , and IL-1 may augment adrenal glucocorticoid production . Our aim was to investigate the direct effects of IL-1α and IL-1β on adrenal steroidogenesis and expression of three key steroidogenic genes in human adrenocortical cells using the NCI-H295R cell line as a model . mRNAs encoding receptors for IL-1 , P01375 -α , and leukemia inhibitory factor ( P15018 ) were detectable in the cell line ( Affymetrix microarray analysis ) . Both IL-1α and IL-1β increased cortisol , androstenedione , dehydroepiandrosterone and DB05804 production , and the accumulation of mRNAs for steroidogenic acute regulatory protein ( STAR ) , 17α-hydroxylase/17,20-lyase ( P05093 ) and 3β-hydroxysteroid dehydrogenase 2 ( P26439 ) in these cells ( P < 0.05 for all ) . Both ILs augmented P01375 -α- and P15018 -induced STAR and P05093 mRNA accumulation , and P01375 -α-induced cortisol production ( P < 0.05 for all ) . Both ILs also increased the apoptotic index of the cells ( P < 0.05 ) , which was efficiently neutralized by their specific antibodies . The IL-induced changes in the STAR , P26439 , and P05093 protein levels were not as evident as those in the respective mRNA levels . In conclusion , the combined effect of inflammatory cytokines at the adrenal level in acute or chronic inflammatory states could significantly stimulate glucocorticoid production , and thus explain the observed discrepancy between the cortisol and DB01285 concentrations sometimes seen in sepsis and chronic inflammatory states ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB01285 is adrenocorticotropic hormone (ACTH), a pituitary hormone.\nDB01285 is secreted by the pituitary gland and acts on the adrenal cortex.\nDB01285 receptors are expressed on osteoblasts and adrenal cortex cells.\nDB01285 stimulates the synthesis of P15692, a mediator of angiogenesis.\nDB01285 is involved in the regulation of the hypothalamic-pituitary-adrenal (HPA) axis.\nDB01285 is regulated by corticotropin-releasing hormone (P06850).\nDB01285 is modulated by cytoprotective drugs such as ecabet sodium and sulpiride.\nDB01285 is affected by antidiabetic sulfonylureas like glibenclamide.\nDB01285 is a target of DB01270, which is a P15692 inhibitor used in treating neovascular age-related macular degeneration.\nDB01270 is a known inhibitor of P15692, which is downstream of DB01285 signaling.\nDB01285 interacts with P15692 in the regulation of vascular health.\nDB01285 is not directly stated to interact with DB00116, DB00160, DB00360, DB01120, DB01229, DB01370, DB02034, or DB05412.\nThe only drug among the listed compounds that is explicitly linked to DB01285 in the context of signaling or regulation is DB01270.\nDB01270 interacts with DB01285 through the inhibition of P15692, which is downstream of DB01285.\nDB01270 is a P15692 inhibitor and P15692 is regulated by DB01285.\nDB01270 interacts with DB01285 in the context of angiogenesis and vascular regulation.\n<answer> DB01270",
+  "predicted_answer": "DB01270",
+  "claims": [
+    "DB01285 is adrenocorticotropic hormone (ACTH), a pituitary hormone",
+    "DB01285 is secreted by the pituitary gland and acts on the adrenal cortex",
+    "DB01285 receptors are expressed on osteoblasts and adrenal cortex cells",
+    "DB01285 stimulates the synthesis of P15692, a mediator of angiogenesis",
+    "DB01285 is involved in the regulation of the hypothalamic-pituitary-adrenal (HPA) axis",
+    "DB01285 is regulated by corticotropin-releasing hormone (P06850)",
+    "DB01285 is modulated by cytoprotective drugs such as ecabet sodium and sulpiride",
+    "DB01285 is affected by antidiabetic sulfonylureas like glibenclamide",
+    "DB01285 is a target of DB01270, which is a P15692 inhibitor used in treating neovascular age-related macular degeneration",
+    "DB01270 is a known inhibitor of P15692, which is downstream of DB01285 signaling",
+    "DB01285 interacts with P15692 in the regulation of vascular health",
+    "DB01285 is not directly stated to interact with DB00116, DB00160, DB00360, DB01120, DB01229, DB01370, DB02034, or DB05412",
+    "The only drug among the listed compounds that is explicitly linked to DB01285 in the context of signaling or regulation is DB01270",
+    "DB01270 interacts with DB01285 through the inhibition of P15692, which is downstream of DB01285",
+    "DB01270 is a P15692 inhibitor and P15692 is regulated by DB01285",
+    "DB01270 interacts with DB01285 in the context of angiogenesis and vascular regulation"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB01285 is adrenocorticotropic hormone (ACTH), a pituitary hormone",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB01285 is secreted by the pituitary gland and acts on the adrenal cortex",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB01285 receptors are expressed on osteoblasts and adrenal cortex cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB01285 stimulates the synthesis of P15692, a mediator of angiogenesis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB01285 is involved in the regulation of the hypothalamic-pituitary-adrenal (HPA) axis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB01285 is regulated by corticotropin-releasing hormone (P06850)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01285 is modulated by cytoprotective drugs such as ecabet sodium and sulpiride",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01285 is affected by antidiabetic sulfonylureas like glibenclamide",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB01285 is a target of DB01270, which is a P15692 inhibitor used in treating neovascular age-related macular degeneration",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB01270 is a known inhibitor of P15692, which is downstream of DB01285 signaling",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB01285 interacts with P15692 in the regulation of vascular health",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB01285 is not directly stated to interact with DB00116, DB00160, DB00360, DB01120, DB01229, DB01370, DB02034, or DB05412",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "The only drug among the listed compounds that is explicitly linked to DB01285 in the context of signaling or regulation is DB01270",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB01270 interacts with DB01285 through the inhibition of P15692, which is downstream of DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB01270 is a P15692 inhibitor and P15692 is regulated by DB01285",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB01270 interacts with DB01285 in the context of angiogenesis and vascular regulation",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

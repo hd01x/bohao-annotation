@@ -1,0 +1,274 @@
+{
+  "uid": "medhop__MH_dev_143",
+  "sample_id": "MH_dev_143",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00191\", \"DB00290\", \"DB00452\", \"DB01211\", \"DB01656\", and \"DB06209\" interacts with DB00887?",
+  "gold_answer": "DB00452",
+  "context": [
+    "Is phentermine an inhibitor of monoamine oxidase ? A critical appraisal . DB00191 produces a spectrum of concentration-dependent biochemical effects . It interacts with NE transporters at 0.1 microM , DA transporters at about 1 microM , 5-HT transporters at 15 microM and P21397 at about 100 microM . When administered at typical anorectic doses , phentermine primarily interacts with DA and NE transporters and does not produce biochemical or neurochemical effects which would occur if it were inhibiting P21397 . Some other explanation other than MAO inhibition must be sought to explain how oral phentermine increases platelet 5-HT , since platelet P27338 does not metabolize platelet 5-HT , and since amphetamine-type drugs are even weaker inhibitors of P27338 than P21397 . Clinical studies in humans have shown that amphetamine , which is a more potent inhibitor of P21397 than phentermine , does not inhibit P21397 at therapeutic doses . Neither phentermine alone , fluoxetine alone or their combined use have been associated with cardiac valvulopathy , and clinical experience has shown their combined use to be free of significant adverse effects . Viewed collectively , there appears to be no data to support the hypothesis that phentermine inhibits MAO at typical therapeutic doses .",
+    "DB02527 inhibition of murine intestinal Na/H exchange requires P13569 -mediated cell shrinkage of villus epithelium . BACKGROUND AND AIMS : Unlike the intestine of normal subjects , small-intestinal epithelia of cystic fibrosis patients and cystic fibrosis transmembrane conductance regulator protein-null ( P13569 (-) ) mice do not respond to stimulation of intracellular cyclic adenosine monophosphate with inhibition of electroneutral NaCl absorption . Because P13569 -mediated anion secretion has been associated with changes in crypt cell volume , we hypothesized that P13569 -mediated cell volume reduction in villus epithelium is required for intracellular cyclic adenosine monophosphate inhibition of Na(+)/H(+) exchanger ( primarily P48764 ) activity in the proximal small intestine . METHODS : Transepithelial (22)Na flux across the jejuna of P13569 (+) , P13569 (-) , the basolateral membrane Na(+)/K(+)/2Cl(-) co-transporter protein P55011 (+) , and P55011 (-) mice were correlated with changes in epithelial cell volume of the midvillus region . RESULTS : Stimulation of intracellular cyclic adenosine monophosphate resulted in cessation of Na(+)/H(+) exchanger-mediated Na(+) absorption ( J(ms)(NHE) ) in P13569 (+) jejunum but had no effect on J(ms)(NHE) across P13569 (-) jejunum . Cell volume indices indicated an approximately 30 % volume reduction of villus epithelial cells in P13569 (+) jejunum but no changes in P13569 (-) epithelium after intracellular cyclic adenosine monophosphate stimulation . In contrast , cell shrinkage induced by hypertonic medium inhibited J(ms)(NHE) in both P13569 (+) and P13569 (-) mice . DB00887 treatment to inhibit Cl(-) secretion by blockade of the Na(+)/K(+)/2Cl(-) co-transporter , P55011 , of stimulated P13569 (+) jejunum prevented maximal volume reduction of villus epithelium and recovered approximately 40 % of J(ms)(NHE) . Likewise , J(ms)(NHE) and cell volume were unaffected by intracellular cyclic adenosine monophosphate stimulation in P55011 (-) jejuna . CONCLUSIONS : These findings show a previously unrecognized role of functional P13569 expressed in villus epithelium : regulation of P48764 -mediated Na(+) absorption by alteration of epithelial cell volume .",
+    "P13569 modulates neurosecretory function in pulmonary neuroendocrine cell-related tumor cell line models . The pulmonary neuroendocrine cell ( PNEC ) system consists of solitary cells and distinctive cell clusters termed neuroepithelial bodies ( P20929 ) localized in the airway epithelium . PNEC/ P20929 express a variety of bioactive substances , including amine ( serotonin , 5HT ) and neuropeptides . We have previously shown that P20929 cells are O(2) sensors expressing nicotinamide adenine diphosphate oxidase complex and O(2) sensitive K(+) channel . Recently , we demonstrated expression of functional cystic fibrosis transmembrane conductance regulator ( P13569 ) and Cl(-) conductances in P20929 cells of rabbit neonatal lung . Because PNEC/ P20929 are sparsely distributed and difficult to study in native lung , we investigated small-cell lung carcinoma ( SCLC ) and carcinoid tumor cell lines ( tumor counterparts of normal PNEC/ P20929 ) as models for PNEC/ P20929 . SCLC ( H146 , H345 ) and carcinoid ( H727 ) cell lines express neuroendocrine cell markers , including chromogranin A , neural cell adhesion molecule ( N- P62158 ) , 5HT , and tryptophan hydroxylase . We report that H146 , H345 , and H727 express P13569 messenger RNA ( reverse transcription polymerase chain reaction ) and protein ( immunoblotting ) and possess functional P13569 Cl(-) conductance , demonstrated by an iodide efflux assay inhibitable by transfection with antisense P13569 . Using an immunoassay to quantitate 5HT secretion , we also show that downregulation of P13569 abolishes hypoxia-induced 5HT release , and reduces secretory response to high potassium . Our findings suggest that P13569 may modulate neurosecretory activity of PNEC/ P20929 possessing O(2) sensor function . We propose that these tumor cell lines may be useful models for investigating the role of P13569 in PNEC/ P20929 functions in health and disease .",
+    "DCEBIO stimulates Cl- secretion in the mouse jejunum . We investigated the effects of 5,6-dichloro-1-ethyl-1,3-dihydro-2H-benzimidazol-2-one(DCEBIO) on the Cl- secretory response of the mouse jejunum using the Ussing short-circuit current ( Isc ) technique . DCEBIO stimulated a concentration-dependent , sustained increase in Isc ( EC50 41 +/- 1 microM ) . Pretreating tissues with 0.25 microM forskolin reduced the concentration-dependent increase in Isc by DCEBIO and increased the EC50 ( 53 +/- 5 microM ) . DB00887 blocked ( 82 +/- 5 % ) the DCEBIO-stimulated Isc consistent with Cl- secretion . DCEBIO was a more potent stimulator of Cl- secretion than its parent molecule , 1-ethyl-2-benzimidazolinone . DB01016 or P16860 reduced the DCEBIO-stimulated Isc by > 80 % indicating the participation of P13569 in the DCEBIO-stimulated Isc response . Clotrimazole reduced DCEBIO-stimulated Isc by 67 +/- 15 % , suggesting the participation of the intermediate conductance Ca2+-activated K+ channel ( IKCa ) in the DCEBIO-activated Isc response . In the presence of maximum forskolin ( 10 microM ) , the DCEBIO response was reduced and biphasic , reaching a peak response of the change in Isc of 43 +/- 5 microA/cm2 and then falling to a steady-state response of 17 +/- 10 microA/cm2 compared with DCEBIO control tissues ( 61 +/- 6 microA/cm2 ) . The forskolin-stimulated Isc in the presence of DCEBIO was reduced compared with forskolin control tissues . Similar results were observed with DCEBIO and 8-BrcAMP where adenylate cyclase was bypassed . H89 , a PKA inhibitor , reduced the DCEBIO-activated Isc , providing evidence that DCEBIO increased Cl- secretion via a DB02527 /PKA-dependent manner . These data suggest that DCEBIO stimulates Cl- secretion of the mouse jejunum and that DCEBIO targets components of the Cl- secretory mechanism .",
+    "P13569 mediated chloride secretion in the avian renal proximal tubule . In primary cell cultures of the avian ( Gallus gallus ) renal proximal tubule parathyroid hormone and DB02527 activation generate a Cl(-)-dependent short circuit current ( I(SC) ) response , consistent with net transepithelial Cl(-) secretion . In this study we investigated the expression and physiological function of the Na-K-2Cl ( NKCC ) transporter and P13569 chloride channel , both associated with Cl(-) secretion in a variety of tissues , in these proximal tubule cells . Using both RT-PCR and immunoblotting approaches , we showed that NKCC and P13569 are expressed , both in proximal tubule primary cultures and in a proximal tubule fraction of non-cultured ( native tissue ) fragments . We also used electrophysiological methods to assess the functional contribution of NKCC and P13569 to forskolin-activated I(SC) responses in filter grown cultured monolayers . DB00887 ( 10 μM ) , a specific blocker of NKCC , inhibited forskolin activated I(SC) by about 40 % , suggesting that basolateral uptake of Cl(-) is partially mediated by NKCC transport . In monolayers permeabilized on the basolateral side with nystatin , forskolin activated an apical Cl(-) conductance , manifested as bidirectional diffusion currents in the presence of oppositely directed Cl(-) gradients . Under these conditions the apical conductance appeared to show some bias towards apical-to-basolateral Cl(-) current . Two selective P13569 blockers , P13569 Inhibitor 172 and GlyH-101 ( both at 20 μM ) inhibited the forskolin activated diffusion currents by 38-68 % , with GlyH-101 having a greater effect . These data support the conclusion that avian renal proximal tubules utilize an apical P13569 Cl(-) channel to mediate DB02527 -activated Cl(-) secretion .",
+    "Cross-talk between PKA-Cβ and p65 mediates synergistic induction of Q07343 by roflumilast and NTHi . Phosphodiesterase 4B ( Q07343 ) plays a key role in regulating inflammation . DB01656 , a phosphodiesterase (PDE)4-selective inhibitor , has recently been approved for treating severe chronic obstructive pulmonary disease ( P48444 ) patients with exacerbation . However , there is also clinical evidence suggesting the development of tachyphylaxis or tolerance on repeated dosing of roflumilast and the possible contribution of Q07343 up-regulation , which could be counterproductive for suppressing inflammation . Thus , understanding how Q07343 is up-regulated in the context of the complex pathogenesis and medications of P48444 may help improve the efficacy and possibly ameliorate the tolerance of roflumilast . Here we show that roflumilast synergizes with nontypeable Haemophilus influenzae ( NTHi ) , a major bacterial cause of P48444 exacerbation , to up-regulate PDE4B2 expression in human airway epithelial cells in vitro and in vivo . Up-regulated PDE4B2 contributes to the induction of certain important chemokines in both enzymatic activity-dependent and activity-independent manners . We also found that protein kinase A catalytic subunit β ( PKA-Cβ ) and nuclear factor-κB ( NF-κB ) p65 subunit were required for the synergistic induction of PDE4B2 . PKA-Cβ phosphorylates p65 in a DB02527 -dependent manner . Moreover , Ser276 of p65 is critical for mediating the PKA-Cβ-induced p65 phosphorylation and the synergistic induction of PDE4B2 . Collectively , our data unveil a previously unidentified mechanism underlying synergistic up-regulation of PDE4B2 via a cross-talk between PKA-Cβ and p65 and may help develop new therapeutic strategies to improve the efficacy of DB05876 inhibitor .",
+    "Stimulation of Xenopus P47900 receptor activates P13569 in A6 cells . Nucleotide binding to purinergic P2Y receptors contributes to the regulation of a variety of physiological functions in renal epithelial cells . Here , we investigate the regulatory mechanism of the P47900 receptor agonist 2-methylthioadenosine diphosphate ( 2-MeSADP ) on Cl- transport in A6 cells , a commonly used model of the distal section of the Xenopus laevis nephron . Protein and mRNA expression analysis together with functional measurements demonstrated the basolateral location of the Xenopus P47900 receptor . 2-MeSADP increased intracellular [ Ca2+ ] and DB02527 and Cl- efflux , responses that were all inhibited by the specific P47900 receptor antagonist P59665 2179 . Cl- efflux was also inhibited by the cystic fibrosis transmembrane conductance regulator ( P13569 ) blocker glibenclamide . Inhibition of either protein kinase A ( PKA ) or the binding between A-kinase-anchoring proteins ( AKAPs ) and the regulatory PKA RII subunit blocked the 2-MeSADP-induced activation of P13569 , suggesting that PKA mediates P47900 receptor regulation of P13569 through one or more AKAPs . Further , the truncation of the PDZ1 domain of the scaffolding protein Na+/H+ exchanger regulatory factor-2 ( Q15599 ) inhibited 2-MeSADP-dependent stimulation of Cl- efflux , suggesting the involvement of this scaffolding protein . Activation or inhibition of PKC had no effect per se on basal Cl- efflux but potentiated or reduced the 2-MeSADP-dependent stimulation of Cl- efflux , respectively . These data suggest that the X laevis P47900 receptor in A6 cells can increase both DB02527 /PKA and Ca2+/PKC intracellular levels and that the PKC pathway is involved in P13569 activation via potentiation of the PKA pathway .",
+    "Microelectrode measurements of the effects of basolateral adenosine in polarized human intestinal epithelial cells in culture . Activation of the basolateral receptor for adenosine in HT-29cl.19A cells , by 100 microM adenosine , increased the equivalent short-circuit current ( DeltaIsc= 24+/-2 microA/cm2 ) , depolarized the intracellular potential ( DeltaVa= 26+/-2 mV ) and decreased the fractional apical membrane resistance ( DeltafRa=-0.48 ) . The changes in all parameters reached their peak values simultaneously . This suggests that the primary action of the adenosine-activated pathway is on only one membrane . DB00887 inhibited the transepithelial response and repolarized the cell potential . After preincubation with 100 microM forskolin , application of 300 microM adenosine caused a significant further change in Va , Isc , the transepithelial potential ( Vt ) and fRa . Together with the results from ion-replacement studies , the observations indicate that adenosine activates channels other than the cystic fibrosis transmembrane conductance regulator ( P13569 ) . The rank order of potencies of adenosine and adenosine analogues implies that the receptor is of the A2 subtype . Preincubation with 4-bromophenacyl bromide ( 4-BPB ) inhibited the effect of an adenosine analogue by 50 % , indicating that activation of phospholipase A2 may be involved in the adenosine-induced response .",
+    "[ Measurement of rifampicin and clarithromycin in serum by high-performance liquid chromatography with electrochemical detection ] . DB01045 ( RFP ) induces hepatic drug-metabolizing enzymes , making drug interactions a very important clinical problem . DB01211 ( P62158 ) metabolism is reportedly enhanced by induction of hepatic drug-metabolizing enzymes ( P08684 ) by RFP , so that the blood lend of P62158 decreases when RFP is administered concurrently . We connected an electrochemical detector to a high-performance liquid chromatograph ( HPLC ) for simple , rapid , easy measurement of blood concentrations of RFP and P62158 . Using samples of patient serum , normal serum , and reference standards , we compared HPLC by an external laboratory and the results of LC/MS/MS analysis with those of this new assay . A strong correlation was seen between our HPLC results and those of the external laboratory in RFP levels ( r=0.975 , p < 0.01 ) . A strong correlation was also seen between results we obtained for P62158 with the electrochemical detector in this assay and values measured by LC/MS/MS analysis ( r=0.995 , p < 0.01 ) . Our method enabled simple , rapid measurement of RFP and P62158 by connecting the HPLC and electrochemical detector in tandem . This system was used to modulate dosage during combined therapy with RFP and P62158 . The therapeutic effect for nontuberculous mycobacteriosis is expected to improve , and our HPLC is expected to be useful for simple , rapid , easy measurement of blood concentrations .",
+    "DB00452 -arginine conjugate , a novel HIV-1 Tat antagonist : synthesis and anti-HIV activities . HIV-1 transactivating protein Tat is essential for virus replication and progression of HIV disease . HIV-1 Tat stimulates transactivation by binding to HIV-1 transactivator responsive element ( TAR ) RNA , and while secreted extracellularly , it acts as an immunosuppressor , an activator of quiescent T-cells for productive HIV-1 infection , and by binding to CXC chemokine receptor type 4 ( P61073 ) as a chemokine analogue . Here we present a novel HIV-1 Tat antagonist , a neomycin B-hexaarginine conjugate ( NeoR ) , which inhibits Tat transactivation and antagonizes Tat extracellular activities , such as increased viral production , induction of P61073 expression , suppression of CD3-activated proliferation of lymphocytes , and upregulation of the CD8 receptor . Moreover , Tat inhibits binding of fluoresceine isothiocyanate ( FITC ) -labeled NeoR to human peripheral blood mononuclear cells ( PBMC ) , indicating that Tat and NeoR bind to the same cellular target . This is further substantiated by the finding that NeoR competes with the binding of monoclonal Abs to P61073 . Furthermore , NeoR suppresses HIV-1 binding to cells . Importantly , NeoR accumulates in the cell nuclei and inhibits the replication of M- and T-tropic HIV-1 laboratory isolates ( EC(50) = 0.8-5.3 microM ) . A putative model structure for the TAR-NeoR complex , which complies with available experimental data , is presented . We conclude that NeoR is a multitarget HIV-1 inhibitor ; the structure , and molecular modeling and dynamics , suggest its binding to TAR RNA . NeoR inhibits HIV-1 binding to cells , partially by blocking the P61073 HIV-1 coreceptor , and it antagonizes Tat functions . NeoR is therefore an attractive lead compound , capable of interfering with different stages of HIV infection and AIDS pathogenesis .",
+    "Multipotent stem/progenitor cells in human biliary tree give rise to hepatocytes , cholangiocytes , and pancreatic islets . Multipotent stem/progenitors are present in peribiliary glands of extrahepatic biliary trees from humans of all ages and in high numbers in hepato-pancreatic common duct , cystic duct , and hilum . They express endodermal transcription factors ( e.g. , Sox9 , Q9H6I2 , Q9Y261 , PDX1 , HES1 , Q9Y4Z2 , Q92786 ) intranuclearly , stem/progenitor surface markers ( EpCAM , P13591 , CD133 , P61073 ) , and sometimes weakly adult liver , bile duct , and pancreatic genes ( albumin , cystic fibrosis transmembrane conductance regulator [ P13569 ] , and insulin ) . They clonogenically expand on plastic and in serum-free medium , tailored for endodermal progenitors , remaining phenotypically stable as undifferentiated cells for months with a cell division initially every ≈36 hours and slowing to one every 2-3 days . Transfer into distinct culture conditions , each comprised of a specific mix of hormones and matrix components , yields either cords of hepatocytes ( express albumin , P08684 , and transferrin ) , branching ducts of cholangiocytes ( expressing anion exchanger-2- P04920 and P13569 ) , or regulatable C-peptide secreting neoislet-like clusters ( expressing glucagon , insulin ) and accompanied by changes in gene expression correlating with the adult fate . Transplantation into quiescent livers of immunocompromised mice results in functional human hepatocytes and cholangiocytes , whereas if into fat pads of streptozocin-induced diabetic mice , results in functional islets secreting glucose-regulatable human C-peptide . CONCLUSION : The phenotypes and availability from all age donors suggest that these stem/progenitors have considerable potential for regenerative therapies of liver , bile duct , and pancreatic diseases including diabetes .",
+    "DNA damage and related modifier genes in Italian cystic fibrosis patients . Cystic Fibrosis ( CF ) is an autosomal recessive multisystemic disorder showing a highly heterogeneous phenotype , even among siblings carrying identical P13569 mutations . Moreover , oxidative stress is of central importance in the pathogenesis of cystic fibrosis . The present study seeks to value the presence of oxidative damage in CF patients and the possible modifier effect of repair and glutathione-S-transferase genes . We analysed the presence of DNA damage in leukocytes of 63 CF patients at an Italian CF centre and 63 controls , through the alkaline Comet assay to detect DNA strand breaks . Furthermore , controls and 93 CF subjects were genotyped for 5 genes by RFLP-PCR ( P18887 ,0GG1, P09211 ) and PCR assay ( P09488 , P30711 ) . No difference in Comet assay values was observed comparing controls to CF patients , although CF subjects showed slightly higher mean values . The crude Odds-Ratio ( OR ) was higher than one for P18887 and P09211 genotypes and liver status and for P18887 and O15527 genotypes and pancreatic insufficiency , but in all cases the p-values were not significant . In this case-control study , neither DNA damage ñor gene polymorphisms seem to influence CF manifestation .",
+    "Methoxsalen stimulates electrogenic Cl- secretion in the mouse jejunum . We used the short-circuit current ( I(sc) ) and patch-clamp techniques to investigate the effects of methoxsalen ( MTX ) on the electrogenic Cl- secretion of the mouse jejunum . MTX stimulated a sustained increase in Isc that was dose dependent . DB00887 inhibited MTX-stimulated Isc in a dose-dependent manner consistent with activation of Cl- secretion . MTX failed to stimulate I(sc) following maximal activation of the DB02527 pathway by forskolin , but did increase Isc after a submaximal dose of forskolin . DB01016 , a blocker of the cystic fibrosis transmembrane conductance regulator ( P13569 ) , reduced the MTX-stimulated increase of Isc by 59 +/- 6 % . The DB02527 -dependent K+ channel blocker 293B did not alter the MTX-activated I(sc) ; however , clotrimazole , an intermediate Ca2(+)-activated K+ channel ( IK(Ca) ) blocker , reduced the MTX-stimulated I(sc) . MTX did not alter Na(+)-glucose cotransport across the mouse jejunum . In cell-attached membrane patches , MTX increased the open probability of the basolateral IK(Ca) channel of isolated crypts . These data suggest that the P13569 and IK(Ca) channels participate in the MTX-activated , sustained Cl- secretory response of the mouse jejunum .",
+    "DB00887 blocks P13569 GCl in the native sweat duct . DB00887 is well known for its ability to inhibit the nonconductive Na+-K+-2Cl- cotransporter . We were surprised in preliminary studies to find that bumetanide in the contraluminal bath also inhibited NaCl absorption in the human sweat duct , which is apparently poor in cotransporter activity . Inhibition was accompanied by a marked decrease in the transepithelial electrical conductance . Because the cystic fibrosis transmembrane conductance regulator ( P13569 ) Cl- channel is richly expressed in the sweat duct , we asked whether bumetanide acts by blocking this anion channel . We found that bumetanide 1 ) significantly increased whole cell input impedance , 2 ) hyperpolarized transepithelial and basolateral membrane potentials , 3 ) depolarized apical membrane potential , 4 ) increased the ratio of apical-to-basolateral membrane resistance , and 5 ) decreased transepithelial Cl- conductance ( GCl ) . These results indicate that bumetanide inhibits P13569 GCl in both cell membranes of this epithelium . We excluded bumetanide interference with the protein kinase A phosphorylation activation process by \" irreversibly \" phosphorylating P13569 [ by using adenosine 5'-O-(3-thiotriphosphate) in the presence of a phosphatase inhibition cocktail ] before bumetanide application . We then activated P13569 GCl by adding 5 mM DB00171 . DB00887 in the cytoplasmic bath ( 10(-3) M ) inhibited approximately 71 % of this DB00171 -activated P13569 GCl , indicating possible direct inhibition of P13569 GCl . We conclude that bumetanide inhibits P13569 GCl in apical and basolateral membranes independent of phosphorylation . The results also suggest that > 10(-5) M bumetanide can not be used to specifically block the Na+-K+-2Cl- cotransporter .",
+    "Characterization of plant P18887 and its interaction with proliferating cell nuclear antigen . In plants , there are no P06746 ( Pol beta ) and P49916 ( Lig3 ) genes . Thus , the plant short-patch base excision repair ( short-patch BER ) pathway must differ considerably from that in mammals . We characterized the rice ( Oryza Sativa L. cv. Nipponbare ) homologue of the mammalian X-ray repair cross complementing 1 ( P18887 ) , a well-known BER protein . The plant P18887 lacks the N-terminal domain ( NTD ) which is required for Pol beta binding and is essential for mammalian cell survival . The recombinant rice P18887 ( OsXRCC1 ) protein binds single-stranded DNA ( ssDNA ) as well as double-stranded DNA ( dsDNA ) and also interacts with rice proliferating cell nuclear antigen ( OsPCNA ) in a pull-down assay . Through immunoprecipitation , we demonstrated that OsXRCC1 forms a complex with P12004 in vivo . OsXRCC1 mRNA was expressed in all rice organs and was induced by application of bleomycin , but not of MMS , H(2)O(2) or UV-B . DB00290 also increased the fraction of OsXRCC1 associated with chromatin . These results suggest that OsXRCC1 contributes to DNA repair pathways that differ from the mammalian BER system .",
+    "Genetic factors influencing outcome from neurotrauma . PURPOSE OF REVIEW : Clinical outcome after neurotrauma is considerably variable and can only partly be explained by known prognostic factors . There is converging evidence from genetic research that a number of genetic variants may contribute to this variability . This review provides recent data from human studies , published in the previous year , on genetic factors influencing outcome after neurotrauma . The bibliographic databases MEDLINE , EMBASE and PsycINFO were searched to identify relevant studies . RECENT FINDINGS : Genetic susceptibility to various aspects of clinical outcome after neurotrauma was reported in recent clinical studies . Genetic loci investigated include polymorphisms in P02649 , P21397 , P23560 , NOS3 , P05231 , P12036 , P31645 , P21964 , P48454 and Q8IX03 genes . The importance of these findings and future directions are discussed . SUMMARY : Recent genetic studies have revealed emerging aspects and extended the existing knowledge regarding the pathogenesis of neurotrauma and the genetic influence on phenotypic diversity . A better understanding of the underlying biological pathways and molecular mechanisms of an individual 's response to neurotrauma may hold the promise of novel treatment strategies and improved clinical outcome .",
+    "Role of chloride transport proteins in the vasorelaxant action of nitroprusside in isolated rat aorta . Chloride ions play a key role in smooth muscle contraction , but little is known concerning their role in smooth muscle relaxation . Here we investigated the effect of chloride transport inhibitors on the vasorelaxant responses to nitroprusside in isolated and endothelium-denuded rat aorta , precontracted with phenylephrine 1 muM . Incubation of aortic rings in NO(3)(-) media strongly potentiated the vasorelaxant responses to nitroprusside . DB00887 , DIDS ( 4,4'-diisothiocyanatostilbene-2,2'-disulfonic acid ) and acetazolamide strongly potentiated the vasorelaxant responses to nitroprusside ( by 70-100 % ) . EC(50) were 2.3+/-0.5 microM for bumetanide , 26+/-15 microM for DIDS and 510+/-118 microM for acetazolamide ( n=6 for condition ) . Niflumic acid , a selective inhibitor of ClCa ( calcium-activated chloride channels ) , potentiated nitroprusside relaxation to a similar extent as chloride transport inhibitors , in a non-additive manner . Zinc and nickel ions , both modestly potentiated nitroprusside vasorelaxation ( by 20-30 % ) . Cobaltum had negligible effect on nitroprusside vasorelaxation . P15085 ( p-chlorophenoxy-acetic acid ) , an inhibitor of volume-sensitive chloride channels ( ClC ) , slightly potentiated nitroprusside vasorelaxation ( by 15 % ) , and the cystic fibrosis transmembrane conductance regulator ( P13569 ) chloride channel inhibitors P13569 (inh)172 ( 5-[(4-Carboxyphenyl)methylene]-2-thioxo-3- [ (3-trifluoromethyl)phenyl-4-thiazolidinone ) , DPC ( diphenylamine-2,2'-dicarboxylic acid ) and glibenclamide were without significant effect . In conclusion , inhibition of chloride transport proteins strongly potentiates the vasorelaxant responses to nitroprusside in isolated rat aorta . This effect seems mediated by chloride depletion and inhibition of a chloride channel activated by both , calcium and cyclic GMP ( cGMP ) .",
+    "DB01645 stimulates electrogenic Cl(-) secretion in mouse jejunum . We used the short-circuit current ( I(sc) ) technique to investigate the effects of the isoflavone genistein on the electrogenic Cl(-) secretion of the mouse jejunum . DB01645 stimulated a sustained increase in I(sc) that was dose dependent . DB00887 inhibited 76 +/- 5 % of the genistein-stimulated I(sc) consistent with activation of Cl(-) secretion . DB01645 failed to stimulate I(sc) following maximal activation of the DB02527 pathway by forskolin . In addition , forskolin had a reduced effect on I(sc) of the mouse jejunum in the presence of genistein . DB01016 , a blocker of P13569 , eliminated the genistein-stimulated increase of I(sc) and reduced the forskolin-activated I(sc) . Clotrimazole , a Ca(2+)-activated K(+) channel blocker , failed to reduce the genistein-stimulated I(sc) . Vanadate , a blocker of tyrosine-dependent phosphatases , reduced the genistein-activated I(sc) . Tyrphostin A23 , a tyrosine kinase inhibitor , reduced basal I(sc) , after which genistein failed to stimulate I(sc) . These data suggest that genistein activated a sustained Cl(-) secretory response of the mouse jejunum and that the effect of genistein was via a tyrosine-dependent phosphorylation pathway .",
+    "Action of neltenexine on anion secretion in human airway epithelia . Neltenexine has been applied to human lung diseases such as chronic obstructive pulmonary disease ( P48444 ) as a mucolytic agent . However , we have no information on the neltenexine action in bronchial epithelial cells . We studied the neltenexine action on the ion transport in human submucosal serous Calu-3 cells . Under a hyper-secreting condition caused by terbutaline ( a beta2-adrenergic agonist ) , neltenexine diminished anion secretion by inhibiting the Cl- and HCO3- uptake via Na+/K+/2Cl- cotransporter and Na+/HCO3- cotransporter without blockade of the cystic fibrosis transmembrane conductance regulator ( P13569 ) channel , and also diminished anion secretion via stimulation of Cl-/HCO3- exchanger , which facilitates the extrusion of more P13569 -permeant anion , Cl- , with the uptake of less P13569 -permeant anion , HCO3- . Thus , neltenexine reduced the hyper-secretion to keep an appropriate fluid level in the airway , providing a possibility that neltenexine can be an effective drug in airway obstructive diseases by decreasing the airway resistance under a hyper-secreting condition .",
+    "P05231 and P10145 increase the expression of glycosyltransferases and sulfotransferases involved in the biosynthesis of sialylated and/or sulfated Lewisx epitopes in the human bronchial mucosa . Bronchial mucins from patients suffering from CF ( cystic fibrosis ) exhibit glycosylation alterations , especially increased amounts of the sialyl-Lewis(x) ( NeuAcalpha2-3Galbeta1-4[Fucalpha1-3]GlcNAc-R ) and 6-sulfo-sialyl-Lewis(x) ( NeuAcalpha2-3Galbeta1-4[Fucalpha1-3][SO(3)H-6]GlcNAc-R ) terminal structures . These epitopes are preferential receptors for Pseudomonas aeruginosa , the bacteria responsible for the chronicity of airway infection and involved in the morbidity and early death of CF patients . However , these glycosylation changes can not be directly linked to defects in P13569 ( CF transmembrane conductance regulator ) gene expression since cells that secrete airway mucins express no or very low amounts of the protein . Several studies have shown that inflammation may affect glycosylation and sulfation of various glycoproteins , including mucins . In the present study , we show that incubation of macroscopically healthy fragments of human bronchial mucosa with P05231 ( interleukin-6 ) or P10145 results in a significant increase in the expression of alpha1,3/4-fucosyltransferases [ Q495W5 ( fucosyltransferase 11 gene ) and P21217 ] , alpha2-6- and alpha2,3-sialyltransferases [ Q9Y274 ( alpha2,3-sialyltransferase 6 gene ) and Q96JF0 ( alpha2,6-sialyltransferase 2 gene ) ] and GlcNAc-6-O-sulfotransferases [ Q8NCG5 ( carbohydrate sulfotransferase 4 gene ) and Q9GZX3 ] mRNA . In parallel , the amounts of sialyl-Lewis(x) and 6-sulfo-sialyl-Lewis(x) epitopes at the periphery of high-molecular-mass proteins , including Q99102 , were also increased . In conclusion , our results indicate that P05231 and -8 may contribute to the increased levels of sialyl-Lewis(x) and 6-sulfo-sialyl-Lewis(x) epitopes on human airway mucins from patients with CF .",
+    "Structure of the human Q9H244 receptor in complex with an antithrombotic drug . P2Y receptors ( P2YRs ) , a family of purinergic G-protein-coupled receptors ( GPCRs ) , are activated by extracellular nucleotides . There are a total of eight distinct functional P2YRs expressed in human , which are subdivided into P47900 -like receptors and Q9H244 -like receptors . Their ligands are generally charged molecules with relatively low bioavailability and stability in vivo , which limits our understanding of this receptor family . P2Y12R regulates platelet activation and thrombus formation , and several antithrombotic drugs targeting P2Y12R -- including the prodrugs clopidogrel ( Plavix ) and prasugrel ( DB06209 ) that are metabolized and bind covalently , and the nucleoside analogue ticagrelor ( DB08816 ) that acts directly on the receptor -- have been approved for the prevention of stroke and myocardial infarction . However , limitations of these drugs ( for example , a very long half-life of clopidogrel action and a characteristic adverse effect profile of ticagrelor ) suggest that there is an unfulfilled medical need for developing a new generation of P2Y12R inhibitors . Here we report the 2.6 Å resolution crystal structure of human P2Y12R in complex with a non-nucleotide reversible antagonist , AZD1283 . The structure reveals a distinct straight conformation of helix V , which sets P2Y12R apart from all other known class A GPCR structures . With AZD1283 bound , the highly conserved disulphide bridge in GPCRs between helix III and extracellular loop 2 is not observed and appears to be dynamic . Along with the details of the AZD1283-binding site , analysis of the extracellular interface reveals an adjacent ligand-binding region and suggests that both pockets could be required for dinucleotide binding . The structure provides essential insights for the development of improved P2Y12R ligands and allosteric modulators as drug candidates ."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00887 is bumetanide, a known inhibitor of the Na+-K+-2Cl- cotransporter.\nDB00887 also inhibits the cystic fibrosis transmembrane conductance regulator (P13569) chloride channel in the human sweat duct.\nDB00887 inhibits Cl- secretion in the mouse jejunum, as shown by its ability to block DCEBIO- and methoxsalen-stimulated short-circuit current.\nDB00887 inhibits forskolin-activated Cl- secretion in avian renal proximal tubules by blocking the Na-K-2Cl cotransporter.\nDB00887 inhibits the DB02527-dependent Cl- secretion in the mouse jejunum.\nDB00887 inhibits the P13569 chloride channel in both apical and basolateral membranes of the human sweat duct.\nDB00887 is a blocker of the Na+/K+/2Cl- co-transporter (P55011) and the P13569 chloride channel.\nDB00887 inhibits the P13569 chloride channel in the presence of DB00171 activation.\nDB00887 inhibits the P13569 chloride channel in the mouse jejunum.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the rat aorta.\nDB00887 inhibits the P13569 chloride channel in the human bronchial mucosa.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human airway epithelia.\nDB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells.\nDB00887 inhibits the P13569 chloride channel in the human sweat duct.\nDB00887 inhibits the P13569 chloride channel in the human",
+  "predicted_answer": null,
+  "claims": [
+    "DB00887 is bumetanide, a known inhibitor of the Na+-K+-2Cl- cotransporter",
+    "DB00887 also inhibits the cystic fibrosis transmembrane conductance regulator (P13569) chloride channel in the human sweat duct",
+    "DB00887 inhibits Cl- secretion in the mouse jejunum, as shown by its ability to block DCEBIO- and methoxsalen-stimulated short-circuit current",
+    "DB00887 inhibits forskolin-activated Cl- secretion in avian renal proximal tubules by blocking the Na-K-2Cl cotransporter",
+    "DB00887 inhibits the DB02527-dependent Cl- secretion in the mouse jejunum",
+    "DB00887 inhibits the P13569 chloride channel in both apical and basolateral membranes of the human sweat duct",
+    "DB00887 is a blocker of the Na+/K+/2Cl- co-transporter (P55011) and the P13569 chloride channel",
+    "DB00887 inhibits the P13569 chloride channel in the presence of DB00171 activation",
+    "DB00887 inhibits the P13569 chloride channel in the mouse jejunum",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the rat aorta",
+    "DB00887 inhibits the P13569 chloride channel in the human bronchial mucosa",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+    "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+    "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+    "DB00887 inhibits the P13569 chloride channel in the human"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00887 is bumetanide, a known inhibitor of the Na+-K+-2Cl- cotransporter",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "DB00887 also inhibits the cystic fibrosis transmembrane conductance regulator (P13569) chloride channel in the human sweat duct",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "DB00887 inhibits Cl- secretion in the mouse jejunum, as shown by its ability to block DCEBIO- and methoxsalen-stimulated short-circuit current",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "DB00887 inhibits forskolin-activated Cl- secretion in avian renal proximal tubules by blocking the Na-K-2Cl cotransporter",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "DB00887 inhibits the DB02527-dependent Cl- secretion in the mouse jejunum",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "DB00887 inhibits the P13569 chloride channel in both apical and basolateral membranes of the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "DB00887 is a blocker of the Na+/K+/2Cl- co-transporter (P55011) and the P13569 chloride channel",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C8",
+      "text": "DB00887 inhibits the P13569 chloride channel in the presence of DB00171 activation",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C9",
+      "text": "DB00887 inhibits the P13569 chloride channel in the mouse jejunum",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C10",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C11",
+      "text": "DB00887 inhibits the P13569 chloride channel in the rat aorta",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C12",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human bronchial mucosa",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C13",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C14",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C15",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C16",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C17",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C18",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C19",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C20",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C21",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C22",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C23",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C24",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C25",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C26",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C27",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C28",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C29",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C30",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C31",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C32",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C33",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C34",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C35",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C36",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human airway epithelia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C37",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human intestinal epithelial cells",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C38",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human sweat duct",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C39",
+      "text": "DB00887 inhibits the P13569 chloride channel in the human",
+      "claim_type": "FC"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__01245b60088411ebbd6dac1f6bf848b6",
+  "sample_id": "01245b60088411ebbd6dac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director born later, Occhio, Malocchio, Prezzemolo E Finocchio or Jailhouse Rock (Film)?",
+  "gold_answer": "Occhio, Malocchio, Prezzemolo E Finocchio",
+  "context": [
+    "Occhio, malocchio, prezzemolo e finocchio( Italian for\" Eye, evil eye, parsley and fennel\", also known as\" Evil Eye\") is a 1983 Italian comedy film directed by Sergio Martino. The film consists in two episodes spoofing superstition and magic, respectively starring Lino Banfi and Johnny Dorelli.",
+    "Fred R. Krug is an American film and television producer- director born in Bern, Switzerland.",
+    "Sepideh Farsi is an Iranian film director, born in Tehran in 1965.",
+    "Yolonda Ross is an American character actress, writer and director born (31 July 1974).",
+    "Richard Thorpe( born Rollo Smolt Thorpe; February 24, 1896 – May 1, 1991) was an American film director best known for his long career at Metro- Goldwyn- Mayer.",
+    "Sergio Martino( born 19 July 1938) is an Italian film director and producer, notable for his contributions to the giallo genre. Martino is the brother of the late producer Luciano Martino( who died in 2013). They collaborated frequently in their respective professions. Their grandfather was director Gennaro Righelli. Sergio Martino worked for both the big screen as well as for Italian television where he does most of his current work. He often worked with actress Edwige Fenech who in the 1970s was married to his brother Luciano. He also worked with a lot of genre actors such as George Hilton( who was married to Sergio's cousin), Ivan Rassimov and Claudio Cassinelli, as well as famed Italian screenwriter Ernesto Gastaldi. Martino's pseudonyms include: Julian Barry, Martin Dolman, Serge Martin, Christian Plummer, George Raminto.",
+    "Claude Weisz is a French film director born in Paris.",
+    "Jailhouse Rock is a 1957 American musical drama film directed by Richard Thorpe and starring Elvis Presley, Judy Tyler, and Mickey Shaughnessy. Distributed by Metro- Goldwyn- Mayer( MGM) and dramatized by Guy Trosper from a story written by Nedrick Young, the film is about a young man sentenced to prison for manslaughter who is mentored in music by his prison cellmate who realizes his musical abilities. After his release from jail, while looking for a job as a club singer, the young man meets a musical promoter who helps him launch his career. As he develops his musical abilities and becomes a star, his self- centered personality begins to affect his relationships. The wife of producer Pandro S. Berman convinced him to create a film with Presley in the role. Berman delegated the casting to Benny Thau, head of the studio and Abraham Lastfogel, the then president of William Morris Agency. Berman hired Richard Thorpe, who was known for shooting productions quickly. The production of\" Jailhouse Rock\" began on May 13, 1957, and concluded on June 17 of that year. The dance sequence to the film's title song\" Jailhouse Rock\" is often cited as\" Presley's greatest moment on screen\". Before pre-production began, songwriters Mike Stoller and Jerry Leiber were commissioned to integrate the film's soundtrack. In April, Leiber and Stoller were called for a meeting in New York City to show the progress of the repertoire. The writers, who had not produced any material, toured the city and were confronted in a hotel room by Jean Aberbach, who locked them into their hotel room by blocking the hotel room door with a sofa until they wrote the material. Presley recorded the soundtrack at Radio Recorders in Hollywood on April 30 and May 3, with an additional session at the MGM Soundstage on May 9. During post-production, the songs were dubbed into the films scenes, in which Presley mimed the lyrics. \" Jailhouse Rock\" premiered on October 17, 1957 in Memphis, Tennessee and was released nationwide on November 8, 1957. It peaked at number 3 on the\" Variety\" box office chart, and reached number 14 in the year's box office totals, grossing$ 4 million. \" Jailhouse Rock\" earned mixed reviews, with most of the negative reception directed towards Presley's persona. In 2004, the film was selected for preservation in the National Film Registry and was deemed\" culturally, aesthetically or historically significant.\" On its January 28, 2019 edition, the Ultimate Classic Rock website named it the best rock movie of 1957.",
+    "Jacques Décombe is a French author, actor and director born in 1953.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nOcchio, malocchio, prezzemolo e finocchio was directed by Sergio Martino.\nSergio Martino was born on 19 July 1938.\nJailhouse Rock was directed by Richard Thorpe.\nRichard Thorpe was born on 24 February 1896.\n1938 is later than 1896.\nThe film with the director born later is Occhio, malocchio, prezzemolo e finocchio.\n<answer> Occhio, malocchio, prezzemolo e finocchio",
+  "predicted_answer": "Occhio, malocchio, prezzemolo e finocchio",
+  "claims": [
+    "Occhio, malocchio, prezzemolo e finocchio was directed by Sergio Martino",
+    "Sergio Martino was born on 19 July 1938",
+    "Jailhouse Rock was directed by Richard Thorpe",
+    "Richard Thorpe was born on 24 February 1896",
+    "1938 is later than 1896",
+    "The film with the director born later is Occhio, malocchio, prezzemolo e finocchio"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Occhio, malocchio, prezzemolo e finocchio was directed by Sergio Martino",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Sergio Martino was born on 19 July 1938",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Jailhouse Rock was directed by Richard Thorpe",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Richard Thorpe was born on 24 February 1896",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1938 is later than 1896",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The film with the director born later is Occhio, malocchio, prezzemolo e finocchio",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

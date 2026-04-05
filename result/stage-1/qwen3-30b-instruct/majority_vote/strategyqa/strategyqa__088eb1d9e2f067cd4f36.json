@@ -1,0 +1,121 @@
+{
+  "uid": "strategyqa__088eb1d9e2f067cd4f36",
+  "sample_id": "088eb1d9e2f067cd4f36",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did US President during Spanish-American War suffer similar demise to Abraham Lincoln?",
+  "gold_answer": "yes",
+  "context": [
+    "The Spanish-American War lasted from April 21, 1898 to August 13, 1898.",
+    "William McKinley was President of the United States from March 4, 1897 to September 14, 1901.",
+    "William McKinley died from gun related injuries after an assassination attempt.",
+    "Abraham Lincoln died shortly after being shot by John Wilkes Booth."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Spanish-American War occurred from April 21, 1898 to August 13, 1898.\nWilliam McKinley was President of the United States during the Spanish-American War.\nWilliam McKinley died from gun-related injuries after an assassination attempt.\nAbraham Lincoln died shortly after being shot by John Wilkes Booth.\nBoth William McKinley and Abraham Lincoln were shot and died from gunshot wounds.\nThe demise of William McKinley was similar to that of Abraham Lincoln in that both were assassinated by gunshot.\nThe US President during the Spanish-American War suffered a similar demise to Abraham Lincoln.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Spanish-American War occurred from April 21, 1898 to August 13, 1898",
+    "William McKinley was President of the United States during the Spanish-American War",
+    "William McKinley died from gun-related injuries after an assassination attempt",
+    "Abraham Lincoln died shortly after being shot by John Wilkes Booth",
+    "Both William McKinley and Abraham Lincoln were shot and died from gunshot wounds",
+    "The demise of William McKinley was similar to that of Abraham Lincoln in that both were assassinated by gunshot",
+    "The US President during the Spanish-American War suffered a similar demise to Abraham Lincoln"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Spanish-American War occurred from April 21, 1898 to August 13, 1898",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "William McKinley was President of the United States during the Spanish-American War",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "William McKinley died from gun-related injuries after an assassination attempt",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Abraham Lincoln died shortly after being shot by John Wilkes Booth",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Both William McKinley and Abraham Lincoln were shot and died from gunshot wounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The demise of William McKinley was similar to that of Abraham Lincoln in that both were assassinated by gunshot",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The US President during the Spanish-American War suffered a similar demise to Abraham Lincoln",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

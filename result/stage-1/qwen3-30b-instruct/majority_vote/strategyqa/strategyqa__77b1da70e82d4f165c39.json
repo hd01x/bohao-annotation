@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__77b1da70e82d4f165c39",
+  "sample_id": "77b1da70e82d4f165c39",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Should a finished website have lorem ipsum paragraphs?",
+  "gold_answer": "no",
+  "context": [
+    "Lorem Ipsum paragraphs are meant to be temporary.",
+    "Web designers always remove lorem ipsum paragraphs before launch."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLorem Ipsum paragraphs are intended as placeholder text.\nWeb designers are instructed to remove lorem ipsum paragraphs before launching a website.\nA finished website must be fully functional and visually complete.\nLores ipsum paragraphs are not part of the final content.\nA finished website should not have lorem ipsum paragraphs.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Lorem Ipsum paragraphs are intended as placeholder text",
+    "Web designers are instructed to remove lorem ipsum paragraphs before launching a website",
+    "A finished website must be fully functional and visually complete",
+    "Lores ipsum paragraphs are not part of the final content",
+    "A finished website should not have lorem ipsum paragraphs"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lorem Ipsum paragraphs are intended as placeholder text",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Web designers are instructed to remove lorem ipsum paragraphs before launching a website",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A finished website must be fully functional and visually complete",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Lores ipsum paragraphs are not part of the final content",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A finished website should not have lorem ipsum paragraphs",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

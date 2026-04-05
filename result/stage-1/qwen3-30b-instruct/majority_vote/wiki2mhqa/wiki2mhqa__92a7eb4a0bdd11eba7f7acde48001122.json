@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__92a7eb4a0bdd11eba7f7acde48001122",
+  "sample_id": "92a7eb4a0bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the father of Clara Maria Of Pomerania-Barth born?",
+  "gold_answer": "Wolgast",
+  "context": [
+    "John Templeton( 1766–1825) was an early Irish naturalist and botanist. He is often referred to as the\" Father of Irish Botany\". He was the father of naturalist, artist and entomologist Robert Templeton.",
+    "Clara Maria Seekamp( born Clara Maria Lodge 1819–1908) was the first female editor of\" The Ballarat Times\", an Australian newspaper.",
+    "He was the father of Obata Masamori.",
+    "Clara Maria of Pomerania-Barth (10 July 1574 – 19 February 1623), was a member of the House of Griffins and by her two marriages Duchess of Mecklenburg-Schwerin-Ivenack and Brunswick-Dannenberg-Hitzacker. Born in Franzburg, she was the second child and eldest daughter of Bogislaw XIII, Duke of Pomerania-Barth by his first wife, Clara of Brunswick-Lüneburg.",
+    "Cleomenes II( died 309 BC) was Agiad King of Sparta from 369 to 309 BC. The son of Cleombrotus I, he succeeded his brother Agesipolis II. He was the father of Acrotatus I, the father of Areus I, and of Cleonymus, the father of Leonidas II.",
+    "Maria of Masovia( pl:\" Maria mazowiecka\"; 1408/15–14 February 1454) was a Duchess of Pomerania by marriage to Bogislaw IX, Duke of Pomerania, and regent of Pomerania from 1446 to 1449.",
+    "Clara Maria Leigh or Clara Maria Pope (c.1767 – 24 December 1838) was a British painter and botanical artist.",
+    "Sophia of Pomerania- Stolp( 1435 – 24 August 1497), was a Duchess of Pomerania by birth, and married to Eric II, Duke of Pomerania. Sophia was the daughter of Bogislaw IX, Duke of Pomerania and Maria of Masovia. In 1446, her father died and was succeeded by his cousin, Eric of Pomerania, former King of Denmark, Norway and Sweden. Sophia became the heir of Eric of Pomerania's private fortune. In 1451, Sophia was married to Eric of Pomerania- Wolgast, making her spouse the heir of Eric of Pomerania's territories, while Sophia remained the heir of Eric of Pomerania's private fortune. At the death of Eric of Pomerania in 1459, Sophia's husband united Pomerania through the inheritance of Pomerania- Stolp and Pomerania- Rügenwalde by his marriage, while Sophia became the sole possessor of the vast fortune brought by Eric of Pomerania from his former kingdoms in Scandinavia, as well as the wealth he had acquired by his piracy activity on Gotland. As Eric refused to allow Sophia any of the political power over the territories he acquired through her, which she felt she was entitled to, the couple separated. Sophia moved to Rügenwalde Castle with her children and her lover, Hans of Maszerski. In 1470, she refused to finance her husband's war with Brandenburg. She was widowed in 1474. According to an old legend, she was to have poisoned her sons Wratislaw and Casimir, but when she tried to the same with her son Bogislaw with a poisoned sandwich, he was warned by his jester. The sandwich was given to a dog, who died, after which Sophia was to have fled to Danzig.",
+    "Bogislaw XIII (Bogusław XIII) of Pomerania (9 August 1544 – 7 March 1606, Stettin; \"Polish\": Szczecin), son of Philip I and Maria of Saxony, was a prince of Stettin and Wolgast, and a member of the Griffins. Bogislaw studied at the University of Greifswald at the age of 14. At first, he was co-regent with his brother Johann Friedrich of Pomerania-Wolgast, but in 1569 he settled with control over Barth and Neuenkamp. There, he founded a printing house in 1582, publishing in 1588 the \"Barther Bible\", a bible in the Low German language, as translated by Johannes Bugenhagen. In 1587 he founded Franzburg to compete with Stralsund. From 1603 until his death, he ruled in Pomerania-Stettin, which he inherited under the Inheritance Treat of Jasenitz of 1509 in case his two brothers John Frederick (d. 1600) and Barnim X (d. 1603) would both die childless. He kept his residence in Barth, and his eldest son, Philip II, acted as governor in Stettin. He is remembered as a wise ruler, knowledgeable in the areas of economics and governance. He married twice: first to Clara of Brunswick-Lüneburg, daughter of Francis, Duke of Brunswick-Lüneburg, then to Anna of Schleswig-Holstein-Sonderburg, daughter of John II, Duke of Schleswig-Holstein-Sonderburg. He had eleven children, among which, from his first marriage:",
+    "Anna Jagiellon( 12 March 1476 – 12 August 1503), was a Polish princess member of the Jagiellonian dynasty and by marriage Duchess of Pomerania. Born in Nieszawa, she was the fifth daughter of King Casimir IV of Poland of Poland and Archduchess Elisabeth of Austria."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nClara Maria of Pomerania-Barth was born in Franzburg.\nShe was the daughter of Bogislaw XIII, Duke of Pomerania-Barth.\nBogislaw XIII was born in Stettin.\nThe father of Clara Maria of Pomerania-Barth was Bogislaw XIII.\nBogislaw XIII was born in Stettin.\nThe place of birth of the father of Clara Maria of Pomerania-Barth is Stettin.\n<answer> Stettin",
+  "predicted_answer": "Stettin",
+  "claims": [
+    "Clara Maria of Pomerania-Barth was born in Franzburg",
+    "She was the daughter of Bogislaw XIII, Duke of Pomerania-Barth",
+    "Bogislaw XIII was born in Stettin",
+    "The father of Clara Maria of Pomerania-Barth was Bogislaw XIII",
+    "Bogislaw XIII was born in Stettin",
+    "The place of birth of the father of Clara Maria of Pomerania-Barth is Stettin"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Clara Maria of Pomerania-Barth was born in Franzburg",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "She was the daughter of Bogislaw XIII, Duke of Pomerania-Barth",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Bogislaw XIII was born in Stettin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The father of Clara Maria of Pomerania-Barth was Bogislaw XIII",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Bogislaw XIII was born in Stettin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The place of birth of the father of Clara Maria of Pomerania-Barth is Stettin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

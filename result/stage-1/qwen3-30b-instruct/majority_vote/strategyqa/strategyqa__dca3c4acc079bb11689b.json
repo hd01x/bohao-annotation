@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__dca3c4acc079bb11689b",
+  "sample_id": "dca3c4acc079bb11689b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does the New York Public Library sell Alpo products?",
+  "gold_answer": "no",
+  "context": [
+    "The New York Public Library is a public lending library system in New York City",
+    "Alpo produces pet food and related products"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe New York Public Library is a public lending library system in New York City.\nThe New York Public Library provides books, media, and educational resources.\nAlpo produces pet food and related products.\nThe New York Public Library does not operate as a retail store for pet food or consumer goods.\nThe New York Public Library does not sell Alpo products.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The New York Public Library is a public lending library system in New York City",
+    "The New York Public Library provides books, media, and educational resources",
+    "Alpo produces pet food and related products",
+    "The New York Public Library does not operate as a retail store for pet food or consumer goods",
+    "The New York Public Library does not sell Alpo products"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The New York Public Library is a public lending library system in New York City",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The New York Public Library provides books, media, and educational resources",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Alpo produces pet food and related products",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The New York Public Library does not operate as a retail store for pet food or consumer goods",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The New York Public Library does not sell Alpo products",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

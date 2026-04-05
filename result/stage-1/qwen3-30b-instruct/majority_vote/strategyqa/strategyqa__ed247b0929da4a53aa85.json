@@ -1,0 +1,135 @@
+{
+  "uid": "strategyqa__ed247b0929da4a53aa85",
+  "sample_id": "ed247b0929da4a53aa85",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would Bandy be likely to become popular in Texas?",
+  "gold_answer": "no",
+  "context": [
+    "The American Bandy Association governs major Bandy play in the United States.",
+    "There are no teams from Texas registered with the American Bandy Association.",
+    "Sports involving ice and snow tend to be more popular in cold climates.",
+    "Texas has an extremely hot climate."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe American Bandy Association governs major Bandy play in the United States.\nNo teams from Texas are registered with the American Bandy Association.\nSports involving ice and snow are more popular in cold climates.\nTexas has an extremely hot climate.\nThe climate of Texas is not conducive to ice and snow sports.\nBandy requires ice and snow for play.\nThe lack of suitable climate conditions reduces the likelihood of Bandy becoming popular in Texas.\nBandy would be unlikely to become popular in Texas.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The American Bandy Association governs major Bandy play in the United States",
+    "No teams from Texas are registered with the American Bandy Association",
+    "Sports involving ice and snow are more popular in cold climates",
+    "Texas has an extremely hot climate",
+    "The climate of Texas is not conducive to ice and snow sports",
+    "Bandy requires ice and snow for play",
+    "The lack of suitable climate conditions reduces the likelihood of Bandy becoming popular in Texas",
+    "Bandy would be unlikely to become popular in Texas"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The American Bandy Association governs major Bandy play in the United States",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "No teams from Texas are registered with the American Bandy Association",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Sports involving ice and snow are more popular in cold climates",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Texas has an extremely hot climate",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The climate of Texas is not conducive to ice and snow sports",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Bandy requires ice and snow for play",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The lack of suitable climate conditions reduces the likelihood of Bandy becoming popular in Texas",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Bandy would be unlikely to become popular in Texas",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

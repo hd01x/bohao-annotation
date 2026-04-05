@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__77bf469e0bdc11eba7f7acde48001122",
+  "sample_id": "77bf469e0bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the director of film Mark (Film) born?",
+  "gold_answer": "Toronto",
+  "context": [
+    "Michael Mark( born April 21, 1986) is a Grenadian football player. He currently serves as defender for the Grenada national football team.",
+    "Mark is a Canadian documentary film, directed by Mike Hoolboom and released in 2009. The film is a portrait of Mark Karbusicky, an artist, activist and frequent editor of Hoolboom's films who committed suicide in 2007, through a mixture of found footage, snapshots and interviews with Karbusicky's surviving friends and family. The film faced some minor controversy around whether it could be characterized as an LGBT-themed film, given that Karbusicky was heterosexual; however, Hoolboom noted that Karbusicky was actively involved in LGBT culture as an activist ally, a collaborator of Hoolboom's and as both the romantic and creative partner of transgender artist Mirha-Soleil Ross. The film also prominently featured LGBT writer Kristyn Dunnion, who was also a close friend and creative collaborator of Karbusicky's. The film had its theatrical premiere in Chicago in 2009. It was subsequently screened at the Hot Docs Canadian International Documentary Festival and the Inside Out Film and Video Festival in 2010, and won the jury award for Best Canadian Film at Inside Out.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Michael \"Mike\" Hoolboom (born 1 January 1959) is a Canadian independent, experimental filmmaker. Having begun filmmaking at an early age, Hoolboom released his first major work, a \"film that's not quite a film\" entitled \"White Museum\", in 1986. Although he continued to produce films, his rate of production improved drastically after he was diagnosed with HIV in 1988 or 1989; this gave a \"new urgency\" to his works. Since then he has made dozens of films, two of which have won Best Short Film at the Toronto International Film Festival. His films have also featured in more than 200 film festivals worldwide.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Bradley Mark( born 26 February 1957) is a New Zealand born Australian shooter who has represented Australia in two Paralympic Games.",
+    "Larry Mark( born August 8, 1985 in Ann Arbor, Michigan) is a former American soccer player.",
+    "Manuel Mark( born November 10, 1985) is an Austrian taekwondo athlete.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Oliver Mark( born 20 February 1963) is a German photographer and artist known primarily for his portraits of international celebrities."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe film Mark (2009) was directed by Mike Hoolboom.\nMike Hoolboom is a Canadian independent experimental filmmaker.\nMike Hoolboom was born on 1 January 1959.\nThe birthplace of Mike Hoolboom is not specified in the provided context.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "The film Mark (2009) was directed by Mike Hoolboom",
+    "Mike Hoolboom is a Canadian independent experimental filmmaker",
+    "Mike Hoolboom was born on 1 January 1959",
+    "The birthplace of Mike Hoolboom is not specified in the provided context"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The film Mark (2009) was directed by Mike Hoolboom",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Mike Hoolboom is a Canadian independent experimental filmmaker",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Mike Hoolboom was born on 1 January 1959",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The birthplace of Mike Hoolboom is not specified in the provided context",
+      "claim_type": "FC"
+    }
+  ]
+}

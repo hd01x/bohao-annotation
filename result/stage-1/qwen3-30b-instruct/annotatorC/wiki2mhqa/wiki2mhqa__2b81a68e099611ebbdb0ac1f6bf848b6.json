@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__2b81a68e099611ebbdb0ac1f6bf848b6",
+  "sample_id": "2b81a68e099611ebbdb0ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Are Guancangping Railway Station and Yangquan North Railway Station both located in the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "Xinyu North railway station is a railway station of Hangchangkun Passenger Railway located in Jiangxi, People's Republic of China.",
+    "Strathaven North railway station was a railway station in South Lanarkshire, Scotland.",
+    "The Yangquan North railway station is a railway station of Shitai Passenger Railway located in People's Republic of China.",
+    "Guiding North railway station is a railway station of Hangchangkun Passenger Railway located in Guizhou, People's Republic of China.",
+    "Timișoara North railway station is the main railway station in Timișoara, Romania.",
+    "Fuyu North railway station is a railway station of Hada Passenger Railway and located in Jilin, China",
+    "Xiangtan North railway station is a railway station of Hangchangkun Passenger Railway located in Hunan, People's Republic of China.",
+    "Yingtan North railway station is a railway station of Hangchangkun Passenger Railway located in Jiangxi, People's Republic of China.",
+    "Guancangping railway station is a railway station located in Hubei Province, People's Republic of China, on the Yiwan Railway which operated by China Railway Corporation.",
+    "Shaoxing East railway station, formerly known as Shangyu North railway station, is a railway station of Hangyong Passenger Railway located in Zhejiang, People's Republic of China."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGuancangping railway station is located in Hubei Province, People's Republic of China.\nYangquan North railway station is located in the People's Republic of China.\nBoth railway stations are situated within the People's Republic of China.\nGuancangping Railway Station and Yangquan North Railway Station are both located in the same country.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Guancangping railway station is located in Hubei Province, People's Republic of China",
+    "Yangquan North railway station is located in the People's Republic of China",
+    "Both railway stations are situated within the People's Republic of China",
+    "Guancangping Railway Station and Yangquan North Railway Station are both located in the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Guancangping railway station is located in Hubei Province, People's Republic of China",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Yangquan North railway station is located in the People's Republic of China",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Both railway stations are situated within the People's Republic of China",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Guancangping Railway Station and Yangquan North Railway Station are both located in the same country",
+      "claim_type": "DR"
+    }
+  ]
+}

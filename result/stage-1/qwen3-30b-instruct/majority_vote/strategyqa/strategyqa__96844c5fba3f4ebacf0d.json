@@ -1,0 +1,119 @@
+{
+  "uid": "strategyqa__96844c5fba3f4ebacf0d",
+  "sample_id": "96844c5fba3f4ebacf0d",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are flag of Gabon colors found in rainbow?",
+  "gold_answer": "yes",
+  "context": [
+    "Rainbows contain the following colors:  red, orange, yellow, green, blue, indigo and violet.",
+    "The flag of Gabon is green, yellow, and blue."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRainbows contain the colors red, orange, yellow, green, blue, indigo, and violet.\nThe flag of Gabon contains the colors green, yellow, and blue.\nGreen is a color in the rainbow.\nYellow is a color in the rainbow.\nBlue is a color in the rainbow.\nThe colors green, yellow, and blue from the flag of Gabon are all present in a rainbow.\nThe colors of the flag of Gabon are found in a rainbow.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Rainbows contain the colors red, orange, yellow, green, blue, indigo, and violet",
+    "The flag of Gabon contains the colors green, yellow, and blue",
+    "Green is a color in the rainbow",
+    "Yellow is a color in the rainbow",
+    "Blue is a color in the rainbow",
+    "The colors green, yellow, and blue from the flag of Gabon are all present in a rainbow",
+    "The colors of the flag of Gabon are found in a rainbow"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Rainbows contain the colors red, orange, yellow, green, blue, indigo, and violet",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The flag of Gabon contains the colors green, yellow, and blue",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Green is a color in the rainbow",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Yellow is a color in the rainbow",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Blue is a color in the rainbow",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The colors green, yellow, and blue from the flag of Gabon are all present in a rainbow",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The colors of the flag of Gabon are found in a rainbow",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

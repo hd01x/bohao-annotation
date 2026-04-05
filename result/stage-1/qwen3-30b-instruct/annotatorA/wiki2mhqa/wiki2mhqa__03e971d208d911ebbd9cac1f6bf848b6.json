@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__03e971d208d911ebbd9cac1f6bf848b6",
+  "sample_id": "03e971d208d911ebbd9cac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do both directors of films The Wrath Of Silence and Legend Of The Fox have the same nationality?",
+  "gold_answer": "yes",
+  "context": [
+    "Andy Winter is a Norwegian keyboardist that is a founding member of the Norwegian bands Winds and Age of Silence and is part of the American bands Sculptured and formerly Subterranean Masquerade. Andy Winter has a yet- unnamed musical project in the works, of which drummer and bandmate in Winds and Age of Silence Jan Axel Blomberg recorded for in 2007.",
+    "Frankie Chan Fan-kei( born 1951) is a Chinese martial arts actor, film director, producer, action director, and composer. Chan is best known to Hong Kong action cinema fans as the main antagonist in Sammo Hung's\" The Prodigal Son\" where he faces Yuen Biao in the final reel. Chan has starred in a number of modern action films, most notably\" Burning AmbitionOutlaw Brothers\" and\" Carry On Pickpocket\". He also directed and composed many films in the 1970s and 1980s, including\" The Young MasterOdd Couple\" and. In 2011 Chan directed\" Legendary Amazons\", a film about the female Generals of the Yang clan.",
+    "Yevdokiya Nagrodskaya( 1866–1930), was a Russian novelist in fin-de- siècle Russia whose first novel was titled\" The Wrath of Dionysus\". Her debut novel was published in 1910 and explored the theme of her perception of\" sexual identity and gender roles\" of men and women in Russia. It was very popular in pre-revolutionary Russia among the middle- class people and was controversial. The novel was so popular that it was reprinted 10 times and translated into French, Italian and German. It was also made into a silent movie with erotic content. \" The Wrath of Dionysus\" was translated into English only in 1997 at the initiative of Louise McReynolds, a professor of history, in particular of Russian culture, at the University of Hawaii. It was published by the Indiana University Press and co-won the Heldt Prize in 1998.",
+    "Mr. Right is a 2009 British film directed by David Morris and Jacqui Morris. The jointly- made gay- themed film is the debut for both directors.",
+    "The Wrath of the Gods may refer to:",
+    "Zhang Zhehan( born 11 May 1991) is a Chinese actor. He is best known for his roles in\" Legend of Ban Shu\"( 2015),\" Demon Girl\"( 2016) and\" Legend of Yunxi\"( 2018).",
+    "The Wrath of Silence is a 1994 Hong Kong comedy film directed by Frankie Chan.",
+    "Legend of the Fox, also known as Legend of a Fox, is a 1980 Hong Kong film based on Louis Cha's novel\" The Young Flying Fox\". It was produced by the Shaw Brothers Studio, directed by Chang Cheh and starred the Venom Mob. The film used to be one of the most rare Venom Mob martial arts film available, but has been digitally remastered and released by Celestial Pictures.",
+    "Chang Cheh( 10 February 1923 – 22 June 2002) was a Chinese filmmaker, screenwriter, lyricist and producer active in the 1960s, 1970s and 1980s. Chang Cheh directed more than 90 films in Greater China, the majority of them with the Shaw Brothers Studio in Hong Kong. Most of his films are action films, especially\" wuxia\" and\" kung fu\" films filled with violence. In the early 1970s he frequently cast actors David Chiang and Ti Lung in his films. In the late 1970s he mainly worked with a group of actors known as the Venom Mob. Chang Cheh is also known for his long- time collaboration with writer Ni Kuang.",
+    "The Wrath of Grapes may refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Wrath of Silence is a 1994 Hong Kong comedy film directed by Frankie Chan.\nFrankie Chan is a Chinese martial arts actor, film director, producer, action director, and composer.\nLegend of the Fox is a 1980 Hong Kong film directed by Chang Cheh.\nChang Cheh was a Chinese filmmaker active in Greater China, primarily in Hong Kong.\nBoth Frankie Chan and Chang Cheh were Chinese filmmakers from Hong Kong.\nBoth directors have the same nationality, which is Chinese.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Wrath of Silence is a 1994 Hong Kong comedy film directed by Frankie Chan",
+    "Frankie Chan is a Chinese martial arts actor, film director, producer, action director, and composer",
+    "Legend of the Fox is a 1980 Hong Kong film directed by Chang Cheh",
+    "Chang Cheh was a Chinese filmmaker active in Greater China, primarily in Hong Kong",
+    "Both Frankie Chan and Chang Cheh were Chinese filmmakers from Hong Kong",
+    "Both directors have the same nationality, which is Chinese"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Wrath of Silence is a 1994 Hong Kong comedy film directed by Frankie Chan",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Frankie Chan is a Chinese martial arts actor, film director, producer, action director, and composer",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Legend of the Fox is a 1980 Hong Kong film directed by Chang Cheh",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Chang Cheh was a Chinese filmmaker active in Greater China, primarily in Hong Kong",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Both Frankie Chan and Chang Cheh were Chinese filmmakers from Hong Kong",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "Both directors have the same nationality, which is Chinese",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "uid": "musique__4hop1__131002_53706_795904_580996",
+  "sample_id": "4hop1__131002_53706_795904_580996",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What city shares a border with the city where a person went to work during the gold rush in the state where the Shakespeare Bridge is located?",
+  "gold_answer": "Rio Linda",
+  "context": [
+    "Otzoloapan Municipality is a municipality located at the southeast of the State of Mexico. The name is from the Náhuatl 'Oceloapan' which means \"river of lynxes\". It is located in the southwest part of the state bordering the state of Michoacán.",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city. It shares borders with the city in two areas, but is surrounded mostly by other suburbs.",
+    "The Klondike Gold Rush was a migration by an estimated 100,000 prospectors to the Klondike region of the Yukon in north - western Canada between 1896 and 1899. Gold was discovered there by local miners on August 16, 1896, and, when news reached Seattle and San Francisco the following year, it triggered a stampede of prospectors. Some became wealthy, but the majority went in vain. It has been immortalized in photographs, books, films, and artifacts.",
+    "Gold Creek is an unincorporated community in Shoshone County, Idaho, United States. Gold Creek is located on the St. Joe River southeast of Wallace.",
+    "The history of Sacramento, California, began with its founding by Samuel Brannan and John Augustus Sutter, Jr. in 1848 around an embarcadero that his father, John Sutter, Sr. constructed at the confluence of the American and Sacramento Rivers a few years prior.",
+    "The Shakespeare Bridge in the Franklin Hills section of Los Angeles, California, was built in 1926. It is made of concrete and decorated in a Gothic style. It was named after famous playwright William Shakespeare and later designated a Los Angeles Historic-Cultural Monument #126 in 1974.",
+    "Mount Bosworth is located in the Canadian Rockies on the border of Alberta and British Columbia. The mountain is situated immediately northwest of Kicking Horse Pass and straddles the shared border of Banff National Park with Yoho National Park. It was named in 1903 after George Morris Bosworth, an executive and long-time employee of the Canadian Pacific Railway.",
+    "Rumors of the discovery of gold were confirmed in March 1848 by San Francisco newspaper publisher and merchant Samuel Brannan. Brannan hurriedly set up a store to sell gold prospecting supplies, and walked through the streets of San Francisco, holding aloft a vial of gold, shouting ``Gold! Gold! Gold from the American River! ''",
+    "The Willimansett Bridge is a steel truss bridge over the Connecticut River located between Chicopee, Massachusetts and Holyoke, Massachusetts. It carries Massachusetts state routes 116 and 141.",
+    "The Elm Street Stone Arch Bridge is located along that street in Pine Hill, New York, United States. It is a short bridge built over Alton Creek in the early 20th century using stonemasonry techniques and an arch bridge design that had been employed in the Catskills since the 18th century, one. As one of the few extant and intact bridges in that style in the region, it was listed on the National Register of Historic Places in 1996 along with the nearby Mill Street Stone Arch Bridge. It is located in the Pine Hill Historic District.",
+    "Antelope Wells is a small unincorporated community in Hidalgo County, New Mexico, United States. The community is located along the Mexico – United States border, in the New Mexico Bootheel region, located across the border from the small settlement of El Berrendo, Chihuahua, Mexico. Despite its name, there are neither antelope nor wells in the area. The name comes from an old ranch, located north of the current community. The only inhabitants of the community are United States Customs and Border Protection employees.",
+    "The Aurora Bridge (officially called the George Washington Memorial Bridge) is a cantilever and truss bridge that carries State Route 99 (Aurora Avenue North) over the west end of Seattle's Lake Union and connects Queen Anne and Fremont. The bridge is located just east of the Fremont Cut, which itself is spanned by the Fremont Bridge.",
+    "The County Line Bowstring is a bridge located near unincorporated Hollis, Kansas, United States, that is listed on the National Register of Historic Places. It spans West Creek on the border between Cloud and Republic counties and has a wooden deck with a bowstring pony truss.",
+    "Rio Linda High School is a high school located in Rio Linda, Sacramento, CA. It has an enrollment of 2,035 students. It is part of the Twin Rivers Unified School District, and was formerly part of the Grant Unified School District.",
+    "Notogawa Station (Location: N35.179899,E136.165913) is the only Japan Railway station in Higashiomi. The station is a rapid stop on the JR Biwako Line, located between stations in Omi-Hachiman to the east and Hikone to the west. The town shares a small border with Lake Biwa to the northwest.",
+    "Virginia is located in Lempira Honduras and shares a border with El Salvador. Many Virginians travel to El Salvador to do their shopping, because the Honduran cities are far away from Virginia.",
+    "The Black Hills Gold Rush took place in Dakota Territory in the United States. It began in 1874 following the Custer Expedition and reached a peak in 1876-77.",
+    "Millwood in South Africa was the site of a short-lived gold rush in the 1880s. Millwood Mining Village was located in the foothills of the Outeniqua Mountains near Knysna and had a population of a few hundred at the height of its small-scale mining activity which lasted only five years, largely due to the difficulty of following the vein in much-folded formations.",
+    "Tonto Natural Bridge is a natural arch in Arizona, United States, that is believed to be the largest natural travertine bridge in the world. The area surrounding the bridge has been made into a state park called Tonto Natural Bridge State Park, which is located off State Route 87, just north of Payson. Tonto Natural Bridge stands over a tunnel that measures at its widest point and reaches a height of .",
+    "Atlantic City is a census-designated place (CDP) in Fremont County, Wyoming, United States. The population was 37 at the 2010 census. The community is a small mining settlement in a gulch near South Pass in southwestern Wyoming. It was founded as a mining camp following the 1867 gold rush in the region. The town declined following the end of the placer gold rush in the early 1870s, but continued to exist as advances in mining technology allowed further extraction of gold. From the 1960s until 1983, it was the location of US Steel iron ore mine. The town is accessible by gravel roads from nearby Wyoming Highway 28."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Shakespeare Bridge is located in Los Angeles, California.\nLos Angeles is in the state of California.\nThe gold rush in California began in 1848 after gold was discovered at Sutter's Mill.\nSamuel Brannan and John Sutter Jr. founded Sacramento, California, in 1848 near the American and Sacramento Rivers.\nSacramento was a major hub during the California Gold Rush.\nPeople went to work in Sacramento during the gold rush.\nSacramento shares a border with the city of Rio Linda, California.\nRio Linda is located in Sacramento County.\nThe city that shares a border with the city where a person went to work during the gold rush in the state where the Shakespeare Bridge is located is Rio Linda.\n<answer> Rio Linda",
+  "predicted_answer": "Rio Linda",
+  "claims": [
+    "The Shakespeare Bridge is located in Los Angeles, California",
+    "Los Angeles is in the state of California",
+    "The gold rush in California began in 1848 after gold was discovered at Sutter's Mill",
+    "Samuel Brannan and John Sutter Jr. founded Sacramento, California, in 1848 near the American and Sacramento Rivers",
+    "Sacramento was a major hub during the California Gold Rush",
+    "People went to work in Sacramento during the gold rush",
+    "Sacramento shares a border with the city of Rio Linda, California",
+    "Rio Linda is located in Sacramento County",
+    "The city that shares a border with the city where a person went to work during the gold rush in the state where the Shakespeare Bridge is located is Rio Linda"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Shakespeare Bridge is located in Los Angeles, California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Los Angeles is in the state of California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The gold rush in California began in 1848 after gold was discovered at Sutter's Mill",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Samuel Brannan and John Sutter Jr. founded Sacramento, California, in 1848 near the American and Sacramento Rivers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Sacramento was a major hub during the California Gold Rush",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "People went to work in Sacramento during the gold rush",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Sacramento shares a border with the city of Rio Linda, California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Rio Linda is located in Sacramento County",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The city that shares a border with the city where a person went to work during the gold rush in the state where the Shakespeare Bridge is located is Rio Linda",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

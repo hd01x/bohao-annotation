@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__302570f3787646a587df",
+  "sample_id": "302570f3787646a587df",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Do Koalas prefer Eucalyptus over meat?",
+  "gold_answer": "yes",
+  "context": [
+    "Koalas are herbivores.",
+    "Koalas main dietary staple is eucalyptus "
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nKoalas are herbivores.\nHerbivores consume plant material and do not eat meat.\nEucalyptus is the main dietary staple of koalas.\nKoalas do not consume meat as part of their natural diet.\nKoalas prefer eucalyptus over meat.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Koalas are herbivores",
+    "Herbivores consume plant material and do not eat meat",
+    "Eucalyptus is the main dietary staple of koalas",
+    "Koalas do not consume meat as part of their natural diet",
+    "Koalas prefer eucalyptus over meat"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Koalas are herbivores",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Herbivores consume plant material and do not eat meat",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Eucalyptus is the main dietary staple of koalas",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Koalas do not consume meat as part of their natural diet",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Koalas prefer eucalyptus over meat",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__e45dd0b92d16cd22ea02",
+  "sample_id": "e45dd0b92d16cd22ea02",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could two newborn American Black Bear cubs fit on a king size bed?",
+  "gold_answer": "yes",
+  "context": [
+    "The average size of an American Black Bear cub is only 8 inches at birth.",
+    "King size beds are 76\"x80\" in size."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe average size of an American Black Bear cub at birth is 8 inches.\nA king size bed measures 76 inches by 80 inches.\nTwo newborn cubs, each 8 inches long, would require a total length of 16 inches if placed end to end.\nThe bed's dimensions are significantly larger than 16 inches in either direction.\nTwo newborn American Black Bear cubs could fit on a king size bed.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The average size of an American Black Bear cub at birth is 8 inches",
+    "A king size bed measures 76 inches by 80 inches",
+    "Two newborn cubs, each 8 inches long, would require a total length of 16 inches if placed end to end",
+    "The bed's dimensions are significantly larger than 16 inches in either direction",
+    "Two newborn American Black Bear cubs could fit on a king size bed"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The average size of an American Black Bear cub at birth is 8 inches",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "A king size bed measures 76 inches by 80 inches",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Two newborn cubs, each 8 inches long, would require a total length of 16 inches if placed end to end",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The bed's dimensions are significantly larger than 16 inches in either direction",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Two newborn American Black Bear cubs could fit on a king size bed",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

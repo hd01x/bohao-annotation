@@ -1,0 +1,107 @@
+{
+  "uid": "strategyqa__5a7265daf4314e5b9283",
+  "sample_id": "5a7265daf4314e5b9283",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does walking across Amazonas put a person's life at risk?",
+  "gold_answer": "yes",
+  "context": [
+    "Amazonas is mostly tropical jungle.",
+    "Tropical jungles contain dangerous creatures.",
+    "Dangerous creatures put people's lives at risk."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAmazonas is mostly tropical jungle.\nTropical jungles contain dangerous creatures.\nDangerous creatures put people's lives at risk.\nWalking across Amazonas exposes a person to tropical jungle environments.\nThe presence of dangerous creatures in tropical jungles poses a threat to human life.\nWalking across Amazonas puts a person's life at risk.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Amazonas is mostly tropical jungle",
+    "Tropical jungles contain dangerous creatures",
+    "Dangerous creatures put people's lives at risk",
+    "Walking across Amazonas exposes a person to tropical jungle environments",
+    "The presence of dangerous creatures in tropical jungles poses a threat to human life",
+    "Walking across Amazonas puts a person's life at risk"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Amazonas is mostly tropical jungle",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Tropical jungles contain dangerous creatures",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Dangerous creatures put people's lives at risk",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Walking across Amazonas exposes a person to tropical jungle environments",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The presence of dangerous creatures in tropical jungles poses a threat to human life",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Walking across Amazonas puts a person's life at risk",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

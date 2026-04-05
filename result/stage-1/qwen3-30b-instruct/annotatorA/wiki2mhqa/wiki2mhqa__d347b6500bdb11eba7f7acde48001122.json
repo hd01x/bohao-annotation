@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__d347b6500bdb11eba7f7acde48001122",
+  "sample_id": "d347b6500bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which country the director of film Hotel By The Hour is from?",
+  "gold_answer": "Austria",
+  "context": [
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "John Donatich is the Director of Yale University Press.",
+    "Rolf Olsen (26 December 1919 – 3 April 1998) was a German actor, screenwriter and film director. He appeared in 60 films between 1949 and 1990. He also wrote for 51 films and directed a further 33 between 1947 and 1990. He was born in Vienna, Austria and died in Munich, Germany.",
+    "Hotel by the Hour (German title:) is a 1970 West German crime film directed by Rolf Olsen and starring Curd Jürgens, Andrea Rau and Corny Collins. It is set in the red-light district of St. Pauli in Hamburg. A \"Stundenhotel\" is a motel where rooms are let by the hour, similar to Japanese love hotels. The film's sets were designed by the art director Ernst H. Albrecht.",
+    "John Farrell is the director of YouTube in Latin America.",
+    "Keir Pearson( born December 15, 1966) is an American Academy Award- nominated screenwriter notable for the 2004 film\" Hotel Rwanda\".",
+    "Ian Barry is an Australian director of film and TV.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Michael Govan( born 1963) is the director of the Los Angeles County Museum of Art since 2006. Prior to this, Govan worked as the director of the Dia Art Foundation in New York City."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHotel by the Hour is a 1970 West German crime film.\nThe film was directed by Rolf Olsen.\nRolf Olsen was born in Vienna, Austria.\nAustria is a country in Europe.\nThe director of Hotel by the Hour is from Austria.\n<answer> Austria",
+  "predicted_answer": "Austria",
+  "claims": [
+    "Hotel by the Hour is a 1970 West German crime film",
+    "The film was directed by Rolf Olsen",
+    "Rolf Olsen was born in Vienna, Austria",
+    "Austria is a country in Europe",
+    "The director of Hotel by the Hour is from Austria"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Hotel by the Hour is a 1970 West German crime film",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The film was directed by Rolf Olsen",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Rolf Olsen was born in Vienna, Austria",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Austria is a country in Europe",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The director of Hotel by the Hour is from Austria",
+      "claim_type": "DR"
+    }
+  ]
+}

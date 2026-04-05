@@ -1,0 +1,93 @@
+{
+  "uid": "strategyqa__983e2713b89f38cab35a",
+  "sample_id": "983e2713b89f38cab35a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can Planned Parenthood tell your University that you have Herpes simplex virus?",
+  "gold_answer": "no",
+  "context": [
+    "Planned Parenthood specializes in reproductive healthcare.",
+    "Planned Parenthood practitioners are bound by HIPAA to not disclose any patient information. "
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPlanned Parenthood provides reproductive healthcare services.\nPlanned Parenthood practitioners are bound by HIPAA to protect patient information.\nHIPAA prohibits the disclosure of protected health information without patient consent.\nHerpes simplex virus is a protected health condition under HIPAA.\nPlanned Parenthood cannot disclose a patient's diagnosis of herpes simplex virus to a university without explicit patient authorization.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Planned Parenthood provides reproductive healthcare services",
+    "Planned Parenthood practitioners are bound by HIPAA to protect patient information",
+    "HIPAA prohibits the disclosure of protected health information without patient consent",
+    "Herpes simplex virus is a protected health condition under HIPAA",
+    "Planned Parenthood cannot disclose a patient's diagnosis of herpes simplex virus to a university without explicit patient authorization"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Planned Parenthood provides reproductive healthcare services",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Planned Parenthood practitioners are bound by HIPAA to protect patient information",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "HIPAA prohibits the disclosure of protected health information without patient consent",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Herpes simplex virus is a protected health condition under HIPAA",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Planned Parenthood cannot disclose a patient's diagnosis of herpes simplex virus to a university without explicit patient authorization",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__76b367b4088311ebbd6dac1f6bf848b6",
+  "sample_id": "76b367b4088311ebbd6dac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born first, The Gigolos or More About The Children Of Noisy Village?",
+  "gold_answer": "More About The Children Of Noisy Village",
+  "context": [
+    "The Children of the Marshland is a 1999 French film directed by Jean Becker.",
+    "Lars Sven\" Lasse\" Hallström( born 2 June 1946) is a Swedish film director. He first became known for directing almost all music videos by pop group ABBA, and subsequently became a feature film director. He was nominated for an Academy Award for Best Director for\" My Life as a Dog( Mitt liv som hund)\"( 1985) and later for\" The Cider House Rules\"( 1999). His other celebrated directorial works include\" What's Eating Gilbert Grape\"( 1993) and\" Chocolat\"( 2000).",
+    "The Gigolos is a 2005 British comedy film directed by Richard Bracewell, starring Sacha Tarter, Trevor Sather and Ben Willbond alongside Susannah York, Anna Massey, Angela Pleasence and Siân Phillips. Bracewell's debut feature,\" The Gigolos\" is a buddy movie set in the twilight world of the London male escort. In 2010, the\" Daily Telegraph\" listed\" The Gigolos\" as\" the most underrated film of all time\". The tag line( according to IMDb) is\" Everyone Needs Someone\", although UK promotional materials use the quote\" A provocative glimpse at open secrets\" from\" The Hollywood Reporter\" review. The film was shot on location in London in 2004 and 2005. Bracewell wrote the story with Tarter and Sather, and was also cinematographer. The dialogue was improvised. It premiered at AFI Fest in Hollywood in November 2005. It was released in the UK on 23 March 2007 by Punk Cinema. The British Film Institute released the DVD in the UK on 9 February 2009. Its premiere on network television was on Monday, 20 July 2009 on BBC1.",
+    "Hassan Zee is a Pakistani- American film director who was born in Chakwal, Pakistan.",
+    "Henry Walter Moore( 1849 – 20 August 1916) was an English- born first- class cricketer who spent most of his life in New Zealand.",
+    "Astrid Anna Emilia Lindgren( 14 November 1907 – 28 January 2002) was a Swedish writer of fiction and screenplays. She is best known for several children's book series, featuring Pippi Longstocking, Emil i Lönneberga, Karlsson- on- the- Roof, and the Six Bullerby Children(\" Children of Noisy Village\" in the US), and for the children's fantasy novels\" Mio, My SonRonia the Robber's Daughter\", and\" The Brothers Lionheart\". Lindgren worked on the Children's Literature Editorial Board at the Rabén& Sjögren publishing house in Stockholm and wrote more than 30 books for children. In January 2017, she was calculated to be the world's 18th most translated author, and the fourth most translated children's writer after Enid Blyton, Hans Christian Andersen and the Brothers Grimm. Lindgren has so far sold roughly 165 million books worldwide. In 1994, she was awarded the Right Livelihood Award for\" her unique authorship dedicated to the rights of children and respect for their individuality.\"",
+    "The Children of Noisy Village is a Swedish film which was released to cinemas in Sweden on 6 December 1986, directed by Lasse Hallström, based on the books about The Six Bullerby Children by Astrid Lindgren. A sequel,\" More About the Children of Noisy Village\", premiered the following year. The two movies were then reworked into a 7 episode TV- series that was broadcast in 1989.",
+    "Wale Adebanwi( born 1969) is a Nigerian- born first Black Rhodes Professor at St Antony's College, Oxford.",
+    "Richard Bracewell( born 28 November 1969) is an English film director best known for directing 2015 British comedy feature film\" Bill\", which he also developed with writers Laurence Rickard and Ben Willbond.\" Bill\" was Bracewell's third feature film following\" The Gigolos\" and\" Cuckoo\". All three films were produced by UK feature film production company Punk Cinema, which Bracewell set up in 2004 with co-producer and brother Tony Bracewell.",
+    "More About the Children of Noisy Village  is a Swedish film which was released to cinemas in Sweden on 5 September 1987, directed by Lasse Hallström, based on the books about The Six Bullerby Children by Astrid Lindgren. It is a sequel to \"The Children of Noisy Village\" which premiered the year before. The two movies were then reworked into a seven episode TV-series that was broadcast in 1989."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Gigolos was directed by Richard Bracewell.\nRichard Bracewell was born on 28 November 1969.\nMore About the Children of Noisy Village was directed by Lasse Hallström.\nLasse Hallström was born on 2 June 1946.\n1946 is earlier than 1969.\nThe director of More About the Children of Noisy Village was born earlier than the director of The Gigolos.\nThe film with the director born first is More About the Children of Noisy Village.\n<answer> More About the Children of Noisy Village",
+  "predicted_answer": "More About the Children of Noisy Village",
+  "claims": [
+    "The Gigolos was directed by Richard Bracewell",
+    "Richard Bracewell was born on 28 November 1969",
+    "More About the Children of Noisy Village was directed by Lasse Hallström",
+    "Lasse Hallström was born on 2 June 1946",
+    "1946 is earlier than 1969",
+    "The director of More About the Children of Noisy Village was born earlier than the director of The Gigolos",
+    "The film with the director born first is More About the Children of Noisy Village"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Gigolos was directed by Richard Bracewell",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Richard Bracewell was born on 28 November 1969",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "More About the Children of Noisy Village was directed by Lasse Hallström",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Lasse Hallström was born on 2 June 1946",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1946 is earlier than 1969",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director of More About the Children of Noisy Village was born earlier than the director of The Gigolos",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born first is More About the Children of Noisy Village",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

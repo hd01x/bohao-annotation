@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__31d0f85e4da977a2ada5",
+  "sample_id": "31d0f85e4da977a2ada5",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did original Nintendo have games in same format as Playstation 3?",
+  "gold_answer": "no",
+  "context": [
+    "Nintendo was originally released in 1983 and used games that were in a cartridge format.",
+    "Sony Playstation 3 was released in 2006 and had games in a CD format."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe original Nintendo was released in 1983.\nOriginal Nintendo used games in a cartridge format.\nSony PlayStation 3 was released in 2006.\nPlayStation 3 used games in a CD format.\nCartridge format is different from CD format.\nThe original Nintendo did not have games in the same format as the PlayStation 3.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The original Nintendo was released in 1983",
+    "Original Nintendo used games in a cartridge format",
+    "Sony PlayStation 3 was released in 2006",
+    "PlayStation 3 used games in a CD format",
+    "Cartridge format is different from CD format",
+    "The original Nintendo did not have games in the same format as the PlayStation 3"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The original Nintendo was released in 1983",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Original Nintendo used games in a cartridge format",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Sony PlayStation 3 was released in 2006",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "PlayStation 3 used games in a CD format",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Cartridge format is different from CD format",
+      "claim_type": "FC",
+      "votes": {
+        "DR": 1,
+        "FC": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The original Nintendo did not have games in the same format as the PlayStation 3",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

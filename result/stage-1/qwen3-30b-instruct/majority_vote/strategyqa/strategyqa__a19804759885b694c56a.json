@@ -1,0 +1,163 @@
+{
+  "uid": "strategyqa__a19804759885b694c56a",
+  "sample_id": "a19804759885b694c56a",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could a hundred thousand lolcats fit on a first generation iPhone?",
+  "gold_answer": "yes",
+  "context": [
+    "Lolcat memes are often in jpeg form",
+    "The average size of a jpeg is 10 to 30 kb",
+    "One gigabyte is 1000000 kb",
+    "The first iPhone had 4GB to 16GB of storage "
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLolcat memes are often in jpeg form.\nThe average size of a jpeg is 10 to 30 kb.\nA hundred thousand lolcats would require between 1,000,000 kb and 3,000,000 kb.\nOne gigabyte is 1,000,000 kb.\nThe first iPhone had 4GB to 16GB of storage.\n4GB is 4,000,000 kb.\n3,000,000 kb is less than 4,000,000 kb.\nA hundred thousand lolcats require 3,000,000 kb at maximum.\n3,000,000 kb fits within 4,000,000 kb.\nA hundred thousand lolcats could fit on a first generation iPhone.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Lolcat memes are often in jpeg form",
+    "The average size of a jpeg is 10 to 30 kb",
+    "A hundred thousand lolcats would require between 1,000,000 kb and 3,000,000 kb",
+    "One gigabyte is 1,000,000 kb",
+    "The first iPhone had 4GB to 16GB of storage",
+    "4GB is 4,000,000 kb",
+    "3,000,000 kb is less than 4,000,000 kb",
+    "A hundred thousand lolcats require 3,000,000 kb at maximum",
+    "3,000,000 kb fits within 4,000,000 kb",
+    "A hundred thousand lolcats could fit on a first generation iPhone"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lolcat memes are often in jpeg form",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The average size of a jpeg is 10 to 30 kb",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A hundred thousand lolcats would require between 1,000,000 kb and 3,000,000 kb",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "One gigabyte is 1,000,000 kb",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The first iPhone had 4GB to 16GB of storage",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "4GB is 4,000,000 kb",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "3,000,000 kb is less than 4,000,000 kb",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "A hundred thousand lolcats require 3,000,000 kb at maximum",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "3,000,000 kb fits within 4,000,000 kb",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "A hundred thousand lolcats could fit on a first generation iPhone",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

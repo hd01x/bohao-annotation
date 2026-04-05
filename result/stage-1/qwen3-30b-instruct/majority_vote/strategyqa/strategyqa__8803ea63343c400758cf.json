@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__8803ea63343c400758cf",
+  "sample_id": "8803ea63343c400758cf",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was the British car, the Mini, the first car manufactured?",
+  "gold_answer": "no",
+  "context": [
+    "The first car widely manufactured was the Model T.",
+    "The Model T was manufactured in 1908.",
+    "The Mini was made beginning in 1959."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe first car widely manufactured was the Model T.\nThe Model T was manufactured starting in 1908.\nThe Mini was introduced in 1959.\n1908 is earlier than 1959.\nThe Mini was not the first car manufactured.\nThe British car, the Mini, was not the first car manufactured.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The first car widely manufactured was the Model T",
+    "The Model T was manufactured starting in 1908",
+    "The Mini was introduced in 1959",
+    "1908 is earlier than 1959",
+    "The Mini was not the first car manufactured",
+    "The British car, the Mini, was not the first car manufactured"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The first car widely manufactured was the Model T",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Model T was manufactured starting in 1908",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Mini was introduced in 1959",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "1908 is earlier than 1959",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Mini was not the first car manufactured",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The British car, the Mini, was not the first car manufactured",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

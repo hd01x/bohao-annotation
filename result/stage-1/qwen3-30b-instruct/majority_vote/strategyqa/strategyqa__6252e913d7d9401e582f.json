@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__6252e913d7d9401e582f",
+  "sample_id": "6252e913d7d9401e582f",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Has Kelly Clarkson outsold season 4 American Idol winner?",
+  "gold_answer": "no",
+  "context": [
+    "Carrie Underwood was the winner of the fourth season of American Idol.",
+    "Carrie Underwood has sold a little over 65 million albums.",
+    "Kelly Clarkson has sold a little over 25 million albums."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCarrie Underwood won the fourth season of American Idol.\nCarrie Underwood has sold a little over 65 million albums.\nKelly Clarkson has sold a little over 25 million albums.\n65 million is greater than 25 million.\nKelly Clarkson has not outsold Carrie Underwood.\nKelly Clarkson has not outsold season 4 American Idol winner.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Carrie Underwood won the fourth season of American Idol",
+    "Carrie Underwood has sold a little over 65 million albums",
+    "Kelly Clarkson has sold a little over 25 million albums",
+    "65 million is greater than 25 million",
+    "Kelly Clarkson has not outsold Carrie Underwood",
+    "Kelly Clarkson has not outsold season 4 American Idol winner"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Carrie Underwood won the fourth season of American Idol",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Carrie Underwood has sold a little over 65 million albums",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Kelly Clarkson has sold a little over 25 million albums",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "65 million is greater than 25 million",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Kelly Clarkson has not outsold Carrie Underwood",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Kelly Clarkson has not outsold season 4 American Idol winner",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

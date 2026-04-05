@@ -1,0 +1,221 @@
+{
+  "uid": "musique__4hop1__606685_508773_85832_745702",
+  "sample_id": "4hop1__606685_508773_85832_745702",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Whose father was a navigator who explored the east coast of the continental region where Sergio Villanueva would later be born?",
+  "gold_answer": "Sebastian Cabot",
+  "context": [
+    "Vicente Yáñez Pinzón (; Palos de la Frontera, Spain, c. 1462 – after 1514) was a Spanish navigator, explorer, and \"conquistador\", the younger of the Pinzón brothers. Along with his older brother, Martín Alonso Pinzón (\"c.\" 1441 – \"c.\" 1493), who captained the \"Pinta\", he sailed with Christopher Columbus on the first voyage to the New World, in 1492, as captain of the \"Niña\".",
+    "Pennell Coast is that portion of the coast of Antarctica between Cape Williams and Cape Adare. To the west of Cape Williams lies Oates Coast, and to the east and south of Cape Adare lies Borchgrevink Coast. Named by New Zealand Antarctic Place-Names Committee (NZ-APC) in 1961 after Lieutenant Harry Pennell, Royal Navy, commander of the Terra Nova, the expedition ship of the British Antarctic Expedition, 1910-13. Pennell engaged in oceanographic work in the Ross Sea during this period. In February 1911 he sailed along this coast in exploration and an endeavor to land the Northern Party led by Lieutenant Victor Campbell.",
+    "On 18 November 1605, the Duyfken sailed from Bantam to the coast of western New Guinea. After that, Janszoon crossed the eastern end of the Arafura Sea into the Gulf of Carpentaria, without being aware of the existence of Torres Strait. The Duyfken was actually in Torres Strait in February 1606, a few months before Spanish explorer Luís Vaz de Torres sailed through it. On 26 February 1606, Janzoon made landfall at the Pennefather River on the western shore of Cape York in Queensland, near what is now the town of Weipa. This is the first recorded European landfall on the Australian continent. Janszoon proceeded to chart some 320 km (200 mi) of the coastline, which he thought was a southerly extension of New Guinea.",
+    "The recorded history of Maryland dates back to when Europeans began exploring the area, starting with the Italian / Venetian John Cabot (c. 1450 -- c. 1500), exploring the coast of the continent of North America for England in 1498. The first European settlements were made in 1634, when the English arrived in significant numbers and created a permanent colony. Maryland was notable for having been established with religious freedom for Roman Catholics. Like other colonies of the Chesapeake Bay, its economy was based on tobacco as a commodity crop, cultivated primarily by African slave labor, although many young people came from Britain as indentured servants in the early years.",
+    "Gibbs Point, a rock point on the Antarctic Peninsula, the most northern area of the continent of Antarctica, was named for African American Antarctic explorer, George W. Gibbs, Jr. on September 2, 2009. On that date, the Advisory Committee on Antarctic Names (U.S. Board on Geographic Names) confirmed the place name in Antarctica for Gibbs as the first black explorer to set foot on the continent. Gibbs Point is a rock point forming the northwest entrance to Gaul Cove, on the northeast of Horseshoe Island, Marguerite Bay, Antarctic Peninsula.",
+    "David Melgueiro (Porto, ? – Porto, 1673?) is supposed to have been a Portuguese navigator and explorer. He allegedly sailed across the Northeast Passage in 1660 by travelling from Japan to Portugal through the Arctic Ocean at a time when Portuguese vessels were banned from Japan.",
+    "Italian navigator and explorer Giovanni Caboto (known in English as John Cabot) is credited with the discovery of continental North America on June 24, 1497, under the commission of Henry VII of England. Though the exact location of his discovery remains disputed, the Canadian and United Kingdom governments' official position is that he landed on the island of Newfoundland. The English presence through Giovanni Caboto was signaled in Juan de la Cosa's map of 1500.",
+    "Pedro Álvares Cabral (European Portuguese: (ˈpeðɾu ˈaɫvɐr (ɨ) ʃ kɐˈβɾaɫ) or Brazilian Portuguese: (ˈpedɾu ˈawvaɾis kaˈbɾaw); c. 1467 or 1468 -- c. 1520) was a Portuguese nobleman, military commander, navigator and explorer regarded as the European discoverer of Brazil. In 1500 Cabral conducted the first substantial exploration of the northeast coast of South America and claimed it for Portugal. While details of Cabral's early life remain unclear, it is known that he came from a minor noble family and received a good education. He was appointed to head an expedition to India in 1500, following Vasco da Gama's newly - opened route around Africa. The undertaking had the aim of returning with valuable spices and of establishing trade relations in India -- bypassing the monopoly on the spice trade then in the hands of Arab, Turkish and Italian merchants. Although the previous expedition of Vasco da Gama to India, on its sea route, had recorded signs of land west of the southern Atlantic Ocean (in 1497), Cabral is regarded as the first captain who ever touched four continents, leading the first expedition that united Europe, Africa, America, and Asia.",
+    "The foundations of the British Empire were laid when England and Scotland were separate kingdoms. In 1496 King Henry VII of England, following the successes of Spain and Portugal in overseas exploration, commissioned John Cabot to lead a voyage to discover a route to Asia via the North Atlantic. Cabot sailed in 1497, five years after the European discovery of America, and although he successfully made landfall on the coast of Newfoundland (mistakenly believing, like Christopher Columbus, that he had reached Asia), there was no attempt to found a colony. Cabot led another voyage to the Americas the following year but nothing was heard of his ships again.",
+    "Notable Greek seafarers include people such as Pytheas of Marseilles, Scylax of Caryanda who sailed to Iberia and beyond, Nearchus, the 6th century merchant and later monk Cosmas Indicopleustes (Cosmas who sailed to India) and the explorer of the Northwestern passage Juan de Fuca. In later times, the Romioi plied the sea-lanes of the Mediterranean and controlled trade until an embargo imposed by the Roman Emperor on trade with the Caliphate opened the door for the later Italian pre-eminence in trade.",
+    "Portugal spearheaded European exploration of the world and the Age of Discovery. Prince Henry the Navigator, son of King João I, became the main sponsor and patron of this endeavour. During this period, Portugal explored the Atlantic Ocean, discovering several Atlantic archipelagos like the Azores, Madeira, and Cape Verde, explored the African coast, colonized selected areas of Africa, discovered an eastern route to India via the Cape of Good Hope, discovered Brazil, explored the Indian Ocean, established trading routes throughout most of southern Asia, and sent the first direct European maritime trade and diplomatic missions to China and Japan.",
+    "Giovanni Battista Caviglia (1770 in Genoa – September 7, 1845 in Paris) was an explorer, navigator and Italian Egyptologist. He was one of the pioneers of Egyptian archeology of his time. He was influential in the excavation of the Sphinx of Giza near Cairo.",
+    "Explorers flying the flag of Spain reached the New World beginning in 1492 with the discovery of America by Christopher Columbus. Spanish expeditions colonized and explored vast areas in North and South America following the grants of the Pope (contained in the 1493 papal bull Inter caetera) and rights contained in the 1494 Treaty of Tordesillas and 1529 Treaty of Zaragoza. These formal acts gave Spain the exclusive rights to colonize the entire Western Hemisphere (excluding eastern Brazil), including all of the west coast of North America. The first European expedition to actually reach the west coast was led by the Spaniard Vasco Núñez de Balboa, who reached the Pacific coast of Panama in 1513. In an act of enduring historical importance, Balboa claimed the Pacific Ocean for the Spanish Crown, as well as all adjoining land and islands. This act gave Spain exclusive sovereignty and navigation rights over the entire west coast of North America.",
+    "Sebastian Cabot (Italian and , ; , \"Gaboto\" or \"Cabot\"; 1474 – December 1557) was an Italian explorer, likely born in the Venetian Republic. He was the son of Italian explorer John Cabot (Giovanni Caboto) and his Venetian wife Mattea.",
+    "The first known landing in Australia by Europeans was by Dutch navigator Willem Janszoon in 1606. Twenty - nine other Dutch navigators explored the western and southern coasts in the 17th century, and dubbed the continent New Holland. Macassan trepangers visited Australia's northern coasts after 1720, possibly earlier. Other European explorers followed until, in 1770, Lieutenant James Cook charted the east coast of Australia for Great Britain and returned with accounts favouring colonisation at Botany Bay (now in Sydney), New South Wales.",
+    "John Cabot (Italian: Giovanni Caboto; c. 1450 -- c. 1500) was a Venetian navigator and explorer whose 1497 discovery of the coast of North America under the commission of Henry VII of England was the first European exploration of coastal North America since the Norse visits to Vinland in the eleventh century. To mark the celebration of the 500th anniversary of Cabot's expedition, both the Canadian and British governments elected Cape Bonavista, Newfoundland, as representing Cabot's first landing site. However, alternative locations have also been proposed.",
+    "Sergio Villanueva (born 21 September 1988 in Guadalajara, Jalisco, Mexico) is a Mexican professional boxer in the Featherweight division. Villanueva is promoted by current WBC Champion, Mexican Saúl Álvarez' company Canelo Promotions.",
+    "Sergio Furlan (born 29 February 1940) is an Italian former sailor who competed in the 1964 Summer Olympics. Aged 24, he represented Italy in the Mixed Three Person Keelboat where his team placed 6th.",
+    "Paula Santiago (born 1969 in Guadalajara) is a Mexican mixed media artist whose works have been displayed at the Monterrey Museum of Modern Art and several galleries in Europe and North America. Most of her work stands out by being made with her own blood and hair.",
+    "His fleet of 13 ships sailed far into the western Atlantic Ocean, perhaps intentionally, where he made landfall on what he initially assumed to be a large island. As the new land was within the Portuguese sphere according to the Treaty of Tordesillas, Cabral claimed it for the Portuguese Crown. He explored the coast, realizing that the large land mass was probably a continent, and dispatched a ship to notify King Manuel I of the new territory. The continent was South America, and the land he had claimed for Portugal later came to be known as Brazil. The fleet reprovisioned and then turned eastward to resume the journey to India."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSergio Villanueva was born in Guadalajara, Jalisco, Mexico.\nMexico is part of North America.\nThe east coast of North America was explored by John Cabot, who sailed under the commission of Henry VII of England.\nJohn Cabot was an Italian navigator and explorer.\nJohn Cabot is the father of Sebastian Cabot.\nSebastian Cabot was an Italian explorer and likely born in the Venetian Republic.\nThe father of Sebastian Cabot was John Cabot.\nJohn Cabot explored the east coast of North America.\nThe navigator who explored the east coast of the continental region where Sergio Villanueva was born was John Cabot.\nJohn Cabot's father was not mentioned in the context.\nThe question asks for the father of the navigator who explored the east coast of the region where Sergio Villanueva was born.\nThe navigator was John Cabot.\nThe father of John Cabot is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Sergio Villanueva was born in Guadalajara, Jalisco, Mexico",
+    "Mexico is part of North America",
+    "The east coast of North America was explored by John Cabot, who sailed under the commission of Henry VII of England",
+    "John Cabot was an Italian navigator and explorer",
+    "John Cabot is the father of Sebastian Cabot",
+    "Sebastian Cabot was an Italian explorer and likely born in the Venetian Republic",
+    "The father of Sebastian Cabot was John Cabot",
+    "John Cabot explored the east coast of North America",
+    "The navigator who explored the east coast of the continental region where Sergio Villanueva was born was John Cabot",
+    "John Cabot's father was not mentioned in the context",
+    "The question asks for the father of the navigator who explored the east coast of the region where Sergio Villanueva was born",
+    "The navigator was John Cabot",
+    "The father of John Cabot is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Sergio Villanueva was born in Guadalajara, Jalisco, Mexico",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Mexico is part of North America",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The east coast of North America was explored by John Cabot, who sailed under the commission of Henry VII of England",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "John Cabot was an Italian navigator and explorer",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "John Cabot is the father of Sebastian Cabot",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Sebastian Cabot was an Italian explorer and likely born in the Venetian Republic",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The father of Sebastian Cabot was John Cabot",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "John Cabot explored the east coast of North America",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The navigator who explored the east coast of the continental region where Sergio Villanueva was born was John Cabot",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "John Cabot's father was not mentioned in the context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "The question asks for the father of the navigator who explored the east coast of the region where Sergio Villanueva was born",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "The navigator was John Cabot",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "The father of John Cabot is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

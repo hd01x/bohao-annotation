@@ -1,0 +1,32 @@
+{
+  "uid": "wiki2mhqa__8afe75c40bda11eba7f7acde48001122",
+  "sample_id": "8afe75c40bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What nationality is the performer of song Pareho Tayo?",
+  "gold_answer": "Filipino",
+  "context": [
+    "\" Panda\" is a song of the Chilean band Astro and is the fifth song of the homonymous album of the year 2011. The song was composed and produced by the singer of the band Andrés Nusser and released like third single of the album on February 1, 2013.",
+    "Kristian Leontiou (born February 1982) is a British singer of Greek Cypriot descent, and is the singer for the indie rock band One eskimO.",
+    "Bernard Bonvoisin, known as Bernie Bonvoisin( born 9 July 1956 in Nanterre, Hauts- de- Seine), is a French hard rock singer and film director. He is best known for having been the singer of Trust. He was one of the best friends of Bon Scott the singer of AC/ DC and together they recorded the song\" Ride On\" which was one of the last songs by Bon Scott.",
+    "Aristotle Pollisco (born October 18, 1977), known by his stage name Gloc-9, is a Filipino rapper, singer and songwriter. Regarded as one of the best Filipino rappers of all-time, his fast-flowing vocal style has made him one of the most successful hip-hop artists in the Philippines. He was described by fellow great Filipino rapper Francis Magalona as \"a blacksmith of words and letters, and a true Filipino poet.\" He has collaborated on almost a dozen songs with other OPM artists; Lando with the late Francis M, Upuan with Jaezelle, Bagsakan with Parokya ni Edgar , Baon with Gab Chee Kee of Parokya ni Edgar and Francis M, and Sari-Saring Kwento with Noel Cabangon and Champ Lui Pio. His songs mostly tackle social issues such as social injustices, poverty and patriotism. He began his musical career with the gangsta rap group Death Threat. Gloc-9 is notably one of the few artists in the Philippine music scene who has won an award in every album he created.",
+    "Billy Milano is a Bronx- born heavy metal musician now based in Austin, Texas. He is the singer and- occasionally- guitarist and bassist of crossover thrash band M.O.D., and he was also the singer of its predecessor, Stormtroopers of Death. He was also the singer of United Forces, which also featured his Stormtroopers of Death bandmate Dan Lilker.",
+    "Caspar Babypants is the stage name of children's music artist Chris Ballew, who is also widely known as the singer of The Presidents of the United States of America.",
+    "Astrid North( Astrid Karina North Radmann; 24 August 1973, Berlin – 25 June 2019, Berlin) was a German soul singer and songwriter. She was the singer of the German band, with whom she released five Albums. As guest singer of the band she published three albums.",
+    "Dáithí Sproule( born 23 May 1950) is a guitarist and singer of traditional Irish music. His niece is the singer Claire Sproule.",
+    "\" O Valencia!\" is the fifth single by the indie rock band The Decemberists, and the first released from their fourth studio album,\" The Crane Wife\". The music was written by The Decemberists and the lyrics by Colin Meloy. It tells a story of two star- crossed lovers. The singer falls in love with a person who belongs to an opposing gang. At the end of the song, the singer's lover jumps in to defend the singer, who is confronting his lover's brother( the singer's\" sworn enemy\") and is killed by the bullet intended for the singer.",
+    "Pareho Tayo (We Are the Same) is a song written and performed by Gloc-9. It was released independently and is currently available in digital format (free download) through SoundCloud account of the artist."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPareho Tayo is a song written and performed by Gloc-9.\nGloc-9 is the stage name of Aristotle Pollisco.\nAristotle Pollisco is a Filipino rapper, singer, and songwriter.\nThe performer of Pareho Tayo is Filipino.\nSo, the answer is Filipino.\n<answer> Filipino",
+  "claims": [
+    "Pareho Tayo is a song written and performed by Gloc-9",
+    "Gloc-9 is the stage name of Aristotle Pollisco",
+    "Aristotle Pollisco is a Filipino rapper, singer, and songwriter",
+    "The performer of Pareho Tayo is Filipino",
+    "So, the answer is Filipino"
+  ],
+  "predicted_answer": "Filipino"
+}

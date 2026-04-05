@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__4070e4485b1bcc9e04d8",
+  "sample_id": "4070e4485b1bcc9e04d8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can you hide a basketball in a sand cat's ear?",
+  "gold_answer": "no",
+  "context": [
+    "The diameter of a standard NBA basketball is around 9.5 inches",
+    "A sand cat's ear grows to 2.8 inches tall"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe diameter of a standard NBA basketball is approximately 9.5 inches.\nA sand cat's ear grows to 2.8 inches in height.\n2.8 inches is significantly smaller than 9.5 inches.\nThe size of a sand cat's ear is too small to contain a basketball.\nA basketball cannot fit inside a sand cat's ear.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The diameter of a standard NBA basketball is approximately 9.5 inches",
+    "A sand cat's ear grows to 2.8 inches in height",
+    "2.8 inches is significantly smaller than 9.5 inches",
+    "The size of a sand cat's ear is too small to contain a basketball",
+    "A basketball cannot fit inside a sand cat's ear"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The diameter of a standard NBA basketball is approximately 9.5 inches",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "A sand cat's ear grows to 2.8 inches in height",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "2.8 inches is significantly smaller than 9.5 inches",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The size of a sand cat's ear is too small to contain a basketball",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A basketball cannot fit inside a sand cat's ear",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

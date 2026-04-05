@@ -1,0 +1,119 @@
+{
+  "uid": "strategyqa__0f172df66b358ed72ca6",
+  "sample_id": "0f172df66b358ed72ca6",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would the chef at La Grenouille find salsa to be a strange request?",
+  "gold_answer": "yes",
+  "context": [
+    "La Grenouille is a classic French cuisine restaurant in NYC.",
+    "Salsa is a staple food in Mexican cuisine."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLa Grenouille is a classic French cuisine restaurant in New York City.\nFrench cuisine typically emphasizes ingredients and dishes such as sauces, meats, and pastries.\nSalsa is a staple food in Mexican cuisine, not traditionally associated with French cuisine.\nSalsa is not a standard component of classic French dishes.\nThe chef at La Grenouille may not be familiar with salsa as a menu item.\nA request for salsa at a French restaurant could be considered unusual or out of place.\nThe chef at La Grenouille would likely find salsa to be a strange request.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "La Grenouille is a classic French cuisine restaurant in New York City",
+    "French cuisine typically emphasizes ingredients and dishes such as sauces, meats, and pastries",
+    "Salsa is a staple food in Mexican cuisine, not traditionally associated with French cuisine",
+    "Salsa is not a standard component of classic French dishes",
+    "The chef at La Grenouille may not be familiar with salsa as a menu item",
+    "A request for salsa at a French restaurant could be considered unusual or out of place",
+    "The chef at La Grenouille would likely find salsa to be a strange request"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "La Grenouille is a classic French cuisine restaurant in New York City",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "French cuisine typically emphasizes ingredients and dishes such as sauces, meats, and pastries",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Salsa is a staple food in Mexican cuisine, not traditionally associated with French cuisine",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Salsa is not a standard component of classic French dishes",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The chef at La Grenouille may not be familiar with salsa as a menu item",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A request for salsa at a French restaurant could be considered unusual or out of place",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The chef at La Grenouille would likely find salsa to be a strange request",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

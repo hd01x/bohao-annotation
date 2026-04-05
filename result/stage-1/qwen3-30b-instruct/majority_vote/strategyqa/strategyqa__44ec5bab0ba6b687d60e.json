@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__44ec5bab0ba6b687d60e",
+  "sample_id": "44ec5bab0ba6b687d60e",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could a nymph tick pass through a standard hole punch?",
+  "gold_answer": "yes",
+  "context": [
+    "A nymph tick is the size of a poppy seed.",
+    "A poppy seed is around 1mm in size.",
+    "The ISO 838 standards set a hole punch size at 6 mm."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA nymph tick is the size of a poppy seed.\nA poppy seed is around 1mm in size.\nA standard hole punch has a hole size of 6 mm according to ISO 838 standards.\n1mm is smaller than 6mm.\nA nymph tick is smaller than the hole size of a standard hole punch.\nA nymph tick could pass through a standard hole punch.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "A nymph tick is the size of a poppy seed",
+    "A poppy seed is around 1mm in size",
+    "A standard hole punch has a hole size of 6 mm according to ISO 838 standards",
+    "1mm is smaller than 6mm",
+    "A nymph tick is smaller than the hole size of a standard hole punch",
+    "A nymph tick could pass through a standard hole punch"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A nymph tick is the size of a poppy seed",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "A poppy seed is around 1mm in size",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A standard hole punch has a hole size of 6 mm according to ISO 838 standards",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "1mm is smaller than 6mm",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A nymph tick is smaller than the hole size of a standard hole punch",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A nymph tick could pass through a standard hole punch",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

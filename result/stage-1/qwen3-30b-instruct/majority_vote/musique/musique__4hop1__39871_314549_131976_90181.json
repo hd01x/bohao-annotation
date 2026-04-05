@@ -1,0 +1,137 @@
+{
+  "uid": "musique__4hop1__39871_314549_131976_90181",
+  "sample_id": "4hop1__39871_314549_131976_90181",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What is the deepest part of the ocean by the state where Main Street Station is located?",
+  "gold_answer": "Milwaukee Deep",
+  "context": [
+    "The Montclair-Boonton Line is a commuter rail line of New Jersey Transit Rail Operations in the United States. It is part of the Hoboken Division. The line is a consolidation of three individual lines: the former Delaware, Lackawanna & Western Railroad's Montclair Branch, which ran from Hoboken Terminal to Bay Street, Montclair; the Erie Railroad's Greenwood Lake Division (segment from Montclair to Mountain View-Wayne), which originally ran from the Erie's Jersey City Terminal to Greenwood Lake, NY; and the former Lackawanna Boonton Line, which ran from Hoboken to Hackettstown, New Jersey. The Montclair-Boonton line was formed when the Montclair Connection opened on September 30, 2002. The line serves 28 active rail stations in New Jersey along with New York Pennsylvania Station. It crosses through six counties, serving six stations in the township of Montclair, two in the town of Bloomfield, and one in the city of Newark. Trains along the Montclair-Boonton Line heading eastward usually originate at Hackettstown, Mount Olive, Lake Hopatcong, Dover, or Montclair State University, bound for either Hoboken Terminal or New York Penn Station.",
+    "The Villa District, also known as Villa Historic District, () is a historic district in Chicago, Illinois, United States. It is located on Chicago's Northwest Side within the community area of Irving Park. Its borders are along Pulaski Road to the west, the Union Pacific/Northwest rail line to the north, Hamlin Avenue to the east, and Addison Street to the south. Located directly north of the Wacławowo area of Avondale, the Villa District is serviced by the Blue Line's Addison street station.",
+    "Refugio is a station on line 1 of the Guadalajara light rail system in the Guadalajara Metropolitan Area, Mexico. The station is located just north of the Parish Church of Our Lady of Refuge (La Parroquia de Nuestra Señora del Refugio) on Del Federalismo between Joaquín Angulo and Herrera y Cairo streets in the city centre.",
+    "The Monongahela City Bridge spans the Monongahela River from the City of Monongahela in Washington County, Pennsylvania to Forward Township in Allegheny County, Pennsylvania. It was constructed to replace a bridge which was 1/4 of a mile north of its location at First and Main Streets, and it opened to traffic in 1990.",
+    "It is located entirely within the county of Cumbria, and all the land in England higher than 3,000 feet (910 m) above sea level lies within the National Park, including Scafell Pike, the highest mountain in England. It also contains the deepest and longest bodies of water in England, respectively Wast Water and Windermere.",
+    "San Juan is located along the north - eastern coast of Puerto Rico. It lies south of the Atlantic Ocean; north of Caguas and Trujillo Alto; east of and Guaynabo; and west of Carolina. The city occupies an area of 76.93 square miles (199.2 km), of which, 29.11 square miles (75.4 km) (37.83%) is water. San Juan's main water bodies are San Juan Bay and two natural lagoons, the Condado and San José.",
+    "Metropolitan Avenue/Lorimer Street is an underground New York City Subway station complex shared by the BMT Canarsie Line and the IND Crosstown Line. Located in the Williamsburg neighborhood of Brooklyn, the complex is served by the G and L trains at all times.",
+    "Oulu–Kontiomäki railway is a railway line in Finland. The line is owned and maintained by the Finnish Rail Administration. It connects the city of Oulu to station at Kontiomäki, which is a junction of five railway lines in Paltamo municipality, approximately north from the city of Kajaani. The line is single-tracked and electrified with a total length of . The traffic is controlled via centralized traffic control by the operator located in Oulu rail traffic control center at Oulu railway station. The line follows the south shore of Oulu River.",
+    "Nizamuddin हज़रत निज़ामुद्दीन Rapid transit, Light rail, Commuter rail & Regional rail station Location New Delhi, Delhi India 28 ° 35 ′ 21 ''N 77 ° 15 ′ 15'' E ﻿ / ﻿ 28.58917 ° N 77.25417 ° E ﻿ / 28.58917; 77.25417 Elevation 206.7 metres (678 ft) Platforms 7 Construction Structure type Standard (on ground station) Parking Yes Other information Status Functioning Station code NZM Zone (s) Northern Railway zone Division (s) Delhi Electrified Yes Traffic Passengers (Daily) 360,000 + Location Nizamuddin Location within Delhi",
+    "Virginia has a total area of , including of water, making it the 35th-largest state by area. Virginia is bordered by Maryland and Washington, D.C. to the north and east; by the Atlantic Ocean to the east; by North Carolina to the south; by Tennessee to the southwest; by Kentucky to the west; and by West Virginia to the north and west. Virginia's boundary with Maryland and Washington, D.C. extends to the low-water mark of the south shore of the Potomac River. The southern border is defined as the 36° 30′ parallel north, though surveyor error led to deviations of as much as three arcminutes. The border with Tennessee was not settled until 1893, when their dispute was brought to the U.S. Supreme Court.",
+    "The Melbourne rail network has its origins in privately built lines from the 1850s gold rush era, and today the suburban network consists of 209 suburban stations on 16 lines which radiate from the City Loop, a partially underground metro section of the network beneath the Central Business District (Hoddle Grid). Flinders Street Station is Melbourne's busiest railway station, and was the world's busiest passenger station in 1926. It remains a prominent Melbourne landmark and meeting place. The city has rail connections with regional Victorian cities, as well as direct interstate rail services to Sydney and Adelaide and beyond which depart from Melbourne's other major rail terminus, Southern Cross Station in Spencer Street. In the 2013–2014 financial year, the Melbourne rail network recorded 232.0 million passenger trips, the highest in its history. Many rail lines, along with dedicated lines and rail yards are also used for freight. The Overland to Adelaide departs Southern Cross twice a week, while the XPT to Sydney departs twice a day.",
+    "The Puerto Rico Trench is located on the boundary between the Caribbean Sea and the Atlantic Ocean. The oceanic trench is associated with a complex transition between the Lesser Antilles subduction zone to the south and the major transform fault zone or plate boundary, which extends west between Cuba and Hispaniola through the Cayman Trench to the coast of Central America. The trench is 800 kilometres (497 mi) long and has a maximum depth of 8,648 metres (28,373 ft) or 5.373 miles at Milwaukee Deep, which is the deepest point in the Atlantic Ocean and the deepest point not in the Pacific Ocean.",
+    "Addison Transit Center is a bus-only station located along Quorum Drive and Addison Road in Addison, Texas (USA). The station opened in 1999. This transit center will become a future rail station on the Silver Line as part of DART's 2030 Transit System Plan.",
+    "Tottenham railway station is located on the Sunbury line in Victoria, Australia. It serves the western Melbourne suburbs of Tottenham and West Footscray, opening on 2 March 1891. It is located above the Ashley Street rail overpass, which provides station access.",
+    "Newport News is included in the Hampton Roads metropolitan area. It is at the southeastern end of the Virginia Peninsula, on the northern shore of the James River extending southeast from Skiffe's Creek along many miles of waterfront to the river's mouth at Newport News Point on the harbor of Hampton Roads. The area now known as Newport News was once a part of Warwick County. Warwick County was one of the eight original shires of Virginia, formed by the House of Burgesses in the British Colony of Virginia by order of King Charles I in 1634. The county was largely composed of farms and undeveloped land until almost 250 years later.",
+    "Waban is a surface-level light rail station on the Massachusetts Bay Transportation Authority's Green Line \"D\" Branch, located just south of Beacon Street at Waban Square in the Waban section of Newton, Massachusetts. The station is located below grade; access to both platforms is via Wyman Street on the outbound side of the tracks or a stairway from Beacon Street. Waban is not accessible.",
+    "The Dallas Municipal Building is a Dallas Landmark located along S. Harwood Street between Main and Commerce Street in the Main Street District of downtown Dallas, Texas that served as the city's fourth City Hall. The structure is also a Recorded Texas Historic Landmark and a contributing property in the Harwood Street Historic District, located across the street from Main Street Garden Park.",
+    "The Richmond area also has two railroad stations served by Amtrak. Each station receives regular service from north of Richmond including Washington, D.C., Philadelphia, and New York. The suburban Staples Mill Road Station is located on a major north-south freight line and receives all service to and from all points south including, Raleigh, Durham, Savannah, Newport News, Williamsburg and Florida. Richmond's only railway station located within the city limits, the historic Main Street Station, was renovated in 2004. As of 2010, the station only receives trains headed to and from Newport News and Williamsburg due to track layout. As a result, the Staples Mill Road station receives more trains and serves more passengers overall.",
+    "Mosaic Dallas, formerly Fidelity Union Life Insurance Building, is a residential development in the City Center District of downtown Dallas, Texas (USA), adjacent to Thanks-giving Square. The complex is located at 300 North Akard Street, across the street from DART's Akard Station, which serves its , and light rail lines.",
+    "Kipling GO Station is a GO Transit railway station along the Milton line rail corridor in the Greater Toronto Area, Ontario, Canada. It is located at 27 St. Albans Road in the Islington-City Centre West neighbourhood of Toronto (formerly Etobicoke), near Dundas Street. It is connected to the TTC's Kipling station on the Bloor-Danforth subway line which is right underneath it."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMain Street Station is located in Richmond, Virginia.\nVirginia is bordered by the Atlantic Ocean to the east.\nThe Puerto Rico Trench is located on the boundary between the Caribbean Sea and the Atlantic Ocean.\nThe Puerto Rico Trench has a maximum depth of 8,648 metres (28,373 ft) at Milwaukee Deep.\nMilwaukee Deep is the deepest point in the Atlantic Ocean.\nThe deepest part of the ocean near Virginia is the Puerto Rico Trench.\nThe deepest part of the ocean by the state where Main Street Station is located is the Puerto Rico Trench.\n<answer> Puerto Rico Trench",
+  "predicted_answer": "Puerto Rico Trench",
+  "claims": [
+    "Main Street Station is located in Richmond, Virginia",
+    "Virginia is bordered by the Atlantic Ocean to the east",
+    "The Puerto Rico Trench is located on the boundary between the Caribbean Sea and the Atlantic Ocean",
+    "The Puerto Rico Trench has a maximum depth of 8,648 metres (28,373 ft) at Milwaukee Deep",
+    "Milwaukee Deep is the deepest point in the Atlantic Ocean",
+    "The deepest part of the ocean near Virginia is the Puerto Rico Trench",
+    "The deepest part of the ocean by the state where Main Street Station is located is the Puerto Rico Trench"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Main Street Station is located in Richmond, Virginia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Virginia is bordered by the Atlantic Ocean to the east",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Puerto Rico Trench is located on the boundary between the Caribbean Sea and the Atlantic Ocean",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Puerto Rico Trench has a maximum depth of 8,648 metres (28,373 ft) at Milwaukee Deep",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Milwaukee Deep is the deepest point in the Atlantic Ocean",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The deepest part of the ocean near Virginia is the Puerto Rico Trench",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The deepest part of the ocean by the state where Main Street Station is located is the Puerto Rico Trench",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

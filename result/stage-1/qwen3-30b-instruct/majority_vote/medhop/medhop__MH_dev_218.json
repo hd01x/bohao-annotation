@@ -1,0 +1,249 @@
+{
+  "uid": "medhop__MH_dev_218",
+  "sample_id": "MH_dev_218",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00073\", \"DB00181\", \"DB02424\", \"DB03758\", \"DB03886\", \"DB04970\", \"DB05095\", \"DB06155\", and \"DB08439\" interacts with DB06643?",
+  "gold_answer": "DB00073",
+  "context": [
+    "DB06643 -- an emerging treatment for postmenopausal osteoporosis . IMPORTANCE OF THE FIELD : Osteoporosis is a common skeletal disease that is associated with an imbalance in bone remodeling . DB06643 is an investigational fully human monoclonal antibody to receptor activator of NF-kappaB ligand ( O14788 ) , a cytokine member of the P01375 family that is the principal mediator of osteoclastic bone resorption . AREAS COVERED IN THIS REVIEW : The efficacy and safety of denosumab in the management of postmenopausal osteoporosis is evaluated by reviewing the published literature and presentations at scientific meetings through 2009 . WHAT THE READER WILL GAIN : This review focuses on the data on fracture risk reduction and safety endpoints of denosumab in the treatment of postmenopausal osteoporosis . TAKE HOME MESSAGE : In postmenopausal women with osteoporosis , denosumab ( 60 mg by subcutaneous injection every 6 months ) increased bone mineral density , reduced bone turnover markers , and reduced the risk of vertebral , hip and non-vertebral fractures . DB06643 was well tolerated with a safety profile generally similar to placebo . It is a promising emerging drug for the prevention and treatment of postmenopausal osteoporosis .",
+    "Synergistic inhibition of human colon cancer cell growth by the cannabinoid P21554 receptor antagonist rimonabant and oxaliplatin . DB06155 ( SR141716 ) , a highly selective cannabinoid receptor antagonist , exerts along with its anti-obesity action , pleiotropic functions affecting a broad range of diseases , from obesity-related co-morbidities to drug dependence and cancer . Several studies suggested an anti-tumour activity of rimonabant in several in vitro and in vivo models . In this study , we compared the anti-proliferative effect of SR141716 in the human colon cancer cell line DLD-1 with oxaliplatin , one of the cytotoxic drugs currently used in the treatment of colorectal cancer . We show that SR141716 inhibits DLD-1 cell proliferation similarly to oxaliplatin and if administered in combination SR141716 potentiated the inhibitory effect caused by oxaliplatin . Assessment of drug interaction was performed calculating combination index that showed a strong synergistic effect between the two drugs added to cells in combination . Our findings suggest that the combined synergic effect of SR141716 and oxaliplatin improves the blocking of colon cancer cell proliferation . Therefore , this combination merits further explorations in preclinical and clinical settings .",
+    "DB03758 -sensitive peptide binding to the N-terminal portion of P14625 . P14625 is a molecular chaperone that carries immunologically relevant peptides from cell to cell , transferring them to major histocompatibility proteins for presentation to T cells . Here we examine the binding of several peptides to recombinant P14625 and study the regulation and site of peptide binding . We show that P14625 contains a peptide-binding site in its N-terminal 355 amino acids . A number of peptides bind to this site with low on- and off-rates and with specificity that is distinct from that of another endoplasmic reticulum chaperone , P11021 / P11021 . Binding to the N-terminal fragment is sufficient to account for the peptide binding activity of the entire molecule . Peptide binding is inhibited by radicicol , a known inhibitor of the chaperone activities of HSP90-family proteins . However , the peptide-binding site is distinct from the radicicol-binding pocket , because both can bind to the N-terminal fragment simultaneously . Furthermore , peptide binding does not cause the same conformational change as does binding of radicicol . When the latter binds to the N-terminal domain , it induces a conformational change in the downstream , acidic domain of P14625 , as measured by altered gel mobility and loss of an antibody epitope . These results relate the peptide-binding activity of P14625 to its other function as a chaperone .",
+    "Signal transducer and activator of transcription 5 as a key signaling pathway in normal mammary gland developmental biology and breast cancer . P42229 consists of two proteins , P42229 /B , that impact mammary cell differentiation , proliferation , and survival . In normal development , P42229 expression and activity are regulated by prolactin signaling with O60674 / Q9UKW6 , P01133 signaling networks that include c-Src , and growth hormone , insulin growth factor , estrogen , and progesterone signaling pathways . In cancer , erythropoietin signaling can also regulate P42229 . Activation levels are influenced by AKT , caveolin , Q99490 -A , Pak1 , c-Myb , Brk , beta-integrin , dystroglycan , other STATs , and P35610 pathway molecules P23458 , Q06124 , and Q9NSE2 . TGF-β and P43378 can downregulate prolactin- and P01133 -mediated P42229 activation , respectively . IGF , AKT , O14788 , cyclin D1 , P41182 , and P07900 lie downstream of P42229 .",
+    "DB00073 -dependent cytotoxicity by natural killer cells : influence of P08637 polymorphism on the concentration-effect relationship . The P08637 gene dimorphism generates two allotypes : FcgammaRIIIa-158V and FcgammaRIIIa-158F . The genotype homozygous for FcgammaRIIIa-158V ( VV ) is associated with higher clinical response to rituximab , a chimeric anti- P11836 IgG1 used in the treatment of B lymphoproliferative malignancies . Our objective was to determine whether this genetic association relates to rituximab-dependent cytotoxicity mediated by FcgammaRIIIa/CD16a+ cells . The number of CD16+ circulating monocytes , T cells , and natural killer ( NK ) cells in 54 donors was first shown to be unrelated to P08637 polymorphism . We then demonstrated that FcgammaRIIIa-158V displays higher affinity for rituximab than FcgammaRIIIa-158F by comparing rituximab concentrations inhibiting the binding of 3G8 mAb ( anti-CD16 ) with VV NK cells and NK cells homozygous for FcgammaRIIIa-158F ( FF ) . VV and FF NK cells killed Daudi cells similarly after FcgammaRIIIa engagement by saturating concentrations of rituximab or 3G8 . However , the rituximab concentration resulting in 50 % lysis ( EC(50) ) observed with NK cells from VV donors was 4.2 times lower than that observed with NK cells from FF donors ( on average 0.00096 and 0.00402 microg/ml , respectively , P = 0.0043 ) . Finally , the functional difference between VV and FF NK cells was restricted to rituximab concentrations weakly sensitizing P11836 . This study supports the conclusion that P08637 genotype is associated with response to rituximab because it affects the relationship between rituximab concentration and NK cell-mediated lysis of P11836 + cells . DB00073 administration could therefore be adjusted according to P08637 genotype .",
+    "DB06643 for joints and bones . DB06643 is an investigational , fully human monoclonal antibody with a high affinity and specificity for receptor activator of nuclear factor kappaB ligand ( O14788 ) , a cytokine member of the tumor necrosis factor family . O14788 , an essential mediator of osteoclast formation , function , and survival , plays a major role in the pathogenesis of postmenopausal osteoporosis , structural damage in rheumatoid arthritis , and bone loss associated with other skeletal disorders . DB06643 suppresses bone turnover by inhibiting the action of O14788 on osteoclasts . DB06643 reduces bone turnover and increases bone mineral density in postmenopausal women with low bone mineral density , reduces fracture risk in women with postmenopausal osteoporosis , and inhibits structural damage in patients with rheumatoid arthritis when added to ongoing methotrexate treatment . It is generally well tolerated , with a good safety profile . Adverse and serious adverse events , including infections and malignancy , are similar in patients treated with denosumab or placebo .",
+    "Detection and quantification of cimicoxib , a novel P35354 inhibitor , in canine plasma by HPLC with spectrofluorimetric detection : development and validation of a new methodology . DB05095 ( CX ) is a selective P35354 inhibitor recently launched on the veterinary market . No analytical method to detect CX in biological samples has been published to date . The chromatographic separation was performed with a Kinetex C18 analytical column ( 100 mm × 4.6 mm , 2.6 μm particle size ) at 25 °C . The mobile phase consisted of acetonitrile:buffer ( 10 mM AcONH4 , pH 4.5 ) ( 35:65 , v/v ) at a flow rate of 1 mL/min . Excitation and emission wavelengths were 268 and 430 nm , respectively . The extraction used 500 μL of plasma added to 100 μL of IS ( 5 μg/mL ) and 100 μL of 10 % CF3COOH , extracted with 600 μL of C2H2:Et2O ( 3:7 , v/v ) . The organic phase was evaporated and reconstituted with 200 μL of mobile phase . The CX recovery ranged from 74.5 % to 82.6 % . The limit of quantification was 25 ng mL(-1) . The chromatographic runs were specific with no interfering peaks at the retention times of the analytes , as confirmed by HPLC-mass spectrometry experiments . The other validation parameters were in agreement with the international guidelines . The method was successfully tested on two dogs treated at two dose rates . It facilitated tracking of the plasma concentration for 24h and calculation of the main pharmacokinetic parameters . In conclusion , this method ( extraction , separation and applied techniques ) is simple , effective and specific . This is the first time that a method for the quantification of CX in plasma has been reported . This technique may have applications for further pharmacokinetic studies .",
+    "Stimulation of host bone marrow stromal cells by sympathetic nerves promotes breast cancer bone metastasis in mice . Bone and lung metastases are responsible for the majority of deaths in patients with breast cancer . Following treatment of the primary cancer , emotional and psychosocial factors within this population precipitate time to recurrence and death , however the underlying mechanism(s) remain unclear . Using a mouse model of bone metastasis , we provide experimental evidence that activation of the sympathetic nervous system , which is one of many pathophysiological consequences of severe stress and depression , promotes MDA-231 breast cancer cell colonization of bone via a neurohormonal effect on the host bone marrow stroma . We demonstrate that induction of O14788 expression in bone marrow osteoblasts , following β2AR stimulation , increases the migration of metastatic MDA-231 cells in vitro , independently of P48061 - P61073 signaling . We also show that the stimulatory effect of endogenous ( chronic stress ) or pharmacologic sympathetic activation on breast cancer bone metastasis in vivo can be blocked with the β-blocker propranolol , and by knockdown of Q9Y6Q6 expression in MDA-231 cells . These findings indicate that O14788 promotes breast cancer cell metastasis to bone via its pro-migratory effect on breast cancer cells , independently of its effect on bone turnover . The emerging clinical implication , supported by recent epidemiological studies , is that βAR-blockers and drugs interfering with O14788 signaling , such as DB06643 , could increase patient survival if used as adjuvant therapy to inhibit both the early colonization of bone by metastatic breast cancer cells and the initiation of the \" vicious cycle \" of bone destruction induced by these cells .",
+    "[ DB02424 administration reduces the number of P07900 -positive germ cells in the mouse embryo : preliminary results ] . 5 mg of DB02424 , an inhibitor of stress protein P07900 which express on mammalian germ cells , were administered to E8 pregnant mice . E17 embryos were removed , and a quantitative analysis of HSP90-immunoreactive cells in the gonad was performed , in comparison to control embryos . First , we observed that the number of germ cells is lower in male than in female embryos , as well in control and experimental embryos . External features of experimental and control embryos did not display any difference . Embryos exposed to geldanamycin exhibit a significant decrease of immunoreactive germ cells . In two embryos , we observed a group of ectopic immunoreactive cells in the pelvic area . We conclude that geldanamycin inhibits germ cells migration , and suggest that this inhibition can lead to ectopic germ cell populations , similar to teratomas .",
+    "P08637 -158 polymorphism influences the biological response to infliximab in Crohn 's disease through affecting the ADCC activity . An association between P08637 -158 V/F polymorphism and biological responses to infliximab has been reported in Crohn 's disease ( CD ) in Western countries . However , little is known about the mechanism by which gene polymorphism affects the responses to infliximab . The aims of this study were to confirm the association in Japanese CD patients and to reveal the effect of gene polymorphism on biological responses to infliximab . Japanese CD patients were examined retrospectively at weeks 8 and 30 . Clinical and biological responses were assessed by the Crohn 's disease activity index and P02741 levels , respectively . The infliximab-binding affinity of natural killer ( NK ) cells from P08637 -158 V/V , V/F and F/F donors was examined . DB00065 -mediated antibody-dependent cell-mediated cytotoxicity ( ADCC ) activities were also determined using transmembrane P01375 -α-expressing Jurkat T cells as target cells and peripheral blood mononuclear cells ( PBMCs ) from V/V , V/F and F/F donors as effector cells . Biological responses at week 8 were statistically higher in V/V patients , whereas no significant differences were observed in either clinical responses at weeks 8 and 30 or biological responses at week 30 among the three genotypes . NK cells and PBMCs from V/V patients also showed higher infliximab-binding affinity and infliximab-mediated ADCC activity , respectively . Our results suggest that P08637 -158 polymorphism is a predicting factor of biological responses to infliximab in the early phases . P08637 -158 polymorphism was also found to affect the infliximab-binding affinity of NK cells and infliximab-mediated ADCC activity in vitro , suggesting that an effect on ADCC activity influences biological responses to infliximab in CD patients .",
+    "Identification of cell surface targets for HIV-1 therapeutics using genetic screens . Human immunodeficiency virus ( HIV ) drugs designed to interfere with obligatory utilization of certain host cell factors by virus are less likely to encounter development of resistant strains than drugs directed against viral components . Several cellular genes required for productive infection by HIV were identified by the use of genetic suppressor element ( GSE ) technology as potential targets for anti-HIV drug development . Fragmented cDNA libraries from various pools of human peripheral blood mononuclear cells ( PBMC ) were expressed in vitro in human immunodeficiency virus type 1 ( HIV-1 ) -susceptible cell lines and subjected to genetic screens to identify GSEs that interfered with viral replication . After three rounds of selection , more than 15000 GSEs were sequenced , and the cognate genes were identified . The GSEs that inhibited the virus were derived from a diverse set of genes including cell surface receptors , cytokines , signaling proteins , transcription factors , as well as genes with unknown function . Approximately 2.5 % of the identified genes were previously shown to play a role in the HIV-1 life cycle ; this finding supports the biological relevance of the assay . GSEs were derived from the following 12 cell surface proteins : P61073 , CCR4 , P32248 , P20702 , P16070 , Q08722 , P34810 , Q07108 , P04233 , Q99062 , Q9UBS5 , and P20333 . Requirement of some of these genes for viral infection was also investigated by using RNA interference ( RNAi ) technology ; accordingly , 10 genes were implicated in early events of the viral life cycle , before viral DNA synthesis . Thus , these cell surface proteins represent novel targets for the development of therapeutics against HIV-1 infection and AIDS .",
+    "Effects of lesopitron on the central nervous system arising from its interaction with P08908 receptors . DB04970 acts as a ligand for central serotonin P08908 receptors . Ki obtained from [3H]8-OH-DPAT competition studies was 104.8 +/- 10.6 nmol/l . As lesopitron did not affect the binding of [3H]paroxetine , involvement of the serotonin reuptake system in the effects of lesopitron is rejected . DB04970 inhibits haloperidol-induced catalepsy that is the consequence of its action on P08908 autoreceptors . The ability of lesopitron to induce 5-HT syndrome reflects post-synaptic P08908 receptor activation and the reversion of 8-OHDPAT-induced 5-HT syndrome by lesopitron suggests a partial agonist effect on this receptor-type . DB04970 induced a hypothermic effect due to the enhanced activation of post-synaptic P08908 receptors . The agonist effect of lesopitron on P08908 receptors and its marked hypothermic effect is an added value for this drug and a stimulus to the study of its possible neuroprotective action .",
+    "Alterations in molecular chaperones and eIF2alpha during lung endothelial cell apoptosis . We have previously demonstrated that inhibition of CAAX carboxyl methylation with AGGC caused redistribution and condensation of the ER molecular chaperones , glucose-regulated protein ( GRP ) -94 and calnexin ; an effect that was attenuated by overexpression of dominant active RhoA . We have also shown that AGGC decreased P14625 protein level ; an effect that was dependent on caspase activity . In the present study , we tested the effects of inhibition of posttranslational processing of CAAX proteins on localization and protein levels of molecular chaperones and phosphorylation and protein level of eIF2alpha . We found that both AGGC , which inhibits CAAX carboxyl methylation , and simvastatin , which inhibits CAAX geranylgeranylation , caused relocalization of P14625 , calnexin , and calreticulin , effects that were not seen during endothelial apoptosis induced by P01375 or ultraviolet ( UV ) irradiation . These results suggest that posttranslational processing of CAAX proteins is important in maintaining localization of molecular chaperones normally found in the ER . We also noted that AGGC , but not simvastatin , P01375 , or UV irradiation , decreased protein levels of most molecular chaperones . Increased eIF2alpha phosphorylation was observed in the early stages of apoptosis , which was independent of the cause of apoptosis . These results suggest that eIF2alpha phosphorylation is a common early response to apoptosis-inducing stimuli . Interestingly , eIF2alpha protein level was decreased in the late stages of apoptosis induced by AGGC , P01375 , and UV irradiation : an effect that was prevented by caspase inhibition . Thus we speculate that caspase(s)-dependent proteolysis of molecular chaperones and eIF2alpha may be novel signaling pathways of apoptosis . We also speculate that increased eIF2alpha phosphorylation is a defensive response against endothelial cell apoptosis .",
+    "Constitutive cyclo-oxygenase-2 does not contribute to the development of human visceral pain hypersensitivity . BACKGROUND AND AIMS : Central sensitisation ( CS ) , contributes to the development and maintenance of gastrointestinal pain hypersensitivity . Constitutive cyclo-oxygenase-2 ( P35354 ) contributes to central sensitisation in somatic pain hypersensitivity but its role in mediating visceral pain hypersensitivity is unknown . We therefore conducted a study to determine if P35354 inhibition with DB00580 attenuates the development or early maintenance of CS in a validated human oesophageal pain hypersensitivity model . METHODS : Healthy volunteers were studied in two randomised , double blind , crossover studies in which pain thresholds ( PT ) to electrical stimulation were assessed in the proximal oesophagus , chest wall and foot , prior to and following a distal oesophageal acid infusion . Protocol 1 : DB00580 , ( 40 mg ) or matching placebo was given orally for 4 days prior to oesophageal acid infusion . Protocol 2 : IV DB08439 ( 40 mg ) or saline was given 120 min after oesophageal acid infusion . RESULTS : DB00580 did not prevent the induction of secondary allodynia in the proximal oesophagus nor did it attenuate it following its establishment . Chest wall PT fell following oesophageal acid but foot PT remained unchanged ; highlighting the development viscero-somatic convergence due to CS . DB00580 had no analgesic or anti-hyperalgesic effect on chest wall or foot PT . CONCLUSIONS : Neither the induction nor initial maintenance of acid induced oesophageal pain hypersensitivity is prevented by DB00580 , suggesting that constitutive spinal P35354 does not contribute to the development or early maintenance of acute visceral central sensitisation .",
+    "Panaxatriol saponin ameliorated liver injury by acetaminophen via restoring thioredoxin-1 and pro-caspase-12 . BACKGROUND & AIMS : Acetaminophen ( DB00316 ) is widely used as an antipyretic agent which is safe at therapeutic doses . However , overdose of DB00316 induces fatal and non-fatal hepatic necroses . The chemical reactive metabolites of DB00316 initiate toxicity and inflammatory response within the liver and lead to acute liver failure . However , the mechanism underlying DB00316 -induced liver injury is unknown . P10599 -1 ( TRX-1 ) is an important redox regulator , which plays roles in resisting oxidative stress , regulating inflammation and inhibiting apoptosis . Panaxatriol saponin ( Q03393 ) is one of the biologically active fractions of Panax notoginseng which is a traditional Chinese medicine . The aim of this study was to investigate the mechanism on Q03393 protecting liver from DB00316 hepatotoxicity . METHODS : Mice were divided into three groups , control group , DB00316 group and DB00316 combined with Q03393 group . DB00160 aminotransferase ( ALT ) and tumour necrosis factor-alpha ( P01375 -α ) were detected by ELISA . TRX-1 and pro-caspase-12 were examined by Western blotting . RESULTS : Our results showed Q03393 inhibited the levels of ALT and P01375 -α by DB00316 . Pretreatment with Q03393 ameliorated liver injury induced by DB00316 . The decrease in TRX-1 expression was restored by Q03393 , as well as decreased pro-caspase-12 expression was inhibited by Q03393 . These data suggest that Q03393 has roles in suppressing the hepatotoxicity by DB00316 . CONCLUSION : Panaxatriol saponin ameliorated liver injury by DB00316 through restoring the expression TRX-1 and inhibiting pro-caspase-12 decrease .",
+    "Molecular identification of the human O75899 : cell surface expression and coupling to adenylyl cyclase in the absence of Q9UBS5 . We have identified a gene encoding a GABAB receptor , the human O75899 , located on chromosome 9q22.1 , that is distinct from the recently reported rat Q9UBS5 . O75899 structurally resembles Q9UBS5 ( 35 % identity ) , having seven transmembrane domains and a large extracellular region , but differs in having a longer carboxy-terminal tail . O75899 is localized to the cell surface in transfected COS cells , and negatively couples to adenylyl cyclase in response to GABA , baclofen , and 3-aminopropyl(methyl)phosphinic acid in CHO cells lacking Q9UBS5 . DB00181 action is inhibited by the GABABR antagonist , 2-hydroxysaclofen . The human O75899 and Q9UBS5 genes are differentially expressed in the nervous system , with the greatest difference being detected in the striatum in which Q9UBS5 but not O75899 mRNA transcripts are detected . O75899 and Q9UBS5 mRNAs are also coexpressed in various brain regions such as the Purkinje cell layer of the cerebellum . Identification of a functional homomeric O75899 coupled to adenylyl cyclase suggests that the complexity of GABAB pharmacological data is at least in part due to the presence of more than one receptor and opens avenues for future research leading to an understanding of metabotropic GABA receptor signal transduction mechanisms .",
+    "Boosting the sampling efficiency of q-Ball imaging using multiple wavevector fusion . q-Ball imaging ( QBI ) is a high-angular-resolution diffusion imaging ( HARDI ) method that is capable of resolving complex , subvoxel white matter ( WM ) architecture . QBI requires time-intensive sampling of the diffusion signal and large diffusion wavevectors . Here we describe a reconstruction scheme for QBI , termed multiple wavevector fusion ( MWF ) , that substantially boosts the sampling efficiency and signal-to-noise ratio ( SNR ) of QBI . The MWF reconstruction operates by nonlinearly fusing the diffusion signal from separate low and high wavevector acquisitions . The combination of wavevectors provides the benefits of the high SNR of the low wavevector signal and the high angular contrast-to-noise ratio ( P21554 ) and peak separation of the high wavevector signal . The MWF procedure provides a framework for combining diffusion tensor imaging ( DTI ) and QBI . Numerical simulations show that MWF of DTI and QBI provides a more accurate estimate of the diffusion orientation distribution function ( O14788 ) than QBI alone . The accuracy improvement can be translated into an efficiency gain of 274-377 % . An intravoxel peak connectivity metric ( IPCM ) is presented that calculates the peak connectivity between an O14788 and its neighboring voxels . In human WM , MWF reveals more detailed WM architecture than QBI as measured by the IPCM for all sampling schemes presented .",
+    "Anti-stress effect of astragaloside IV in immobilized mice . ETHNOPHARMACOLOGICAL RELEVANCE : Astragaloside IV , a major component extracted from the roots of Astragalus membranaceus ( AM ) , possesses anti-inflammatory , anti-oxidative , anti-fibrotic , anti-infarction and immunoregulatory effects . To clarify anti-stress effect of AM , anxiolytic and anti-inflammatory effects of 80 % ethanol extract of AM and astragaloside IV were investigated in immobilization stress model . MATERIALS AND METHODS : The mice were orally administered with AM ( 50 , 200 , and 500 mg/kg ) , astragaloside IV ( 5 , 10 , and 20 mg/kg ) and buspirone , a positive drug , 1h before immobilization treated for 2h . For anxiolytic activity assay , EPM test was performed in mice . For anti-inflammatory activity assay , serum levels of corticosterone , P05231 and P01375 -α were measured using ELISA kits . RESULTS : AM extract and astragaloside IV increased dose-dependently time spent on open arms and open arm entries in the EPM test . Anxiolytic effects of AM extract ( 500 mg/kg ) and astragaloside IV ( 20 mg/kg ) were comparable to those of buspirone ( 1 mg/kg ) . Their anxiolytic effects were blocked by WAY-100635 ( 0.5 mg/kg , i.p. ) , a P08908 receptor antagonist ( p < 0.01 ) , but not by flumazenil ( 3 mg/kg , i.p. ) and bicuculline ( 0.5 mg/kg , i.p. ) , GABAA receptor antagonists . AM extract and astragaloside IV also reduced serum levels of corticosterone , P05231 and P01375 -α dose-dependently . CONCLUSIONS : AM , particularly astragaloside IV , may ameliorate immobilized stress-induced anxiety and inflammation .",
+    "Interactive effect of interleukin-6 and prostaglandin E2 on osteoclastogenesis via the O00300 / O14788 / Q9Y6Q6 system . The O00300 / O14788 / Q9Y6Q6 system regulates osteoclastogenesis . Both cyclooxygenase-2 ( P35354 ) /prostaglandin E2 ( DB00917 ) and interleukin-6 ( P05231 ) are reported to induce osteoclast differentiation . The mechanisms underlying these signaling pathways on the O00300 / O14788 / Q9Y6Q6 system are not fully understood . We herein demonstrate that P35354 and DB00917 stimulated osteoclastogenesis through inhibition of O00300 secretion , stimulation of O14788 production by osteoblasts , and upregulation of Q9Y6Q6 expression in osteoclasts . DB00917 also stimulated P05231 production , and P05231 , in turn , increased DB00917 secretion , P35354 , and EP4/EP2 expression in bone cells . These findings provide evidence of interactive effect of DB00917 and P05231 signaling pathways in osteoclastogenesis via effect on the O00300 / O14788 / Q9Y6Q6 system .",
+    "DB03886 -dependent hyperphenylalaninemia due to deficiency of 6-pyruvoyl tetrahydropterin synthase . We describe the clinical , neurologic , and biochemical findings in 10 patients with 6-pyruvoyl tetrahydropterin synthase ( 6- Q03393 ) deficiency from seven families , all of whom originate from one large tribe in Saudi Arabia . This deficiency presents with severe , early onset of failure to thrive , neurologic deterioration , and morbidity and mortality secondary to repeated episodes of bronchopneumonia or cardiorespiratory abnormalities . The urinary pterin excretion pattern indicates deficient activity of 6- Q03393 , which has been confirmed by direct enzyme assay in red blood cells of three patients . We treated our patients with combined use of tetrahydrobiopterin 20 mg/kg/d , L-dihydroxyphenylalanine 15 mg/kg/d , carbidopa 3.75 mg/kg/d , and L-5-hydroxytryptophan 5 mg/kg/d . Neurologic findings improved significantly in all after 5 to 24 months . Although head circumference and weight returned to the lower limit of normal in four , height normalized only in one of seven patients . Despite an unrestricted diet during combined therapy , blood phenylalanine and urinary excretion of neopterin and biopterin returned to normal ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB06643 is an investigational fully human monoclonal antibody targeting receptor activator of NF-kappaB ligand (O14788).\nO14788 is a cytokine member of the tumor necrosis factor family and a key mediator of osteoclast formation and bone resorption.\nDB06643 inhibits O14788 activity, thereby suppressing bone turnover and reducing fracture risk in postmenopausal osteoporosis.\nDB06643 is also known as denosumab, a drug that binds directly to O14788.\nDB06155 (rimonabant) is a cannabinoid receptor antagonist that affects cancer cell proliferation and interacts with oxaliplatin.\nDB05095 (cimicoxib) is a selective P35354 inhibitor used in veterinary medicine.\nDB00073 is associated with rituximab-dependent cytotoxicity and P08637 polymorphism.\nDB04970 (lesopitron) acts on serotonin P08908 receptors.\nDB02424 inhibits stress protein P07900 in mouse embryos.\nDB03758 is a peptide that binds to the N-terminal portion of P14625.\nDB03886 is linked to 6-pyruvoyl tetrahydropterin synthase deficiency.\nDB00181 is a GABAB receptor antagonist that inhibits the action of O75899.\nNo direct interaction between DB06643 and any of the listed compounds (DB00073, DB00181, DB02424, DB03758, DB03886, DB04970, DB05095, DB06155, DB08439) is described in the text.\nThe only known interaction for DB06643 is with O14788.\nDB06643 does not interact with DB00073.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB06643 is an investigational fully human monoclonal antibody targeting receptor activator of NF-kappaB ligand (O14788)",
+    "O14788 is a cytokine member of the tumor necrosis factor family and a key mediator of osteoclast formation and bone resorption",
+    "DB06643 inhibits O14788 activity, thereby suppressing bone turnover and reducing fracture risk in postmenopausal osteoporosis",
+    "DB06643 is also known as denosumab, a drug that binds directly to O14788",
+    "DB06155 (rimonabant) is a cannabinoid receptor antagonist that affects cancer cell proliferation and interacts with oxaliplatin",
+    "DB05095 (cimicoxib) is a selective P35354 inhibitor used in veterinary medicine",
+    "DB00073 is associated with rituximab-dependent cytotoxicity and P08637 polymorphism",
+    "DB04970 (lesopitron) acts on serotonin P08908 receptors",
+    "DB02424 inhibits stress protein P07900 in mouse embryos",
+    "DB03758 is a peptide that binds to the N-terminal portion of P14625",
+    "DB03886 is linked to 6-pyruvoyl tetrahydropterin synthase deficiency",
+    "DB00181 is a GABAB receptor antagonist that inhibits the action of O75899",
+    "No direct interaction between DB06643 and any of the listed compounds (DB00073, DB00181, DB02424, DB03758, DB03886, DB04970, DB05095, DB06155, DB08439) is described in the text",
+    "The only known interaction for DB06643 is with O14788",
+    "DB06643 does not interact with DB00073"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB06643 is an investigational fully human monoclonal antibody targeting receptor activator of NF-kappaB ligand (O14788)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "O14788 is a cytokine member of the tumor necrosis factor family and a key mediator of osteoclast formation and bone resorption",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB06643 inhibits O14788 activity, thereby suppressing bone turnover and reducing fracture risk in postmenopausal osteoporosis",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB06643 is also known as denosumab, a drug that binds directly to O14788",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB06155 (rimonabant) is a cannabinoid receptor antagonist that affects cancer cell proliferation and interacts with oxaliplatin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB05095 (cimicoxib) is a selective P35354 inhibitor used in veterinary medicine",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00073 is associated with rituximab-dependent cytotoxicity and P08637 polymorphism",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB04970 (lesopitron) acts on serotonin P08908 receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB02424 inhibits stress protein P07900 in mouse embryos",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB03758 is a peptide that binds to the N-terminal portion of P14625",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB03886 is linked to 6-pyruvoyl tetrahydropterin synthase deficiency",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00181 is a GABAB receptor antagonist that inhibits the action of O75899",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "No direct interaction between DB06643 and any of the listed compounds (DB00073, DB00181, DB02424, DB03758, DB03886, DB04970, DB05095, DB06155, DB08439) is described in the text",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "The only known interaction for DB06643 is with O14788",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB06643 does not interact with DB00073",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

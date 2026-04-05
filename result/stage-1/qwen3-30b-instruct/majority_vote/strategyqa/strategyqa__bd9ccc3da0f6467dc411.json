@@ -1,0 +1,122 @@
+{
+  "uid": "strategyqa__bd9ccc3da0f6467dc411",
+  "sample_id": "bd9ccc3da0f6467dc411",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Fiat Chrysler associated with Japanese cars?",
+  "gold_answer": "no",
+  "context": [
+    "Fiat Chrysler is composed of the two merged automobile companies Fiat and Chrysler.",
+    "Fiat is an Italian company with headquarters in Amsterdam.",
+    "Chrysler is based in the United States of America.",
+    "Together they own 10 car brands but none are Asian in origin."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFiat Chrysler is formed by the merger of Fiat and Chrysler.\nFiat is an Italian company headquartered in Amsterdam.\nChrysler is a company based in the United States of America.\nFiat Chrysler owns 10 car brands.\nNone of the 10 car brands owned by Fiat Chrysler are of Asian origin.\nJapanese cars are a subset of Asian-origin vehicles.\nFiat Chrysler is not associated with Japanese cars.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Fiat Chrysler is formed by the merger of Fiat and Chrysler",
+    "Fiat is an Italian company headquartered in Amsterdam",
+    "Chrysler is a company based in the United States of America",
+    "Fiat Chrysler owns 10 car brands",
+    "None of the 10 car brands owned by Fiat Chrysler are of Asian origin",
+    "Japanese cars are a subset of Asian-origin vehicles",
+    "Fiat Chrysler is not associated with Japanese cars"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Fiat Chrysler is formed by the merger of Fiat and Chrysler",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Fiat is an Italian company headquartered in Amsterdam",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Chrysler is a company based in the United States of America",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Fiat Chrysler owns 10 car brands",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "None of the 10 car brands owned by Fiat Chrysler are of Asian origin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Japanese cars are a subset of Asian-origin vehicles",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Fiat Chrysler is not associated with Japanese cars",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__c39d1e6ffbca58600a38",
+  "sample_id": "c39d1e6ffbca58600a38",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is the United States Capitol located near the White House?",
+  "gold_answer": "yes",
+  "context": [
+    "The Capitol building is located at one end of the National Mall in downtown Washington DC.",
+    "The White House is located next to the Washington Monument a short way down from the Mall."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe United States Capitol is located at one end of the National Mall in Washington DC.\nThe White House is located next to the Washington Monument, a short distance down from the National Mall.\nThe National Mall connects the Capitol to the White House via a central axis.\nThe distance between the Capitol and the White House is approximately 1.6 miles.\n1.6 miles is considered a short distance in urban terms.\nThe United States Capitol is located near the White House.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The United States Capitol is located at one end of the National Mall in Washington DC",
+    "The White House is located next to the Washington Monument, a short distance down from the National Mall",
+    "The National Mall connects the Capitol to the White House via a central axis",
+    "The distance between the Capitol and the White House is approximately 1.6 miles",
+    "1.6 miles is considered a short distance in urban terms",
+    "The United States Capitol is located near the White House"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The United States Capitol is located at one end of the National Mall in Washington DC",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The White House is located next to the Washington Monument, a short distance down from the National Mall",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The National Mall connects the Capitol to the White House via a central axis",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The distance between the Capitol and the White House is approximately 1.6 miles",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1.6 miles is considered a short distance in urban terms",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The United States Capitol is located near the White House",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

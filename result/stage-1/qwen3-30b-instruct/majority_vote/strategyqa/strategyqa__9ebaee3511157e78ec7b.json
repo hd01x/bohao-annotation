@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__9ebaee3511157e78ec7b",
+  "sample_id": "9ebaee3511157e78ec7b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Tony Bennett's middle name shared by a former UFC champion?",
+  "gold_answer": "yes",
+  "context": [
+    "Tony Bennett's full name is Anthony Dominick Benedetto.",
+    "Dominick Cruz is a two-time UFC Bantamweight Champion."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nTony Bennett's full name is Anthony Dominick Benedetto.\nHis middle name is Dominick.\nDominick Cruz is a former UFC Bantamweight Champion.\nDominick Cruz shares the middle name Dominick with Tony Bennett.\nThe former UFC champion who shares Tony Bennett's middle name is Dominick Cruz.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Tony Bennett's full name is Anthony Dominick Benedetto",
+    "His middle name is Dominick",
+    "Dominick Cruz is a former UFC Bantamweight Champion",
+    "Dominick Cruz shares the middle name Dominick with Tony Bennett",
+    "The former UFC champion who shares Tony Bennett's middle name is Dominick Cruz"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Tony Bennett's full name is Anthony Dominick Benedetto",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "His middle name is Dominick",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Dominick Cruz is a former UFC Bantamweight Champion",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Dominick Cruz shares the middle name Dominick with Tony Bennett",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The former UFC champion who shares Tony Bennett's middle name is Dominick Cruz",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "uid": "medhop__MH_dev_326",
+  "sample_id": "MH_dev_326",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00138\", \"DB01045\", \"DB01269\", \"DB01427\", \"DB02342\", \"DB02950\", \"DB04982\", \"DB06243\", and \"DB09078\" interacts with DB00203?",
+  "gold_answer": "DB01045",
+  "context": [
+    "Fifteen-year quest for microphthalmia-associated transcription factor target genes . O75030 ( O75030 ) was initially shown to play a key role in melanocyte differentiation through the direct transcriptional control of TYROSINASE , P17643 and P40126 genes , encoding the three enzymes involved in melanin synthesis or melanogenesis . Sixteen years after the first description of O75030 , more than 40 direct O75030 target genes have been described . They play a key role in melanocyte , osteoclast and mast cell specific functions . Furthermore , several O75030 target genes , e.g. P10415 , P24941 , P38936 , CDKN2A , MET and Q16665 , link O75030 to general cellular processes such as growth or survival . In this review , we provide an overview of the O75030 -regulated genes . We pay special attention to the O75030 target genes in melanocytes and raise questions about target specificity .",
+    "Mechanism of inhibition of the P42262 AMPA receptor channel opening by talampanel and its enantiomer : the stereochemistry of the 4-methyl group on the diazepine ring of 2,3-benzodiazepine derivatives . Stereoselectivity of 2,3-benzodiazepine compounds provides a unique way for the design of stereoisomers as more selective and more potent inhibitors as drug candidates for treatment of the neurological diseases involving excessive activity of AMPA receptors . Here we investigate a pair of enantiomers known as DB04982 and its ( + ) counterpart about their mechanism of inhibition and selectivity toward four AMPA receptor subunits or P42261 -4 . We show that DB04982 is the eutomer with the endismic ratio being 14 for the closed-channel and 10 for the open-channel state of P42262 . Kinetic evidence supports that DB04982 is a noncompetitive inhibitor and it binds to the same site for those 2,3-benzodiazepine compounds with the C-4 methyl group on the diazepine ring . This site , which we term as the \" M \" site , recognizes preferentially those 2,3-benzodiazepine compounds with the C-4 methyl group being in the R configuration , as in the chemical structure of DB04982 . Given that DB04982 inhibits P42261 and P42262 , but is virtually ineffective on the P42263 and P48058 AMPA receptor subunits , we hypothesize that the \" M \" site(s) on P42261 and P42262 to which DB04982 binds is different from that on P42263 and P48058 . If the molecular properties of the AMPA receptors and DB04982 are used for selecting an inhibitor as a single drug candidate for controlling the activity of all AMPA receptors in vivo , DB04982 is not ideal . Our results further suggest that addition of longer acyl groups to the N-3 position should produce more potent 2,3-benzodiazepine inhibitors for the \" M \" site .",
+    "DB00203 induces angiogenic response in human coronary arteriolar endothelial cells through the expression of thioredoxin , hemeoxygenase and vascular endothelial growth factor . This study was undertaken to investigate the effect of phosphodiesterase-5 ( O76074 ) inhibitor , sildenafil , on angiogenic response in human coronary arteriolar endothelial cells ( HCAEC ) . The cells exposed to sildenafil ( 1-20 microM ) demonstrated significantly accelerated tubular morphogenesis with the induction of thioredoxin-1 ( P10599 -1 ) , hemeoxygenase-1 ( P09601 ) and P15692 . DB00203 induced P15692 and angiopoietin specific receptors such as P35968 , Tie-1 and Tie-2 . This angiogenic response was repressed by tinprotoporphyrin IX ( SnPP ) , an inhibitor of P09601 enzyme activity . DB00203 below 1 muM has no angiogenic effect as evidenced by reduced tuborogenesis . DB00203 along with SnPP inhibited both P15692 and Q15389 ( Ang-1 ) protein expression . Therefore our results demonstrated for the first time that sildenafil is a very potent pro-angiogenic factor .",
+    "DB00203 inhibits calcineurin/ Q13469 -mediated cyclin A expression in pulmonary artery smooth muscle cells . AIMS : To examine whether calcineurin/NFAT signaling pathway leads to proliferation of pulmonary artery smooth muscle cells ( PASMCs ) by regulating cell cycle proteins and whether the phosphodiesterase-5 ( O76074 ) inhibitor sildenafil affects calcineurin/NFAT-induced cell proliferation . MAIN METHODS : A [(3)H]thymidine incorporation assay was used to examine DNA synthesis ( cell proliferation ) ; cyclin A and Q13469 expressions were determined by Western blot . P24941 ( P24941 ) activity was measured with an in vitro kinase activity assay , and calcineurin and NFAT activity were evaluated using a calcineurin assay kit and a luciferase activity assay , respectively . A chemical inhibitor or siRNA transfection was used to inhibit calcineurin/NFAT signaling pathway . KEY FINDINGS : Serotonin dose-dependently stimulated cyclin A expression in PASMCs . This effect was accompanied by dose-dependent increases in P24941 activity and the rate of DNA synthesis . At the same time , PASMCs treated with serotonin showed dose-dependent activation of calcineurin/NFAT signaling pathway . Inhibition of calcineurin activity by cyclosporine A or loss of Q13469 protein by siRNA transfection abolished serotonin-induced cyclin A expression and consequent P24941 activation and DNA synthesis . We further found that pretreatment of cells with sildenafil suppressed serotonin-triggered activation of calcineurin/ Q13469 signaling pathway and resultant cyclin A expression , P24941 activation and cell proliferation , while the presence of DT-3 [ a specific protein kinase G ( PKG ) peptide inhibitor ] reversed the effects of sildenafil on PASMCs . SIGNIFICANCE : Our study suggests that enhanced PKG activity suppresses calcineurin/ Q13469 cascade-mediated cyclin A expression , P24941 activation and PASMC proliferation to contribute to the overall effects of sildenafil in the treatment of pulmonary hypertension .",
+    "Evidence of drug-drug interactions through uptake and efflux transport systems in rat hepatocytes : implications for cellular concentrations of competing drugs . For drugs with hepatobiliary transport across hepatocytes , the interplay between uptake and efflux transporters determines hepatic concentrations of drugs , but the evolution over time of these concentrations is difficult to measure in humans other than with magnetic resonance imaging contrast agents in the liver . DB00743 dimeglumine ( BOPTA ) is a contrast agent used in liver magnetic resonance imaging that enters into human hepatocytes through organic anion transporting polypeptides ( P46721 ) and exits unchanged into bile through the multiple resistance-associated protein 2 ( Q92887 ) . DB01045 ( Q9HBH0 ) is transported by the same membrane proteins and may compete with BOPTA for hepatic uptake . Simultaneous drug-drug interactions through uptake and efflux transport systems in hepatocytes according to the cellular concentrations of competing drugs were never investigated . In perfused rat liver preparations , we demonstrate how the drug-drug interactions through transporters determine cellular concentrations of the competing drugs BOPTA and Q9HBH0 , and we show that the cellular concentrations by modulating transport through membranes regulate the rat Oatp-Mrp2 interplay . Moreover , drug interactions through transporters change greatly over time .",
+    "31P- P59665 measurements of extracellular pH of tumors using 3-aminopropylphosphonate . The extracellular pH ( pHex ) of tumors is generally acidic . However , it is only recently that noninvasive magnetic resonance spectroscopic ( P59665 ) measurements have determined that the intracellular pH ( pHin ) of tumor cells in situ is neutral or slightly alkaline compared with that of normal tissues . Thus cells in tumors maintain larger pH gradients than do cells in nontumor tissues . To date , measurements of pHex in tumors have been made using microelectrodes , which preclude measurement of pHex and pHin within the same preparation . In addition , microelectrodes are invasive and have the potential to alter the measured pH values . The present communication describes simultaneous measurement of pHex and pHin in vitro in bioreactor culture and in vivo using 31P- P59665 analyses of 3-aminopropylphosphonate ( 3- P05067 ) and inorganic phosphate . In vitro results indicate that 3- P05067 is not toxic and that its resonant frequency is sensitive to pH and not significantly affected by temperature or ionic strength . Bioreactor experiments indicate that this compound is neither internalized nor metabolized by cells . Experiments in vivo indicate that 3- P05067 can be administered intraperitoneally and that Q9HBH0 -1 tumors maintain a steady-state pHin of 7.25 and a pHex of 6.66 . These data have significance to basic tumor cell physiology and to the design of approaches to cancer chemotherapy and hyperthermic therapy , because both of these modalities exhibit pH sensitivity . It is also likely that these techniques will be applicable to localized P59665 of other organ systems in vivo .",
+    "The proto-oncogene c-myc blocks myeloid differentiation independently of its target gene ornithine decarboxylase . P11926 ( ODC ) , a rate-limiting enzyme of polyamine biosynthesis , has been shown to be required for entry into and progression through the cell cycle and to be a transcriptional target of the proto-oncogene , c-myc . We show that ODC transcripts and enzyme activity are down-regulated following induction of myeloid differentiation , using M1 myeloblastic leukemic cells and normal cells from bone marrow ( BM ) , and fail to be suppressed when c-myc expression is deregulated . In M1mycer cells , when endogenous c-myc expression has been suppressed following stimulation by interleukin-6 ( IL-60 ) , treatment with estrogen and cycloheximide results in induction of ODC transcripts . These data demonstrate that ODC is a c-myc target gene in M1 cells . It was of interest to determine whether deregulated ODC expression would alter the myeloid differentiation program . To answer this question , M1-ODC cell lines constitutively expressing ODC were established . These cells can undergo terminal differentiation and growth arrest following P05231 stimulation , exactly like parental M1 cells , demonstrating that deregulated ODC expression is not sufficient to block myeloid differentiation . Another question to be answered was whether ODC expression is necessary for the c-myc-mediated block in differentiation . The use of alpha-difluoromethylornithine ( DB06243 ) , an irreversible inhibitor of ODC enzyme activity , indicates that ODC is not necessary for the c-myc-mediated differentiation block .",
+    "DB01269 ( vectibix ) . DB01269 ( Vectibix ) , is a human monoclonal antibody P00533 antagonist indicated as a single agent for the treatment of metastatic colorectal carcinoma with disease progression on or following fluoropyrimidine , oxaliplatin , and irinotecan chemotherapy regimens . This article will present the mechanism of action as well as the clinical role for this monoclonal antibody .",
+    "Q9BYW2 -α and survivin involved in the anti-apoptotic effect of DB02342 after global ischemia in rats . Survivin is an anti-apoptotic gene that decreases the apoptosis by depressing the expression of caspase-3 . Hypoxia-inducible factor-1-alpha ( Q16665 ) is a transcription factor specifically activated by hypoxia . 2-methoxyestradiol ( DB02342 ) is an estradiol derivative and a known Q16665 inhibitor . DB02342 decreased apoptosis by inhibiting Q16665 . The aim of the present study was to investigate if survivin is involved in the anti-apoptotic effect of DB02342 . Male adult rats were used to make the global ischemia ( GI ) model . Ten minutes after GI , DB02342 was injected intraperitoneally ( 16 mg/kg weight ) . Rats were killed at 6 hours , 12 hours , 24 hours , 48 hours , 96 hours , and 7 days . GI produced a marked increase in Q16665 expressions in the hippocampus at 6 hours and peaked at 48-96 hours . The expressions of survivin and caspase-3 were increased lightly in a similar time course . These molecular changes were accompanied by massive cell loss and apoptosis in the hippocampal regions . DB02342 treatment reduced the expression of Q16665 , increased survivin expression , and decreased the expression of caspase-3 . These results indicate that survivin and Q16665 were involved in the anti-apoptotic effect of DB02342 treated following GI . DB02342 may decrease the Q16665 expression , up-regulate the survivin expression , inhibit the expression of caspase-3 , and finally reduce apoptosis after GI .",
+    "Enhancement of L-cystine transport activity and its relation to Q9UPY5 gene induction at the blood-brain barrier by diethyl maleate treatment . The purpose of the present study was to elucidate the mechanism of enhancement of L-cystine uptake at the blood-brain barrier ( BBB ) . The uptake of [(14)C]L-cystine and [(3)H]L-glutamic acid ( L- DB00142 ) was determined using a mouse brain endothelial cell line ( MBEC4 ) as an in vitro BBB model . The mRNA levels of L-cystine/L- DB00142 exchanger , system x(c)(-) , which consists of Q9UPY5 and P08195 , were determined by quantitative real-time reverse transcription-polymerase chain reaction analysis . The [(14)C]L-cystine uptake by MBEC4 cells appeared to be mediated via an Na(+)-independent saturable process . The corresponding Michaelis-Menten constant ( K(m) ) was 63.7 microM . In the presence of L- DB00142 , there was competitive inhibition with an inhibition constant ( K(i) ) of 83.5 microM . [(3)H]L- DB00142 uptake in the absence of Na(+) was saturable with a K(m) of 48.1 microM , and it exhibited competitive inhibition with a K(i) of 24.9 microM in the presence of L-cystine . The mutual inhibition between L-cystine and L- DB00142 and the type of inhibition suggest that system x(c)(-) operates in MBEC4 cells . The Q9UPY5 and P08195 mRNAs were expressed in MBEC4 cells and , following diethyl maleate ( DEM ) treatment , the Q9UPY5 mRNA level and L-cystine uptake in MBEC4 cells were enhanced in parallel with an increase in DEM concentration ( up to 500 microM ) . Concomitantly , the glutathione concentration in MBEC4 cells was increased . In conclusion , system x(c)(-)-mediated L-cystine uptake takes place in MBEC4 cells . DB00138 transport via system x(c)(-) at the BBB is likely to be induced under oxidative stress conditions following DEM treatment due to enhanced transcription of the Q9UPY5 gene .",
+    "Phosphodiesterase-5 inhibitor sildenafil prevents neuroinflammation , lowers beta-amyloid levels and improves cognitive performance in P05067 / P49768 transgenic mice . Memory deficit is a marker of Alzheimer 's disease ( AD ) that has been highly associated with the dysfunction of cyclic GMP ( cGMP ) signaling and an ongoing inflammatory process . Phosphodiesterase-5 ( O76074 ) inhibitors prevent the breakdown of cGMP and are currently studied as a possible target for cognitive enhancement . However , it is still unknown whether inhibition of O76074 reversed β-amyloid peptide ( Aβ ) -induced neuroinflammation in P05067 / P49768 transgenic ( Tg P05067 / P49768 ) mice . The present study evaluated the cognitive behaviors , inflammatory mediators , and cGMP/PKG/pCREB signaling in 15-month-old Tg P05067 / P49768 mice and age-matched wild-type ( WT ) mice that were treated with O76074 inhibitor sildenafil and the inhibitor of cGMP-dependent protein kinase Rp-8-Br-PET-cGMPS . In comparison with WT mice , Tg P05067 / P49768 mice were characterized by impaired cognitive ability , neuroinflammatory response , and down-regulated cGMP signaling . DB00203 reversed these memory deficits and cGMP/PKG/pCREB signaling dysfunction ; it also reduced both the soluble Aβ1-40 and Aβ1-42 levels in the hippocampus . These effects of sildenafil were prevented by intra-hippocampal infusion of the Rp-8-Br-PET-cGMPS . These results suggest that sildenafil could restore cognitive deficits in Tg P05067 / P49768 mice by the regulation of PKG/pCREB signaling , anti-inflammatory response and reduction of Aβ levels .",
+    "Distinct binding mode of multikinase inhibitor lenvatinib revealed by biochemical characterization . DB09078 is an oral multikinase inhibitor that selectively inhibits vascular endothelial growth factor ( P15692 ) receptors 1 to 3 and other proangiogenic and oncogenic pathway-related receptor tyrosine kinases . To elucidate the origin of the potency of lenvatinib in P15692 receptor 2 ( P35968 ) inhibition , we conducted a kinetic interaction analysis of lenvatinib with P35968 and X-ray analysis of the crystal structure of P35968 -lenvatinib complexes . Kinetic analysis revealed that lenvatinib had a rapid association rate constant and a relatively slow dissociation rate constant in complex with P35968 . Co-crystal structure analysis demonstrated that lenvatinib binds at its DB00171 mimetic quinoline moiety to the DB00171 binding site and to the neighboring region via a cyclopropane ring , adopting an DB00128 - DB00120 - DB00145 ( DFG ) - \" in \" conformation . These results suggest that lenvatinib is very distinct in its binding mode of interaction compared to the several approved P35968 kinase inhibitors .",
+    "DB00203 attenuates inflammation and oxidative stress in pelvic ganglia neurons after bilateral cavernosal nerve damage . Erectile dysfunction is a common complication for patients undergoing surgeries for prostate , bladder , and colorectal cancers , due to damage of the nerves associated with the major pelvic ganglia ( P29372 ) . Functional re-innervation of target organs depends on the capacity of the neurons to survive and switch towards a regenerative phenotype . O76074 inhibitors ( PDE5i ) have been successfully used in promoting the recovery of erectile function after cavernosal nerve damage ( BCNR ) by up-regulating the expression of neurotrophic factors in P29372 . However , little is known about the effects of PDE5i on markers of neuronal damage and oxidative stress after BCNR . This study aimed to investigate the changes in gene and protein expression profiles of inflammatory , anti-inflammatory cytokines and oxidative stress related-pathways in P29372 neurons after BCNR and subsequent treatment with sildenafil . Our results showed that BCNR in Fisher-344 rats promoted up-regulation of cytokines ( interleukin- 1 ( IL-1 ) β , P05231 , P22301 , transforming growth factor β 1 ( TGFβ1 ) , and oxidative stress factors ( DB02701 adenine dinucleotide phosphate ( NADPH ) oxidase , P05164 ( P05164 ) , inducible nitric oxide synthase ( P35228 ) , P01375 receptor superfamily member 5 ( P25942 ) that were normalized by sildenafil treatment given in the drinking water . In summary , PDE5i can attenuate the production of damaging factors and can up-regulate the expression of beneficial factors in the P29372 that may ameliorate neuropathic pain , promote neuroprotection , and favor nerve regeneration .",
+    "OSU-03012 and Viagra Treatment Inhibits the Activity of Multiple Chaperone Proteins and Disrupts the Blood-Brain Barrier : Implications for Anti-Cancer Therapies . We examined the interaction between OSU-03012 ( also called AR-12 ) with phosphodiesterase 5 ( O76074 ) inhibitors to determine the role of the chaperone glucose-regulated protein ( P11021 ) / P11021 / P11021 in the cellular response . DB00203 ( Viagra ) interacted in a greater than additive fashion with OSU-03012 to kill stem-like GBM cells . Treatment of cells with OSU-03012/sildenafil : abolished the expression of multiple oncogenic growth factor receptors and plasma membrane drug efflux pumps and caused a rapid degradation of P11021 and other HSP70 and HSP90 family chaperone proteins . Decreased expression of plasma membrane receptors and drug efflux pumps was dependent upon enhanced Q9NZJ5 -eIF2α- P18848 - P35638 signaling and was blocked by P11021 over-expression . In vivo OSU-03012/sildenafil was more efficacious than treatment with celecoxib and sildenafil at killing tumor cells without damaging normal tissues and in parallel reduced expression of P08183 and Q9UNQ0 in the normal brain . The combination of OSU-03012/sildenafil synergized with low concentrations of sorafenib to kill tumor cells , and with lapatinib to kill P00533 over-expressing tumor cells . In multiplex assays on plasma and human tumor tissue from an OSU-03012/sildenafil treated mouse , we noted a profound reduction in uPA signaling and identified FGF and P23458 /2 as response biomarkers for potentially suppressing the killing response . Inhibition of FGFR signaling and to a lesser extent P23458 /2 signaling profoundly enhanced OSU-03012/sildenafil lethality .",
+    "DB00203 enhances neurogenesis and oligodendrogenesis in ischemic brain of middle-aged mouse . Adult neural stem cells give rise to neurons , oligodendrocytes and astrocytes . Aging reduces neural stem cells . Using an inducible nestin-CreER( P24752 )/R26R-yellow fluorescent protein ( YFP ) mouse , we investigated the effect of DB00203 , a phosphodiesterase type 5 ( O76074 ) inhibitor , on nestin lineage neural stem cells and their progeny in the ischemic brain of the middle-aged mouse . We showed that focal cerebral ischemia induced nestin lineage neural stem cells in the subventricular zone ( SVZ ) of the lateral ventricles and nestin expressing NeuN positive neurons and adenomatous polyposis coli ( P25054 ) positive mature oligodendrocytes in the ischemic striatum and corpus callosum in the aged mouse . Treatment of the ischemic middle-aged mouse with DB00203 increased nestin expressing neural stem cells , mature neurons , and oligodendrocytes by 33 , 75 , and 30 % , respectively , in the ischemic brain . These data indicate that DB00203 amplifies nestin expressing neural stem cells and their neuronal and oligodendrocyte progeny in the ischemic brain of the middle-aged mouse .",
+    "New glycoprotein-associated amino acid transporters . The L-type amino acid transporter Q01650 has recently been identified as being a disulfide-linked \" light chain \" of the ubiquitously expressed glycoprotein P08195 /CD98 . Several Q01650 -related transporters have been identified , which share the same putative 12-transmembrane segment topology and also associate with the single transmembrane domain P08195 protein . They display differing amino acid substrate specificities , transport kinetics and localizations such as , for instance , y(+) Q01650 which is localized at the basolateral membrane of transporting epithelia , and the defect of which causes lysinuric protein intolerance . The b(0,+)AT transporter which associates with the P08195 -related rBAT protein to form the luminal high-affinity diamino acid transporter defective in cystinuria , belongs to the same family of glycoprotein-associated amino acid transporters ( gpaATs ) . These glycoprotein-associated transporters function as amino acid exchangers . They extend the specificity range of vectorial amino acid transport when located in the same membrane as carriers that unidirectionally transport one of the exchanged substrates . gpaATs belong to a phylogenetic cluster within the amino acid/polyamine/choline ( P25054 ) superfamily of transporters . This cluster , which we designate the O43561 family ( named after its first vertebrate member ) , includes some members from nematodes , yeast and bacteria . The latter of these proteins presumably lack association with a second subunit . In this review , we focus on the animal members of the O43561 cluster that form , together with some of the nematode members , the family of glycoprotein-associated amino acid transporters ( gpaAT family ) .",
+    "Maturational conversion of dendritic early endosomes and their roles in Q9NUQ9 -mediated axon growth . The function of endosomes is intricately linked to cellular function in all cell types , including neurons . Intriguingly , neurons express cell type-specific proteins that localize to endosomes , but little is known about how these neuronal proteins interface with canonical endosomes and ubiquitously expressed endosomal components , such as Q15075 ( Early Endosomal Antigen 1 ) . NEEP21 ( Neuronal Early Endosomal Protein 21 kDa ) localizes to somatodendritic endosomes , and downregulation of NEEP21 perturbs the correct trafficking of multiple receptors , including glutamate receptors ( P42262 ) during LTP and amyloidogenic processing of β P05067 . Our own work implicated NEEP21 in correct trafficking of the axonal cell adhesion molecule Q9NUQ9 /neuron-glia cell adhesion molecule ( NgCAM ) . NEEP21 dynamically localizes with Q15075 -positive early endosomes but is also found in Q15075 -negative endosomes . Live imaging reveals that NEEP21-positive , Q15075 -negative endosomes arise as a consequence of maturational conversion of Q15075 /NEEP21 double-positive endosomes . Interfering with Q15075 function causes missorting of Q9NUQ9 /NgCAM , axon outgrowth defects on the Q9NUQ9 substrate , and disturbance of NEEP21 localization . Last , we uncover evidence that functional interference with NEEP21 reduces axon and dendrite growth of primary rat hippocampal neurons on Q9NUQ9 substrate but not on P19022 substrate , thus implicating endosomal trafficking through somatodendritic early endosomes in Q9NUQ9 -mediated axon growth .",
+    "Myocardial tumor necrosis factor-alpha secretion in hypertensive and heart failure-prone rats . Acute increases in blood pressure ( BP ) increase myocardial tumor necrosis factor ( P01375 ) -alpha production , but it is not known whether chronic hypertensive stress elevates myocardial P01375 production , possibly contributing to cardiac remodeling , decreased cardiac function , and faster progression to heart failure . BP , cardiac function , and size were evaluated in normotensive [ Sprague-Dawley ( SD ) ] , spontaneously hypertensive ( SHR ) , and spontaneously hypertensive heart failure-prone ( SHHF ) rats at 6 , 12 , 15 , and 18 mo of age and in failing SHHF . Left ventricular tissues were evaluated for secretion of bioactive P01375 and inhibition of P01375 secretion by phosphodiesterase inhibitors . All ventricles secreted bioactive and immunoreactive P01375 , but secretion decreased with age . SHR and SHHF rats secreted more P01375 than SD rats at 6 mo of age , but only failing SHHF rats secreted significantly more P01375 at 18 mo . DB01427 inhibited P01375 secretion in all rats and was less potent but more efficacious than RO-201724 in all strains . P01375 secretion correlated with BP and left ventricular mass in 6-mo-old rats , but this relationship disappeared with age . Results suggest that hypertension and/or cardiac remodeling is associated with elevated myocardial P01375 , and , although hypertension , per se , did not maintain elevated cardiac P01375 levels , SHHF rats increase P01375 production during the end stages of failure .",
+    "Inhibition of cyclin-dependent kinases , GSK-3beta and CK1 by hymenialdisine , a marine sponge constituent . BACKGROUND : Over 2000 protein kinases regulate cellular functions . Screening for inhibitors of some of these kinases has already yielded some potent and selective compounds with promising potential for the treatment of human diseases . RESULTS : The marine sponge constituent hymenialdisine is a potent inhibitor of cyclin-dependent kinases , glycogen synthase kinase-3beta and casein kinase 1 . DB02950 competes with DB00171 for binding to these kinases . A P24941 -hymenialdisine complex crystal structure shows that three hydrogen bonds link hymenialdisine to the Glu81 and Leu83 residues of P24941 , as observed with other inhibitors . DB02950 inhibits Q00535 /p35 in vivo as demonstrated by the lack of phosphorylation/down-regulation of Pak1 kinase in E18 rat cortical neurons , and also inhibits GSK-3 in vivo as shown by the inhibition of P46821 phosphorylation . DB02950 also blocks the in vivo phosphorylation of the microtubule-binding protein tau at sites that are hyperphosphorylated by GSK-3 and Q00535 /p35 in Alzheimer 's disease ( cross-reacting with Alzheimer's-specific AT100 antibodies ) . CONCLUSIONS : The natural product hymenialdisine is a new kinase inhibitor with promising potential applications for treating neurodegenerative disorders ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00203 is a phosphodiesterase-5 (PDE5) inhibitor, also known as sildenafil.\nDB00203 enhances neurogenesis and oligodendrogenesis in ischemic brain of middle-aged mice.\nDB00203 attenuates inflammation and oxidative stress in pelvic ganglia neurons after bilateral cavernosal nerve damage.\nDB00203 induces angiogenic response in human coronary arteriolar endothelial cells through expression of thioredoxin, hemeoxygenase, and vascular endothelial growth factor.\nDB00203 inhibits calcineurin/Q13469-mediated cyclin A expression in pulmonary artery smooth muscle cells.\nDB00203 enhances neurogenesis and oligodendrogenesis in ischemic brain of middle-aged mouse.\nDB00203 is used in combination with OSU-03012 to kill stem-like GBM cells in a greater than additive fashion.\nThe combination of DB00203 and OSU-03012 abolishes expression of multiple oncogenic growth factor receptors and plasma membrane drug efflux pumps.\nDB00203 synergizes with low concentrations of sorafenib and lapatinib to kill tumor cells.\nDB00203 is involved in the regulation of PKG/pCREB signaling, anti-inflammatory response, and reduction of Aβ levels in Alzheimer’s disease models.\nDB00203 interacts with OSU-03012 in a synergistic manner to disrupt chaperone proteins and the blood-brain barrier.\nThe interaction between DB00203 and OSU-03012 is documented as greater than additive in killing cancer cells.\nDB00203 is not directly stated to interact with DB01045, DB01269, DB01427, DB02342, DB02950, DB04982, DB06243, or DB09078.\nThe only drug explicitly shown to interact with DB00203 in the context of synergistic or combined effects is OSU-03012, which is not in the list.\nDB00203 does not interact with any of the listed compounds (DB00138, DB01045, DB01269, DB01427, DB02342, DB02950, DB04982, DB06243, DB09078) based on the provided text.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB00203 is a phosphodiesterase-5 (PDE5) inhibitor, also known as sildenafil",
+    "DB00203 enhances neurogenesis and oligodendrogenesis in ischemic brain of middle-aged mice",
+    "DB00203 attenuates inflammation and oxidative stress in pelvic ganglia neurons after bilateral cavernosal nerve damage",
+    "DB00203 induces angiogenic response in human coronary arteriolar endothelial cells through expression of thioredoxin, hemeoxygenase, and vascular endothelial growth factor",
+    "DB00203 inhibits calcineurin/Q13469-mediated cyclin A expression in pulmonary artery smooth muscle cells",
+    "DB00203 enhances neurogenesis and oligodendrogenesis in ischemic brain of middle-aged mouse",
+    "DB00203 is used in combination with OSU-03012 to kill stem-like GBM cells in a greater than additive fashion",
+    "The combination of DB00203 and OSU-03012 abolishes expression of multiple oncogenic growth factor receptors and plasma membrane drug efflux pumps",
+    "DB00203 synergizes with low concentrations of sorafenib and lapatinib to kill tumor cells",
+    "DB00203 is involved in the regulation of PKG/pCREB signaling, anti-inflammatory response, and reduction of Aβ levels in Alzheimer’s disease models",
+    "DB00203 interacts with OSU-03012 in a synergistic manner to disrupt chaperone proteins and the blood-brain barrier",
+    "The interaction between DB00203 and OSU-03012 is documented as greater than additive in killing cancer cells",
+    "DB00203 is not directly stated to interact with DB01045, DB01269, DB01427, DB02342, DB02950, DB04982, DB06243, or DB09078",
+    "The only drug explicitly shown to interact with DB00203 in the context of synergistic or combined effects is OSU-03012, which is not in the list",
+    "DB00203 does not interact with any of the listed compounds (DB00138, DB01045, DB01269, DB01427, DB02342, DB02950, DB04982, DB06243, DB09078) based on the provided text"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00203 is a phosphodiesterase-5 (PDE5) inhibitor, also known as sildenafil",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB00203 enhances neurogenesis and oligodendrogenesis in ischemic brain of middle-aged mice",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00203 attenuates inflammation and oxidative stress in pelvic ganglia neurons after bilateral cavernosal nerve damage",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00203 induces angiogenic response in human coronary arteriolar endothelial cells through expression of thioredoxin, hemeoxygenase, and vascular endothelial growth factor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00203 inhibits calcineurin/Q13469-mediated cyclin A expression in pulmonary artery smooth muscle cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00203 enhances neurogenesis and oligodendrogenesis in ischemic brain of middle-aged mouse",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00203 is used in combination with OSU-03012 to kill stem-like GBM cells in a greater than additive fashion",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The combination of DB00203 and OSU-03012 abolishes expression of multiple oncogenic growth factor receptors and plasma membrane drug efflux pumps",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB00203 synergizes with low concentrations of sorafenib and lapatinib to kill tumor cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB00203 is involved in the regulation of PKG/pCREB signaling, anti-inflammatory response, and reduction of Aβ levels in Alzheimer’s disease models",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00203 interacts with OSU-03012 in a synergistic manner to disrupt chaperone proteins and the blood-brain barrier",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "The interaction between DB00203 and OSU-03012 is documented as greater than additive in killing cancer cells",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00203 is not directly stated to interact with DB01045, DB01269, DB01427, DB02342, DB02950, DB04982, DB06243, or DB09078",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "The only drug explicitly shown to interact with DB00203 in the context of synergistic or combined effects is OSU-03012, which is not in the list",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB00203 does not interact with any of the listed compounds (DB00138, DB01045, DB01269, DB01427, DB02342, DB02950, DB04982, DB06243, DB09078) based on the provided text",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

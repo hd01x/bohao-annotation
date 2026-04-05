@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__486598e9d21bb65ea56c",
+  "sample_id": "486598e9d21bb65ea56c",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could Al Capone have read works from the Harlem Renaissance?",
+  "gold_answer": "yes",
+  "context": [
+    "The Harlem Renaissance occurred during the 1920s.",
+    "Al Capone lived through the 1920s."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Harlem Renaissance occurred during the 1920s.\nAl Capone lived through the 1920s.\nWorks from the Harlem Renaissance were published and circulated during the 1920s.\nAl Capone was a public figure in the 1920s with access to media and literature.\nAl Capone could have read works from the Harlem Renaissance.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Harlem Renaissance occurred during the 1920s",
+    "Al Capone lived through the 1920s",
+    "Works from the Harlem Renaissance were published and circulated during the 1920s",
+    "Al Capone was a public figure in the 1920s with access to media and literature",
+    "Al Capone could have read works from the Harlem Renaissance"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Harlem Renaissance occurred during the 1920s",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Al Capone lived through the 1920s",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Works from the Harlem Renaissance were published and circulated during the 1920s",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Al Capone was a public figure in the 1920s with access to media and literature",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Al Capone could have read works from the Harlem Renaissance",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

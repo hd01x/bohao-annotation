@@ -1,0 +1,265 @@
+{
+  "uid": "medhop__MH_dev_176",
+  "sample_id": "MH_dev_176",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00051\", \"DB00118\", \"DB00641\", \"DB02034\", \"DB05077\", \"DB05897\", \"DB06663\", \"DB06695\", and \"DB08901\" interacts with DB06271?",
+  "gold_answer": "DB06695",
+  "context": [
+    "Increased P05231 levels in pituitary-deficient patients are independently related to their carotid intima-media thickness . OBJECTIVE : Increased cardiovascular morbidity and mortality has been observed in patients with pituitary deficiency and untreated growth hormone deficiency ( GHD ) . We investigated peripheral inflammatory and fibrinolytic markers and their associations with arterial intima-media thickness ( IMT ) in GHD . DESIGN : Cross-sectional study . PATIENTS : Thirty-four patients with GHD , but without cardiovascular disease , were compared to healthy controls matched for age , sex , body mass index ( BMI ) and smoking habits . MEASUREMENTS : IMT of the common carotid artery , P02741 ( CRP ) , interleukin-6 ( P05231 ) , fibrinogen , plasminogen activator inhibitor-1 ( P05121 ) activity and tissue plasminogen activator antigen ( tPA-ag ) were measured . RESULTS : Median P05231 concentrations were increased by 208 % and 248 % in GHD patients compared to BMI-matched and nonobese controls , respectively . Median CRP and tPA-ag levels were increased by 237 % and 167 % in patients compared to nonobese controls , but not significantly different compared to BMI-matched controls . Plasma levels of fibrinogen and P05121 activity did not differ between groups . Age , low-density lipoprotein ( LDL ) cholesterol , tPA-ag and P05231 were positively correlated , and P05019 was negatively correlated to IMT in the patient group , but only age and P05231 were independently related to IMT . CONCLUSIONS : P05231 concentrations were increased in GHD patients compared to controls and independently related to IMT in patients . This finding may help to explain the variance in IMT and the increased vascular morbidity and mortality in hypopituitary patients with GHD .",
+    "Activation of caspase-3 activity and apoptosis in MDA-MB-468 cells by N(omega)-hydroxy-L-arginine , an inhibitor of arginase , is not solely dependent on reduction in intracellular polyamines . We have shown previously that ( NOHA ) an intermediate in the nitric oxide ( NO ) synthetic pathway and an inhibitor of arginase significantly reduced intracellular polyamines , activated caspase-3 and induced apoptosis in the human breast cancer cell line MDA-MB-468 . These actions of NOHA were abolished in the presence of exogenous L-ornithine suggesting that a reduction in the intracellular polyamine content might be responsible for the activation of caspase-3 and apoptotic actions of NOHA . In order to further explore this possibility , we used DB00118 -486A and alpha-difluoromethylornithine ( DB06243 ) , which are inhibitors of S-adenosylmethionine decarboxylase ( P17707 ) , and ornithine decarboxylase ( ODC ) , respectively , either alone or in combination to reduce the intracellular polyamine levels . We then assessed whether a reduction in polyamine levels by these two compounds to a similar degree to that produced by NOHA activated caspase-3 which occurs prior to the onset of apoptosis . We observed that both DB00118 -486A and DB06243 , either alone or in combination , inhibited cell proliferation , induced P38936 and arrested cells in the G(0)-G(1) phase of the cell cycle but failed to activate caspase-3 as assessed by enzymatic assay of caspase-3 , western blot analysis of the proteolytic cleavage of caspase-3 protein as well as TUNEL assay . Furthermore , pre-incubation of the cells with DB00118 -486A and DB06243 for 4 days , either alone or in combination significantly inhibited the activation of caspase-3 and apoptosis by NOHA when compared with that observed with cells treated with NOHA alone . Our results , therefore , indicate that the activation of caspase-3 and apoptosis observed with NOHA can not be solely explained by a reduction in intracellular polyamine levels and that other mechanisms need to be also considered .",
+    "Effect of DB06663 ( pasireotide ) on corticotropic cells : action in dogs with Cushing 's disease . DB06663 ( pasireotide ) is a multiligand somatostatin ( SRIF ) analog able to bind to somatostatin receptor ( SSTR ) subtypes 1 , 2 , 3 and 5 , and trigger antisecretory and antiproliferative signaling cascades . Canines have become in vivo models to test the pharmacological treatment of corticotropinomas because they frequently develop Cushing 's disease in a spontaneous manner , due to adrenocorticotropic hormone ( DB01285 ) -producing pituitary adenomas . Different levels of expression of P30874 and P35346 have been shown in both mouse AtT20 cells and canine tumoral corticotropinoma cells . The objective of this study was to evaluate whether DB06663 controls both tumor cell growth and hormone synthesis , therefore controlling the disease . DB06663 was tested in dogs suffering from Cushing 's disease ( 10 animals were treated continuously during 6 months , and another 10 were treated with 3 cycles consisting of 2 months of treatment followed by a 2-month rest period ) . A significant decrease in DB01285 , urinary cortisol creatinine ratio , adenoma size ( magnetic nuclear resonance ) and improvement of clinical signs were obtained , without side effects . AtT20 cells treated with DB06663 suppressed pro-opiomelanocortin ( P01189 ) promoter activity through P30874 , via the G(i) α-subunit , and reduced P22736 /Nurr1 transcriptional activity . We conclude that DB06663 , in addition to its well-described antisecretory effects , inhibits , as shown in AtT20 cells , DB01285 synthesis at the P01189 transcriptional level , an effect mediated mainly through P30874 , and limits tumor growth . The controlled Cushing 's disease in the dogs that received the treatment indicates that DB06663 has a potential therapeutic use in humans suffering from Cushing 's disease .",
+    "Novel 3,4-diarylpyrazolines as potent cannabinoid P21554 receptor antagonists with lower lipophilicity . Novel 3,4-diarylpyrazolines 1 as potent P21554 receptor antagonists with lipophilicity lower than that of DB05077 are described . The key change is the replacement of the arylsulfonyl group in the original series by a dialkylaminosulfonyl moiety . The absolute configuration ( 4S ) of eutomer 24 was established by X-ray diffraction analysis and 24 showed a close molecular fit with rimonabant in a P21554 receptor-based model . Compound 17 exhibited the highest P21554 receptor affinity ( Ki = 24 nM ) in this series , as well as very potent P21554 antagonistic activity ( pA2 = 8.8 ) and a high P21554 /CB2 subtype selectivity ( approximately 147-fold ) .",
+    "Normal and perturbed endothelial cells from canine femoral arteries and femoral veins exhibit heterogeneity in hemostatic properties and growth characteristics . BACKGROUND : We sought to examine the heterogeneity of endothelial cells from the same anatomic site but different vascular systems and described P04275 ( P04275 ) release and morphological change in response to injury-associated factor in femoral vessels from canine in vitro . METHODS : Levels of hemostatic factors ( P04275 , plasminogen activator inhibitor type 1( P05121 ) , antithrombin III ( P01008 ) , in tissue sections and cultured endothelial cells of canine femoral arteries and canine femoral veins were compared by the immunohistochemistry technique . In addition to comparing cell growth density and cell protein contents , cultured femoral arterial endothelial cells ( FAECs ) and cultured femoral venous endothelial cells ( FVECs ) were incubated with a series concentration of basic fibroblast factor ( P09038 ) ( 1 , 10 , 100 ng/ml ) for up to 48 hours to test the amount of P04275 secretion and morphological change . RESULTS : Both in tissue sections and cultured cells , the levels of P04275 are higher in FVECs than in FAECs . We were unable to differentiate the level of P05121 and P01008 difference between FAECs and FVECs. P09038 ( 10 ng/ml ) significantly increased P04275 secretion from cultured FAECs but not from FVECs . The size of cultured FAECs is smaller than of FVECs ; however , FAECs have higher amounts of protein contents than FVECs . CONCLUSIONS : These comparative studies provide evidence indicating that the characteristics of FVECs differ from those of FAECs . These differences may be indicated heterogeneity with either inherited or acquired thrombotic disease .",
+    "Somatostatin receptor subtype-dependent regulation of nitric oxide release : involvement of different intracellular pathways . We reported previously that , in addition to direct effects , somatostatin ( P61278 ) affects tumor growth inhibiting the tumoral neoangiogenesis , via an interference with NO synthesis . Here , we analyzed the effects of P61278 on nitric oxide ( NO ) production induced by different agonists [ basic fibroblast growth factor ( P09038 ) , insulin , cholecystokinin ( CCK ) ] and the intracellular signaling involved , using Chinese hamster ovary-k1 cells stably transfected with individual P30872 - P31391 . P09038 and insulin induced endothelial nitric oxide synthase activity via the generation of ceramide or the Akt-dependent phosphorylation of endothelial nitric oxide synthase , respectively . CCK regulates neuronal nitric oxide synthase activity in a Ca++-dependent manner . P61278 inhibited NO production stimulated by P09038 through P61278 receptor 1 ( P30872 ) , P30874 , and P32745 and by CCK through P30874 and P32745 . In all the cell lines , P61278 treatment did not modify NO synthesis induced by insulin . P31391 activation was not effective on any of the stimuli tested . The effects on P09038 -induced NO production were downstream from receptor phosphorylation and ceramide synthesis . P30874 and -3 on CCK activity were related to the inhibition of intracellular Ca++ mobilization , whereas the lack of effects on insulin was paralleled by the absence of P61278 activity on Akt phosphorylation . These data , identifying for the first time a selective receptor subtype-inhibitory role of P61278 on NO generation , may open new perspectives in the use of P61278 agonists to control tumoral angiogenesis .",
+    "DB00051 in the management of cutaneous and oral lichen planus . Lichen planus ( LP ) is a common , chronic , inflammatory dermatosis that may involve the skin as well as oral and genital mucosa . Characterized by distinctive purplish papules often featuring white reticular scale , LP commonly is resistant to treatment . My patient presented with extensive , violaceous , and lacelike whitish lesions on the distal extremities , including the hands and feet , and the vulva . Approximately 10 % to 12 % of her body surface area ( BSA ) was involved , and her condition became progressively worse over time , with thick plaques developing on the buccal mucosa and tongue . After several conventional therapies failed , the patient underwent treatment with adalimumab , a tumor necrosis factor ( P01375 ) antagonist . An almost clear response was noted by week 6 , and the patient 's lesions remained almost fully resolved after week 22 . Additional studies are warranted to investigate the efficacy and safety of adalimumab for the treatment of LP .",
+    "Two different P01579 nonresponsive variants derived from the B-cell lymphoma 70Z/3 . The kappa immunoglobulin ( Igk ) light chain locus is transcriptionally silent in the mouse B-cell lymphoma 70Z/3 . However , exposure to lipopolysaccharide ( LPS ) or interferon-gamma ( IFN ) causes a marked increase in Igk transcription . By immunoselection , we isolated two variants that are nonresponsive to IFN . One variant , AT7.2 , has retained its response to LPS ( IFN-LPS+ ) , whereas the other , P01008 .3 , is also nonresponsive to LPS ( IFN-LPS- ) . Stable transfection of an intact Igk gene does not rescue the phenotype of either variant . Both variants have intact Igk genes and neither is deficient in the binding or uptake of IFN . Nuclear extracts from LPS-treated wild-type 70Z/3 cells show strong increases in three transcription factors : P09086 , NF-kappa B , and kBF-A . Remarkably , when the IFN-LPS- variant is treated with LPS , all three transcription factors are still observed in the nuclear extracts . Treatment of wild-type cells with either LPS or IFN also causes a decrease in nuclear complexes that bind to two other regions of the Igk intron enhancer , the octenh and the E kappa MHCIC regions . Both of these changes are also observed after LPS or IFN treatment of the IFN-LPS- variant . Thus , this variant transduces the IFN and LPS signals at least into the nuclear compartment , but still fails to activate Igk transcription . In contrast , the IFN-LPS+ variant decreases neither the octenh nor the E kappa MHCIC binding complexes in response to IFN . This variant may be defective in transducing the IFN signal to the nucleus . These variants will be useful in studying the activation of Igk transcription and the IFN signaling pathway in B cells .",
+    "Blood coagulation factors changes during liver regeneration in rats . Effects of partial hepatectomy on blood coagulation factors were investigated in rats . Analysis were performed 24 , 48 and 72 hours after surgery . Howell 's time was significantly higher after 24 and 48 h compared to the control value . P00734 time was significantly prolonged after 24 h . Partial thromboplastin time did not differ significantly in any time . FII values were significantly reduced after 24 and 48 h , but FV values only after 24 h . FVII showed significant decrease after 24 h , but significant increase at 48 h . FVIII and P01008 average values were significantly lower after 24 , 48 and 72 h . Plasma fibrinogen increased . Significant differences were observed 48 and 72 h after surgery . Differences in normalization time of these coagulation factors are most probably the consequence of their synthesis in various cell types , regenerated at different periods after partial hepatectomy .",
+    "Q8N0V5 V ( Mgat5 ) -mediated N-glycosylation negatively regulates Th1 cytokine production by T cells . The differentiation of naive P01730 (+) T cells into either proinflammatory Th1 or proallergic Th2 cells strongly influences autoimmunity , allergy , and tumor immune surveillance . We previously demonstrated that beta1,6GlcNAc-branched complex-type ( Q8N0V5 V ( Mgat5 ) ) N-glycans on TCR are bound to galectins , an interaction that reduces TCR signaling by opposing agonist-induced TCR clustering at the immune synapse . Mgat5(-/-) mice display late-onset spontaneous autoimmune disease and enhanced resistance to tumor progression and metastasis . In this study we examined the role of beta1,6GlcNAc N-glycan expression in Th1/Th2 cytokine production and differentiation . beta1,6GlcNAc N-glycan expression is enhanced by TCR stimulation independent of cell division and declines at the end of the stimulation cycle . DB00075 -activated splenocytes and naive T cells from Mgat5(-/-) mice produce more P01579 and less P05112 compared with wild-type cells , the latter resulting in the loss of P05112 -dependent down-regulation of IL-4Ralpha . DB02034 , an inhibitor of Q16706 , blocked beta1,6GlcNAc N-glycan expression and caused a similar increase in P01579 production by T cells from humans and mice , but no additional enhancement in Mgat5(-/-) T cells . Mgat5 deficiency did not alter P01579 / P05112 production by polarized Th1 cells , but caused an approximately 10-fold increase in P01579 production by polarized Th2 cells . These data indicate that negative regulation of TCR signaling by beta1,6GlcNAc N-glycans promotes development of Th2 over Th1 responses , enhances polarization of Th2 cells , and suggests a mechanism for the increased autoimmune disease susceptibility observed in Mgat5(-/-) mice .",
+    "Identification of antithrombin-modulating genes . Role of O95461 , a gene encoding a bifunctional glycosyltransferase , in the secretion of proteins ? The haemostatic relevance of antithrombin together with the low genetic variability of P01008 , and the high heritability of plasma levels encourage the search for modulating genes . We used a hypothesis-free approach to identify these genes , evaluating associations between plasma antithrombin and 307,984 polymorphisms in the GAIT study ( 352 individuals from 21 Spanish families ) . Despite no SNP reaching the genome wide significance threshold , we verified milder positive associations in 307 blood donors from a different cohort . This validation study suggested O95461 , a gene encoding a protein with xylosyltransferase and glucuronyltransferase activities that forms heparin-like linear polysaccharides , as a potential modulator of antithrombin based on the significant association of one SNPs , rs762057 , with anti-FXa activity , particularly after adjustment for age , sex and P01008 rs2227589 genotype , all factors influencing antithrombin levels ( p = 0.02 ) . Additional results sustained this association . O95461 silencing inHepG2 and P29320 -EBNA cells did not affect P01008 mRNA levels but significantly reduced the secretion of antithrombin with moderate intracellular retention . Milder effects were observed on α1-antitrypsin , prothrombin and transferrin . Our study suggests O95461 as the first known modifier of plasma antithrombin , and proposes a new role for O95461 in modulating extracellular secretion of certain glycoproteins .",
+    "Expression of ras proto-oncogenes in the Dunning R3327 rat prostatic adenocarcinoma system . Steady-state levels of c-Ha-ras mRNA were measured in eight sublines of the Dunning R3327 rat prostatic adenocarcinoma . As a control , normal dorsal prostate tissue was studied . Increased expression of c-Ha-ras is associated with tumor progression in one lineage of the Dunning R3327 system ( H to AT1 to P24752 -Lu and P24752 -Ly-Lu ) . Here ras mRNA increases as the tumor advances from androgen dependence and a high degree of differentiation to an anaplastic aneuploid phenotype with high metastatic potential . However , in the other Dunning lineage ( H to HI to HI-F to P01008 ) , expression of c-Ha-ras is variable and does not correlate with tumor progression . Immunocytochemistry showed that levels of the c-Ha-ras P38936 protein paralleled steady-state mRNA levels in variants . Transfection assays , using NIH/3T3 cells , suggested that the ras loci were not activated in the R3327 tumors . Levels of P01116 mRNA were also measured in the Dunning tumors ; these did not correlate with tumor progression in either lineage . Expression of N-ras mRNA was not detected in the Dunning tumors .",
+    "DB08901 suppresses the development of myeloid and lymphoid malignancies associated with P11362 abnormalities . Myeloid and lymphoid malignancies associated with fibroblast growth factor receptor-1 ( P11362 ) abnormalities are characterized by constitutively activated P11362 kinase and rapid transformation to acute myeloid leukemia and lymphoblastic lymphoma . Molecular targeted therapies have not been widely used for stem cell leukemia/lymphoma ( SCLL ) . DB08901 ( DB08901 ) , which potently inhibits native and mutant P11274 - P00519 , also targets the FGFR family . Using murine BaF3 cells , stably transformed with six different P11362 fusion genes , as well as human KG1 cells expressing activated chimeric P11362 and five newly established murine SCLL cell lines , we show that ponatinib ( < 50 nM ) can effectively inhibit phosphoactivation of the fusion kinases and their downstream effectors , such as PLCγ , Stat5 and Src . DB08901 also significantly extended survival of mice transplanted with different SCLL cell lines . DB08901 administered at 30 mg/kg daily also significantly delayed , or even prevented , tumorigenesis of KG1 cells in xenotransplanted mice . Furthermore , we demonstrate that ponatinib specifically inhibits cell growth and clonogenicity of normal human P28906 + progenitor cells transformed by chimeric P11362 fusion kinases . Overall , our data provide convincing evidence to suggest that pharmacologic inhibition of P11362 fusion kinases with ponatinib is likely to be beneficial for patients with SCLL and perhaps for other human disorders associated with dysregulated P11362 activity .",
+    "Prevention of thrombus formation and growth by antithrombin III and heparin cofactor II-dependent thrombin inhibitors : importance of heparin cofactor II . DB01109 ( HEP ) prevents thrombus formation ( TF ) and thrombus growth ( TG ) , by accelerating thrombin ( THR ) inhibition by antithrombin III ( P01008 ) . Recent studies suggest that dermatan sulphate which catalyzes thrombin inhibition by heparin cofactor II ( HCII ) , can inhibit TF and TG as effectively as HEP . This study compared the antithrombotic effects of HEP and another agent , DB06271 ( SLX ) which catalyzes thrombin inhibition by P01008 and HCII simultaneously . TF was induced in rabbit jugular veins , using the stasis/hypercoagulation model . TG was measured as the accretion of 125I-fibrin onto existing thrombi in rabbit jugular veins . HEP and SLX inhibited TF when given in doses of 10 and 5 anti-thrombin U/kg , respectively . SLX ( 16 anti-thrombin U/kg or 260 micrograms/kg ) was more effective than HEP ( 120 anti-thrombin U/kg or 800 micrograms/kg ) in preventing TG when administered either as a bolus or by continuous infusion . These data suggest that agents which accelerate THR inhibition by both P01008 and HCII simultaneously , can inhibit TF and TG with less systemic anticoagulation than comparable antithrombotic doses of HEP .",
+    "The role of de novo ceramide synthesis in the mechanism of action of the tricyclic xanthate D609 . The cytotoxic effects of several chemotherapeutic drugs have been linked to elevated de novo ceramide biosynthesis . However , the relationship between the intracellular site(s) of ceramide accumulation and cytotoxicity is poorly understood . Here we examined the relationship between the site of ceramide deposition and inhibition of protein translation and induction of apoptosis by the antitumor/antiviral xanthate , D609 . In Chinese hamster ovary ( CHO ) - P04264 , P29320 -293 , and NIH-3T3 cells , D609 caused rapid ( 1-5 min ) and sustained eukaryotic initiation factor 2alpha ( eIF2alpha ) phosphorylation followed by apoptosis after 24 h . Concurrently , D609 stimulated de novo ceramide synthesis and increased ceramide mass 2-fold by 2 h in CHO- P04264 cells . In D609-treated CHO- P04264 cells , sphingomyelin synthesis was stimulated by brefeldin A , and P01031 - P28068 -ceramide transport to the Golgi apparatus was blocked , indicating ceramide accumulation in the endoplasmic reticulum ( ER ) . However , D609-mediated eIF2alpha phosphorylation , inhibition of protein synthesis , and apoptosis in CHO- P04264 cells were not attenuated by fumonisin B1 or l-cycloserine . Interestingly , short-chain ceramide promoted eIF2alpha phosphorylation and inhibited protein synthesis in CHO- P04264 cells , indicating that the effectiveness of endogenous ceramide could be limited by access to signaling pathways . Thus , expansion of the ER ceramide pool by D609 was not implicated in early ( eIF2alpha phosphorylation ) or late ( apoptotic ) cytotoxic events .",
+    "Interpretation of point-of-care INR results in patients treated with dabigatran . BACKGROUND : Point-of-care devices for measurement of the international normalized ratio ( INR ) are commonly used to monitor therapy and maintain therapeutic levels of anticoagulation in patients treated with vitamin K antagonists . DB06695 , a new oral , reversible direct thrombin inhibitor approved for stroke prevention in patients with atrial fibrillation does not require routine coagulation monitoring . However , case reports have identified falsely elevated point-of-care INR levels in patients treated with dabigatran using one of these devices ( Hemochron ) . This in vitro study was designed to verify this issue . METHODS : We compared INR levels in whole blood and plasma using a Hemochron Jr . Signature+ point-of-care device ( International Technidyne Corporation , Edison , NJ ) with routine laboratory monitoring , using blood from healthy volunteers that was spiked with increasing concentrations of dabigatran . RESULTS : P00734 time and INR levels were increased about 2- to 4-fold with the point-of-care device compared with laboratory measures across the plasma dabigatran concentration range 50-1400 ng/mL . At plasma concentrations of dabigatran likely to be observed in patients , at a dose of 150 mg twice daily ( 60-275 ng/mL ) , whole blood point-of-care INR values increased from 1.7 to 4.0 , versus 1.1 to 1.5 measured with the laboratory coagulometer . Similar differences in prothrombin time were observed in plasma samples . CONCLUSIONS : INR levels in patients taking dabigatran are substantially higher using a Hemochron Jr. point-of-care device compared with laboratory values . We discourage the use of these devices specifically , as well as the use of the INR in general , for measuring the anticoagulant effect of dabigatran .",
+    "Metabolic fate of 2,2-dimethylbutyryl moiety of simvastatin in rats : identification of metabolites by gas chromatography/mass spectrometry . Metabolic pathways of simvastatin ( DB00641 ) , a lactone prodrug of an inhibitor of P04035 , were elucidated in male rats , using the [ 14C ] -labelled compound . Evidence has been obtained for hydrolysis of simvastatin and its metabolites at their 2,2-dimethylbutyryl moieties . Metabolites identified in plasma were 2,2-dimethylbutyric acid ( P28068 ) , 2,2-dimethyl-3-hydroxybutyric acid ( DMHB ) and an open chain hydroxy acid of simvastatin : metabolites identified in urine were DMHB , a glucuronide and the glycine conjugate of P28068 . They were characterized by gas chromatography/electron impact and chemical ionization mass spectrometry as phenacyl or pertrimethylsilylated derivatives . The structures of the metabolites and the aglycone of the glucuronide were confirmed as phenacyl esters by comparison of their chromatographic data and mass spectra with those of the phenacyl derivatives of authentic compounds .",
+    "DB09222 binding potentiates P09038 but not P15692 induced expression of u-PA , u-PAR , and P05121 in endothelial cells . Endothelial cell responses at sites of injury occur in a fibrin matrix and are regulated by growth factors including those of the FGF and P15692 families . The pericellular proteolytic balance is important in these responses , and P09038 and P15692 up-regulate endothelial cell u-PA , u-PAR and P05121 . Because both P15692 and P09038 bind to fibrinogen , we have examined the capacity of fibrinogen to modulate the up-regulation of these proteins by P09038 and P15692 . Confluent cultures of endothelial cells were exposed to P09038 , P15692 , and fibrinogen or to combinations of growth factors with fibrinogen . Changes in mRNA levels of u-PA , u-PAR and P05121 were measured by Northern blot . P09038 increased u-PA , u-PAR , and P05121 mRNA , but there was a significantly greater induction when fibrinogen was added to P09038 at all concentrations . The potentiation by fibrinogen was particularly evident at an P09038 concentration of 0.1 ng mL(-1) , which resulted in non-significant change in transcript levels by itself , but significantly increased up to 2.6-fold with fibrinogen . P15692 also increased endothelial cell expression of u-PA , u-PAR and P05121 , but this effect was not potentiated by fibrinogen . Addition of LM609 , a monoclonal antibody to alphaVbeta3 , significantly inhibited induction of u-PA mRNA and activity by fibrinogen-bound P09038 compared to P09038 . A monoclonal antibody to P11362 also inhibited u-PA mRNA expression induced by fibrinogen-bound P09038 . We conclude that fibrinogen increases the capacity of P09038 , but not of P15692 , to up-regulate u-PA , u-PAR , and P05121 in endothelial cells and that fibrinogen-bound P09038 requires alphaVbeta3 binding to up-regulate endothelial cell u-PA .",
+    "The FGF receptor uses the endocannabinoid signaling system to couple to an axonal growth response . A key role for DAG lipase activity in the control of axonal growth and guidance in vitro and in vivo has been established . For example , DAG lipase activity is required for FGF-stimulated calcium influx into neuronal growth cones , and this response is both necessary and sufficient for an axonal growth response . The mechanism that couples the hydrolysis of DAG to the calcium response is not known . The initial hydrolysis of DAG at the sn-1 position ( by DAG lipase ) will generate 2-arachidonylglycerol , and this molecule is well established as an endogenous cannabinoid receptor agonist in the brain . In the present paper , we show that in rat cerebellar granule neurons , P21554 cannabinoid receptor antagonists inhibit axonal growth responses stimulated by P19022 and P09038 . Furthermore , three P21554 receptor agonists mimic the P19022 / P09038 response at a step downstream from FGF receptor activation , but upstream from calcium influx into cells . In contrast , we could find no evidence for the P21554 receptor coupling the TrkB neurotrophin receptor to an axonal growth response in the same neurons . The observation that the P21554 receptor can couple the activated FGF receptor to an axonal growth response raises novel therapeutic opportunities .",
+    "Antagonism by salvianolic acid B of lipopolysaccharide-induced disseminated intravascular coagulation in rabbits . The aim of the present study was to investigate the effects of salvianolic acid B on lipopolysaccharide ( LPS ) -induced disseminated intravascular coagulation ( DIC ) in rabbits . Continuous infusion of LPS was used to induce a DIC model in rabbits . Treatment with salvianolic acid B ( 1 , 3 or 6 mg/kg ) was started simultaneously with LPS infusion ( 0.5 mg/kg LPS in 60 mL saline ; 10 mL/h over a period of 6 h ) through the contralateral marginal ear vein . Activated partial thromboplastin time ( APTT ) , prothrombin time ( PT ) , platelet count and fibrinogen concentration were determined , as were plasma levels of fibrin-fibrinogen degradation products ( Q9NRC9 ) , alanine aminotransferase ( ALT ) , blood urea nitrogen ( BUN ) , protein C activity , antithrombin III ( P01008 ) and tumour necrosis factor ( P01375 ) -α concentration . The gradual impairment of haemostatic parameters was induced by continuous infusion of LPS . There were marked increases in APTT , PT , BUN , ALT and plasma P01375 -α and marked decreases in the platelet count , fibrinogen , Q9NRC9 , protein C and P01008 . The intravenous administration of 1 , 3 or 6 mg/kg salvianolic acid B attenuated the increases in APTT , PT , BUN , ALT and plasma P01375 -α and the decreases in fibrinogen , platelet , Q9NRC9 , protein C and P01008 induced by LPS infusion . These observations indicate that salvianolic acid B has an effect against LPS-induced DIC in rabbits .",
+    "Factors regulating insulin-like growth factor-binding protein-3 binding , processing , and potentiation of insulin-like growth factor action . In this study , we investigated the effects of various biochemical and pharmacological agents on insulin-like growth factor ( IGF ) -binding protein-3 ( P17936 ) cell binding and action in cultured bovine fibroblasts . When cells were preincubated for 48 h with 50 nM recombinant human ( rh ) P17936 , P05019 -stimulated [3H]aminoisobutyric acid ( [125H]AIB ) uptake was enhanced 2- to 3-fold . The addition of cytoskeletal disrupting agents during the preincubation with DB05897 did not affect P17936 potentiation of P05019 action , nor did a variety of serine , aspartate , and metalloproteinase inhibitors . On the other hand , ammonium chloride and chloroquine , weak bases that neutralize the pH of acidic cell compartments , blocked P17936 potentiation of P05019 -stimulated [3H]AIB uptake . Chloroquine and ammonium chloride had no effect alone and did not inhibit P08069 binding or action in the absence of DB05897 . Bafilomycin A , a specific inhibitor of DB00171 -dependent hydrogen ion pumps , also inhibited P17936 potentiation of P05019 -stimulated [3H]AIB uptake . Competitive [125I] P05019 binding and affinity cross-linking experiments suggested structure/function changes in cell-bound P17936 that were altered in the presence of chloroquine and bafilomycin . DB01109 markedly decreased initial P17936 cell adherence , but could not promote dissociation of P17936 from cells after the 48-h preincubation . Moreover , heparin did not inhibit P17936 potentiation of P05019 action . In summary , these data indicate that P17936 undergoes specific pH-dependent structural and/or environmental modifications that mediate the enhancing effect of P17936 on P05019 action in bovine fibroblasts . They also suggest that P17936 binding to heparin-like molecules on the cell surface is not directly involved in this process ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB06271 (SLX) is an agent that catalyzes thrombin inhibition by both antithrombin III (P01008) and heparin cofactor II (HCII) simultaneously.\nDB01109 (HEP) prevents thrombus formation and growth by accelerating thrombin inhibition by antithrombin III.\nDB06271 is more effective than DB01109 in preventing thrombus growth when administered as a bolus or by continuous infusion.\nDB06271 and DB01109 both target thrombin inhibition pathways involving antithrombin III.\nDB06271 interacts with antithrombin III and heparin cofactor II to exert its antithrombotic effects.\nDB06271 is not directly linked to any of the other listed compounds (DB00051, DB00118, DB00641, DB02034, DB05077, DB05897, DB06663, DB06695, DB08901) in the provided context.\nThe interaction between DB06271 and DB01109 is implied through shared mechanism involving antithrombin III.\nDB06271 does not interact with DB06695, which is a direct thrombin inhibitor used in atrial fibrillation.\nDB06271's mechanism is distinct from DB08901, which inhibits FGFR fusion kinases.\nDB06271's mechanism is not related to DB05897, which modulates IGF-binding protein-3.\nDB06271's mechanism is not related to DB02034, which inhibits Q16706.\nDB06271's mechanism is not related to DB05077, a cannabinoid receptor antagonist.\nDB06271's mechanism is not related to DB00118, an inhibitor of S-adenosylmethionine decarboxylase.\nDB06271's mechanism is not related to DB00641, a statin prodrug.\nDB06271's mechanism is not related to DB00051, an anti-TNF agent.\nDB06271 interacts with antithrombin III and heparin cofactor II, but not with any of the listed compounds.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB06271 (SLX) is an agent that catalyzes thrombin inhibition by both antithrombin III (P01008) and heparin cofactor II (HCII) simultaneously",
+    "DB01109 (HEP) prevents thrombus formation and growth by accelerating thrombin inhibition by antithrombin III",
+    "DB06271 is more effective than DB01109 in preventing thrombus growth when administered as a bolus or by continuous infusion",
+    "DB06271 and DB01109 both target thrombin inhibition pathways involving antithrombin III",
+    "DB06271 interacts with antithrombin III and heparin cofactor II to exert its antithrombotic effects",
+    "DB06271 is not directly linked to any of the other listed compounds (DB00051, DB00118, DB00641, DB02034, DB05077, DB05897, DB06663, DB06695, DB08901) in the provided context",
+    "The interaction between DB06271 and DB01109 is implied through shared mechanism involving antithrombin III",
+    "DB06271 does not interact with DB06695, which is a direct thrombin inhibitor used in atrial fibrillation",
+    "DB06271's mechanism is distinct from DB08901, which inhibits FGFR fusion kinases",
+    "DB06271's mechanism is not related to DB05897, which modulates IGF-binding protein-3",
+    "DB06271's mechanism is not related to DB02034, which inhibits Q16706",
+    "DB06271's mechanism is not related to DB05077, a cannabinoid receptor antagonist",
+    "DB06271's mechanism is not related to DB00118, an inhibitor of S-adenosylmethionine decarboxylase",
+    "DB06271's mechanism is not related to DB00641, a statin prodrug",
+    "DB06271's mechanism is not related to DB00051, an anti-TNF agent",
+    "DB06271 interacts with antithrombin III and heparin cofactor II, but not with any of the listed compounds"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB06271 (SLX) is an agent that catalyzes thrombin inhibition by both antithrombin III (P01008) and heparin cofactor II (HCII) simultaneously",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB01109 (HEP) prevents thrombus formation and growth by accelerating thrombin inhibition by antithrombin III",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB06271 is more effective than DB01109 in preventing thrombus growth when administered as a bolus or by continuous infusion",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB06271 and DB01109 both target thrombin inhibition pathways involving antithrombin III",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB06271 interacts with antithrombin III and heparin cofactor II to exert its antithrombotic effects",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB06271 is not directly linked to any of the other listed compounds (DB00051, DB00118, DB00641, DB02034, DB05077, DB05897, DB06663, DB06695, DB08901) in the provided context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The interaction between DB06271 and DB01109 is implied through shared mechanism involving antithrombin III",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB06271 does not interact with DB06695, which is a direct thrombin inhibitor used in atrial fibrillation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB06271's mechanism is distinct from DB08901, which inhibits FGFR fusion kinases",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB06271's mechanism is not related to DB05897, which modulates IGF-binding protein-3",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB06271's mechanism is not related to DB02034, which inhibits Q16706",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB06271's mechanism is not related to DB05077, a cannabinoid receptor antagonist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB06271's mechanism is not related to DB00118, an inhibitor of S-adenosylmethionine decarboxylase",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB06271's mechanism is not related to DB00641, a statin prodrug",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB06271's mechanism is not related to DB00051, an anti-TNF agent",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB06271 interacts with antithrombin III and heparin cofactor II, but not with any of the listed compounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

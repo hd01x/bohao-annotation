@@ -1,0 +1,135 @@
+{
+  "uid": "musique__4hop2__71753_685934_70784_79935",
+  "sample_id": "4hop2__71753_685934_70784_79935",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "When was the region that lies to the north of the region Israel is located and where The World is located created?",
+  "gold_answer": "1930",
+  "context": [
+    "Gazit () is a kibbutz in northern Israel. Located in the Galilee, it falls under the jurisdiction of Jezreel Valley Regional Council. In it had a population of .",
+    "Defot Creek is a creek located in the Stikine Region of British Columbia. The creek is a tributary of the west fork of the Canyon River. Defot Creek is located north west of Dease Lake. The creek came to prominence when John Defot discovered gold there in 1878. Two hundred miners moved into the region and created a camp called Defot. Defot was mined using wing damming and sluicing. By 1880 fewer than 40 miners remained at the creek as the gold supply dwindled.",
+    "The Wollaston Peninsula (previously, Wollaston Land) is a west-pointing peninsula located on southwestern Victoria Island, Canada. It is bordered by Prince Albert Sound to the north, Amundsen Gulf to the west and Dolphin and Union Strait to the south. Most of the peninsula lies in Nunavut's Kitikmeot Region but a smaller portion lies within the Northwest Territories's Inuvik Region. The peninsula is long, and between wide. Its westernmost point is Cape Baring.",
+    "Escó, or in local Aragonese Esco, is an almost deserted village in the region of Jacetania, province of Zaragoza, Aragon, Spain, located next to the Yesa Reservoir.",
+    "For much of the region's history a patchwork of tribal rulers controlled most of the area. The Al Saud (the Saudi royal family) emerged as minor tribal rulers in Najd in central Arabia. From the mid-18th century, imbued with the religious zeal of the Wahhabi Islamic movement, they became aggressively expansionist. Over the following 150 years, the extent of the Al Saud territory fluctuated. However, between 1902 and 1927, the Al Saud leader, Abdulaziz, carried out a series of wars of conquest which resulted in his establishing the Kingdom of Saudi Arabia in 1930.",
+    "The World or The World Islands, (Arabic: جزر العالم; \"Juzur al-Ālam\") is an artificial archipelago of various small islands constructed in the rough shape of a world map, located in the waters of the Persian Gulf, off the coast of Dubai, United Arab Emirates. The World islands are composed mainly of sand dredged from Dubai's shallow coastal waters, and are one of several artificial island developments in Dubai. The World's developer is Nakheel Properties, and the project was originally conceived by Sheikh Mohammed bin Rashid Al Maktoum, the ruler of Dubai. The actual construction was done by two Dutch (joint venture) specialist companies, Van Oord and Boskalis. The same companies also created the Palm Jumeirah.",
+    "Manitung Island is an uninhabited island in the Qikiqtaaluk Region of Nunavut, Canada. It is located in Davis Strait, southeast of Baffin Island's Cumberland Peninsula and north of Auyuittuq National Park Reserve. Other islands in the immediate vicinity include Alikdjuak Island, Kekertaluk Island, Nedlukseak Island, and Nudlung Island.",
+    "Tzelafon () is a moshav in central Israel. Located to the north of Beit Shemesh, it falls under the jurisdiction of Mateh Yehuda Regional Council. In it had a population of .",
+    "Champlain is a municipality, located in Les Chenaux Regional County Municipality and the administrative region the Mauricie, in the province of Quebec, Canada. Located on the north shore of St. Lawrence River, Champlain is also part of the metropolitan area of Trois-Rivières.",
+    "The Lake District is located entirely within the county of Cumbria. All the land in England higher than 3,000 feet (914 m) above sea level lies within the National Park, including Scafell Pike, the highest mountain in England. It also contains the deepest and longest bodies of water in England, Wast Water and Windermere.",
+    "East Redonda Island is a coastal island in British Columbia, Canada, part of the Discovery Islands archipelago. It lies just to the north of Desolation Sound Marine Park, which is located off the north end of the Malaspina Peninsula at the mouth of Toba Inlet within Electoral Area C of the Strathcona Regional District.",
+    "Ami'oz () is a moshav in southern Israel. Located in the Hevel Eshkol area of the north-western Negev desert near the border with the Gaza Strip, it falls under the jurisdiction of Eshkol Regional Council. In it had a population of .",
+    "Israel (/ ˈɪzreɪəl /; Hebrew: יִשְׂרָאֵל ‎, Arabic: إِسْرَائِيل ‎), officially the State of Israel (Hebrew: מְדִינַת יִשְׂרָאֵל ‎, Arabic: دَوْلَة إِسْرَائِيل ‎), is a country in the Middle East, on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and Gaza Strip to the east and west, respectively, and Egypt to the southwest. The country contains geographically diverse features within its relatively small area. Israel's economy and technology center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem, although the state's sovereignty over East Jerusalem is not recognised internationally. The population of Israel was estimated in 2017 to be 8,777,580 people, of whom 74.7% were Jewish, 20.8% Arab and 4.5% others.",
+    "Beaverdell is an unincorporated settlement in the Monashee Country of the Southern Interior of British Columbia, Canada, which lies to the east of the Okanagan Valley and north of the Boundary Country region. It is located midway along the West Kettle River between Kelowna and Rock Creek along British Columbia Highway 33.",
+    "The Wapizagonke Lake is one of the bodies of water located the sector \"Lac-Wapizagonke\", in the city of Shawinigan, in the La Mauricie National Park, in the region of Mauricie, in Quebec, in Canada.",
+    "India is the largest & fastest growing economy in the region (US $2.180 trillion) and makes up almost 82% of the South Asian economy; it is the world's 7th largest in nominal terms and 3rd largest by purchasing power adjusted exchange rates (US $8.020 trillion). India is the only member of powerful G - 20 major economies and BRICS from the region. It is the fastest growing major economy in the world and one of the world's fastest registering a growth of 7.3% in FY 2014 -- 15. Pakistan has the next largest economy ($250 billion) and the 5th highest GDP per capita in the region, followed by Bangladesh and then by Sri Lanka which has the 2nd highest per capita and is the 4th largest economy in the region. According to a World Bank report in 2015, driven by a strong expansion in India, coupled with favorable oil prices, from the last quarter of 2014 South Asia become the fastest - growing region in the world",
+    "The Shoalhaven Scheme is a dual-purpose water supply and hydro-electric power generation scheme located on the South Coast region of New South Wales, Australia.",
+    "The desert is crossed by the second largest irrigation canal in the world, the Karakum Canal, which brings water from the Amu Darya to southern regions of the desert. Construction on the canal was started in 1954 and completed in 1958. It is 1,375 km in length, and carries 13-20 km³ of water annually. Leakages from the canal have created lakes and ponds along the canal and the rise in groundwater has caused widespread soil salination.",
+    "The Kingdom of Saudi Arabia is a country situated in Southwest Asia, the largest country of Arabia, bordering the Persian Gulf and the Red Sea, north of Yemen. Its extensive coastlines on the Persian Gulf and Red Sea provide great leverage on shipping (especially crude oil) through the Persian Gulf and Suez Canal. The kingdom occupies 80% of the Arabian Peninsula. Most of the country's boundaries with the United Arab Emirates (UAE), Oman, and the Republic of Yemen (formerly two separate countries: the Yemen Arab Republic or North Yemen; and the People's Democratic Republic of Yemen or South Yemen) are undefined, so the exact size of the country remains unknown. The Saudi government estimate is at 2,217,949 square kilometres, while other reputable estimates vary between 2,149,690 and 2,240,000 sq. kilometres. Less than 1% of the total area is suitable for cultivation, and in the early 1990s, population distribution varied greatly among the towns of the eastern and western coastal areas, the densely populated interior oases, and the vast, almost empty deserts.",
+    "Leisure World Arizona is a gated, resort style adult community located in Mesa, Arizona. The community is located about one mile north of U.S. Route 60 on Power Road. The community is bounded by Southern Avenue, Broadway and Power Roads and the Roosevelt Water Conservation District Canal on the west. The Superstition Mountains to the east serve as a backdrop to Leisure World Arizona. It is near three major freeway systems."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nIsrael is located in the Middle East, on the southeastern shore of the Mediterranean Sea.\nThe World Islands are located in the Persian Gulf, off the coast of Dubai, United Arab Emirates.\nThe region to the north of Israel is the Levant, which includes Lebanon, Syria, and parts of Turkey.\nThe region to the north of the Persian Gulf is the Arabian Peninsula, including countries like Saudi Arabia and Kuwait.\nThe World Islands were developed by Nakheel Properties and were originally conceived by Sheikh Mohammed bin Rashid Al Maktoum.\nThe World Islands project was initiated in 2003 and construction began in 2003.\nThe region that lies to the north of Israel and where The World is located is not a single political entity but spans multiple countries.\nThe question refers to a region that is geographically north of Israel and also includes the location of The World Islands.\nThe World Islands are located in the Persian Gulf, which is south of the Arabian Peninsula.\nThe area north of Israel is not the same as the area where The World Islands are located.\nThe question conflates two distinct geographic regions: one north of Israel and one where The World Islands are located.\nThe region north of Israel is not the same as the region where The World Islands are located.\nThe World Islands were created in 2003.\nThe region north of Israel was not created in a specific year.\nThe question asks for the creation date of a region that is not a single defined political or geographic entity.\nThe creation date of the region that lies to the north of Israel and where The World is located is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Israel is located in the Middle East, on the southeastern shore of the Mediterranean Sea",
+    "The World Islands are located in the Persian Gulf, off the coast of Dubai, United Arab Emirates",
+    "The region to the north of Israel is the Levant, which includes Lebanon, Syria, and parts of Turkey",
+    "The region to the north of the Persian Gulf is the Arabian Peninsula, including countries like Saudi Arabia and Kuwait",
+    "The World Islands were developed by Nakheel Properties and were originally conceived by Sheikh Mohammed bin Rashid Al Maktoum",
+    "The World Islands project was initiated in 2003 and construction began in 2003",
+    "The region that lies to the north of Israel and where The World is located is not a single political entity but spans multiple countries",
+    "The question refers to a region that is geographically north of Israel and also includes the location of The World Islands",
+    "The World Islands are located in the Persian Gulf, which is south of the Arabian Peninsula",
+    "The area north of Israel is not the same as the area where The World Islands are located",
+    "The question conflates two distinct geographic regions: one north of Israel and one where The World Islands are located",
+    "The region north of Israel is not the same as the region where The World Islands are located",
+    "The World Islands were created in 2003",
+    "The region north of Israel was not created in a specific year",
+    "The question asks for the creation date of a region that is not a single defined political or geographic entity",
+    "The creation date of the region that lies to the north of Israel and where The World is located is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Israel is located in the Middle East, on the southeastern shore of the Mediterranean Sea",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The World Islands are located in the Persian Gulf, off the coast of Dubai, United Arab Emirates",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The region to the north of Israel is the Levant, which includes Lebanon, Syria, and parts of Turkey",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The region to the north of the Persian Gulf is the Arabian Peninsula, including countries like Saudi Arabia and Kuwait",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The World Islands were developed by Nakheel Properties and were originally conceived by Sheikh Mohammed bin Rashid Al Maktoum",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The World Islands project was initiated in 2003 and construction began in 2003",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The region that lies to the north of Israel and where The World is located is not a single political entity but spans multiple countries",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C8",
+      "text": "The question refers to a region that is geographically north of Israel and also includes the location of The World Islands",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C9",
+      "text": "The World Islands are located in the Persian Gulf, which is south of the Arabian Peninsula",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C10",
+      "text": "The area north of Israel is not the same as the area where The World Islands are located",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C11",
+      "text": "The question conflates two distinct geographic regions: one north of Israel and one where The World Islands are located",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C12",
+      "text": "The region north of Israel is not the same as the region where The World Islands are located",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C13",
+      "text": "The World Islands were created in 2003",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C14",
+      "text": "The region north of Israel was not created in a specific year",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C15",
+      "text": "The question asks for the creation date of a region that is not a single defined political or geographic entity",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C16",
+      "text": "The creation date of the region that lies to the north of Israel and where The World is located is not specified",
+      "claim_type": "DR"
+    }
+  ]
+}

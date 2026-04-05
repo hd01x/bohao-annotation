@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__2ef10335771662b59cf8",
+  "sample_id": "2ef10335771662b59cf8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could Bernie Sanders visit the Metropolitan Museum of Art twenty times for under two hundred dollars?",
+  "gold_answer": "no",
+  "context": [
+    "Bernie Sanders is a senior citizen",
+    "Senior citizens from outside NY, NJ, or CT must pay $17 per visit"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBernie Sanders is a senior citizen.\nSenior citizens from outside New York, New Jersey, or Connecticut must pay $17 per visit to the Metropolitan Museum of Art.\nTwenty visits at $17 per visit would cost 20 × 17 = $340.\n$340 is greater than $200.\nBernie Sanders cannot visit the Metropolitan Museum of Art twenty times for under two hundred dollars.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Bernie Sanders is a senior citizen",
+    "Senior citizens from outside New York, New Jersey, or Connecticut must pay $17 per visit to the Metropolitan Museum of Art",
+    "Twenty visits at $17 per visit would cost 20 × 17 = $340",
+    "$340 is greater than $200",
+    "Bernie Sanders cannot visit the Metropolitan Museum of Art twenty times for under two hundred dollars"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bernie Sanders is a senior citizen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Senior citizens from outside New York, New Jersey, or Connecticut must pay $17 per visit to the Metropolitan Museum of Art",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Twenty visits at $17 per visit would cost 20 × 17 = $340",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "$340 is greater than $200",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Bernie Sanders cannot visit the Metropolitan Museum of Art twenty times for under two hundred dollars",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

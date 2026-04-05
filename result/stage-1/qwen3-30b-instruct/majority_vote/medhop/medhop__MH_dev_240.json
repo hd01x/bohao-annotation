@@ -1,0 +1,206 @@
+{
+  "uid": "medhop__MH_dev_240",
+  "sample_id": "MH_dev_240",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00360\", \"DB00486\", \"DB00513\", \"DB01283\", \"DB04799\", \"DB04860\", \"DB05066\", \"DB07232\", and \"DB07954\" interacts with DB00668?",
+  "gold_answer": "DB00486",
+  "context": [
+    "Separation of plasminogen activators from human plasma and a comparison with activators from human uterine tissue and urine . Normal human plasma contains acid-stable as well as labile plasminogen activators . The activity of activators in plasma euglobulins was inhibited by DB00513 in an uniform pattern , similar to that obtained with the major activators in human uterine tissue or with the purified porcine tissue activator , but different from the patterns obtained with plasmin or with urokinase . Gel filtration at high ionic strength separated activators corresponding to particle sizes of 60,000 dalton and about 10,000 dalton , corresponding to two activators similarly obtained from human tissue . The 60,000 dalton activator was precipitated in the euglobulin fraction . Its concentration increased in plasma after exercise . The 10,000 dalton activator was found mainly in the supernatant . Gel filtration in 0.15 M solutions yielded activators in fractions of molecular sizes of 100-140,000 dalton and 200,000 dalton or larger . The activity of normal and exercise euglobulins was inhibited by antiserum to a plasminogen activator prepared from porcine tissue , but it was not inhibited by antiserum to urokinase . P00747 activators in human plasma euglobulins resembled immunochemically the activators in human uterine tissue .",
+    "Lack of endothelial nitric oxide synthase aggravates murine pneumococcal meningitis . DB00435 ( NO ) plays a central role in the pathogenesis of bacterial meningitis . However , the role of NO produced by endothelial NO synthase ( P29474 ) in meningitis is still unclear . We investigated the influence of P29474 depletion on the inflammatory host response , intracranial complications , and outcome in experimental pneumococcal meningitis . Leukocyte accumulation in the cerebrospinal fluid was more pronounced in infected P29474 -deficient mice than in infected wild type mice . This effect could be attributed to an increased expression of P16109 , macrophage inflammatory protein-2 , keratinocyte-derived cytokine , and interleukin ( IL ) -1beta in the brain of infected P29474 -deficient mice . However , no differences in the cerebral expression of intercellular adhesion molecule-1 , tumor necrosis factor-alpha , and P05231 as well as of neuronal NOS and inducible NOS could be detected between infected wild type and mutant mice . In addition to enhanced leukocyte infiltration into the P04141 , meningitis-associated intracranial complications including blood-brain barrier disruption and the rise in intracranial pressure were significantly augmented in infected P29474 -deficient mice . The aggravation of intracranial complications was paralleled by a worsening of the disease , as evidenced by a more pronounced hypothermia , an enhanced weight reduction , and an increased death rate . The current data indicate that P29474 deficiency is detrimental in bacterial meningitis . This effect seems to be related to an increased expression of ( certain ) cytokines/chemokines and adhesion molecules ; thus leading to increased meningeal inflammation and , subsequently , to aggravated intracranial complications .",
+    "Indirubin-3'- ( 2,3 dihydroxypropyl ) -oximether ( E804 ) is a potent modulator of LPS-stimulated macrophage functions . Indirubin is a deep-red bis-indole isomer of indigo blue , both of which are biologically active ingredients in Danggui Longhui Wan , an ancient Chinese herbal tea mixture used to treat neoplasia and chronic inflammation and to enhance detoxification of xenobiotics . Multiple indirubin derivatives have been synthesized and shown to inhibit cyclin-dependent kinases ( CDKs ) and glycogen-synthase kinase ( GSK-3β ) with varying degrees of potency . Several indirubins are also aryl hydrocarbon receptor ( P35869 ) agonists , with P35869 -associated activities covering a wide range of potencies , depending on molecular structure . This study examined the effects of indirubin-3'- ( 2,3 dihydroxypropyl ) -oximether ( E804 ) , a novel indirubin with potent P40763 inhibitory properties , on basal and LPS-inducible activities in murine RAW264.7 macrophages . Using a focused commercial qRT-PCR array platform ( SuperArray® ) , the effects of E804 on expression of a suite of genes associated with stress and toxicity were determined . Most genes up-regulated by LPS treatment were suppressed by E804 ; including LPS-induced expression of pro-inflammatory cytokines and receptors , apoptosis control genes , and oxidative stress response genes . Using qRT-PCR as a follow up to the commercial arrays , E804 treatment suppressed LPS-induced P35354 , P35228 , P05231 and P22301 gene expression , though the effects on P35228 and P35354 protein expression were less dramatic . E804 also inhibited LPS-induced secretion of P05231 and P22301 . Functional endpoints , including P35228 and lysozyme enzymatic activity , phagocytosis of fluorescent latex beads , and intracellular killing of bacteria , were also examined , and in each experimental condition E804 suppressed activities . Collectively , these results indicate that E804 is a potent modulator of pro-inflammatory profiles in LPS-treated macrophages .",
+    "Q14790 and RIP kinases regulate bacteria-induced innate immune responses and cell death . A number of pathogens cause host cell death upon infection , and Yersinia pestis , infamous for its role in large pandemics such as the \" Black Death \" in medieval Europe , induces considerable cytotoxicity . The rapid killing of macrophages induced by Y. pestis , dependent upon type III secretion system effector Yersinia outer protein J ( YopJ ) , is minimally affected by the absence of caspase-1 , caspase-11 , P48023 , and P01375 . Q14790 is known to mediate apoptotic death in response to infection with several viruses and to regulate programmed necrosis ( necroptosis ) , but its role in bacterially induced cell death is poorly understood . Here we provide genetic evidence for a receptor-interacting protein ( RIP ) kinase-caspase-8-dependent macrophage apoptotic death pathway after infection with Y. pestis , influenced by O00206 -TIR-domain-containing adapter-inducing interferon-β ( O00206 - Q8IUC6 ) . Interestingly , macrophages lacking either Q13546 , or caspase-8 and RIP3 , also had reduced infection-induced production of IL-1β , Q14116 , P01375 , and P05231 ; impaired activation of the transcription factor NF-κB ; and greatly compromised caspase-1 processing . Cleavage of the proform of caspase-1 is associated with triggering inflammasome activity , which leads to the maturation of IL-1β and Q14116 , cytokines important to host responses against Y. pestis and many other infectious agents . Our results identify a Q13546 -caspase-8/RIP3-dependent caspase-1 activation pathway after Y. pestis challenge . Mice defective in caspase-8 and RIP3 were also highly susceptible to infection and displayed reduced proinflammatory cytokines and myeloid cell death . We propose that caspase-8 and the RIP kinases are key regulators of macrophage cell death , NF-κB and inflammasome activation , and host resistance after Y. pestis infection .",
+    "AM2389 , a high-affinity , in vivo potent P21554 -receptor-selective cannabinergic ligand as evidenced by drug discrimination in rats and hypothermia testing in mice . RATIONALE : The endocannabinoid signaling system ( ECS ) has been targeted for developing novel therapeutics since ECS dysfunction has been implicated in various pathologies . Current focus is on chemical modifications of the hexahydrocannabinol ( HHC ) nabilone ( DB00486 (®) ) . OBJECTIVE : To characterize the novel , high-affinity cannabinoid receptor 1 ( CB(1)R ) HHC-ligand AM2389 [ 9β-hydroxy-3-(1-hexyl-cyclobut-1-yl)-hexahydrocannabinol in two rodent pre-clinical assays . MATERIALS AND METHODS : CB(1)R mediation of AM2389-induced hypothermia in mice was evaluated with AM251 , a CB(1)R-selective antagonist/inverse agonist . Additionally , two groups of rats discriminated the full cannabinergic aminoalkylindole AM5983 ( 0.18 and 0.56 mg/kg ) from vehicle 20 min post-injection in a two-choice operant conditioning task motivated by 0.1 % saccharin/water . Generalization/substitution tests were conducted with AM2389 , AM5983 , and Δ(9)-tetrahydrocannabinol ( Δ(9)-THC ) . RESULTS : Δ(9)-THC (30 mg/kg)-induced hypothermia exhibited a faster onset and shorter duration of action compared with AM2389 ( 0.1 and 0.3 mg/kg ) . AM251 ( 3 and 10 mg/kg ) attenuated/blocked hypothermia induced by 0.3 mg/kg AM2389 . In drug discrimination , the order of potency was AM2389 > AM5983 > Δ(9)-THC with ED(50) values of 0.0025 , 0.0571 , and 0.2635 mg/kg , respectively , in the low-dose condition . The corresponding ED(50) values in the high-dose condition were 0.0069 , 0.1246 , and 0.8438 mg/kg , respectively . Onset of the effects of AM2389 was slow with a protracted time-course ; the functional , perceptual in vivo half-life was approximately 17 h . CONCLUSIONS : This potent cannabinergic HHC exhibited a slow onset of action with a protracted time-course . The AM2389 chemotype appears well suited for further drug development , and AM2389 currently is used to probe behavioral consequences of sustained ECS activation .",
+    "Phosphodiesterases Regulate BAY 41-2272-Induced P50552 Phosphorylation in Vascular Smooth Muscle Cells . BAY 41-2272 ( BAY ) , a stimulator of soluble guanylyl cyclase , increases cyclic nucleotides and inhibits proliferation of vascular smooth muscle cells ( VSMCs ) . In this study , we elucidated mechanisms of action of BAY in its regulation of vasodilator-stimulated phosphoprotein ( P50552 ) with an emphasis on VSMC phosphodiesterases ( PDEs ) . BAY alone increased phosphorylation of P50552 (Ser239) and P50552 (Ser157) , respective indicators of PKG and PKA signaling . DB07954 , a non-selective inhibitor of PDEs , had no effect on BAY-induced phosphorylation at P50552 (Ser239) but inhibited phosphorylation at P50552 (Ser157) . Selective inhibitors of PDE3 or DB05876 attenuated BAY-mediated increases at P50552 (Ser239) and P50552 (Ser157) , whereas O76074 inhibition potentiated BAY-mediated increases only at P50552 (Ser157) . In comparison , 8Br-cGMP increased phosphorylation at P50552 (Ser239) and P50552 (Ser157) which were not affected by selective PDE inhibitors . In the presence of 8Br- DB02527 , inhibition of either DB05876 or O76074 decreased P50552 (Ser239) phosphorylation and inhibition of PDE3 increased phosphorylation at P50552 (Ser239) , while inhibition of PDE3 or DB05876 increased and O76074 inhibition had no effect on P50552 (Ser157) phosphorylation . These findings demonstrate that BAY operates via DB02527 and cGMP along with regulation by PDEs to phosphorylate P50552 in VSMCs and that the mechanism of action of BAY in VSMCs is different from that of direct cyclic nucleotide analogs with respect to P50552 phosphorylation and the involvement of PDEs . Given a role for P50552 as a critical cytoskeletal protein , these findings provide evidence for BAY as a regulator of VSMC growth and a potential therapeutic agent against vasculoproliferative disorders .",
+    "Sodium butyrate decreases the activation of NF-κB reducing inflammation and oxidative damage in the kidney of rats subjected to contrast-induced nephropathy . BACKGROUND : Contrast-induced nephropathy ( Q96GD0 ) is associated with a combination of hypoxic and toxic renal tubular damage , renal endothelial dysfunction and altered intra-renal microcirculation . Recently , sodium butyrate ( SB ) has been focused on since it possesses anti-inflammatory activities . Thus , based on the lack of information on the effects of SB in acute kidney injury ( AKI ) , we investigated the possible effects of SB after Q96GD0 in rats . METHODS : Wistar rats were divided into three groups : ( 1 sham ) control , ( 2 MI ) AKI treated with contrast medium and ( 3 MI + SB ) AKI plus SB . Six days after contrast administration , blood and kidney were removed for the determination of creatinine , interleukin ( IL ) -6 levels , oxidative damage parameters and histologic analyses . Nuclear factor kappa B ( NF-κB ) , pIκBα and vasodilator-stimulated phosphoprotein ( P50552 ) protein content were determined by immunoblotting . RESULTS : After 6 days , the levels of creatinine increased significantly in the MI group , and this was attenuated using SB . SB treatment was associated with a decrease on the levels of lipid peroxidation , but not the protein oxidation , and P05231 levels , as well as tubular damage . These effects are probably mediated , in part , by a decrease on the activation of NF-κB in the kidney , but not alteration in pVASP content . CONCLUSIONS : The current experiment suggests that NF-κB induced an inflammatory response after Q96GD0 and SB could inhibit NF-κB expression protecting against Q96GD0 in rats .",
+    "Release of cytokines by blood monocytes during strenuous exercise . During strenuous exercise in endurance athletes , monocytes are activated and there is an acute inflammation and hypoxemia possibly due to lesional pulmonary edema . P05231 and P01375 released by monocytes may be implicated in the acute phase of lesional pulmonary edema . A study was carried out to determine whether P01375 and P05231 are released during strenuous exercise , and , if adrenalin released during exercise alters their generation . Ten young and six master athletes underwent an incremental exercise test . Arterial blood was drawn at rest , at the end of the exercise , and 20 minutes afterwards . Monocytes were isolated and incubated for 18 hours in the presence or absence of adrenalin . Il-6 and P01375 were measured in monocyte supernatants . The spontaneous release of P05231 or P01375 was increased in young athletes when compared to older subjects . The spontaneous release of P01375 was increased , but not significantly , by exercise and there was no correlation between the release of P05231 and P01375 and lung function measured during hypoxemia . DB00668 inhibited the release of P05231 or P01375 . Correlations were observed between the in vitro release of P05231 or P01375 and age , VO2max , maximal ventilation and maximal power output of the subjects .",
+    "Uptake of particulate vaccine adjuvants by dendritic cells activates the Q96P20 inflammasome . Many currently used and candidate vaccine adjuvants are particulate in nature , but their mechanism of action is not well understood . Here , we show that particulate adjuvants , including biodegradable poly(lactide-co-glycolide) ( P00747 ) and polystyrene microparticles , dramatically enhance secretion of interleukin-1beta ( IL-1beta ) by dendritic cells ( DCs ) . The ability of particulates to promote IL-1beta secretion and caspase 1 activation required particle uptake by DCs and Q96P20 . Uptake of microparticles induced lysosomal damage , whereas particle-mediated enhancement of IL-1beta secretion required phagosomal acidification and the lysosomal cysteine protease cathepsin B , suggesting a role for lysosomal damage in inflammasome activation . Although the presence of a Toll-like receptor ( TLR ) agonist was required to induce IL-1beta production in vitro , injection of the adjuvants in the absence of TLR agonists induced IL-1beta production at the injection site , indicating that endogenous factors can synergize with particulates to promote inflammasome activation . The enhancement of antigen-specific antibody production by P00747 microparticles was independent of Q96P20 . However , the ability of P00747 microparticles to promote antigen-specific P05231 production by T cells and the recruitment and activation of a population of CD11b(+)Gr1(-) cells required Q96P20 . Our data demonstrate that uptake of microparticulate adjuvants by DCs activates the Q96P20 inflammasome , and this contributes to their enhancing effects on innate and antigen-specific cellular immunity .",
+    "Mutational analysis of the mitochondrial P47985 of Saccharomyces cerevisiae . II . Biochemical characterization of temperature-sensitive Q13546 - mutations . Although the function of the P47985 is generally understood , little is known of how the structure of this protein supports its mechanistic role in electron transfer in the cytochrome bc1 complex . To better understand the structural basis of iron-sulfur protein function , we have undertaken a mutational analysis of the gene encoding this protein and initially isolated five temperature-sensitive iron-sulfur protein mutants ( Beckmann , J. D. , Ljungdahl , P. O. , and Trumpower , B. L. ( 1989 ) J. Biol. Chem. 264 , 3713-3722 ) . Each of the five ts-rip1- mutants exhibited pleiotropic effects . Although the mutant iron-sulfur proteins manifest several in vitro phenotypes in common , each exhibited unique characteristics . All of the ts-rip1- mutations resulted in membranes with decreased ubiquinol-cytochrome c oxidoreductase activities and decreased thermostability compared to membranes containing wild type iron-sulfur protein . All of the mutations conferred slight but significant resistance to the respiratory inhibitor myxothiazol , and one mutant was hypersensitive to inhibition by DB04799 , a structural analog of ubiquinone . In addition , one of the mutations completely blocks post-translational processing of the iron-sulfur protein , leading to accumulation of pre-iron-sulfur protein in mitochondrial membranes at nonpermissive temperatures . Finally , a mutation 12-amino acid residues away from the carboxyl terminus ( 203S ) results in an extremely unstable protein . This region of the protein may be essential in blocking degradation of pre-iron-sulfur protein by cytoplasmic proteases as the protein is imported into the mitochondria , or may be a \" degradation signal , \" which tags the iron-sulfur protein for turnover .",
+    "The glial cell modulator and phosphodiesterase inhibitor , DB05066 ( ibudilast ) , attenuates prime- and stress-induced methamphetamine relapse . Stress and renewed contact with drug ( a \" slip \" ) have been linked to persisting relapse of methamphetamine abuse . Human brain microglial activation has been linked with methamphetamine abuse , and inhibitors of glial cell activation , certain phosphodiesterase ( PDE ) inhibitors , and glial cell derived neurotrophic factor ( P39905 ) have been reported to modulate drug abuse effects . Our objective was to determine whether the glial cell attenuator , 3-isobutyryl-2-isopropylpyrazolo-[1,5-a]pyridine ( DB05066 , ibudilast ) , a non-selective PDE inhibitor and promoter of P39905 , could reduce stress- and methamphetamine prime-induced reinstatement of methamphetamine-seeking behavior . Male Long-Evans hooded rats were trained to lever press reinforced with 0.1 mg/kg i.v. methamphetamine infusion according to fixed-ratio 1 ( FR1 ) reinforcement schedules during daily , 2-hour experimental sessions . After performance had stabilized , lever pressing was extinguished for 12 consecutive sessions and doses of 0 ( vehicle ) , 2.5 and 7.5 mg/kg DB05066 were then administered intraperitoneally b.i.d. on the last 2 days of extinction and then once on the testday to separate groups of 12 rats . During testing , the rats were given 15 min of intermittent footshock or a 1 mg/kg i.p. methamphetamine prime followed by a 2-hour reinstatement test session . DB05066 significantly reduced response levels of footshock-induced ( 2.5 and 7.5 mg/kg ) and prime-induced ( 7.5 mg/kg ) reinstatement of extinguished methamphetamine-maintained responding . DB05066 has properties consistent with the ability to attenuate relapse precipitated by stress and methamphetamine \" slips \" during abstinence . These results thus reinforce interest in atypical neurobiological mechanisms which could be exploited for developing novel medications for treating drug abuse disorders .",
+    "Janus-faced role of endothelial NO synthase in vascular disease : uncoupling of oxygen reduction from NO synthesis and its pharmacological reversal . Endothelial NO synthase ( P29474 ) is the predominant enzyme responsible for vascular NO synthesis . A functional P29474 transfers electrons from NADPH to its heme center , where L-arginine is oxidized to L-citrulline and NO . Common conditions predisposing to atherosclerosis , such as hypertension , hypercholesterolemia , diabetes mellitus and smoking , are associated with enhanced production of reactive oxygen species ( ROS ) and reduced amounts of bioactive NO in the vessel wall . NADPH oxidases represent major sources of ROS in cardiovascular pathophysiology . NADPH oxidase-derived superoxide avidly interacts with P29474 -derived NO to form peroxynitrite ( ONOO(-) ) , which oxidizes the essential NOS cofactor (6R-) DB00360 ( BH(4) ) . As a consequence , oxygen reduction uncouples from NO synthesis , thereby rendering NOS to a superoxide-producing pro-atherosclerotic enzyme . Supplementation with BH(4) corrects P29474 dysfunction in several animal models and in patients . Administration of high local doses of the antioxidant L-ascorbic acid ( vitamin C ) improves endothelial function , whereas large-scale clinical trials do not support a strong role for oral vitamin C and/or E in reducing cardiovascular disease . Statins , angiotensin-converting enzyme inhibitors and AT1 receptor blockers have the potential of reducing vascular oxidative stress . Finally , novel approaches are being tested to block pathways leading to oxidative stress ( e.g. protein kinase C ) or to upregulate antioxidant enzymes .",
+    "Informative gene network for chemotherapy-induced peripheral neuropathy . BACKGROUND : Host genetic variability has been implicated in chemotherapy-induced peripheral neuropathy ( CIPN ) . A dose-limiting toxicity for chemotherapy agents , CIPN is also a debilitating condition that may progress to chronic neuropathic pain . We utilized a bioinformatics approach , which captures the complexity of intracellular and intercellular interactions , to identify genes for CIPN . METHODS : Using genes pooled from the literature as a starting point , we used Ingenuity Pathway Analysis ( IPA ) to generate gene networks for CIPN . RESULTS : We performed IPA core analysis for genes associated with platinum- , taxane- and platinum-taxane-induced neuropathy . We found that P05231 , P01375 , P10145 , P01584 and P27361 /2 were the top genes in terms of the number of connections in platinum-induced neuropathy and P04637 , MYC , P09874 , O75791 MAPK and P01375 for combined taxane-platinum-induced neuropathy . CONCLUSION : Neurotoxicity is common in cancer patients treated with platinum compounds and anti-microtubule agents and CIPN is one of the debilitating sequela . The bioinformatic approach helped identify genes associated with CIPN in cancer patients .",
+    "Age-associated decrease in TLR function in primary human dendritic cells predicts influenza vaccine response . We evaluated TLR function in primary human dendritic cells ( DCs ) from 104 young ( age 21-30 y ) and older ( > or =65 y ) individuals . We used multicolor flow cytometry and intracellular cytokine staining of myeloid DCs ( mDCs ) and plasmacytoid DCs ( pDCs ) and found substantial decreases in older compared with young individuals in P01375 , P05231 , and/or IL-12 ( p40 ) production in mDCs and in P01375 and IFN-alpha production in pDCs in response to Q15399 /2 , O60603 /6 , O15455 , O60602 , and Q9NR97 engagement in mDCs and Q9NYK1 and Q9NR96 in pDCs . These differences were highly significant after adjustment for heterogeneity between young and older groups ( e.g. , gender , race , body mass index , number of comorbid medical conditions ) using mixed-effect statistical modeling . Studies of surface and intracellular expression of TLR proteins and of TLR gene expression in purified mDCs and pDCs revealed potential contributions for both transcriptional and posttranscriptional mechanisms in these age-associated effects . Moreover , intracellular cytokine production in the absence of TLR ligand stimulation was elevated in cells from older compared with young individuals , suggesting a dysregulation of cytokine production that may limit further activation by TLR engagement . Our results provide evidence for immunosenescence in DCs ; notably , defects in cytokine production were strongly associated with poor Ab response to influenza immunization , a functional consequence of impaired TLR function in the aging innate immune response .",
+    "DB06155 inhibits P01375 -α-induced endothelial P05231 secretion via P21554 receptor and DB02527 -dependent protein kinase pathway . AIM : To investigate whether rimonabant , a cannabinoid receptor antagonist , had inhibitory effects on inflammatory reactions in human umbilical vein endothelial cells ( HUVEC ) . METHODS : P01375 -α-induced P05231 production was measured by ELISA and effects on related signaling pathways were investigated by immunoblot analysis . Cellular DB02527 level was measured using kinase-coupled luciferase reaction . RESULTS : DB06155 at 1 and 10 μmol/L significantly inhibited P01375 -α-induced P05231 production when added 15 , 30 and 60 minutes before P01375 -α treatment . DB06155 also inhibited P01375 -α-induced phosphorylation of IκB kinase ( IKK ) α/β and IκB-α degradation . ACEA , a cannabinoid receptor subtype 1 ( P21554 ) agonist , added before rimonabant abolished the former effects of rimonabant . H-89 , an inhibitor of DB02527 -dependent protein kinase ( PKA ) , abolished the inhibitory effects of rimonabant on P01375 -α induced P05231 production . DB06155 also increased the phosphorylation of PKA regulatory subunit II ( PKA-RII ) , implying the essential role of PKA activation in the inhibitory effects of rimonabant . Treatment with the phosphatidylinositol 3-kinase ( PI3K ) inhibitor , wortmannin did not abolish the inhibitory effects of rimonabant on P01375 -α induced P05231 production . CONCLUSION : DB06155 had anti-inflammatory effects on endothelial cells and inhibited P01375 -α-induced IKKα/β phosphorylation , IκB-α degradation and P05231 production in HUVEC . This effect was related to P21554 antagonism and PKA activation .",
+    "Enhanced killing of cancer cells by poly(ADP-ribose) polymerase inhibitors and topoisomerase I inhibitors reflects poisoning of both enzymes . Poly(ADP-ribose) polymerase-1 ( P09874 ) plays critical roles in the regulation of DNA repair . Accordingly , small molecule inhibitors of PARP are being developed as agents that could modulate the activity of genotoxic chemotherapy , such as topoisomerase I poisons . In this study we evaluated the ability of the PARP inhibitor veliparib to enhance the cytotoxicity of the topoisomerase I poisons topotecan and camptothecin ( CPT ) . DB07232 increased the cell cycle and cytotoxic effects of topotecan in multiple cell line models . Importantly , this sensitization occurred at veliparib concentrations far below those required to substantially inhibit poly(ADP-ribose) polymer synthesis and at least an order of magnitude lower than those involved in selective killing of homologous recombination-deficient cells . Further studies demonstrated that veliparib enhanced the effects of CPT in wild-type mouse embryonic fibroblasts ( MEFs ) but not Parp1(-/-) MEFs , confirming that P09874 is the critical target for this sensitization . Importantly , parental and Parp1(-/-) MEFs had indistinguishable CPT sensitivities , ruling out models in which P09874 catalytic activity plays a role in protecting cells from topoisomerase I poisons . To the contrary , cells were sensitized to CPT in a veliparib-independent manner upon transfection with P09874 E988K , which lacks catalytic activity , or the isolated P09874 DNA binding domain . These results are consistent with a model in which small molecule inhibitors convert P09874 into a protein that potentiates the effects of topoisomerase I poisons by binding to damaged DNA and preventing its normal repair .",
+    "Clinical pharmacology of novel selective P35354 inhibitors . Novel coxibs ( i.e. etoricoxib , valdecoxib , parecoxib and lumiracoxib ) with enhanced biochemical cyclooxygenase ( P36551 ) -2 selectivity over that of rofecoxib and celecoxib have been recently developed . They have the potential advantage to spare P23219 activity , thus reducing gastrointestinal toxicity , even when administered at high doses to improve efficacy . They are characterized by different pharmacodynamic and pharmacokinetics features . The higher biochemical selectivity of valdecoxib than celecoxib , evidenced in vitro , may be clinically relevant leading to an improved gastrointestinal safety . Interestingly , parecoxib , a pro-drug of valdecoxib , is the only injectable coxib . DB01628 shows only a slightly improved P35354 selectivity than rofecoxib , a highly selective P35354 inhibitor that has been reported to halve the incidence of serious gastrointestinal toxicity compared to nonselective nonsteroidal antiinflammatory drugs ( NSAIDs ) . DB01283 , the most selective P35354 inhibitor in vitro , is the only acidic coxib . The hypothesis that this chemical property may lead to an increased and persistent drug accumulation in inflammatory sites and consequently to an improved clinical efficacy , however , remains to be verified . Several randomized clinical studies suggest that the novel coxibs have comparable efficacy to nonselective NSAIDs in the treatment of osteoarthritis , rheumatoid arthritis and acute pain , but they share similar renal side-effects . The apparent dose-dependence of renal toxicity may limit the use of higher doses of the novel coxibs for improved efficacy . Large-size randomized clinical trials are ongoing to define the gastrointestinal and cardiovascular safety of the novel coxibs .",
+    "Q00613 inhibits expression of P05231 through activating transcription factor 3 . The febrile response is a complex physiological reaction to disease , including a cytokine-mediated increase in body temperature and the activation of inflammatory systems . Fever has beneficial roles in terms of disease prognosis , partly by suppressing the expression of inflammatory cytokines . However , the molecular mechanisms underlining the fever-mediated suppression of inflammatory gene expression have not been clarified . In this study , we showed that heat shock suppresses LPS-induced expression of P05231 , a major pyrogenic cytokine , in mouse embryonic fibroblasts and macrophages . Q00613 ( Q00613 ) activated by heat shock induced the expression of activating transcription factor ( P39905 ) 3 , a negative regulator of P05231 , and P18847 was necessary for heat-mediated suppression of P05231 , indicating a fever-mediated feedback loop consisting of Q00613 and P18847 . A comprehensive analysis of inflammatory gene expression revealed that heat pretreatment suppresses LPS-induced expression of most genes ( 86 % ) , in part ( 67 % ) via P18847 . When Q00613 -null and P18847 -null mice were injected with LPS , they expressed much higher levels of P05231 than wild-type mice , resulting in an exaggerated febrile response . These results demonstrate a novel inhibitory pathway for inflammatory cytokines .",
+    "DB04860 , an agonist of Q9NYK1 , reduces plasma virus concentration in chronic hepatitis C infection . Immune-based therapy is the mainstay treatment for chronic hepatitis C virus ( HCV ) infection but causes multiple side effects and achieves durable viral clearance in only approximately 50 % of patients . Most new investigational anti-HCV compounds are direct-acting antivirals for which durability of response and risk of viral mutations and resistance are not yet known . Therefore , continuing discovery and development of new immune-based treatments is desirable . Toll-like receptors ( TLRs ) are pathogen recognition receptors that initiate the innate immune response . The responsiveness of HCV or other ongoing chronic systemic infections to treatment with a selective TLR agonist has not been reported . DB04860 is a selective agonist of Q9NYK1 . In a proof-of-concept study , we found that once-daily 7-day treatment with intravenous isatoribine 800 mg caused a significant ( P = .001 ) reduction of plasma HCV RNA ( mean , -0.76 ; range , -2.85 to +0.21 log(10) units ) in otherwise untreated patients ( n = 12 ) who were chronically infected with HCV . Viral load reduction occurred in patients infected with genotype 1 as well as non-genotype 1 HCV . The reduction of viral load was correlated with induction of markers of a heightened immune antiviral state , including 2'- , 5'- oligoadenylate synthetase levels in whole blood . This treatment was well tolerated , with a low frequency of mild to moderate adverse events . In conclusion , systemic administration of the selective Q9NYK1 agonist isatoribine resulted in dose-dependent changes in immunologic biomarkers and a statistically significant antiviral effect with relatively few and mild side effects ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00668 inhibits the release of P05231 or P01375 from monocytes during strenuous exercise.\nDB00513 inhibits the activity of plasminogen activators in plasma euglobulins in a uniform pattern.\nDB00513 is not mentioned as interacting with DB00668.\nDB00486 is nabilone, a hexahydrocannabinol derivative, and is not linked to monocyte cytokine release.\nDB00360 is BH(4), a cofactor for endothelial NO synthase, and is not connected to DB00668.\nDB01283 is a selective P35354 inhibitor, unrelated to monocyte cytokine release.\nDB04799 is a structural analog of ubiquinone and is not linked to DB00668.\nDB04860 is a Q9NYK1 agonist and is not associated with DB00668.\nDB05066 is ibudilast, a phosphodiesterase inhibitor, and is not linked to DB00668.\nDB07232 is veliparib, a PARP inhibitor, and is not connected to DB00668.\nDB07954 is a non-selective PDE inhibitor and is not mentioned in relation to DB00668.\nNo document states that any of the listed compounds interacts with DB00668.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB00668 inhibits the release of P05231 or P01375 from monocytes during strenuous exercise",
+    "DB00513 inhibits the activity of plasminogen activators in plasma euglobulins in a uniform pattern",
+    "DB00513 is not mentioned as interacting with DB00668",
+    "DB00486 is nabilone, a hexahydrocannabinol derivative, and is not linked to monocyte cytokine release",
+    "DB00360 is BH(4), a cofactor for endothelial NO synthase, and is not connected to DB00668",
+    "DB01283 is a selective P35354 inhibitor, unrelated to monocyte cytokine release",
+    "DB04799 is a structural analog of ubiquinone and is not linked to DB00668",
+    "DB04860 is a Q9NYK1 agonist and is not associated with DB00668",
+    "DB05066 is ibudilast, a phosphodiesterase inhibitor, and is not linked to DB00668",
+    "DB07232 is veliparib, a PARP inhibitor, and is not connected to DB00668",
+    "DB07954 is a non-selective PDE inhibitor and is not mentioned in relation to DB00668",
+    "No document states that any of the listed compounds interacts with DB00668"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00668 inhibits the release of P05231 or P01375 from monocytes during strenuous exercise",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB00513 inhibits the activity of plasminogen activators in plasma euglobulins in a uniform pattern",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00513 is not mentioned as interacting with DB00668",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00486 is nabilone, a hexahydrocannabinol derivative, and is not linked to monocyte cytokine release",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00360 is BH(4), a cofactor for endothelial NO synthase, and is not connected to DB00668",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB01283 is a selective P35354 inhibitor, unrelated to monocyte cytokine release",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB04799 is a structural analog of ubiquinone and is not linked to DB00668",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB04860 is a Q9NYK1 agonist and is not associated with DB00668",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB05066 is ibudilast, a phosphodiesterase inhibitor, and is not linked to DB00668",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB07232 is veliparib, a PARP inhibitor, and is not connected to DB00668",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB07954 is a non-selective PDE inhibitor and is not mentioned in relation to DB00668",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "No document states that any of the listed compounds interacts with DB00668",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

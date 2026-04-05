@@ -1,0 +1,134 @@
+{
+  "uid": "strategyqa__4bea34763a1e9f0d5b2b",
+  "sample_id": "4bea34763a1e9f0d5b2b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would Othello be Shakespeare's play to buy Scheherazade most time with king?",
+  "gold_answer": "no",
+  "context": [
+    "Scheherazade was a character in Middle Eastern folklore that delayed her execution by telling the king long stories.",
+    "Shakespeare's play Othello contained 26,450 words.",
+    "Hamlet is Shakespeare's longest play consisting of 4000 lines and 30,000 words."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nScheherazade delayed her execution by telling long stories to the king.\nShakespeare's play Othello contains 26,450 words.\nHamlet is Shakespeare's longest play with 30,000 words.\n30,000 words is greater than 26,450 words.\nHamlet has more words than Othello.\nThe play with the most words would give Scheherazade the most time with the king.\nHamlet would provide more time than Othello.\nOthello would not be the play to give Scheherazade the most time with the king.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Scheherazade delayed her execution by telling long stories to the king",
+    "Shakespeare's play Othello contains 26,450 words",
+    "Hamlet is Shakespeare's longest play with 30,000 words",
+    "30,000 words is greater than 26,450 words",
+    "Hamlet has more words than Othello",
+    "The play with the most words would give Scheherazade the most time with the king",
+    "Hamlet would provide more time than Othello",
+    "Othello would not be the play to give Scheherazade the most time with the king"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Scheherazade delayed her execution by telling long stories to the king",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Shakespeare's play Othello contains 26,450 words",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Hamlet is Shakespeare's longest play with 30,000 words",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "30,000 words is greater than 26,450 words",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Hamlet has more words than Othello",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The play with the most words would give Scheherazade the most time with the king",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Hamlet would provide more time than Othello",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Othello would not be the play to give Scheherazade the most time with the king",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

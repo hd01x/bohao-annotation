@@ -1,0 +1,35 @@
+{
+  "uid": "wiki2mhqa__e1d2c3a708af11ebbd83ac1f6bf848b6",
+  "sample_id": "e1d2c3a708af11ebbd83ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film whose director is younger, Outlaw King or Gunman'S Walk?",
+  "gold_answer": "Outlaw King",
+  "context": [
+    "La Bestia humana is a 1957 Argentine film whose story is based on the novel\" La Bête Humaine\" by the French writer Émile Zola.",
+    "Phil Karlson( born Philip N. Karlstein; July 2, 1908 – December 12, 1982) was an American film director. Karlson directed\" 99 River StreetKansas City Confidential\" and\" Hell's Island\", all with actor John Payne, in the early 1950s. Other films include\" The Texas Rangers\"( 1951),\" The Phenix City Story\"( 1955),\" 5 Against the House\"( 1955),\" Gunman's Walk\"( 1958),\" The Young Doctors\"( 1961) and\" Walking Tall\"( 1973).",
+    "Justin Busia( born November 27, 1989), also known as D. King or DK, is an American rapper, songwriter, and recording artist in the hip hop genre. The name\" D. King\" or\" DK\" is short for\" Don and the King\".",
+    "Tony Curran( born 13 December 1969) is a Scottish actor who has appeared in,\" Doctor WhoRoots\", and the Netflix historical epic\" Outlaw King\".",
+    "Vadim Nikolayevich Vlasov( born 19 December 1980) is a former Russian football player. He is a younger brother of Dmitri Vlasov.",
+    "David Mackenzie( born 10 May 1966) is a Scottish film director and co-founder of the Glasgow- based production company Sigma Films. He has made ten feature films including\" Young Adam\"( 2003),\" Hallam Foe\"( 2007),\" Perfect Sense\"( 2011) and\" Starred Up\"( 2013). In 2016, Mackenzie's film\" Hell or High Water\" premiered at Cannes and was theatrically released in the United States in August. In October 2016, Mackenzie boarded\" Damnation\"- a TV pilot for Universal& USA Network. Mackenzie also directed\" Outlaw King\"( 2018), a historical film for Netflix. Mackenzie and his films have been described as not fitting neatly into any particular genre or type.",
+    "Mwanawina I was a\" Litunga\"( king or chief) of Barotseland in Africa.",
+    "Miloš Zličić( born 29 December 1999) is a Serbian football forward. He is a younger brother of Lazar Zličić.",
+    "Outlaw King is a 2018 historical action drama film about Robert the Bruce, the 14th-century Scottish King who launched a guerilla war against the larger English army. The film largely takes place during the 3-year historical period from 1304, when Bruce decides to rebel against the rule of Edward I over Scotland, thus becoming an \"outlaw\", up to the 1307 Battle of Loudoun Hill. \" Outlaw King\" was co-written, produced, and directed by David Mackenzie. It stars Chris Pine, Aaron Taylor-Johnson, Florence Pugh, Billy Howle, Sam Spruell, Tony Curran, Callan Mulvey, James Cosmo, and Stephen Dillane. It premiered at the Toronto International Film Festival on September 6, 2018, and was released on November 9, 2018, by Netflix.",
+    "Gunman's Walk is a 1958 American CinemaScope Technicolor Western film directed by Phil Karlson and starring Van Heflin and Tab Hunter."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nOutlaw King was directed by David Mackenzie.\nDavid Mackenzie was born on 10 May 1966.\nGunman's Walk was directed by Phil Karlson.\nPhil Karlson was born on 2 July 1908.\n1966 is later than 1908.\nDavid Mackenzie is younger than Phil Karlson.\nThe film whose director is younger is Outlaw King.\nSo, the answer is Outlaw King.\n<answer> Outlaw King",
+  "claims": [
+    "Outlaw King was directed by David Mackenzie",
+    "David Mackenzie was born on 10 May 1966",
+    "Gunman's Walk was directed by Phil Karlson",
+    "Phil Karlson was born on 2 July 1908",
+    "1966 is later than 1908",
+    "David Mackenzie is younger than Phil Karlson",
+    "The film whose director is younger is Outlaw King",
+    "So, the answer is Outlaw King"
+  ],
+  "predicted_answer": "Outlaw King"
+}

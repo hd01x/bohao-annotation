@@ -1,0 +1,221 @@
+{
+  "uid": "medhop__MH_dev_217",
+  "sample_id": "MH_dev_217",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00030\", \"DB00074\", \"DB00171\", \"DB00886\", \"DB00910\", \"DB04881\", \"DB05651\", \"DB08888\", and \"DB09302\" interacts with DB00912?",
+  "gold_answer": "DB00030",
+  "context": [
+    "DB05651 , a novel isotype-selective histone deacetylase inhibitor , has broad spectrum antitumor activity in vitro and in vivo . Nonselective inhibitors of human histone deacetylases ( HDAC ) are known to have antitumor activity in mice in vivo , and several of them are under clinical investigation . The first of these , DB02546 ( DB02546 ) , has been approved for treatment of cutaneous T-cell lymphoma . Questions remain concerning which HDAC isotype(s) are the best to target for anticancer activity and whether increased efficacy and safety will result with an isotype-selective HDAC inhibitor . We have developed an isotype-selective HDAC inhibitor , DB05651 , which potently targets human Q13547 but also has inhibitory activity against Q92769 , O15379 , and Q96DB2 in vitro . In intact cells , DB05651 inhibited only a fraction of the total HDAC activity and showed long-lasting inhibitory activity even upon drug removal . DB05651 induced hyperacetylation of histones , selectively induced apoptosis , and caused cell cycle blockade in various human cancer cell lines in a dose-dependent manner . DB05651 exhibited potent and selective antiproliferative activities against a broad spectrum of human cancer cell lines in vitro , and HDAC inhibitory activity was required for these effects . In vivo , DB05651 significantly inhibited growth of human tumor xenografts in nude mice in a dose-dependent manner and the antitumor activity correlated with induction of histone acetylation in tumors . Our findings suggest that the isotype-selective HDAC inhibition by DB05651 is sufficient for antitumor activity in vivo and that further clinical investigation is warranted .",
+    "Genetic determinants of diabetes are similarly associated with other immune-mediated diseases . PURPOSE OF REVIEW : I discuss the increasing number of genes discovered to exert pleiotropic action on susceptibility to diabetes and simultaneously to other immune-mediated diseases . While a genetic correlation between type 1 diabetes and autoimmunity is not surprising , the mechanism of a relationship to other conditions such as atopy is less obvious . The recent wave of genome-wide association studies offers confirmation of previously recognized risk loci , but also novel loci that also are likely to act via multiple pathogenetic pathways . I will review this material more in a genetical than an immunological way . RECENT FINDINGS : Identification of Q9BYX4 , an RNA helicase involved in the innate immune response to viral infection as a risk factor for type 1 diabetes and rheumatoid arthritis . Confirmation of the roles of P16410 and Q9Y2R2 as general immune function modulators with a nonlinear dose-response effect on autoimmunity , and confirmation of the role of P01589 , which may act via a regulatory T cell subset on immune disease risk . Expansion of the role of P37231 in immunity . SUMMARY : The wave of genome-wide association studies already experienced in the last 2 years has solidified what we thought we knew and added a list of genes in new pathways . The association of Q9BYX4 with type 1 diabetes may offer a real window into early events in the development of that disease .",
+    "Muscle KATP channels : recent insights to energy sensing and myoprotection . DB00171 -sensitive potassium ( K( DB00171 ) ) channels are present in the surface and internal membranes of cardiac , skeletal , and smooth muscle cells and provide a unique feedback between muscle cell metabolism and electrical activity . In so doing , they can play an important role in the control of contractility , particularly when cellular energetics are compromised , protecting the tissue against calcium overload and fiber damage , but the cost of this protection may be enhanced arrhythmic activity . Generated as complexes of Kir6.1 or Kir6.2 pore-forming subunits with regulatory sulfonylurea receptor subunits , Q09428 or SUR2 , the differential assembly of K( DB00171 ) channels in different tissues gives rise to tissue-specific physiological and pharmacological regulation , and hence to the tissue-specific pharmacological control of contractility . The last 10 years have provided insights into the regulation and role of muscle K( DB00171 ) channels , in large part driven by studies of mice in which the protein determinants of channel activity have been deleted or modified . As yet , few human diseases have been correlated with altered muscle K( DB00171 ) activity , but genetically modified animals give important insights to likely pathological roles of aberrant channel activity in different muscle types .",
+    "Permanent neonatal diabetes mellitus in China . BACKGROUND : Permanent neonatal diabetes mellitus ( PNDM ) is a rare disease , which is defined as the onset of diabetes before the age of 6 months with persistence through life . Infants with Q14654 or Q09428 genetic mutations may respond to oral sulfonylurea therapy . Currently , there are limited studies about the genetic analysis and long-term follow-up of PNDM . CASE PRESENTATION : We report four cases of PNDM . None of the infants or their parents had P01308 , Q14654 , or Q09428 genetic mutations . One infant underwent continuous subcutaneous insulin infusion ( CSII ) and the other infants underwent multiple injections of insulin ( MII ) . In these infants , PNDM persisted from 35 months to 60 months of follow-up . Three infants maintained fairly stable blood sugar levels , and one infant had poor sugar control . CONCLUSIONS : We suggest that all of the infants with PNDM should undergo genetic evaluation . For infants without Q14654 and Q09428 genetic mutations , oral sulfonylurea should not be considered as treatment . CSII is a useful method for overcoming the difficulties of diabetes , and it may also improve the quality of life of both infants and their parents .",
+    "Differences in transcript levels of ABC transporters between pancreatic adenocarcinoma and nonneoplastic tissues . OBJECTIVES : The aim of this study was to evaluate transcript levels of all 49 human DB00171 -binding cassette transporters ( ABCs ) in one of the most drug-resistant cancers , namely , the pancreatic ductal adenocarcinoma ( PDAC ) . Association of ABCs levels with clinical-pathologic characteristics and P01116 mutation status was followed as well . METHODS : Tumors and adjacent nonneoplastic tissues were obtained from 32 histologically verified PDAC patients . The transcript profile of ABCs was assessed using quantitative real-time polymerase chain reaction with a relative standard curve . P01116 mutations in exon 2 were assessed by high-resolution melting analysis and sequencing . RESULTS : Most ABCs were deregulated in PDAC and 10 ABCs were associated with clinical-pathologic characteristics . P01116 mutations did not change the global expression profile of ABCs . CONCLUSIONS : The expression of ABC transporters was significantly deregulated in PDAC tumors when compared to nonmalignant tissues . The observed up-regulation of P21439 , O95342 , P33527 , O15438 , O15440 , Q5T3U5 , and Q9UNQ0 in tumors may contribute to the generally poor treatment response of PDAC . The up-regulation of O95477 , Q8IZY2 , and P45844 implicates a serious impairment of cellular cholesterol homeostasis in PDAC . On the other hand , the observed down-regulation of Q99758 , O95255 , P13569 , and Q09428 suggests a possible role of stem cells in the development and progression of PDAC .",
+    "Inhibition of peroxisome proliferator-activated receptor gamma increases estrogen receptor-dependent tumor specification . P37231 ( PPARgamma ) is a nuclear receptor that regulates gene transcription associated with intermediary metabolism , adipocyte differentiation , and tumor suppression and proliferation . To understand the role of PPARgamma in tumorigenesis , transgenic mice were generated with mammary gland-directed expression of the dominant-negative transgene Pax8PPARgamma . Transgenic mice were phenotypically indistinguishable from wild-type ( WT ) mice , but mammary epithelial cells expressed a greater percentage of CD29(hi)/ P25063 (neg) , CK5(+) , and double-positive CK14/CK18 cells . These changes correlated with reduced P60484 and increased Ras and extracellular signal-regulated kinase ( P29323 ) and AKT activation . Although spontaneous tumorigenesis did not occur , transgenic animals were highly susceptible to progestin/7,12-dimethylbenz(a)anthracene-induced mammary carcinogenesis , which in contrast to WT mice resulted in a high tumor multiplicity and , most importantly , in the appearance of predominantly estrogen receptor alpha-positive ( ER(+) ) ductal adenocarcinomas . Tumors expressed a similar P60484 (lo)/pERK(hi)/pAKT(hi) phenotype as mammary epithelium and exhibited high activation of estrogen response element-dependent reporter gene activity . Tumorigenesis in MMTV-Pax8PPARgamma mice was insensitive to the chemopreventive effect of a PPARgamma agonist but was profoundly inhibited by the ER antagonist fulvestrant . These results reveal important new insights into the previously unrecognized role of PPARgamma in the specification of mammary lineage and the development of ER(+) tumors .",
+    "Pharmacogenetics and future strategies in treating hyperglycaemia in diabetes . This review focuses on current evidence for pharmacogenetics for the 3 commonly used drug classes in treating diabetes : metformin , sulphonylureas and thiazolidinediones . Currently , metformin pharmacogenetics is focussing on drug transport with the recent finding that variation in O75051 transporters might affect metformin response . An aetiological approach has identified monogenic patients with diabetes due to TCF1 mutations who are particularly sensitive to the hypoglycaemic effects of sulphonylureas , and Q14654 or Q09428 mutations in which sulphonylureas can be used in place of insulin treatment . In Type 2 diabetes sulphonylurea response has been shown to be associated with variants Q9NQB0 associated with type 2 diabetes risk . For thiazolidinediones , focus has been on PPARgamma variants although with no consistent result . Genome wide association studies offer great potential to unravel what genetic factors influence response and side effects of diabetes therapies . Large numbers of well phenotyped patients for response and side effect as well as similarly sized similarly phenotyped replication cohorts are required . Establishing such cohorts is a priority in diabetes pharmacogenetics research .",
+    "[ In vitro comparison of podophyllotoxin analogues ; etoposide , teniposide and NK 611 using human lung cancer cell lines ] . In an attempt to predict the antitumor activity of a new podophyllotoxin analogue , NK 611 , in the treatment of lung cancer , we compared the drug with etoposide and teniposide using four human small cell lung cancer ( SCLC ) cell lines , SBC-2 , -3 , -4 , -7 , and two non-small cell lung cancer cell lines , O95477 , EBC-1 . In terms of the fifty percent tumor growth inhibitory concentration ( IC 50 ) determined by MTT assay , teniposide was most potent among the drugs . The degree of cross-resistance of each drug was investigated using an etoposide-resistant SCLC subline ( SBC-3/ DB00609 ) , an adriamycin-resistant subline ( SBC-3/ P35318 100 ) , and a cisplatin-resistant subline ( SBC-3/ DB00515 ) . As for relative resistant ( the ratio of IC 50 for resistant subline to that for the parent subline ) , NK 611 was least cross-resistant to etoposide , adriamycin , and cisplatin among drugs tested . These results indicate that NK 611 may play a role in a salvage chemotherapy for patients with resistant SCLC .",
+    "DB09302 : Q8NBP7 inhibitor for LDL cholesterol reduction . The proof of concept that proprotein convertase subtilisin/kexin type 9 ( Q8NBP7 ) inhibition affects cholesterol levels was first established after the demonstration that Q8NBP7 loss-of-function mutations result in a significant drop in circulating LDL cholesterol levels . Subsequent studies revealed that Q8NBP7 binds the epidermal growth factor precursor homology domain-A on the surface LDL Receptor ( P01130 ) and directs P01130 and Q8NBP7 for lysosomal degradation . DB09302 ( also known as SAR236553/REGN727 ) is a monoclonal antibody that binds circulating Q8NBP7 and blocks its interactions with surface P01130 . DB09302 clinical trials with different doses on different administration schedules were shown to significantly reduce LDL cholesterol both as a mono-therapy and in combination with statins or ezetimibe . Although there is great potential for anti- Q8NBP7 therapies in the management of cholesterol metabolism , there is no clear evidence yet that blocking Q8NBP7 reduces cardiovascular disease outcome . This is being investigated in ongoing Phase III clinical trials with alirocumab .",
+    "Synthesis and evaluation of ( S ) -2-(2-[18F]fluoroethoxy)-4- ( [ 3-methyl-1-(2-piperidin-1-yl-phenyl)-butyl-carbamoyl ] -methyl ) -benzoic acid ( [18F]repaglinide ) : a promising radioligand for quantification of pancreatic beta-cell mass with positron emission tomography ( PET ) . 18F-labeled non-sulfonylurea hypoglycemic agent ( S ) -2-(2-[(18)F]fluoroethoxy)-4- ( ( 3-methyl-1-(2-piperidin-1-yl-phenyl)-butylcarbamoyl ) -methyl ) -benzoic acid ( [(18)F]repaglinide ) , a derivative of the sulfonylurea-receptor ( Q09428 ) ligand repaglinide , was synthesized as a potential tracer for the non-invasive investigation of the sulfonylurea 1 receptor status of pancreatic beta-cells by positron emission tomography ( PET ) in the context of type 1 and type 2 diabetes . [(18)F] DB00912 could be obtained in an overall radiochemical yield ( RCY ) of 20 % after 135 min with a radiochemical purity higher than 98 % applying the secondary labeling precursor 2-[(18)F]fluoroethyltosylate . Specific activity was in the range of 50-60 GBq/micromol . Labeling was conducted by exchanging the ethoxy-moiety into a 2-[(18)F]fluoroethoxy group . To characterize the properties of fluorinated repaglinide , the affinity of the analogous non-radioactive (19)F-compound for binding to the human Q09428 isoform was assessed . [(19)F] DB00912 induced a complete monophasic inhibition curve with a Hill coefficient close to 1 ( 1.03 ) yielding a dissociation constant ( K(D) ) of 134 nM . Biological activity was proven via insulin secretion experiments on isolated rat islets and was comparable to that of repaglinide . Finally , biodistribution of [(18)F]repaglinide was investigated in rats by measuring the concentration of the compound in different organs after i.v. injection . Pancreatic tissue displayed a stable accumulation of approximately 0.12 % of the injected dose from 10 min to 30 min p.i . 50 % of the radioactive tracer could be displaced by additional injection of unlabeled repaglinide , indicating that [(18)F]repaglinide might be suitable for in vivo investigation with PET .",
+    "P01308 action on H292 bronchial carcinoma cells as compared to normal bronchial epithelial cells . DB00030 may contribute to bronchial carcinoma due to P08069 activation by high local concentrations . Therefore , effects of insulin and P05019 on human bronchial carcinoma cells ( H292 ) and normal bronchial epithelium cells ( P02100 ) were studied . TGF-β was included since it also influences carcinoma progression . H292 and P02100 cells expressed both the insulin receptor and the P08069 ; in H292 cells an additional , shorter , splicing variant ( IR-A ) of the insulin receptor was present . P06213 expression was around four to five times higher in H292 than in P02100 cells at mRNA and protein levels . P01308 and TGF-β exerted contrary actions on proliferation and gene expression in H292 cells . Genes regulated by insulin , P05019 , and TGF-β were linked to inflammation , cell adhesion , muscle contraction and differentiation . P01308 and P05019 also suppressed DNA repair genes . EC(50) for insulin-induced proliferation was around 5 nM in H292 and around 30 nM P02100 cells . The EC(50) values for gene expression ranged from 9 to 90 nM in both cell types , dependent on the gene studied . In H292 cells , the proliferative response was much stronger if TGF-β was present . In P02100 cells this interaction of insulin and TGF-β was not observed , and changes in gene expression were mostly lower by at least 10-fold as compared to H292 . All in all , the insulin effects in H292 were generally much stronger than in P02100 cells and - with regard to proliferation - occurred at lower concentrations . Thus , insulin will hardly induce cancer from normal bronchial cells but may favour progression of pre-existing tumours .",
+    "Differential actions of vasopeptidase inhibition versus angiotensin-converting enzyme inhibition on diuretic therapy in experimental congestive heart failure . BACKGROUND : DB00886 ( OMA ) , a vasopeptidase inhibitor , simultaneously inhibits angiotensin-converting enzyme ( P12821 ) and neutral endopeptidase , which degrades vasodilatory factors ( eg , P35318 ) and natriuretic peptides . Based on the beneficial cardiorenal and humoral properties of the natriuretic peptides , we hypothesized that an acute vasopeptidase inhibitor with or without diuretic would result in more favorable cardiorenal and hormonal actions than P12821 inhibition plus diuretic ( ACEI+D ) in congestive heart failure . METHODS AND RESULTS : We compared the actions of OMA alone and with diuretic ( OMA+D ) to ACEI+D in a model of pacing-induced congestive heart failure . OMA+D decreased pulmonary arterial and pulmonary capillary wedge pressures to a greater level than OMA alone or ACEI+D . Glomerular filtration rate was lower with ACEI+D than with either OMA group . Plasma renin activity and aldosterone immediately increased with ACEI+D , whereas OMA+D resulted in higher plasma renin activity and a delayed increase in aldosterone . OMA alone did not increase plasma renin activity and aldosterone , but resulted in a sustained increase in plasma adrenomedullin , with higher urinary atrial natriuretic peptide , adrenomedullin , and cGMP excretions than with ACEI+D . CONCLUSIONS : Acute administration of OMA with or without diuretic results in more favorable cardiorenal and humoral responses in experimental congestive heart failure than does ACEI+D . There is no acute activation of renin and aldosterone with OMA alone such as occurs with ACEI+D and OMA+D . Thus , OMA with or without a diuretic possesses beneficial cardiorenal and humoral actions comparable to those observed with ACEI+D that can be explained by potentiation of natriuretic peptides .",
+    "P08183 , Q9UNQ0 , and P60484 determine the response of glioblastoma to temozolomide and ABT-888 therapy . PURPOSE : Little is known about the optimal clinical use of ABT-888 ( veliparib ) for treatment of glioblastoma . ABT-888 is a PARP inhibitor undergoing extensive clinical evaluation in glioblastoma , because it may synergize with the standard-of-care temozolomide ( DB00853 ) . We have elucidated important factors controlling ABT-888 efficacy in glioblastoma . EXPERIMENTAL DESIGN : We used genetically engineered spontaneous glioblastoma mouse models and allograft models that were orthotopically transplanted into wild-type ( WT ) and Abcb1/Abcg2-deficient ( KO ) recipients . RESULTS : ABT-888/ DB00853 is not efficacious against p53;p16(Ink4a)/p19(Arf);K-Ras(v12);LucR allografts in wild-type recipients , indicating inherent resistance . Abcb1/Abcg2 mediated efflux of ABT-888 at the blood-brain barrier ( BBB ) causes a 5-fold reduction of ABT-888 brain penetration ( P < 0.0001 ) that was fully reversible by elacridar . Efficacy studies in WT and KO recipients and/or concomitant elacridar demonstrate that Abcb1/Abcg2 at the BBB and in tumor cells impair DB00853 /ABT-888 combination treatment efficacy . DB04881 also markedly improved DB00853 /ABT-888 combination treatment in the spontaneous p53;p16(Ink4a)/p19(Arf);K-Ras(v12);LucR glioblastoma model . Importantly , ABT-888 does enhance DB00853 efficacy in Pten deficient glioblastoma allografts and spontaneous tumors , even in Abcb1/Abcg2 proficient wild-type mice . Loss of P60484 occurs frequently in glioblastoma ( 36 % ) and in silico analysis on patient with glioblastoma samples revealed that it is associated with a worse overall survival ( 310 days vs. 620 days , n = 117 ) . CONCLUSIONS : The potential of ABT-888 in glioblastoma can best be demonstrated in patients with P60484 null tumors . Therefore , clinical trials with ABT-888 should evaluate these patients as a separate group . Importantly , inhibition of P08183 and Q9UNQ0 ( by elacridar ) may improve the efficacy of DB00853 /ABT-888 therapy in all glioblastoma patients .",
+    "Pathways targeted by antidiabetes drugs are enriched for multiple genes associated with type 2 diabetes risk . Genome-wide association studies ( GWAS ) have uncovered > 65 common variants associated with type 2 diabetes ( T2D ) ; however , their relevance for drug development is not yet clear . Of note , the first two T2D-associated loci ( P37231 and Q14654 / Q09428 ) encode known targets of antidiabetes medications . We therefore tested whether other genes/pathways targeted by antidiabetes drugs are associated with T2D . We compiled a list of 102 genes in pathways targeted by marketed antidiabetic medications and applied Gene Set Enrichment Analysis ( MAGENTA [ Meta-Analysis Gene-set Enrichment of variaNT Associations ] ) to this gene set , using available GWAS meta-analyses for T2D and seven quantitative glycemic traits . We detected a strong enrichment of drug target genes associated with T2D ( P = 2 × 10(-5) ; 14 potential new associations ) , primarily driven by insulin and thiazolidinedione ( TZD ) targets , which was replicated in an independent meta-analysis ( Metabochip ) . The glycemic traits yielded no enrichment . The T2D enrichment signal was largely due to multiple genes of modest effects ( P = 4 × 10(-4) , after removing known loci ) , highlighting new associations for follow-up ( P33121 , P19838 , P11168 , incretin targets ) . Furthermore , we found that TZD targets were enriched for LDL cholesterol associations , illustrating the utility of this approach in identifying potential side effects . These results highlight the potential biomedical relevance of genes revealed by GWAS and may provide new avenues for tailored therapy and T2D treatment design .",
+    "Q13547 contributes to cell cycle and apoptosis . Histone deacetylases ( HDACs ) are generally thought to play important roles in human disease . However , little information is available concerning the specific functions of individual HDACs . We previously reported on transgenic mice that expressed human Q13547 and experienced steatosis and nuclear pleomorphism in their hepatic tissues . To find out if the over-expression of Q13547 contributes to the expression of genes related to the cell cycle , apoptosis , and lipid metabolism that eventually contribute to the pathological changes in the livers of the transgenic mice , the expression profiles of the related genes in liver tissues were determined by reverse transcription-polymerase chain reaction ( RT-PCR ) and Western blot analysis . The activated human Q13547 significantly induced the expression levels of mRNA for p53 , P37231 and Bak and reduced the P38936 expression level compared with the levels in control littermates . However , the protein levels of p53 and P37231 were significantly decreased . In conclusion , our results indicate that Q13547 can regulate gene expression at the mRNA and protein levels independently and that this may be a potential cytopathic factor for hepatic tissue in transgenic mice that over-express Q13547 .",
+    "DB00074 induction in patients receiving tacrolimus-based immunosuppressive regimens . PURPOSE : The use of basiliximab induction increased significantly in recent years based on its superior efficacy and excellent safety profile demonstrated in studies with cyclosporine-based immunosuppression . However , its clinical utility in patients receiving tacrolimus-based immunosuppressive regimens is still uncertain . METHODS : We retrospectively reviewed data of 366 low immunological risk recipients of deceased donor kidney transplants . Of them , 134 received basiliximab and tacrolimus ( TAC- P01589 ) , 100 received basiliximab and delayed tacrolimus(dTAC- P01589 ) , and 132 patients received tacrolimus without basiliximab(TAC-No) . The endpoints were the incidence of acute rejection , graft function , and patient and graft survivals at 1 year . RESULTS : The incidence of acute rejection was higher in dTAC- P01589 compared to TAC-IL-2RA and TAC-No Groups ( 33 vs.14.9 vs. 14.3 % , p < 0.001 ) . Inferior creatinine clearance was observed in dTAC- P01589 Group compared to TAC- P01589 and TAC-No Groups at months 1 ( 41.6 vs. 49.9 vs. 44.8 mL/min , p = 0.004 ) , 3 ( 49.8 vs. 57.2 vs. 53.5 mL/min , p = 0.017 ) , and 6 ( 53.1 vs. 61.8 vs. 57.0 mL/min , p = 0.001 ) . Patients who received basiliximab ( TAC- P01589 and dTAC- P01589 Groups ) had lower incidence of posttransplant diabetes ( 24 vs.18 vs. 39.3 % , p = 0.009 ) . Patient and graft survivals were similar among the groups . CONCLUSIONS : In low immunological risk kidney transplant recipients receiving tacrolimus , the use of basiliximab induction was not associated with lower rejection rates and did not allow delayed tacrolimus introduction .",
+    "Mixed modeling of meta-analysis P-values ( MixMAP ) suggests multiple novel gene loci for low density lipoprotein cholesterol . Informing missing heritability for complex disease will likely require leveraging information across multiple SNPs within a gene region simultaneously to characterize gene and locus-level contributions to disease phenotypes . To this aim , we introduce a novel strategy , termed Mixed modeling of Meta-Analysis P-values ( MixMAP ) , that draws on a principled statistical modeling framework and the vast array of summary data now available from genetic association studies , to test formally for locus level association . The primary inputs to this approach are : ( a ) single SNP level p-values for tests of association ; and ( b ) the mapping of SNPs to genomic regions . The output of MixMAP is comprised of locus level estimates and tests of association . In application of MixMAP to summary data from the Global Lipids Gene Consortium , we suggest twelve new loci ( Q16512 , P02751 , P22309 , P37231 , DMDGH , Q03181 , Q00534 , Q7Z7G8 , Q05329 , Q9UQC2 , P02749 and O15118 ) for low-density lipoprotein cholesterol ( LDL-C ) , a causal risk factor for cardiovascular disease and we also demonstrate the potential utility of MixMAP in small data settings . Overall , MixMAP offers novel and complementary information as compared to SNP-based analysis approaches and is straightforward to implement with existing open-source statistical software tools .",
+    "DB08888 for vitreoretinal diseases . P02751 and laminin are clinically relevant plasmin receptors in the eye . Located at the vitreoretinal interface , they are cleaved by ocriplasmin ( DB05028 , ThromboGenics , Iselin , NJ ) , a novel ophthalmic medication . A series of clinical trials to study ocriplasmin for the treatment of vitreoretinal diseases such as vitreomacular traction , macular hole , and exudative age-related macular degeneration are underway . The results are promising and may impact patient care .",
+    "Vitamin D analogues . The plethora of actions attributed to 1,25(OH)2D3 throughout the body have suggested potential therapeutic applications for the treatment of hyperproliferative diseases , immune dysfunction , endocrine disorders , and metabolic bone disease . However , the potent calcemic activity of the natural vitamin D hormone has precluded its use in most cases . New vitamin D analogues are under development that display greater specificity , in most cases , by retaining the therapeutic properties of 1,25(OH)2D3 , but with lower calcemic activity . Two analogues have been approved for use in patients : calcipotriol ( DB02300 from Leo Pharmaceuticals , Copenhagen , Denmark ) for the treatment of psoriasis ; and 19-nor-1,25(OH)2D2 ( DB00910 from Abbott Laboratories , Abbott Park , IL ) for secondary hyperparathyroidism . Many others analogues are currently being tested in preclinical and clinical trials for the treatment of various types of cancer and osteoporosis , and for immunosuppression . The selectivity of the analogues can be attributed to the combined interactions with four proteins : the vitamin D receptor ( P11473 ) , the serum vitamin D binding protein ( DBP ) , the vitamin D-24-hydroxylase and to a newly described membrane receptor . Low DBP affinity has been shown to be responsible for the reduced calcemic actions of calcipotriol and 22-oxacalcitriol ( O75051 ) , which is being tested for secondary hyperparathyroidism . However , the low calcemic activity of other analogues , including 19-nor-1,25(OH)2D2 , involves other , as yet undefined , mechanisms . Understanding of the molecular basis for the selectivity of the vitamin D analogues will allow the design of more effective and safer vitamin D compounds for the treatment of a wide range of clinical disorders .",
+    "UMD ( Universal mutation database ) : a generic software to build and analyze locus-specific databases . The human genome is thought to contain about 80,000 genes and presently only 3,000 are known to be implicated in genetic diseases . In the near future , the entire sequence of the human genome will be available and the development of new methods for point mutation detection will lead to a huge increase in the identification of genes and their mutations associated with genetic diseases as well as cancers , which is growing in frequency in industrial states . The collection of these mutations will be critical for researchers and clinicians to establish genotype/phenotype correlations . Other fields such as molecular epidemiology will also be developed using these new data . Consequently , the future lies not in simple repositories of locus-specific mutations but in dynamic databases linked to various computerized tools for their analysis and that can be directly queried on-line . To meet this goal , we devised a generic software called UMD ( Universal Mutation Database ) . It was developed as a generic software to create locus-specific databases ( LSDBs ) with the 4(th) Dimension(R) package from ACI . This software includes an optimized structure to assist and secure data entry and to allow the input of various clinical data . Thanks to the flexible structure of the UMD software , it has been successfully adapted to nine genes either involved in cancer ( P25054 , P04637 , P06400 , O00255 , Q09428 , P40337 , and P19544 ) or in genetic diseases ( P35555 and P01130 ) . Four new LSDBs are under construction ( P49748 , P11310 , KIR6 , and P29400 ) . Finally , the data can be transferred to core databases ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00912 is a derivative of the sulfonylurea-receptor (Q09428) ligand repaglinide.\nDB00912 is chemically related to repaglinide, which binds to the sulfonylurea receptor Q09428.\nDB00912 was synthesized as a radioligand for the sulfonylurea 1 receptor status of pancreatic beta-cells.\nThe binding affinity of DB00912 to the human Q09428 isoform was assessed in the study.\nDB00912 induced a complete monophasic inhibition curve with a dissociation constant (K(D)) of 134 nM for Q09428.\nDB00912 is a radiolabeled version of repaglinide, which is known to interact with Q09428.\nDB00912 is not directly stated to interact with any of the listed DB compounds.\nDB00912 is not mentioned to interact with DB00030, DB00074, DB00171, DB00886, DB00910, DB04881, DB05651, DB08888, or DB09302.\nThe interaction of DB00912 is specifically with Q09428, not with any of the listed DB numbers.\nThe question asks which DB compound interacts with DB00912 among the given list.\nNo evidence supports an interaction between DB00912 and any of the listed DB compounds.\nDB00912 interacts with Q09428, not with any of the DB numbers listed.\nThe DB compound that interacts with DB00912 is not among the listed options.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB00912 is a derivative of the sulfonylurea-receptor (Q09428) ligand repaglinide",
+    "DB00912 is chemically related to repaglinide, which binds to the sulfonylurea receptor Q09428",
+    "DB00912 was synthesized as a radioligand for the sulfonylurea 1 receptor status of pancreatic beta-cells",
+    "The binding affinity of DB00912 to the human Q09428 isoform was assessed in the study",
+    "DB00912 induced a complete monophasic inhibition curve with a dissociation constant (K(D)) of 134 nM for Q09428",
+    "DB00912 is a radiolabeled version of repaglinide, which is known to interact with Q09428",
+    "DB00912 is not directly stated to interact with any of the listed DB compounds",
+    "DB00912 is not mentioned to interact with DB00030, DB00074, DB00171, DB00886, DB00910, DB04881, DB05651, DB08888, or DB09302",
+    "The interaction of DB00912 is specifically with Q09428, not with any of the listed DB numbers",
+    "The question asks which DB compound interacts with DB00912 among the given list",
+    "No evidence supports an interaction between DB00912 and any of the listed DB compounds",
+    "DB00912 interacts with Q09428, not with any of the DB numbers listed",
+    "The DB compound that interacts with DB00912 is not among the listed options"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00912 is a derivative of the sulfonylurea-receptor (Q09428) ligand repaglinide",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB00912 is chemically related to repaglinide, which binds to the sulfonylurea receptor Q09428",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00912 was synthesized as a radioligand for the sulfonylurea 1 receptor status of pancreatic beta-cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The binding affinity of DB00912 to the human Q09428 isoform was assessed in the study",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00912 induced a complete monophasic inhibition curve with a dissociation constant (K(D)) of 134 nM for Q09428",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00912 is a radiolabeled version of repaglinide, which is known to interact with Q09428",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00912 is not directly stated to interact with any of the listed DB compounds",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB00912 is not mentioned to interact with DB00030, DB00074, DB00171, DB00886, DB00910, DB04881, DB05651, DB08888, or DB09302",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The interaction of DB00912 is specifically with Q09428, not with any of the listed DB numbers",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "The question asks which DB compound interacts with DB00912 among the given list",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "No evidence supports an interaction between DB00912 and any of the listed DB compounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00912 interacts with Q09428, not with any of the DB numbers listed",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "The DB compound that interacts with DB00912 is not among the listed options",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

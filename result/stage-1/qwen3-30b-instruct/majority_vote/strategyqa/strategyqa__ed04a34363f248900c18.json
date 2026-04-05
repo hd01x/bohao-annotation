@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__ed04a34363f248900c18",
+  "sample_id": "ed04a34363f248900c18",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can the Persian Gulf fit in New Jersey?",
+  "gold_answer": "no",
+  "context": [
+    "The Persian Gulf has an area of 96,912 square miles.",
+    "New Jersey has a land area of 7,417 square miles."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Persian Gulf has an area of 96,912 square miles.\nNew Jersey has a land area of 7,417 square miles.\n96,912 square miles is greater than 7,417 square miles.\nThe Persian Gulf is larger than New Jersey in area.\nThe Persian Gulf cannot fit within the land area of New Jersey.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Persian Gulf has an area of 96,912 square miles",
+    "New Jersey has a land area of 7,417 square miles",
+    "96,912 square miles is greater than 7,417 square miles",
+    "The Persian Gulf is larger than New Jersey in area",
+    "The Persian Gulf cannot fit within the land area of New Jersey"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Persian Gulf has an area of 96,912 square miles",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "New Jersey has a land area of 7,417 square miles",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "96,912 square miles is greater than 7,417 square miles",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Persian Gulf is larger than New Jersey in area",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Persian Gulf cannot fit within the land area of New Jersey",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

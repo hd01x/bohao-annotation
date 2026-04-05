@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__e126c8162ff2b480e898",
+  "sample_id": "e126c8162ff2b480e898",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Neanderthals use arithmetic?",
+  "gold_answer": "no",
+  "context": [
+    "The earliest written records indicate the Egyptians and Babylonians used all the elementary arithmetic operations as early as 2000 BC.",
+    "Neanderthals are an extinct species or subspecies of archaic humans who lived in Eurasia until about 40,000 years ago."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nNeanderthals lived in Eurasia until about 40,000 years ago.\nThe earliest written records of arithmetic operations date to around 2000 BC.\nArithmetic as documented use of elementary operations requires written records.\nNeanderthals predate the earliest known written records by tens of thousands of years.\nThere is no evidence that Neanderthals used written arithmetic.\nThe use of arithmetic by Neanderthals is not supported by the available evidence.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Neanderthals lived in Eurasia until about 40,000 years ago",
+    "The earliest written records of arithmetic operations date to around 2000 BC",
+    "Arithmetic as documented use of elementary operations requires written records",
+    "Neanderthals predate the earliest known written records by tens of thousands of years",
+    "There is no evidence that Neanderthals used written arithmetic",
+    "The use of arithmetic by Neanderthals is not supported by the available evidence"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Neanderthals lived in Eurasia until about 40,000 years ago",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The earliest written records of arithmetic operations date to around 2000 BC",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Arithmetic as documented use of elementary operations requires written records",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Neanderthals predate the earliest known written records by tens of thousands of years",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "There is no evidence that Neanderthals used written arithmetic",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The use of arithmetic by Neanderthals is not supported by the available evidence",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

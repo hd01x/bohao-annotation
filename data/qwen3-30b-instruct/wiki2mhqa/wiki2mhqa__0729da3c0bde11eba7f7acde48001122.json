@@ -1,0 +1,32 @@
+{
+  "uid": "wiki2mhqa__0729da3c0bde11eba7f7acde48001122",
+  "sample_id": "0729da3c0bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the date of death of Philibert I, Duke Of Savoy's mother?",
+  "gold_answer": "23 August 1478",
+  "context": [
+    "Catherine Beatrice of Savoy( 6 November 1636, Turin, Piedmont – 27 August 1637) was a Princess of Savoy by birth. She was the youngest daughter born to Victor Amadeus I, Duke of Savoy, and his French consort, Princess Christine Marie of France.",
+    "Prince Eugenio of Savoy, 5th Duke of Genoa( Eugenio Alfonso Carlo Maria Giuseppe; 13 March 1906 – 8 December 1996) was a member of the House of Savoy, Duke of Ancona from birth, and the 5th and final Duke of Genoa. Prince Eugenio was the sixth and youngest child of Prince Thomas of Savoy, 2nd Duke of Genoa and his wife Princess Isabella of Bavaria.",
+    "Yolande Louise of Savoy( 1487–1499), was a Duchess Consort of Savoy; married to Philibert II, Duke of Savoy.",
+    "René of Savoy( 1473 – 31 March 1525) was a French nobleman and soldier. He was count of Villars( 1497) and of Tende( 1501). Known as\" the Great Bastard of Savoy\", he was the illegitimate son of Philip II, Duke of Savoy and Libera Portoneri- this made him the originator of the Savoie- Villars( or Savoie- Tende) branch of the House of Savoy.",
+    "Francesco Vimercato( 1512–1571) was an Italian Aristotelian scholar. He was a Royal Reader in Philosophy in Paris. He is known for his commentaries on Aristotle ’s ethical and zoological works. In 1561 he left France to work for Emmanuel Philibert, Duke of Savoy. He was employed as a professor, and then a diplomat.",
+    "André or Andrea II Provana de Leyni( 1511, Leinì, Piedmont- 29 May 1592, Nice) was a statesman and military commander in the Duchy of Savoy. He was captain- general of the duke of Savoy's galleys and councillor and diplomat in the service of Emmanuel Philibert, Duke of Savoy and his son Charles Emmanuel I, Duke of Savoy. He was one of the most important figures in the restoration of the States of Savoy in the 16th century after its occupation by Francis I of France. He bore the titles of lord of Leyni, count of Frossasco, Alpignano, Castellata and Balangero, knight of the Supreme Order of the Most Holy Annunciation and grand- admiral of the Order of Saint Maurice and Saint Lazarus.",
+    "Princess Luisa Cristina of Savoy (27 July 1629 – 12 May 1692) was a Princess of Savoy by birth and the eldest daughter of Victor Amadeus I, Duke of Savoy. She married her uncle Prince Maurice of Savoy but had no children. She was the owner of the future \"Villa della Regina\". She was a first cousin of Louis XIV of France and Charles II of England.",
+    "Philibert I (17 August 1465, Chambéry – 22 September 1482), surnamed the Hunter, was the son of Amadeus IX, Duke of Savoy and Yolande of Valois. Philibert was Duke of Savoy from 1472 to 1482. After his father's death in 1472, his mother became regent. He married in 1476 to his cousin Bianca Maria Sforza and had no children. Therefore, his duchy was inherited by his younger brother Charles after he died from tuberculosis at the age of just 17.",
+    "Yolande of France (23 September 1434 – 23 August 1478) was a Duchess consort of Savoy by marriage to Duke Amadeus IX of Savoy, and regent of Savoy during the minority of her son Philibert I of Savoy from 1472 until 1478. She was named after her grandmother, Yolande of Aragon. She is sometimes known as \"Yolande of France\".",
+    "Isabella of Savoy (11 March 1591 – 28 August 1626) was a daughter of Charles Emmanuel I, Duke of Savoy, and Catherine Michelle of Spain. Her maternal grandparents were Philip II of Spain and Elisabeth of Valois, her paternal grandparents were Emmanuel Philibert, Duke of Savoy and Margaret of France, Duchess of Berry. She was the Hereditary Princess of Modena, dying before her husband succeeded to the Duchy of Modena in 1628."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPhilibert I, Duke of Savoy, was the son of Amadeus IX, Duke of Savoy, and Yolande of Valois.\nYolande of Valois was the Duchess consort of Savoy and served as regent during Philibert I's minority.\nYolande of Valois died on 23 August 1478.\nThe date of death of Philibert I, Duke of Savoy's mother is 23 August 1478.\nSo, the answer is 23 August 1478.\n<answer> 23 August 1478",
+  "claims": [
+    "Philibert I, Duke of Savoy, was the son of Amadeus IX, Duke of Savoy, and Yolande of Valois",
+    "Yolande of Valois was the Duchess consort of Savoy and served as regent during Philibert I's minority",
+    "Yolande of Valois died on 23 August 1478",
+    "The date of death of Philibert I, Duke of Savoy's mother is 23 August 1478",
+    "So, the answer is 23 August 1478"
+  ],
+  "predicted_answer": "23 August 1478"
+}

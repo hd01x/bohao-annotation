@@ -1,0 +1,35 @@
+{
+  "uid": "wiki2mhqa__f66aecd208bc11ebbd89ac1f6bf848b6",
+  "sample_id": "f66aecd208bc11ebbd89ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do both films Masters Of The Sea (Film) and The Auction Mart have the directors from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "Sir Alexander Korda( born Sándor László Kellner, 16 September 1893 – 23 January 1956) was a British film producer and director and screenwriter, who founded his own film production studios and film distribution company. Born in Hungary, where he began his career, he worked briefly in the Austrian and German film industries during the era of silent films, before being based in Hollywood from 1926 to 1930 for the first of his two brief periods there( the other was during World War II). The change led to a divorce from his first wife, the Hungarian film actress María Corda, who was unable to make the transition from silent films to\" talkies\" because of her strong Hungarian accent. From 1930, Korda was active in the British film industry, and soon became one of its leading figures. He was the founder of London Films and, post-war, the owner of British Lion Films, a film distribution company. Korda produced many outstanding classics of the British film industry, including\" The Private Life of Henry VIIIRembrandtThings To Come The Thief of Baghdad\" and\" The Third Man\". In 1942, Korda became the first filmmaker to receive a knighthood.",
+    "Heat Wave is a 2011 French drama film and the directorial debut of Jean- Jacques Jauffret. It was screened in the Directors' Fortnight section at the 2011 Cannes Film Festival.",
+    "Masters of the Sea( German: Herren der Meere) is a 1922 Austrian silent adventure film directed by Alexander Korda and starring Victor Varconi, María Corda and Tibor Lubinszky.",
+    "The Auction Mart is a 1920 British silent drama film directed by Duncan McRae and starring Gertrude McCoy, Charles Quatermaine and Gerald Moore.",
+    "Jack Shea (August 1, 1928 – April 28, 2013) was an American film and television director. He was the president of the Directors Guild of America from 1997 to 2002.",
+    "Masters of the Sea may refer to:",
+    "I Want Your Love is the title of both a 2010 short film and a 2012 feature- length film. Both films were directed and written by Travis Mathews. The drama films both revolve around the friends and ex-lovers of Jesse Metzger, a gay man in his mid-thirties who is forced to move back to his hometown from San Francisco due to financial reasons. The actors' own names, along with much of their real- life stories, were used for their characters in both films, which features graphic sexual scenes. The production of both films was aided by the gay pornographic studio NakedSword. This led to the full- length film being refused exemption from classification, which would have allowed it to screen at the Melbourne Queer Film Festival, a decision to which actor James Franco( who invited Mathews to collaborate on Franco's film\" Interior. Leather Bar.\") reacted negatively.",
+    "Duncan McRae( 1873 – 1931) was a British actor and film director. Much of his acting work was done in the United States.",
+    "Matt Corboy( born June 4, 1973) is an American actor. He has appeared in both films and television series.",
+    "There are two parts of the film: the first part and the second part. Both parts have the same staff and the same actors."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMasters of the Sea (1922) was directed by Alexander Korda.\nAlexander Korda was born in Hungary and later became a British film producer and director.\nKorda worked in Austria and Germany during the silent film era before moving to Britain.\nThe Auction Mart (1920) was directed by Duncan McRae.\nDuncan McRae was a British actor and film director.\nBoth Alexander Korda and Duncan McRae were from the United Kingdom.\nThe directors of Masters of the Sea and The Auction Mart are from the same country.\nSo, the answer is yes.\n<answer> yes",
+  "claims": [
+    "Masters of the Sea (1922) was directed by Alexander Korda",
+    "Alexander Korda was born in Hungary and later became a British film producer and director",
+    "Korda worked in Austria and Germany during the silent film era before moving to Britain",
+    "The Auction Mart (1920) was directed by Duncan McRae",
+    "Duncan McRae was a British actor and film director",
+    "Both Alexander Korda and Duncan McRae were from the United Kingdom",
+    "The directors of Masters of the Sea and The Auction Mart are from the same country",
+    "So, the answer is yes"
+  ],
+  "predicted_answer": "yes"
+}

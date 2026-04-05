@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__2fcd999dfde755c5c049",
+  "sample_id": "2fcd999dfde755c5c049",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Eve involved in an incestuous relationship?",
+  "gold_answer": "yes",
+  "context": [
+    "God made Eve from a bone he removed from Adam.",
+    "Since Eve was made from Adam, they would have had similar DNA and been considered twins or at least siblings.",
+    "As the only humans at the time, they ended up starting a family together."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEve was created from Adam according to the biblical account.\nAdam and Eve were the first humans and the only two people alive at the time.\nThey had no other human relatives to marry.\nMarriage between Adam and Eve was the only possible union given the circumstances.\nThe term \"incest\" refers to sexual relations between close blood relatives.\nSince Adam and Eve were the only humans and had no other relatives, their union was not considered incestuous in the context of their origin.\nEve was involved in a relationship with Adam that was not incestuous due to the absence of other human beings.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Eve was created from Adam according to the biblical account",
+    "Adam and Eve were the first humans and the only two people alive at the time",
+    "They had no other human relatives to marry",
+    "Marriage between Adam and Eve was the only possible union given the circumstances",
+    "The term \"incest\" refers to sexual relations between close blood relatives",
+    "Since Adam and Eve were the only humans and had no other relatives, their union was not considered incestuous in the context of their origin",
+    "Eve was involved in a relationship with Adam that was not incestuous due to the absence of other human beings"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Eve was created from Adam according to the biblical account",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Adam and Eve were the first humans and the only two people alive at the time",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "They had no other human relatives to marry",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Marriage between Adam and Eve was the only possible union given the circumstances",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The term \"incest\" refers to sexual relations between close blood relatives",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Since Adam and Eve were the only humans and had no other relatives, their union was not considered incestuous in the context of their origin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Eve was involved in a relationship with Adam that was not incestuous due to the absence of other human beings",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

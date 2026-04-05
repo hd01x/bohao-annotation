@@ -1,0 +1,251 @@
+{
+  "uid": "medhop__MH_dev_279",
+  "sample_id": "MH_dev_279",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00117\", \"DB00155\", \"DB00523\", \"DB01039\", \"DB04958\", \"DB05037\", \"DB05223\", \"DB05399\", and \"DB06285\" interacts with DB01095?",
+  "gold_answer": "DB01039",
+  "context": [
+    "Discovery of ( 2E ) -3-{2-butyl-1-[2-(diethylamino)ethyl]-1H-benzimidazol-5-yl}-N-hydroxyacrylamide ( DB05223 ) , an orally active histone deacetylase inhibitor with a superior preclinical profile . A series of 3-(1,2-disubstituted-1H-benzimidazol-5-yl)-N-hydroxyacrylamides ( 1 ) were designed and synthesized as HDAC inhibitors . Extensive SARs have been established for in vitro potency ( Q13547 enzyme and COLO 205 cellular IC(50) ) , liver microsomal stability ( t(1/2) ) , cytochrome P450 inhibitory ( 3A4 IC(50) ) , and clogP , among others . These parameters were fine-tuned by carefully adjusting the substituents at positions 1 and 2 of the benzimidazole ring . After comprehensive in vitro and in vivo profiling of the selected compounds , DB05223 ( 3 ) was identified as a preclinical development candidate . 3 is a potent pan-HDAC inhibitor with excellent druglike properties , is highly efficacious in in vivo tumor models ( HCT-116 , PC-3 , A2780 , MV4-11 , Ramos ) , and has high and dose-proportional oral exposures and very good ADME , safety , and pharmaceutical properties . When orally dosed to tumor-bearing mice , 3 is enriched in tumor tissue which may contribute to its potent antitumor activity and prolonged duration of action . 3 is currently being tested in phase I and phase II clinical trials .",
+    "DB01095 upregulates endothelial nitric oxide synthase activity via enhancement of its phosphorylation and expression and via an increase in tetrahydrobiopterin in vascular endothelial cells . BACKGROUND : An P04035 inhibitor , fluvastatin , appears to act directly on the blood vessel wall to stabilize plaques in situ , agents that share this property have been termed vascular statins . METHODS : We investigated the effects of fluvastatin on endothelial nitric oxide synthase ( P29474 ) phosphorylation and expression , as well as terahydrobiopterin ( BH4 ) metabolism , in human umbilical vein endothelial cells ( HUVEC ) . RESULTS : DB01095 was observed to enhance P29474 phosphorylation at DB00133 -1177 and DB00133 -633 through the P19957 -kinase/Akt and PKA pathways , respectively . Inhibition of P29474 phosphorylation using inhibitors of these pathways attenuated acute NO release in response to fluvastatin . The mRNA of P30793 ( GTPCH ) , the rate-limiting enzyme of the first step of de novo BH4 synthesis , as well as P29474 , was upregulated in HUVEC treated with fluvastatin . In parallel with this observation , fluvastatin increased intracellular BH4 . Pre-treatment of HUVEC with the selective GTPCH inhibitor , 2,4-diamino-6-hydroxypyrimidine , reduced intracellular BH4 and decreased citrulline formation following stimulation with ionomycin . Furthermore , the potentiating effect of fluvastatin was reduced by limiting the cellular availability of BH4 . CONCLUSIONS : Our data demonstrate that fluvastatin phosphorylates and activates P29474 , and increases P29474 expression in vascular endothelial cells . In addition to modulating P29474 , fluvastatin potentiates GTPCH gene expression and BH4 synthesis , thereby increasing NO production and preventing relative shortages of BH4 .",
+    "P04035 inhibitor attenuates experimental autoimmune myocarditis through inhibition of T cell activation . OBJECTIVE : This study tested the hypothesis that 3-hydroxy-3-methyl-glutaryl coenzyme A ( HMG- DB01992 ) reductase inhibitor affects T cell-mediated autoimmunity through inhibition of nuclear factor-kappaB ( NFkappaB ) and reduces the severity of experimental autoimmune myocarditis ( EAM ) . METHODS : EAM was induced in Lewis rats by immunization with myosin . High-dose or low-dose fluvastatin or vehicle was administered orally for 3 weeks to rats with EAM . RESULTS : DB01095 reduced the pathophysiological severity of myocarditis . DB01095 inhibited expression of NFkappaB in the nuclei of myocardium in EAM . DB01095 reduced production of Th1-type cytokines , including interferon ( IFN ) -gamma and interleukin ( IL ) -2 , and inhibited expression of inflammatory cytokine mRNAs in the myocardium . Infiltration of P01730 -positive T cells into the myocardium and T cell proliferative responses were suppressed by fluvastatin . Plasma lipid levels did not differ between the groups . CONCLUSIONS : DB01095 ameliorates EAM by inhibiting T cell responses and suppressing Th1-type and inflammatory cytokines via inactivation of nuclear factor-kappaB , and this activity is independent of cholesterol reduction .",
+    "DB01095 inhibits growth and alters the malignant phenotype of the P13671 glioma cell line . BACKGROUND : DB01095 is a member of the family of P04035 inhibitors ( statins ) extensively used in medical practice . Increasing evidence suggests that fluvastatin may be implicated in suppression of cancer growth and development . The aim of the present study was to investigate the anti-cancer potential of fluvastatin in P13671 rat malignant glioma cells . METHODS : First , the effects of fluvastatin on cell viability ( MTT assay ) , proliferation ( BrdU assay ) , cell morphology , and cytoskeleton were examined . Subsequently , its effect on extracellular signal regulated kinase 1 and 2 ( P27361 /2 ) and P45983 and 2 ( JNK 1/2 ) expression was estimated by Western blot . Finally , the influence of fluvastatin on cell migration and production of P14780 and P15692 was determined using a wound-healing assay and ELISA test , respectively . RESULTS : The results obtained showed that fluvastatin had a remarkable inhibitory and cytotoxic effect on tumor P13671 cells ( IC(50) = 8.6 μM , 48 h ) , but did not inhibit the growth of normal neuronal cells . The concentrations from 1 to 10 μM induced marked morphologic alterations typical for apoptosis including shrinkage of cytoplasm , chromatin condensation , and nucleus breakdown . CONCLUSION : The inhibitory effects of fluvastatin on cell proliferation seemed to be associated with decreased p- P27361 /2 expression , upregulation of p- P45983 /2 , and reduction in the P14780 and P15692 concentrations in culture media . The high anticancer ( antiproliferative , proapoptotic , antiinvasive ) activity of fluvastatin and lack of its toxicity against normal cells indicate a potential use of this statin in the treatment of malignant glioma .",
+    "Effect of vitamin C on the availability of tetrahydrobiopterin in human endothelial cells . DB00126 has long been known for its beneficial vascular effects , but its mechanism of action remains unclear . Recent reports suggest that vitamin C may prevent endothelial dysfunction by scavenging free radicals and increasing the bioavailability of nitric oxide . To investigate this area further , we studied the effect of vitamin C ( 10(-4) M ) and Mn(III) tetrakis ( 4-benzoic acid ) porphyrin chloride ( MnTBAP ; 10(-5) M ) , a scavenger of superoxide , hydrogen peroxide , and peroxynitrite , on endothelial nitric oxide synthase ( P29474 ) enzymatic activity in cultured human umbilical vein endothelial cells . L- DB00155 formation ( a measure of P29474 enzymatic activity ) was significantly increased in cells treated for 24 h with vitamin C . No effect was observed after MnTBAP treatment . Chronic administration of vitamin C also had no effect on P29474 protein expression . Treatment with vitamin C for 24 h significantly increased levels of the P29474 co-factor tetrahydrobiopterin ( BH4 ) , whereas MnTBAP did not affect its levels . Sepiapterin ( 10(-4) M ) , a precursor of BH4 , significantly increased P29474 activity , whereas addition of vitamin C to cells treated with sepiapterin did not cause any further increase in P29474 activity . Our results suggest that the beneficial effect of vitamin C on endothelial function is best explained by increased intracellular BH4 content and subsequent enhancement of P29474 activity . This effect appears to be independent of the ability of vitamin C to scavenge superoxide anions .",
+    "DB04958 , a P20273 -targeting recombinant humanized antibody with a different mode of action from rituximab . DB04958 is a humanized anti- P20273 monoclonal antibody currently in clinical trials for treatment of non-Hodgkin lymphoma ( Q9NZ71 ) and certain autoimmune diseases . Here we report the results of investigations of epratuzumab 's mode of action in comparison to and in combination with the anti- P11836 mAb , rituximab . In vitro cell growth inhibition , induction of apoptosis , and the ability of the mAbs to mediate complement-dependent cytotoxicity ( CDC ) and antibody-dependent cellular cytotoxicity ( ADCC ) were evaluated . We also investigated the potential activity of epratuzumab in the regulation of B-cell antigen receptor ( P11274 ) activation . DB04958 and rituximab displayed very distinct modes of action ; epratuzumab acts as an immunomodulatory agent , while rituximab is an acutely cytotoxic therapeutic antibody . DB04958 has distinct effects on cell growth from rituximab . For example , rituximab+anti-human IgG Fcgamma yielded marked inhibition of proliferation in human Q9NZ71 cell lines , while epratuzumab had little or no effect in this assay . However , when cells were immobilized and stimulated with anti-IgM , epratuzumab , but not rituximab , caused a significant antiproliferative effect . Unlike rituximab , no CDC could be detected , and ADCC was modest but significant with epratuzumab . Importantly , combining rituximab and epratuzumab did not decrease rituximab 's ability to induce apoptosis , CDC , and ADCC . In fact , the combination is more effective than rituximab alone in inhibiting proliferation of Daudi Burkitt lymphoma cells in the presence of second antibody , and at least equally effective to rituximab in the absence of crosslinking . These observations suggest that it may be possible to enhance clinical efficacy by combination therapy comprised of anti- P11836 and anti- P20273 mAbs .",
+    "Msx2 promotes cardiovascular calcification by activating paracrine Wnt signals . In diabetic P01130 -/- mice , an ectopic P12643 -Msx2 gene regulatory program is upregulated in association with vascular calcification . We verified the procalcific actions of aortic Msx2 expression in vivo . CMV-Msx2 transgenic ( CMV-Msx2Tg(+) ) mice expressed 3-fold higher levels of aortic Msx2 than nontransgenic littermates . On high-fat diets , CMV-Msx2Tg(+) mice exhibited marked cardiovascular calcification involving aortic and coronary tunica media . This corresponded to regions of Msx2 immunoreactivity in adjacent adventitial myofibroblasts , suggesting a potential paracrine osteogenic signal . To better understand Msx2-regulated calcification , we studied actions in 10T1/2 cells . We found that conditioned media from Msx2-transduced 10T1/2 cells ( Msx2-CM ) is both pro-osteogenic and adipostatic ; these features are characteristic of Wnt signaling . Msx2-CM stimulated Wnt-dependent TCF/LEF transcription , and Msx2-transduced cells exhibited increased nuclear beta-catenin localization with concomitant alkaline phosphatase induction . Msx2 upregulated Wnt3a and Wnt7a but downregulated expression of the canonical inhibitor Dkk1 . Dkk1 treatment reversed osteogenic and adipostatic actions of Msx2 . DB06285 , a Q03431 agonist that inhibits murine vascular calcification , suppressed vascular P12643 -Msx2-Wnt signaling . Analyses of CMV-Msx2Tg(+) mice confirmed that Msx2 suppresses aortic Dkk1 and upregulates vascular Wnts ; moreover , TOPGAL(+) ( Wnt reporter ) ; CMV-Msx2Tg(+) mice exhibited augmented aortic LacZ expression . Thus , Msx2-expressing cells elaborated an osteogenic milieu that promotes vascular calcification in part via paracrine Wnt signals .",
+    "c- P05412 promotes P11274 - P00519 -induced lymphoid leukemia by inhibiting methylation of the 5' region of Cdk6 . The transcription factor c- P05412 and its upstream kinase P45983 have been implicated in P11274 - P00519 -induced leukemogenesis . P45983 has been shown to regulate P10415 expression , thereby altering leukemogenesis , but the impact of c- P05412 remained unclear . In this study , we show that P45983 and c- P05412 promote leukemogenesis via separate pathways , because lack of c- P05412 impairs proliferation of p185( P11274 - P00519 )-transformed cells without affecting their viability . The decreased proliferation of c-Jun(Δ/Δ) cells is associated with the loss of cyclin-dependent kinase 6 ( Q00534 ) expression . In c-Jun(Δ/Δ) cells , Q00534 expression becomes down-regulated upon P11274 - P00519 -induced transformation , which correlates with CpG island methylation within the 5' region of Cdk6 . We verified the impact of Cdk6 deficiency using Cdk6(-/-) mice that developed P11274 - P00519 -induced B-lymphoid leukemia with significantly increased latency and an attenuated disease phenotype . In addition , we show that reexpression of Q00534 in P11274 - P00519 -transformed c-Jun(Δ/Δ) cells reconstitutes proliferation and tumor formation in Nu/Nu mice . In summary , our study reveals a novel function for the activating protein 1 ( AP-1 ) transcription factor c- P05412 in leukemogenesis by antagonizing promoter methylation . Moreover , we identify Q00534 as relevant and critical target of AP-1-regulated DNA methylation on P11274 - P00519 -induced transformation , thereby accelerating leukemogenesis .",
+    "Expression of human all-trans-retinoic acid receptor beta and its ligand-binding domain in Escherichia coli . DB00755 , one of the hormonally active derivatives of vitamin A , occurs physiologically in plasma at a concentration below 10 nmol/l . The methods currently used for its quantification are based on HPLC , need about 1 ml of serum , are relatively laborious and thus not well suited for mass analysis . The affinity and specificity of retinoic acid receptors for all-trans-retinoic acid encouraged us to express both the entire human retinoic acid receptor beta ( P10826 ) and two versions of its retinoic acid-binding domain in Escherichia coli in the hope that these recombinant proteins might be used as binders in a ligand-binding assay for all-trans-retinoic acid . The recombinant receptors , the whole receptor [ P10826 -( Q93033 -Q448) ] , corresponding to domains A-F , and the ligand-binding domain [ P10826 -(E149-Q448) ] , corresponding to domains D-F , were expressed in the vector pET 3d/BL21 ( DE3 ) as inclusion bodies , solubilized with guanidinium chloride , renatured and purified by ion-exchange chromatography . P10826 -(P193-Q448) , corresponding to domains E-F , was expressed in the vector pET 3d/BL21(DE3)pLysS , and purified by reversed-phase chromatography . Under non-denaturing conditions , the expressed whole receptor [ P10826 -( Q93033 -Q448) ] and the D-F construct ( P10826 -(E149-Q448) ] behaved chromatographically as monomeric proteins whereas the E-F construct [ P10826 -(P193-Q448) ] had a strong tendency to aggregate . P10826 -( Q93033 -Q448) and P10826 -(E149-Q448) had similar Kd values for all-trans-retinoic acid ( 1.4 and 0.6 nmol/l respectively ) whereas P10826 -(P193-Q448) bound all-trans-retinoic acid less avidly ( Kd 9.6 nmol/l ) . DB00523 bound to P10826 -(E149-Q448) and P10826 -( Q93033 -Q448) as avidly as all-trans-retinoic acid . Competition experiments showed weak or no binding of 4-oxo-all-trans-retinoic acid , 4-oxo-13-cis-retinoic acid , 13-cis-retinoic acid , acitretin and retinol by P10826 -(E149-Q448) .",
+    "Statin decreases endothelial microparticle release from human coronary artery endothelial cells : implication for the Rho-kinase pathway . OBJECTIVE : Elevated plasma levels of endothelial microparticles ( EMPs ) are associated with the presence of clinical atherosclerosis . Considering the anti-inflammatory properties of P04035 inhibitors on the endothelium , we studied the effect of fluvastatin on the release of EMPs in cultured human coronary artery endothelial cells ( HCAEC ) . METHODS AND RESULTS : EMPs were generated in P01375 -activated HCAECs . The absolute number of EMPs was enumerated using a novel two-color flow cytometric immunostaining technique with TruCount beads as an internal reference . EMPs are defined as EC membrane vesicles ( 1-2 microm in size ) with a characteristic immunophenotype . The addition of fluvastatin to P01375 -activated HCAECs significantly suppressed Q7L5Y9 release . DB01095 suppressed P01375 -induced Rho activation . The Rho-kinase inhibitor , Y-27632 , reproduced the effect of statin . CONCLUSION : Q7L5Y9 release from P01375 -activated HCAECs is suppressed by fluvastatin . In addition , the Rho/Rho-kinase may play an important role in modulating Q7L5Y9 release .",
+    "A P04035 inhibitor possesses a potent anti-atherosclerotic effect other than serum lipid lowering effects -- the relevance of endothelial nitric oxide synthase and superoxide anion scavenging action . We have determined whether the anti-atherosclerotic effect of a 3-hydroxy-3-methyl-glutaryl- DB01992 ( HMG- DB01992 ) reductase inhibitor ( fluvastatin ) is mediated through nitric oxide ( NO ) as well as affecting plasma lipids . NO related vascular responses , endothelial nitric oxide synthase ( P29474 ) mRNA and superoxide anion ( O(2)(-) ) release were examined in vascular walls of oophorectomized female rabbits fed 0.5 % cholesterol chow for 12 weeks with or without fluvastatin ( 2 mg/kg per day ) . Serum lipid profile was not different between two groups . NO dependent responses stimulated by acetylcholine and calcium ionophore A23187 and tone related basal NO response induced by N(G)-monomethyl-L-arginine acetate ( L- Q13145 ) ; nitric oxide synthase inhibitor were all improved by fluvastatin treatment . Endothelium independent vasorelaxation induced by nitroglycerin was not different between the two groups of rabbits ' arteries . DB01095 treatment increased cyclic GMP concentration in aorta of rabbits . P29474 mRNA expression and O(2)(-) release were measured in aorta using competitive reverse transcription-polymerase chain reaction ( RT-PCR ) and with lucigenin analogue , 2-methyl-3,7-dihydroimidazol [1,2-a]pyrazine-3-one ( MCLA ) chemiluminescence methods . P29474 mRNA in the endothelial cells of aorta was significantly up-regulated and O(2)(-) production was significantly reduced in fluvastatin treated rabbit aorta . Anti-macrophage staining area , but not anti-smooth muscle cell derived actin stained area in the aorta was also reduced by fluvastatin treatment . Conclusion , fluvastatin , a P04035 inhibitor , retards the initiation of atherosclerosis formation through the improvement of NO bioavailability by both up-regulation of P29474 mRNA and decrease of O(2)(-) production in vascular endothelial cells , and this means that part of the anti-atherosclerotic effect of fluvastatin may be due to nonlipid factors .",
+    "Determination of fenofibric acid concentrations by HPLC after anion exchange solid-phase extraction from human serum . Triglycerides are increasingly being recognized as a risk factor for cardiovascular disease . Research efforts to identify sources of variability in triglyceride-lowering response to the lipid-lowering drug fenofibrate require quantification of the active acidic form of this Q07869 agonist . Anion-exchange solid-phase extraction , in combination with reverse-phase high-performance liquid chromatography ( HPLC ) , rapidly and accurately determines steady-state fenofibric acid serum concentrations . Chromatographic separation under isocratic conditions , with use of ultraviolet detection at 285 nm , provides clean baseline and sharp peaks for clofibric acid , 1-napthyl acetic acid ( internal standards ) , and fenofibric acid . Commonly prescribed and over-the-counter nonsteroidal anti-inflammatory drugs ( NSAIDs ) were screened for assay interference , and the assay was employed to quantify fenofibric acid in more than 800 human subject specimens . DB01039 analysis was found to be linear over the range of 0.5 to 40 mg/L and was validated with either internal standard . Accuracies ranged from 98.65 % to 102.4 % , whereas the within- and between-day precisions ranged from 1.0 % to 2.2 % and 2.0 % to 6.2 % , respectively . NSAIDs had minimal interference with the assay , which succeeded in quantifying fenofibric acid in more than 843 of 846 serum samples from human subjects , many taking a variety of coadministered medications . Anion-exchange solid-phase extraction in combination with reverse-phase HPLC accurately determines steady-state fenofibric acid serum concentrations in humans without interference from NSAIDs or commonly administered medications . This method is suitable for quantification of fenofibric acid for clinical pharmacokinetic studies in patients with dyslipidemia .",
+    "Identification of N-(4-piperidinyl)-4-(2,6-dichlorobenzoylamino)-1H-pyrazole-3-carboxamide ( DB05037 ) , a novel cyclin dependent kinase inhibitor using fragment-based X-ray crystallography and structure based drug design . The application of fragment-based screening techniques to cyclin dependent kinase 2 ( P24941 ) identified multiple ( > 30 ) efficient , synthetically tractable small molecule hits for further optimization . Structure-based design approaches led to the identification of multiple lead series , which retained the key interactions of the initial binding fragments and additionally explored other areas of the DB00171 binding site . The majority of this paper details the structure-guided optimization of indazole ( 6 ) using information gained from multiple ligand- P24941 cocrystal structures . Identification of key binding features for this class of compounds resulted in a series of molecules with low nM affinity for P24941 . Optimisation of cellular activity and characterization of pharmacokinetic properties led to the identification of 33 ( DB05037 ) , which is currently being evaluated in clinical trials for the treatment of human cancers .",
+    "Novel phenolic antioxidants as multifunctional inhibitors of inducible P19320 expression for use in atherosclerosis . A series of novel phenolic compounds has been discovered as potent inhibitors of P01375 -inducible expression of vascular cell adhesion molecule-1 ( P19320 ) with concurrent antioxidant and lipid-modulating properties . Optimization of these multifunctional agents led to the identification of 3a ( DB05399 ) as a clinical candidate with demonstrated efficacies in animal models of atherosclerosis and hyperlipidemia .",
+    "P12004 -dependent kinase 5 phosphorylates endothelial nitric oxide synthase at serine 116 . DB00435 ( NO ) production in endothelial cells ( EC ) is regulated by multisite phosphorylation of specific serine and threonine residues in endothelial NO synthase ( P29474 ) . Among these , P29474 -Ser116 is phosphorylated in the basal state , and its phosphorylation contributes to basal NO production . Here , we investigated the mechanism by which P29474 -Ser116 is phosphorylated during the basal state using bovine aortic EC . Although a previous study suggested that protein kinase C was involved in P29474 -Ser116 phosphorylation , overexpression of various protein kinase C isoforms did not affect P29474 -Ser116 phosphorylation . An in silico analysis using a motif scan revealed that the P29474 -Ser116 residue might be a substrate for proline-directed protein kinases . Roscovitine , a specific inhibitor of cyclin-dependent kinase ( CDK ) , 1 , 2 , and 5 , but not an inhibitor of mitogen-activated protein kinase kinase or glycogen synthase kinase 3beta , inhibited P29474 -Ser116 phosphorylation dose dependently . Furthermore , purified P06493 , 2 , or 5 directly phosphorylated P29474 -Ser116 in vitro . Ectopic expression of the dominant-negative Q00535 but not dominant-negative P06493 or dominant-negative P24941 repressed P29474 -Ser116 phosphorylation and increased NO production . In addition , Q00535 activity was detected in bovine aortic EC , and coimmunoprecipitation and confocal microscopy studies revealed a colocalization of P29474 and Q00535 . Cotransfection of Q00535 and p25 , the specific Q00535 activator , increased P29474 -Ser116 phosphorylation and decreased NO production , but its parent molecule , p35 , and p39 , another activator , were not detected in bovine aortic EC , which suggests the existence of a novel Q00535 activator . Overall , this is the first study to find that Q00535 is a physiological kinase responsible for P29474 -Ser116 phosphorylation and regulation of NO production .",
+    "Lipid-lowering response of the P04035 inhibitor fluvastatin is influenced by polymorphisms in the low-density lipoprotein receptor gene in Brazilian patients with primary hypercholesterolemia . Although the efficacy of fluvastatin ( P04035 inhibitor ) in the treatment of primary hypercholesterolemia is well documented , a wide interindividual variation treatment response has been observed . We have studied the possible role of the AvaII ( exon 13 ) , HincII ( exon 12 ) , and PvuII ( intron 15 ) polymorphisms at the low-density lipoprotein receptor ( P01130 ) gene on lipid-lowering response in 55 patients ( 36 to 70 years old ) with primary hypercholesterolemia treated with fluvastatin for 16 weeks . P01130 genotypes were determined by PCR-RFLP . The results indicate that the AvaII and PvuII polymorphisms influence the cholesterol-lowering response of the P04035 inhibitor DB01095 . Patients carrying A+A+ ( AvaII ) or P1P1 ( PvuII ) homozygous genotypes presented lower reduction in total cholesterol , LDL-C and apolipoprotein B levels after 16 weeks of treatment with fluvastatin , when compared to other genotypes ( P < 0.05 ) . Our data also support the previous assumption that the AvaII , HincII , and PvuII polymorphisms of the P01130 gene are associated with variation of serum cholesterol levels . Therefore , the identification of the P01130 genetic profile may provide better prediction of a patient 's clinical response to fluvastatin .",
+    "Study of retinoic acid effect upon retinoic acid receptors beta ( P10826 ) in P13671 cultured glioma cells . Using monoclonal antibodies against the P10276 and P10826 retinoic receptors , we demonstrated that these receptors were present together in P13671 glioma cells as two isoforms of 50 and 55 kDa . For P10826 , the 50 kDa isoform predominated ( 60 to 80 % of the total of the two isoforms ) . After a treatment for 48 h with retinoic acid 10 microM , the 55 kDa form was enhanced , while no effect was observed either on P10276 isoforms from P13671 cells and on both P10276 and P10826 forms from neuroblastoma SKN SH SY5Y used as a control . Using purified neuronal and glial rat brain nuclei , we showed that the 55 kDa isoform from P10826 predominated in glial cells . These results suggest that retinoic acid treatment of P13671 cells led to a partial differentiation , the enhancement of the heavy form of P10826 being a marker of this phenomenon .",
+    "Novel antimicrobial peptides from the venom of the eusocial bee Halictus sexcinctus ( Hymenoptera : Halictidae ) and their analogs . Two novel antimicrobial peptides , named halictines , were isolated from the venom of the eusocial bee Halictus sexcinctus . Their primary sequences were established by P19957 -QTOF mass spectrometry , Edman degradation and enzymatic digestion as DB00145 - DB00134 - DB00150 - DB00133 -Lys- DB00167 - DB00149 - DB00145 - DB00117 - DB00149 - DB00167 - DB00125 -NH2 ( P42357 -1 ) , and DB00145 -Lys- DB00150 - DB00134 - DB00133 - DB00149 - DB00149 -Lys- DB00117 - DB00167 - DB00149 -Lys-NH2 ( P42357 -2 ) . Both peptides exhibited potent antimicrobial activity against Gram-positive and Gram-negative bacteria but also noticeable hemolytic activity . The CD spectra of P42357 -1 and P42357 -2 measured in the presence of trifluoroethanol or SDS showed ability to form an amphipathic alpha-helical secondary structure in an anisotropic environment such as bacterial cell membrane . NMR spectra of P42357 -1 and P42357 -2 measured in trifluoroethanol/water confirmed formation of helical conformation in both peptides with a slightly higher helical propensity in P42357 -1 . Altogether , we prepared 51 of P42357 -1 and P42357 -2 analogs to study the effect of such structural parameters as cationicity , hydrophobicity , alpha-helicity , amphipathicity , and truncation on antimicrobial and hemolytic activities . The potentially most promising analogs in both series are those with increased net positive charge , in which the suitable amino acid residues were replaced by Lys . This improvement basically relates to the increase of antimicrobial activity against pathogenic Pseudomonas aeruginosa and to the mitigation of hemolytic activity .",
+    "Role of histone deacetylation in cell-specific expression of endothelial nitric-oxide synthase . Histone acetylation plays an important role in chromatin remodeling and gene expression . The molecular mechanisms involved in cell-specific expression of endothelial nitric-oxide synthase ( P29474 ) are not fully understood . In this study we investigated whether histone deacetylation was involved in repression of P29474 expression in non-endothelial cells . Induction of P29474 expression by histone deacetylase ( HDAC ) inhibitors trichostatin A ( P32119 ) and sodium butyrate was observed in all four different types of non-endothelial cells examined . Chromatin immunoprecipitation assays showed that the induction of P29474 expression by P32119 was accompanied by a remarkable increase of acetylation of histone H3 associated with the P29474 5'-flanking region in the non-endothelial cells . Moreover , DNA methylation-mediated repression of P29474 promoter activity was partially reversed by P32119 treatment , and combined treatment of P32119 and DB01262 ( AzadC ) synergistically induced P29474 expression in non-endothelial cells . The proximal Sp1 site is critical for basal activity of P29474 promoter . The induction of P29474 by inhibition of HDACs in non-endothelial cells , however , appeared not mediated by the changes in Sp1 DNA binding activity . We further showed that Sp1 bound to the endogenous P29474 promoter and associated with Q13547 in non-endothelial HeLa cells . Combined P32119 and AzadC treatment increased Sp1 binding to the endogenous P29474 promoter but decreased the association between Q13547 and Sp1 in HeLa cells . Our data suggest that Q13547 plays a critical role in P29474 repression , and the proximal Sp1 site may serve a key target for HDCA1-mediated P29474 repression in non-endothelial cells .",
+    "Anti-allergic function and regulatory mechanisms of KR62980 in allergen-induced airway inflammation . The ligand-activated transcription factor , peroxisome proliferator-activated receptor ( Q07869 )gamma , and its ligands inhibit pro-inflammatory cytokine production by immune cells , thus exerting anti-inflammatory activity . As a non-thiazolidinedione PPARgamma ligand , KR62980 has anti-diabetic and anti-adipogenic activities , but its anti-inflammatory function has yet to be characterized . In this study , we investigated the functions and mechanisms of KR62980 in the activation and differentiation of P01730 + T helper ( Th ) cells by comparing its effects with those of a thiazolidinedione PPARgamma ligand , rosiglitazone . KR62980 dose-dependently and significantly suppressed TCR-triggered Th cell proliferation by suppressing P60568 /IL-2Ralpha-mediated signaling . Both KR62980 and rosiglitazone suppressed IFNgamma production in a dose-dependent manner , whereas P05112 gene expression was specifically suppressed by only KR62980 . In addition , sustained KR62980 treatment diminished Th2 cytokine production by inhibiting c-Maf expression . In vivo administration of KR62980 in a model of allergic asthma significantly attenuated eotaxin-induced eosinophil infiltration , allergic cytokine production and collagen deposition in the lung . KR62980 also decreased goblet cell hyperplasia in the airway and mucous cell metaplasia in nasal epithelium , concurrent with decreases of allergic Th2 cytokines and Q16552 in the draining lymph node . In conclusion , a novel PPARgamma ligand , KR62980 , suppresses in vitro Th2 cell differentiation and attenuates in vivo OVA-induced airway inflammation , suggesting a beneficial role for KR62980 in the treatment of allergic asthma and allergic rhinitis ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB01095 is a P04035 inhibitor, specifically fluvastatin.\nFluvastatin is known to upregulate endothelial nitric oxide synthase (P29474) activity via phosphorylation and expression.\nDB01095 enhances P29474 phosphorylation through the P19957-kinase/Akt and PKA pathways.\nDB01095 increases tetrahydrobiopterin (BH4) levels, which is a cofactor for P29474.\nDB01095 inhibits Rho activation in human coronary artery endothelial cells.\nDB01095 suppresses endothelial microparticle (Q7L5Y9) release via the Rho-kinase pathway.\nDB01095 upregulates P29474 mRNA expression and reduces superoxide anion production.\nDB01095 inhibits NFκB activation in myocardium and reduces Th1-type cytokines.\nDB01095 has been shown to inhibit growth and alter the malignant phenotype of P13671 glioma cells.\nDB01095 is a known modulator of multiple signaling pathways including Rho-kinase, NFκB, and P29474.\nDB00155 is a compound that enhances P29474 activity by increasing BH4 content.\nDB00155 is involved in the same pathway as DB01095, specifically related to endothelial nitric oxide synthase and BH4.\nDB00155 and DB01095 both act on the P29474 pathway and BH4 metabolism.\nDB00155 is a direct modulator of the same target (P29474) and cofactor (BH4) as DB01095.\nThe compound that interacts with DB01095 through shared pathway modulation is DB00155.\n<answer> DB00155",
+  "predicted_answer": "DB00155",
+  "claims": [
+    "DB01095 is a P04035 inhibitor, specifically fluvastatin",
+    "Fluvastatin is known to upregulate endothelial nitric oxide synthase (P29474) activity via phosphorylation and expression",
+    "DB01095 enhances P29474 phosphorylation through the P19957-kinase/Akt and PKA pathways",
+    "DB01095 increases tetrahydrobiopterin (BH4) levels, which is a cofactor for P29474",
+    "DB01095 inhibits Rho activation in human coronary artery endothelial cells",
+    "DB01095 suppresses endothelial microparticle (Q7L5Y9) release via the Rho-kinase pathway",
+    "DB01095 upregulates P29474 mRNA expression and reduces superoxide anion production",
+    "DB01095 inhibits NFκB activation in myocardium and reduces Th1-type cytokines",
+    "DB01095 has been shown to inhibit growth and alter the malignant phenotype of P13671 glioma cells",
+    "DB01095 is a known modulator of multiple signaling pathways including Rho-kinase, NFκB, and P29474",
+    "DB00155 is a compound that enhances P29474 activity by increasing BH4 content",
+    "DB00155 is involved in the same pathway as DB01095, specifically related to endothelial nitric oxide synthase and BH4",
+    "DB00155 and DB01095 both act on the P29474 pathway and BH4 metabolism",
+    "DB00155 is a direct modulator of the same target (P29474) and cofactor (BH4) as DB01095",
+    "The compound that interacts with DB01095 through shared pathway modulation is DB00155"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB01095 is a P04035 inhibitor, specifically fluvastatin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Fluvastatin is known to upregulate endothelial nitric oxide synthase (P29474) activity via phosphorylation and expression",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB01095 enhances P29474 phosphorylation through the P19957-kinase/Akt and PKA pathways",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB01095 increases tetrahydrobiopterin (BH4) levels, which is a cofactor for P29474",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB01095 inhibits Rho activation in human coronary artery endothelial cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB01095 suppresses endothelial microparticle (Q7L5Y9) release via the Rho-kinase pathway",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 2,
+        "FC": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01095 upregulates P29474 mRNA expression and reduces superoxide anion production",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01095 inhibits NFκB activation in myocardium and reduces Th1-type cytokines",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB01095 has been shown to inhibit growth and alter the malignant phenotype of P13671 glioma cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB01095 is a known modulator of multiple signaling pathways including Rho-kinase, NFκB, and P29474",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00155 is a compound that enhances P29474 activity by increasing BH4 content",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00155 is involved in the same pathway as DB01095, specifically related to endothelial nitric oxide synthase and BH4",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00155 and DB01095 both act on the P29474 pathway and BH4 metabolism",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB00155 is a direct modulator of the same target (P29474) and cofactor (BH4) as DB01095",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "The compound that interacts with DB01095 through shared pathway modulation is DB00155",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "uid": "strategyqa__21e352756ce2d1add415",
+  "sample_id": "21e352756ce2d1add415",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does the land in close proximity to beaver dams suffer?",
+  "gold_answer": "yes",
+  "context": [
+    "Beaver dams often lead to flooding in the areas around them.",
+    "Flooding can lead to loosening of the soil.",
+    "Loosened soil can cause trees to fall over. ",
+    "Flooding can lead to soil erosion."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBeaver dams often lead to flooding in the areas around them.\nFlooding in close proximity to beaver dams can loosen the soil.\nLoosened soil reduces the stability of tree roots.\nTrees in close proximity to beaver dams may fall over due to weakened root support.\nFlooding can also lead to soil erosion in the surrounding land.\nSoil erosion and tree fall are forms of land degradation.\nThe land in close proximity to beaver dams suffers from flooding, soil loosening, tree fall, and erosion.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Beaver dams often lead to flooding in the areas around them",
+    "Flooding in close proximity to beaver dams can loosen the soil",
+    "Loosened soil reduces the stability of tree roots",
+    "Trees in close proximity to beaver dams may fall over due to weakened root support",
+    "Flooding can also lead to soil erosion in the surrounding land",
+    "Soil erosion and tree fall are forms of land degradation",
+    "The land in close proximity to beaver dams suffers from flooding, soil loosening, tree fall, and erosion"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Beaver dams often lead to flooding in the areas around them",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Flooding in close proximity to beaver dams can loosen the soil",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Loosened soil reduces the stability of tree roots",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Trees in close proximity to beaver dams may fall over due to weakened root support",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Flooding can also lead to soil erosion in the surrounding land",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Soil erosion and tree fall are forms of land degradation",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The land in close proximity to beaver dams suffers from flooding, soil loosening, tree fall, and erosion",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

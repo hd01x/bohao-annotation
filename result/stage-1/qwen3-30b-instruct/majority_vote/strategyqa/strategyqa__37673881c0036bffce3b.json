@@ -1,0 +1,107 @@
+{
+  "uid": "strategyqa__37673881c0036bffce3b",
+  "sample_id": "37673881c0036bffce3b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does New Year's Day always occur on a Wednesday?",
+  "gold_answer": "no",
+  "context": [
+    "New Year's Day occurs on January 1st each year.",
+    "The day of the week any given date falls on rotates by one each year.",
+    "If Leap Year wasn't breaking up the cycle, New Year's Day would be on a Wednesday every seventh year."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nNew Year's Day occurs on January 1st each year.\nThe day of the week for January 1st advances by one day each year.\nLeap years cause an extra day shift, disrupting the regular progression.\nWithout leap years, New Year's Day would fall on the same weekday every seven years.\nLeap years prevent New Year's Day from consistently falling on a Wednesday.\nNew Year's Day does not always occur on a Wednesday.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "New Year's Day occurs on January 1st each year",
+    "The day of the week for January 1st advances by one day each year",
+    "Leap years cause an extra day shift, disrupting the regular progression",
+    "Without leap years, New Year's Day would fall on the same weekday every seven years",
+    "Leap years prevent New Year's Day from consistently falling on a Wednesday",
+    "New Year's Day does not always occur on a Wednesday"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "New Year's Day occurs on January 1st each year",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The day of the week for January 1st advances by one day each year",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Leap years cause an extra day shift, disrupting the regular progression",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Without leap years, New Year's Day would fall on the same weekday every seven years",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Leap years prevent New Year's Day from consistently falling on a Wednesday",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "New Year's Day does not always occur on a Wednesday",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

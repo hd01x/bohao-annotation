@@ -1,0 +1,137 @@
+{
+  "uid": "musique__4hop1__131820_59747_211319_557671",
+  "sample_id": "4hop1__131820_59747_211319_557671",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Which county shares a border with the county where the most populous city in the state where WEKL operates is located?",
+  "gold_answer": "Presque Isle County",
+  "context": [
+    "Detroit (/dᵻˈtrɔɪt/) is the most populous city in the U.S. state of Michigan, the fourth-largest city in the Midwest and the largest city on the United States–Canada border. It is the seat of Wayne County, the most populous county in the state. Detroit's metropolitan area, known as Metro Detroit, is home to 5.3 million people, making it the fourteenth-most populous metropolitan area in the United States and the second-largest in the Midwestern United States (behind Chicago). It is a major port on the Detroit River, a strait that connects the Great Lakes system to the Saint Lawrence Seaway. The City of Detroit anchors the second-largest economic region in the Midwest, behind Chicago, and the thirteenth-largest in the United States.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary (French: Frontière internationale), is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Tucson (/ˈtuːsɒn/ /tuːˈsɒn/) is a city and the county seat of Pima County, Arizona, United States, and home to the University of Arizona. The 2010 United States Census put the population at 520,116, while the 2013 estimated population of the entire Tucson metropolitan statistical area (MSA) was 996,544. The Tucson MSA forms part of the larger Tucson-Nogales combined statistical area (CSA), with a total population of 980,263 as of the 2010 Census. Tucson is the second-largest populated city in Arizona behind Phoenix, both of which anchor the Arizona Sun Corridor. The city is  located 108 miles (174 km) southeast of Phoenix and 60 mi (97 km) north of the U.S.-Mexico border. Tucson is the 33rd largest city and the 59th largest metropolitan area in the United States. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems, earning Tucson the nickname Optics Valley.",
+    "Chelyabinsk () is a city and the administrative center of Chelyabinsk Oblast, Russia, located in the northeast of the oblast, south of Yekaterinburg, just to the east of the Ural Mountains, on the Miass River, on the border of Europe and Asia. Population:",
+    "A Nigerian State is a federated political entity, which shares sovereignty with the Federal Government of Nigeria, There are 36 States in Nigeria, which are bound together by a federal agreement. There is also a territory called the Federal Capital Territory (FCT), which is not a state, but a territory, under the direct control of the Federal Government. The States are further divided into a total of 774 Local Government Areas. Under the Nigerian Constitution, states have the power to ratify constitutional amendments.",
+    "Tennessee (i/tɛnᵻˈsiː/) (Cherokee: ᏔᎾᏏ, Tanasi) is a state located in the southeastern United States. Tennessee is the 36th largest and the 17th most populous of the 50 United States. Tennessee is bordered by Kentucky and Virginia to the north, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, and Arkansas and Missouri to the west. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms the state's western border. Tennessee's capital and second largest city is Nashville, which has a population of 601,222. Memphis is the state's largest city, with a population of 653,450.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary, is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Alpena Power Company is a public utility company that provides electricity to most of Alpena County, Michigan, as well as southeastern Presque Isle County and the village of Hillman, in Montmorency County. The headquarters are located in Alpena, Michigan. The company was founded in 1881 by George N. Fletcher.",
+    "Krasnovishersky District () is an administrative district (raion) of Perm Krai, Russia; one of the thirty-three in the krai. Municipally, it is incorporated as Krasnovishersky Municipal District. It is located in the northeast of the krai, in the valley of the Vishera River, and borders with the Komi Republic in the north, Sverdlovsk Oblast in the east, Cherdynsky District in the west, Solikamsky District in the south, and with the territory of the town of krai significance of Alexandrovsk in the southeast. The area of the district is . Its administrative center is the town of Krasnovishersk. Population: The population of Krasnovishersk accounts for 71.4% of the district's total population.",
+    "Minsk Region or Minsk Voblasć or Minsk Oblast (, \"Minskaja vobłasć\" ; , \"Minskaja oblastj\") is one of the regions of Belarus. Its administrative center is Minsk, although it is a separate administrative territorial entity of Belarus. As of 2011, the region's population is 1,411,500.",
+    "Sokolniki District () is a district of the Eastern Administrative Okrug of the federal city of Moscow located in the north-east corner of the city. Population:",
+    "WEKL, known on-air as \"102.3 K-Love\", is a Contemporary Christian radio station in the United States, licensed by the Federal Communications Commission (FCC) to Augusta, Georgia, broadcasting on 102.3 MHz with an ERP of 1.5 kW. Its studios are located at the Augusta Corporate Center with the market’s other iHeartMedia owned sister stations in Augusta, and the transmitter is located in Augusta near Fort Gordon.",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city. It shares borders with the city in two areas, but is surrounded mostly by other suburbs.",
+    "Strasbourg (/ˈstræzbɜːrɡ/, French pronunciation: ​[stʁaz.buʁ, stʁas.buʁ]; Alsatian: Strossburi; German: Straßburg, [ˈʃtʁaːsbʊɐ̯k]) is the capital and largest city of the Alsace-Champagne-Ardenne-Lorraine (ACAL) region in eastern France and is the official seat of the European Parliament. Located close to the border with Germany, it is the capital of the Bas-Rhin département. The city and the region of Alsace were historically predominantly Alemannic-speaking, hence the city's Germanic name. In 2013, the city proper had 275,718 inhabitants, Eurométropole de Strasbourg (Greater Strasbourg) had 475,934 inhabitants and the Arrondissement of Strasbourg had 482,384 inhabitants. With a population of 768,868 in 2012, Strasbourg's metropolitan area (only the part of the metropolitan area on French territory) is the ninth largest in France and home to 13% of the ACAL region's inhabitants. The transnational Eurodistrict Strasbourg-Ortenau had a population of 915,000 inhabitants in 2014.",
+    "Virginia is located in Lempira Honduras and shares a border with El Salvador. Many Virginians travel to El Salvador to do their shopping, because the Honduran cities are far away from Virginia.",
+    "The largest municipality by population in Georgia is Atlanta with 420,003 residents, and the smallest municipality by population is Edge Hill with 24 residents. The largest municipality by land area is Augusta, a consolidated city - county, which spans 302.47 sq mi (783.4 km), while Edge Hill and Santa Claus are tied for the smallest at 0.18 sq mi (0.47 km) each.",
+    "Mexico (Spanish: México [ˈmexiko] (listen); Nahuatl languages: Mēxihco), officially the United Mexican States (Spanish: Estados Unidos Mexicanos [esˈtaðos uˈniðoz mexiˈkanos] (listen)), is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico. Covering almost 2,000,000 square kilometers (770,000 sq mi), the nation is the fifth largest country in the Americas by total area and the 13th largest independent state in the world. With an estimated population of over 120 million people, the country is the tenth most populous state and the most populous Spanish-speaking state in the world, while being the second most populous nation in Latin America after Brazil. Mexico is a federation comprising 31 states and Mexico City, a special federal entity that is also the capital city and its most populous city. Other metropolises in the state include Guadalajara, Monterrey, Puebla, Toluca, Tijuana and León.",
+    "Sno*Drift is a rally racing event held in Montmorency County, Michigan, annually, with headquarters in Atlanta, Michigan. The event is currently the first Rally America National Rally Championship event of the season. Currently the event is organized into three distinct rallies: the national championship event covering both days of rallying, and two regional rally events each covering one of the two days. Competitors may be entered in any or all of these events simultaneously.",
+    "Blaine is a city in Whatcom County, Washington, United States. The city's northern boundary is the Canada–US border. The Peace Arch international monument lies partly in Blaine and partly in Canada. The population was 4,684 at the 2010 census. Since Blaine is located right on the border with Canada, it is the northernmost city on Interstate 5, while the southernmost city is San Ysidro, California.",
+    "New Albin is a city in Iowa Township, Allamakee County, Iowa, United States. It is the farthest northeast town in Iowa, located on the Mississippi River and the Minnesota border. The population was 522 at the 2010 census."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nWEKL is a radio station licensed to Augusta, Georgia.\nAugusta is the second-largest city in Georgia by population.\nAugusta is located in Richmond County, Georgia.\nRichmond County is the county where the most populous city in Georgia is located.\nThe most populous city in Georgia is Atlanta, which is located in Fulton County.\nFulton County shares a border with Richmond County.\nThe county that shares a border with the county where the most populous city in the state where WEKL operates is located is Richmond County.\n<answer> Richmond County",
+  "predicted_answer": "Richmond County",
+  "claims": [
+    "WEKL is a radio station licensed to Augusta, Georgia",
+    "Augusta is the second-largest city in Georgia by population",
+    "Augusta is located in Richmond County, Georgia",
+    "Richmond County is the county where the most populous city in Georgia is located",
+    "The most populous city in Georgia is Atlanta, which is located in Fulton County",
+    "Fulton County shares a border with Richmond County",
+    "The county that shares a border with the county where the most populous city in the state where WEKL operates is located is Richmond County"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "WEKL is a radio station licensed to Augusta, Georgia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Augusta is the second-largest city in Georgia by population",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Augusta is located in Richmond County, Georgia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Richmond County is the county where the most populous city in Georgia is located",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The most populous city in Georgia is Atlanta, which is located in Fulton County",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Fulton County shares a border with Richmond County",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The county that shares a border with the county where the most populous city in the state where WEKL operates is located is Richmond County",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

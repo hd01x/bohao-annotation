@@ -1,0 +1,108 @@
+{
+  "uid": "strategyqa__55ac71fc1cd8fdc34e8c",
+  "sample_id": "55ac71fc1cd8fdc34e8c",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would Paul Bunyan hypothetically be a poor choice for an urban planner?",
+  "gold_answer": "yes",
+  "context": [
+    "Paul Bunyan was a legendary giant from tall tale stories.",
+    "Urban planners need to design buildings and ceilings in cities.",
+    "Paul Bunyan lived in the country side with a giant blue ox.",
+    "New York city apartment ceilings average around 8 feet in height.",
+    "Paul Bunyan was over seven feet tall."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPaul Bunyan was a legendary giant over seven feet tall.\nUrban planners design buildings and ceilings in cities.\nNew York City apartment ceilings average around 8 feet in height.\nPaul Bunyan would likely hit his head on ceilings that are only 8 feet high.\nPaul Bunyan's height would make it difficult to navigate standard urban spaces.\nPaul Bunyan would be a poor choice for an urban planner due to his extreme height.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Paul Bunyan was a legendary giant over seven feet tall",
+    "Urban planners design buildings and ceilings in cities",
+    "New York City apartment ceilings average around 8 feet in height",
+    "Paul Bunyan would likely hit his head on ceilings that are only 8 feet high",
+    "Paul Bunyan's height would make it difficult to navigate standard urban spaces",
+    "Paul Bunyan would be a poor choice for an urban planner due to his extreme height"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Paul Bunyan was a legendary giant over seven feet tall",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Urban planners design buildings and ceilings in cities",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "New York City apartment ceilings average around 8 feet in height",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Paul Bunyan would likely hit his head on ceilings that are only 8 feet high",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Paul Bunyan's height would make it difficult to navigate standard urban spaces",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Paul Bunyan would be a poor choice for an urban planner due to his extreme height",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

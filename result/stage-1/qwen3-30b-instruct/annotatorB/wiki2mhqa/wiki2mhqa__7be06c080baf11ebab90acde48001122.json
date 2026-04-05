@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__7be06c080baf11ebab90acde48001122",
+  "sample_id": "7be06c080baf11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the paternal grandfather of Chiang Hsiao-Wu?",
+  "gold_answer": "Chiang Kai-shek",
+  "context": [
+    "Abd al- Muttalib Shaybah ibn Hashim( c. 497 – 578) was the grandfather of Islamic prophet Muhammad.",
+    "Chiang Hsiao- yen( born 1 March 1942) or John Chiang, formerly surnamed Chang, is a Taiwanese politician affiliated with the Kuomintang. He is the grandson of Chiang Kai- shek, former leader of the Republic of China.",
+    "Chiang Hsiao- wen( also known as Alan Chiang; 14 December 1935 – 14 April 1989) was the eldest son of Chiang Ching- kuo, the President of the Republic of China in Taiwan from 1978 to 1988. His mother is Faina Ipatyevna Vakhreva, also known as Chiang Fang- liang. He had one younger sister, Hsiao- chang, and two younger brothers, Hsiao- wu and Hsiao- yung. He had two half- brothers, Winston Chang and John Chiang, with whom he shared the same father. He married Xu Nai Jin( Nancy) in 1960 and had a daughter, Yomei, in 1961. He suffered brain damage in 1970 while being treated for diabetes. He died of throat cancer on.",
+    "Lyon Cohen( 1868–1937) was a Polish- born Canadian businessman and a philanthropist. He was the grandfather of singer/ poet Leonard Cohen.",
+    "Chiang Hsiao-wu (also known as Alex Chiang; April 25, 1945 - July 1, 1991) was the second son of Chiang Ching-kuo, the President of the Republic of China in Taiwan from 1978 to 1988. His mother is Faina Ipatyevna Vakhreva, also known as Chiang Fang-liang. He had one older brother, Hsiao-wen, one older sister, Hsiao-chang, and one younger brother, Hsiao-yung. He also had two half-brothers, Winston Chang and John Chiang, with whom he shared the same father. He was president of the state-run Broadcasting Corporation of China from 1980 to 1986, and later headed the Republic of China mission to Singapore for two years, starting in April 1986 as the deputy trade representative before being transferred to the mission to Japan in 1990. In a December 1985 speech, Hsiao-wu's father Chiang Ching-kuo declared ″If someone asks me whether anyone in my family would run for the next presidential term, my reply is, ′It can't be and it won't be.′″ Prior to the speech, Chiang Hsiao-wu was the only one of Chiang Ching-kuo's sons mentioned as a potential successor. He died at the age of 46, on July 1, 1991, at the Taipei Veterans General Hospital in Taiwan as a result of congestive heart failure brought on by chronic inflammation of the pancreas. He was survived by his wife and two children.",
+    "Chiang Hsiao- chang( born 1938) is the only daughter of Chiang Ching- kuo, the President of the Republic of China in Taiwan from 1978 to 1988. Her mother is Faina Ipatyevna Vakhreva, also known as Chiang Fang- liang. She had one older brother, Hsiao- wen, and two younger brothers, Hsiao- wu and Hsiao- yung. She is the only living member of Chiang Ching- kuo's legitimate children, and was the only one among the siblings who could converse in Russian with their mother. She also has twin half- brothers, Winston Chang and John Chiang, with whom she shares the same father. She attended Mills College and was featured in LIFE during her college years. She was married to Yu Yang- ho until his death in 2010; he was the son of former Taiwan defense minister Yu Ta- wei. She and Yu have one son, Theodore Yu Tsu- sheng.",
+    "Chiang Ching-kuo (27 April 1910 – 13 January 1988) was a politician of the Republic of China. The eldest and only biological son of former president Chiang Kai-shek, he held numerous posts in the government of the Republic of China. He served as Premier of the Republic of China between 1972–78 and was the President of the Republic of China from 1978 until his death in 1988. Chiang Ching-kuo was sent as a teenager to study in the Soviet Union during the First United Front in 1925, when his father's Nationalist Party and the Chinese Communist Party were in alliance. He attended university there, but when the Chinese Nationalists violently broke with the Communists, Stalin sent him to work in a steel factory in the Ural Mountains. There he met and married Faina Vakhreva. When war between China and Japan was imminent in 1937, Stalin sent the couple to China. During the war his father gradually came to trust Ching-kuo and gave him more and more responsibilities, including administration. After the Japanese surrender, Chiang-kuo was given the job of ridding Shanghai of corruption, which he attacked with ruthless efficiency. The victory of the Communists in 1949 drove the Chiangs and their government to Taiwan. Chiang Ching-kuo was first given control of the secret police, a position he retained until 1965 and in which he used arbitrary arrests and torture to ensure tight control. He then became Minister of Defense 1965-1969, Vice-Premier, 1972-78, Premier, 1972-78. After his father's death in 1976 he took leadership of the Nationalist Party as Chairman, and was elected President of the Republic in 1978. Under his tenure, the government of the Republic of China, while authoritarian, became more open and tolerant of political dissent. Chiang courted Taiwanese voters and reduced the preference for those who had come from the mainland after the war. Towards the end of his life, Chiang relaxed government controls on the media and speech and allowed Taiwanese Han into positions of power, including his successor Lee Teng-hui.",
+    "Chiang Hsiao- yung( also known as Eddie Chiang; October, 1948 – December 22, 1996) was a politician of the Republic of China.",
+    "Rev. John Westley( 1636 – 78) was an English nonconformist minister. He was the grandfather of John Wesley( founder of Methodism).",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nChiang Hsiao-wu is the second son of Chiang Ching-kuo.\nChiang Ching-kuo is the eldest and only biological son of Chiang Kai-shek.\nChiang Kai-shek was the former leader of the Republic of China.\nChiang Hsiao-wu's paternal grandfather is Chiang Kai-shek.\n<answer> Chiang Kai-shek",
+  "predicted_answer": "Chiang Kai-shek",
+  "claims": [
+    "Chiang Hsiao-wu is the second son of Chiang Ching-kuo",
+    "Chiang Ching-kuo is the eldest and only biological son of Chiang Kai-shek",
+    "Chiang Kai-shek was the former leader of the Republic of China",
+    "Chiang Hsiao-wu's paternal grandfather is Chiang Kai-shek"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Chiang Hsiao-wu is the second son of Chiang Ching-kuo",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Chiang Ching-kuo is the eldest and only biological son of Chiang Kai-shek",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Chiang Kai-shek was the former leader of the Republic of China",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Chiang Hsiao-wu's paternal grandfather is Chiang Kai-shek",
+      "claim_type": "DR"
+    }
+  ]
+}

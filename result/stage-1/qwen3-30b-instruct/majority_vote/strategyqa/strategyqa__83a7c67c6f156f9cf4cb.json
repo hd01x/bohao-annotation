@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__83a7c67c6f156f9cf4cb",
+  "sample_id": "83a7c67c6f156f9cf4cb",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Will more people go in and out of Taco Bell than a Roy Rogers each year?",
+  "gold_answer": "yes",
+  "context": [
+    "Taco Bell has over 7,072 restaurants as of 2018.",
+    "Roy Rogers had over 600 restaurants at its peak.",
+    "Roy Rogers has 48 locations as of 2019."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nTaco Bell has over 7,072 restaurants as of 2018.\nRoy Rogers has 48 locations as of 2019.\nThe number of Taco Bell locations is significantly higher than Roy Rogers locations.\nMore locations imply greater customer traffic potential.\nEach year, more people are likely to enter and exit Taco Bell than Roy Rogers.\nThe number of people going in and out of Taco Bell each year exceeds that of Roy Rogers.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Taco Bell has over 7,072 restaurants as of 2018",
+    "Roy Rogers has 48 locations as of 2019",
+    "The number of Taco Bell locations is significantly higher than Roy Rogers locations",
+    "More locations imply greater customer traffic potential",
+    "Each year, more people are likely to enter and exit Taco Bell than Roy Rogers",
+    "The number of people going in and out of Taco Bell each year exceeds that of Roy Rogers"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Taco Bell has over 7,072 restaurants as of 2018",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Roy Rogers has 48 locations as of 2019",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The number of Taco Bell locations is significantly higher than Roy Rogers locations",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "More locations imply greater customer traffic potential",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Each year, more people are likely to enter and exit Taco Bell than Roy Rogers",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The number of people going in and out of Taco Bell each year exceeds that of Roy Rogers",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

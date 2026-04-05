@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__520becb10b5c138ab300",
+  "sample_id": "520becb10b5c138ab300",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would someone typically confuse a sweet potato with a pineapple?",
+  "gold_answer": "no",
+  "context": [
+    "Sweet potatoes have a smooth skin and are orange in color.",
+    "Pineapples have a short, stocky stem with tough, waxy leaves and the fruit is yellow in color."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSweet potatoes have a smooth skin and are orange in color.\nPineapples have a short, stocky stem with tough, waxy leaves and are yellow in color.\nThe physical appearance of sweet potatoes and pineapples is distinctly different.\nThe color, texture, and overall shape of sweet potatoes and pineapples do not resemble each other.\nIt is unlikely that someone would confuse a sweet potato with a pineapple.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Sweet potatoes have a smooth skin and are orange in color",
+    "Pineapples have a short, stocky stem with tough, waxy leaves and are yellow in color",
+    "The physical appearance of sweet potatoes and pineapples is distinctly different",
+    "The color, texture, and overall shape of sweet potatoes and pineapples do not resemble each other",
+    "It is unlikely that someone would confuse a sweet potato with a pineapple"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Sweet potatoes have a smooth skin and are orange in color",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Pineapples have a short, stocky stem with tough, waxy leaves and are yellow in color",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The physical appearance of sweet potatoes and pineapples is distinctly different",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The color, texture, and overall shape of sweet potatoes and pineapples do not resemble each other",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "It is unlikely that someone would confuse a sweet potato with a pineapple",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

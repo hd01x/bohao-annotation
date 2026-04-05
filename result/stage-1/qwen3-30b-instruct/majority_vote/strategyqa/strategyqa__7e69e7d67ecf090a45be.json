@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__7e69e7d67ecf090a45be",
+  "sample_id": "7e69e7d67ecf090a45be",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is cow methane safer for environment than cars?",
+  "gold_answer": "no",
+  "context": [
+    "Methane is a gas that pollutes the environment and leads to shifts in temperature.",
+    "Cars produce 2.7 tons of methane per year.",
+    "Cows produce 4 tons of methane gas per year."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMethane is a pollutant that contributes to environmental shifts in temperature.\nCars produce 2.7 tons of methane per year.\nCows produce 4 tons of methane per year.\n4 tons is greater than 2.7 tons.\nCows produce more methane than cars annually.\nGreater methane production leads to greater environmental impact.\nCow methane is not safer for the environment than car methane.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Methane is a pollutant that contributes to environmental shifts in temperature",
+    "Cars produce 2.7 tons of methane per year",
+    "Cows produce 4 tons of methane per year",
+    "4 tons is greater than 2.7 tons",
+    "Cows produce more methane than cars annually",
+    "Greater methane production leads to greater environmental impact",
+    "Cow methane is not safer for the environment than car methane"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Methane is a pollutant that contributes to environmental shifts in temperature",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Cars produce 2.7 tons of methane per year",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Cows produce 4 tons of methane per year",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "4 tons is greater than 2.7 tons",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Cows produce more methane than cars annually",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Greater methane production leads to greater environmental impact",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Cow methane is not safer for the environment than car methane",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

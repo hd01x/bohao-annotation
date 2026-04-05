@@ -1,0 +1,119 @@
+{
+  "uid": "strategyqa__615aa49cbd52bbe0654b",
+  "sample_id": "615aa49cbd52bbe0654b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are emus related to elks?",
+  "gold_answer": "no",
+  "context": [
+    "Emus are a type of flightless bird.",
+    "Elks are deer, which are mammals."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEmus are flightless birds.\nElks are deer, which are mammals.\nBirds and mammals are distinct classes of animals.\nEmus belong to the class Aves.\nElks belong to the class Mammalia.\nThe two species are not closely related due to different biological classifications.\nEmus are not related to elks.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Emus are flightless birds",
+    "Elks are deer, which are mammals",
+    "Birds and mammals are distinct classes of animals",
+    "Emus belong to the class Aves",
+    "Elks belong to the class Mammalia",
+    "The two species are not closely related due to different biological classifications",
+    "Emus are not related to elks"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Emus are flightless birds",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Elks are deer, which are mammals",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Birds and mammals are distinct classes of animals",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Emus belong to the class Aves",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Elks belong to the class Mammalia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The two species are not closely related due to different biological classifications",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Emus are not related to elks",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

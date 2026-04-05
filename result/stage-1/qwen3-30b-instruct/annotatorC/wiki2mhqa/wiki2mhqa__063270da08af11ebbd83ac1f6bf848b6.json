@@ -1,0 +1,77 @@
+{
+  "uid": "wiki2mhqa__063270da08af11ebbd83ac1f6bf848b6",
+  "sample_id": "063270da08af11ebbd83ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born later, Attack Of Life: The Bang Tango Movie or King Kong (2005 Film)?",
+  "gold_answer": "Attack Of Life: The Bang Tango Movie",
+  "context": [
+    "Saathi: The Companion is a 2005 film.",
+    "Attack of Life: The Bang Tango Movie is a 2015 documentary film about American hard rock band Bang Tango. The film is directed and edited by Drew Fortier, and features interviews with band members, fans, producers, and musical contemporaries such as Howard Benson, Riki Rachtman, Andrew Wilkow, Mandy Lion, Chip Z'nuff, as well as an opening narration by Twisted Sister frontman Dee Snider. The film received positive reviews.",
+    "King Kong is a 2005 epic monster adventure film co-written, produced, and directed by Peter Jackson. A second remake of the 1933 film of the same title, the film stars Naomi Watts, Jack Black, Adrien Brody, and, through motion capture, Andy Serkis as the title character. Set in 1933, it follows the story of an ambitious filmmaker who coerces his cast and hired ship crew to travel to the mysterious Skull Island. There, they encounter bizarre creatures living on the island as well as a legendary giant gorilla known as Kong, whom they capture and take to New York City. Filming for\" King Kong\" took place in New Zealand from September 2004 to March 2005. The project's budget climbed from an initial$ 150 million to a then- record- breaking$ 207 million. It was released on December 14, 2005 in Germany and the United States, and made an opening of$ 50.1 million. While it performed lower than expected,\" King Kong\" made domestic and worldwide grosses that eventually added up to$ 550 million, becoming the fourth- highest- grossing film in Universal Pictures history at the time and the fifth- highest- grossing film of 2005. It also generated$ 100 million in DVD sales upon its home video release. The film garnered positive reviews from critics and appeared on several top ten lists for 2005. It was praised for its special effects, performances, sense of spectacle and comparison to the 1933 original while some criticised its 3- hour run time. It won three Academy Awards: Best Sound Editing, Best Sound Mixing and Best Visual Effects. A tie- in video game was released alongside the film, which also became a commercial success.",
+    "Dunia is an Egyptian 2005 film.",
+    "King Kong Escapes, released in Japan as, is a 1967 Japanese- American science- fiction\" kaiju\" film featuring King Kong, co-produced by Toho and Rankin/ Bass. The film was directed by Ishirō Honda with special effects by Eiji Tsuburaya and stars Rhodes Reason, Linda Jo Miller, Akira Takarada, Mie Hama, Eisei Amamoto, with Haruo Nakajima as King Kong and Yū Sekida as Mechani- Kong and Gorosaurus. The film is a loose adaptation of the Rankin/ Bass Productions Saturday morning cartoon series\" The King Kong Show\" and was the second and final Toho- produced film featuring King Kong. \" King Kong Escapes\" was released in Japan on July 22, 1967 and released in the United States on June 19, 1968.",
+    "Sir Peter Robert Jackson( born 31 October 1961) is a New Zealand film director, screenwriter, and film producer. He is best known as the director, writer, and producer of the\" Lord of the Rings\" trilogy( 2001 – 03) and the\" Hobbit\" trilogy( 2012 – 14), both of which are adapted from the novels of the same name by J. R. R. Tolkien. Other films include the critically lauded drama\" Heavenly Creatures\"( 1994), the mockumentary film\" Forgotten Silver\"( 1995), the horror comedy\" The Frighteners\"( 1996), the epic monster remake film\" King Kong\"( 2005), the supernatural drama film\" The Lovely Bones\"( 2009), and the World War I documentary film\" They Shall Not Grow Old\"( 2018). He produced\" District 9\"( 2009),\" The Adventures of Tintin\"( 2011),\" West of Memphis\"( 2012), and\" Mortal Engines\"( 2018). He is the third- highest grossing film director, his films having made over$ 6.5 billion worldwide. Jackson began his career with the\" splatstick\" horror comedy\" Bad Taste\"( 1987) and the black comedy\" Meet the Feebles\"( 1989) before filming the zombie comedy\" Braindead\"( 1992). He shared a nomination for Academy Award for Best Original Screenplay with his partner Fran Walsh for\" Heavenly Creatures\", which brought him to mainstream prominence in the film industry. Jackson has been awarded three Academy Awards for( 2003), including the award for Best Director. His other awards include a Golden Globe, four Saturn Awards and three BAFTAs among others. His production company is WingNut Films, and his most regular collaborators are co-writers and producers Walsh and Philippa Boyens. Jackson was made a Companion of the New Zealand Order of Merit in 2002. He was later knighted( as a Knight Companion of the New Zealand Order of Merit) by Anand Satyanand, the Governor- General of New Zealand, at a ceremony in Wellington in April 2010. In December 2014, Jackson was awarded a star on the Hollywood Walk of Fame.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "King Kong Lives( released as King Kong 2 in some countries) is a 1986 American monster adventure film directed by John Guillermin. Produced by De Laurentiis Entertainment Group and featuring special effects by Carlo Rambaldi, the film stars Linda Hamilton and Brian Kerwin. The film is a sequel to the 1976 remake of\" King Kong\".",
+    "Andrew Lawrence Fortier( born July 14, 1987) is an American musician, guitarist, filmmaker, actor, and author. He is best known for his work with Bang Tango, Stephen Shareaux, and Zen From Mars; which he cofounded, and includes members of Kik Tracee, Enuff Z'Nuff, Flipp, and Fear Factory. He was guitarist for the now late Chuck Mosley( Faith No More). He has directed and edited the documentary as well as the upcoming David Ellefson produced horror film\" Dwellers\" which Fortier also wrote and stars in. He is the author of\" Dark, Depressing, and Hilarious\" which is an autobiography on his career thus far.",
+    "Mousa Kraish( born November 21, 1975) is an American actor and director, who has appeared in several Hollywood films including Steven Spielberg's 2005 film\" Munich\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAttack of Life: The Bang Tango Movie was directed by Drew Fortier.\nDrew Fortier is also known as Andrew Lawrence Fortier.\nAndrew Lawrence Fortier was born on July 14, 1987.\nKing Kong (2005) was directed by Peter Jackson.\nPeter Jackson was born on October 31, 1961.\n1987 is later than 1961.\nThe director born later is Drew Fortier.\nThe film with the director born later is Attack of Life: The Bang Tango Movie.\n<answer> Attack of Life: The Bang Tango Movie",
+  "predicted_answer": "Attack of Life: The Bang Tango Movie",
+  "claims": [
+    "Attack of Life: The Bang Tango Movie was directed by Drew Fortier",
+    "Drew Fortier is also known as Andrew Lawrence Fortier",
+    "Andrew Lawrence Fortier was born on July 14, 1987",
+    "King Kong (2005) was directed by Peter Jackson",
+    "Peter Jackson was born on October 31, 1961",
+    "1987 is later than 1961",
+    "The director born later is Drew Fortier",
+    "The film with the director born later is Attack of Life: The Bang Tango Movie"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Attack of Life: The Bang Tango Movie was directed by Drew Fortier",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Drew Fortier is also known as Andrew Lawrence Fortier",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Andrew Lawrence Fortier was born on July 14, 1987",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "King Kong (2005) was directed by Peter Jackson",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Peter Jackson was born on October 31, 1961",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "1987 is later than 1961",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The director born later is Drew Fortier",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C8",
+      "text": "The film with the director born later is Attack of Life: The Bang Tango Movie",
+      "claim_type": "DR"
+    }
+  ]
+}

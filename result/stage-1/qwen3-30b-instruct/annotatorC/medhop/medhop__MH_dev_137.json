@@ -1,0 +1,122 @@
+{
+  "uid": "medhop__MH_dev_137",
+  "sample_id": "MH_dev_137",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00452\", \"DB00734\", \"DB00850\", \"DB01120\", and \"DB01656\" interacts with DB00966?",
+  "gold_answer": "DB00734",
+  "context": [
+    "Protective effect of treatment with low-dose gliclazide in a model of middle cerebral artery occlusion and reperfusion in rats . The aim of this study was to explore the expression of sulfonylurea receptor 1 ( Q09428 ) , the regulatory subunit of the NCCa- DB00171 channel , and to investigate the protective effects of gliclazide following middle cerebral artery occlusion ( MCAO ) /reperfusion in male Wistar rats . Adult rats underwent 2h of the left MCAO using the intraluminal thread technique before reperfusion . The core areas of the infarct at different reperfusion time points were examined for the mRNA level and protein expression of Q09428 using reverse transcription-polymerase chain reaction ( RT-PCR ) and western blotting respectively . DB01120 was administered intravenously into the right jugular vein for 12h simultaneously with the reperfusion . The number of apoptotic cells was determined using the TUNEL assay . The neurological functional deficits were evaluated using Bederson׳s test , and the cerebral infarction volume was visualized with TTC staining . We found up-regulation of Q09428 mRNA and protein levels in ischemic infarct tissues after reperfusion following MCAO , and Q09428 mRNA and protein were maximally upregulated 8-12h after a 2-hour ischemia . The treatment with low-dose of gliclazide reduced the total number of TUNEL-positive cells , the neurological functional deficits and the brain infarct volume . These results suggest that the Q09428 -regulated NCCa- DB00171 channel may be associated with MCAO/reperfusion injury and the infarct-reducing effects of intravenous treatment with gliclazide may be due , in part , to the blocked upregulation of Q09428 expression , the decreased infarct size and the reduced apoptosis in the ischemia-reperfusion brain .",
+    "Potential utility of telmisartan , an angiotensin II type 1 receptor blocker with peroxisome proliferator-activated receptor-gamma ( P37231 ) -modulating activity for the treatment of cardiometabolic disorders . The metabolic syndrome is strongly associated with insulin resistance and consists of a constellation of factors such as hypertension and hyperlipidemia that raise the risk for cardiovascular diseases and diabetes mellitus . There is widespread agreement that the renin-angiotensin system ( DB01367 ) plays a pivotal role in the pathogenesis of insulin resistance and cardiovascular disease in diabetes . Indeed , large clinical trials have demonstrated substantial benefit of the blockade of this system for cardiovascular end-organ protection . Thus the blockade of the DB01367 may be a promising strategy for the treatment of the patients with the metabolic syndrome . Although several types of angiotensin II type 1 ( AT(1) ) receptor blockers ( ARBs ) are commercially available for the treatment of patients with hypertension , we have recently found that telmisartan ( DB00966 ) could have the strongest binding affinity to AT(1) receptor . Further , telmisartan is reported to act as a partial agonist of peroxisome proliferator-activated receptor-gamma ( P37231 ) . These observations suggest that , due to its unique P37231 -modulating activity , telmisartan may be one of the most promising sartans for the treatment of cardiometabolic disorders . In this paper , we reviewed the potential utility of telmisartan in insulin resistance and vascular complications in diabetes .",
+    "2(3H)-benzoxazolone and bioisosters as \" privileged scaffold \" in the design of pharmacological probes . The 2(3H)-benzoxazolone heterocycle and its bioisosteric surrogates ( such as 2(3H)-benzothiazolinone , benzoxazinone , etc. ) have received considerable attention from the medicinal chemists owing to their capacity to mimic a phenol or a catechol moiety in a metabolically stable template . These heterocycles and pyrocatechol have indeed similar pKa 's , electronic charge distribution , and chemical reactivity . Therapeutic applications of this template are very broad , and range from analgesic anti-inflammatory compounds ( including P37231 antagonists ) to antipsychotic and neuroprotective anticonvulsant compounds . High affinity ligands have been obtained also for dopaminergic ( D2 and D4 ) , serotoninergic ( P08908 and P28223 ) , sigma-1 and sigma-2 receptors . Owing to the high number of positive hits encountered with this heterocycle and its congeners , 2(3H)-benzoxazolone template certainly deserves the title of \" privileged scaffold \" in medicinal chemistry .",
+    "Targeting other abnormal signaling pathways in sarcoma : P00533 in synovial sarcomas , P37231 in liposarcomas .",
+    "Pathways targeted by antidiabetes drugs are enriched for multiple genes associated with type 2 diabetes risk . Genome-wide association studies ( GWAS ) have uncovered > 65 common variants associated with type 2 diabetes ( T2D ) ; however , their relevance for drug development is not yet clear . Of note , the first two T2D-associated loci ( P37231 and Q14654 / Q09428 ) encode known targets of antidiabetes medications . We therefore tested whether other genes/pathways targeted by antidiabetes drugs are associated with T2D . We compiled a list of 102 genes in pathways targeted by marketed antidiabetic medications and applied Gene Set Enrichment Analysis ( MAGENTA [ Meta-Analysis Gene-set Enrichment of variaNT Associations ] ) to this gene set , using available GWAS meta-analyses for T2D and seven quantitative glycemic traits . We detected a strong enrichment of drug target genes associated with T2D ( P = 2 × 10(-5) ; 14 potential new associations ) , primarily driven by insulin and thiazolidinedione ( TZD ) targets , which was replicated in an independent meta-analysis ( Metabochip ) . The glycemic traits yielded no enrichment . The T2D enrichment signal was largely due to multiple genes of modest effects ( P = 4 × 10(-4) , after removing known loci ) , highlighting new associations for follow-up ( P33121 , P19838 , P11168 , incretin targets ) . Furthermore , we found that TZD targets were enriched for LDL cholesterol associations , illustrating the utility of this approach in identifying potential side effects . These results highlight the potential biomedical relevance of genes revealed by GWAS and may provide new avenues for tailored therapy and T2D treatment design .",
+    "P48061 and [N33A] P48061 in 5637 and HeLa cells : regulating P00533 phosphorylation via calmodulin/calcineurin . In the human neoplastic cell lines 5637 and HeLa , recombinant P48061 elicited , as expected , downstream signals via both G-protein-dependent and β-arrestin-dependent pathways responsible for inducing a rapid and a late wave , respectively , of P27361 /2 phosphorylation . In contrast , the structural variant [N33A] P48061 triggered no β-arrestin-dependent phosphorylation of P27361 /2 , and signaled via G protein-dependent pathways alone . Both P48061 and [N33A] P48061 , however , generated signals that transinhibited P00533 phosphorylation via intracellular pathways . 1 ) Prestimulation of P61073 / P00533 -positive 5637 or HeLa cells with P48061 modified the HB- P01133 -dependent activation of P00533 by delaying the peak phosphorylation of tyrosine 1068 or 1173 . 2 ) Prestimulation with the synthetic variant [N33A] P48061 , while preserving P61073 -related chemotaxis and P61073 internalization , abolished P00533 phosphorylation . 3 ) In cells knockdown of β-arrestin 2 , P48061 induced a full inhibition of P00533 like [N33A] P48061 in non-silenced cells . 4 ) P00533 phosphorylation was restored as usual by inhibiting PCK , calmodulin or calcineurin , whereas the inhibition of CaMKII had no discernable effect . We conclude that both recombinant P48061 and its structural variant [N33A] P48061 may transinhibit P00533 via G-proteins/calmodulin/calcineurin , but [N33A] P48061 does not activate β-arrestin-dependent P27361 /2 phosphorylation and retains a stronger inhibitory effect . Therefore , we demonstrated that P48061 may influence the magnitude and the persistence of signaling downstream of P00533 in turn involved in the proliferative potential of numerous epithelial cancer . In addition , we recognized that [N33A] P48061 activates preferentially G-protein-dependent pathways and is an inhibitor of P00533 .",
+    "Augmentation by citalopram of risperidone-induced monoamine release in rat prefrontal cortex . RATIONALE : A typical antipsychotics ( APDs ) , e.g. olanzapine and risperidone , have been reported to be effective adjunctive treatment for depression if selective serotonin ( 5-HT ) reuptake inhibitors ( SSRIs ) alone are ineffective . OBJECTIVES AND METHODS : We utilized microdialysis in awake , freely moving rats to study the effect of risperidone in combination with citalopram , an SSRI , on extracellular 5-HT , dopamine ( DA ) , and norepinephrine ( NE ) efflux in rat medial prefrontal cortex ( mPFC ) . RESULTS : DB00734 ( 1.0 mg/kg , s.c. ) , given alone , significantly increased 5-HT , DA , and NE concentrations in the mPFC . DB00215 ( 10 mg/kg , s.c. ) , by itself , produced a significant increase in 5-HT levels only . The combination of risperidone and citalopram produced significantly greater increases in efflux of both DA and NE than risperidone alone . However , the effect of this combination on extracellular 5-HT concentrations was not significantly different than that of citalopram alone . The augmentation of DA and NE efflux induced by risperidone plus citalopram could be partially blocked by the selective P08908 antagonist , WAY 100635 ( 0.2 mg/kg , s.c. ) . CONCLUSIONS : The results suggest that the ability of atypical APDs to augment the therapeutic efficacy of SSRIs in major depression and treatment-resistant depression may be due , at least in part , to potentiation of SSRI-induced increases in cortical DA and NE . The contributions of P08908 receptor stimulation and 5- Q13049 and alpha2 adrenergic receptor antagonism to this augmentation are discussed .",
+    "Telmisartan , its potential therapeutic implications in cardiometabolic disorders . There is a growing body of evidence that the renin-angiotensin system ( DB01367 ) plays a pivotal role in the pathogenesis of cardiovascular diseases . Indeed , large clinical trials have demonstrated substantial benefit of the blockade of this system for cardiovascular-organ protection . Although several types of angiotensin II type 1 ( AT(1) ) receptor blockers ( ARBs ) are commercially available for the treatment of patients with hypertension , we have recently found that telmisartan ( DB00966 ) could have the strongest binding affinity to AT(1) receptor . Telmisartan will be a promising cardiometabolic sartan due to its unique peroxisome proliferator-activated receptor-gamma ( P37231 ) -inducing properties as well . In this review , we focused on telmisartan , and discussed its potential therapeutic implications in cardiometabolic disorders .",
+    "DB00452 -arginine conjugate , a novel HIV-1 Tat antagonist : synthesis and anti-HIV activities . HIV-1 transactivating protein Tat is essential for virus replication and progression of HIV disease . HIV-1 Tat stimulates transactivation by binding to HIV-1 transactivator responsive element ( TAR ) RNA , and while secreted extracellularly , it acts as an immunosuppressor , an activator of quiescent T-cells for productive HIV-1 infection , and by binding to CXC chemokine receptor type 4 ( P61073 ) as a chemokine analogue . Here we present a novel HIV-1 Tat antagonist , a neomycin B-hexaarginine conjugate ( NeoR ) , which inhibits Tat transactivation and antagonizes Tat extracellular activities , such as increased viral production , induction of P61073 expression , suppression of CD3-activated proliferation of lymphocytes , and upregulation of the CD8 receptor . Moreover , Tat inhibits binding of fluoresceine isothiocyanate ( FITC ) -labeled NeoR to human peripheral blood mononuclear cells ( PBMC ) , indicating that Tat and NeoR bind to the same cellular target . This is further substantiated by the finding that NeoR competes with the binding of monoclonal Abs to P61073 . Furthermore , NeoR suppresses HIV-1 binding to cells . Importantly , NeoR accumulates in the cell nuclei and inhibits the replication of M- and T-tropic HIV-1 laboratory isolates ( EC(50) = 0.8-5.3 microM ) . A putative model structure for the TAR-NeoR complex , which complies with available experimental data , is presented . We conclude that NeoR is a multitarget HIV-1 inhibitor ; the structure , and molecular modeling and dynamics , suggest its binding to TAR RNA . NeoR inhibits HIV-1 binding to cells , partially by blocking the P61073 HIV-1 coreceptor , and it antagonizes Tat functions . NeoR is therefore an attractive lead compound , capable of interfering with different stages of HIV infection and AIDS pathogenesis .",
+    "Cross-talk between PKA-Cβ and p65 mediates synergistic induction of Q07343 by roflumilast and NTHi . Phosphodiesterase 4B ( Q07343 ) plays a key role in regulating inflammation . DB01656 , a phosphodiesterase (PDE)4-selective inhibitor , has recently been approved for treating severe chronic obstructive pulmonary disease ( P48444 ) patients with exacerbation . However , there is also clinical evidence suggesting the development of tachyphylaxis or tolerance on repeated dosing of roflumilast and the possible contribution of Q07343 up-regulation , which could be counterproductive for suppressing inflammation . Thus , understanding how Q07343 is up-regulated in the context of the complex pathogenesis and medications of P48444 may help improve the efficacy and possibly ameliorate the tolerance of roflumilast . Here we show that roflumilast synergizes with nontypeable Haemophilus influenzae ( NTHi ) , a major bacterial cause of P48444 exacerbation , to up-regulate PDE4B2 expression in human airway epithelial cells in vitro and in vivo . Up-regulated PDE4B2 contributes to the induction of certain important chemokines in both enzymatic activity-dependent and activity-independent manners . We also found that protein kinase A catalytic subunit β ( PKA-Cβ ) and nuclear factor-κB ( NF-κB ) p65 subunit were required for the synergistic induction of PDE4B2 . PKA-Cβ phosphorylates p65 in a DB02527 -dependent manner . Moreover , Ser276 of p65 is critical for mediating the PKA-Cβ-induced p65 phosphorylation and the synergistic induction of PDE4B2 . Collectively , our data unveil a previously unidentified mechanism underlying synergistic up-regulation of PDE4B2 via a cross-talk between PKA-Cβ and p65 and may help develop new therapeutic strategies to improve the efficacy of DB05876 inhibitor .",
+    "Potential effects of peroxisome proliferator-activated receptor activator on LPS-induced lung injury in rats . Multiple factors contribute to the pathogenesis and prognosis of chronic obstructive pulmonary disease( P48444 ) , still requiring new therapeutic strategies and medications for the disease . The aim of the present study is to investigate the model of lipopolysaccharide ( LPS ) -induced chronic lung injury and hyperinflation and test therapeutic effects of peroxisome proliferator-activated receptor ( Q07869 ) -gamma agonist . Wister rats were challenged with intra-tracheal instillation of LPS at concentrations of 0.006 , 0.060 , 0.600 , and 6.000 mg/ml per kg , twice a week , for 1 , 2 , 4 and 6 weeks . Q07869 activator , 15-deoxy-Delta12,14-prostaglandin J2 ( 15D-PGJ2 ) , or vehicle ( PBS ) was administered orally and daily at the dose of 1 and 10 mg/ml per kg in animals challenged with LPS or PBS at the dose of 0.060 mg/ml per kg body weight twice a week for 4 weeks . We found that intra-tracheal exposure of LPS resulted in a dose-dependent pattern of chronic lung hyperinflation and hypertrophy , increased alveolar enlargement , reduced vascular endothelial growth factor ( P15692 ) and elevated tissue inhibitor of metalloproteinases ( P01033 ) -1 levels in bronchoalveolar lavage ( BAL ) fluid , and early changes of leukocyte influx and interferon ( IFN ) -gamma levels in bronchoalveolar lavage ( BAL ) fluid . P37231 agonist ameliorated these changes related with the dose used.LPS-induced lung disease model shows some similarities with human disease , and P37231 agonist maybe an alternative for P48444 therapy .",
+    "Effects of external calcium on the biotransformation of DB06749 to ginsenoside Rd by Paecilomyces bainier 229-7 . DB01373 is a known signalling molecule in eukaryotic cells and plays a central role in the regulation of many cellular processes . In the following study , we report on the effect of external calcium treatments on the biotransformation of DB06749 to ginsenoside Rd by Paecilomyces bainier 229-7 . We observed that the intracellular calcium content of P. bainier 229-7 mycelia was increased in response to exposure to high external Ca(2+) concentrations . Both ginsenoside Rd biotransformation and β-glucosidase activity were both found to be dependent on the external calcium concentration . At an optimal Ca(2+) concentration of 45 mM , maximal ginsenoside Rd bioconversion rate of 92.44 % was observed and maximal β-glucosidase activity of 0.1778 U was reached in a 72-h biotransformation . The Ca(2+) channel blocker Verapamil blocked the trans-membrane influx of calcium and decreased ginsenoside Rd biotransformatiom . In addition , β-glucosidase activity and ginsenoside Rd content decreased by 36.0 and 29.2 % respectively after a 72-h incubation in the presence of 0.05 mM P62158 ( P62158 ) antagonist DB00850 . These results suggest that both Ca(2+) channels and P62158 are involved in ginsenoside Rd biotransformation via regulation of β-glucosidase activity . This is the first report regarding the effects of calcium signal transduction on biotransformation and enzyme activity in fungi .",
+    "Peroxisome-proliferator activator receptor-gamma activation decreases attachment of endometrial cells to peritoneal mesothelial cells in an in vitro model of the early endometriotic lesion . The aim of this study was to investigate whether peroxisome proliferator-activated receptor ( Q07869 ) -gamma activation has an effect on the attachment of endometrial cells to peritoneal mesothelial cells in a well-established in vitro model of the early endometriotic lesion . The endometrial epithelial cell line EM42 and mesothelial cell line LP9 were used for this study . EM42 cells , LP9 cells or both were treated with the P37231 agonist ciglitazone ( CTZ ) at varying concentrations ( 10 , 20 and 40 microM ) x 48 h with subsequent co-culture of EM42 and LP9 cells . The rate of EM42 attachment and invasion through LP9 cells was then assessed and compared with control ( EM42 and LP9 cells co-cultured without prior treatment with CTZ ) . Next , attachment of CTZ-treated and untreated EM42 cells to hyaluronic acid ( HA ) , a cell adhesion molecule ( P62158 ) on peritoneal mesothelial cells , were assessed . Although there was no difference in EM42 attachment when LP9 cells alone were treated with CTZ , treatment of EM42 cells with 40 microM CTZ decreased EM42 attachment to LP9 cells by 27 % ( P < 0.01 ) . Treatment of both EM42 and LP9 cells with 40 microM CTZ decreased EM42 attachment to LP9 by 37 % ( P < 0.01 ) . Treatment of EM42 cells with 40 microM CTZ decreased attachment to HA by 66 % ( P = 0.056 ) . CTZ did not decrease invasion of EM42 cells through the LP9 monolayer . CTZ may inhibit EM42 cell proliferation . In conclusion , CTZ significantly decreased EM42 attachment to LP9 cells and HA in an in vitro model of the early endometriotic lesion ."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00966 is telmisartan, an angiotensin II type 1 receptor blocker.\nTelmisartan has strong binding affinity to the AT(1) receptor.\nDB00966 is not directly reported to interact with DB00452, DB00734, DB00850, DB01120, or DB01656 in the provided text.\nDB01120 is administered intravenously during reperfusion in a rat model of stroke.\nDB01656 is roflumilast, a PDE4-selective inhibitor used in COPD.\nDB00734 is citalopram, an SSRI.\nDB00850 is a P62158 antagonist.\nDB00452 is a neomycin B-hexaarginine conjugate that inhibits HIV-1 Tat.\nNo interaction between DB00966 and any of the listed compounds is described.\nThe interaction between DB00966 and DB01120 is not stated.\nThe interaction between DB00966 and DB01656 is not stated.\nThe interaction between DB00966 and DB00850 is not stated.\nThe interaction between DB00966 and DB00734 is not stated.\nThe interaction between DB00966 and DB00452 is not stated.\nThe compound that interacts with DB00966 is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB00966 is telmisartan, an angiotensin II type 1 receptor blocker",
+    "Telmisartan has strong binding affinity to the AT(1) receptor",
+    "DB00966 is not directly reported to interact with DB00452, DB00734, DB00850, DB01120, or DB01656 in the provided text",
+    "DB01120 is administered intravenously during reperfusion in a rat model of stroke",
+    "DB01656 is roflumilast, a PDE4-selective inhibitor used in COPD",
+    "DB00734 is citalopram, an SSRI",
+    "DB00850 is a P62158 antagonist",
+    "DB00452 is a neomycin B-hexaarginine conjugate that inhibits HIV-1 Tat",
+    "No interaction between DB00966 and any of the listed compounds is described",
+    "The interaction between DB00966 and DB01120 is not stated",
+    "The interaction between DB00966 and DB01656 is not stated",
+    "The interaction between DB00966 and DB00850 is not stated",
+    "The interaction between DB00966 and DB00734 is not stated",
+    "The interaction between DB00966 and DB00452 is not stated",
+    "The compound that interacts with DB00966 is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00966 is telmisartan, an angiotensin II type 1 receptor blocker",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Telmisartan has strong binding affinity to the AT(1) receptor",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "DB00966 is not directly reported to interact with DB00452, DB00734, DB00850, DB01120, or DB01656 in the provided text",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "DB01120 is administered intravenously during reperfusion in a rat model of stroke",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "DB01656 is roflumilast, a PDE4-selective inhibitor used in COPD",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "DB00734 is citalopram, an SSRI",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "DB00850 is a P62158 antagonist",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C8",
+      "text": "DB00452 is a neomycin B-hexaarginine conjugate that inhibits HIV-1 Tat",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C9",
+      "text": "No interaction between DB00966 and any of the listed compounds is described",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C10",
+      "text": "The interaction between DB00966 and DB01120 is not stated",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C11",
+      "text": "The interaction between DB00966 and DB01656 is not stated",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C12",
+      "text": "The interaction between DB00966 and DB00850 is not stated",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C13",
+      "text": "The interaction between DB00966 and DB00734 is not stated",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C14",
+      "text": "The interaction between DB00966 and DB00452 is not stated",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C15",
+      "text": "The compound that interacts with DB00966 is not specified",
+      "claim_type": "FC"
+    }
+  ]
+}

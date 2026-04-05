@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__8c115e85cf8c30135bf4",
+  "sample_id": "8c115e85cf8c30135bf4",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did the Football War last at least a month?",
+  "gold_answer": "no",
+  "context": [
+    "The Football War began on July 14 1969.",
+    "It ended on July 20 1969.",
+    "Therefore, it did not even last a whole week."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Football War began on July 14, 1969.\nThe Football War ended on July 20, 1969.\nThe duration of the conflict was six days.\nSix days is less than a month.\nThe Football War did not last at least a month.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Football War began on July 14, 1969",
+    "The Football War ended on July 20, 1969",
+    "The duration of the conflict was six days",
+    "Six days is less than a month",
+    "The Football War did not last at least a month"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Football War began on July 14, 1969",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Football War ended on July 20, 1969",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The duration of the conflict was six days",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Six days is less than a month",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Football War did not last at least a month",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

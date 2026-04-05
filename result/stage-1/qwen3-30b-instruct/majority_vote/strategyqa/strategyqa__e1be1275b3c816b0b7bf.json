@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__e1be1275b3c816b0b7bf",
+  "sample_id": "e1be1275b3c816b0b7bf",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does Family Guy take place on the American West Coast?",
+  "gold_answer": "no",
+  "context": [
+    "Family Guy takes place in the fictional town of Quahog, Rhode Island.",
+    "Rhode Island is a state on the American East Coast."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFamily Guy takes place in the fictional town of Quahog, Rhode Island.\nRhode Island is located on the American East Coast.\nThe American West Coast is geographically distinct from the American East Coast.\nQuahog, Rhode Island is not located on the American West Coast.\nFamily Guy does not take place on the American West Coast.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Family Guy takes place in the fictional town of Quahog, Rhode Island",
+    "Rhode Island is located on the American East Coast",
+    "The American West Coast is geographically distinct from the American East Coast",
+    "Quahog, Rhode Island is not located on the American West Coast",
+    "Family Guy does not take place on the American West Coast"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Family Guy takes place in the fictional town of Quahog, Rhode Island",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Rhode Island is located on the American East Coast",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The American West Coast is geographically distinct from the American East Coast",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Quahog, Rhode Island is not located on the American West Coast",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Family Guy does not take place on the American West Coast",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

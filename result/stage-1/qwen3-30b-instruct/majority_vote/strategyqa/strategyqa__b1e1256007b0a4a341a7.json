@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__b1e1256007b0a4a341a7",
+  "sample_id": "b1e1256007b0a4a341a7",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "If someone loves buffalo wings do they enjoy capsaicin?",
+  "gold_answer": "yes",
+  "context": [
+    "Buffalo wings are fried chicken wings covered in a spicy sauce.",
+    "Spicy foods are provided their spice from capsaicin from peppers."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBuffalo wings are covered in a spicy sauce.\nSpicy foods derive their heat from capsaicin found in peppers.\nThe spicy sauce on buffalo wings contains capsaicin.\nA person who loves buffalo wings enjoys the spicy sauce.\nTherefore, the person enjoys capsaicin.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Buffalo wings are covered in a spicy sauce",
+    "Spicy foods derive their heat from capsaicin found in peppers",
+    "The spicy sauce on buffalo wings contains capsaicin",
+    "A person who loves buffalo wings enjoys the spicy sauce",
+    "Therefore, the person enjoys capsaicin"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Buffalo wings are covered in a spicy sauce",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Spicy foods derive their heat from capsaicin found in peppers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The spicy sauce on buffalo wings contains capsaicin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "A person who loves buffalo wings enjoys the spicy sauce",
+      "claim_type": "DR",
+      "votes": {
+        "FC": 1,
+        "DR": 2
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Therefore, the person enjoys capsaicin",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

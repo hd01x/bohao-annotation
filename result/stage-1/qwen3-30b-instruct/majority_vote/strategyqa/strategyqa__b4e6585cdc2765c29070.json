@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__b4e6585cdc2765c29070",
+  "sample_id": "b4e6585cdc2765c29070",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are saltwater crocodiles related to alligators?",
+  "gold_answer": "yes",
+  "context": [
+    "Crocodiles belong to the family Crocodylinae.",
+    "Alligators belong to the family Alligatoridae.",
+    "Crocodylinae and Alligatoridae both belong to the order Crocodilia."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSaltwater crocodiles belong to the family Crocodylinae.\nAlligators belong to the family Alligatoridae.\nCrocodylinae and Alligatoridae both belong to the order Crocodilia.\nOrganisms in the same order share a common ancestor.\nSaltwater crocodiles and alligators are both members of the order Crocodilia.\nSaltwater crocodiles are related to alligators.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Saltwater crocodiles belong to the family Crocodylinae",
+    "Alligators belong to the family Alligatoridae",
+    "Crocodylinae and Alligatoridae both belong to the order Crocodilia",
+    "Organisms in the same order share a common ancestor",
+    "Saltwater crocodiles and alligators are both members of the order Crocodilia",
+    "Saltwater crocodiles are related to alligators"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Saltwater crocodiles belong to the family Crocodylinae",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Alligators belong to the family Alligatoridae",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Crocodylinae and Alligatoridae both belong to the order Crocodilia",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Organisms in the same order share a common ancestor",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Saltwater crocodiles and alligators are both members of the order Crocodilia",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Saltwater crocodiles are related to alligators",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "uid": "musique__4hop1__813171_153080_33897_81096",
+  "sample_id": "4hop1__813171_153080_33897_81096",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who won the indy car race in the largest populated city in the state that the performer of Changes Two is from?",
+  "gold_answer": "Mario Andretti",
+  "context": [
+    "As of the census of 2000, there were 10,345 people, 3,850 households, and 2,895 families residing in the city. The population density was 1,835.4 people per square mile (708.2/km²). There were 3,959 housing units at an average density of 557.3 per square mile (215.3/km²). The racial makeup of the city was 97.11% White, 0.92% African American, 0.33% Native American, 0.46% Asian, 0.41% Pacific Islander, 0.77% from other races, and 1.20% from two or more races. Hispanic or Latino of any race were 1.65% of the population.",
+    "As of the census of 2000, there were 197,790 people, 84,549 households, and 43,627 families residing in the city. The population density was 3,292.6 people per square mile (1,271.3/km²). There were 92,282 housing units at an average density of 1,536.2 per square mile (593.1/km²). The racial makeup of the city was 38.3% White, 57.2% African American, 0.2% Native American, 1.3% Asian, 0.1% Pacific Islander, 1.5% from other races, and 1.5% from two or more races. Hispanic or Latino of any race were 2.6% of the population.",
+    "Jersey City is the second-most - populous city in the U.S. state of New Jersey, after Newark. It is the seat of Hudson County as well as the county's largest city. As of 2016, the Census Bureau's Population Estimates Program calculated that Jersey City's population was 264,152, with the largest population increase of any municipality in New Jersey since 2010, an increase of about 6.7% from the 2010 United States Census, when the city's population was at 247,597, ranking the city the 77th - largest in the nation.",
+    "Changes Two is an album by Charles Mingus. It was recorded on 27, 28, and 30 December 1974 at Atlantic Studios in New York City—the same sessions which resulted in Mingus' album \"Changes One\". Accordingly, Atlantic Records initially released the record. In 1993, it was issued on CD by Rhino Records.",
+    "Charles Mingus was born in Nogales, Arizona. His father, Charles Mingus Sr., was a sergeant in the U.S. Army. Mingus was largely raised in the Watts area of Los Angeles. His maternal grandfather was a Chinese British subject from Hong Kong, and his maternal grandmother was an African-American from the southern United States. Mingus was the third great-grandson of the family's founding patriarch who was, by most accounts, a German immigrant. His ancestors included German American, African American, and Native American.",
+    "Jacksonville is the largest city by population in the U.S. state of Florida, and the largest city by area in the contiguous United States. It is the county seat of Duval County, with which the city government consolidated in 1968. Consolidation gave Jacksonville its great size and placed most of its metropolitan population within the city limits; with an estimated population of 853,382 in 2014, it is the most populous city proper in Florida and the Southeast, and the 12th most populous in the United States. Jacksonville is the principal city in the Jacksonville metropolitan area, with a population of 1,345,596 in 2010.",
+    "As of the census of 2010, there were 878 people, 349 households, and 167 families residing in the city. The population density was 914.6 inhabitants per square mile (353.1/km2). There were 398 housing units at an average density of 414.6 per square mile (160.1/km2). The racial makeup of the city was 83.0% White, 2.3% African American, 9.9% Native American, 0.7% Asian, 0.3% from other races, and 3.8% from two or more races. Hispanic or Latino of any race were 1.7% of the population.",
+    "The U.S. Census Bureau reports a 2010 population of 129,779, with 47,094 households and 25,854 families within the city of New Haven. The population density is 6,859.8 people per square mile (2,648.6/km²). There are 52,941 housing units at an average density of 2,808.5 per square mile (1,084.4/km²). The racial makeup of the city is 42.6% White, 35.4% African American, 0.5% Native American, 4.6% Asian, 0.1% Pacific Islander, 12.9% from other races, and 3.9% from two or more races. Hispanic or Latino residents of any race were 27.4% of the population. Non-Hispanic Whites were 31.8% of the population in 2010, down from 69.6% in 1970. The city's demography is shifting rapidly: New Haven has always been a city of immigrants and currently the Latino population is growing rapidly. Previous influxes among ethnic groups have been African-Americans in the postwar era, and Irish, Italian and (to a lesser degree) Slavic peoples in the prewar period.",
+    "Logan Gomez (born December 16, 1988) is an American race car driver from Crown Point, Indiana who most notably competed in the Firestone Indy Lights Series (formerly the Indy Pro Series).",
+    "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. Famous Bugattis include the Type 35 Grand Prix cars, the Type 41 \"Royale\", the Type 57 \"Atlantic\" and the Type 55 sports car.",
+    "As of the census of 2010, there were 672 people, 304 households, and 164 families residing in the city. The population density was 700.0 inhabitants per square mile (270.3/km2). There were 336 housing units at an average density of 350.0 per square mile (135.1/km2). The racial makeup of the city was 99.7% White, 0.1% from other races, and 0.1% from two or more races. Hispanic or Latino of any race were 0.6% of the population.",
+    "Saint Paul (abbreviated St. Paul) is the capital and second-most populous city of the U.S. state of Minnesota. As of 2017, the city's estimated population was 309,180. Saint Paul is the county seat of Ramsey County, the smallest and most densely populated county in Minnesota. The city lies mostly on the east bank of the Mississippi River in the area surrounding its point of confluence with the Minnesota River, and adjoins Minneapolis, the state's largest city. Known as the ``Twin Cities '', the two form the core of Minneapolis -- Saint Paul, the 16th - largest metropolitan area in the United States, with about 3.6 million residents.",
+    "Ottawa (/ ˈɒtəwə / (listen), / - wɑː /; French pronunciation: ​ (ɔtawa)) is the capital city of Canada. It stands on the south bank of the Ottawa River in the eastern portion of southern Ontario. Ottawa borders Gatineau, Quebec; the two form the core of the Ottawa -- Gatineau census metropolitan area (CMA) and the National Capital Region (NCR). As of 2016, Ottawa had a city population of 964,743 and a metropolitan population of 1,323,783 making it the fourth - largest city and the fifth - largest CMA in Canada.",
+    "After a hiatus of eleven years, the race was revived by the Verizon IndyCar Series in 2016. It was held on Saturday night under the lights. Long considered a popular Indy car track, Phoenix has a rich history of open wheel races, including a spectacular crash involving Johnny Rutherford (1980), and the final career victory for Indy legend Mario Andretti (1993).",
+    "At the 2010 United States Census, there were 39,558 people, 15,504 households, and 8,558 families residing in the city. The population density was 3,680.8 per square mile (1,421.2/km2). There were 20,013 housing units at an average density of 1,862.2 per square mile (719.0/km2). The racial makeup of the city was 26.65% (10,543) White, 38.29% (15,148) Black or African American, 0.61% (242) Native American, 15.55% (6,153) Asian, 0.05% (18) Pacific Islander, 14.03% (5,549) from other races, and 4.82% (1,905) from two or more races. Hispanics or Latinos of any race were 30.45% (12,044) of the population.",
+    "As of the census of 2000, there were 4,564 people, 1,979 households, and 1,258 families residing in the city. The population density was 1,762.4 people per square mile (680.4/km²). There were 2,191 housing units at an average density of 846.0 per square mile (326.6/km²). The racial makeup of the city was 97.98% White, 0.64% African American, 0.33% Native American, 0.20% Asian, 0.07% from other races, and 0.79% from two or more races. Hispanic or Latino of any race were 0.53% of the population.",
+    "Tucson (/ˈtuːsɒn/ /tuːˈsɒn/) is a city and the county seat of Pima County, Arizona, United States, and home to the University of Arizona. The 2010 United States Census put the population at 520,116, while the 2013 estimated population of the entire Tucson metropolitan statistical area (MSA) was 996,544. The Tucson MSA forms part of the larger Tucson-Nogales combined statistical area (CSA), with a total population of 980,263 as of the 2010 Census. Tucson is the second-largest populated city in Arizona behind Phoenix, both of which anchor the Arizona Sun Corridor. The city is  located 108 miles (174 km) southeast of Phoenix and 60 mi (97 km) north of the U.S.-Mexico border. Tucson is the 33rd largest city and the 59th largest metropolitan area in the United States. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems, earning Tucson the nickname Optics Valley.",
+    "According to the U.S. Census Bureau's estimate, the city had a population of 396,394 in 2017, making it the second-largest city in the county (after Fort Worth) and the third-largest in the metropolitan area. Arlington is the forty-eighth-most populous city in the United States, the seventh-most populous city in the state of Texas, and the largest city in the state that is not a county seat.",
+    "According to the 2010 Census, whites made up 51% of Houston's population; 26% of the total population were non-Hispanic whites. Blacks or African Americans made up 25% of Houston's population. American Indians made up 0.7% of the population. Asians made up 6% (1.7% Vietnamese, 1.3% Chinese, 1.3% Indian, 0.9% Pakistani, 0.4% Filipino, 0.3% Korean, 0.1% Japanese), while Pacific Islanders made up 0.1%. Individuals from some other race made up 15.2% of the city's population, of which 0.2% were non-Hispanic. Individuals from two or more races made up 3.3% of the city. At the 2000 Census, there were 1,953,631 people and the population density was 3,371.7 people per square mile (1,301.8/km²). The racial makeup of the city was 49.3% White, 25.3% African American, 5.3% Asian, 0.7% American Indian, 0.1% Pacific Islander, 16.5% from some other race, and 3.1% from two or more races. In addition, Hispanics made up 37.4% of Houston's population while non-Hispanic whites made up 30.8%, down from 62.4% in 1970.",
+    "As of the census of 2010, there were 1,963 people, 770 households, and 505 families residing in the city. The population density was 1,443.4 inhabitants per square mile (557.3/km2). There were 830 housing units at an average density of 610.3 per square mile (235.6/km2). The racial makeup of the city was 97.0% White, 0.3% African American, 0.6% Native American, 0.2% Asian, 0.8% from other races, and 1.2% from two or more races. Hispanic or Latino of any race were 1.5% of the population."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCharles Mingus was born in Nogales, Arizona.\nNogales is located in the U.S. state of Arizona.\nThe largest populated city in Arizona is Phoenix.\nPhoenix hosts the IndyCar race known as the Desert Diamond Casino West Valley 100.\nThe race was revived by the Verizon IndyCar Series in 2016 and held under the lights on Saturday night.\nThe winner of the 2016 IndyCar race at Phoenix was Will Power.\nWill Power won the IndyCar race in the largest populated city in the state that the performer of Changes Two is from.\n<answer> Will Power",
+  "predicted_answer": "Will Power",
+  "claims": [
+    "Charles Mingus was born in Nogales, Arizona",
+    "Nogales is located in the U.S. state of Arizona",
+    "The largest populated city in Arizona is Phoenix",
+    "Phoenix hosts the IndyCar race known as the Desert Diamond Casino West Valley 100",
+    "The race was revived by the Verizon IndyCar Series in 2016 and held under the lights on Saturday night",
+    "The winner of the 2016 IndyCar race at Phoenix was Will Power",
+    "Will Power won the IndyCar race in the largest populated city in the state that the performer of Changes Two is from"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Charles Mingus was born in Nogales, Arizona",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Nogales is located in the U.S. state of Arizona",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The largest populated city in Arizona is Phoenix",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Phoenix hosts the IndyCar race known as the Desert Diamond Casino West Valley 100",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The race was revived by the Verizon IndyCar Series in 2016 and held under the lights on Saturday night",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The winner of the 2016 IndyCar race at Phoenix was Will Power",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Will Power won the IndyCar race in the largest populated city in the state that the performer of Changes Two is from",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

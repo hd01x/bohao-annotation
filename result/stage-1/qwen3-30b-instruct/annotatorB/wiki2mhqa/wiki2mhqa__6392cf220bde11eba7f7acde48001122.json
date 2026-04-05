@@ -1,0 +1,47 @@
+{
+  "uid": "wiki2mhqa__6392cf220bde11eba7f7acde48001122",
+  "sample_id": "6392cf220bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of Henrik Selberg's father?",
+  "gold_answer": "Flora",
+  "context": [
+    "He was the father of Takayama Ukon, and was a Kirishitan.",
+    "Cleomenes II( died 309 BC) was Agiad King of Sparta from 369 to 309 BC. The son of Cleombrotus I, he succeeded his brother Agesipolis II. He was the father of Acrotatus I, the father of Areus I, and of Cleonymus, the father of Leonidas II.",
+    "He was the father of Obata Masamori.",
+    "Anacyndaraxes was the father of Sardanapalus, king of Assyria.",
+    "Arthur Beauchamp( 1827 – 28 April 1910) was a Member of Parliament from New Zealand. He is remembered as the father of Harold Beauchamp, who rose to fame as chairman of the Bank of New Zealand and was the father of writer Katherine Mansfield.",
+    "Viscount was the first Director of Railways in Japan and is known as the\" father of the Japanese railways\".",
+    "John Templeton( 1766–1825) was an early Irish naturalist and botanist. He is often referred to as the\" Father of Irish Botany\". He was the father of naturalist, artist and entomologist Robert Templeton.",
+    "Ole Michael Ludvigsen Selberg (7 October 1877 – 11 December 1950) was a Norwegian mathematician and educator. He was born in Flora. He was married to Anna Kristina Brigtsdatter Skeie, and the father of Sigmund, Arne, Henrik and Atle Selberg. His thesis from 1925 treated the theory of algebraic equations. Three of his sons became professors of mathematics, and one was professor of engineering. During the occupation of Norway by Nazi Germany Selberg was a member of the Nazi party Nasjonal Samling. He is also known for his large collection of mathematics literature, which has later been donated to the Norwegian University of Science and Technology.",
+    "Sigmund Selberg( 11 August 1910 – 20 April 1994) was a Norwegian mathematician. He was born in Langesund as the son of Ole Michael Ludvigsen Selberg and Anna Kristina Brigtsdatter Skeie. He was twin brother of Arne Selberg and brother of Henrik Selberg and Atle Selberg. He was appointed professor of mathematics at the Norwegian Institute of Technology from 1947 to 1977. His works mainly focused on the distribution of prime numbers.",
+    "Henrik Selberg (17 February 1906 – 3 September 1993) was a Norwegian mathematician. He was born in Bergen as the son of Ole Michael Ludvigsen Selberg and Anna Kristina Brigtsdatter Skeie. He was a brother of Sigmund, Arne and Atle Selberg. He was appointed professor at the University of Oslo from 1962 to 1973. He is best known for his works on complex functions and potential theory."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHenrik Selberg was the son of Ole Michael Ludvigsen Selberg and Anna Kristina Brigtsdatter Skeie.\nOle Michael Ludvigsen Selberg was born in Flora, Norway.\nThe place of birth of Henrik Selberg's father is Flora.\n<answer> Flora",
+  "predicted_answer": "Flora",
+  "claims": [
+    "Henrik Selberg was the son of Ole Michael Ludvigsen Selberg and Anna Kristina Brigtsdatter Skeie",
+    "Ole Michael Ludvigsen Selberg was born in Flora, Norway",
+    "The place of birth of Henrik Selberg's father is Flora"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Henrik Selberg was the son of Ole Michael Ludvigsen Selberg and Anna Kristina Brigtsdatter Skeie",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Ole Michael Ludvigsen Selberg was born in Flora, Norway",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The place of birth of Henrik Selberg's father is Flora",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "uid": "wiki2mhqa__4925ce16086c11ebbd61ac1f6bf848b6",
+  "sample_id": "4925ce16086c11ebbd61ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Do the bands The Gordons (Duo) and Sacred Rite (Band), originate from the same country?",
+  "gold_answer": "yes",
+  "context": [
+    "The Gordons is second and final album by New Zealand band The Gordons released in 1984.",
+    "Lab Field started as a Norwegian/ Swedish duo and expanded to a trio for their 2015 album\" Bucket of Songs\".",
+    "Sacred Rite is an American heavy metal band formed in 1980 hailing from Honolulu, Hawaii. Sacred Rite was one of the two notable heavy metal bands from Honolulu, Hawaii( the other being Hawaii). The group's self- titled debut album was released in Europe on Axe Killer Records, which helped grow their fanbase and led to the band getting an opening act spot for the band Triumph during a tour stop in Hawaii. The band relocated from Honolulu to Tulsa, Oklahoma in 1987. Drummer Kevin Lum left the band in 1988 due to complications from diabetes, and later died in 2002 as a result of heart failure.",
+    "Future Shock is an EP by New Zealand band The Gordons released in 1980.",
+    "This song was included in the band's compilation albums\" Do the Best\" and\" Do the A- side\".",
+    "Korpiklaani( Finnish:) is a folk metal band from Finland who was formerly known as Shamaani Duo and Shaman.",
+    "The Gordons are a folk music duo consisting of Gary Gordon and Roberta Gordon, who are husband and wife. They have been performing professionally since 1973. They have been bringing their folk, bluegrass, and country music blend to audiences since the 1970s, when they began touring throughout the Midwestern United States, playing clubs, fairs, festivals and colleges. The husband and wife duo has also become popular in the Carolinas, the Northeastern United States, and in Europe. In 1989 they recorded with Dobroist Josh Graves and bluegrass fiddler Kenny Baker, from Bill Monroe's band, The Bluegrass Boys. The resulting album was\" Old Time Radio Show\". The Gordons released\" Was n't Born To Follow\" one year later; this was a more country flavored record, featuring fiddler Wade Ray. In 1996, The Gordons toured Ireland, and performed live in Dublin on Ireland's RTÉ television network. \" End of a Long Hard Day\" was released in 1997; this album was hailed by critic Edward Morris of\" Billboard\", who stated\" the Gordons bring to mind that most listenable of all bluegrass bands, the great Flatt& Scruggs.\" The national folk music magazine, Dirty Linen, wrote that the album\" is touching, sad and beautiful\". A live record chronicling their tours in Europe arrived in 1999, titled\" Live in Holland\". The Gordons released\" Time Will Tell Our Story\" in 2002, with guest musicians Alison Brown and Robert Bowlin. \" Our Time\" followed in 2008 on their own label. In 2008,\" Our Time\" was played so often on folk and bluegrass radio shows that it ranked as the No. 10 record of the year on folk radio. Occasionally, they tour with a larger ensemble, including David Johnson, the longtime fiddler for Randy Travis.",
+    "This song was included in the band's compilation albums\" Do the Best\" and\" Do the A- side\".",
+    "The Gordons may refer to:",
+    "The Gordons is an album by New Zealand band The Gordons released in 1981."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Gordons (Duo) are a folk music duo consisting of Gary Gordon and Roberta Gordon.\nThe Gordons (Duo) have been performing professionally since 1973.\nThe Gordons (Duo) are from New Zealand.\nSacred Rite is an American heavy metal band formed in 1980.\nSacred Rite hails from Honolulu, Hawaii.\nHawaii is part of the United States of America.\nNew Zealand and the United States are different countries.\nThe Gordons (Duo) and Sacred Rite do not originate from the same country.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Gordons (Duo) are a folk music duo consisting of Gary Gordon and Roberta Gordon",
+    "The Gordons (Duo) have been performing professionally since 1973",
+    "The Gordons (Duo) are from New Zealand",
+    "Sacred Rite is an American heavy metal band formed in 1980",
+    "Sacred Rite hails from Honolulu, Hawaii",
+    "Hawaii is part of the United States of America",
+    "New Zealand and the United States are different countries",
+    "The Gordons (Duo) and Sacred Rite do not originate from the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Gordons (Duo) are a folk music duo consisting of Gary Gordon and Roberta Gordon",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Gordons (Duo) have been performing professionally since 1973",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Gordons (Duo) are from New Zealand",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Sacred Rite is an American heavy metal band formed in 1980",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Sacred Rite hails from Honolulu, Hawaii",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Hawaii is part of the United States of America",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "New Zealand and the United States are different countries",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The Gordons (Duo) and Sacred Rite do not originate from the same country",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

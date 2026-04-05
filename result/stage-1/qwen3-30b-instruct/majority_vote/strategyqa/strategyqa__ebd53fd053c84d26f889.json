@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__ebd53fd053c84d26f889",
+  "sample_id": "ebd53fd053c84d26f889",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does Princess Peach's dress resemble a peach fruit?",
+  "gold_answer": "no",
+  "context": [
+    "Peaches have fuzzy red, orange, and yellow skin.",
+    "Princess Peach is a character in the Nintendo Mario Universe.",
+    "Princess Peach's dress is pink and floor length."
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPrincess Peach is a character in the Nintendo Mario Universe.\nPrincess Peach's dress is pink and floor length.\nPeaches have fuzzy red, orange, and yellow skin.\nThe color pink is not among the typical colors of a peach fruit.\nThe texture of a peach fruit is fuzzy, while Princess Peach's dress is smooth.\nThe shape and style of Princess Peach's dress do not resemble a peach fruit.\nPrincess Peach's dress does not resemble a peach fruit.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Princess Peach is a character in the Nintendo Mario Universe",
+    "Princess Peach's dress is pink and floor length",
+    "Peaches have fuzzy red, orange, and yellow skin",
+    "The color pink is not among the typical colors of a peach fruit",
+    "The texture of a peach fruit is fuzzy, while Princess Peach's dress is smooth",
+    "The shape and style of Princess Peach's dress do not resemble a peach fruit",
+    "Princess Peach's dress does not resemble a peach fruit"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Princess Peach is a character in the Nintendo Mario Universe",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Princess Peach's dress is pink and floor length",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Peaches have fuzzy red, orange, and yellow skin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The color pink is not among the typical colors of a peach fruit",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The texture of a peach fruit is fuzzy, while Princess Peach's dress is smooth",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The shape and style of Princess Peach's dress do not resemble a peach fruit",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Princess Peach's dress does not resemble a peach fruit",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

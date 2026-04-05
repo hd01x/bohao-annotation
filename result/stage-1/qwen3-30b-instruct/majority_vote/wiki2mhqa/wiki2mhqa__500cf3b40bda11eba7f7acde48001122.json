@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__500cf3b40bda11eba7f7acde48001122",
+  "sample_id": "500cf3b40bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the place of birth of Aurelio De Laurentiis's father?",
+  "gold_answer": "Torre Annunziata",
+  "context": [
+    "Arthur Beauchamp( 1827 – 28 April 1910) was a Member of Parliament from New Zealand. He is remembered as the father of Harold Beauchamp, who rose to fame as chairman of the Bank of New Zealand and was the father of writer Katherine Mansfield.",
+    "He was the father of Obata Masamori.",
+    "Luigi De Laurentiis (16 February 1917, Torre Annunziata - 30 March 1992, Rome) was an Italian film producer. His credits include \"Un borghese piccolo piccolo\" (director Mario Monicelli, 1977), \"Amici miei - Atto II°\" (director Mario Monicelli, 1982), \"Vacanze di Natale\" (director Carlo Vanzina, 1983) and \"Donne con le gonne\" (director Francesco Nuti, 1991).",
+    "Giada Pamela De Laurentiis( born August 22, 1970) is an American chef, writer, and television personality. She is the host of Food Network's\" Giada at Home\". She also appears regularly as a contributor and guest co-host on NBC's\" Today\". De Laurentiis is the founder of the catering business GDL Foods. She is a winner of the Daytime Emmy Award for Outstanding Lifestyle Host and the Gracie Award for Best Television Host.",
+    "Veronica De Laurentiis( born 1950) is an Italian author and actress. She is the daughter of Silvana Mangano and Dino De Laurentiis. At eighteen, she was cast in the film\" Waterloo\", starring Rod Steiger and Christopher Plummer. The film was produced by her father. She then retired from acting following the birth of her first child, Giada De Laurentiis, in 1970. Shortly after her third child was born, she and her then- husband, Alex De Benedetti, left Italy for the United States. She has lived briefly in Florida and New York and for many years in Los Angeles. Four years after the birth of her fourth child, she divorced. In order to support herself and her four children, she opened a fashion design studio where for 12 years she successfully designed women ’s clothing under her own label. After remarrying, she closed her business and enrolled in a two- year intensive acting course. She is now a working actress and a best- selling author. Her memoir\" Rivoglio La Mia Vita\"( Claim My Life) was on the Italian bestseller list within a week. Veronica now tours Italy speaking openly about rape, abuse and the importance of breaking the silence as a tool for healing and change. Her second book\" Riprenditi La Tua Vita — Le otto chiavi di Veronica\"( Take Back Your Life — Veronica ’s eight keys), was published in Italy May 2009. She is the founder of the\" Associazione Veronica De Laurentiis,\" a foundation to stop domestic violence. In March 2008 she was chosen to play the role of the “ mater dolorosa ” in the Italian show “ D ’ Ambra Grigia E Canfora ” directed by Raffaele Curi and produced by Fondazione Alda Fendi. In August of the same year she starred in the movie Pandemia directed by Lucio Fiorentino which was released in 2012. She is also developing two television shows in Italy, a documentary and a one- woman show. With her second husband, producer Ivan Kavalsky, she has homes in Los Angeles and Rome.",
+    "Cleomenes II( died 309 BC) was Agiad King of Sparta from 369 to 309 BC. The son of Cleombrotus I, he succeeded his brother Agesipolis II. He was the father of Acrotatus I, the father of Areus I, and of Cleonymus, the father of Leonidas II.",
+    "John Templeton( 1766–1825) was an early Irish naturalist and botanist. He is often referred to as the\" Father of Irish Botany\". He was the father of naturalist, artist and entomologist Robert Templeton.",
+    "Martha De Laurentiis( born 10 July 1954 as\" Martha Schumacher\") is an American film producer. She was credited as Martha Schumacher until 1995. She is known for producing films such as\" Breakdown Hannibal\" and\" Red Dragon\" with her late husband Dino De Laurentiis, and TV series\" Hannibal\". In 1980, she and Dino De Laurentiis founded the production company the Dino De Laurentiis Company, and she is currently the company's chairman. With her husband Dino, whom she married in 1990, she had two daughters, Carolyna and Dina. De Laurentiis was a jury member at the 65th Berlin International Film Festival. On December 16, 2017, she was awarded an honorary doctorate of humanities by her alma mater, Ball State University.",
+    "Raffaella De Laurentiis( born 28 June 1954) is an Italian film producer. Films that she has produced include\" Conan the BarbarianConan the DestroyerDunePrancer\", all films in the\" Dragonheart\" series,\" The Forbidden Kingdom\" and\" Kull the Conqueror\". She is the daughter of film producer Dino De Laurentiis and actress Silvana Mangano. She is the sister of Veronica De Laurentiis, who is the mother of Food Network chef Giada De Laurentiis. She appeared in eighteen episodes of Giada's show\" Giada at Home\".",
+    "Aurelio De Laurentiis (born 24 May 1949 in Rome) is a prominent Italian film producer through his company, Filmauro and the current chairman of Italian football club Napoli and Bari. In 1995, he was a member of the jury at the 19th Moscow International Film Festival. He is the son of film producer Luigi De Laurentiis, nephew of film producer Dino De Laurentiis and first-cousin once removed of chef Giada De Laurentiis."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAurelio De Laurentiis is the son of Luigi De Laurentiis.\nLuigi De Laurentiis was born in Torre Annunziata, Italy.\nThe place of birth of Aurelio De Laurentiis's father is Torre Annunziata.\n<answer> Torre Annunziata",
+  "predicted_answer": "Torre Annunziata",
+  "claims": [
+    "Aurelio De Laurentiis is the son of Luigi De Laurentiis",
+    "Luigi De Laurentiis was born in Torre Annunziata, Italy",
+    "The place of birth of Aurelio De Laurentiis's father is Torre Annunziata"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Aurelio De Laurentiis is the son of Luigi De Laurentiis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Luigi De Laurentiis was born in Torre Annunziata, Italy",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The place of birth of Aurelio De Laurentiis's father is Torre Annunziata",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

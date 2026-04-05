@@ -1,0 +1,119 @@
+{
+  "uid": "strategyqa__e0044a7b4d146d611e73",
+  "sample_id": "e0044a7b4d146d611e73",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Will the Albany in Georgia reach a hundred thousand occupants before the one in New York?",
+  "gold_answer": "no",
+  "context": [
+    "Albany, GA has around 75,000 people",
+    "Albany, NY has almost 100,000 people"
+  ],
+  "hop_count": 5,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAlbany, GA has approximately 75,000 people.\nAlbany, NY has nearly 100,000 people.\nThe population of Albany, GA is currently below 100,000.\nThe population of Albany, NY is already close to 100,000.\nAlbany, GA would need to grow by 25,000 people to reach 100,000.\nAlbany, NY is already at or near 100,000.\nAlbany, GA will not reach 100,000 occupants before Albany, NY.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Albany, GA has approximately 75,000 people",
+    "Albany, NY has nearly 100,000 people",
+    "The population of Albany, GA is currently below 100,000",
+    "The population of Albany, NY is already close to 100,000",
+    "Albany, GA would need to grow by 25,000 people to reach 100,000",
+    "Albany, NY is already at or near 100,000",
+    "Albany, GA will not reach 100,000 occupants before Albany, NY"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Albany, GA has approximately 75,000 people",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Albany, NY has nearly 100,000 people",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The population of Albany, GA is currently below 100,000",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The population of Albany, NY is already close to 100,000",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Albany, GA would need to grow by 25,000 people to reach 100,000",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Albany, NY is already at or near 100,000",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Albany, GA will not reach 100,000 occupants before Albany, NY",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

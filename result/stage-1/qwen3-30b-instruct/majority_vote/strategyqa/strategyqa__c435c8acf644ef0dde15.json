@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__c435c8acf644ef0dde15",
+  "sample_id": "c435c8acf644ef0dde15",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Al-Farabi a student of the Great Sheikh?",
+  "gold_answer": "no",
+  "context": [
+    "The Great Sheikh was the name for Avicenna",
+    "Avicenna was born in 980",
+    "Al Farabi died around 950 "
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Great Sheikh was the name for Avicenna.\nAvicenna was born in 980.\nAl Farabi died around 950.\nAl Farabi died before Avicenna was born.\nA person cannot be a student of someone born after their death.\nAl-Farabi was not a student of the Great Sheikh.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Great Sheikh was the name for Avicenna",
+    "Avicenna was born in 980",
+    "Al Farabi died around 950",
+    "Al Farabi died before Avicenna was born",
+    "A person cannot be a student of someone born after their death",
+    "Al-Farabi was not a student of the Great Sheikh"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Great Sheikh was the name for Avicenna",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Avicenna was born in 980",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Al Farabi died around 950",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Al Farabi died before Avicenna was born",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A person cannot be a student of someone born after their death",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Al-Farabi was not a student of the Great Sheikh",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

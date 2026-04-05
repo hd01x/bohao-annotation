@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__bcd221573f1a6500f2eb",
+  "sample_id": "bcd221573f1a6500f2eb",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is retail a job anybody can be suited for?",
+  "gold_answer": "no",
+  "context": [
+    "Most retail jobs require employees to be able to lift, push, and pull 25-50 lbs. ",
+    "Retail positions require employees to interact with customers regularly.",
+    "Various disabilities can diminish one's ability to interact with the public."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nMost retail jobs require employees to lift, push, and pull 25-50 lbs.\nRetail positions require regular interaction with customers.\nSome disabilities can affect a person's ability to perform physical tasks or interact with the public.\nNot all individuals can meet the physical or social demands of retail jobs.\nRetail is not a job suited for everyone due to physical and interpersonal requirements.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Most retail jobs require employees to lift, push, and pull 25-50 lbs",
+    "Retail positions require regular interaction with customers",
+    "Some disabilities can affect a person's ability to perform physical tasks or interact with the public",
+    "Not all individuals can meet the physical or social demands of retail jobs",
+    "Retail is not a job suited for everyone due to physical and interpersonal requirements"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Most retail jobs require employees to lift, push, and pull 25-50 lbs",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Retail positions require regular interaction with customers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Some disabilities can affect a person's ability to perform physical tasks or interact with the public",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Not all individuals can meet the physical or social demands of retail jobs",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Retail is not a job suited for everyone due to physical and interpersonal requirements",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "uid": "strategyqa__a1a131e5a540d8eff3c4",
+  "sample_id": "a1a131e5a540d8eff3c4",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Spiderman fight against Falcon in the MCU?",
+  "gold_answer": "yes",
+  "context": [
+    "In Captain America: Civil War, Iron Man and Captain America became enemies following a disagreement.",
+    "Iron Man summoned Spiderman to fight with his team of still-loyal Avengers.",
+    "Falcon was one of Captain America's best friends and supported the Captain in the conflict.",
+    "Therefore, Spiderman and Falcon were on opposite teams during the inter-Avenger battle in the movie."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nIron Man and Captain America became enemies in Captain America: Civil War.\nIron Man summoned Spiderman to join his team of loyal Avengers.\nFalcon supported Captain America and was on the opposing team.\nSpiderman and Falcon were on opposite sides during the inter-Avenger battle.\nSpiderman fought against Falcon in the MCU.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Iron Man and Captain America became enemies in Captain America: Civil War",
+    "Iron Man summoned Spiderman to join his team of loyal Avengers",
+    "Falcon supported Captain America and was on the opposing team",
+    "Spiderman and Falcon were on opposite sides during the inter-Avenger battle",
+    "Spiderman fought against Falcon in the MCU"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Iron Man and Captain America became enemies in Captain America: Civil War",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Iron Man summoned Spiderman to join his team of loyal Avengers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Falcon supported Captain America and was on the opposing team",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Spiderman and Falcon were on opposite sides during the inter-Avenger battle",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Spiderman fought against Falcon in the MCU",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

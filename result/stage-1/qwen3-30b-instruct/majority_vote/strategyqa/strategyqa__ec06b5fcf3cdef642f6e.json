@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__ec06b5fcf3cdef642f6e",
+  "sample_id": "ec06b5fcf3cdef642f6e",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Bill Nye vote for Franklin Delano Roosevelt?",
+  "gold_answer": "no",
+  "context": [
+    "Bill Nye was born in 1955",
+    "Franklin Delano Roosevelt's last election was in 1944"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBill Nye was born in 1955.\nFranklin Delano Roosevelt's last election was in 1944.\nA person must be at least 18 years old to vote in a U.S. presidential election.\nBill Nye was not born until 1955, which is 11 years after Roosevelt's last election.\nBill Nye was not old enough to vote in 1944.\nBill Nye did not vote for Franklin Delano Roosevelt.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Bill Nye was born in 1955",
+    "Franklin Delano Roosevelt's last election was in 1944",
+    "A person must be at least 18 years old to vote in a U.S. presidential election",
+    "Bill Nye was not born until 1955, which is 11 years after Roosevelt's last election",
+    "Bill Nye was not old enough to vote in 1944",
+    "Bill Nye did not vote for Franklin Delano Roosevelt"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bill Nye was born in 1955",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Franklin Delano Roosevelt's last election was in 1944",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A person must be at least 18 years old to vote in a U.S. presidential election",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Bill Nye was not born until 1955, which is 11 years after Roosevelt's last election",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Bill Nye was not old enough to vote in 1944",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Bill Nye did not vote for Franklin Delano Roosevelt",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

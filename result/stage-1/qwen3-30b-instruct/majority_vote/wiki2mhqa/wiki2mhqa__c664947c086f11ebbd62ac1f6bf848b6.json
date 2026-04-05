@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__c664947c086f11ebbd62ac1f6bf848b6",
+  "sample_id": "c664947c086f11ebbd62ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film whose director is younger, A Social Celebrity or A Sound Of Trumpets?",
+  "gold_answer": "A Sound Of Trumpets",
+  "context": [
+    "Miloš Zličić( born 29 December 1999) is a Serbian football forward. He is a younger brother of Lazar Zličić.",
+    "A Sound of Trumpets is a 1964 Australian drama directed by Henri Safran.",
+    "Ravina is an Indian actress who acted in Dhallywood movies. She acted in\" Praner Cheye Priyo\" which film is considered as turning point of the career of Riaz.",
+    "Vadim Nikolayevich Vlasov( born 19 December 1980) is a former Russian football player. He is a younger brother of Dmitri Vlasov.",
+    "Roman Smishko is a retired Ukrainian professional footballer who played as a goalkeeper. He is a younger brother of Ukrainian defender Bohdan Smishko.",
+    "La Bestia humana is a 1957 Argentine film whose story is based on the novel\" La Bête Humaine\" by the French writer Émile Zola.",
+    "Malcolm St. Clair( May 17, 1897 – June 1, 1952) was a Hollywood film director, writer, producer and actor.",
+    "Dmitri Nikolayevich Varfolomeyev( born 15 March 1978 in Leningrad) is a former Russian football player. He is a younger brother of Sergei Varfolomeyev.",
+    "A Social Celebrity is a 1926 American silent comedy- drama film directed by Malcolm St. Clair and starred Louise Brooks as a small town manicurist who goes to New York City with her boyfriend( Adolphe Menjou), a barber who poses as a French count. The film is now considered lost.",
+    "Henri Safran( born 7 October 1932) is a Paris- born director who worked extensively in Australia. He worked in French television, then in Britain, before moving to Australia in 1960 to work with the ABC. He became an Australian citizen in 1963 but returned to England in 1966 to work on British television. He returned to Australia again in the mid-1970s."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA Social Celebrity was directed by Malcolm St. Clair.\nMalcolm St. Clair was born on May 17, 1897.\nA Sound of Trumpets was directed by Henri Safran.\nHenri Safran was born on October 7, 1932.\n1932 is later than 1897.\nHenri Safran is younger than Malcolm St. Clair.\nThe film whose director is younger is A Sound of Trumpets.\n<answer> A Sound of Trumpets",
+  "predicted_answer": "A Sound of Trumpets",
+  "claims": [
+    "A Social Celebrity was directed by Malcolm St. Clair",
+    "Malcolm St. Clair was born on May 17, 1897",
+    "A Sound of Trumpets was directed by Henri Safran",
+    "Henri Safran was born on October 7, 1932",
+    "1932 is later than 1897",
+    "Henri Safran is younger than Malcolm St. Clair",
+    "The film whose director is younger is A Sound of Trumpets"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A Social Celebrity was directed by Malcolm St. Clair",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Malcolm St. Clair was born on May 17, 1897",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A Sound of Trumpets was directed by Henri Safran",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Henri Safran was born on October 7, 1932",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1932 is later than 1897",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Henri Safran is younger than Malcolm St. Clair",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film whose director is younger is A Sound of Trumpets",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

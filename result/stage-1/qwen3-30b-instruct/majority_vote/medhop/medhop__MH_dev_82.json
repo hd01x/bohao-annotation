@@ -1,0 +1,277 @@
+{
+  "uid": "medhop__MH_dev_82",
+  "sample_id": "MH_dev_82",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00341\", \"DB00820\", \"DB00864\", \"DB01076\", \"DB01406\", \"DB04946\", \"DB06589\", \"DB09026\", and \"DB09068\" interacts with DB06168?",
+  "gold_answer": "DB00864",
+  "context": [
+    "Serum IL-1beta levels in health and disease : a population-based study . ' The InCHIANTI study ' . Interleukin-1 plays a role in normal homeostasis and in the inflammatory response which is deemed to be responsible for the development of major chronic diseases that are highly prevalent in the elderly . Aim of this study is to evaluate the factors influencing the serum levels of P01584 , in a large and representative population . Data were from the InCHIANTI project , a study of factors contributing to the decline of mobility in late life , which sampled people living in two sites in the surroundings of Florence . Blood samples were obtained from 1,292 participants and frozen aliquots were stored at -80 degrees C . The serum levels of several cytokines were measured by enzyme linked immunosorbent assay using an ultrasensitive commercial kit . P01584 serum levels were associated with congestive heart failure ( p > 0.001 ) and angina ( p = 0.02 ) , with Ca2+ serum levels ( p = 0.02 ) , and with a history of dyslipidemia ( p = 0.05 ) . We found no association between serum IL-1beta level and age , sex , consumption of cardioactive drugs and serum levels of IL-1Ra , P05231 , sIL-6R , P22301 and P01375 . Our data could lend support to the hypothesis that IL-1beta is mainly involved in the functional alterations of cardiomyocytes under conditions marked by mononuclear cell infiltration and by downregulation of calcium .",
+    "DB06589 inhibits the activation of P09619 β-expressing astrocytes in the brain metastatic microenvironment of breast cancer cells . Brain metastases occur in more than one-third of metastatic breast cancer patients whose tumors overexpress P04626 or are triple negative . Brain colonization of cancer cells occurs in a unique environment , containing microglia , oligodendrocytes , astrocytes , and neurons . Although a neuroinflammatory response has been documented in brain metastasis , its contribution to cancer progression and therapy remains poorly understood . Using an experimental brain metastasis model , we characterized the brain metastatic microenvironment of brain tropic , P04626 -transfected MDA-MB-231 human breast carcinoma cells ( 231-BR- P04626 ) . A previously unidentified subpopulation of metastasis-associated astrocytes expressing phosphorylated platelet-derived growth factor receptor β ( at tyrosine 751 ; p751- P09619 β ) was identified around perivascular brain micrometastases . p751- P09619 β(+) astrocytes were also identified in human brain metastases from eight craniotomy specimens and in primary cultures of astrocyte-enriched glial cells . Previously , we reported that pazopanib , a multispecific tyrosine kinase inhibitor , prevented the outgrowth of 231-BR- P04626 large brain metastases by 73 % . Here , we evaluated the effect of pazopanib on the brain neuroinflammatory microenvironment . DB06589 treatment resulted in 70 % ( P = 0.023 ) decrease of the p751- P09619 β(+) astrocyte population , at the lowest dose of 30 mg/kg , twice daily . Collectively , the data identify a subpopulation of activated astrocytes in the subclinical perivascular stage of brain metastases and show that they are inhibitable by pazopanib , suggesting its potential to prevent the development of brain micrometastases in breast cancer patients .",
+    "Attenuation of experimental autoimmune myocarditis by blocking activated T cells through inducible costimulatory molecule pathway . OBJECTIVE : Inducible costimulator ( Q9Y6W8 ) is a member of the P10747 family . Although inflammation is an essential pathological feature of myocarditis , the role of Q9Y6W8 in myocarditis remains unclear . METHODS AND RESULTS : Lewis rats were immunized on day 0 with purified porcine cardiac myosin to establish experimental autoimmune myocarditis ( EAM ) . Flow cytometry was used to examine expression of Q9Y6W8 on myocardial infiltrating cells . Anti- Q9Y6W8 antibody or Q9Y6W8 -immunoglobulin ( ICOSIg ) was administered intravenously , and rats were killed on day 14 or 21 to study effects of Q9Y6W8 / Q9Y6W8 -ligand ( O75144 ) pathway blockade during the antigen priming phase ( days 0-14 ) or immune response phase ( days 14-21 ) , respectively . The heart weight to body weight ratio was determined , and histological examination and echocardiogram were performed to evaluate the severity of the disease . Cytokine expression in the heart and T cell proliferation against cardiac myosin were analyzed . Flow cytometry revealed that the majority of infiltrating cells , especially P01730 -positive cells , expressed Q9Y6W8 . Blockade of the Q9Y6W8 / O75144 pathway during the immune response phase attenuated EAM development . However , blockade of the Q9Y6W8 / O75144 pathway during the antigen priming phase did not attenuate and exacerbate EAM . Blockade of T cell activation through Q9Y6W8 suppressed expression of cytokines including P27352 -gamma , P05112 , P05231 , P22301 , P01584 , and P01375 and inhibited T cell proliferation in vitro . CONCLUSIONS : Blockade of T cell activation through Q9Y6W8 during the immune response phase regulates development of EAM , and therefore , Q9Y6W8 may be an effective target for treating myocarditis .",
+    "Interaction of tacrolimus(FK506) and its metabolites with FKBP and calcineurin . DB00864 (FK506) is a strong immuno-suppressant and shows its activity through inhibiting P60568 mRNA transcription by forming pentameric complex with intracellular receptor ( FK506 binding protein 12 kDa or P62942 ) , Ca2+ , calmodulin , and calcineurin . Here , we report the binding activity to P62942 , the pentameric complex formation and Con-A response inhibiting activities of 7 metabolites . C15-demethylated metabolite(M-3) needed higher quantity to compete in Con-A assay and in pentamer formation assay , although it binds more strongly to P62942 . The result suggests that the ability to form a pentameric complex is not a two step reaction with the first binding to P62942 , but a single step reaction by components for the pentamer formation .",
+    "Knockdown of Q03426 does not lead to changes in Q96P20 expression or activation . BACKGROUND : Mutations in the Mevalonate Kinase gene ( Q03426 ) are causes of a rare autoinflammatory disease : Mevalonate Kinase Deficiency and its more acute manifestation , Mevalonic Aciduria . The latter is characterized , among other features , by neuroinflammation , developmental delay and ataxia , due to failed cerebellar development or neuronal death through chronic inflammation . Pathogenesis of neuroinflammation in Mevalonate Kinase Deficiency and Mevalonic Aciduria has not yet been completely clarified , however different research groups have been suggesting the inflammasome complex as the key factor in the disease development . A strategy to mimic this disease is blocking the mevalonate pathway , using P04035 inhibitors ( Statins ) , while knock-out mice for Mevalonate Kinase are non-vital and their hemyzygous ( i.e only one copy of gene preserved ) littermate display almost no pathological features . FINDINGS : We sought to generate a murine cellular model closely resembling the pathogenic conditions found in vivo , by direct silencing of Mevalonate Kinase gene . Knockdown of Mevalonate Kinase in a murine microglial cellular model ( BV-2 cells ) results in neither augmented Q96P20 expression nor increase of apoptosis . On the contrary , statin treatment of BV-2 cells produces an increase both in Mevalonate Kinase and Q96P20 expression . CONCLUSIONS : MKD deficiency could be due or affected by protein accumulation leading to Q96P20 activation , opening novel questions about strategies to tackle this disease .",
+    "IL-1 transcriptionally activates the neutrophil chemotactic factor/ P10145 gene in endothelial cells . Leucocytes and vascular cells interact closely in inflammation and immunity and cytokines are important mediators of this interaction . The present study was designed to define the capacity of human endothelial cells ( O14777 ) to produce a monocyte-derived neutrophil chemotactic factor ( provisionally termed P10145 ) . P10145 is a polypeptide chemotactic for neutrophils originally identified in the culture supernatant of lipopolysaccharide ( LPS ) -stimulated monocytes . IL-1 induced high levels of production of neutrophil chemotactic activity in culture supernatants of O14777 . Optimal stimulation of activity was observed when O14777 were cultured with 10-100 ng/ml P01584 for 16 hr . Anti- P10145 antibody blocked the chemotactic activity for neutrophils of IL-1-activated O14777 supernatants . IL-1-treated O14777 expressed high levels of P10145 mRNA transcripts , as assessed by Northern blot analysis . Tumour necrosis factor ( P01375 ) and LPS , unlike the inflammatory monokine P05231 , also induced P10145 expression . Nuclear run-off experiments revealed that IL-1 activated transcription of the P10145 gene . The production of P10145 may represent a mechanism whereby endothelial cells , exposed to inflammatory signals , participate in the regulation of neutrophil extravasation .",
+    "Methodological challenges in monitoring new treatments for rare diseases : lessons from the cryopyrin-associated periodic syndrome registry . BACKGROUND : The Q96P20 -Associated Periodic Syndromes ( CAPS ) are a group of rare hereditary autoinflammatory diseases and encompass Familial Cold Autoinflammatory Syndrome ( FCAS ) , Muckle-Wells Syndrome ( MWS ) , and Neonatal Onset Multisystem Inflammatory Disease ( NOMID ) . DB06168 is a monoclonal antibody directed against P01584 and approved for CAPS patients but requires post-approval monitoring due to low and short exposures during the licensing process . Creative approaches to observational methodology are needed , harnessing novel registry strategies to ensure Health Care Provider reporting and patient monitoring . METHODS : A web-based registry was set up to collect information on long-term safety and effectiveness of canakinumab for CAPS . RESULTS : Starting in November 2009 , this registry enrolled 241 patients in 43 centers and 13 countries by December 31 , 2012 . One-third of the enrolled population was aged < 18 ; the overall population is evenly divided by gender . Enrolment is ongoing for children . CONCLUSIONS : Innovative therapies in orphan diseases require post-approval structures to enable in depth understanding of safety and natural history of disease . The rarity and distribution of such diseases and unpredictability of treatment require innovative methods for enrolment and follow-up . Broad international practice-based recruitment and web-based data collection are practical .",
+    "[ Preparation of NK-enriched Q96QP1 cells -- their potential cytotoxic and ADCC activities ] . We examined several culture methods to induce proliferation of natural killer ( NK ) cells from peripheral blood mononuclear cells ( PBMC ) . In the presence of P60568 , a remarkable proliferation of NK cells was observed when PBMC were co-cultured with DB00305 -treated K562 , which is known as a highly sensitive in vitro target cell for the NK assay . Addition of OK-432 or P01375 and P01584 also induced marked NK proliferation in a dose dependent manner . These NK-enriched lymphokine activated killer ( Q96QP1 ) cells showed highly cytotoxic activities against various MHC class I positive or negative tumor cells . They also showed potent ADCC activities against Herceptin-coated SK-BR-3 , a P04626 /neu positive breast cancer cell line . These results indicated that NK-enriched Q96QP1 cells are potent effector cells , and suggested novel therapeutic strategies for nonspecific immunotherapy as well as target immunotherapy in combination with anticancer antibodies , such as Herceptin .",
+    "Inhibition of histamine H1 receptor activity modulates proinflammatory cytokine production of dendritic cells through c-Rel activity . BACKGROUND : DB11320 exerts diverse effects on immune regulation through four types of histamine receptors ( HRs ) . Among them , type 1 receptor ( P35367 ) plays an important role in allergic inflammation . Dendritic cells ( DCs ) , which express at least three types of HRs , are professional antigen-presenting cells controlling the development of allergic inflammation . However , the molecular mechanisms involved in P35367 -mediated NF-ĸB signaling of DCs remain poorly defined . METHODS : Bone-marrow ( BM ) -derived DCs ( BM-DCs ) were treated with P35367 inverse agonists to interrupt basal P35367 -mediated signaling . The crosstalk of P35367 -mediated signaling and the NF-ĸB pathway was examined by NF-ĸB cellular activity using a luciferase reporter assay , NF-ĸB subunit analysis using Western blotting and P01375 -α promoter activity using chromatin immunoprecipitation . RESULTS : Blockage of P35367 signaling by inverse agonists significantly inhibited P01375 -α and P05231 production of BM-DCs . P35367 -specific agonists were able to enhance P01375 -α production , but this overexpression was significantly inhibited by NF-ĸB inhibitor . The P35367 inverse agonist ketotifen also suppressed cellular NF-ĸB activity , suggesting crosstalk between P35367 and NF-ĸB signaling in DCs . After comprehensive analysis of NF-ĸB subunits , c-Rel protein expression was significantly down-regulated in ketotifen-treated BM-DCs , which led to inhibition of the promoter activity of P01375 -α . Finally , adoptive transfer of the ketotifen-treated BM-DCs did not induce significant allergic airway inflammation compared to that of control cells in vivo . CONCLUSIONS : Our results suggest that c-Rel controls P35367 -mediated proinflammatory cytokine production in DCs . This study provides a potential mechanism of P35367 -mediated signaling and NF-ĸB pathway crosstalk in allergic inflammation .",
+    "DB04946 binding to human and rat dopamine and 5-HT receptors . DB04946 ( DB04946 ; 1- [ 4-[3-[4-(6-fluoro-1,2-benzisoxazol-3-yl)-1-piperidinyl]propoxy] -3- methoxyphenyl ] ethanone ) is a compound currently in clinical trials for the treatment of schizophrenia . DB04946 displays affinity for dopamine D2 receptors and for 5- Q13049 receptors and has a variety of in vivo activities suggestive of an atypical antipsychotic . Here we present an examination of the affinity of iloperidone to a variety of human and rat homologs of dopamine and 5-HT receptor subtypes . We employed receptor binding assays using membranes from cells stably expressing human dopamine D1 , D2S , D2L , D3 , D4 and D5 and 5- Q13049 and P28335 receptors and rat P50406 and P34969 receptors . DB04946 displayed higher affinity for the dopamine D3 receptor ( Ki = 7.1 nM ) than for the dopamine D4 receptor ( Ki = 25 nM ) . DB04946 displayed high affinity for the P50406 and P34969 receptors ( Ki = 42.7 and 21.6 nM , respectively ) , and was found to have higher affinity for the 5- Q13049 ( Ki = 5.6 nM ) than for the P28335 receptor ( Ki = 42.8 nM ) . The potential implications of this receptor binding profile are discussed in comparison with data for other antipsychotic compounds .",
+    "P04035 inhibitors up-regulate anti-aging klotho mRNA via RhoA inactivation in IMCD3 cells . OBJECTIVE : Q9UEF7 is thought to play a critical role in the development of age-related disorders including arteriosclerosis . Statins may exert vascular protective effects , independent of the lowering of plasma cholesterol levels . We investigated the impact of statins on mRNA expression of the age-suppressor gene , klotho in mIMCD3 cells . METHODS AND RESULTS : Q9UEF7 mRNA levels were evaluated with real-time RT-PCR . DB01076 and pitavastatin increased the expression of klotho mRNA in a dose-dependent manner . This stimulatory effect was abolished by the addition of mevalonate , GGPP and FPP , essential molecules for isoprenylation of the small GTPase Rho . As was the case with the statin treatment , inhibition of Rho-kinase by Y27632 up-regulated klotho mRNA . In contrast to the statin treatment , stimulation with angiotensin II down-regulated klotho mRNA expression without obvious morphological changes . Furthermore , pretreatment with atorvastatin blunted the angiotensin II-induced response and ameliorated the decrease in klotho mRNA expression towards basal levels . RhoA activity was further evaluated by detection of its translocation . Angiotensin II activated RhoA , whereas statins potently inactivated RhoA and blocked RhoA activation by angiotensin II . CONCLUSION : Statins inactivate the RhoA pathway , resulting in over-expression of klotho mRNA , which may contribute to the novel pleiotropic effects of statins towards vascular protection .",
+    "Involvement of 5-HT₇ receptors in vortioxetine 's modulation of circadian rhythms and episodic memory in rodents . Since poor circadian synchrony and cognitive dysfunction have been linked to affective disorders , antidepressants that target key 5-HT ( serotonin ) receptor subtypes involved in circadian rhythm and cognitive regulation may have therapeutic utility . DB09068 is a multimodal antidepressant that inhibits P28221 , 5- Q9H205 , P34969 receptor activity , 5-HT reuptake , and enhances the activity of P08908 and P28222 receptors . In this study , we investigated the effects of vortioxetine on the period length of O15055 ::LUC expression , circadian behavior , and episodic memory , using tissue explants from genetically modified O15055 ::LUC mice , locomotor activity rhythm monitoring , and the object recognition test , respectively . Incubation of tissue explants from the suprachiasmatic nucleus of O15055 ::LUC mice with 0.1 μM vortioxetine increased the period length of O15055 bioluminescence . Monitoring of daily wheel-running activity of Sprague-Dawley rats treated with vortioxetine ( 10 mg/kg , s.c. ) , alone or in combination with the P08908 receptor agonist flesinoxan ( 2.5 mg/kg , s.c. ) or the P34969 receptor antagonist SB269970 ( 30 mg/kg , s.c. ) , just prior to activity onset revealed significant delays in wheel-running behavior . The increase in circadian period length and the phase delay produced by vortioxetine were abolished in the presence of the P34969 receptor partial agonist AS19 . Finally , in the object recognition test , vortioxetine ( 10 mg/kg , i.p. ) increased the time spent exploring the novel object during the retention test and this effect was prevented by AS19 ( 5 mg/kg , i.p. ) . In conclusion , the present study shows that vortioxetine , partly via its P34969 receptor antagonism , induced a significant effect on circadian rhythm and presented promnesic properties in rodents .",
+    "Evidence for a role of the P28335 receptor in central lipopolysaccharide- , interleukin-1 beta- , and leptin-induced anorexia . We examined the role of serotonin ( 5-HT ) and the 5-HT(1A) and 5-HT(2C) receptors in the anorectic effects of centrally administered lipopolysaccharide ( LPS ) , interleukin-1 beta ( P01584 ) , and leptin . Food intake was measured in rats after intracerebroventricular ( ICV ) injections of LPS ( 20 ng ) , P01584 ( 10 ng ) , or leptin ( 1 microg ) at lights out , followed by intraperitoneal ( IP ) injections of either the 5-HT(1A) autoreceptor agonist 8-hydroxy-2-(di-n-propylamino)tetraline ( 8-OH-DPAT ) ( 125 microg/kg ) or the 5-HT(2C) receptor antagonist SB 242084 ( 0.3 mg/kg ) at the onset of anorexia . SB 242084 significantly attenuated the food intake reduction caused by all compounds ( all P < .01 ) . IP 8-OH-DPAT attenuated ICV P01584 -induced anorexia ( P < .01 ) . We also tested the involvement of the median raphe 5-HT(1A) receptors in peripheral LPS- and P01584 -induced anorexia . Rats were injected intraperitoneally with either LPS ( 100 microg/kg ) or P01584 ( 2 microg/kg ) at lights out , and 8-OH-DPAT ( 4 nmol ) was administered directly into the median raphe nucleus at the onset of anorexia . Median raphe injections of 8-OH-DPAT significantly attenuated both P01584 - and LPS-induced anorexia ( both P < .01 ) . These results implicate the 5-HT(2C) receptors in the mediation of central LPS- , P01584 - , and leptin-induced anorexia . Our results also suggest that the midbrain raphe nuclei play a role in mediating the anorectic response to peripheral LPS and P01584 .",
+    "P00797 inhibition reduces atherosclerotic plaque neovessel formation and regresses advanced atherosclerotic plaques . OBJECTIVE : The interaction between the renin-angiotensin system and toll-like receptors ( TLRs ) in the pathogenesis of advanced atherosclerotic plaques is not well understood . We studied the effects of the renin inhibitor aliskiren on the progression of advanced atherosclerotic plaque in apolipoprotein E-deficient ( ApoE(-/-) ) mice with a special focus on plaque neovessel formation . METHODS AND RESULTS : Four-wk-old ApoE(-/-) mice were fed a high-fat diet for 8 wks , and the mice were randomly assigned to one of three groups and administered a vehicle , hydralazine , or aliskiren for an additional 12 wks . DB09026 reduced the atherosclerotic plaque area and plaque neovessel density . It increased the plaque collagen and elastin contents , and reduced plasma angiotensin II levels and plaque macrophage infiltration and cathepsin S ( CatS ) protein . DB09026 also decreased the levels of AT1R , gp91phox , O60603 , monocyte chemotactic protein-1 , and CatS mRNAs in the aortic roots . DB01275 had no beneficial vascular effects , although its administration resulted in the same degree of blood pressure reduction as aliskiren . CatS deficiency mimicked the aliskiren-mediated vasculoprotective effect in the ApoE(-/-) mice , but aliskiren showed no further benefits in ApoE(-/-) CatS(-/-) mice . In vitro , O60603 silencing reduced CatS expression induced by angiotensin II . Moreover , aliskiren or the inhibition of CatS impaired the endothelial cell angiogenic action in vitro or/and ex vivo . CONCLUSION : P00797 inhibition appears to inhibit advanced plaque neovessel formation in ApoE(-/-) mice and to decrease the vascular inflammatory action and extracellular matrix degradation , partly by reducing AT1R/ O60603 -mediated CatS activation and activity , thus regressing advanced atherosclerosis .",
+    "Changes of Dietary Fat and Carbohydrate Content Alter Central and Peripheral Clock in Humans . CONTEXT : The circadian clock coordinates numerous metabolic processes with light-dark and feeding regimens . However , in humans it is unknown whether dietary patterns influence circadian rhythms . OBJECTIVE : We examined the effects of switching from a high-carbohydrate , low-fat diet to a low-carbohydrate , high fat ( LC/HFD ) isocaloric diet on the central and peripheral circadian clocks in humans . DESIGN : Diurnal patterns of salivary cortisol and gene expression were analyzed in blood monocytes of 29 nonobese healthy subjects before and 1 and 6 weeks after the dietary switch . For this , we established a method of rhythm prediction by 3-time point data . RESULTS : The centrally driven cortisol rhythm showed a phase delay 1 and 6 weeks after the dietary switch to a LC/HFD as well as an amplitude increase . The dietary switch altered diurnal oscillations of core clock genes ( O15534 , O15055 , P56645 , and Q10587 ) and inflammatory genes ( P08571 , Q99467 , P25963 , and P01584 ) . The LC/HFD also affected the expression of nonoscillating genes contributing to energy metabolism ( Q96EB6 ) and fat metabolism ( O15254 and P50213 ) . Expression of clock genes but not of salivary cortisol in monocytes tightly correlated with levels of blood lipids and with expression of metabolic and inflammatory genes . CONCLUSIONS : Our results suggest that the modulation of the dietary fat and carbohydrate content alters the function of the central and peripheral circadian clocks in humans .",
+    "P35367 antagonist cetirizine impairs working memory processing speed , but not episodic memory . BACKGROUND AND PURPOSE : The histaminergic neurotransmitter system is currently under investigation as a target for drug treatment of cognitive deficits in clinical disorders . The therapeutic potential of new drugs may initially be screened using a model of histaminergic dysfunction , for example , as associated with the use of centrally active antihistamines . Of the selective second generation antihistamines , cetirizine has been found to have central nervous system effects . The aim of the present study was to determine whether cetirizine can be used as a tool to model cognitive deficits associated with histaminergic hypofunction . EXPERIMENTAL APPROACH : The study was conducted according to a three-way , double-blind , cross-over design . Treatments were single oral doses of cetirizine 10 and 20 mg and placebo . Effects on cognition were assessed using tests of word learning , memory scanning , vigilance , divided attention , tracking and visual information processing speed . KEY RESULTS : DB00341 10 mg impaired tracking performance and both doses impaired memory scanning speed . None of the other measures indicated impaired performance . CONCLUSION AND IMPLICATIONS : DB00341 affects information processing speed , but these effects were not sufficient to serve as a model for cognitive deficits in clinical disorders .",
+    "DB00820 , a further innovation in the treatment of sexual dysfunction . In recognition of the large number of sufferers of sexual dysfunction worldwide , and the variety of etiologies of the condition , investigation into effective pharmacological agents has been expanded . One method of intervention is inhibition of the phosphodiesterase type 5 ( O76074 ) enzyme , which has already been exploited with a considerable degree -- though not complete -- success . A number of new agents that inhibit O76074 are under development . Notable among these is tadalafil , which has demonstrated a high level of selectivity for O76074 over the other phosphodiesterases and has shown efficacy in improving erectile function and sexual satisfaction in phase III trials . Throughout the clinical development program for tadalafil , the drug has been well tolerated and without serious side effects . The manufacturer , Lilly Q9Y6W8 , received an approvable letter from the US Food and Drug Administration for use of the drug as a treatment for erectile dysfunction on April 30 , 2002 . Lilly Q9Y6W8 hopes to market tadalafil , with the trade name DB00820 , in the USA in 2003 .",
+    "Human tumor infiltrating lymphocytes . Analysis of lymphokine mRNA expression and relevance to cancer immunotherapy . Tumor infiltrating lymphocytes ( Q15399 ) isolated from 12 patients with metastatic malignant melanoma , renal cell carcinoma , or breast adenocarcinoma were expanded in rIL-2 for 22 to 45 days ( median 33 days ) and analyzed for lymphokine mRNA expression and patterns of TCR gene rearrangement . All Q15399 cultures were significantly enriched for T cells , with CD3+ CD8+ cells predominant in 8 of 10 cases tested , and demonstrated an oligoclonal ( rather than polyclonal ) pattern of TCR gene rearrangement . Nine of 12 cultures could effectively lyse the autologous targets in short term chromium release assays . P60568 expanded- Q15399 expressed mRNA for P01375 and P01374 ( lymphotoxin ) and , in 5 of 9 ( 41 % ) cases , granulocyte/macrophage-colony stimulating factor mRNA but not P01584 or P60568 transcripts . Cultured Q15399 deprived of rIL-2 for 4 days did not constitutively express mRNA for any of the lymphokines tested . One long term Q15399 line in culture was followed and periodically tested for lytic activity and P01375 -mRNA expression . Loss of the specific cytolytic but not proliferative activity at day 85 was associated with disappearance of P01375 mRNA . Profiles of lymphokine secretion may provide a useful marker for functionally characterizing different T cell subsets and may provide correlates of the in vivo anti-tumor effects of these cells when Q15399 are adoptively transferred into cancer-bearing patients .",
+    "[ Cell cycle analysis of endometrial cancer cells in vitro treated with growth factor and steroid hormone ] . The aim of this study was to overtake the mechanism of the control system in endometrial cancer cell line in vitro . Ishikawa cell ( IK cell ) and O14777 -1 cell ( O14777 cell ) derived from endometrial cancers were cultured with serum free medium ( SFM-101 ) . IK cell possessed P03372 ( ER ) , P06401 ( PR ) , Epidermal growth factor ( P01133 ) and its receptor ( P00533 ) . O14777 cell had PR , P01133 , and P00533 , however O14777 cell did not keep ER . P01133 stimulated the growth of IK cell , but the growth of O14777 cell was not stimulated by P01133 . S phase cells were increased by P01133 in IK cell , but were not increased by P01133 in O14777 cell . The growth of IK cell was stimulated significantly by P01133 and Estradiol-17 beta ( E2 ) + P01133 than control . However , E2+ P01133 did not stimulate the growth of IK cell than P01133 significantly . DB01406 ( D ) and D+ P01133 inhibited the growth of IK cell significantly than control . S phase cells were decreased by the treatment of D and D+ P01133 . From our results , P01133 stimulated the growth of ER positive endometrial cancer cell , but P01133 did not stimulate ER negative endometrial cancer cell . E2+ P01133 and P01133 stimulated the growth of IK cell as a same . However , D inhibited the growth of IK cell that was stimulated by P01133 .",
+    "Serum amyloid A activates the Q96P20 inflammasome via Q99572 receptor and a cathepsin B-sensitive pathway . Serum amyloid A ( P0DJI8 ) is an acute-phase protein , the serum levels of which can increase up to 1000-fold during inflammation . P0DJI8 has a pathogenic role in amyloid A-type amyloidosis , and increased serum levels of P0DJI8 correlate with the risk for cardiovascular diseases . IL-1β is a key proinflammatory cytokine , and its secretion is strictly controlled by the inflammasomes . We studied the role of P0DJI8 in the regulation of IL-1β production and activation of the inflammasome cascade in human and mouse macrophages , as well as in THP-1 cells . P0DJI8 could provide a signal for the induction of pro-IL-1β expression and for inflammasome activation , resulting in secretion of mature IL-1β . Blocking O60603 and O00206 attenuated P0DJI8 -induced expression of P01584 , whereas inhibition of caspase-1 and the DB00171 receptor P2X(7) abrogated the release of mature IL-1β . Q96P20 inflammasome consists of the Q96P20 receptor and the adaptor protein apoptosis-associated speck-like protein containing CARD ( a caspase-recruitment domain ) ( ASC ) . P0DJI8 -mediated IL-1β secretion was markedly reduced in ASC(-/-) macrophages , and silencing Q96P20 decreased IL-1β secretion , confirming Q96P20 as the P0DJI8 -responsive inflammasome . Inflammasome activation was dependent on cathepsin B activity , but it was not associated with lysosomal destabilization . P0DJI8 also induced secretion of cathepsin B and ASC . In conclusion , P0DJI8 can induce the expression of pro-IL-1β and activation of the Q96P20 inflammasome via P2X(7) receptor and a cathepsin B-sensitive pathway . Thus , during systemic inflammation , P0DJI8 may promote the production of IL-1β in tissues . Furthermore , the P0DJI8 -induced secretion of active cathepsin B may lead to extracellular processing of P0DJI8 and , thus , potentially to the development of amyloid A amyloidosis ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB06168 is a monoclonal antibody directed against P01584 (IL-1beta).\nDB06168 is approved for the treatment of Q96P20-Associated Periodic Syndromes (CAPS).\nP01584 is interleukin-1 beta, a cytokine involved in inflammation and autoinflammatory diseases.\nDB00341 is cetirizine, an antihistamine that affects cognitive processing speed.\nDB00820 is tadalafil, a phosphodiesterase type 5 inhibitor used for erectile dysfunction.\nDB00864 is FK506 (tacrolimus), an immunosuppressant that inhibits calcineurin.\nDB01076 is a statin that up-regulates klotho mRNA via RhoA inactivation.\nDB01406 is a compound that inhibits growth of ER-positive endometrial cancer cells.\nDB04946 is iloperidone, an antipsychotic with affinity for dopamine and serotonin receptors.\nDB06589 inhibits activation of P09619 β-expressing astrocytes in breast cancer brain metastasis.\nDB09026 is aliskiren, a renin inhibitor that reduces atherosclerotic plaque formation.\nDB09068 is vortioxetine, a multimodal antidepressant that inhibits P28221 and 5-HT receptors.\nDB06168 targets P01584, which is interleukin-1 beta.\nDB06589 modulates the neuroinflammatory microenvironment in brain metastasis.\nDB06589 does not interact with P01584 or IL-1beta.\nNo evidence in the text shows that any of the listed compounds interact with DB06168.\nThe interaction between DB06168 and any of the listed compounds is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB06168 is a monoclonal antibody directed against P01584 (IL-1beta)",
+    "DB06168 is approved for the treatment of Q96P20-Associated Periodic Syndromes (CAPS)",
+    "P01584 is interleukin-1 beta, a cytokine involved in inflammation and autoinflammatory diseases",
+    "DB00341 is cetirizine, an antihistamine that affects cognitive processing speed",
+    "DB00820 is tadalafil, a phosphodiesterase type 5 inhibitor used for erectile dysfunction",
+    "DB00864 is FK506 (tacrolimus), an immunosuppressant that inhibits calcineurin",
+    "DB01076 is a statin that up-regulates klotho mRNA via RhoA inactivation",
+    "DB01406 is a compound that inhibits growth of ER-positive endometrial cancer cells",
+    "DB04946 is iloperidone, an antipsychotic with affinity for dopamine and serotonin receptors",
+    "DB06589 inhibits activation of P09619 β-expressing astrocytes in breast cancer brain metastasis",
+    "DB09026 is aliskiren, a renin inhibitor that reduces atherosclerotic plaque formation",
+    "DB09068 is vortioxetine, a multimodal antidepressant that inhibits P28221 and 5-HT receptors",
+    "DB06168 targets P01584, which is interleukin-1 beta",
+    "DB06589 modulates the neuroinflammatory microenvironment in brain metastasis",
+    "DB06589 does not interact with P01584 or IL-1beta",
+    "No evidence in the text shows that any of the listed compounds interact with DB06168",
+    "The interaction between DB06168 and any of the listed compounds is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB06168 is a monoclonal antibody directed against P01584 (IL-1beta)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB06168 is approved for the treatment of Q96P20-Associated Periodic Syndromes (CAPS)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "P01584 is interleukin-1 beta, a cytokine involved in inflammation and autoinflammatory diseases",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00341 is cetirizine, an antihistamine that affects cognitive processing speed",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00820 is tadalafil, a phosphodiesterase type 5 inhibitor used for erectile dysfunction",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00864 is FK506 (tacrolimus), an immunosuppressant that inhibits calcineurin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB01076 is a statin that up-regulates klotho mRNA via RhoA inactivation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01406 is a compound that inhibits growth of ER-positive endometrial cancer cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB04946 is iloperidone, an antipsychotic with affinity for dopamine and serotonin receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB06589 inhibits activation of P09619 β-expressing astrocytes in breast cancer brain metastasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB09026 is aliskiren, a renin inhibitor that reduces atherosclerotic plaque formation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB09068 is vortioxetine, a multimodal antidepressant that inhibits P28221 and 5-HT receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB06168 targets P01584, which is interleukin-1 beta",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB06589 modulates the neuroinflammatory microenvironment in brain metastasis",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB06589 does not interact with P01584 or IL-1beta",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "No evidence in the text shows that any of the listed compounds interact with DB06168",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "The interaction between DB06168 and any of the listed compounds is not specified",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

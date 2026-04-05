@@ -1,0 +1,179 @@
+{
+  "uid": "musique__4hop1__33012_53706_795904_580996",
+  "sample_id": "4hop1__33012_53706_795904_580996",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What city shares a border with the place where the person who went to the state known for its Mediterranean climate during the gold rush worked?",
+  "gold_answer": "Rio Linda",
+  "context": [
+    "Greece is strategically located at the crossroads of Europe, Asia, and Africa. Situated on the southern tip of the Balkan peninsula, it shares land borders with Albania to the northwest, the Republic of Macedonia and Bulgaria to the north and Turkey to the northeast. Greece consists of nine geographic regions: Macedonia, Central Greece, the Peloponnese, Thessaly, Epirus, the Aegean Islands (including the Dodecanese and Cyclades), Thrace, Crete, and the Ionian Islands. The Aegean Sea lies to the east of the mainland, the Ionian Sea to the west, and the Mediterranean Sea to the south. Greece has the longest coastline on the Mediterranean Basin and the 11th longest coastline in the world at 13,676 km (8,498 mi) in length, featuring a vast number of islands, of which 227 are inhabited. Eighty percent of Greece is mountainous, with Mount Olympus being the highest peak at 2,918 metres (9,573 ft).",
+    "Atlantic City is a census-designated place (CDP) in Fremont County, Wyoming, United States. The population was 37 at the 2010 census. The community is a small mining settlement in a gulch near South Pass in southwestern Wyoming. It was founded as a mining camp following the 1867 gold rush in the region. The town declined following the end of the placer gold rush in the early 1870s, but continued to exist as advances in mining technology allowed further extraction of gold. From the 1960s until 1983, it was the location of US Steel iron ore mine. The town is accessible by gravel roads from nearby Wyoming Highway 28.",
+    "A Mediterranean climate / ˌmɛdɪtəˈreɪniən / or dry summer climate, is the climate typical of areas in the Mediterranean Basin. The Mediterranean climate is usually characterized by rainy winters and dry, warm to hot summers. While the climate receives its name from the Mediterranean Sea, an area where this climate is commonplace, it is also present in other areas of the planet, although with variations in the distribution of temperatures. In addition to the Mediterranean Basin, the climate is also found in most of California in the United States, in extreme southwestern British Columbia in Canada, in parts of Western and South Australia, in southwestern South Africa, sections of Western and Central Asia, and in Central Chile.",
+    "In biogeography, the Mediterranean Basin  (also known as the Mediterranean region or sometimes Mediterranea) is the region of lands around the Mediterranean Sea that have a Mediterranean climate, with mild, rainy winters and hot, dry summers, which supports characteristic Mediterranean forests, woodlands, and scrub vegetation.",
+    "The Great Northern Railway (GNR) Small Boiler Class C1 is a class of steam locomotive, the first 4-4-2 or Atlantic type in Great Britain. They were designed by Henry Ivatt in 1897. In total 22 were built between 1898 and 1903 at Doncaster Works. The class were commonly known as 'Klondykes' , after the 1897 Klondike gold rush. They could reach speeds of up to 90 mph.",
+    "Due to its large size and wide range of geographic features, the United States contains examples of nearly every global climate. The climate is temperate in most areas, subtropical in the Southern United States, tropical in Hawaii and southern Florida, polar in Alaska, semiarid in the Great Plains west of the 100th meridian, Mediterranean in coastal California and arid in the Great Basin. Its comparatively favorable agricultural climate contributed (in part) to the country's rise as a world power, with infrequent severe drought in the major agricultural regions, a general lack of widespread flooding, and a mainly temperate climate that receives adequate precipitation.",
+    "Spain (Spanish: España (esˈpaɲa) (listen)), officially the Kingdom of Spain (Spanish: Reino de España), is a sovereign state located on the Iberian Peninsula in southwestern Europe, with two large archipelagoes, the Balearic Islands in the Mediterranean Sea and the Canary Islands off the North African Atlantic coast, two cities, Ceuta and Melilla, in the North African mainland and several small islands in the Alboran Sea near the Moroccan coast. The country's mainland is bordered to the south and east by the Mediterranean Sea except for a small land boundary with Gibraltar; to the north and northeast by France, Andorra, and the Bay of Biscay; and to the west and northwest by Portugal and the Atlantic Ocean. It is the only European country to have a border with an African country (Morocco) and its African territory accounts for nearly 5% of its population, mostly in the Canary Islands but also in Ceuta and Melilla.",
+    "Emory Creek Provincial Park is a provincial park in British Columbia, Canada, located on the west side of the Fraser River just south of the town of Yale. It commemorates the location of a large boomtown, variously known as Emory, Emory Bar or Emory City, that first rose during the Fraser Canyon Gold Rush but became a major construction town during the building of the Canadian Pacific Railway in the 1880s.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary (French: Frontière internationale), is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "A Mediterranean climate / ˌmɛdɪtəˈreɪniən / or dry summer climate is characterized by rainy winters and dry summers. While the climate receives its name from the Mediterranean Basin, these are generally located on the western coasts of continents, between roughly 30 and 45 degrees north and south of the equator, typically between oceanic climates towards the poles (where they tend to be wetter), and semi-arid and arid climates towards the equator (where they tend to be drier).",
+    "Rio Linda High School is a high school located in Rio Linda, Sacramento, CA. It has an enrollment of 2,035 students. It is part of the Twin Rivers Unified School District, and was formerly part of the Grant Unified School District.",
+    "Rumors of the discovery of gold were confirmed in March 1848 by San Francisco newspaper publisher and merchant Samuel Brannan. Brannan hurriedly set up a store to sell gold prospecting supplies, and walked through the streets of San Francisco, holding aloft a vial of gold, shouting ``Gold! Gold! Gold from the American River! ''",
+    "Poruvazhy Peruviruthy Malanada, popularly known as Peruviruthy Malanada or Malanada is the only Duryodhana Temple in South India. It is located at Edakkad Ward (Kara) of Poruvazhy village in Kunnathoor Taluk of Kollam district (Kerala State), India. This place is the northern border of Kollam district which Pathanamthitta and Alappuzha districts share the boundaries. The temple is located equidistant from Adoor (M C Road) to the Northeast and Sasthamcottah to the Southeast. It is also reachable from Kayamkulam and Karunagappally on the NH 47 and Kottarakkara (via Puthoor or Enathu) on the MC road (approximately 25 km from each centre).",
+    "Temperatures in Israel vary widely, especially during the winter. Coastal areas, such as those of Tel Aviv and Haifa, have a typical Mediterranean climate with cool, rainy winters and long, hot summers. The area of Beersheba and the Northern Negev has a semi-arid climate with hot summers, cool winters and fewer rainy days than the Mediterranean climate. The Southern Negev and the Arava areas have desert climate with very hot and dry summers, and mild winters with few days of rain. The highest temperature in the continent of Asia (54.0 °C or 129.2 °F) was recorded in 1942 at Tirat Zvi kibbutz in the northern Jordan river valley.",
+    "The climate of Greece is primarily Mediterranean, featuring mild, wet winters and hot, dry summers. This climate occurs at all coastal locations, including Athens, the Cyclades, the Dodecanese, Crete, the Peloponnese, the Ionian Islands and parts of the Central Continental Greece region. The Pindus mountain range strongly affects the climate of the country, as areas to the west of the range are considerably wetter on average (due to greater exposure to south-westerly systems bringing in moisture) than the areas lying to the east of the range (due to a rain shadow effect).",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary, is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city. It shares borders with the city in two areas, but is surrounded mostly by other suburbs.",
+    "Maitland, originally called Garden City and sometimes misspelled Midland, is a ghost town in Lawrence County, South Dakota, United States. It was a mining community that boomed during the Black Hills Gold Rush, but was abandoned by about 1915.",
+    "Virginia is located in Lempira Honduras and shares a border with El Salvador. Many Virginians travel to El Salvador to do their shopping, because the Honduran cities are far away from Virginia.",
+    "The history of Sacramento, California, began with its founding by Samuel Brannan and John Augustus Sutter, Jr. in 1848 around an embarcadero that his father, John Sutter, Sr. constructed at the confluence of the American and Sacramento Rivers a few years prior."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSamuel Brannan was a merchant and newspaper publisher in San Francisco, California.\nSan Francisco is located in California, a U.S. state known for its Mediterranean climate.\nThe gold rush in California began in 1848, following the discovery of gold at Sutter's Mill.\nSamuel Brannan worked in San Francisco during the California Gold Rush.\nSan Francisco is located in the San Francisco Bay Area.\nOak Lawn is a suburb of Chicago, located southwest of the city.\nOak Lawn shares a border with the city of Chicago in two areas.\nChicago is located in Illinois, not California.\nThe city that shares a border with the place where Samuel Brannan worked during the gold rush is San Francisco.\nSan Francisco is the city that shares a border with the place where the person who went to the state known for its Mediterranean climate during the gold rush worked.\n<answer> San Francisco",
+  "predicted_answer": "San Francisco",
+  "claims": [
+    "Samuel Brannan was a merchant and newspaper publisher in San Francisco, California",
+    "San Francisco is located in California, a U.S. state known for its Mediterranean climate",
+    "The gold rush in California began in 1848, following the discovery of gold at Sutter's Mill",
+    "Samuel Brannan worked in San Francisco during the California Gold Rush",
+    "San Francisco is located in the San Francisco Bay Area",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city",
+    "Oak Lawn shares a border with the city of Chicago in two areas",
+    "Chicago is located in Illinois, not California",
+    "The city that shares a border with the place where Samuel Brannan worked during the gold rush is San Francisco",
+    "San Francisco is the city that shares a border with the place where the person who went to the state known for its Mediterranean climate during the gold rush worked"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Samuel Brannan was a merchant and newspaper publisher in San Francisco, California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "San Francisco is located in California, a U.S. state known for its Mediterranean climate",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The gold rush in California began in 1848, following the discovery of gold at Sutter's Mill",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Samuel Brannan worked in San Francisco during the California Gold Rush",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "San Francisco is located in the San Francisco Bay Area",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Oak Lawn is a suburb of Chicago, located southwest of the city",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Oak Lawn shares a border with the city of Chicago in two areas",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "Chicago is located in Illinois, not California",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The city that shares a border with the place where Samuel Brannan worked during the gold rush is San Francisco",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "San Francisco is the city that shares a border with the place where the person who went to the state known for its Mediterranean climate during the gold rush worked",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

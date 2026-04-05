@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__3a76a62be2518008c701",
+  "sample_id": "3a76a62be2518008c701",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Bucharest located south of Egypt?",
+  "gold_answer": "no",
+  "context": [
+    "Bucharest, Romania is located in Eastern Europe.",
+    "Egypt is located in Africa.",
+    "Most of Africa is south of Europe."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBucharest, Romania is located in Eastern Europe.\nEgypt is located in Africa.\nMost of Africa is south of Europe.\nBucharest is in Europe, which is north of Africa.\nEgypt is in Africa, which is south of Europe.\nBucharest is located north of Egypt.\nBucharest is not located south of Egypt.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Bucharest, Romania is located in Eastern Europe",
+    "Egypt is located in Africa",
+    "Most of Africa is south of Europe",
+    "Bucharest is in Europe, which is north of Africa",
+    "Egypt is in Africa, which is south of Europe",
+    "Bucharest is located north of Egypt",
+    "Bucharest is not located south of Egypt"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bucharest, Romania is located in Eastern Europe",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Egypt is located in Africa",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Most of Africa is south of Europe",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Bucharest is in Europe, which is north of Africa",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Egypt is in Africa, which is south of Europe",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Bucharest is located north of Egypt",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Bucharest is not located south of Egypt",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

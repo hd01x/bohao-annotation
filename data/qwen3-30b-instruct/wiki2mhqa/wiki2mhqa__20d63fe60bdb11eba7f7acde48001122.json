@@ -1,0 +1,32 @@
+{
+  "uid": "wiki2mhqa__20d63fe60bdb11eba7f7acde48001122",
+  "sample_id": "20d63fe60bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the date of death of the founder of Suez Canal Company?",
+  "gold_answer": "7 December 1894",
+  "context": [
+    "Ferdinand Marie, Vicomte de Lesseps, GCSI (19 November 1805 – 7 December 1894) was a French diplomat and later developer of the Suez Canal, which in 1869 joined the Mediterranean and Red Seas, substantially reducing sailing distances and times between Europe and East Asia. He attempted to repeat this success with an effort to build a Panama Canal at sea level during the 1880s, but the project was devastated by epidemics of malaria and yellow fever in the area, as well as beset by financial problems, and the planned de Lesseps Panama Canal was never completed. Eventually, the project was bought out by the United States, which solved the medical problems and changed the design to a non-sea level canal with locks. It was completed in 1914.",
+    "Barthélemy Prosper Enfantin( 8 February 17961 September 1864) was a French social reformer, one of the founders of Saint- Simonianism. He was also a proponent of a Suez canal.",
+    "Alexandre-Théodore Lavalley, (October 9, 1821 - July 20, 1892) was an engineer and French politician. Paul Borel and Lavalley were contractors of the Suez Canal Company who designed, built, and operated the dredging machines that finished excavation of the Suez Canal from 1864-1869 after the use of forced labor was disallowed.",
+    "Theodred II was a medieval Bishop of Elmham. The date of Theodred's consecration unknown, but the date of his death was sometime between 995 and 997.",
+    "Louis Maurice Adolphe Linant de Bellefonds better known as Linant Pasha( Lorient, France, 23 November 1799 – Cairo 9 July 1883) was an explorer of Egypt and, as the chief engineer of Egypt's public works, 1831 – 1869, an influential engineer of the Suez Canal. He is listed as a founder of the Suez Canal Company.",
+    "François Philippe Voisin, (Voisin-Bey) (May 20, 1821 - March 17, 1918) was a French engineer. He was a graduate of the École Polytechnique, an engineer for the Corps of Bridges, Waters and Forests, and was, from 1861 to 1870, the Chief Engineer for the Suez Canal Company in its construction of the Suez Canal (number 2 in the company after director Ferdinand de Lesseps).",
+    "Ahmed Mahmoud Darwish( born 25 May 1959) is an Egyptian politician. He served as the first Chairman of the General Authority of Suez canal Economic Zone from 2015 to 2017. He previously served as Minister of State for Administration Development in the Nazif Cabinet between 2004 and 2011.",
+    "Jacob Broughton Nelson( born July 1898, date of death unknown) has been proclaimed the founder of Phi Kappa secondary school fraternity.",
+    "The Universal Company of the Maritime Canal of Suez (or simply \"Compagnie de Suez\" for short) was the corporation that constructed the Suez Canal between 1859 and 1869 and operated it until the 1956 Suez Crisis. It was formed by Ferdinand de Lesseps in 1858, and it owned and operated the canal for many years thereafter. Initially, French private investors were the majority of the shareholders, with Egypt also having a significant stake. When Isma'il Pasha became Wāli of Egypt and Sudan in 1863, he refused to adhere to portions of the concessions to the Canal company made by his predecessor Said. The problem was referred during 1864 to the arbitration of Napoleon III, who awarded £3,800,000 (equivalent to £ in) to the company as compensation for the losses they would incur by the changes to the original grant which Ismail demanded. During 1875, a financial crisis forced Isma'il to sell his shares to the government of the United Kingdom for only £3,976,582 (equivalent to £ in). The company operated the canal until its nationalization by Egyptian President Gamal Abdel Nasser in 1956, which led to the Suez Crisis. In 1962, Egypt made its final payments for the canal to the Universal Suez Ship Canal Company and took full control of the Suez Canal. Today the canal is owned and operated by the Suez Canal Authority. In 1997, the company merged with to form Suez S.A., which was later merged with Gaz de France on 22 July 2008 to form GDF Suez., which became known as Engie in April, 2015.",
+    "Dieudonné Eugène Mougel aka Eugène Mougel Bey( 27 November 1808 in Châtel- sur- Moselle – 27 November 1890 in Paris) was a French engineer graduated from the École Polytechnique and later working for the Egyptian administration. He built the Nile Barrage near Cairo, a project initially started by Louis Maurice Adolphe Linant de Bellefonds, and contributed as general supervisor to the initial phases of the Suez Canal works. Mougel was chief engineer for the Suez Canal Company from 1859 to 1861, where he worked with superintendent Alphonse Hardon to plan the mobilization infrastructure to build the Suez Canal: the freshwater access canals, freshwater distilleries, and early hand- digging operations. He was listed by Ferdinand de Lesseps as a founder of the Suez Canal Company."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFerdinand de Lesseps is listed as a founder of the Suez Canal Company.\nFerdinand de Lesseps was born on 19 November 1805 and died on 7 December 1894.\nThe date of death of Ferdinand de Lesseps is 7 December 1894.\nThe founder of the Suez Canal Company died on 7 December 1894.\nSo, the answer is 7 December 1894.\n<answer> 7 December 1894",
+  "claims": [
+    "Ferdinand de Lesseps is listed as a founder of the Suez Canal Company",
+    "Ferdinand de Lesseps was born on 19 November 1805 and died on 7 December 1894",
+    "The date of death of Ferdinand de Lesseps is 7 December 1894",
+    "The founder of the Suez Canal Company died on 7 December 1894",
+    "So, the answer is 7 December 1894"
+  ],
+  "predicted_answer": "7 December 1894"
+}

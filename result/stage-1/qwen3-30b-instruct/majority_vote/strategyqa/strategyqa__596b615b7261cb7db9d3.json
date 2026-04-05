@@ -1,0 +1,122 @@
+{
+  "uid": "strategyqa__596b615b7261cb7db9d3",
+  "sample_id": "596b615b7261cb7db9d3",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Can you transport a coin along a sea of mercury?",
+  "gold_answer": "yes",
+  "context": [
+    "The density of an object determines if it will float.",
+    "An object will float if it is less dense than the liquid it is placed in.",
+    "Mercury is liquid at room temperature.",
+    "The density of mercury is 13.56 g/cm3.",
+    "The density of a penny is 7.15 g/cm3."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA penny has a density of 7.15 g/cm³.\nMercury has a density of 13.56 g/cm³.\nThe density of a penny is less than the density of mercury.\nAn object will float if it is less dense than the liquid it is placed in.\nA penny will float on mercury.\nA floating object can be transported along the surface of the liquid.\nA coin can be transported along a sea of mercury.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "A penny has a density of 7.15 g/cm³",
+    "Mercury has a density of 13.56 g/cm³",
+    "The density of a penny is less than the density of mercury",
+    "An object will float if it is less dense than the liquid it is placed in",
+    "A penny will float on mercury",
+    "A floating object can be transported along the surface of the liquid",
+    "A coin can be transported along a sea of mercury"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A penny has a density of 7.15 g/cm³",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Mercury has a density of 13.56 g/cm³",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The density of a penny is less than the density of mercury",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "An object will float if it is less dense than the liquid it is placed in",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A penny will float on mercury",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A floating object can be transported along the surface of the liquid",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "A coin can be transported along a sea of mercury",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

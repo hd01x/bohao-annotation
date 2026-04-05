@@ -1,0 +1,657 @@
+{
+  "uid": "medhop__MH_dev_51",
+  "sample_id": "MH_dev_51",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00009\", \"DB00559\", \"DB00712\", \"DB00741\", \"DB00904\", \"DB01120\", \"DB01171\", \"DB04871\", and \"DB06589\" interacts with DB00773?",
+  "gold_answer": "DB00559",
+  "context": [
+    "Pharmacogenetics of oral antidiabetic drugs . Oral antidiabetic drugs ( OADs ) are used for more than a half-century in the treatment of type 2 diabetes . Only in the last five years , intensive research has been conducted in the pharmacogenetics of these drugs based mainly on the retrospective register studies , but only a handful of associations detected in these studies were replicated . The gene variants in P11712 , Q09428 / Q14654 , and Q9NQB0 were associated with the effect of sulfonylureas . P11712 encodes sulfonylurea metabolizing cytochrome P450 isoenzyme 2C9 , Q09428 and Q14654 genes encode proteins constituting DB00171 -sensitive K(+) channel which is a therapeutic target for sulfonylureas , and Q9NQB0 is a gene with the strongest association with type 2 diabetes . O15245 , Q96FL8 , and Q13315 gene variants were repeatedly associated with the response to metformin . O15245 and Q96FL8 encode metformin transporters OCT1 and Q96FL8 , respectively . The function of a gene variant near Q13315 gene identified by a genome-wide association study is not elucidated so far . The first variant associated with the response to gliptins is a polymorphism in the proximity of P17538 /2 gene which encodes chymotrypsinogen . Establishment of diabetes pharmacogenetics consortia and reduction in costs of genomics might lead to some significant clinical breakthroughs in this field in a near future .",
+    "Loss of P38398 function increases the antitumor activity of cisplatin against human breast cancer xenografts in vivo . BACKGROUND : Previous reports suggested a central role of P38398 in DNA-damage repair mechanisms elicited by cell exposure to anti-tumor agents . Here we studied if P38398 -defective HCC1937 or P38398 -reconstituted HCC1937/(WT) P38398 human breast cancer xenografts ( HBCXs ) generated in SCID mice were differentially sensitive to cisplatin ( DB00515 ) in vivo and we investigated potential molecular correlates of this effect . RESULTS : DB00515 induced almost complete growth inhibition of P38398 -defective HBCXs , while P38398 -reconstituted HBCXs were only partially inhibited . Cell cycle analysis showed a significant S- and G(2)/M blockade in P38398 -defective as compared with parental P38398 -reconstituted cells . Comparative gene expression profiling of HCC1937 and HCC1937/(WT) P38398 showed upregulation of P43351 and Q13426 , whereas P07992 and P23921 were downregulated . Pathway finder analysis of gene arrays data indicated perturbations of major proliferation and survival pathways suggesting that P38398 is mostly involved in G(2)/M but also in G(1)/S-phase checkpoints as well as in several important signaling pathways , including IGF , P15692 , estrogen receptor , PI3K/AKT and P01133 . METHODS : HCC1937 or HCC1937/(WT) P38398 HBCXs were generated in SCID mice . Animals were then weekly treated with 5 mg/kg DB00515 i.p. or with vehicle for 4 w . Tumor volume and mice survival were evaluated . Tumors were retrieved from animals 12 hours after the last treatment with DB00515 or vehicle treatment and the cell suspension underwent cell cycle analysis . Differential gene expression and pathway modulation between HCC1937 and HCC1937/(WT) P38398 cells were also studied . CONCLUSION : Our data suggest that P38398 -defective in vivo HBCXs express a molecular scenario predictive of high sensitivity to platinum-derived compounds strongly supporting the rationale for prospective tailored clinical trials in hereditary breast cancer .",
+    "Growth factors expression in patients with erosive esophagitis . Although the pathogenesis and treatment of erosive esophagitis ( EE ) is well recognized , little is known about the cellular and molecular mechanisms of mucosal healing in EE patients . In this pilot study , we enrolled typical EE patients to evaluate what kinds of growth factors and their receptors were activated in their injured esophageal mucosa . Forty endoscopically proved EE patients were consecutively enrolled . Messenger RNA expressions , which includes keratinocyte growth factor ( KGF ) and its receptor ( P21802 ) , epidermal growth factor ( P01133 ) and its receptor ( P00533 ) , hepatocyte growth factor ( P14210 ) and its receptor ( HGFR ) , basic fibroblast growth factor ( P09038 ) , vascular endothelial growth factor ( P15692 ) , and cyclooxygenase ( P36551 ) -1 and P35354 , were measured using real-time polymerase chain reaction ( PCR ) . Data were compared between the injured EE mucosa and their normal esophageal mucosa above EE . The mRNA expressions of P14210 , HGFR , P01133 , P15692 , and P35354 , but not P00533 , KGF , P21802 , P09038 , and P23219 , were significantly increased in the injured mucosa of EE patients compared with those of normal mucosa ( P < 0.05 ) . The study found that P14210 , HGFR , P01133 , P15692 , and , P35354 are activated in the injured mucosa of EE patients ; their activation might be involved in mucosal repair and ulcer healing of EE .",
+    "DB00559 , an endothelin receptor antagonist , ameliorates collagen-induced arthritis : the role of P01375 -α in the induction of endothelin system genes . OBJECTIVE : Endothelins ( ETs ) are involved in several inflammatory events . The present study investigated the efficacy of DB00559 , a dual P25101 /ETB receptor antagonist , in collagen-induced arthritis ( CIA ) in mice . TREATMENT : CIA was induced in DBA/1J mice . Arthritic mice were treated with DB00559 ( 100 mg/kg ) once a day , starting from the day when arthritis was clinically detectable . METHODS : CIA progression was assessed by measurements of visual clinical score , paw swelling and hypernociception . Histological changes , neutrophil infiltration and pro-inflammatory cytokines were evaluated in the joints . Gene expression in the lymph nodes of arthritic mice was evaluated by microarray technology . PreproET-1 mRNA expression in the lymph nodes of mice and in peripheral blood mononuclear cells ( PBMCs ) was evaluated by real-time PCR . The differences were evaluated by one-way Q9UNW9 or Student 's t test . RESULTS : Oral treatment with DB00559 markedly ameliorated the clinical aspects of CIA ( visual clinical score , paw swelling and hyperalgesia ) . DB00559 treatment also reduced joint damage , leukocyte infiltration and pro-inflammatory cytokine levels ( IL-1β , TNFα and Q16552 ) in the joint tissues . Changes in gene expression in the lymph nodes of arthritic mice returned to the levels of the control mice after DB00559 treatment . PreproET mRNA expression increased in PBMCs from rheumatoid arthritis ( RA ) patients but returned to basal level in PBMCs from patients under anti- P01375 therapy . In-vitro treatment of PBMCs with TNFα upregulated ET system genes . CONCLUSION : These findings indicate that ET receptor antagonists , such as DB00559 , might be useful in controlling RA . Moreover , it seems that ET mediation of arthritis is triggered by TNFα .",
+    "DB00741 is a suppressor of apoptosis in bovine corpus luteum . Glucocorticoid ( GC ) acts as a modulator of physiological functions in several organs . In the present study , we examined whether GC suppresses luteolysis in bovine corpus luteum ( CL ) . DB00741 ( an active GC ) reduced the mRNA expression of caspase 8 ( Q14790 ) and caspase 3 ( P42574 ) and reduced the enzymatic activity of P42574 and cell death induced by tumor necrosis factor ( P01375 ) and interferon gamma ( P01579 ) in cultured bovine luteal cells . mRNAs and proteins of GC receptor ( P04150 ) , 11beta-hydroxysteroid dehydrogenase type 1 ( P28845 ) , and P80365 were expressed in CL throughout the estrous cycle . Moreover , the protein expression and the enzymatic activity of P28845 were high at the early and the midluteal stages compared to the regressed luteal stage . These results suggest that cortisol suppresses P01375 - P01579 -induced apoptosis in vitro by reducing apoptosis signals via Q14790 and P42574 in bovine CL and that the local increase in cortisol production resulting from increased P28845 at the early and midluteal stages helps to maintain CL function by suppressing apoptosis of luteal cells .",
+    "Identification of a variant in P35968 associated with serum P35968 and pharmacodynamics of DB06589 . PURPOSE : P15692 receptor ( VEGFR ) kinases are important drug targets in oncology that affect function of systemic endothelial cells . To discover genetic markers that affect VEGFR inhibitor pharmacodynamics , we performed a genome-wide association study of serum soluble vascular P35968 concentrations [ sVEGFR2 ] , a pharmacodynamic biomarker for P35968 inhibitors . EXPERIMENTAL DESIGN : We conducted a genome-wide association study ( GWAS ) of [ sVEGFR2 ] in 736 healthy Old Order Amish volunteers . Gene variants identified from the GWAS were genotyped serially in a cohort of 128 patients with advanced solid tumor with baseline [ sVEGFR2 ] measurements , and in 121 patients with renal carcinoma with [ sVEGFR2 ] measured before and during pazopanib therapy . RESULTS : rs34231037 ( C482R ) in P35968 , the gene encoding sVEGFR2 was found to be highly associated with [ sVEGFR2 ] , explaining 23 % of the variance ( P = 2.7 × 10(-37) ) . Association of rs34231037 with [ sVEGFR2 ] was replicated in 128 patients with cancer with comparable effect size ( P = 0.025 ) . Furthermore , rs34231037 was a significant predictor of changes in [ sVEGFR2 ] in response to pazopanib ( P = 0.01 ) . CONCLUSION : Our findings suggest that genome-wide analysis of phenotypes in healthy populations can expedite identification of candidate pharmacogenetic markers . Genotyping for germline variants in P35968 may have clinical utility in identifying patients with cancer with unusual sensitivity to effects of P35968 kinase inhibitors .",
+    "P35354 regulates the proliferation of glioma stem like cells . Cancer stem-like cells ( CSCs ) possessing features of neural precursor cells ( NPC ) influence initiation , recurrence and chemoresistance of glioblastoma multiforme ( GBM ) . As inflammation is crucial for glioblastoma progression we investigated the effect of chronic IL-1β treatment on CSCs derived from glioblastoma cell line U87MG . Exposure to IL-1β for 10 days increased ( i ) accumulation of 8-OHdG - a key biomarker of oxidative DNA damage ; ( ii ) DNA damage response ( DDR ) indicators γ P16104 , Q13315 and DNA-PK ; ( iii ) nuclear and cytoplasmic p53 and P35354 levels and ( iv ) interaction between P35354 and p53 . Despite upregulating p53 expression IL-1β had no effect on cell cycle progression , apoptosis or self renewal capacity of CSCs . P35354 inhibitor Celecoxib reduced self renewal capacity and increased apoptosis of both control and IL-1β treated CSCs . Therefore the ability of P35354 to regulate proliferation of CSCs irrespective of exposure to IL-1β , warrants further investigation of P35354 as a potential anti-glioma target .",
+    "Increase in proinflammatory cytokines in peripheral blood without haemostatic changes after LPS inhalation . INTRODUCTION : Bronchoalveolar fibrin deposition is a characteristic of various lung disorders including acute lung injury , acute respiratory distress syndrome and sepsis . It is secondary to the activation of coagulation and inhibition of fibrinolysis in the alveolar space , and can be stimulated by lipopolysaccharide ( LPS ) inhalation . The aim of this study was to determine the relation between compartmental stress in the lung and systemic response after LPS inhalation by measuring haemostatic parameters . PATIENTS AND METHODS : 12 healthy subjects underwent a bronchial challenge test with LPS ; sequential dosages were performed for 5 biological markers ( P05231 ( P05231 ) , C-Reactive Protein ( CRP ) , P00734 Fragments 1 and 2 ( F 1+2 ) , cortisol and P00747 Activator Inhibitor 1 ( P05121 ) before endotoxin inhalation and 2 , 4 , 6 , 8 and 24 hours afterwards . RESULTS : P05231 and CRP levels in the peripheral blood were higher after LPS inhalation ; there was no activation of coagulation and no increase in P05121 level . CONCLUSION : This study confirms that despite systemic release of proinflammatory cytokines , LPS inhalation does not induce systemic haemostatic response to LPS challenge .",
+    "Akt/ P31749 suppresses DNA damage processing and checkpoint activation in late G2 . Using chemical genetics to reversibly inhibit Cdk1 , we find that cells arrested in late G2 are unable to delay mitotic entry after irradiation . Late G2 cells detect DNA damage lesions and form gamma- P16104 foci but fail to activate Chk1 . This reflects a lack of DNA double-strand break processing because late G2 cells fail to recruit RPA ( replication protein A ) , ATR ( ataxia telangiectasia and Rad3 related ) , Rad51 , or Q99708 ( C-terminal interacting protein ) to sites of radiation-induced damage , events essential for both checkpoint activation and initiation of DNA repair by homologous recombination . Remarkably , inhibition of Akt/ P31749 ( protein kinase B ) restores DNA damage processing and Chk1 activation after irradiation in late G2 . These data demonstrate a previously unrecognized role for Akt in cell cycle regulation of DNA repair and checkpoint activation . Because Akt/ P31749 is frequently activated in many tumor types , these findings have important implications for the evolution and therapy of such cancers .",
+    "Multiplex protein signature for the detection of bladder cancer in voided urine samples . PURPOSE : Accurate urine assays for bladder cancer detection would benefit patients and health care systems . Through extensive genomic and proteomic profiling of urine components we previously identified a panel of 8 biomarkers that can facilitate the detection of bladder cancer in voided urine samples . In this study we confirmed this diagnostic molecular signature in a diverse multicenter cohort . MATERIALS AND METHODS : We performed a case-control , phase II study in which we analyzed voided urine from 102 subjects with bladder cancer and 206 with varying urological disorders . The urinary concentration of 8 biomarkers ( P10145 , P14780 and 10 , P05121 , P15692 , P03950 , Q16790 and P02649 ) was assessed by enzyme-linked immunosorbent assay . Diagnostic performance of the panel of tested biomarkers was evaluated using ROCs and descriptive statistical values , eg sensitivity and specificity . RESULTS : Seven of the 8 urine biomarkers were increased in subjects with bladder cancer relative to those without bladder cancer . The 7 biomarkers were assessed in a new model , which had an AUROC of 0.88 ( 95 % CI 0.84-0.93 ) , and 74 % sensitivity and 90 % specificity . In contrast , the sensitivity of voided urine cytology and the UroVysion® cytogenetic test in this cohort was 39 % and 54 % , respectively . Study limitations include analysis performed on banked urine samples and the lack of voided urine cytology and cytogenetic test data on controls . CONCLUSIONS : The study provides further evidence that the reported panel of diagnostic biomarkers can reliably achieve the noninvasive detection of bladder cancer with higher sensitivity than currently available urine based assays .",
+    "Mitoxantrone inhibits HIF-1α expression in a topoisomerase II-independent pathway . PURPOSE : Solid tumors encounter a growth-limiting hypoxic microenvironment as they develop . Hypoxia-inducible factors ( HIF ) play important roles in hypoxia-associated tumor development and therapeutic resistance . Targeting the HIF pathway ( especially HIF-1α ) represents a promising cancer treatment strategy . Here , we report a novel class of HIF-1α inhibitors and the possible molecular basis of inhibition . EXPERIMENTAL DESIGN : We analyzed the inhibitory effects of clinically used topoisomerase II ( P11388 ) -targeting drugs on HIF-1α expression with a primary focus on mitoxantrone . The potential role of P11388 in mitoxantrone-inhibited HIF-1α expression was studied using pharmacologic inhibition , a knockdown approach , and P11388 mutant cells . Moreover , involvement of mitoxantrone in proteasome-mediated degradation , transcription , and translation of HIF-1α was examined . RESULTS : The P11388 -targeting mitoxantrone , but neither doxorubicin nor etoposide ( DB00773 ) , strongly inhibited HIF-1α expression under hypoxic conditions in a dose- and time-dependent manner . Surprisingly , the mitoxantrone-mediated inhibition of HIF-1α expression was largely independent of two P11388 isozymes , proteasomal degradation , and transcription . Furthermore , mitoxantrone inhibited HIF-1α expression and function in a similar fashion as cycloheximide , suggesting that mitoxantrone might inhibit HIF-1α via a blockage at its translation step . In vitro translation experiments using HIF-1α mRNA further confirmed inhibition of HIF-1α translation by mitoxantrone . Interestingly , levels of the polysome-bound HIF-1α and P15692 mRNA were elevated and decreased after mitoxantrone treatment , respectively . CONCLUSIONS : We have identified the P11388 -targeting compound , mitoxantrone , as an HIF-1α inhibitor possibly through a translation inhibition mechanism , suggesting the possibility of an additional anticancer activity for mitoxantrone .",
+    "Successful thrombolysis of a stroke with a pulmonary embolism in a young woman . BACKGROUND : Paradoxical embolism is a rare event , accounting for < 2 % of all arterial emboli . The diagnosis is often difficult , and consequences for the patient can be severe . CASE REPORT : We describe the case of a 35-year-old female physician who presented to our Emergency Department ( ED ) in severe hemodynamic compromise , with an altered level of consciousness and major expressive aphasia 1 day after undergoing a leg varicosal stripping procedure under regional anesthesia . She was successfully thrombolyzed with 0.9 mg/kg of Recombinant Tissue P00747 Activator ( rtPA , DB00009 ) and had a full recovery . CONCLUSION : To our knowledge , this is the first description of a case of massive pulmonary embolism associated with a paradoxical stroke related to patent foramen ovale that was thrombolyzed for both conditions with a \" neurological dose \" of rtPA . Although thrombolysis was completely successful in this case , indications and contraindications should be thoroughly respected . A more conservative approach with anticoagulation , or a more aggressive approach with surgical thrombectomy , can each potentially have a place in particular cases . Intra-arterial catheter-directed thrombolysis and percutaneous embolectomy are additional options to be considered when available , especially if there are contraindications for systemic thrombolysis .",
+    "Activation of c-Jun-N-terminal-kinase is crucial for the induction of a cell cycle arrest in human colon carcinoma cells caused by flurbiprofen enantiomers . The unselective cyclooxygenase ( P36551 ) inhibitor DB00712 and its-in terms of P36551 -inhibition- \" inactive \" enantiomer R-flurbiprofen have been previously found to inhibit tumor development and growth in various animal models . The underlying mechanisms are unknown . Here , we show that both R- and DB00712 reduce survival of three colon cancer cell lines , which differ in the expression of P35354 ( HCT-15 , no P35354 ; Caco-2 , inducible P35354 ; and HT-29 , constitutive P35354 ) . The IC50 for S- and R-flurbiprofen ranged from 250 to 450 microM . Both flurbiprofen enantiomers induced apoptosis in all three cell lines as indicated by DNA- and PARP-cleavage . In addition , R- and DB00712 caused a P55008 -cell cycle block . The latter was associated with an activation of c-Jun N-terminal kinase ( JNK ) , an increase of the DNA binding activity of the transcription factor AP-1 and down-regulation of cyclin D1 expression . Western blot analysis , as well as supershift experiments , revealed that the AP-1 activation was associated with a change of AP-1 composition toward an increase of JunB . The JNK inhibitor SP600125 antagonized R- and DB00712 -induced AP-1 DNA binding , suppression of cyclin D1 expression , and the P55008 -cell cycle block . However , JNK inhibition had no effect on flurbiprofen-induced apoptosis . Hence , the cell cycle arrest is obviously mediated , at least in part , through JNK-activation , whereas R- and DB00712 -induced apoptosis is largely independent of JNK . Although in vitro effects of R- and DB00712 were indistinguishable , only R-flurbiprofen inhibited HCT-15 tumor growth in nude mice , suggesting the involvement of additional in vivo targets , which are differently affected by R- and DB00712 .",
+    "Genetic factors influencing outcome from neurotrauma . PURPOSE OF REVIEW : Clinical outcome after neurotrauma is considerably variable and can only partly be explained by known prognostic factors . There is converging evidence from genetic research that a number of genetic variants may contribute to this variability . This review provides recent data from human studies , published in the previous year , on genetic factors influencing outcome after neurotrauma . The bibliographic databases MEDLINE , EMBASE and PsycINFO were searched to identify relevant studies . RECENT FINDINGS : Genetic susceptibility to various aspects of clinical outcome after neurotrauma was reported in recent clinical studies . Genetic loci investigated include polymorphisms in P02649 , P21397 , P23560 , NOS3 , P05231 , P12036 , P31645 , P21964 , P48454 and Q8IX03 genes . The importance of these findings and future directions are discussed . SUMMARY : Recent genetic studies have revealed emerging aspects and extended the existing knowledge regarding the pathogenesis of neurotrauma and the genetic influence on phenotypic diversity . A better understanding of the underlying biological pathways and molecular mechanisms of an individual 's response to neurotrauma may hold the promise of novel treatment strategies and improved clinical outcome .",
+    "Role of nitrative and oxidative DNA damage in inflammation-related carcinogenesis . Chronic inflammation induced by biological , chemical , and physical factors has been found to be associated with the increased risk of cancer in various organs . We revealed that infectious agents including liver fluke , Helicobacter pylori , and human papilloma virus and noninfectious agents such as asbestos fiber induced P35228 -dependent formation of 8-nitroguanine and 8-oxo-7 , 8-dihydro-2'-deoxyguanosine ( 8-oxodG ) in cancer tissues and precancerous regions . Our results with the colocalization of phosphorylated Q13315 and γ- P16104 with 8-oxodG and 8-nitroguanine in inflammation-related cancer tissues suggest that DNA base damage leads to double-stranded breaks . It is interesting from the aspect of genetic instability . We also demonstrated P05231 -modulated P35228 expression via P40763 and P00533 in Epstein-Barr-virus-associated nasopharyngeal carcinoma and found promoter hypermethylation in several tumor suppressor genes . Such epigenetic alteration may occur by controlling the DNA methylation through P05231 -mediated JAK/ P40763 pathways . Collectively , 8-nitroguanine would be a useful biomarker for predicting the risk of inflammation-related cancers .",
+    "Exome sequencing of three cases of familial exceptional longevity . Exceptional longevity ( EL ) is a rare phenotype that can cluster in families , and co-segregation of genetic variation in these families may point to candidate genes that could contribute to extended lifespan . In this study , for the first time , we have sequenced a total of seven exomes from exceptionally long-lived siblings ( probands ≥ 103 years and at least one sibling ≥ 97 years ) that come from three separate families . We have focused on rare functional variants ( RFVs ) which have ≤ 1 % minor allele frequency according to databases and that are likely to alter gene product function . Based on this , we have identified one candidate longevity gene carrying RFVs in all three families , P04114 . Interestingly , P04114 is a component of lipoprotein particles together with P02649 , and variants in the genes encoding these two proteins have been previously associated with human longevity . Analysis of nonfamilial EL cases showed a trend , without reaching statistical significance , toward enrichment of P04114 RFVs . We have also identified candidate longevity genes shared between two families ( 5-13 ) or within individual families ( 66-156 genes ) . Some of these genes have been previously linked to longevity in model organisms , such as Q9UBK2 , Q02297 , P43351 , Q06609 , O75376 , and O95622 genes . This work provides an initial catalog of genes that could contribute to exceptional familial longevity .",
+    "MicroRNA-302 replacement therapy sensitizes breast cancer cells to ionizing radiation . PURPOSE : Solid tumors can be resistant or develop resistance to radiotherapy . The purpose of this study is to explore whether microRNA-302 is involved in radioresistance and can be exploited as a sensitizer to enhance sensitivity of breast cancer cells to radiation therapy . METHODS : MiR-302 expression levels in radioresistant cell lines were analyzed in comparison with their parent cell lines . Furthermore , we investigated whether enforced expression of miR-302 sensitized radioresistant breast cancer cells to ionizing radiation in vitro and in vivo . RESULTS : MiR-302 was downregulated in irradiated breast cancer cells . Additionally , the expression levels of miR-302a were inversely correlated with those of P31749 and P43351 , two critical regulators of radioresistance . More promisingly , miR-302a sensitized radioresistant breast cancer cells to radiation therapy in vitro and in vivo and reduced the expression of P31749 and P43351 . CONCLUSION : Our findings demonstrated that decreased expression of miR-302 confers radioresistance and restoration of miR-302 baseline expression sensitizes breast cancer cells to radiotherapy . These data suggest that miR-302 is a potential sensitizer to radiotherapy .",
+    "Biological effects of alpha particle radiation exposure on human monocytic cells . Radon ( (222)Rn ) gas produces decay progeny that emits high energy alpha (α)-particles . Epidemiological studies have shown that exposure to (222)Rn is linked with elevated risk of developing lung cancer , however clear mechanisms leading to such effects have not been delineated . Cytokines play a critical role in inflammation and their dysregulated production often contributes to disease pathogenesis . In this study , Bio-plex multiplex technology was employed to investigate modulations of 27 pro-inflammatory cytokines following exposure of human monocytic cells to 1.5 Gy of α-particle radiation . Concurrently , DNA damage was assessed by examining the formation of phosphorylated H2A histone family X ( γ- P16104 ) sites . Of the 27 cytokines assessed , 4 cytokines were shown to be statistically downregulated by ∼2 fold relative to the untreated controls and included the interleukin ( IL ) family of proteins ( P60568 , P40933 and Q16552 ) and macrophage inflammatory protein 1 beta ( MIP-1b ) . Interferon-inducible protein-12 ( IP-12 ) , vascular endothelial growth factor and regulated on activation normal T cell expressed and secreted ( RANTES ) were shown to be high expressors and upregulated . Cells irradiated with α-particles ranging from 0.27 to 2.14 Gy showed statistically significant , dose-dependant increases in γ- P16104 formation . These data suggest that α-particle radiation causes dysregulation in the production of a number of pro-inflammatory cytokines and results in significant DNA damage .",
+    "Blockade of ataxia telangiectasia mutated sensitizes hepatoma cell lines to sorafenib by interfering with Akt signaling . DB00398 is a multi-kinase inhibitor applicable to hepatocellular carcinoma ( HCC ) , but its limited therapeutic effects are a major problem to be solved . Here , we show that blockade of ataxia telangiectasia mutated ( Q13315 ) improves the antitumor effects of sorafenib . When hepatoma cell lines HepG2 and P98160 /PRF/5 were treated with sorafenib plus Q13315 small inhibitory RNAs , Q13315 inhibitor KU55933 or caffeine , Akt signaling was suppressed and the cytotoxic effects were significantly potentiated . Moreover , Q13315 inhibition effectively suppressed the sorafenib-induced cell migration . Taken together , manipulation of Q13315 activity might be a useful strategy for improving sorafenib treatment of HCC .",
+    "Blood flow alterations in TNBS-induced colitis : role of endothelin receptors . OBJECTIVES : The aim of the present study was to investigate the time dependent changes in hemodynamic parameters and to assess the role of endothelin ( ET ) receptors in trinitrobenzene sulfonic acid ( TNBS ) induced colitis . MATERIALS : Inferior mesenteric artery ( IMA ) hemodynamics , myeloperoxidase activity ( P05164 ) and damage scores were measured immediately or 1 , 3 , 5 and 14 days after colitis . TREATMENTS : Another group of rats received a nonselective ET receptor antagonist DB00559 ( 30 mg/kg/day ) , P25101 receptor antagonist BQ485 ( 60 microg/rat/day ) or P24530 receptor antagonist BQ788 ( 60 microg/rat/day ) prior to and on the 1st , 2nd and 3rd days after TNBS administration . RESULTS : IMA flow significantly increased at 90 min followed by a substantial decrease through days 1-5 . Tissue P05164 activity and macroscopic damage score increased on 1st day after the induction of colitis and remained elevated 3 , 5 and 14 days following colitis . Treatment with DB00559 or P25101 receptor antagonist largely prevented the colitis-induced reduction in blood flow and tissue injury whereas P24530 receptor antagonist did not attenuate tissue injury or reductions in blood flow . CONCLUSIONS : Our results demonstrate that time-dependent abnormalities occur in IMA hemodynamics following TNBS administration . Our findings also indicate that P25101 receptors but not P24530 receptors play an important role in the colonic inflammation following TNBS administration .",
+    "Current researches on breast cancer epidemiology in Korea . As a cause of death in women , breast cancer ranks second to stomach cancer in Korea . Age-standardized mortality rates for breast cancer steadily increased during the 1980s and 1990s . There are big differences in the incidence rates for breast cancer compared with Western countries . Epidemiological features , trends in morbidity and mortality , various age-specific incidence curves , migrant study results , and analysis of the risk factors , however , suggest that the incidence of breast cancer might be further increasing in Korea . The key epidemiological hormonal risk factors for breast cancer are all explicable in terms of the estrogen augmented by progesterone hypothesis . These include older age , family history of breast cancer , early menarche , late menopause , late full-term pregnancy , and never a breast feeding . Both the establishment of high-risk groups and the estimation of lifetime risk are essential to develop a control strategy against breast cancer . Invasive ductal carcinoma is the most common histologic type of breast cancer in Korea , and the five-year survival rate has been estimated as 80-83 % . Recent studies on the identification of susceptibility factors such as genetic polymorphisms of P09488 /T1/P1 , P21964 , P05181 , P11511 , P05093 , P03372 , P18887 , O43542 , P43351 , TGF-alpha , P01375 , IL-1B , IL-1RN , P50613 etc. that predispose individuals to breast cancer by gene-environment or gene-gene interactions may possibly give further insight into both the etiology and the prevention of this malignancy .",
+    "Amsacrine and etoposide hypersensitivity of yeast cells overexpressing DNA topoisomerase II . Increasing the cellular concentration of DNA topoisomerase II in yeast by expressing constitutively a plasmid-borne P11388 gene encoding the enzyme greatly increases the sensitivity of the cells to amsacrine and etoposide ( DB00773 ) . This increased drug sensitivity at a higher intracellular DNA topoisomerase II level is observed in both P43351 + repair-proficient strains and rad52 mutants that are defective in the repair of double-stranded breaks . These results provide strong support of the hypothesis that the cellular target of these drugs is DNA topoisomerase II , and that these drugs kill cells by converting DNA topoisomerase II into a DNA damaging agent .",
+    "The study of genetic polymorphisms related to serotonin in Alzheimer 's disease : a new perspective in a heterogenic disorder . Genetic and environmental factors have been implicated in the development of Alzheimer 's disease ( AD ) , the most common form of dementia in the elderly . Mutations in 3 genes mapped on chromosomes 21 , 14 and 1 are related to the rare early onset forms of AD while the epsilon 4 allele of the apolipoprotein E ( P02649 ) gene ( on chromosome 19 ) is the major susceptibility locus for the most common late onset AD ( LOAD ) . Serotonin ( 5-hydroxytryptamine or 5-HT ) is a key neurotransmitter implicated in the control of mood , sleep , appetite and a variety of traits and behaviors . Recently , a polymorphism in the transcriptional control region upstream of the 5-HT transporter ( 5-HTT ) gene has been studied in several psychiatric diseases and personality traits . It has been demonstrated that the short variant(s) of this 5-HTT gene-linked polymorphic region ( 5-HTTLPR ) is associated with a different transcriptional efficiency of the 5-HTT gene promoter resulting in decreased 5-HTT expression and 5-HT uptake in lymphocytes . An increased frequency of this 5-HTTLPR short variant polymorphism in LOAD was recently reported . In addition , another common polymorphic variation in the 5- Q13049 and P28335 serotonin receptor genes previously analyzed in schizophrenic patients was associated with auditory and visual hallucinations in AD . These observations suggest that the involvement of the serotonin pathway might provide an explanation for some aspects of the affective symptoms commonly observed in AD patients . In summary , research on genetic polymorphisms related to AD and involved in receptors , transporter proteins and the enzymatic machinery of serotonin might enhance our understanding of this devastating neurodegenerative disorder .",
+    "Antagonism of endothelin action normalizes altered levels of P15692 and its signaling in the brain of stroke-prone spontaneously hypertensive rat . Stroke-prone spontaneously hypertensive rats ( SHRSP ) often suffer from spontaneous stroke , in part , due to abnormalities in the cerebrovasculature . Here , we investigate the profile of key angiogenic factors and their basic signaling molecules in the brain of SHRSP during the age-dependent stages of hypertension . The profile of P15692 and its receptor , Flk-1 , was dependent on age and stage of hypertension ( i.e. , down regulated at pre-hypertensive and malignant hypertensive stages , but up regulated at typical hypertensive stage ) , while that of its downstream components , pAkt and P29474 , were down regulated in a time-dependent manner in the frontal cortex of SHRSP compared to age-matched genetic control , normotensive WKY rats . On the other hand , the expression of endothelin-1 and its type A receptor ( endothelin P25101 receptor ) were up regulated , depending on age and stage of hypertension . In contrast , levels of endothelin type B receptor were down regulated . The regional cerebral blood flow decreased during the development of malignant hypertension . Thus , subsequent experiments were designed to investigate whether endothelin-1 receptor antagonism , using endothelin-A/-B dual receptor antagonist SB209670 , could normalize the molecular profile of these factors in SHRSP brain . Interestingly , blockage of endothelin-1 receptor restored to normal , levels of cerebral endothelin-1 , endothelin P25101 receptor and endothelin ETB receptor ; P15692 and Flk-1 ; endothelial nitric oxide synthase ( P29474 ) and pAkt , in SHRSP , compared to age-matched WKY . Endothelin receptor blocker might be important to prevent the progression in the defect in P15692 and its angiogenic signaling cascade in the pathogenesis of hypertension-induced vascular remodeling in frontal cortex of SHRSP rats .",
+    "Transcriptional alterations of ET-1 axis and DNA damage in lung tissue of a rat obesity model . Obesity has been implicated in the development of many cancers . This can lead to genome damage , especially in the form of double-strand break , the presence of which is now easily detected through nuclear phosphorylation of histone P16104 ( γ- P16104 ) focus assay . Recently , the endothelin ( ET ) axis has also been shown to have a role in the growth and progression of several tumors , including lung cancer . The aim of this study was to evaluate the ET-1 system transcriptional alterations and γ- P16104 in lung tissue of Zucker rats subdivided into obese ( O , n=22 ) and controls ( CO , n=18 ) rats : under either fasting conditions ( CO(fc)-O(fc) ) or acute hyperglycemia ( CO(AH)-O(AH) ) . Significantly higher prepro-ET-1 ( p=0.05 ) and ET-converting enzyme ( ECE ) -2 mRNA expression was observed in O with respect to CO . A significant positive association was observed between prepro-ET-1 and P25101 in the whole rat population ( p=0.009 ) or in the obese group alone ( p=0.007 ) . The levels of γ- P16104 in O and in O(AH) rats were significantly higher ( p=0.019 ) than in the corresponding CO and CO(AH) rats ( p=0.038 ) . The study shows an inappropriate secretion of ET-1 in O animals with a parallel DNA damage in their lungs , providing novel mechanisms by which ET receptor antagonist may exert organ protection .",
+    "Inhibition of Akt/ P31749 by a P35354 inhibitor induces apoptosis in gastric cancer cells . BACKGROUND/AIM : Inhibition of cyclooxygenase-2 has been proposed to be a potential mechanism for the chemoprevention of gastrointestinal tumors by nonsteroidal anti-inflammatory drugs . This study investigates the mechanisms by which the cyclooxygenase-2 inhibitor SC236 induces apoptosis of gastric cancer cell lines and its downstream signaling pathway . METHODS : Two gastric cancer cell lines , AGS and MKN28 , were treated with SC236 and assessed for cell growth and apoptosis . The involvement of mitogen-activated protein kinase and Akt kinase/protein kinase B ( Akt/ P31749 ) pathways and their downstream signalings were studied in the AGS cell line . RESULTS : SC236 treatment induced apoptosis in gastric cancer cells and caused activation of p38 and stress-activated protein kinase/jun kinase , but down-regulated Akt/ P31749 . The specific p38 inhibitor SB203580 and the dominant-negative stress-activated protein kinase/jun kinase both failed , while the constitutively active form of Akt/ P31749 was able to block SC236-induced apoptosis . SC236-induced apoptosis was coupled with release of cytochrome c and activation of caspases . CONCLUSION : One of the pathways involved in SC-236-induced apoptosis in gastric cancer cells is through downregulation of Akt and then release of cytochrome c .",
+    "DB00472 induces preventive and complex effects against colon cancer development in epithelial and stromal areas in rats . DB00472 ( FLX ) is a drug commonly used as antidepressant . However , its effects on tumorigenesis remain controversial . Aiming to evaluate the effects of FLX treatment on early malignant changes , we analyzed serotonin ( 5-HT ) metabolism and recognition , aberrant crypt foci ( Q9NQ94 ) , proliferative process , microvessels , vascular endothelial growth factor ( P15692 ) , and cyclooxygenase-2 ( P35354 ) expression in colon tissue . Male Wistar rats received a daily FLX-gavage ( 30mgkg(-1) ) and , a single dose of 1,2 dimethylhydrazine ( Q03001 ; i.p. , 125mgkg(-1) ) . After 6 weeks of FLX-treatment , our results revealed that FLX and nor-fluoxetine ( N-FLX ) are present in colon tissue , which was related to significant increase in serotonin ( 5-HT ) levels ( P < 0.05 ) possibly through a blockade in P31645 mRNA ( serotonin reuptake transporter ; P < 0.05 ) resulting in lower 5-hydroxyindoleacetic acid ( 5-HIAA ) levels ( P < 0.01 ) and , P28335 receptor mRNA expressions . FLX-treatment decreased dysplastic Q9NQ94 development ( P < 0.01 ) and proliferative process ( P < 0.001 ) in epithelia . We observed a significant decrease in the development of malignant microvessels ( P < 0.05 ) , P15692 ( P < 0.001 ) , and P35354 expression ( P < 0.01 ) . These findings suggest that FLX may have oncostatic effects on carcinogenic colon tissue , probably due to its modulatory activity on 5-HT metabolism and/or its ability to reduce colonic malignant events .",
+    "Effects of cytokines on P15692 expression and secretion by human first trimester trophoblast cell line . PROBLEM : The mechanism through which vascular endothelial growth factor ( P15692 ) regulation occurs at the feto-maternal interface is poorly understood . The aim of this study was to investigate the effects of various cytokines on P15692 expression and secretion by trophoblast cells . METHOD OF STUDY : We investigated the effects of cytokines on P15692 expression in human first trimester trophoblast cell line by analyzing P15692 messenger RNA ( mRNA ) by reverse transcription-polymerase chain reaction and P15692 protein secretion by enzyme linked immunosorbent assay . RESULTS : The trophoblast cells expressed P15692 mRNA constitutively and the main subtypes were identified as VEGF121 and VEGF165 . When cultured in the presence of interferon ( IFN ) -gamma , interleukin ( IL ) - 1beta , tumor necrosis factor ( P01375 ) -alpha , P60568 , or P22301 , P15692 mRNA expression was found to be significantly increased by IL-1beta , P01579 and P01375 but to be unaffected by P60568 and P22301 . Moreover , P15692 secretion was most significantly increased by P01579 treatment . CONCLUSION : These results suggest that IL-1beta , P01579 , and P01375 may regulate the production of P15692 in early gestational trophoblasts .",
+    "5- Q9H205 - and P28335 -antagonist properties of cyamemazine : significance for its clinical anxiolytic activity . RATIONALE : DB09000 is a neuroleptic compound which possesses anxiolytic properties in humans . On the other hand , 5- Q9H205 - and P28335 -receptors have been implicated in anxiety disorders and a previous binding study has shown that cyamemazine possesses high affinity for both serotonin receptor types . OBJECTIVE : The present study was undertaken to establish whether cyamemazine antagonizes 5- Q9H205 - and/or P28335 -mediated responses , and whether it compares with reference compounds . METHODS : DB09000 was tested for its ability to antagonize : ( i ) 5- Q9H205 -dependent contraction of the isolated guinea-pig ileum and bradycardic responses in the rat and ( ii ) P28335 -dependent phospholipase C ( P98160 ) stimulation in rat brain membranes . RESULTS : In isolated guinea-pig ileum , cyamemazine potently and competitively antagonized 5-HT-dependent contractions ( pA2 = 7.52 +/- 0.08 ; n = 5 ) . In this test , cyamemazine was 5-7 times more potent ( pIC50 = 6.75 +/- 0.13 ) than tropisetron ( pIC50 = 6.02 +/- 0.04 ) . In rats , cyamemazine i.v. antagonized 5-HT-dependent bradycardic responses with ID50 % = 3.2 +/- 1.5 mg/kg ( n = 4 ) . Finally , in rat brain membranes cyamemazine antagonized P28335 -dependent P98160 stimulation with Ki = 424 nM ( mianserin exhibits a Ki = 113 nM ) . CONCLUSIONS : DB09000 behaves as an antagonist at both 5- Q9H205 - and P28335 -receptors , which compares well with reference compounds . These 5- Q9H205 - and P28335 -antagonistic actions of cyamemazine can be involved , at least in part , in its beneficial therapeutic actions in anxiety disorders .",
+    "Protective effect of treatment with low-dose gliclazide in a model of middle cerebral artery occlusion and reperfusion in rats . The aim of this study was to explore the expression of sulfonylurea receptor 1 ( Q09428 ) , the regulatory subunit of the NCCa- DB00171 channel , and to investigate the protective effects of gliclazide following middle cerebral artery occlusion ( MCAO ) /reperfusion in male Wistar rats . Adult rats underwent 2h of the left MCAO using the intraluminal thread technique before reperfusion . The core areas of the infarct at different reperfusion time points were examined for the mRNA level and protein expression of Q09428 using reverse transcription-polymerase chain reaction ( RT-PCR ) and western blotting respectively . DB01120 was administered intravenously into the right jugular vein for 12h simultaneously with the reperfusion . The number of apoptotic cells was determined using the TUNEL assay . The neurological functional deficits were evaluated using Bederson׳s test , and the cerebral infarction volume was visualized with TTC staining . We found up-regulation of Q09428 mRNA and protein levels in ischemic infarct tissues after reperfusion following MCAO , and Q09428 mRNA and protein were maximally upregulated 8-12h after a 2-hour ischemia . The treatment with low-dose of gliclazide reduced the total number of TUNEL-positive cells , the neurological functional deficits and the brain infarct volume . These results suggest that the Q09428 -regulated NCCa- DB00171 channel may be associated with MCAO/reperfusion injury and the infarct-reducing effects of intravenous treatment with gliclazide may be due , in part , to the blocked upregulation of Q09428 expression , the decreased infarct size and the reduced apoptosis in the ischemia-reperfusion brain .",
+    "15-deoxy-Δ¹²,¹⁴-PGJ₂ promotes inflammation and apoptosis in cardiomyocytes via the Q14188 /MAPK/ P01375 α axis . BACKGROUND : Prostaglandins ( PGs ) , lipid autacoids derived from arachidonic acid , play a pivotal role during inflammation . P52209 ₂ synthase is abundantly expressed in heart tissue and P52209 ₂ has recently been found to induce cardiomyocyte apoptosis . P52209 ₂ is an unstable prostanoid metabolite ; therefore the objective of the present study was to elucidate whether its final dehydration product , 15-deoxy-Δ¹²,¹⁴-PGJ₂ ( 15d-PGJ₂ , present at high levels in ischemic myocardium ) might cause cardiomyocyte damage . METHODS AND RESULTS : Using specific (ant)agonists we show that 15d-PGJ₂ induced formation of intracellular reactive oxygen species ( ROS ) and phosphorylation of p38 and Q8NFH3 /44 MAPKs via the Q13258 Q14188 ( but not DP1 or Q07869 γ ) in the murine atrial cardiomyocyte P07306 cell line . Activation of the Q14188 -ROS-MAPK axis by 15d-PGJ₂ enhanced transcription and translation of P01375 α and induced apoptosis in P07306 cardiomyocytes . Silencing of P01375 α significantly attenuated the extrinsic ( caspase-8 ) and intrinsic apoptotic pathways ( bax and caspase-9 ) , caspase-3 activation and downstream PARP cleavage and γ P16104 activation . The apoptotic machinery was unaffected by intracellular calcium , transcription factor NF-κB and its downstream target p53 . Of note , 9,10-dihydro-15d-PGJ₂ ( lacking the electrophilic carbon atom in the cyclopentenone ring ) did not activate cellular responses . Selected experiments performed in primary murine cardiomyocytes confirmed data obtained in P07306 cells namely that the intrinsic and extrinsic apoptotic cascades are activated via Q14188 /MAPK/ P01375 α signaling . CONCLUSIONS : We conclude that the reactive α,β-unsaturated carbonyl group of 15d-PGJ₂ is responsible for the pronounced upregulation of P01375 α promoting cardiomyocyte apoptosis . We propose that inhibition of Q14188 receptors could provide a possibility to modulate 15d-PGJ₂-induced myocardial injury .",
+    "P11274 / P00519 and other kinases from chronic myeloproliferative disorders stimulate single-strand annealing , an unfaithful DNA double-strand break repair . Myeloproliferative disorders ( P53602 ) are stem cell-derived clonal diseases arising as a consequence of acquired aberrations in c- P00519 , Janus-activated kinase 2 ( O60674 ) , and platelet-derived growth factor receptor ( P09619 ) that generate oncogenic fusion tyrosine kinases ( FTK ) , including P11274 / P00519 , P41212 / P00519 , P41212 / O60674 , and P41212 /PDGFbetaR . Here , we show that FTKs stimulate the formation of reactive oxygen species and DNA double-strand breaks ( DSB ) both in hematopoietic cell lines and in P28906 (+) leukemic stem/progenitor cells from patients with chronic myelogenous leukemia ( CML ) . Single-strand annealing ( SSA ) represents a relatively rare but very unfaithful DSB repair mechanism causing chromosomal aberrations . Using a specific reporter cassette integrated into genomic DNA , we found that P11274 / P00519 and other FTKs stimulated SSA activity . Imatinib-mediated inhibition of P11274 / P00519 abrogated this effect , implicating a kinase-dependent mechanism . Y253F , E255K , T315I , and H396P mutants of P11274 / P00519 that confer imatinib resistance also stimulated SSA . Increased expression of either nonmutated or mutated P11274 / P00519 kinase , as is typical of blast phase cells and very primitive chronic phase CML cells , was associated with higher SSA activity . P11274 / P00519 -mediated stimulation of SSA was accompanied by enhanced nuclear colocalization of P43351 and P07992 , which play a key role in the repair . Taken together , these findings suggest a role of FTKs in causing disease progression in MPDs by inducing chromosomal instability through the production of DSBs and stimulation of SSA repair .",
+    "Effect of Q13315 , O96017 and P04626 TAGSNPs and haplotypes on endometrial cancer risk . Family history of endometrial cancer increases the risk of developing the disease , but it is still largely unknown which germ-line genetic factors are involved in the aetiology of endometrial cancer . In a Swedish population-based case-control study including 705 cases and 1565 controls , we examined common variation in the Q13315 , O96017 and P04626 genes in relation to endometrial cancer risk overall , restricted to tumours of certain characteristics or stratified by various endometrial cancer risk factors . We genotyped a large number of single-nucleotide polymorphisms ( SNPs ) in the genes and selected seven haplotype-tagging SNPs ( tagSNPs ) in Q13315 , six tagSNPs in O96017 and seven tagSNPs in P04626 that could predict common variants and haplotypes ( frequency > or =0.03 ) in each gene with R(2) > or = 0.8 . We included the tagSNPs or their haplotypes as explanatory variables in unconditional logistic regression models adjusted for age . Our results indicated an increased risk of developing endometroid endometrial cancer for homozygous carriers of the rare allele ( AA ) of a tagSNP ( rs4987886 ) in O96017 ( P = 0.005 ) when contrasted with GG carriers . We also found a decreased endometrial cancer risk among non-smoking carriers of a haplotype in Q13315 ( P = 0.0007 ) and among carriers of a haplotype in O96017 , who had experienced menopause below 49 years of age ( P = 0.0009 ) compared with non-carriers of these haplotypes . We found no effect of genetic variation in P04626 on endometrial cancer risk . In conclusion , it is possible that common variants in the Q13315 and O96017 genes , in interaction with oestrogen-related exposures , are involved in endometrial cancer aetiology .",
+    "DB06589 inhibits the activation of P09619 β-expressing astrocytes in the brain metastatic microenvironment of breast cancer cells . Brain metastases occur in more than one-third of metastatic breast cancer patients whose tumors overexpress P04626 or are triple negative . Brain colonization of cancer cells occurs in a unique environment , containing microglia , oligodendrocytes , astrocytes , and neurons . Although a neuroinflammatory response has been documented in brain metastasis , its contribution to cancer progression and therapy remains poorly understood . Using an experimental brain metastasis model , we characterized the brain metastatic microenvironment of brain tropic , P04626 -transfected MDA-MB-231 human breast carcinoma cells ( 231-BR- P04626 ) . A previously unidentified subpopulation of metastasis-associated astrocytes expressing phosphorylated platelet-derived growth factor receptor β ( at tyrosine 751 ; p751- P09619 β ) was identified around perivascular brain micrometastases . p751- P09619 β(+) astrocytes were also identified in human brain metastases from eight craniotomy specimens and in primary cultures of astrocyte-enriched glial cells . Previously , we reported that pazopanib , a multispecific tyrosine kinase inhibitor , prevented the outgrowth of 231-BR- P04626 large brain metastases by 73 % . Here , we evaluated the effect of pazopanib on the brain neuroinflammatory microenvironment . DB06589 treatment resulted in 70 % ( P = 0.023 ) decrease of the p751- P09619 β(+) astrocyte population , at the lowest dose of 30 mg/kg , twice daily . Collectively , the data identify a subpopulation of activated astrocytes in the subclinical perivascular stage of brain metastases and show that they are inhibitable by pazopanib , suggesting its potential to prevent the development of brain micrometastases in breast cancer patients .",
+    "Characterization of rat P23510 by monoclonal antibody . OX40 ( CD134 ) is a member of the tumor necrosis factor ( P01375 ) receptor superfamily first identified as a rat T cell activation marker . We previously identified the rat ligand for OX40 ( P23510 ) by molecular cloning . In the present study , we newly generated an anti-rat P23510 mAb ( Q13315 -2 ) that can inhibit the binding of OX40 to rat P23510 and thus efficiently inhibits the T cell costimulatory activity of rat P23510 . Flow cytometric analyses using Q13315 -2 and an anti-rat OX40 mAb ( MRC OX40 ) indicated that OX40 was inducible on splenic P01730 (+) T cells by stimulation with immobilized anti-CD3 mAb , while P23510 was not expressed on resting or activated T cells . P23510 was expressed on splenic B cells after stimulation with lipopolysaccharide ( LPS ) , but not on peritoneal macrophages . Interestingly , splenic dendritic cells ( DC ) expressed P23510 constitutively , which was further upregulated by LPS stimulation . The potent costimulatory activities of splenic DC for anti-CD3-stimulated rat P01730 (+) T cell proliferation and cytokine ( P60568 , P01579 , P22301 , and P35225 ) production were substantially inhibited by Q13315 -2 . These results indicated that P23510 is expressed on professional antigen-presenting cells ( P25054 ) , and may be involved in humoral immune responses via T-B interaction and in cellular immune responses via T-DC interaction in the rat system .",
+    "Synthetic delivery system for tuberculosis vaccines : immunological evaluation of the M. tuberculosis 38 kDa protein entrapped in biodegradable P00747 microparticles . Tuberculosis remains a major public health burden which could be ameliorated by effective and well-defined subunit vaccines , particularly because the protective efficacy of current M. bovis BCG vaccines is both unpredictable and variable . The immunodominant 38 kDa antigen from Mycobacterium tuberculosis was entrapped in biodegradable poly ( DL-lactide co-glycolide ) ( P00747 ) microparticles which served as a delivery system . Both cellular and humoral immune responses were assessed and compared with those obtained after immunization with the 38 kDa protein emulsified in incomplete Freund 's adjuvant ( IFA ) . Vaccination of mice with a single dose of antigen-loaded microparticles resulted in specific IgG titres peaking after five weeks comparable to those achieved after vaccination with protein emulsified in incomplete Freund 's adjuvant ( IFA ) . T-cell responses were found to be superior to those induced with antigen/IFA . The T- and B-cell epitope specificities ad judged with synthetic peptides were identical following immunization with antigen in microparticles or IFA . Differences in adjuvanticity were revealed by measuring antigen-specific IgG1 , IgG2a and antigen-induced P01579 secretion in vitro : substantially higher titres of IgG2a were observed following immunization with antigen/microparticles than with 38 kDa protein/IFA . This was paralleled by a tenfold higher secretion of P01579 in mice injected with antigen/microparticles . Reduction in colony-forming units was not consistent in mice immunized with 38 kDa protein entrapped in microparticles which were subsequently infected with live tubercle bacilli . Taken together these results indicate that biodegradable P00747 microparticles constitute a favorable candidate vaccine delivery system worthy of further assessment in the quest to develop better and defined agents protecting against tuberculosis .",
+    "DB00107 alleviates the neuroendocrine and cytokine response to bacterial endotoxin in healthy men . DB00107 is a hormone and neurotransmitter found to have anti-inflammatory functions in rodents . Here we used experimental bacterial endotoxinemia to examine the role of exogenous oxytocin administration on innate immune responses in humans . Ten healthy men received , in a randomized , placebo-controlled , crossover design , placebo , oxytocin , LPS , and LPS + oxytocin . DB00107 treatment resulted in a transient or prolonged reduction of endotoxin-induced increases in plasma DB01285 , cortisol , procalcitonin , P01375 , IL-1 receptor antagonist , P05112 , P05231 , macrophage inflammatory protein-1alpha , macrophage inflammatory protein-1beta , monocyte chemoattractant protein-1 ( P13500 ) , interferon-inducible protein 10 , and P15692 . In vitro , oxytocin had no impact on LPS effects in releasing P01375 , P05231 , and P13500 in monocytes and peripheral blood mononuclear cells from healthy human donors . In summary , oxytocin decreases the neuroendocrine and cytokine activation caused by bacterial endotoxin in men , possibly due to the pharmacological modulation of the cholinergic anti-inflammatory pathway . DB00107 might be a candidate for the therapy of inflammatory diseases and conditions associated with high cytokine and P15692 levels .",
+    "Acidic pH induces topoisomerase II-mediated DNA damage . Acidic pH plays an important role in various pathophysiological states and has been demonstrated to be carcinogenic in animal models . Recent studies have also implicated acidic pH in the development of preneoplastic Barrett 's esophagus in human . However , little is known about the molecular mechanism underlying acidic pH-induced carcinogenesis . In the current study , we show that acidic pH , like the topoisomerase II ( P11388 ) poison DB00773 ( demethylepipodophyllotoxin ethylidene-beta-D-glucoside ) , induces tumors in 9,10-dimethyl-1,2-benzanthracene(DMBA)-initiated mice . The following studies in tissue culture models have suggested that acidic pH acts like a P11388 poison to induce P11388 -mediated DNA damage : ( i ) acidic pH induces P11388 -dependent DNA damage signals as evidenced by up-regulation of p53 and DB00133 -139 phosphorylation of P16104 [ a substrate for ataxia telangiectasia mutated ( Q13315 ) Q13315 and Rad3-related ( ATR ) kinases ] ; ( ii ) acidic pH-induced cytotoxicity in tumor cells is reduced in P11388 -deficient cells ; ( iii ) acidic pH increases the mutation frequency of the hypoxanthine phosphoribosyl transferase ( P00492 ) gene in a P11388 -dependent manner ; and ( iv ) acidic pH induces reversible P11388 -mediated DNA strand breaks in vitro . We discuss the possibility that P11388 -mediated DNA damage may contribute to acidic pH-induced carcinogenesis .",
+    "Greglist : a database listing potential G-quadruplex regulated genes . The double helix is a conformation that genomic DNA usually assumes ; under certain conditions , however , guanine-rich DNA sequences can form a four-stranded structure , G-quadruplex , which is found to play a role in regulating gene expression . Indeed , it has been demonstrated that the G-quadruplex formed in the c-MYC promoter suppresses its transcriptional activity . Recent studies suggest that G-quadruplex motifs ( GQMs ) are enriched in human gene promoters . To facilitate the research of G-quadruplex , we have constructed Greglist , a database listing potentially G-quadruplex regulated genes . Greglist harbors genes that contain promoter GQMs from genomes of various species , including humans , mice , rats and chickens . Many important genes are found to contain previously unreported promoter GQMs , such as Q13315 , Q92934 , P31749 , LEPR , P25874 , P02649 , O94907 , P19544 , P30291 , P04628 and O15516 . Furthermore , we find that not only protein coding genes , 126 human microRNAs also contain promoter GQMs . Greglist therefore provides candidates for further studying G-quadruplex functions and is freely available at http://tubic.tju.edu.cn/greglist .",
+    "TGF-β1-ROS- Q13315 -CREB signaling axis in macrophage mediated migration of human breast cancer MCF7 cells . Macrophages in the tumor microenvironment play an important role in tumor cell survival . They influence the tumor cell to proliferate , invade into surrounding normal tissues and metastasize to local and distant sites . In this study , we evaluated the effect of conditioned medium from monocytes and macrophages on growth and migration of breast cancer cells . Macrophage conditioned medium ( MϕCM ) containing elevated levels of cytokines P01375 -α , IL-1β and P05231 had a differential effect on non-invasive ( MCF7 ) and highly invasive ( MDA-MB-231 ) breast cancer cell lines . MϕCM induced the secretion of TGF-β1 in MCF7 cells . This was associated with apoptosis in a fraction of cells and generation of reactive oxygen and nitrogen species ( ROS and RNS ) and DNA damage in the remaining cells . This , in turn , increased expression of DB02527 response element binding protein ( CREB ) and vimentin resulting in migration of cells . These effects were inhibited by neutralization of P01375 -α , IL-1β and P05231 , inhibition of ROS and RNS , DNA damage and siRNA mediated knockdown of Q13315 . In contrast , MDA-MB-231 cells which had higher basal levels of pCREB were not affected by MϕCM . In summary , we have found that pro-inflammatory cytokines secreted by macrophages induce TGF-β1 in tumor cells , which activate pCREB signaling , epithelial-mesenchymal-transition ( EMT ) responses and enhanced migration .",
+    "[ Moclobemide ( DB01171 ) , the first P21397 -inhibitor : really something new ? ] .",
+    "Topoisomerase II-mediated DNA cleavage and mutagenesis activated by nitric oxide underlie the inflammation-associated tumorigenesis . AIMS : Both cancer-suppressing and cancer-promoting properties of reactive nitrogen and oxygen species ( RNOS ) have been suggested to play a role in tumor pathology , particularly those activities associated with chronic inflammation . Here , we address the impact of nitric oxide ( NO ) on the induction of DNA damage and genome instability with a specific focus on the involvement of topoisomerase II ( P11388 ) . We also investigate the contribution of NO to the formation of skin melanoma in mice . RESULTS : Similar to the P11388 -targeting drug , etoposide ( DB00773 ) , the NO-donor , S-nitrosoglutathione ( GSNO ) , induces skin melanomas formation in 7,12-dimethyl- benz[a]anthracene ( DMBA ) -initiated mice . To explore the mechanism(s) underlying this NO-induced tumorigenesis , we use a co-culture model system to demonstrate that inflamed macrophages with inducible NO synthase ( P35228 ) expression cause γ- P16104 activation , p53 phosphorylation , and chromosome DNA breaks in the target cells . Inhibitor experiments revealed that NO and P11388 isozymes are responsible for the above described cellular phenotypes . Notably , NO , unlike DB00773 , preferentially induces the formation of TOP2β cleavable complexes ( TOP2βcc ) in cells . Moreover , GSNO induced P11388 -dependent DNA sequence rearrangements and cytotoxicity . Furthermore , the incidences of GSNO- and DB00773 -induced skin melanomas were also observed to be lower in the skin-specific top2β-knockout mice . Our results suggest that P11388 isozymes contribute to NO-induced mutagenesis and subsequent cancer development during chronic inflammation . INNOVATION AND CONCLUSIONS : We provide the first experimental evidence for the functional role of P11388 in NO-caused DNA damage , mutagenesis , and carcinogenesis . Notably , these studies contribute to our molecular understanding of the cancer-promoting actions of RNOS during chronic inflammation .",
+    "DB00072 has opposing effects on SN-38-induced double-strand breaks and cytotoxicity in P04626 -positive gastric cancer cells depending on administration sequence . AIM : We investigated the effects of trastuzumab , an anti- P04626 humanized monoclonal antibody , on DNA breaks induced by SN-38 , a topoisomerase-1 inhibitor , in gastric cancer cell lines positive or negative for P04626 expression . MATERIALS AND METHODS : NCI-N87 ( P04626 + ) and MKN74 ( P04626 - ) cells were exposed to SN-38 in the presence or absence of trastuzumab . DB00072 was added either prior to or after SN-38 . Effects of trastuzumab on the induction of gamma- P16104 , a marker of DNA double-strand breaks , the cytotoxicity of SN-38 and cell cycle progression were determined . RESULTS : When trastuzumab was administered following SN-38 , it increased γ P16104 levels and cytotoxicity of SN-38 in NCI-N87 cells , but not in MKN74 cells . In contrast , pretreatment with trastuzumab reduced SN-38-induced γ P16104 expression and cytotoxicity of SN-38 in NCI-N87 cells , but not in MKN74 cells . DB00072 delayed cell cycle progression in NCI-N87 cells only . CONCLUSION : DB00072 has opposing effects on SN-38-induced double-strand breaks and cytotoxicity depending on the order of administration of the two agents .",
+    "Upregulation of cell-surface-associated plasminogen activation in cultured keratinocytes by interleukin-1 beta and tumor necrosis factor-alpha . Keratinocytes synthesize and secrete urokinase-type plasminogen activator ( uPA ) which is bound in an autocrine manner to a specific receptor ( uPA-R ) at the keratinocyte surface . P00747 that is also bound to specific membrane binding sites is readily activated by uPA-R-bound uPA . Thus , plasmin is provided for proteolysis of pericellular glycoproteins . The expression of uPA and the uPA-R is confined to migrating keratinocytes during epidermal wound healing , rather than to keratinocytes of the normal epidermis . The regulatory factors of uPA/uPA-R expression in keratinocytes remained largely elusive . Proinflammatory cytokines , such as tumor necrosis factor-alpha ( P01375 ) or interleukin-1 beta ( P01584 ) , are present in epidermal wounds . We have therefore tested P01584 and P01375 for their influence on surface-associated plasminogen activation in a human keratinocyte cell line ( HaCaT ) as well as in primary cultures of normal human epidermal keratinocytes . Both cytokines induced the secretion of uPA into the culture supernatants and a concomitant increase in uPA activity as well as in uPA and uPA-R antigen at the cell surface . The increase was preceded by an increase in specific mRNA . The induction was accompanied by an accelerated uPA-dependent and plasmin-mediated detachment of HaCaT cells from the culture substratum . Taken together , the proinflammatory cytokines P01584 and P01375 induced a coordinated increase in uPA and uPA-R as well as increased pericellular plasmin-mediated proteolysis in human epidermal keratinocytes . This function might be an element of the molecular cell biological events during epidermal wound healing .",
+    "Sustained vascular endothelial growth factor delivery enhances angiogenesis and perfusion in ischemic hind limb . PURPOSE : We hypothesized that sustained delivery of vascular endothelial growth factor ( P15692 ) using a polymer [ 85:15 poly(lactide-co-glycolide) ( P00747 ) ] would enhance angiogenesis and improve perfusion of ischemic tissue . METHODS : C57BL/6J mice ( n = 20/group ) underwent unilateral hind limb ischemia surgery and were randomized to groups of no scaffold implantation ( 0-Implant ) , unloaded scaffold implantation ( Empty- P00747 ) , or implantation of scaffolds incorporating 3 microg of VEGF165 ( P00747 - P15692 ) . Endpoints included laser Doppler perfusion imaging ( LDPI , ischemic/nonischemic limb , % ) , local vessel counts , immunohistochemistry for CD31 , and alpha-smooth muscle actin . In vitro release kinetics of P15692 from P00747 was also measured . RESULTS : P00747 - P15692 resulted in improved lower extremity perfusion vs. controls as measured by LDPI % at 7 , 14 , 21 , and 28 days ( p < 0.05 ) . P00747 - P15692 was associated with significantly greater percentage of vessels staining for CD31 and alpha-smooth muscle actin compared to the Empty- P00747 or 0-Implant ( p < 0.05 for both ) . CONCLUSIONS : The P00747 - P15692 scaffolds resulted in sustained P15692 delivery , improved tissue perfusion , greater capillary density , and more mature vasculature compared to the controls . The sustained-release P00747 polymer vehicle is a promising delivery system for therapeutic neovascularization applications .",
+    "Influence of immunomodulatory drugs on the cytotoxicity induced by monoclonal antibody 17-1A and interleukin-2 . Patients treated with monoclonal antibodies and cytokines for cancer receive often co-medication , which may influence treatment efficacy . Therefore , we investigated with a flowcytometric cytotoxicity assay the effect of several immunomodulatory drugs on antibody dependent cellular cytotoxicity ( ADCC ) , interleukin-2 ( P60568 ) induced cytotoxicity and P60568 -induced-ADCC . We found that dexamethasone markedly inhibited the P60568 induced cytotoxicity and the P60568 -induced-ADCC . DB00904 , a P46098 serotonin receptor antagonist augmented significantly ADCC . Clemastine , a histamine type-2 receptor antagonist augmented the P60568 -induced-ADCC . The P01375 antagonist thalidomide suppressed ADCC whereas pentoxifylline proved to be ineffective . Other tested drugs namely ibuprofen and indomethacin , both prostaglandin E2 antagonists , cimetidine a histamine type-2 receptor antagonist , the opioid pethidine , prostaglandin E2 and histamine exerted minor effects or had no influence on the tested parameters . We conclude that glucocorticosteroids should be avoided with monoclonal antibody and cytokine treatment . According to our in vitro data the other drugs tested did not have a negative impact on cellular cytotoxicity and ADCC .",
+    "Signalling pathways involved in retinal endothelial cell proliferation induced by advanced glycation end products : inhibitory effect of gliclazide . AIM : We have previously demonstrated that advanced glycation end products ( AGEs ) stimulate bovine retinal endothelial cell ( BREC ) proliferation through induction of vascular endothelial growth factor ( P15692 ) production by these cells . We have also shown that gliclazide , a sulfonylurea which decreases oxidative stress , inhibits this effect . The aim of the present study was to characterize the signalling pathways involved in P51606 -induced BREC proliferation and P15692 production and mediating the inhibitory effect of gliclazide on these biological events . METHODS : BRECs were treated or not treated with AGEs in the presence or absence of gliclazide , antioxidants , protein kinase C ( PKC ) , mitogen-activated protein kinase ( MAPK ) or nuclear factor-kappaB ( NF-kappaB ) inhibitors . BREC proliferation was assessed by measuring [ 3H ] -thymidine incorporation into DNA . Activation of PKC , MAPK and NF-kappaB signal transduction pathways and determination of P15692 expression were assessed by Western blot analysis using specific antibodies . MAPK activity was also determined by an in vitro kinase assay . RESULTS : Treatment of BRECs with AGEs significantly increased cell proliferation and P15692 expression . AGEs induced P05771 translocation , extracellular signal-regulated protein kinase 1/2 and NF-kappaB activation in these cells . Pharmacological inhibition of these signalling pathways abolished P51606 effects on cell proliferation and P15692 expression . Exposure of BRECs to gliclazide or antioxidants such as vitamin E or N-acetyl-l-cysteine resulted in a significant decrease in P51606 -induced activation of PKC- , MAPK- and NF-kappaB-signalling pathways . CONCLUSIONS : Our results demonstrate the involvement of PKC , MAPK and NF-kappaB in P51606 -induced BREC proliferation and P15692 expression . DB01120 inhibits BREC proliferation by interfering with these intracellular signal transduction pathways .",
+    "Growth of V79 cells as xenograft tumors promotes multicellular resistance but does not increase spontaneous or radiation-induced mutant frequency . A Chinese hamster V79 xenograft model was developed to determine whether cells subjected to a hypoxic tumor microenvironment would be more likely to undergo mutation at the P00492 locus . V79-171b cells stably transfected with P15692 and EGFP were grown subcutaneously in immunodeficient NOD/ SCID mice . V79-VE tumors were characterized for host cell infiltration , doubling time , hypoxic fraction , vascular perfusion , and response to ionizing radiation . When irradiated in vitro , the mutant frequency for a given surviving fraction did not differ for cells grown in vivo or in vitro . Similar results were obtained using HCT116 human colorectal carcinoma cells grown as xenografts . However , V79-VE cells grown as xenografts were significantly more resistant to killing than monolayers . The background mutant frequency and the radiation-induced mutant frequency did not differ for tumor cells close to or distant from blood vessels . Similarly , tumor cells from well-perfused regions showed the same rate of strand break rejoining and the same rate of loss of phosphorylated histone P16104 as cells sorted from poorly perfused regions . Therefore , deleterious effects of the tumor microenvironment on DNA repair efficiency or mutation induction could not be demonstrated in these tumors . Rather , development of multicellular resistance in V79-VE tumors acted to reduce mutant frequency for a given dose of radiation .",
+    "Variants of dopamine and serotonin candidate genes as predictors of response to risperidone treatment in first-episode schizophrenia . AIMS : Abnormalities in dopaminergic and serotonergic transmission systems are thought to be involved in the pathophysiology of schizophrenia and the mechanisms underlying the therapeutic effects of antipsychotics . We conducted a pharmacogenetic study to evaluate whether variants in dopamine-related genes ( P21728 - P21918 , P31749 and GSK3beta ) and serotonin receptor genes ( P08908 , P28222 , P28221 , P28223 , P28335 , P50406 and P34969 ) can be used to predict the efficacy of risperidone treatment for schizophrenia . MATERIALS & METHODS : A total of 120 first-episode neuroleptic-naive schizophrenia patients were treated with risperidone monotherapy for 8 weeks and clinical symptoms were evaluated by the Positive and Negative Syndrome Scale . RESULTS : Among the 30 variants that we examined , two SNPs in P14416 ( -241A > G [ rs1799978 ] and TaqIA [ rs1800497 ] ) and two SNPs in P31749 ( P31749 -SNP1 [ rs3803300 ] and P31749 -SNP5 [ rs2494732 ] ) were significant predictors of treatment response to risperidone . CONCLUSION : These data suggest that the SNPs in P14416 and P31749 may influence the treatment response to risperidone in schizophrenia patients .",
+    "The P28335 receptor agonist lorcaserin reduces nicotine self-administration , discrimination , and reinstatement : relationship to feeding behavior and impulse control . DB04871 ( ( 1R ) -8-chloro-1-methyl-2,3,4,5-tetrahydro-1H-3-benzazepine HCl ) is a selective 5-HT(2C) receptor agonist with clinical efficacy in phase-III obesity trials . Based on evidence that this drug class also affects behaviors motivated by drug reinforcement , we compared the effect of lorcaserin on behavior maintained by food and nicotine reinforcement , as well as the stimulant and discriminative stimulus properties of nicotine in the rat . Acutely administered lorcaserin ( 0.3-3 mg/kg , subcutaneous ( SC ) ) dose dependently reduced feeding induced by 22-h food deprivation or palatability . Effects up to 1 mg/kg were consistent with a specific effect on feeding motivation . DB04871 ( 0.6-1 mg/kg , SC ) reduced operant responding for food on progressive and fixed ratio schedules of reinforcement . In this dose range lorcaserin also reversed the motor stimulant effect of nicotine , reduced intravenous self-administration of nicotine , and attenuated the nicotine cue in rats trained to discriminate nicotine from saline . DB04871 also reduced the reinstatement of nicotine-seeking behavior elicited by a compound cue comprising a nicotine prime and conditioned stimulus previously paired with nicotine reinforcement . DB04871 did not reinstate nicotine-seeking behavior or substitute for a nicotine cue . Finally , lorcaserin ( 0.3-1 mg/kg ) reduced nicotine-induced increases in anticipatory responding , a measure of impulsive action , in rats performing the five-choice serial reaction time task . Importantly , these results indicate that lorcaserin , and likely other selective 5-HT(2C) receptor agonists , similarly affect both food- and nicotine-motivated behaviors , and nicotine-induced impulsivity . Collectively , these findings highlight a therapeutic potential for 5-HT(2C) agonists such as lorcaserin beyond obesity into addictive behaviors , such as nicotine dependence ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB00773 is etoposide, a topoisomerase II inhibitor.\nDB00773 induces DNA double-strand breaks by stabilizing topoisomerase II-DNA cleavage complexes.\nDB00773 is a known substrate for DNA topoisomerase II (P11388).\nDB00773 is used in studies to investigate the effects of topoisomerase II inhibition on DNA damage and cytotoxicity.\nDB00773 is associated with increased sensitivity in yeast cells overexpressing P11388.\nDB00773 is also used in studies involving DNA damage markers such as γ-P16104.\nDB00773 is a known topoisomerase II poison that causes DNA strand breaks.\nDB00773 is used in combination with other agents like trastuzumab (DB00072) in studies on gastric cancer cells.\nDB00773 is used in studies on acid pH-induced DNA damage, where it acts similarly to acidic pH.\nDB00773 is used in studies on nitric oxide-induced DNA damage, where it induces TOP2β cleavable complexes.\nDB00773 is used in studies on amsacrine hypersensitivity in yeast overexpressing P11388.\nDB00773 is used in studies on the inhibition of topoisomerase II-mediated DNA cleavage.\nDB00773 is used in studies on the mutagenic effects of topoisomerase II inhibition.\nDB00773 is used in studies on the role of topoisomerase II in inflammation-associated tumorigenesis.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell cycle progression.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on apoptosis.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on DNA repair.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on gene expression.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell proliferation.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on tumor growth.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on metastasis.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on angiogenesis.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on inflammation.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on oxidative stress.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on DNA methylation.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on epigenetic modifications.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on chromatin remodeling.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on transcription.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on translation.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on protein degradation.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell signaling.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell adhesion.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell migration.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell invasion.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell differentiation.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell senescence.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell death.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on cell cycle arrest.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on DNA replication.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on DNA repair.\nDB00773 is used in studies on the effects of topoisomerase II inhibition on DNA damage response.\nDB007",
+  "predicted_answer": null,
+  "claims": [
+    "DB00773 is etoposide, a topoisomerase II inhibitor",
+    "DB00773 induces DNA double-strand breaks by stabilizing topoisomerase II-DNA cleavage complexes",
+    "DB00773 is a known substrate for DNA topoisomerase II (P11388)",
+    "DB00773 is used in studies to investigate the effects of topoisomerase II inhibition on DNA damage and cytotoxicity",
+    "DB00773 is associated with increased sensitivity in yeast cells overexpressing P11388",
+    "DB00773 is also used in studies involving DNA damage markers such as γ-P16104",
+    "DB00773 is a known topoisomerase II poison that causes DNA strand breaks",
+    "DB00773 is used in combination with other agents like trastuzumab (DB00072) in studies on gastric cancer cells",
+    "DB00773 is used in studies on acid pH-induced DNA damage, where it acts similarly to acidic pH",
+    "DB00773 is used in studies on nitric oxide-induced DNA damage, where it induces TOP2β cleavable complexes",
+    "DB00773 is used in studies on amsacrine hypersensitivity in yeast overexpressing P11388",
+    "DB00773 is used in studies on the inhibition of topoisomerase II-mediated DNA cleavage",
+    "DB00773 is used in studies on the mutagenic effects of topoisomerase II inhibition",
+    "DB00773 is used in studies on the role of topoisomerase II in inflammation-associated tumorigenesis",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell cycle progression",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on apoptosis",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA repair",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on gene expression",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell proliferation",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on tumor growth",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on metastasis",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on angiogenesis",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on inflammation",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on oxidative stress",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA methylation",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on epigenetic modifications",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on chromatin remodeling",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on transcription",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on translation",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on protein degradation",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell signaling",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell adhesion",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell migration",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell invasion",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell differentiation",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell senescence",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell death",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell cycle arrest",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA replication",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA repair",
+    "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA damage response",
+    "DB007"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB00773 is etoposide, a topoisomerase II inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB00773 induces DNA double-strand breaks by stabilizing topoisomerase II-DNA cleavage complexes",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00773 is a known substrate for DNA topoisomerase II (P11388)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00773 is used in studies to investigate the effects of topoisomerase II inhibition on DNA damage and cytotoxicity",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00773 is associated with increased sensitivity in yeast cells overexpressing P11388",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB00773 is also used in studies involving DNA damage markers such as γ-P16104",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB00773 is a known topoisomerase II poison that causes DNA strand breaks",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB00773 is used in combination with other agents like trastuzumab (DB00072) in studies on gastric cancer cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB00773 is used in studies on acid pH-induced DNA damage, where it acts similarly to acidic pH",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB00773 is used in studies on nitric oxide-induced DNA damage, where it induces TOP2β cleavable complexes",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00773 is used in studies on amsacrine hypersensitivity in yeast overexpressing P11388",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00773 is used in studies on the inhibition of topoisomerase II-mediated DNA cleavage",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00773 is used in studies on the mutagenic effects of topoisomerase II inhibition",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB00773 is used in studies on the role of topoisomerase II in inflammation-associated tumorigenesis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell cycle progression",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on apoptosis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA repair",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on gene expression",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell proliferation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on tumor growth",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on metastasis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on angiogenesis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C23",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on inflammation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C24",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on oxidative stress",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C25",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA methylation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C26",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on epigenetic modifications",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C27",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on chromatin remodeling",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C28",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on transcription",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C29",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on translation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C30",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on protein degradation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C31",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell signaling",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C32",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell adhesion",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C33",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell migration",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C34",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell invasion",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C35",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell differentiation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C36",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell senescence",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C37",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell death",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C38",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on cell cycle arrest",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C39",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA replication",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C40",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA repair",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C41",
+      "text": "DB00773 is used in studies on the effects of topoisomerase II inhibition on DNA damage response",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C42",
+      "text": "DB007",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

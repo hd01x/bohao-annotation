@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__2b73dae1804aae94e1ba",
+  "sample_id": "2b73dae1804aae94e1ba",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are people more likely than normal to get sunburn at Burning Man?",
+  "gold_answer": "yes",
+  "context": [
+    "Burning Man often attracts lots of young people who are typically wearing minimal clothing due to the weather and for style. ",
+    "Burning Man festivities occur in the hot summer sun and are often not in shaded areas."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBurning Man takes place in the hot summer sun.\nThe event occurs in areas with little to no shade.\nParticipants often wear minimal clothing due to the heat and personal style.\nMinimal clothing exposes more skin to direct sunlight.\nIncreased skin exposure to intense sunlight raises the risk of sunburn.\nPeople at Burning Man are more likely than normal to get sunburn.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Burning Man takes place in the hot summer sun",
+    "The event occurs in areas with little to no shade",
+    "Participants often wear minimal clothing due to the heat and personal style",
+    "Minimal clothing exposes more skin to direct sunlight",
+    "Increased skin exposure to intense sunlight raises the risk of sunburn",
+    "People at Burning Man are more likely than normal to get sunburn"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Burning Man takes place in the hot summer sun",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The event occurs in areas with little to no shade",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Participants often wear minimal clothing due to the heat and personal style",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Minimal clothing exposes more skin to direct sunlight",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Increased skin exposure to intense sunlight raises the risk of sunburn",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "People at Burning Man are more likely than normal to get sunburn",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

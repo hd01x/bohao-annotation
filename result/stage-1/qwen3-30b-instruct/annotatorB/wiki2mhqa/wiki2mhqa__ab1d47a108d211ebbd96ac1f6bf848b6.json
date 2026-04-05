@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__ab1d47a108d211ebbd96ac1f6bf848b6",
+  "sample_id": "ab1d47a108d211ebbd96ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Are both Caracu River and South Fork Rogue River located in the same country?",
+  "gold_answer": "no",
+  "context": [
+    "The Middle Fork Rogue River is a tributary of the South Fork Rogue River in the U.S. state of Oregon. It begins in Klamath County in the Sky Lakes Wilderness of the Cascade Range and flows generally northwest through the Rogue River – Siskiyou National Forest to meet the South Fork south of Prospect. The Middle Fork enters the South Fork about from the South Fork's confluence with the Rogue River.",
+    "The Stuart River is a river located in Minnesota, in the United States.",
+    "The Dee River is a river located in Central Queensland, Australia.",
+    "The Caracu River is a river of Paraná state in southern Brazil.",
+    "Alder Creek is a river located in Siskiyou County, California.",
+    "The Bowen River is a river located in North Queensland, Australia.",
+    "The Don River is a river located in North Queensland, Australia.",
+    "The Rogue River in the U.S. state of Oregon begins at Boundary Springs on the border between Klamath and Douglas counties near the northern edge of Crater Lake National Park. The Rogue River flows generally west for from the Cascade Range through the Rogue River – Siskiyou National Forest and the Klamath Mountains to the Pacific Ocean at Gold Beach. Communities along its course include Union Creek, Prospect, Trail, Shady Cove, Gold Hill, and Rogue River, all in Jackson County; Grants Pass, and Galice in Josephine County, and Agness, Wedderburn and Gold Beach in Curry County. Significant tributaries include the South Fork Rogue River, Elk Creek, Bear Creek, the Applegate River, and the Illinois River. Arising at above sea level, the river loses more than in elevation by the time it reaches the Pacific. Of the river's total length,, or about 58 percent, is designated as National Wild and Scenic River – part on the upper Rogue and part on the lower Rogue. The Rogue is one of only three rivers that start in or east of the Cascade Mountain Range in Oregon and reach the Pacific Ocean. The others are the Umpqua River and Klamath River. These three Southern Oregon rivers drain the mountains south of the Willamette Valley. The Willamette River drains rivers to the north into the Columbia River, which starts in British Columbia rather than Oregon.",
+    "The South Fork Spring River( commonly South Fork of the Spring River or simply South Fork River) is a tributary of the Spring River, roughly long, in southern Missouri and northern Arkansas in the United States. The river flows through the Salem Plateau of the Ozarks and it is part of the Spring River Tributaries Watershed. The South Fork rises in Howell County northeast of the unincorporated community of South Fork and southwest of West Plains. The river flows generally southeast from Howell County through Fulton County before joining with the Spring River in Sharp County west of Hardy.",
+    "The South Fork Rogue River is a tributary of the Rogue River in the U.S. state of Oregon. Rising in the Sky Lakes Wilderness in the Cascade Range, it flows generally northeast through the Rogue River – Siskiyou National Forest to meet the Rogue River downstream of Prospect and slightly upstream of Lost Creek Lake."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Caracu River is located in Paraná state in southern Brazil.\nThe South Fork Rogue River is located in the U.S. state of Oregon.\nBrazil and the United States are different countries.\nThe Caracu River and the South Fork Rogue River are not located in the same country.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Caracu River is located in Paraná state in southern Brazil",
+    "The South Fork Rogue River is located in the U.S. state of Oregon",
+    "Brazil and the United States are different countries",
+    "The Caracu River and the South Fork Rogue River are not located in the same country"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Caracu River is located in Paraná state in southern Brazil",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The South Fork Rogue River is located in the U.S. state of Oregon",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Brazil and the United States are different countries",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The Caracu River and the South Fork Rogue River are not located in the same country",
+      "claim_type": "DR"
+    }
+  ]
+}

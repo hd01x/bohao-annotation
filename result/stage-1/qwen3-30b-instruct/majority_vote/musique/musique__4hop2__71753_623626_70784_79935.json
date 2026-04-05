@@ -1,0 +1,166 @@
+{
+  "uid": "musique__4hop2__71753_623626_70784_79935",
+  "sample_id": "4hop2__71753_623626_70784_79935",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "When was the region that lies to the north of what where Israel is located and the body of water where Kharg Island is found created?",
+  "gold_answer": "1930",
+  "context": [
+    "The Duncan Islands are a group of islands in the Torres Strait Islands archipelago, located northwest of the Bramble Channel of Torres Strait in Queensland, Australia. The islands are situated north of Thursday Island and approximately southwest of Badu Island. The Duncan Islands are located within the Torres Strait Island Region local government area.",
+    "Kharg (; also Romanized as Khārk) is a city in and capital of Kharg District, in Bushehr County, Bushehr Province, Iran. At the 2006 census, its population was 8,196, in 1,963 families. Kharg is located on Kharg Island in the Persian Gulf.",
+    "North Island College (NIC) is a community college located primarily on Vancouver Island, British Columbia, Canada. NIC facilities include four campuses and three centres serving a population of 157,000 and a geographic region of 80,000 square kilometers.",
+    "The Wapizagonke Lake is one of the bodies of water located the sector \"Lac-Wapizagonke\", in the city of Shawinigan, in the La Mauricie National Park, in the region of Mauricie, in Quebec, in Canada.",
+    "Ami'oz () is a moshav in southern Israel. Located in the Hevel Eshkol area of the north-western Negev desert near the border with the Gaza Strip, it falls under the jurisdiction of Eshkol Regional Council. In it had a population of .",
+    "Gazit () is a kibbutz in northern Israel. Located in the Galilee, it falls under the jurisdiction of Jezreel Valley Regional Council. In it had a population of .",
+    "For much of the region's history a patchwork of tribal rulers controlled most of the area. The Al Saud (the Saudi royal family) emerged as minor tribal rulers in Najd in central Arabia. From the mid-18th century, imbued with the religious zeal of the Wahhabi Islamic movement, they became aggressively expansionist. Over the following 150 years, the extent of the Al Saud territory fluctuated. However, between 1902 and 1927, the Al Saud leader, Abdulaziz, carried out a series of wars of conquest which resulted in his establishing the Kingdom of Saudi Arabia in 1930.",
+    "Charlton Island is an uninhabited island located in James Bay, Qikiqtaaluk Region, Nunavut, Canada. Located northwest of Rupert Bay, it has an area of .",
+    "Whisler Island is an uninhabited island within Qikiqtaaluk Region, Nunavut, Canada. An island within an island, it is located in Lake Hazen on Ellesmere Island within Quttinirpaaq National Park. It lies opposite Wagon Hill.",
+    "Watson Island is an island in the Queen Charlotte Strait region of the Central Coast of British Columbia, Canada, located to the north of North Broughton Island in the entrance to Mackenzie Sound.",
+    "Silver Lake is a water body located in Carroll County in eastern New Hampshire, United States, in the town of Madison. The village of Silver Lake within Madison lies at the north end of the lake. Water from Silver Lake flows via the West Branch, through the Ossipee Pine Barrens to Ossipee Lake and ultimately to the Saco River in Maine.",
+    "Scott Island is an uninhabited island in the Qikiqtaaluk Region of Nunavut, Canada. It is located in Baffin Bay, off the eastern coast of Baffin Island, in the middle of Scott Inlet, north of the confluence of Clark Fiord and Gibbs Fiord which embrace Sillem Island.",
+    "East Redonda Island is a coastal island in British Columbia, Canada, part of the Discovery Islands archipelago. It lies just to the north of Desolation Sound Marine Park, which is located off the north end of the Malaspina Peninsula at the mouth of Toba Inlet within Electoral Area C of the Strathcona Regional District.",
+    "Georgian Bay (French: Baie Georgienne) is a large bay of Lake Huron, located entirely within Ontario, Canada. The main body of the bay lies east of the Bruce Peninsula and Manitoulin Island. To its northwest is the North Channel.",
+    "George Island Light is a lighthouse located on George Island that lies in the middle of the North Basin of Lake Winnipeg in the Canadian province of Manitoba. It is located approximately north from Winnipeg, and approximately halfway between the shore communities of Grand Rapids and Poplar River.",
+    "Dorset Island or Cape Dorset Island is one of the Canadian Arctic islands located in Hudson Strait, Nunavut, Canada. It lies off the Foxe Peninsula area of southwestern Baffin Island in the Qikiqtaaluk Region. It is serviced by an airport and a harbour.",
+    "Israel (/ ˈɪzreɪəl /; Hebrew: יִשְׂרָאֵל ‎, Arabic: إِسْرَائِيل ‎), officially the State of Israel (Hebrew: מְדִינַת יִשְׂרָאֵל ‎, Arabic: دَوْلَة إِسْرَائِيل ‎), is a country in the Middle East, on the southeastern shore of the Mediterranean Sea and the northern shore of the Red Sea. It has land borders with Lebanon to the north, Syria to the northeast, Jordan on the east, the Palestinian territories of the West Bank and Gaza Strip to the east and west, respectively, and Egypt to the southwest. The country contains geographically diverse features within its relatively small area. Israel's economy and technology center is Tel Aviv, while its seat of government and proclaimed capital is Jerusalem, although the state's sovereignty over East Jerusalem is not recognised internationally. The population of Israel was estimated in 2017 to be 8,777,580 people, of whom 74.7% were Jewish, 20.8% Arab and 4.5% others.",
+    "Tzelafon () is a moshav in central Israel. Located to the north of Beit Shemesh, it falls under the jurisdiction of Mateh Yehuda Regional Council. In it had a population of .",
+    "Kharg Island () is a continental island in the Persian Gulf belonging to Iran. The island is located off the coast of Iran and northwest of the Strait of Hormuz. Administered by the adjacent coastal Bushehr Province, Kharg Island provides a sea port for the export of oil and extends Iranian territorial sea claims into the Persian Gulf oil fields. Located on Kharg Island is Kharg, the only city in the Kharg District.",
+    "The Kingdom of Saudi Arabia is a country situated in Southwest Asia, the largest country of Arabia, bordering the Persian Gulf and the Red Sea, north of Yemen. Its extensive coastlines on the Persian Gulf and Red Sea provide great leverage on shipping (especially crude oil) through the Persian Gulf and Suez Canal. The kingdom occupies 80% of the Arabian Peninsula. Most of the country's boundaries with the United Arab Emirates (UAE), Oman, and the Republic of Yemen (formerly two separate countries: the Yemen Arab Republic or North Yemen; and the People's Democratic Republic of Yemen or South Yemen) are undefined, so the exact size of the country remains unknown. The Saudi government estimate is at 2,217,949 square kilometres, while other reputable estimates vary between 2,149,690 and 2,240,000 sq. kilometres. Less than 1% of the total area is suitable for cultivation, and in the early 1990s, population distribution varied greatly among the towns of the eastern and western coastal areas, the densely populated interior oases, and the vast, almost empty deserts."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe region to the north of Israel is the Levant, which includes modern-day Lebanon, Syria, and parts of Jordan and Turkey.\nThe body of water where Kharg Island is located is the Persian Gulf.\nThe Persian Gulf is a marginal sea of the Indian Ocean, bordered by Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, the United Arab Emirates, and Oman.\nThe Kingdom of Saudi Arabia was established in 1932.\nThe Kingdom of Saudi Arabia lies to the north of the Persian Gulf and includes the area adjacent to Kharg Island.\nThe region to the north of Israel and the Persian Gulf is not a single political entity but spans multiple countries.\nThe political entity that includes both the area north of Israel and the Persian Gulf is not a unified region created at a single point in time.\nThe question refers to a region that spans two distinct geographic areas with no single creation date.\nThe creation date of the region that lies to the north of Israel and the body of water where Kharg Island is found is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "The region to the north of Israel is the Levant, which includes modern-day Lebanon, Syria, and parts of Jordan and Turkey",
+    "The body of water where Kharg Island is located is the Persian Gulf",
+    "The Persian Gulf is a marginal sea of the Indian Ocean, bordered by Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, the United Arab Emirates, and Oman",
+    "The Kingdom of Saudi Arabia was established in 1932",
+    "The Kingdom of Saudi Arabia lies to the north of the Persian Gulf and includes the area adjacent to Kharg Island",
+    "The region to the north of Israel and the Persian Gulf is not a single political entity but spans multiple countries",
+    "The political entity that includes both the area north of Israel and the Persian Gulf is not a unified region created at a single point in time",
+    "The question refers to a region that spans two distinct geographic areas with no single creation date",
+    "The creation date of the region that lies to the north of Israel and the body of water where Kharg Island is found is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The region to the north of Israel is the Levant, which includes modern-day Lebanon, Syria, and parts of Jordan and Turkey",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The body of water where Kharg Island is located is the Persian Gulf",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Persian Gulf is a marginal sea of the Indian Ocean, bordered by Iran, Iraq, Kuwait, Saudi Arabia, Bahrain, Qatar, the United Arab Emirates, and Oman",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Kingdom of Saudi Arabia was established in 1932",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The Kingdom of Saudi Arabia lies to the north of the Persian Gulf and includes the area adjacent to Kharg Island",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The region to the north of Israel and the Persian Gulf is not a single political entity but spans multiple countries",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The political entity that includes both the area north of Israel and the Persian Gulf is not a unified region created at a single point in time",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "The question refers to a region that spans two distinct geographic areas with no single creation date",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "The creation date of the region that lies to the north of Israel and the body of water where Kharg Island is found is not specified",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 2,
+        "DR": 1
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "DR",
+        "annotatorC": "FC"
+      }
+    }
+  ]
+}

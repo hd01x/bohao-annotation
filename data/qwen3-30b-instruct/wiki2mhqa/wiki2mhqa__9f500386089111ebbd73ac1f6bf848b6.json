@@ -1,0 +1,35 @@
+{
+  "uid": "wiki2mhqa__9f500386089111ebbd73ac1f6bf848b6",
+  "sample_id": "9f500386089111ebbd73ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who is older than the other, Rolling In Money or A Fine, Windy Day? ",
+  "gold_answer": "Rolling In Money",
+  "context": [
+    "Albert Parker( May 11, 1885 – August 10, 1974) was an American film director, producer, screenwriter and actor. He directed 36 films between 1917 and 1938. In the early 1930s Parker left Hollywood for England where he continued to direct films and also opened an actors' agency office. One of his later clients in the 1960s was a young actress named Helen Mirren. He was born in New York City, USA, and died in London, England.",
+    "Ben Palmer is a British film and television director who is known for being the director of\" Bo' Selecta\" and\" The Inbetweeners\".",
+    "Lee Jang- ho( born May 15, 1945) is a South Korean film director and screenwriter.",
+    "A Fine, Windy Day  is a 1980 South Korean film written and directed by Lee Jang-ho.",
+    "Scott Fox is a pornographic film director who is a member of the AVN Hall of Fame.",
+    "Dan Milne is a British actor/ director who is possibly best known for his role in\" EastEnders\".",
+    "Rolling in Money is a 1934 British comedy film directed by Albert Parker and starring Isabel Jeans, Leslie Sarony and John Loder. The screenplay concerns an impoverished duchess who arranges a marriage for her daughter to a wealthy working- class London barber. It was an adaptation of the play\" Mr. Hopkinson\" by R. C. Carton.",
+    "Elliot Silverstein( born August 3, 1927, in Boston, Massachusetts) is an American director, who is best known for being the director of the movie\" Cat Ballou\"( 1965).",
+    "Rufus Norris( born 16 January 1965) is a British theatre and film director, who is currently the Artistic Director of the National Theatre.",
+    "Logan Sandler is an American writer and director who is best known for his first feature film\" Live Cargo\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAlbert Parker was born on May 11, 1885.\nAlbert Parker directed Rolling in Money, released in 1934.\nLee Jang-ho was born on May 15, 1945.\nLee Jang-ho directed A Fine, Windy Day, released in 1980.\n1885 is earlier than 1945.\nAlbert Parker is older than Lee Jang-ho.\nThe director of Rolling in Money is older than the director of A Fine, Windy Day.\nSo, the answer is Rolling in Money.\n<answer> Rolling in Money",
+  "claims": [
+    "Albert Parker was born on May 11, 1885",
+    "Albert Parker directed Rolling in Money, released in 1934",
+    "Lee Jang-ho was born on May 15, 1945",
+    "Lee Jang-ho directed A Fine, Windy Day, released in 1980",
+    "1885 is earlier than 1945",
+    "Albert Parker is older than Lee Jang-ho",
+    "The director of Rolling in Money is older than the director of A Fine, Windy Day",
+    "So, the answer is Rolling in Money"
+  ],
+  "predicted_answer": "Rolling in Money"
+}

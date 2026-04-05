@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__36ecf33a0bde11eba7f7acde48001122",
+  "sample_id": "36ecf33a0bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where did the director of film Things Behind The Sun study?",
+  "gold_answer": "UCLA School of Theater, Film and Television",
+  "context": [
+    "The Seventh Company Outdoors is a 1977 French comedy film directed by Robert Lamoureux. It is a sequel to Now Where Did the 7th Company Get to ?.",
+    "Jason Moore( born October 22, 1970) is an American director of film, theatre and television.",
+    "Now Where Did the 7th Company Get To? is a 1973 French- Italian comedy war film directed by Robert Lamoureux. The film portrays the adventures of a French Army squad lost somewhere on the front in May 1940 during the Battle of France.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "Things Behind the Sun is a 2001 film directed by Allison Anders and starring Kim Dickens and Gabriel Mann. Its title is taken from a song by Nick Drake. It was released to television by Showtime and given a limited theatrical release.",
+    "Allison Anders (born November 16, 1954) is an American independent film director whose films include \"Gas Food LodgingMi Vida Loca\" and \"Grace of My Heart\". Anders has collaborated with fellow UCLA School of Theater, Film and Television graduate Kurt Voss and has also worked as a television director. Anders' films have been shown at the Cannes International Film Festival and at the Sundance Film Festival. She has been awarded a MacArthur Genius Grant as well as a Peabody Award.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Ian Barry is an Australian director of film and TV."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThings Behind the Sun is directed by Allison Anders.\nAllison Anders is an American independent film director.\nAllison Anders graduated from the UCLA School of Theater, Film and Television.\nThe director of Things Behind the Sun studied at the UCLA School of Theater, Film and Television.\n<answer> UCLA School of Theater, Film and Television",
+  "predicted_answer": "UCLA School of Theater, Film and Television",
+  "claims": [
+    "Things Behind the Sun is directed by Allison Anders",
+    "Allison Anders is an American independent film director",
+    "Allison Anders graduated from the UCLA School of Theater, Film and Television",
+    "The director of Things Behind the Sun studied at the UCLA School of Theater, Film and Television"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Things Behind the Sun is directed by Allison Anders",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Allison Anders is an American independent film director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Allison Anders graduated from the UCLA School of Theater, Film and Television",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The director of Things Behind the Sun studied at the UCLA School of Theater, Film and Television",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__8b16280408ce11ebbd94ac1f6bf848b6",
+  "sample_id": "8b16280408ce11ebbd94ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Were Gotthilf Heinrich Ernst Muhlenberg and Todd Williams of the same nationality?",
+  "gold_answer": "yes",
+  "context": [
+    "Heinrich Ernst Peymann( 22 May 1737 – 28 January 1823) was a Danish army officer. He was the supreme commander of the Danish defense against the bombardment of Copenhagen in 1807.",
+    "Todd Williams is a singer and songwriter from Dubbo. Williams was the first indigenous winner of the Star Maker at Tamworth and won a Deadly in 2003 for Best Country Artist. His debut album\" Ten' Till Midnight\" was recorded live and was released in 2004.",
+    "Todd Michael Williams( born February 13, 1971) is a former Major League Baseball relief pitcher. He attended East Syracuse- Minoa High School graduating in 1989. He then attended Onondaga Community College before signing a professional baseball contract with the Los Angeles Dodgers in 1991. Over the course of his professional career Williams played for 10 different organizations, including all or parts of eight seasons in the Major Leagues. He is a retired 18- year professional baseball player, with eight years of Major League Baseball experience. Williams was also a member of the USA Baseball team three separate years, with the highlight of winning a Gold Medal in the 2000 Summer Olympics held in Sydney, Australia. Williams, who retired from baseball after the 2008 season, holds the all- time Minor League Baseball record for saves with 223, compiled during an 18- year professional career. A four- time Triple- A All- Star Game participant, Williams also holds the record for most career appearances by a professional member of Team USA. Williams served as bullpen closer for the 2000 United States Olympic Baseball Team during the Sydney, Australia Summer Games. That squad was the lone USA baseball team to win an Olympic gold medal during the span( 1988 – 2008) when baseball was an Olympic medal sport. Williams was a member of the 2001 American League Championship New York Yankees.",
+    "Todd Williams III( born September 11, 1977) is an American actor best known for his role as Officer Isaac Joiner on the crime drama television series\" The Chicago Code\".",
+    "Heinrich Ernst Otto\" Henner\" Henkel( 9 October 1915 – 13 January 1943) was a German tennis player during the 1930s. His biggest success was his singles title at the 1937 French Championships.",
+    "Friedrich Heinrich Ernst Graf von Wrangel( 13 April 1784 – 2 November 1877) was a\" Generalfeldmarschall\" of the Prussian Army. He was nicknamed\" Papa Wrangel\" and a member of the Baltic German noble family of Wrangel.",
+    "Heinrich Ernst Kayser( 16 April 1815 in Altona, Hamburg – 17 January 1888 in Hamburg) was a German violinist, violist, pedagogue and composer.",
+    "Gotthilf Heinrich Ludwig Hagen (3 March 1797 – 3 February 1884) was a German civil engineer who made important contributions to fluid dynamics, hydraulic engineering and probability theory.",
+    "Gotthilf Heinrich Ernst Muhlenberg( 17 November 1753 – 23 May 1815) was an American clergyman and botanist.",
+    "Heinrich Ernst Beyrich( 31 August 1815 – 9 July 1896) was a German palaeontologist."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGotthilf Heinrich Ernst Muhlenberg was an American clergyman and botanist.\nTodd Williams is a singer and songwriter from Dubbo, Australia.\nTodd Williams is identified as the first Indigenous winner of the Star Maker at Tamworth.\nThe nationality of Todd Williams is Australian.\nGotthilf Heinrich Ernst Muhlenberg was American.\nTodd Williams is not American.\nGotthilf Heinrich Ernst Muhlenberg and Todd Williams are not of the same nationality.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Gotthilf Heinrich Ernst Muhlenberg was an American clergyman and botanist",
+    "Todd Williams is a singer and songwriter from Dubbo, Australia",
+    "Todd Williams is identified as the first Indigenous winner of the Star Maker at Tamworth",
+    "The nationality of Todd Williams is Australian",
+    "Gotthilf Heinrich Ernst Muhlenberg was American",
+    "Todd Williams is not American",
+    "Gotthilf Heinrich Ernst Muhlenberg and Todd Williams are not of the same nationality"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Gotthilf Heinrich Ernst Muhlenberg was an American clergyman and botanist",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Todd Williams is a singer and songwriter from Dubbo, Australia",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Todd Williams is identified as the first Indigenous winner of the Star Maker at Tamworth",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The nationality of Todd Williams is Australian",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Gotthilf Heinrich Ernst Muhlenberg was American",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Todd Williams is not American",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Gotthilf Heinrich Ernst Muhlenberg and Todd Williams are not of the same nationality",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

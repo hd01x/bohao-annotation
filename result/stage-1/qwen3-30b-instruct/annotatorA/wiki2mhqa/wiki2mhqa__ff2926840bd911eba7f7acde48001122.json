@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__ff2926840bd911eba7f7acde48001122",
+  "sample_id": "ff2926840bd911eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the father of the director of film The Thousand Faces Of Dunjia?",
+  "gold_answer": "Yuen Siu-tien",
+  "context": [
+    "Peter Hamel( 1911–1979) was a German screenwriter and a director of film and television. He appeared as himself in the 1948 comedy\" Film Without a Title\". He is the father of the composer Peter Michael Hamel.",
+    "He is the father of the later Member of Parliament Anna Eliasson.",
+    "He is the father of manga artist Towa Oshima.",
+    "Viscount was the first Director of Railways in Japan and is known as the\" father of the Japanese railways\".",
+    "Paul Brooke( born 22 November 1944) is a retired English actor of film, television and radio. He is the father of actor Tom Brooke.",
+    "Faces of Death VI is a 1996 direct- to- video compilation of the highlights of the earlier films in the\" Faces of Death\" series. It features many of the same scenes shown in\" Faces of Death\" 1 and 4, as well as the earlier compilation\" Faces of Death V\". It begins without any opening credits, before recycling( for the third time) the sequence from\" Faces of Death\" involving the killing of a monkey which is then prepared and served to patrons of a gourmet restaurant. Also shown for the second time are the staged heart- ripping scene by African natives and the\" head in a box\" scene, both taken from\" Faces of Death IV\". John Alan Schwartz's cameo as the leader of the flesh eating cult, as well as\" The encapsulation of Samuel Berkowitz\" are also featured again, and the final credits are those from\" Faces of Death\". \" Faces of Death VI\" exists in three distinct versions: 1. The widest- known version is the one that was released\" unofficially\" by Gorgon Video in the U.S. in 1996. It features the artwork from part four reversed. It contains clips mostly from parts one and four, and has the opening credits from part one. This is the version of\" Faces of Death 6\" that was released to buy or rent on video in the U.S. 2. The second is a nearly extinct mail- order only version( which\" Fangoria\" possibly offered in the back of old issues) that is no longer available. Most outlets online with\" Faces of Death 6\" to download carry this version. It has no narration, all different footage, and the title screen reads\" FACES OF DEATH\", and then the word\" SIX\" slowly becomes imposed over the text. As stated on various sites, this version is extremely washed out. Most of the scenes are almost completely white and unwatchable. At the very end of this version the\" Gorgon Video\" bumper begins to play but is suddenly cut off. 3. The third version is part of the German version of the series. It is titled\" Gesichter Des Todes VI\" and was released in 1992 on video, and subsequently DVD, in Germany in German with no English option. This version is reportedly all different footage, with no narrator. However, it is possible it is just a different\" death\" film re-titled. Possibly\" Faces of Death: The Millennium Edition\", as the images on the back of the\" Gesichter Des Todes VI\" DVD are from some of the same footage found on\" Faces of Death: Millennium\".",
+    "The Thousand Faces of Dunjia  is a 2017 Chinese fantasy-wuxia film directed by Yuen Woo-ping; scripted and produced by Tsui Hark. It is a remake of the 1982 film \"The Miracle Fighters\" also directed by Yuen. The film stars Da Peng, Aarif Lee, Ni Ni, Wu Bai, and Zhou Dongyu. It was released in China on December 15, 2017.",
+    "He was the father of Obata Masamori.",
+    "Yuen Woo-ping (alias: Yuen Wo-ping; born 1945) is a Hong Kong martial arts choreographer and film director, renowned as one of the most successful and influential figures in the world of Hong Kong action cinema. He is one of the inductees on the Avenue of Stars in Hong Kong. Yuen is also a son of Yuen Siu-tien, a renowned martial arts film actor.",
+    "Ian Barry is an Australian director of film and TV."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Thousand Faces of Dunjia is a 2017 Chinese fantasy-wuxia film directed by Yuen Woo-ping.\nYuen Woo-ping is a Hong Kong martial arts choreographer and film director.\nYuen Woo-ping is the son of Yuen Siu-tien, a renowned martial arts film actor.\nThe father of the director of The Thousand Faces of Dunjia is Yuen Siu-tien.\n<answer> Yuen Siu-tien",
+  "predicted_answer": "Yuen Siu-tien",
+  "claims": [
+    "The Thousand Faces of Dunjia is a 2017 Chinese fantasy-wuxia film directed by Yuen Woo-ping",
+    "Yuen Woo-ping is a Hong Kong martial arts choreographer and film director",
+    "Yuen Woo-ping is the son of Yuen Siu-tien, a renowned martial arts film actor",
+    "The father of the director of The Thousand Faces of Dunjia is Yuen Siu-tien"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Thousand Faces of Dunjia is a 2017 Chinese fantasy-wuxia film directed by Yuen Woo-ping",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Yuen Woo-ping is a Hong Kong martial arts choreographer and film director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Yuen Woo-ping is the son of Yuen Siu-tien, a renowned martial arts film actor",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The father of the director of The Thousand Faces of Dunjia is Yuen Siu-tien",
+      "claim_type": "DR"
+    }
+  ]
+}

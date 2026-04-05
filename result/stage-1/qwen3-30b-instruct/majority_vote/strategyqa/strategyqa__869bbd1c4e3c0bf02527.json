@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__869bbd1c4e3c0bf02527",
+  "sample_id": "869bbd1c4e3c0bf02527",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could ten gallons of seawater crush a six year old?",
+  "gold_answer": "yes",
+  "context": [
+    "The average weight of a six year old is 45 pounds.",
+    "One gallon of seawater weighs slightly over 8 pounds."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA six year old weighs an average of 45 pounds.\nOne gallon of seawater weighs slightly over 8 pounds.\nTen gallons of seawater weigh slightly over 80 pounds.\n80 pounds is greater than 45 pounds.\nThe weight of ten gallons of seawater exceeds the weight of a six year old.\nTen gallons of seawater could crush a six year old.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "A six year old weighs an average of 45 pounds",
+    "One gallon of seawater weighs slightly over 8 pounds",
+    "Ten gallons of seawater weigh slightly over 80 pounds",
+    "80 pounds is greater than 45 pounds",
+    "The weight of ten gallons of seawater exceeds the weight of a six year old",
+    "Ten gallons of seawater could crush a six year old"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A six year old weighs an average of 45 pounds",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "One gallon of seawater weighs slightly over 8 pounds",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Ten gallons of seawater weigh slightly over 80 pounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "80 pounds is greater than 45 pounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The weight of ten gallons of seawater exceeds the weight of a six year old",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Ten gallons of seawater could crush a six year old",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

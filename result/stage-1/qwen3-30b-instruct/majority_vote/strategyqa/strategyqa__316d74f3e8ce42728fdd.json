@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__316d74f3e8ce42728fdd",
+  "sample_id": "316d74f3e8ce42728fdd",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Could all the unemployed people due to 1933 Great Depression fit in Tiger Stadium?",
+  "gold_answer": "no",
+  "context": [
+    "There were approximately 15 million people unemployed in 1933 due to the Great Depression.",
+    "In the 1930s Tiger Stadium had a capacity around 50,000."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThere were approximately 15 million people unemployed in 1933 due to the Great Depression.\nTiger Stadium in the 1930s had a capacity of around 50,000 people.\n15 million is greater than 50,000.\nThe number of unemployed people in 1933 exceeds the seating capacity of Tiger Stadium.\nAll the unemployed people due to the 1933 Great Depression could not fit in Tiger Stadium.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "There were approximately 15 million people unemployed in 1933 due to the Great Depression",
+    "Tiger Stadium in the 1930s had a capacity of around 50,000 people",
+    "15 million is greater than 50,000",
+    "The number of unemployed people in 1933 exceeds the seating capacity of Tiger Stadium",
+    "All the unemployed people due to the 1933 Great Depression could not fit in Tiger Stadium"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "There were approximately 15 million people unemployed in 1933 due to the Great Depression",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Tiger Stadium in the 1930s had a capacity of around 50,000 people",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "15 million is greater than 50,000",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The number of unemployed people in 1933 exceeds the seating capacity of Tiger Stadium",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "All the unemployed people due to the 1933 Great Depression could not fit in Tiger Stadium",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

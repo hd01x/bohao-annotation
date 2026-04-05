@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__8d95e7d922024a684ac0",
+  "sample_id": "8d95e7d922024a684ac0",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did the Royal Air Force fight in the Boxer Rebellion?",
+  "gold_answer": "no",
+  "context": [
+    "The Boxer Rebellion took place from 1899–1901",
+    "The Royal Air Force was formed on 1 April 1918"
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Boxer Rebellion occurred from 1899 to 1901.\nThe Royal Air Force was established on 1 April 1918.\nThe Royal Air Force did not exist during the time of the Boxer Rebellion.\nThe Royal Air Force did not fight in the Boxer Rebellion.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "The Boxer Rebellion occurred from 1899 to 1901",
+    "The Royal Air Force was established on 1 April 1918",
+    "The Royal Air Force did not exist during the time of the Boxer Rebellion",
+    "The Royal Air Force did not fight in the Boxer Rebellion"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Boxer Rebellion occurred from 1899 to 1901",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Royal Air Force was established on 1 April 1918",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Royal Air Force did not exist during the time of the Boxer Rebellion",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The Royal Air Force did not fight in the Boxer Rebellion",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

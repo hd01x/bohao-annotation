@@ -1,0 +1,113 @@
+{
+  "uid": "wiki2mhqa__3641d5c60bda11eba7f7acde48001122",
+  "sample_id": "3641d5c60bda11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where was the place of burial of Ælfgar, Earl Of Mercia's mother?",
+  "gold_answer": "Coventry",
+  "context": [
+    "The place of birth( POB) or birthplace is the place where a person was born. This place is often used in legal documents, together with name and date of birth, to uniquely identify a person. As a general rule with respect to passports, the place of birth is determined to be the country that currently has\" sovereignty\" over the actual place of birth, regardless of when the birth actually occurred. The place of birth is not necessarily the place where the parents of the new baby live. If the baby is born in a hospital in another place, that place is the place of birth. In many countries, this also means that the government requires that the birth of the new baby is registered in the place of birth. Some countries place less or no importance on the place of birth, instead using alternative geographical characteristics for the purpose of identity documents. For example, Sweden has used the concept of\" födelsehemortdomicile of birth\") since 1947. This means that the domicile of the baby's mother is the registered place of birth. The location of the maternity ward or other physical birthplace is considered unimportant. Similarly, Switzerland uses the concept of\" Heimatortlieu d'origineluogo d'origineplace of origin\" in German, French and Italian respectively). A child born to Swiss parents is automatically assigned the place of origin of the parent with the same last name, so the child either gets their mother's or father's place of origin. A child born to one Swiss parent and one foreign parent acquires the place of origin of their Swiss parent. In a Swiss passport and identity card, the holder's place of origin is stated, not their place of birth. In some countries( primarily in the Americas), the place of birth automatically determines the nationality of the baby, a practice often referred to by the Latin phrase\" jus soli\". Almost all countries outside the Americas instead attribute nationality based on the nationality( ies) of the baby's parents( referred to as\" jus sanguinis\"). There can be some confusion regarding the place of birth if the birth takes place in an unusual way: when babies are born on an airplane or at sea, difficulties can arise. The place of birth of such a person depends on the law of the countries involved, which include the nationality of the plane or ship, the nationality( ies) of the parents and/ or the location of the plane or ship( if the birth occurs in the territorial waters or airspace of a country). Some administrative forms may request the applicant's\" country of birth\". It is important to determine from the requester whether the information requested refers to the applicant's\" place of birth\" or\" nationality at birth\". For US citizens born abroad who under the US Constitution acquire US citizenship at the time of birth, the nationality at birth will be USA( American), while the place of birth would be the country in which the actual birth takes place.",
+    "Ælfgar (died c. 1060) was the son of Leofric, Earl of Mercia, by his famous mother Godgifu (Lady Godiva). He succeeded to his father's title and responsibilities on the latter's death in 1057. He gained the additional title of Earl of East Anglia, but also was exiled for a time. Through the first marriage of his daughter he would become father-in-law of the Welsh king Gruffydd ap Llywelyn; a few years after his death, his daughter would become a widow and marry English King Harold.",
+    "Sarre Anglo- Saxon cemetery is a place of burial that was used in the sixth and seventh centuries CE.",
+    "\" Where Was I?\" may refer to:",
+    "Godiva, Countess of Mercia (died between 1066 and 1086), in Old English Godgifu, was an English noblewoman who, according to a legend dating at least to the 13th century, rode naked – covered only in her long hair – through the streets of Coventry to gain a remission of the oppressive taxation that her husband, Leofric, Earl of Mercia, imposed on his tenants. The name \"Peeping Tom\" for a voyeur originates from later versions of this legend in which a man named Thomas watched her ride and was struck blind or dead.",
+    "Ealdgyth(\" fl. c\". 1057– 1066), also Aldgyth or in modern English, Edith, was a daughter of Ælfgar, Earl of Mercia, the wife of Gruffudd ap Llywelyn( d. 1063), ruler of all Wales, and later the wife and queen consort of Harold Godwinson, king of England in 1066. She was described by William of Jumièges as a considerable beauty.",
+    "The Ancient Egyptian artisan Sennedjem lived in Set Maat( translated as\" The Place of Truth\"), contemporary Deir el- Medina, on the west bank of the Nile, opposite Thebes, during the reigns of Seti I and Ramesses II. Sennedjem had the title\" Servant in the Place of Truth\". He was buried along with his wife, Iyneferti, and family in a tomb in the village necropolis. His tomb was discovered January 31, 1886. When Sennedjem's tomb was found, in it there was regular furniture from his home, including a stool and a bed, which he actually used when he was alive. His titles included Servant in the Place of Truth, meaning that he worked on the excavation and decoration of the nearby royal tombs.",
+    "William Rockhill Nelson( March 7, 1841 – April 13, 1915) was a real estate developer and co-founder of The Kansas City Star in Kansas City, Missouri. He donated his estate( and home) for the establishment of the Nelson- Atkins Museum of Art. Place of burial: Mount Washington Cemetery, Independence Missouri.",
+    "Daigo's reign spanned the years from 897 through 930. He is named after his place of burial.",
+    "Motherland is the place of one's birth, the place of one's ancestors, or the place of origin of an ethnic group. Motherland may also refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nÆlfgar, Earl of Mercia, was the son of Leofric, Earl of Mercia, and his mother was Godgifu (Lady Godiva).\nGodgifu, also known as Lady Godiva, died between 1066 and 1086.\nLady Godiva is associated with Coventry, England, where the famous legend of her naked ride took place.\nThe legend and historical records place her life and death in Coventry.\nThere is no specific mention of her place of burial in the provided context.\nThe place of burial of Ælfgar, Earl of Mercia's mother is not stated.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "Ælfgar, Earl of Mercia, was the son of Leofric, Earl of Mercia, and his mother was Godgifu (Lady Godiva)",
+    "Godgifu, also known as Lady Godiva, died between 1066 and 1086",
+    "Lady Godiva is associated with Coventry, England, where the famous legend of her naked ride took place",
+    "The legend and historical records place her life and death in Coventry",
+    "There is no specific mention of her place of burial in the provided context",
+    "The place of burial of Ælfgar, Earl of Mercia's mother is not stated"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Ælfgar, Earl of Mercia, was the son of Leofric, Earl of Mercia, and his mother was Godgifu (Lady Godiva)",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Godgifu, also known as Lady Godiva, died between 1066 and 1086",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Lady Godiva is associated with Coventry, England, where the famous legend of her naked ride took place",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The legend and historical records place her life and death in Coventry",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "There is no specific mention of her place of burial in the provided context",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The place of burial of Ælfgar, Earl of Mercia's mother is not stated",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

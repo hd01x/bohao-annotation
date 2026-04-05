@@ -1,0 +1,87 @@
+{
+  "uid": "musique__4hop1__130404_59747_211319_557671",
+  "sample_id": "4hop1__130404_59747_211319_557671",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Which county shares a border with the county where the most populous city in the state where WDXQ can be found is located?",
+  "gold_answer": "Presque Isle County",
+  "context": [
+    "Tennessee (i/tɛnᵻˈsiː/) (Cherokee: ᏔᎾᏏ, Tanasi) is a state located in the southeastern United States. Tennessee is the 36th largest and the 17th most populous of the 50 United States. Tennessee is bordered by Kentucky and Virginia to the north, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, and Arkansas and Missouri to the west. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms the state's western border. Tennessee's capital and second largest city is Nashville, which has a population of 601,222. Memphis is the state's largest city, with a population of 653,450.",
+    "WDXQ (1440 AM) is a radio station licensed to Cochran, Georgia, United States. The station is currently owned by John Timms, through licensee Central Georgia Radio LLC. The station's programming is duplicated by FM translator W244CL, operating at 96.7 MHz.",
+    "Sno*Drift is a rally racing event held in Montmorency County, Michigan, annually, with headquarters in Atlanta, Michigan. The event is currently the first Rally America National Rally Championship event of the season. Currently the event is organized into three distinct rallies: the national championship event covering both days of rallying, and two regional rally events each covering one of the two days. Competitors may be entered in any or all of these events simultaneously.",
+    "Strasbourg (/ˈstræzbɜːrɡ/, French pronunciation: ​[stʁaz.buʁ, stʁas.buʁ]; Alsatian: Strossburi; German: Straßburg, [ˈʃtʁaːsbʊɐ̯k]) is the capital and largest city of the Alsace-Champagne-Ardenne-Lorraine (ACAL) region in eastern France and is the official seat of the European Parliament. Located close to the border with Germany, it is the capital of the Bas-Rhin département. The city and the region of Alsace were historically predominantly Alemannic-speaking, hence the city's Germanic name. In 2013, the city proper had 275,718 inhabitants, Eurométropole de Strasbourg (Greater Strasbourg) had 475,934 inhabitants and the Arrondissement of Strasbourg had 482,384 inhabitants. With a population of 768,868 in 2012, Strasbourg's metropolitan area (only the part of the metropolitan area on French territory) is the ninth largest in France and home to 13% of the ACAL region's inhabitants. The transnational Eurodistrict Strasbourg-Ortenau had a population of 915,000 inhabitants in 2014.",
+    "Ramapo is a town in Rockland County, New York, United States. It was originally formed as New Hampstead, in 1791, and became Ramapo in 1828. It shares its name with the Ramapo River. As of the 2010 census, Ramapo had a total population of 126,595. If Ramapo were incorporated as a city, it would be the sixth-largest city in the state of New York.",
+    "The name Vatican city was first used in the Lateran Treaty, signed on 11 February 1929, which established the modern city - state. The name is taken from Vatican Hill, the geographic location of the state. ``Vatican ''is derived from the name of an Etruscan settlement, Vatica or Vaticum meaning garden, located in the general area the Romans called vaticanus ager,`` Vatican territory''.",
+    "Rhône-Alpes (; Arpitan: \"\"; ; ) was an administrative region of France. Since 1 January 2016, it is part of the new region Auvergne-Rhône-Alpes. It is located on the eastern border of the country, towards the south. The region was named after the Rhône and the Alps mountain range. Its capital, Lyon, is the second-largest metropolitan area in France after Paris. Rhône-Alpes has the sixth-largest economy of any European region.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary (French: Frontière internationale), is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Mexico (Spanish: México [ˈmexiko] (listen); Nahuatl languages: Mēxihco), officially the United Mexican States (Spanish: Estados Unidos Mexicanos [esˈtaðos uˈniðoz mexiˈkanos] (listen)), is a country in the southern portion of North America. It is bordered to the north by the United States; to the south and west by the Pacific Ocean; to the southeast by Guatemala, Belize, and the Caribbean Sea; and to the east by the Gulf of Mexico. Covering almost 2,000,000 square kilometers (770,000 sq mi), the nation is the fifth largest country in the Americas by total area and the 13th largest independent state in the world. With an estimated population of over 120 million people, the country is the tenth most populous state and the most populous Spanish-speaking state in the world, while being the second most populous nation in Latin America after Brazil. Mexico is a federation comprising 31 states and Mexico City, a special federal entity that is also the capital city and its most populous city. Other metropolises in the state include Guadalajara, Monterrey, Puebla, Toluca, Tijuana and León.",
+    "The largest municipality by population in Georgia is Atlanta with 420,003 residents, and the smallest municipality by population is Edge Hill with 24 residents. The largest municipality by land area is Augusta, a consolidated city - county, which spans 302.47 sq mi (783.4 km), while Edge Hill and Santa Claus are tied for the smallest at 0.18 sq mi (0.47 km) each.",
+    "Alpena Power Company is a public utility company that provides electricity to most of Alpena County, Michigan, as well as southeastern Presque Isle County and the village of Hillman, in Montmorency County. The headquarters are located in Alpena, Michigan. The company was founded in 1881 by George N. Fletcher.",
+    "Oak Lawn is a suburb of Chicago, located southwest of the city. It shares borders with the city in two areas, but is surrounded mostly by other suburbs.",
+    "Gallaratese is a district (\"quartiere\") of Milan, Italy, part of the Zone 8 administrative division of the city. It is located about 7 km north-west of the city centre. It borders on the \"comune\" of Pero to the north and on the districts of Trenno to the west and Lampugnano to the south; to the east, its ideal border is the eponymous street, which in turn is named after Gallarate, the town it leads to.",
+    "Virginia is located in Lempira Honduras and shares a border with El Salvador. Many Virginians travel to El Salvador to do their shopping, because the Honduran cities are far away from Virginia.",
+    "The Canada -- United States border (French: Frontière entre le Canada et les États - Unis), officially known as the International Boundary, is the longest international border in the world between two countries. It is shared between Canada and the United States, the second - and fourth - largest countries by area, respectively. The terrestrial boundary (including portions of maritime boundaries in the Great Lakes, and on the Atlantic, Pacific, and Arctic coasts) is 8,891 kilometres (5,525 mi) long, of which 2,475 kilometres (1,538 mi) is Canada's border with Alaska. Eight Canadian provinces and territories (Yukon, British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, and New Brunswick), and thirteen U.S. states (Alaska, Washington, Idaho, Montana, North Dakota, Minnesota, Michigan, Ohio, Pennsylvania, New York, Vermont, New Hampshire, and Maine) are located along the border.",
+    "Chelyabinsk () is a city and the administrative center of Chelyabinsk Oblast, Russia, located in the northeast of the oblast, south of Yekaterinburg, just to the east of the Ural Mountains, on the Miass River, on the border of Europe and Asia. Population:",
+    "The United States of America (USA), commonly known as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major self - governing territories, and various possessions. At 3.8 million square miles (9.8 million km) and with over 325 million people, the United States is the world's third - or fourth - largest country by total area and the third-most populous. The capital is Washington, D.C., and the largest city by population is New York City. Forty - eight states and the capital's federal district are contiguous and located in North America between Canada and Mexico. The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The state of Hawaii is an archipelago in the mid-Pacific Ocean. The U.S. territories are scattered about the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones. The extremely diverse geography, climate, and wildlife of the United States make it one of the world's 17 megadiverse countries.",
+    "Tucson (/ˈtuːsɒn/ /tuːˈsɒn/) is a city and the county seat of Pima County, Arizona, United States, and home to the University of Arizona. The 2010 United States Census put the population at 520,116, while the 2013 estimated population of the entire Tucson metropolitan statistical area (MSA) was 996,544. The Tucson MSA forms part of the larger Tucson-Nogales combined statistical area (CSA), with a total population of 980,263 as of the 2010 Census. Tucson is the second-largest populated city in Arizona behind Phoenix, both of which anchor the Arizona Sun Corridor. The city is  located 108 miles (174 km) southeast of Phoenix and 60 mi (97 km) north of the U.S.-Mexico border. Tucson is the 33rd largest city and the 59th largest metropolitan area in the United States. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems, earning Tucson the nickname Optics Valley.",
+    "New Albin is a city in Iowa Township, Allamakee County, Iowa, United States. It is the farthest northeast town in Iowa, located on the Mississippi River and the Minnesota border. The population was 522 at the 2010 census.",
+    "Krasnovishersky District () is an administrative district (raion) of Perm Krai, Russia; one of the thirty-three in the krai. Municipally, it is incorporated as Krasnovishersky Municipal District. It is located in the northeast of the krai, in the valley of the Vishera River, and borders with the Komi Republic in the north, Sverdlovsk Oblast in the east, Cherdynsky District in the west, Solikamsky District in the south, and with the territory of the town of krai significance of Alexandrovsk in the southeast. The area of the district is . Its administrative center is the town of Krasnovishersk. Population: The population of Krasnovishersk accounts for 71.4% of the district's total population."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nWDXQ (1440 AM) is a radio station licensed to Cochran, Georgia, United States.\nThe most populous city in Georgia is Atlanta.\nAtlanta is located in Fulton County, Georgia.\nFulton County, Georgia, shares borders with several counties, including Clayton County, Coweta County, and others.\nThe question asks which county shares a border with the county where the most populous city in Georgia is located.\nFulton County shares a border with Clayton County.\nClayton County is one of the counties that borders Fulton County.\nThe county that shares a border with the county where the most populous city in Georgia is located is Clayton County.\n<answer> Clayton County",
+  "predicted_answer": "Clayton County",
+  "claims": [
+    "WDXQ (1440 AM) is a radio station licensed to Cochran, Georgia, United States",
+    "The most populous city in Georgia is Atlanta",
+    "Atlanta is located in Fulton County, Georgia",
+    "Fulton County, Georgia, shares borders with several counties, including Clayton County, Coweta County, and others",
+    "The question asks which county shares a border with the county where the most populous city in Georgia is located",
+    "Fulton County shares a border with Clayton County",
+    "Clayton County is one of the counties that borders Fulton County",
+    "The county that shares a border with the county where the most populous city in Georgia is located is Clayton County"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "WDXQ (1440 AM) is a radio station licensed to Cochran, Georgia, United States",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The most populous city in Georgia is Atlanta",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Atlanta is located in Fulton County, Georgia",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Fulton County, Georgia, shares borders with several counties, including Clayton County, Coweta County, and others",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The question asks which county shares a border with the county where the most populous city in Georgia is located",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "Fulton County shares a border with Clayton County",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "Clayton County is one of the counties that borders Fulton County",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C8",
+      "text": "The county that shares a border with the county where the most populous city in Georgia is located is Clayton County",
+      "claim_type": "DR"
+    }
+  ]
+}

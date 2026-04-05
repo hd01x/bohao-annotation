@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__cc56bc3a2a756fcc8dec",
+  "sample_id": "cc56bc3a2a756fcc8dec",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would 7 zucchini's satisfy potassium USDA daily recommendation?",
+  "gold_answer": "yes",
+  "context": [
+    "The USDA recommends at least 3500 mg of potassium a day.",
+    "One zucchini has 512 mg of potassium."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe USDA recommends at least 3500 mg of potassium per day.\nOne zucchini contains 512 mg of potassium.\nSeven zucchinis contain 7 × 512 mg = 3584 mg of potassium.\n3584 mg is greater than 3500 mg.\nSeven zucchinis satisfy the USDA daily potassium recommendation.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The USDA recommends at least 3500 mg of potassium per day",
+    "One zucchini contains 512 mg of potassium",
+    "Seven zucchinis contain 7 × 512 mg = 3584 mg of potassium",
+    "3584 mg is greater than 3500 mg",
+    "Seven zucchinis satisfy the USDA daily potassium recommendation"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The USDA recommends at least 3500 mg of potassium per day",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "One zucchini contains 512 mg of potassium",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Seven zucchinis contain 7 × 512 mg = 3584 mg of potassium",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "3584 mg is greater than 3500 mg",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Seven zucchinis satisfy the USDA daily potassium recommendation",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

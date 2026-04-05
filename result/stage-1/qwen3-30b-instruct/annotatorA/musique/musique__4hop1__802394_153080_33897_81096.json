@@ -1,0 +1,99 @@
+{
+  "uid": "musique__4hop1__802394_153080_33897_81096",
+  "sample_id": "4hop1__802394_153080_33897_81096",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "Who won the Indy Car Race in the largest populated city of the state where the performer of Mingus Plays Piano is from?",
+  "gold_answer": "Mario Andretti",
+  "context": [
+    "Šiauliai (; ) is the fourth largest city in Lithuania, with a population of 107,086. From 1994 to 2010 it was the capital of Šiauliai County.",
+    "Westminster Choir College is a residential conservatory of music located in Princeton, New Jersey, United States. Westminster Choir College educates students at the undergraduate and graduate levels for musical careers in music education, voice performance, piano performance, organ performance, pedagogy, music theory and composition, conducting, sacred music, and arts management; professional training in musical skills with an emphasis on performance is complemented by studies in the liberal arts. All students study with Westminster's voice faculty, the largest voice faculty in the world. The school's proximity to New York City and Philadelphia provides students with easy access to the musical resources of both cities.",
+    "Auto racing is also popular in the area. The Richmond International Raceway (RIR) has hosted NASCAR Sprint Cup races since 1953, as well as the Capital City 400 from 1962 − 1980. RIR also hosted IndyCar's Suntrust Indy Challenge from 2001 − 2009. Another track, Southside Speedway, has operated since 1959 and sits just southwest of Richmond in Chesterfield County. This .333-mile (0.536 km) oval short-track has become known as the \"Toughest Track in the South\" and \"The Action Track\", and features weekly stock car racing on Friday nights. Southside Speedway has acted as the breeding grounds for many past NASCAR legends including Richard Petty, Bobby Allison and Darrell Waltrip, and claims to be the home track of NASCAR superstar Denny Hamlin.",
+    "Tucson (/ˈtuːsɒn/ /tuːˈsɒn/) is a city and the county seat of Pima County, Arizona, United States, and home to the University of Arizona. The 2010 United States Census put the population at 520,116, while the 2013 estimated population of the entire Tucson metropolitan statistical area (MSA) was 996,544. The Tucson MSA forms part of the larger Tucson-Nogales combined statistical area (CSA), with a total population of 980,263 as of the 2010 Census. Tucson is the second-largest populated city in Arizona behind Phoenix, both of which anchor the Arizona Sun Corridor. The city is  located 108 miles (174 km) southeast of Phoenix and 60 mi (97 km) north of the U.S.-Mexico border. Tucson is the 33rd largest city and the 59th largest metropolitan area in the United States. Roughly 150 Tucson companies are involved in the design and manufacture of optics and optoelectronics systems, earning Tucson the nickname Optics Valley.",
+    "A Modern Jazz Symposium of Music and Poetry is an album by jazz bassist Charles Mingus. In spite of the title, the album does not contain any poetry. \"Scenes in the City\", however, includes narration performed by Mel Stewart and written by actor Lonne Elder with assistance from Langston Hughes. The composition \"Duke's Choice\" re-appears, in updated form, as \"I X Love\" on the 1963 album \"Mingus Mingus Mingus Mingus Mingus\". \"Nouroog\", \"Duke's Choice\" and \"Slippers\" form the basis of the suite \"Open Letter to Duke\" on \"Mingus Ah Um\".",
+    "As of the census of 2010, there were 1,124 people, 460 households, and 286 families residing in the city. The population density was 624.4 inhabitants per square mile (241.1/km2). There were 522 housing units at an average density of 290.0 per square mile (112.0/km2). The racial makeup of the city was 98.5% White, 0.2% African American, 0.4% Asian, 0.1% from other races, and 0.9% from two or more races. Hispanic or Latino of any race were 1.4% of the population.",
+    "Charles Mingus was born in Nogales, Arizona. His father, Charles Mingus Sr., was a sergeant in the U.S. Army. Mingus was largely raised in the Watts area of Los Angeles. His maternal grandfather was a Chinese British subject from Hong Kong, and his maternal grandmother was an African-American from the southern United States. Mingus was the third great-grandson of the family's founding patriarch who was, by most accounts, a German immigrant. His ancestors included German American, African American, and Native American.",
+    "Jacksonville is the largest city by population in the U.S. state of Florida, and the largest city by area in the contiguous United States. It is the county seat of Duval County, with which the city government consolidated in 1968. Consolidation gave Jacksonville its great size and placed most of its metropolitan population within the city limits; with an estimated population of 853,382 in 2014, it is the most populous city proper in Florida and the Southeast, and the 12th most populous in the United States. Jacksonville is the principal city in the Jacksonville metropolitan area, with a population of 1,345,596 in 2010.",
+    "Mingus Plays Piano is a 1963 solo jazz album by Charles Mingus. The album is notable for Mingus's departure from his usual role as composer and double-bassist in ensemble recordings, instead playing piano without any additional musicians.",
+    "According to the U.S. Census Bureau's estimate, the city had a population of 396,394 in 2017, making it the second-largest city in the county (after Fort Worth) and the third-largest in the metropolitan area. Arlington is the forty-eighth-most populous city in the United States, the seventh-most populous city in the state of Texas, and the largest city in the state that is not a county seat.",
+    "As of the census of 2000, there were 4,564 people, 1,979 households, and 1,258 families residing in the city. The population density was 1,762.4 people per square mile (680.4/km²). There were 2,191 housing units at an average density of 846.0 per square mile (326.6/km²). The racial makeup of the city was 97.98% White, 0.64% African American, 0.33% Native American, 0.20% Asian, 0.07% from other races, and 0.79% from two or more races. Hispanic or Latino of any race were 0.53% of the population.",
+    "The U.S. Census Bureau reports a 2010 population of 129,779, with 47,094 households and 25,854 families within the city of New Haven. The population density is 6,859.8 people per square mile (2,648.6/km²). There are 52,941 housing units at an average density of 2,808.5 per square mile (1,084.4/km²). The racial makeup of the city is 42.6% White, 35.4% African American, 0.5% Native American, 4.6% Asian, 0.1% Pacific Islander, 12.9% from other races, and 3.9% from two or more races. Hispanic or Latino residents of any race were 27.4% of the population. Non-Hispanic Whites were 31.8% of the population in 2010, down from 69.6% in 1970. The city's demography is shifting rapidly: New Haven has always been a city of immigrants and currently the Latino population is growing rapidly. Previous influxes among ethnic groups have been African-Americans in the postwar era, and Irish, Italian and (to a lesser degree) Slavic peoples in the prewar period.",
+    "Logan Gomez (born December 16, 1988) is an American race car driver from Crown Point, Indiana who most notably competed in the Firestone Indy Lights Series (formerly the Indy Pro Series).",
+    "As of the census of 2000, there were 2,226 people, 957 households, and 618 families residing in the city. The population density was 1,486.5 people per square mile (573.0/km²). There were 1,050 housing units at an average density of 701.2 per square mile (270.3/km²). The racial makeup of the city was 99.01% White, 0.04% African American, 0.27% Native American, 0.45% from other races, and 0.22% from two or more races. Hispanic or Latino of any race were 0.81% of the population.",
+    "As of the census of 2000, there were 10,345 people, 3,850 households, and 2,895 families residing in the city. The population density was 1,835.4 people per square mile (708.2/km²). There were 3,959 housing units at an average density of 557.3 per square mile (215.3/km²). The racial makeup of the city was 97.11% White, 0.92% African American, 0.33% Native American, 0.46% Asian, 0.41% Pacific Islander, 0.77% from other races, and 1.20% from two or more races. Hispanic or Latino of any race were 1.65% of the population.",
+    "Automobiles Ettore Bugatti was a French car manufacturer of high-performance automobiles, founded in 1909 in the then-German city of Molsheim, Alsace by the Italian-born industrial designer Ettore Bugatti. The cars were known for their design beauty and for their many race victories. Famous Bugattis include the Type 35 Grand Prix cars, the Type 41 \"Royale\", the Type 57 \"Atlantic\" and the Type 55 sports car.",
+    "Hagerty Insurance Agency, styled just Hagerty, is an insurance company specializing in classic car insurance based in Traverse City, Michigan, in the United States. The company is the leading insurance agency for collector vehicles in the world and host to the largest network of collector car owners. They have also been recognized as \"largest insurance agency for collector cars in the United States.\"",
+    "Oklahoma City is the principal city of the eight-county Oklahoma City Metropolitan Statistical Area in Central Oklahoma and is the state's largest urbanized area. Based on population rank, the metropolitan area was the 42nd largest in the nation as of 2012.",
+    "After a hiatus of eleven years, the race was revived by the Verizon IndyCar Series in 2016. It was held on Saturday night under the lights. Long considered a popular Indy car track, Phoenix has a rich history of open wheel races, including a spectacular crash involving Johnny Rutherford (1980), and the final career victory for Indy legend Mario Andretti (1993).",
+    "As of the census of 2010, there were 1,963 people, 770 households, and 505 families residing in the city. The population density was 1,443.4 inhabitants per square mile (557.3/km2). There were 830 housing units at an average density of 610.3 per square mile (235.6/km2). The racial makeup of the city was 97.0% White, 0.3% African American, 0.6% Native American, 0.2% Asian, 0.8% from other races, and 1.2% from two or more races. Hispanic or Latino of any race were 1.5% of the population."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCharles Mingus was born in Nogales, Arizona.\nThe performer of Mingus Plays Piano is Charles Mingus.\nNogales, Arizona is located in the U.S. state of Arizona.\nTucson is the second-largest city in Arizona.\nTucson is the largest populated city in Arizona that is not Phoenix.\nPhoenix is the largest city in Arizona.\nPhoenix is the largest populated city in the state of Arizona.\nThe Indy Car Race in Phoenix was held under the lights in 2016.\nThe 2016 Indy Car Race in Phoenix was won by Will Power.\nWill Power won the Indy Car Race in the largest populated city of the state where the performer of Mingus Plays Piano is from.\n<answer> Will Power",
+  "predicted_answer": "Will Power",
+  "claims": [
+    "Charles Mingus was born in Nogales, Arizona",
+    "The performer of Mingus Plays Piano is Charles Mingus",
+    "Nogales, Arizona is located in the U.S. state of Arizona",
+    "Tucson is the second-largest city in Arizona",
+    "Tucson is the largest populated city in Arizona that is not Phoenix",
+    "Phoenix is the largest city in Arizona",
+    "Phoenix is the largest populated city in the state of Arizona",
+    "The Indy Car Race in Phoenix was held under the lights in 2016",
+    "The 2016 Indy Car Race in Phoenix was won by Will Power",
+    "Will Power won the Indy Car Race in the largest populated city of the state where the performer of Mingus Plays Piano is from"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Charles Mingus was born in Nogales, Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The performer of Mingus Plays Piano is Charles Mingus",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Nogales, Arizona is located in the U.S. state of Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Tucson is the second-largest city in Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Tucson is the largest populated city in Arizona that is not Phoenix",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "Phoenix is the largest city in Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "Phoenix is the largest populated city in the state of Arizona",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C8",
+      "text": "The Indy Car Race in Phoenix was held under the lights in 2016",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C9",
+      "text": "The 2016 Indy Car Race in Phoenix was won by Will Power",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C10",
+      "text": "Will Power won the Indy Car Race in the largest populated city of the state where the performer of Mingus Plays Piano is from",
+      "claim_type": "DR"
+    }
+  ]
+}

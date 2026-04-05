@@ -1,0 +1,77 @@
+{
+  "uid": "strategyqa__9bf48fb011c640f0de4b",
+  "sample_id": "9bf48fb011c640f0de4b",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "For bone growth, is kale more beneficial than spinach?",
+  "gold_answer": "yes",
+  "context": [
+    "Calcium is an important nutrient for bone health.",
+    "Kale has more calcium per serving than spinach."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCalcium is essential for bone health and bone growth.\nKale contains more calcium per serving than spinach.\nHigher calcium content per serving suggests greater potential benefit for bone growth.\nKale is more beneficial than spinach for bone growth due to higher calcium content.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Calcium is essential for bone health and bone growth",
+    "Kale contains more calcium per serving than spinach",
+    "Higher calcium content per serving suggests greater potential benefit for bone growth",
+    "Kale is more beneficial than spinach for bone growth due to higher calcium content"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Calcium is essential for bone health and bone growth",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Kale contains more calcium per serving than spinach",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Higher calcium content per serving suggests greater potential benefit for bone growth",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Kale is more beneficial than spinach for bone growth due to higher calcium content",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "uid": "strategyqa__11d009721f27a60f9cff",
+  "sample_id": "11d009721f27a60f9cff",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would a Pict be confused by Old English?",
+  "gold_answer": "yes",
+  "context": [
+    "Old English was spoken by the Anglo-Saxons, a Germanic tribe that inhabited England.",
+    "The Picts were a Celtic-speaking people that lived in what is now Scotland.",
+    "The Pictish language died out by 1100AD and was replaced by Gaelic.",
+    "Gaelic and Old English are completely different languages from different branches of the Indo-European language family.",
+    "Gaelic vocabulary is very different from Old English  and verbs are also conjugated differently."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Picts spoke the Pictish language, which was Celtic in origin.\nPictish was replaced by Gaelic by 1100 AD.\nGaelic and Old English are from different branches of the Indo-European language family.\nGaelic vocabulary and verb conjugation differ significantly from Old English.\nOld English and Pictish were not mutually intelligible.\nA Pict would not understand Old English due to the linguistic differences.\nA Pict would be confused by Old English.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Picts spoke the Pictish language, which was Celtic in origin",
+    "Pictish was replaced by Gaelic by 1100 AD",
+    "Gaelic and Old English are from different branches of the Indo-European language family",
+    "Gaelic vocabulary and verb conjugation differ significantly from Old English",
+    "Old English and Pictish were not mutually intelligible",
+    "A Pict would not understand Old English due to the linguistic differences",
+    "A Pict would be confused by Old English"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Picts spoke the Pictish language, which was Celtic in origin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Pictish was replaced by Gaelic by 1100 AD",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Gaelic and Old English are from different branches of the Indo-European language family",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Gaelic vocabulary and verb conjugation differ significantly from Old English",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Old English and Pictish were not mutually intelligible",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A Pict would not understand Old English due to the linguistic differences",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "A Pict would be confused by Old English",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

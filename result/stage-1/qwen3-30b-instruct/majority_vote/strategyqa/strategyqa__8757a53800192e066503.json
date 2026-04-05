@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__8757a53800192e066503",
+  "sample_id": "8757a53800192e066503",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would it be common to find a penguin in Miami?",
+  "gold_answer": "no",
+  "context": [
+    "Penguins are native to the deep, very cold parts of the southern hemisphere.",
+    "Miami is located in the northern hemisphere and has a very warm climate."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPenguins are native to the deep, very cold parts of the southern hemisphere.\nMiami is located in the northern hemisphere.\nMiami has a very warm climate.\nPenguins are not adapted to warm climates.\nThe natural habitat of penguins does not include warm regions like Miami.\nIt would be uncommon to find a penguin in Miami.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Penguins are native to the deep, very cold parts of the southern hemisphere",
+    "Miami is located in the northern hemisphere",
+    "Miami has a very warm climate",
+    "Penguins are not adapted to warm climates",
+    "The natural habitat of penguins does not include warm regions like Miami",
+    "It would be uncommon to find a penguin in Miami"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Penguins are native to the deep, very cold parts of the southern hemisphere",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Miami is located in the northern hemisphere",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Miami has a very warm climate",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Penguins are not adapted to warm climates",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The natural habitat of penguins does not include warm regions like Miami",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "It would be uncommon to find a penguin in Miami",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

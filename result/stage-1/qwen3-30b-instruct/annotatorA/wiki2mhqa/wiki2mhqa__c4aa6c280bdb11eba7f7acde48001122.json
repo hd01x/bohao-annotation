@@ -1,0 +1,59 @@
+{
+  "uid": "wiki2mhqa__c4aa6c280bdb11eba7f7acde48001122",
+  "sample_id": "c4aa6c280bdb11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is the spouse of the director of film The Golden Calf (1930 Film)?",
+  "gold_answer": "Mary Eaton",
+  "context": [
+    "Kyodai Makes the Big Time is a 1992 Dutch drama film directed by Ian Kerkhof. The film won the Golden Calf for Best Feature Film award at the 1992 Netherlands Film Festival. Janica Draisma also won the Golden Calf for Best Actress for her role in the film.",
+    "Joy is a 2010 Dutch drama film directed by Mijke de Jong. The film premiered on 14 February 2010 at the Berlin International Film Festival. The film won the Golden Calf for Best Feature Film award at the 2010 Netherlands Film Festival. Helena van der Meulen won the Golden Calf for Best Script award and Coosje Smid won the Golden Calf for Best Supporting Actress award for her role in the film. The film was also nominated for the Golden Calf for Best Director( Mijke de Jong), Best Actress( Samira Maas), Best Cinematography( Ton Peters) and Best Production Design( Jolein Laarman and Jorien Sont).",
+    "Can Go Through Skin (Dutch: Kan door huid heen) is a 2009 Dutch drama film written and directed by Esther Rots. The film is the first feature film by Rots. Rots won the Golden Calf for Best Montage and Rifka Lodeizen won the Golden Calf for Best Actress at the 2009 Netherlands Film Festival. The whole team behind the film also won the Golden Calf Special Jury Prize.",
+    "Sophia Magdalena of Denmark (3 July 1746 – 21 August 1813) was Queen of Sweden as the spouse of King Gustav III.",
+    "Bygones is a 1987 Dutch drama film directed by Ine Schenkkan. It is based on the book of the same name of Inez Dullemen. The film won the Golden Calf for Best Feature Film award at the 1987 Netherlands Film Festival. Jasperina de Jong also won the Golden Calf for Best Actress for her role in the film.",
+    "Gertrude of Saxony and Bavaria( 1152/55–1197) was Duchess of Swabia as the spouse of Duke Frederick IV, and Queen of Denmark as the spouse of King Canute VI.",
+    "Maria Teresa, Grand Duchess of Luxembourg( born María Teresa Mestre y Batista; on 22 March 1956), is the spouse of Grand Duke Henri.",
+    "Esther Rots( born 23 May 1972) is a Dutch film director. Rots made her debut with the 2009 feature film\" Can Go Through SkinKan door huid heen\") for which she won the Golden Calf for Best Montage award at the 2009 Netherlands Film Festival. The whole team behind the film also won the Golden Calf Special Jury Prize and Rifka Lodeizen won the Golden Calf for Best Actress for her role in the film.",
+    "Millard Webb (6 December 1893 – 21 April 1935), was an American screenwriter and director. He directed 20 films between 1920 and 1933. His best-known film is the 1926 silent John Barrymore adventure \"The Sea Beast\", a version of \"Moby Dick\", costarring Dolores Costello. Webb also directed the early sound Florenz Ziegfeld produced talkie \"Glorifying the American Girl\" released by Paramount in 1929. In 1927 he directed \"Naughty But Nice\", produced by John McCormick and First National Pictures. His active years were from 1916 to 1933. He was married to Lydia Stocking (1918–1923). Mary Eaton married Webb in 1929, but they separated. He was born in Clay City, Kentucky, U.S., and died in Los Angeles, California of intestinal ailment at the age of 40.",
+    "The Golden Calf is a 1930 American pre-Code comedy film directed by Millard Webb and written by Marion Orth and Harold R. Atteridge. The film stars Jack Mulhall, Sue Carol, El Brendel, Marjorie White, Richard Keene and Paul Page. The film was released on March 16, 1930, by Fox Film Corporation."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Golden Calf (1930) was directed by Millard Webb.\nMillard Webb was married to Lydia Stocking from 1918 to 1923.\nMary Eaton married Millard Webb in 1929, but they separated.\nThe spouse of Millard Webb after 1929 was Mary Eaton.\nThe spouse of the director of The Golden Calf (1930) is Mary Eaton.\n<answer> Mary Eaton",
+  "predicted_answer": "Mary Eaton",
+  "claims": [
+    "The Golden Calf (1930) was directed by Millard Webb",
+    "Millard Webb was married to Lydia Stocking from 1918 to 1923",
+    "Mary Eaton married Millard Webb in 1929, but they separated",
+    "The spouse of Millard Webb after 1929 was Mary Eaton",
+    "The spouse of the director of The Golden Calf (1930) is Mary Eaton"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Golden Calf (1930) was directed by Millard Webb",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Millard Webb was married to Lydia Stocking from 1918 to 1923",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Mary Eaton married Millard Webb in 1929, but they separated",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The spouse of Millard Webb after 1929 was Mary Eaton",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "The spouse of the director of The Golden Calf (1930) is Mary Eaton",
+      "claim_type": "DR"
+    }
+  ]
+}

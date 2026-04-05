@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__f8819f3308a011ebbd78ac1f6bf848b6",
+  "sample_id": "f8819f3308a011ebbd78ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who died later, The Death Kiss or Her Luck In London?",
+  "gold_answer": "Her Luck In London",
+  "context": [
+    "G. Marthandan is an Indian film director who works in Malayalam cinema.",
+    "Andrew S. Gilbert is an Australian actor best known for his portrayal of Tony Twist in\" Round the Twist\"( Series 3- 4) and AFI Award- winning role in\" Kiss or Kill\" and other supporting work in\" Look Both Ways\" and\" The Dish\" and his recent role as Gavin Braithwaite on the ABC series,\" Bed of Roses\". He is also known for his collaboration with Director David Caesar on his films\" Idiot BoxMullet Dirty Deeds\" and\" Prime Mover\". He has been nominated for the AFI Award three times for\" Kiss or KillMullet\" and\" Paperback Hero\", winning for the earlier.",
+    "At 20, Anna decided to try her luck in show business again, becoming the oldest member of the group Super Monkey's. She left in 1992( being replaced by Rino Nakasone), to become the chief dance instructor at Okinawa Actor's, where she worked until 2002, when she left to start her own dance school' Love Junx', which is a dance school for children with Down Syndrome.",
+    "Maurice Elvey( 11 November 1887 – 28 August 1967) was the most prolific film director in British history. He directed nearly 200 films between 1913 and 1957. During the silent film era he directed as many as twenty films per year. He also produced more than fifty films- his own as well as films directed by others.",
+    "Abhishek Saxena is an Indian Bollywood and Punjabi film director who directed the movie Phullu. The Phullu movie was released in theaters on 16 June 2017, in which film Sharib Hashmi is the lead role. Apart from these, he has also directed Patiala Dreamz, this is a Punjabi film. This film was screened in cinemas in 2014.",
+    "Luck in Pawn is a 1919 American silent romance film starring Marguerite Clark and directed by Walter Edwards. It was produced by Famous Players- Lasky and distributed through Paramount Pictures. The film is based on a play by Marvin Taylor,\" Luck in Pawn\", and ran briefly on Broadway in 1919. The film is listed as being preserved at the Library of Congress and New Zealand Film Archive.",
+    "Edwin L. Marin (February 21, 1899 – May 2, 1951) was an American film director who directed 58 films between 1932 and 1951, working with Randolph Scott, Anna May Wong, John Wayne, Peter Lorre, George Raft, Bela Lugosi, Judy Garland, Eddie Cantor, and Hoagy Carmichael, among many others. Marin was born in Jersey City, New Jersey, and died in Los Angeles, California. He was married to actress Ann Morriss. They had three children: Denis Anthony, Reese Andrew and Randi Alexandra. He studied at the University of Pennsylvania and broke into the industry as an assistant director at MGM. He was under contract to MGM for 15 years and RKO for five. When he died he was under contract to Warner Bros.",
+    "Ben Palmer is a British film and television director who is known for being the director of\" Bo' Selecta\" and\" The Inbetweeners\".",
+    "The Death Kiss is a 1932 American pre-Code mystery film starring David Manners as a crusading studio writer, Adrienne Ames as an actress, and Bela Lugosi as a studio manager. The thriller features three leading players from the previous year's\" Dracula\"( Lugosi, Manners, and Edward Van Sloan), and was the first film directed by Edwin L. Marin. The film was produced by KBS Productions at Tiffany Pictures and released by Sono Art- World Wide Pictures. The film is currently in the public domain.",
+    "Her Luck in London is a 1914 British silent drama film directed by Maurice Elvey and starring A.V. Bramble, Fred Groves and M. Gray Murray. It was based on a play of the same name by Charles Darrell. The film follows a naive country girl as she heads to London, where she is corrupted."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Death Kiss was directed by Edwin L. Marin.\nEdwin L. Marin died on May 2, 1951.\nHer Luck in London was directed by Maurice Elvey.\nMaurice Elvey died on August 28, 1967.\n1967 is later than 1951.\nThe director of Her Luck in London died later than the director of The Death Kiss.\nThe film with the director who died later is Her Luck in London.\n<answer> Her Luck in London",
+  "predicted_answer": "Her Luck in London",
+  "claims": [
+    "The Death Kiss was directed by Edwin L. Marin",
+    "Edwin L. Marin died on May 2, 1951",
+    "Her Luck in London was directed by Maurice Elvey",
+    "Maurice Elvey died on August 28, 1967",
+    "1967 is later than 1951",
+    "The director of Her Luck in London died later than the director of The Death Kiss",
+    "The film with the director who died later is Her Luck in London"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Death Kiss was directed by Edwin L. Marin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Edwin L. Marin died on May 2, 1951",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Her Luck in London was directed by Maurice Elvey",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Maurice Elvey died on August 28, 1967",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1967 is later than 1951",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director of Her Luck in London died later than the director of The Death Kiss",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director who died later is Her Luck in London",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

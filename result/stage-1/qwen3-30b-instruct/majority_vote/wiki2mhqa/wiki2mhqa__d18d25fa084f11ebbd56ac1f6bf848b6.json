@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__d18d25fa084f11ebbd56ac1f6bf848b6",
+  "sample_id": "d18d25fa084f11ebbd56ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director died first, Köpekler Adası or Twisted Mistress?",
+  "gold_answer": "Twisted Mistress",
+  "context": [
+    "André Cayatte( 3 February 1909, in Carcassonne – 6 February 1989, in Paris) was a French filmmaker and lawyer, who became known for his films centering on themes of crime, justice, and moral responsibility. Cayatte began his directoral career at the German- controlled Continental Films during the French occupation. Some of Cayatte's earlier films that addressed his characteristic themes include\" Justice est faiteJustice is Done\"; 1950),\" Nous sommes tous des assassins We Are All Murderers\"; 1952), and\" Le passage du RhinTomorrow Is My Turn\"; 1960). In 1963, he undertook a bold experiment in film narrative with a set of two films:\" Jean- Marc ou La vie conjugaleAnatomy of a Marriage: My Days with Jean- Marc\") and\" Françoise ou La vie conjugaleAnatomy of a Marriage: My Days with Françoise\"). These two films tell the same story from two different points of view. His 1973 film,\" Il n'y a pas de fumée sans feu\", won the Silver Bear Special Jury Prize at the 23rd Berlin International Film Festival.",
+    "Twisted Mistress is a 1942 French comedy film starring Danielle Darrieux. The movie was directed by André Cayatte, based on story by Honoré de Balzac. It was released on VHS in France by TF1 Vidéo on 1 January 1998. It tells the story of a circus owner's daughter, who plays on a rope, sings two songs, and falls in love with local rugby player.",
+    "Mohsen Eslamzadeh is an Iranian documentary filmmaker. He is the director of\" Alone Among The Taliban\". This film has won the best documentary award at the 44th Athens International Film and Video Festival in the United States. This film has won the best documentary award at the 12th Marbella International Film Festival in Spain. This film has won the Shahid Avini Award offers.",
+    "Ravina is an Indian actress who acted in Dhallywood movies. She acted in\" Praner Cheye Priyo\" which film is considered as turning point of the career of Riaz.",
+    "Halit Refiğ (5 March 1934 – 11 October 2009) was a Turkish film director, film producer, screenwriter and writer. He made around sixty films, including feature films, documentaries and TV serials. He is considered to be the pioneer of the National Cinema movement and the initiator of the production of TV serials in Turkey.",
+    "Thulasi is a 1987 Tamil romantic drama film directed by Ameerjan. The film features Murali and Seetha in lead roles. The film, produced by P. S. V. Hariharan, had musical score by Sampath Selvam and was released on 27 November 1987. The music director died before the release of the film.",
+    "Witold Leszczyński( 16 August 1933 – 1 September 2007) was a Polish film director and screenwriter. In 1967 he graduated from the National Film School in Łódź. He directed over thirty films between 1959 and 2007. Most known for\" Żywot MateuszaMatthew's Days\") based on a novel by Norwegian writer Tarjei Vesaas,\" Konopielka\", adapted from the novel of Edward Redliński,\" Siekierezada\" based on a novel by Edward Stachura and many others films. He received numerous awards, including Grand Prix at the Polish Film Festival in 1986. The director died during the shoot of his film\" Stary człowiek i pies The Old Man and the Dog\") in 2007.",
+    "Le masque de la Méduse is a 2009 fantasy horror film directed by Jean Rollin. The film is a modern-day telling of the Greek mythological tale of the Gorgon and was inspired by the 1964 classic Hammer Horror film of the same name and the 1981 cult classic\" Clash of the Titans\". It was Rollin's final film, as the director died in 2010.",
+    "Querelle is a 1982 West German- French English- language drama film directed by Rainer Werner Fassbinder and starring Brad Davis, adapted from French author Jean Genet's 1947 novel\" Querelle of Brest\". It marked Fassbinder's final film as a writer/ director; it was posthumously released just months after the director died of a drug overdose in June 1982.",
+    "Köpekler Adası is a 1997 Turkish film, directed by Halit Refiğ and starring Mursit Bag, Ekrem Dümer, and Tanju Gürsu."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nTwisted Mistress was directed by André Cayatte.\nAndré Cayatte died on 6 February 1989.\nKöpekler Adası was directed by Halit Refiğ.\nHalit Refiğ died on 11 October 2009.\n1989 is earlier than 2009.\nAndré Cayatte died before Halit Refiğ.\nThe film with the director who died first is Twisted Mistress.\n<answer> Twisted Mistress",
+  "predicted_answer": "Twisted Mistress",
+  "claims": [
+    "Twisted Mistress was directed by André Cayatte",
+    "André Cayatte died on 6 February 1989",
+    "Köpekler Adası was directed by Halit Refiğ",
+    "Halit Refiğ died on 11 October 2009",
+    "1989 is earlier than 2009",
+    "André Cayatte died before Halit Refiğ",
+    "The film with the director who died first is Twisted Mistress"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Twisted Mistress was directed by André Cayatte",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "André Cayatte died on 6 February 1989",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Köpekler Adası was directed by Halit Refiğ",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Halit Refiğ died on 11 October 2009",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1989 is earlier than 2009",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "André Cayatte died before Halit Refiğ",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director who died first is Twisted Mistress",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

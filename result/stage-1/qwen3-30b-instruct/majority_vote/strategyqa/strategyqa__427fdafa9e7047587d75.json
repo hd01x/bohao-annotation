@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__427fdafa9e7047587d75",
+  "sample_id": "427fdafa9e7047587d75",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did François Mitterrand serve under Napoleon Bonapart in the French army?",
+  "gold_answer": "no",
+  "context": [
+    "François Mitterrand was born in 1916.",
+    "Napoleon Bonapart died in 1821."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFrançois Mitterrand was born in 1916.\nNapoleon Bonaparte died in 1821.\n1916 is after 1821.\nFrançois Mitterrand was not alive during Napoleon Bonaparte's lifetime.\nFrançois Mitterrand could not have served under Napoleon Bonaparte in the French army.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "François Mitterrand was born in 1916",
+    "Napoleon Bonaparte died in 1821",
+    "1916 is after 1821",
+    "François Mitterrand was not alive during Napoleon Bonaparte's lifetime",
+    "François Mitterrand could not have served under Napoleon Bonaparte in the French army"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "François Mitterrand was born in 1916",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Napoleon Bonaparte died in 1821",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "1916 is after 1821",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "François Mitterrand was not alive during Napoleon Bonaparte's lifetime",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "François Mitterrand could not have served under Napoleon Bonaparte in the French army",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

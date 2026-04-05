@@ -1,0 +1,420 @@
+{
+  "uid": "medhop__MH_dev_191",
+  "sample_id": "MH_dev_191",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00222\", \"DB00669\", \"DB01400\", \"DB01541\", \"DB02272\", \"DB03769\", \"DB04799\", \"DB05311\", and \"DB08954\" interacts with DB06287?",
+  "gold_answer": "DB00222",
+  "context": [
+    "A gene-centric analysis of activated partial thromboplastin time and activated protein C resistance using the HumanCVD focused genotyping array . Activated partial thromboplastin time ( aPTT ) is an important routine measure of intrinsic blood coagulation . Addition of activated protein C ( P25054 ) to the aPTT test to produce a ratio , provides one measure of P25054 resistance . The associations of some genetic mutations ( eg , factor V Leiden ) with these measures are established , but associations of other genetic variations remain to be established . The objective of this work was to test for association between genetic variants and blood coagulation using a high-density genotyping array . Genetic association with aPTT and P25054 resistance was analysed using a focused genotyping array that tests approximately 50 000 single-nucleotide polymorphisms ( SNPs ) in nearly 2000 cardiovascular candidate genes , including coagulation pathway genes . Analyses were conducted on 2544 European origin women from the British Women 's Heart and Health Study . We confirm associations with aPTT at the coagulation factor XII ( P00748 ) / P43250 ( P43250 ) and kininogen 1 ( P01042 ) /histidine-rich glycoprotein ( P04196 ) loci , and identify novel SNPs at the P16442 locus and novel locus kallikrein B ( P03952 ) / P03951 . In addition , we confirm association between P25054 resistance and factor V Leiden mutation , and identify novel SNP associations with P25054 resistance in the P04196 and P12259 /solute carrier family 19 member 2 ( O60779 ) regions . In conclusion , variation at several genetic loci influences intrinsic blood coagulation as measured by both aPTT and P25054 resistance .",
+    "SynGAP regulates protein synthesis and homeostatic synaptic plasticity in developing cortical networks . Disrupting the balance between excitatory and inhibitory neurotransmission in the developing brain has been causally linked with intellectual disability ( ID ) and autism spectrum disorders ( P51689 ) . Excitatory synapse strength is regulated in the central nervous system by controlling the number of postsynaptic α-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid receptors ( AMPARs ) . De novo genetic mutations of the synaptic P20936 ( SynGAP ) are associated with ID and P51689 . SynGAP is enriched at excitatory synapses and genetic suppression of SynGAP increases excitatory synaptic strength . However , exactly how SynGAP acts to maintain synaptic AMPAR content is unclear . We show here that SynGAP limits excitatory synaptic strength , in part , by suppressing protein synthesis in cortical neurons . The data presented here from in vitro , rat and mouse cortical networks , demonstrate that regulation of translation by SynGAP involves P29323 , P42345 , and the small Q15382 . Furthermore , these data show that Q13224 -containing NMDARs and the cognitive kinase CaMKII act upstream of SynGAP and that this signaling cascade is required for proper translation-dependent homeostatic synaptic plasticity of excitatory synapses in developing cortical networks .",
+    "[ Enhancement of hypoxia tolerance and survival rate of Daphnia in severe hypoxia based on acidic preconditioning ] . pH homeostasis is essential for development , proliferation and apoptosis of cells . Once the pH balances are broken , cell functions and survival will be affected . Nevertheless , moderate acidosis could result in adaptive responses for cell survival and increase tolerance to harmful stress . Here we found that acidic preconditioning ( P25054 ) could significantly increase the survival rate of Daphnia pulex , a freshwater invertebrate , during severe hypoxic insult . Meanwhile , the acidic treatment significantly increased the gene expression of hypoxia inducible factor ( HIF ) . Both echinomycin , an inhibitor of HIF , and compound C , an inhibitor of AMP-activated protein kinase ( AMPK ) , could effectively eliminate the acid-induced hypoxic tolerance and the enhanced transcription of HIF . DB06287 , an inhibitor of mammalian Target of DB00877 ( P42345 ) , though effectively abolished the increased transcription of HIF , improved the P25054 -mediated protection . This result suggests that the involvement of the HIF and AMPK and P42345 could signal the pathways in P25054 -induced protection against hypoxic insult .",
+    "Disabling the mitotic spindle and tumor growth by targeting a cavity-induced allosteric site of survivin . Survivin is a member of the inhibitor of apoptosis protein family and has an essential role in mitosis . Survivin is overexpressed in a large variety of human cancers and represents an attractive target for cancer therapy . P00533 and Her/neu-transformed human tumors in particular exhibit high levels of survivin . The survivin protein forms dimers through a conserved region that is critical for subcellular localization and biological functions of the protein . We identified small molecules that target a specific cavity adjacent to the survivin dimerization surfaces . P28222 , a lead compound identified in the screen , can bind to the survivin protein at the intended target site . Moreover , P28222 alters spindle formation , causing mitotic arrest and cell death , and inhibits tumor growth in vitro and in vivo . Cell death occurs in premetaphase stage following mitotic arrest and is not a consequence of general toxicity . Thus , the study validates a novel therapeutic target site in the survivin protein and provides a promising strategy to develop a new class of therapeutic small molecules for the treatment of human cancers .",
+    "Modeling of Q14654 and inhibition mechanism of the natural ligand , ellagic acid , using molecular docking . Diabetes mellitus is a disorder in which blood sugar ( glucose ) levels are abnormally high because the body does not produce enough insulin to meet its needs . Post-prandial hyperglycemia ( PPHG ) is an independent risk factor for the development of macro vascular complications . It is now recognized that normalizing post-prandial blood glucose is more difficult than normalizing fasting glucose . DB01345 channels are the most widely distributed type of ion channel and are found in virtually all living organisms . The function of KATP channels is best understood in pancreatic beta cells , the membrane potential of which is responsive to external glucose concentration . Beta cells show a remarkably complex electrical bursting behavior in response to an increase in glucose level . DB00731 and DB00222 are a class of insulin secretagog agents that lowers blood glucose levels by stimulating insulin secretion from the pancreas . These compounds interact with the DB00171 -sensitive potassium ( K+ DB00171 ) channel in pancreatic beta cells . However , the side effects of these drugs overpass their uses , and the need to identify compounds with less adverse effects is exigent . In our research study , we used the natural compound ellagic acid , which is an already proven anti-carcinogen , anti-mutagen , and anticancer initiator , for its anti-diabetic activity in comparison to the two commercial drugs ( DB00731 and DB00222 ) . The drugs and the compounds were docked to the DB00171 -dependent potassium channel and their energy value showed that the compound had higher binding value than the commercial drugs . Then an ADME/Tox analysis for the compound was carried out which showed that ellagic can be a possible lead molecule .",
+    "No contractile effect for P28221 and P30939 receptor agonists in human and bovine cerebral arteries : similarity with human coronary artery . 1. Using subtype-selective 5-HT1 receptor agonists and/or the 5-HT1 receptor antagonist GR127935 , we characterized in vitro the 5-HT receptor that mediates the contraction of human and bovine cerebral arteries . Further , we investigated which sumatriptan-sensitive receptors are present in human coronary artery by reverse-transcriptase polymerase chain reaction ( RT-PCR ) . 2 . Agonists with affinity at the P28222 receptor , such as sumatriptan , alniditan and/or IS-159 , elicited dose-dependent contraction in both human and bovine cerebral arteries . They behaved as full agonists at the sumatriptan-sensitive 5-HT1 receptors in both species . In contrast , PNU-109291 and LY344864 , selective agonists at P28221 and P30939 receptors , respectively , were devoid of any significant vasocontractile activity in cerebral arteries , or did not affect the sumatriptan-induced vasocontraction . The rank order of agonist potency was similar in both species and could be summarized as 5-HT = alniditan > sumatriptan = IS-159 >>> PNU-109291 = LY344864 . 3 . In bovine cerebral arteries , the 5-HT1 receptor antagonist GR127935 dose-dependently inhibited the vasoconstrictions elicited by both 5-HT and sumatriptan , with respective pA2 values of 8.0 and 8.6 . 4 . RT-PCR studies in human coronary arteries showed a strong signal for the P28222 receptor while message for the P30939 receptor was weak and less frequently detected . Expression of P28221 receptor mRNA was not detected in any sample . 5 . The present results demonstrate that the DB00669 -induced contraction in brain vessels is mediated exclusively by the P28222 receptor , which is also present in a majority of human coronary arteries . These results suggest that selective P28221 and P30939 receptor agonists might represent new antimigraine drugs devoid of cerebro- and cardiovascular effects .",
+    "FTY720 induces autophagy-related apoptosis and necroptosis in human glioblastoma cells . FTY720 is a potent immunosuppressant which has preclinical antitumor efficacy in various cancer models . However , its role in glioblastoma remains unclear . In the present study , we found that FTY720 induced extrinsic apoptosis , necroptosis and autophagy in human glioblastoma cells . Inhibition of autophagy by either RNA interference or chemical inhibitors attenuated FTY720-induced apoptosis and necrosis . Furthermore , autophagy , apoptosis and necrosis induction were dependent on reactive oxygen species-c-Jun N-terminal kinase-protein 53 ( ROS-JNK-p53 ) loop mediated phosphatidylinositide 3-kinases/protein kinase B/mammalian target of rapamycin/p70S6 kinase ( PI3K/AKT/ P42345 /p70S6K ) pathway . In addition , receptor-interacting protein 1 and 3 ( Q13546 and RIP3 ) served as an upstream of ROS-JNK-p53 loop . However , the phosphorylation form of FTY720 induced autophagy but not apoptosis and necroptosis . Finally , the in vitro results were validated in vivo in xenograft mouse of glioblastoma cells . In conclusion , the current study provided novel insights into understanding the mechanisms and functions of FTY720-induced apoptosis , necroptosis and autophagy in human glioblastoma cells .",
+    "P10275 inducing bladder cancer progression by promoting an epithelial-mesenchymal transition . The study investigated the role of androgen receptor ( AR ) as a potential target for the treatment of bladder cancer in regulating epithelial-mesenchymal transition or transformation ( EMT ) . Cell proliferation , and migration capacity were determined in bladder cancer T24 cells treated with small interfering RNA directed against AR , and expression levels of P12830 , β-catenin and N- cadherin were assessed using quantitative reverse transcription PCR ( qRT-PCR ) . Tumour cell growth was evaluated in vivo in T24 tumour-bearing nude mice receiving electroporation-assisted administration of anti-AR small interfering RNA . It was found that low AR expression decreased proliferation and migration of bladder cancer cells . In vivo experiments showed that silencing AR expression significantly suppressed AR-positive bladder tumour growth with decreased cell proliferation . Low AR level of T24 bladder cancer cells treated with DB01541 ( DB02901 ) decreased expression of P12830 , β-catenin and P19022 expression , indicating a strong sensitivity to the EMT and In cells with low AR content , TGF-β induced down-regulation of P12830 and β-catenin . It is concluded that suppression of AR expression decreased the production of TGF-β , inhibiting EMT and bladder cancer cell growth in vitro and in vivo , implying that its use might be a potential therapeutic target for the treatment of bladder cancer .",
+    "Structure and function of eritadenine and its 3-deaza analogues : potent inhibitors of S-adenosylhomocysteine hydrolase and hypocholesterolemic agents . d- DB03769 ( DEA ) is a potent inhibitor of S-adenosyl-l-homocysteine hydrolase ( P23526 ) and has hypocholesterolemic activity . We have hypothesized that 3-deaza-DEA ( P01024 -DEA ) and its analogues retain high level of P23526 inhibitory activity and have resistance to deamination and glycosidic bond hydrolysis in vivo . Such P01024 -DEA analogues would have much higher hypocholesterolemic activity . P01024 -DEA , and its methyl ester ( P01024 -OMeDEA ) and its methyl amido ( P01024 -NMeDEA ) were synthesized to examine their P23526 inhibitory and hypocholesterolemic activities . A crystal structure of P23526 containing P01024 -DEA was determined and confirmed that DEA and P01024 -DEA bound to the same site of P23526 with the same binding mode . The P23526 inhibitory activities of P01024 -DEA ( K(I)=1.5 microM ) and P01024 -OMeDEA ( K(I)=1.5 microM ) are significantly lower than that of DEA ( K(I)=30 nM ) , while rats fed by P01024 -DEA and P01024 -OMeDEA decrease the total plasma cholesterol and phospholipids by 36-40 % and 23 % , respectively , which is similar to the level of reductions ( 42 % and 27 % ) by DEA . P01024 -NMeDEA lost most of the P23526 inhibitory activity ( K(I)=30 microM ) and dietary P01024 -NMeDEA does not decrease cholesterol and phospholipid in plasma but decreases the triacylglycerol level by 16 % . DEA and P01024 -DEA analogues are neither substrates nor inhibitors of adenosine deaminase .",
+    "P22303 antagonist potentiated insulin action in fed but not fasted state . The glucose disposal effect of insulin is doubled in response to a meal . This meal-induced insulin sensitization results from insulin acting on the liver , in the presence of a permissive hepatic parasympathetic feeding signal and elevated hepatic glutathione ( DB00143 ) , to release hepatic insulin-sensitizing substance ( HISS ) , a hormone that acts selectively on skeletal muscle to stimulate insulin-mediated glucose uptake . Blockade of the parasympathetic feeding signal to the liver , either through surgical denervation or atropine-mediated antagonism of hepatic muscarinic receptors , eliminates the HISS response , resulting in HISS-dependent insulin resistance ( HDIR ) and decreasing the response to insulin by approximately 55 % in the fed state . P01308 action in Sprague-Dawley rats , as determined with a rapidly sampled , transient euglycemic clamp in response to insulin ( 50 mU/kg ) , is decreased in a dose-dependent manner by atropine . In this study , we have used the ED75 atropine-induced model of HDIR . After a submaximal dose of atropine , potentiation of the remaining parasympathetic effect with the acetylcholinesterase antagonist neostigmine significantly restored postprandial insulin sensitization in a dose-dependent manner with peak effect at 0.1 microg/kg/min . DB01400 reversed the insulin resistance induced by partial fasting and partial muscarinic inhibition ( hepatic DB00143 levels are at fed levels ) , but not that induced by surgical hepatic denervation ( DB00143 normal , no nerve signal ) or 24-h fasting ( low DB00143 ) . No potentiation of the response to insulin by neostigmine occurred in normal , fed rats . The data suggest the use of either direct or indirectly acting cholinergic agonists for the treatment of impaired postprandial insulin sensitization .",
+    "P42345 mediates RhoA-dependent leptin-induced cardiomyocyte hypertrophy . Obesity is associated with increased leptin production which may contribute to cardiac hypertrophy . However , the mechanism of leptin-induced cardiac hypertrophy remains incompletely understood . The Rho family ( RhoA , Rac1 , and Cdc42 ) and mammalian target of rapamycin ( P42345 ) have recently emerged as important regulators of cell growth . We therefore explored the roles and interrelationships of phosphatidylinositol 3-kinase ( PI3K ) , P42345 , and the Rho family in the regulation of actin polymerization and leptin-induced hypertrophy in cultured neonatal rat ventricular myocytes . Five minutes treatment with leptin ( 3.1 nM ) resulted in activation of RhoA and Rac1 ( by 330 and 160 % , respectively , P < 0.05 ) which was significantly attenuated by AG-490 ( 50 μM ) and LY294002 ( 10 μM ) , specific inhibitors of O60674 and PI3K , respectively . However , Cdc42 activity was unaffected by leptin . The hypertrophic effect of leptin was associated with an increase in phosphorylation of P08133 (S6K) , the major target of P42345 , by 110 % ( P < 0.05 ) . The specific P42345 inhibitor rapamycin ( 10 nM ) attenuated leptin-induced RhoA and Rac1 activation . Furthermore , the leptin-induced decrease in the G/F-actin ratio , a measure of actin polymerization , was blunted by rapamycin . Leptin produced activation of the transcriptional factor P43694 which was attenuated by the RhoA inhibitor P01024 , the p38 MAPK inhibitor SB203580 ( 10 μM ) as well as rapamycin . Our results demonstrate a critical role for PI3K/ P42345 / P08133 (S6K) in leptin-induced RhoA activation resulting in cardiomyocyte hypertrophy associated with P43694 stimulation .",
+    "Stem cell quiescence . Adult stem cells are maintained in a quiescent state but are able to exit quiescence and rapidly expand and differentiate in response to stress . The quiescent state appears to be necessary for preserving the self-renewal of stem cells and is a critical factor in the resistance of cancer stem cells ( CSCs ) to chemotherapy and targeted therapies . Limited knowledge about quiescence mechanisms has prevented significant advances in targeting of drug-resistant quiescent CSCs populations in the clinic . Thus , an improved understanding of the molecular mechanisms of quiescence in adult stem cells is critical for the development of molecularly targeted therapies against quiescent CSCs in different cancers . Recent studies have provided a better understanding of the intrinsic and extrinsic regulatory mechanisms that control stem cell quiescence . It is now appreciated that the p53 gene plays a critical role in regulating stem cell quiescence . Other intrinsic regulatory mechanisms include the FoxO , HIF-1α , and O95644 transcription factors and signaling through Q13315 and P42345 . Extrinsic microenvironmental regulatory mechanisms include angiopoietin-1 , TGF-β , bone morphogenic protein , thrombopoietin , P19022 , and integrin adhesion receptors ; Wnt/β-catenin signaling ; and osteopontin . In this article , we review current advances in understanding normal stem cell quiescence , their significance for CSC quiescence and drug resistance , and the potential clinical applications of these findings .",
+    "Whole blood lead concentration and erythrocyte delta-aminolevulinic acid dehydratase ( P13716 ) activity in selected canine populations in Greece . In a total number of 275 dogs of various ages , sex and breed , blood lead concentrations ( O43927 ) and erythrocyte P13716 activity were measured . Sixty-six of the dogs were living in lead mining areas ( Group A ) , 157 in urban areas ( Group B ) and 52 in rural areas ( Group C ) of Greece . Mean O43927 differed significantly ( P < 0.05 ) between locations and were 326,97 and 68 micrograms/L , respectively . Mean P13716 activity was significantly different ( P < 0.05 ) only between Groups A and B as between groups A and C . A significant ( P < 0.05 ) negative correlation existed between O43927 and P13716 activity . A normal range of erythrocyte P13716 activity of 807-992 mumol/ DB02272 /LRBC/h was established for dogs . None of the 33 Group A dogs and 2 of the Group B dogs that had a O43927 of 350 micrograms/L presented clinical signs indicating acute or chronic lead intoxication . No erythrocyte basophilic stippling or large number of nucleated red blood cells were seen in the 30 dogs of Group A with O43927 > 350 micrograms/L .",
+    "Pathways targeted by antidiabetes drugs are enriched for multiple genes associated with type 2 diabetes risk . Genome-wide association studies ( GWAS ) have uncovered > 65 common variants associated with type 2 diabetes ( T2D ) ; however , their relevance for drug development is not yet clear . Of note , the first two T2D-associated loci ( P37231 and Q14654 / Q09428 ) encode known targets of antidiabetes medications . We therefore tested whether other genes/pathways targeted by antidiabetes drugs are associated with T2D . We compiled a list of 102 genes in pathways targeted by marketed antidiabetic medications and applied Gene Set Enrichment Analysis ( MAGENTA [ Meta-Analysis Gene-set Enrichment of variaNT Associations ] ) to this gene set , using available GWAS meta-analyses for T2D and seven quantitative glycemic traits . We detected a strong enrichment of drug target genes associated with T2D ( P = 2 × 10(-5) ; 14 potential new associations ) , primarily driven by insulin and thiazolidinedione ( TZD ) targets , which was replicated in an independent meta-analysis ( Metabochip ) . The glycemic traits yielded no enrichment . The T2D enrichment signal was largely due to multiple genes of modest effects ( P = 4 × 10(-4) , after removing known loci ) , highlighting new associations for follow-up ( P33121 , P19838 , P11168 , incretin targets ) . Furthermore , we found that TZD targets were enriched for LDL cholesterol associations , illustrating the utility of this approach in identifying potential side effects . These results highlight the potential biomedical relevance of genes revealed by GWAS and may provide new avenues for tailored therapy and T2D treatment design .",
+    "A new 12-gene diagnostic biomarker signature of melanoma revealed by integrated microarray analysis . Genome-wide microarray technology has facilitated the systematic discovery of diagnostic biomarkers of cancers and other pathologies . However , meta-analyses of published arrays often uncover significant inconsistencies that hinder advances in clinical practice . Here we present an integrated microarray analysis framework , based on a genome-wide relative significance ( GWRS ) and genome-wide global significance ( GWGS ) model . When applied to five microarray datasets on melanoma published between 2000 and 2011 , this method revealed a new signature of 200 genes . When these were linked to so-called ' melanoma driver ' genes involved in MAPK , Ca(2+) , and WNT signaling pathways we were able to produce a new 12-gene diagnostic biomarker signature for melanoma ( i.e., P00533 , P21802 , P22607 , P10145 , P10586 , P24821 , O43927 , P12107 , O43745 , Q6S5L8 , Q9Y2T4 , and P56705 ) . We have begun to experimentally validate a subset of these genes involved in MAPK signaling at the protein level , including O43927 , P12107 , P10586 and Q6S5L8 and found these to be over-expressed in metastatic and primary melanoma cells in vitro and in situ compared to melanocytes cultured from healthy skin epidermis and normal healthy human skin . While Q6S5L8 has been reported previously to be associated to melanoma , this is the first time O43927 , P12107 , and P10586 have been associated with melanoma on experimental validation . Our computational evaluation indicates that this 12-gene biomarker signature achieves excellent diagnostic power in distinguishing metastatic melanoma from normal skin and benign nevus . Further experimental validation of the role of these 12 genes in a new signaling network may provide new insights into the underlying biological mechanisms driving the progression of melanoma .",
+    "Targeting tumorigenesis : development and use of P42345 inhibitors in cancer therapy . The mammalian target of rapamycin ( P42345 ) is an intracellular serine/threonine protein kinase positioned at a central point in a variety of cellular signaling cascades . The established involvement of P42345 activity in the cellular processes that contribute to the development and progression of cancer has identified P42345 as a major link in tumorigenesis . Consequently , inhibitors of P42345 , including temsirolimus , everolimus , and ridaforolimus ( formerly deforolimus ) have been developed and assessed for their safety and efficacy in patients with cancer . DB06287 is an intravenously administered agent approved by the US Food and Drug Administration ( FDA ) and the European Medicines Agency ( EMEA ) for the treatment of advanced renal cell carcinoma ( RCC ) . DB01590 is an oral agent that has recently obtained US FDA and EMEA approval for the treatment of advanced RCC after failure of treatment with sunitinib or sorafenib . Ridaforolimus is not yet approved for any indication . The use of P42345 inhibitors , either alone or in combination with other anticancer agents , has the potential to provide anticancer activity in numerous tumor types . Cancer types in which these agents are under evaluation include neuroendocrine tumors , breast cancer , leukemia , lymphoma , hepatocellular carcinoma , gastric cancer , pancreatic cancer , sarcoma , endometrial cancer , and non-small-cell lung cancer . The results of ongoing clinical trials with P42345 inhibitors , as single agents and in combination regimens , will better define their activity in cancer .",
+    "DB06287 induces surfactant lipid accumulation and lung inflammation in mice . Interstitial lung disease ( ILD ) is a well-known adverse effect of mammalian target of rapamycin ( P42345 ) inhibitors . However , it remains unknown how lung toxicities are induced by P42345 inhibitors . Here , we constructed a mouse model of P42345 inhibitor-induced ILD using temsirolimus and examined the pathogenesis of the disease . Male ICR mice were treated with an intraperitoneal injection of different doses of temsirolimus ( 3 or 30 mg·kg(-1)·wk(-1) ) or vehicle . DB06287 treatment increased capillary-alveolar permeability and induced neutrophil infiltration and fibrinous exudate into the alveolar space , indicating alveolar epithelial and/or endothelial injury . It also induced macrophage depletion and the accumulation of excessive surfactant phospholipids and cholesterols . Alveolar macrophage depletion is thought to cause surfactant lipid accumulation . To further examine whether temsirolimus has cytotoxic and/or cytostatic effects on alveolar macrophages and alveolar epithelial cells , we performed in vitro experiments . DB06287 inhibited cell proliferation and viability in both alveolar macrophage and alveolar epithelial cells . DB06287 treatment caused some signs of pulmonary inflammation , including upregulated expression of several proinflammatory cytokines in both bronchoalveolar lavage cells and lung homogenates , and an increase in lymphocytes in the bronchoalveolar lavage fluid . These findings indicate that temsirolimus has the potential to induce alveolar epithelial injury and to deplete alveolar macrophages followed by surfactant lipid accumulation , resulting in pulmonary inflammation . This is the first study to focus on the pathogenesis of P42345 inhibitor-induced ILD using an animal model .",
+    "Prolonged DB01221 -mediated responses , altered ifenprodil sensitivity , and epileptiform-like events in the malformed hippocampus of methylazoxymethanol exposed rats . Cortical malformations are often associated with refractory epilepsy and cognitive deficit . Clinical and experimental studies have demonstrated an important role for glutamate-mediated synaptic transmission in these conditions . Using whole cell voltage-clamp techniques , we examined evoked glutamate-mediated excitatory postsynaptic currents ( eEPSCs ) and responses to exogenously applied glutamate on hippocampal heterotopic cells in an animal model of malformation i.e. , rats exposed to methylazoxymethanol ( MAM ) in utero . Analysis revealed that the late N-methyl-D-aspartate ( DB01221 ) receptor-mediated eEPSC component was significantly increased on heterotopic cells compared with age-matched normotopic pyramidal cells . At a holding potential of +40 mV , heterotopic cells also exhibited eEPSCs with a slower decay-time constant . No differences in the alpha-amino-3-hydroxy-5-methyl-4-isoxazole propionic acid ( AMPA ) component of eEPSCs were detected . In 23 % of heterotopic pyramidal cells , electrical stimulation evoked prolonged burst-like responses . Focal application of glutamate ( 10 mM ) targeted to different sites near the heterotopia also evoked epileptiform-like bursts on heterotopic cells . DB08954 ( 10 microM ) , an Q13224 subunit antagonist , only slightly reduced the DB01221 receptor ( NMDAR ) -mediated component and amplitude of eEPSCs on heterotopic cells ( MAM ) but significantly decreased the late component and peak amplitude of eEPSCs in normotopic cells ( control ) . Our data demonstrate a functional alteration in the DB01221 -mediated component of excitatory synaptic transmission in heterotopic cells and suggest that this alteration may be attributable , at least in part , to changes in composition and function of the NMDAR subunit . Changes in NMDAR function may directly contribute to the hyperexcitability and cognitive deficits reported in animal models and patients with brain malformations .",
+    "P01308 growth factor-receptor ( IGF-1R ) antibody cixutumumab combined with the P42345 inhibitor temsirolimus in patients with refractory Ewing 's sarcoma family tumors . PURPOSE : DB06287 was combined with cixutumumab , a fully human IgG1 monoclonal antibody directed at the insulin growth factor-1 receptor ( IGF-1R ) . EXPERIMENTAL DESIGN : Patients received cixutumumab , 6 mg/kg i.v. weekly , and temsirolimus , 25 to 37.5 mg i.v. weekly ( 4-week cycles ) , with restaging after 8 weeks . Median follow-up was 8.9 months . RESULTS : Twenty patients [ 17 with Ewing 's sarcoma ( Q01844 ) , 3 with desmoplastic small-round cell tumor ( DSRCT ) ] were enrolled . Twelve patients ( 60 % ) were men with a median age of 24 years and six median prior systemic therapies in a metastatic setting . The most frequent toxicities were thrombocytopenia ( 85 % ) , mucositis ( 80 % ) , hypercholesterolemia ( 75 % ) , hypertriglyceridemia ( 70 % ) , and hyperglycemia ( 65 % ; mostly grade I-II ) . Seven of 20 patients ( 35 % ) achieved stable disease ( SD ) for more than 5 months or complete/partial ( CR/PR ) responses . Tumor regression of more than 20 % ( 23 % , 23 % , 27 % , 100 % , 100 % ) occurred in five of 17 ( 29 % ) patients with Q01844 , and they remained on study for 8 to 27 months . One of six patients with Q01844 who previously developed resistance to a different IGF-1R inhibitor antibody achieved a CR . Four of the seven best responders developed grade III mucositis , myelosuppression , or hyperglycemia , which were controlled while maintaining drug dose . CONCLUSION : Cixutumumab combined with temsirolimus was well-tolerated and showed preliminary evidence of durable antitumor activity in heavily pretreated Q01844 family tumors .",
+    "Developmental programming : effect of prenatal steroid excess on intraovarian components of insulin signaling pathway and related proteins in sheep . Prenatal testosterone ( T ) excess increases ovarian follicular recruitment , follicular persistence , insulin resistance , and compensatory hyperinsulinemia . Considering the importance of insulin in ovarian physiology , in this study , using prenatal T- and dihydrotestosterone ( DB02901 , a nonaromatizable androgen ) -treated female sheep , we tested the hypothesis that prenatal androgen excess alters the intraovarian insulin signaling cascade and metabolic mediators that have an impact on insulin signaling . Changes in ovarian insulin receptor ( INSRB ) , insulin receptor substrate 1 ( P35568 ) , mammalian target of rapamycin ( P42345 ) , phosphatidylinositol 3-kinase ( PIK3 ) , peroxisome proliferator-activated receptor-gamma ( P37231 ) , and adiponectin proteins were determined at fetal ( Days 90 and 140 ) , postpubertal ( 10 mo ) , and adult ( 21 mo ) ages by immunohistochemistry . Results indicated that these proteins were expressed in granulosa , theca , and stromal compartments , with INSRB , P35568 , P37231 , and adiponectin increasing in parallel with advanced follicular differentiation . Importantly , prenatal T excess induced age-specific changes in P37231 and adiponectin expression , with increased P37231 expression evident during fetal life and decreased antral follicular adiponectin expression during adult life . Comparison of developmental changes in prenatal T and DB02901 -treated females found that the effects on P37231 were programmed by androgenic actions of T , whereas the effects on adiponectin were likely by its estrogenic action . These results suggest a role for P37231 in the programming of ovarian disruptions by prenatal T excess , including a decrease in antral follicular adiponectin expression and a contributory role for adiponectin in follicular persistence and ovulatory failure .",
+    "Dual P00533 and P42345 targeting in squamous cell carcinoma models , and development of early markers of efficacy . The epidermal growth factor receptor ( P00533 ) is a validated target in squamous cell carcinoma ( SCC ) of the head and neck . Most patients , however , do not respond or develop resistance to this agent . P42345 ( P42345 ) is involved in the pathogenesis of SCC of the head and neck ( SCCHN ) . This study aimed to determine if targeting P42345 in combination with P00533 is effective in SCC , and to develop early pharmacodynamic markers of efficacy . Two SCC cell lines , one resistant ( HEP2 ) and one of intermediate susceptibility ( Detroit 562 ) to P00533 inhibitors , were xenografted in vivo and treated with an P42345 inhibitor ( temsirolimus ) , an P00533 inhibitor ( erlotinib ) or a combination of both . DB06287 exerted superior growth arrest in both cell lines than erlotinib . The combined treatment resulted in synergistic antitumor effects in the Detroit 562 cell line . Immunohistochemical assessment of pharmacodynamic effects in fine-needle aspiration ( FNA ) biopsies early after treatment using phospho MAPK , Phospho-P70 and Ki67 as end points demonstrated pathway abrogation in the Detroit 562 tumours treated with the combination , the only group where regressions were seen . In conclusion , an P42345 inhibitor showed antitumor activity in P00533 -resistant SCC cell lines . Marked antitumor effects were associated with dual pathway inhibition , which were detected by early FNA biopsies .",
+    "Mutational analysis of the mitochondrial P47985 of Saccharomyces cerevisiae . II . Biochemical characterization of temperature-sensitive Q13546 - mutations . Although the function of the P47985 is generally understood , little is known of how the structure of this protein supports its mechanistic role in electron transfer in the cytochrome bc1 complex . To better understand the structural basis of iron-sulfur protein function , we have undertaken a mutational analysis of the gene encoding this protein and initially isolated five temperature-sensitive iron-sulfur protein mutants ( Beckmann , J. D. , Ljungdahl , P. O. , and Trumpower , B. L. ( 1989 ) J. Biol. Chem. 264 , 3713-3722 ) . Each of the five ts-rip1- mutants exhibited pleiotropic effects . Although the mutant iron-sulfur proteins manifest several in vitro phenotypes in common , each exhibited unique characteristics . All of the ts-rip1- mutations resulted in membranes with decreased ubiquinol-cytochrome c oxidoreductase activities and decreased thermostability compared to membranes containing wild type iron-sulfur protein . All of the mutations conferred slight but significant resistance to the respiratory inhibitor myxothiazol , and one mutant was hypersensitive to inhibition by DB04799 , a structural analog of ubiquinone . In addition , one of the mutations completely blocks post-translational processing of the iron-sulfur protein , leading to accumulation of pre-iron-sulfur protein in mitochondrial membranes at nonpermissive temperatures . Finally , a mutation 12-amino acid residues away from the carboxyl terminus ( 203S ) results in an extremely unstable protein . This region of the protein may be essential in blocking degradation of pre-iron-sulfur protein by cytoplasmic proteases as the protein is imported into the mitochondria , or may be a \" degradation signal , \" which tags the iron-sulfur protein for turnover .",
+    "DB05311 ( DX-88 ) , a plasma kallikrein inhibitor for the treatment of hereditary angioedema and the prevention of blood loss in on-pump cardiothoracic surgery . BACKGROUND : P03952 plays a major role in the contact ( kallikrein-kinin ) cascade producing bradykinin . Bradykinin is a vasodilator , which increases vascular permeability , activates inflammation and produces pain . P03952 is also crosslinked to the coagulation system and the complement cascade . OBJECTIVE : DB05311 ( DX-88 ) is a potent and specific inhibitor of plasma kallikrein . DB05311 is a recombinantly produced and engineered small protein based on the first Kunitz domain of human tissue factor pathway inhibitor . It was identified through phage display technology . METHODS : The search terms ' ecallantide ' , ' DX-88 ' and ' hereditary angioedema ' were entered into Pubmed/Medline , ClinicalTrials and Google . RESULTS/CONCLUSION : At present , the drug is being studied for two major indications . First , the results for the treatment of hereditary angioedema are promising . Second , a prospective randomised multi-centre trial for the reduction of blood loss during on-pump cardiothoracic surgery will be terminated in October 2008 ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB06287 is an intravenously administered agent approved for the treatment of advanced renal cell carcinoma.\nDB06287 is a mammalian target of rapamycin (P42345) inhibitor.\nDB06287 induces surfactant lipid accumulation and lung inflammation in mice.\nDB06287 inhibits cell proliferation and viability in alveolar macrophage and alveolar epithelial cells.\nDB06287 is also known as temsirolimus.\nDB06287 is used in combination with cixutumumab in patients with refractory Ewing's sarcoma family tumors.\nDB06287 is a P42345 inhibitor and interacts with the mTOR pathway.\nDB01400 reverses insulin resistance induced by partial fasting and partial muscarinic inhibition.\nDB01400 does not reverse insulin resistance induced by surgical hepatic denervation or 24-hour fasting.\nDB01400 is not a P42345 inhibitor and does not interact with DB06287.\nDB00222 is an insulin secretagogue that interacts with the DB00171-sensitive potassium channel.\nDB00222 does not interact with DB06287.\nDB00669 is a compound that induces contraction in brain vessels via the P28222 receptor.\nDB00669 does not interact with DB06287.\nDB01541 is a compound used in silencing AR expression in bladder cancer cells.\nDB01541 does not interact with DB06287.\nDB02272 is a unit of measurement in erythrocyte P13716 activity.\nDB02272 is not a drug and does not interact with DB06287.\nDB03769 is a potent inhibitor of S-adenosyl-l-homocysteine hydrolase.\nDB03769 does not interact with DB06287.\nDB04799 is a structural analog of ubiquinone and inhibits the cytochrome bc1 complex.\nDB04799 does not interact with DB06287.\nDB05311 is a plasma kallikrein inhibitor used for hereditary angioedema.\nDB05311 does not interact with DB06287.\nDB08954 is an antagonist of the Q13224 subunit of the NMDA receptor.\nDB08954 does not interact with DB06287.\nDB06287 interacts with the mTOR pathway and is not known to interact with any of the listed compounds.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB06287 is an intravenously administered agent approved for the treatment of advanced renal cell carcinoma",
+    "DB06287 is a mammalian target of rapamycin (P42345) inhibitor",
+    "DB06287 induces surfactant lipid accumulation and lung inflammation in mice",
+    "DB06287 inhibits cell proliferation and viability in alveolar macrophage and alveolar epithelial cells",
+    "DB06287 is also known as temsirolimus",
+    "DB06287 is used in combination with cixutumumab in patients with refractory Ewing's sarcoma family tumors",
+    "DB06287 is a P42345 inhibitor and interacts with the mTOR pathway",
+    "DB01400 reverses insulin resistance induced by partial fasting and partial muscarinic inhibition",
+    "DB01400 does not reverse insulin resistance induced by surgical hepatic denervation or 24-hour fasting",
+    "DB01400 is not a P42345 inhibitor and does not interact with DB06287",
+    "DB00222 is an insulin secretagogue that interacts with the DB00171-sensitive potassium channel",
+    "DB00222 does not interact with DB06287",
+    "DB00669 is a compound that induces contraction in brain vessels via the P28222 receptor",
+    "DB00669 does not interact with DB06287",
+    "DB01541 is a compound used in silencing AR expression in bladder cancer cells",
+    "DB01541 does not interact with DB06287",
+    "DB02272 is a unit of measurement in erythrocyte P13716 activity",
+    "DB02272 is not a drug and does not interact with DB06287",
+    "DB03769 is a potent inhibitor of S-adenosyl-l-homocysteine hydrolase",
+    "DB03769 does not interact with DB06287",
+    "DB04799 is a structural analog of ubiquinone and inhibits the cytochrome bc1 complex",
+    "DB04799 does not interact with DB06287",
+    "DB05311 is a plasma kallikrein inhibitor used for hereditary angioedema",
+    "DB05311 does not interact with DB06287",
+    "DB08954 is an antagonist of the Q13224 subunit of the NMDA receptor",
+    "DB08954 does not interact with DB06287",
+    "DB06287 interacts with the mTOR pathway and is not known to interact with any of the listed compounds"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB06287 is an intravenously administered agent approved for the treatment of advanced renal cell carcinoma",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB06287 is a mammalian target of rapamycin (P42345) inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB06287 induces surfactant lipid accumulation and lung inflammation in mice",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB06287 inhibits cell proliferation and viability in alveolar macrophage and alveolar epithelial cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB06287 is also known as temsirolimus",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB06287 is used in combination with cixutumumab in patients with refractory Ewing's sarcoma family tumors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB06287 is a P42345 inhibitor and interacts with the mTOR pathway",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01400 reverses insulin resistance induced by partial fasting and partial muscarinic inhibition",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB01400 does not reverse insulin resistance induced by surgical hepatic denervation or 24-hour fasting",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB01400 is not a P42345 inhibitor and does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00222 is an insulin secretagogue that interacts with the DB00171-sensitive potassium channel",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00222 does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00669 is a compound that induces contraction in brain vessels via the P28222 receptor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB00669 does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB01541 is a compound used in silencing AR expression in bladder cancer cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB01541 does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB02272 is a unit of measurement in erythrocyte P13716 activity",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB02272 is not a drug and does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB03769 is a potent inhibitor of S-adenosyl-l-homocysteine hydrolase",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB03769 does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "DB04799 is a structural analog of ubiquinone and inhibits the cytochrome bc1 complex",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "DB04799 does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C23",
+      "text": "DB05311 is a plasma kallikrein inhibitor used for hereditary angioedema",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C24",
+      "text": "DB05311 does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C25",
+      "text": "DB08954 is an antagonist of the Q13224 subunit of the NMDA receptor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C26",
+      "text": "DB08954 does not interact with DB06287",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C27",
+      "text": "DB06287 interacts with the mTOR pathway and is not known to interact with any of the listed compounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__55660c0a086b11ebbd5fac1f6bf848b6",
+  "sample_id": "55660c0a086b11ebbd5fac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born earlier, Toto In Paris or The Railroad Man?",
+  "gold_answer": "Toto In Paris",
+  "context": [
+    "The Railroad Man is a 1956 Italian drama film directed by Pietro Germi.",
+    "Maria Luisa Della Noce( 28 April 1923 – 15 May 2008) was an Italian actress. She was perhaps best known for her roles in the films\" The Railroad Man\"( 1956) and\" Juliet of the Spirits\"( 1965).",
+    "Rumbi Katedza is a Zimbabwean Film Producer and Director who was born on 17 January 1974.",
+    "Hassan Zee is a Pakistani- American film director who was born in Chakwal, Pakistan.",
+    "Toto in Madrid is an Italian comedy film from 1959, directed by Steno, written by Vittorio Metz, starring Totò and Louis de Funès. The film is known under the titles:\" Toto in Madrid\"( English title),\" Totò a MadridUn coup fumant\"( France),\" La culpa fue de Eva\"( Spain).",
+    "Richard Peters( November 10, 1810 – February 6, 1889) was an American railroad man and a founder of Atlanta, Georgia, in the 1840s.",
+    "Pietro Germi( 14 September 1914 – 5 December 1974) was an Italian actor, screenwriter, and director. Germi was born in Genoa, Liguria, to a lower- middle- class family. He briefly attended nautical school before deciding on a career in acting.",
+    "Toto in Paris( also known as\" Totò innamorato\") is a 1958 Italian- French comedy film directed by Camillo Mastrocinque.",
+    "Camillo Mastrocinque( 11 May 1901 – 23 April 1969) was an Italian film director and screenwriter. He directed 63 films between 1937 and 1968. He is known to horror film fans for directing\" Terror in the Crypt\"( 1964) starring Christopher Lee, and\" An Angel for Satan\"( 1966) starring Barbara Steele.",
+    "Alice of Wonderland in Paris or Alice in Paris is a 1966 Czech- American animated film directed by Gene Deitch and produced by William L. Snyder in extreme limited animation."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Railroad Man was directed by Pietro Germi.\nPietro Germi was born on 14 September 1914.\nToto in Paris was directed by Camillo Mastrocinque.\nCamillo Mastrocinque was born on 11 May 1901.\n1901 is earlier than 1914.\nThe director of Toto in Paris was born earlier than the director of The Railroad Man.\nThe film with the director born earlier is Toto in Paris.\n<answer> Toto in Paris",
+  "predicted_answer": "Toto in Paris",
+  "claims": [
+    "The Railroad Man was directed by Pietro Germi",
+    "Pietro Germi was born on 14 September 1914",
+    "Toto in Paris was directed by Camillo Mastrocinque",
+    "Camillo Mastrocinque was born on 11 May 1901",
+    "1901 is earlier than 1914",
+    "The director of Toto in Paris was born earlier than the director of The Railroad Man",
+    "The film with the director born earlier is Toto in Paris"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Railroad Man was directed by Pietro Germi",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Pietro Germi was born on 14 September 1914",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Toto in Paris was directed by Camillo Mastrocinque",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Camillo Mastrocinque was born on 11 May 1901",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1901 is earlier than 1914",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director of Toto in Paris was born earlier than the director of The Railroad Man",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born earlier is Toto in Paris",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "uid": "medhop__MH_dev_174",
+  "sample_id": "MH_dev_174",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00036\", \"DB00094\", \"DB01084\", \"DB01186\", \"DB01520\", \"DB01819\", \"DB04964\", \"DB05424\", and \"DB08907\" interacts with DB04868?",
+  "gold_answer": "DB08907",
+  "context": [
+    "Novel splice variants of the bovine P35558 gene . DB01819 carboxykinase 1 ( P35558 ) , also named P35558 , is a multiple-function gene that is involved in gluconeogenesis , glyceroneogenesis , reproduction , female fertility , and development of obesity and diabetes . How its many functions are regulated was largely unknown . Therefore , we investigated mRNA expression and possible splice variants of P35558 by screening cDNA in nine tissues from Holstein bulls and cows . P35558 mRNA was highly expressed in the liver , kidney , ovary and testis ; expression levels were low in the heart , spleen , and lung tissues . Expression of this gene was not detected in skeletal muscle . This led to the discovery of five novel bovine splice variants , named P35558 -AS1- P35558 -AS5 . In P35558 -AS1 , 51 nucleotides in the interior of exon 2 were spliced out . In P35558 -AS2 , exons 2 and 3 were altered by the alternative 3' and 5' splice sites , respectively . P35558 - Q9NTI5 was truncated from the 3' end of exon 2 to the 5' end of exon 4 . In P35558 -AS4 , exon 5 was completely spliced out . In P35558 -AS5 , exons 5 and 6 and the 5' end of exon 7 were spliced out . These splice variants ( P35558 -AS1- P35558 -AS5 ) potentially encoded shorter proteins ( 605 , 546 , 373 , 246 and 274 amino acids , respectively ) , when compared to the complete protein ( 622 amino acids ) . Considering the functional domains of the P35558 protein , it is likely that these splice variants considerably affect the function of this protein ; alternative splicing could be one of the mechanisms by which the diverse functions of P35558 are regulated .",
+    "DB11320 Promotes the Release of P05231 via the P35367 /p38 and NF-κB Pathways in Nasal Fibroblasts . PURPOSE : Based on the close relationship between histamine and interleukin 6 ( P05231 ) , we hypothesized that histamine may regulate the production of cytokines , such as P05231 , during allergic inflammation . Here , we examined the role of histamine in P05231 production and histamine receptor activity in nasal fibroblasts , along with the mechanisms underlying these effects . METHODS : Experiments were performed using nasal fibroblasts from 8 normal patients . RT-PCR was used to identify the major histamine receptors expressed in nasal fibroblasts . Fibroblasts were then treated with histamine with or without histamine-receptor antagonists , and monitored for P05231 production using an ELISA . Four potential downstream signaling molecules , p38 , extracellular signal-regulated kinase ( P29323 ) , c-Jun N-terminal kinase ( JNK ) , and NF-κB , were evaluated by Western blot , and a luciferase reporter assay . RESULTS : Elevated expression was seen for all histamine receptors , with P05231 protein levels increasing significantly following histamine stimulation . Among the histamine-receptor specific antagonists , only the P35367 antagonist significantly decreased P05231 production in histamine-stimulated nasal fibroblasts . DB11320 increased the expression level of phosphorylated p38 ( pp38 ) , pERK , and pJNK , as well as NF-κB induction . The P35367 antagonist actively suppressed pp38 and NF-κB expression in histamine-induced nasal fibroblasts , but not pERK and pJNK . The p38 inhibitor strongly attenuated P05231 production in histamine-stimulated nasal fibroblasts . CONCLUSIONS : The data presented here suggest that antihistamines may be involved in the regulation of cytokines , such as P05231 , due to the role of histamine as an inflammatory mediator in nasal fibroblasts .",
+    "Partially deglycosylated equine LH preferentially activates beta-arrestin-dependent signaling at the follicle-stimulating hormone receptor . Deglycosylated DB00094 is known to trigger poor Galphas coupling while efficiently binding its receptor . In the present study , we tested the possibility that a deglycosylated equine LH ( eLHdg ) might be able to selectively activate beta-arrestin-dependent signaling . We compared native eLH to an eLH derivative [ i.e. truncated eLHbeta ( Delta121-149 ) combined with asparagine56-deglycosylated eLHalpha ( eLHdg ) ] previously reported as an antagonist of DB02527 accumulation at the DB00094 receptor ( P23945 ) . We confirmed that , when used in conjunction with DB00094 , eLHdg acted as an antagonist for DB02527 accumulation in P29320 -293 cells stably expressing the P23945 . Furthermore , when used alone at concentrations up to 1 nM , eLHdg had no detectable agonistic activity on DB02527 accumulation , protein kinase A activity or DB02527 -responsive element-dependent transcriptional activity . At higher concentrations , however , a weak agonistic action was observed with eLHdg , whereas eLH led to robust responses whatever the concentration . Both eLH and eLHdg triggered receptor internalization and led to beta-arrestin recruitment . Both eLH and eLHdg triggered P29323 and ribosomal protein ( rp ) S6 phosphorylation at 1 nM . The depletion of endogenous beta-arrestins had only a partial effect on eLH-induced P29323 and rpS6 phosphorylation . In contrast , P29323 and rpS6 phosphorylation was completely abolished at all time points in beta-arrestin-depleted cells . Together , these results show that eLHdg has the ability to preferentially activate beta-arrestin-dependent signaling at the P23945 . This finding provides a new conceptual and experimental framework to revisit the physiological meaning of gonadotropin structural heterogeneity . Importantly , it also opens a field of possibilities for the development of selective modulators of gonadotropin receptors .",
+    "A set of consensus mammalian mediator subunits identified by multidimensional protein identification technology . The Mediator is a multiprotein transcriptional coactivator that is expressed ubiquitously in eukaryotes from yeast to mammals and is required for induction of RNA polymerase II ( pol II ) transcription by DNA binding transcription factors . In the work described here , we exploit multidimensional protein identification technology ( MudPIT ) to carry out a proteomic analysis of the subunit composition of the mammalian Mediator complex . By comparing MudPIT data sets obtained from six independent Mediator preparations immunoaffinity purified through their Nut2 ( Q9BTT4 ) , Med25 ( Q9NWA0 ) , Intersex ( Q9NX70 ) , A0JLT2 ( A0JLT2 ) , AK007855 ( Q9H204 ) , or CRSP70 ( O95402 ) subunits , we identify a set of consensus mammalian Mediator subunits . In addition , we identify as Mediator-associated proteins the P49336 -like cyclin-dependent kinase CDK11 and the Q9UHV7 -like Q71F56 protein ( Q71F56 ) , which is mutated in patients with the congenital heart defect transposition of the great arteries ( TGA ) .",
+    "Modulation of NMDAR subunit expression by O94759 channels regulates neuronal vulnerability to ischemic cell death . Neuronal vulnerability to ischemia is dependent on the balance between prosurvival and prodeath cellular signaling . In the latter , it is increasingly appreciated that toxic Ca(2+) influx can occur not only via postsynaptic glutamate receptors , but also through other cation conductances . One such conductance , the Transient receptor potential melastatin type-2 ( O94759 ) channel , is a nonspecific cation channel having homology to Q96QT4 , a conductance reported to play a key role in anoxic neuronal death . The role of O94759 conductances in ischemic Ca(2+) influx has been difficult to study because of the lack of specific modulators . Here we used O94759 -null mice ( O94759 (-/-) ) to study how O94759 may modulate neuronal vulnerability to ischemia . O94759 (-/-) mice subjected to transient middle cerebral artery occlusion exhibited smaller infarcts when compared with wild-type animals , suggesting that the absence of O94759 is neuroprotective . Surprisingly , field potentials ( fEPSPs ) recorded during redox modulation in brain slices taken from O94759 (-/-) mice revealed increased excitability , a phenomenon normally associated with ischemic vulnerability , whereas wild-type fEPSPs were unaffected . The upregulation in fEPSP in O94759 (-/-) neurons was blocked selectively by a Q12879 antagonist . This increase in excitability of O94759 (-/-) fEPSPs during redox modulation depended on the upregulation and downregulation of Q12879 - and Q13224 -containing NMDARs , respectively , and on augmented prosurvival signaling via Akt and P29323 pathways culminating in the inhibition of the proapoptotic factor GSK3β . Our results suggest that O94759 plays a role in downregulating prosurvival signals in central neurons and that O94759 channels may comprise a therapeutic target for preventing ischemic damage .",
+    "Association between severe toxicity of nilotinib and P22309 polymorphisms in Japanese patients with chronic myelogenous leukemia . BACKGROUND : DB04868 is a P11274 - P00519 kinase inhibitor approved for the treatment of Philadelphia chromosome-positive chronic myelogenous leukemia ( CML ) . The P22309 ( P22309 ) polymorphism P22309 *28 ( *28 ) /*28 has been linked to an increased risk of hyperbilirubinemia in patients with CML who receive nilotinib . Beside *28 , P22309 *6 ( *6 ) is another important variant allele in Japanese patients because it is associated with adverse events of irinotecan , metabolized by P22309 . We retrospectively investigated the association between severe toxicity of nilotinib and P22309 polymorphisms ( *6 and*28 ) in Japanese patients with CML . PATIENTS AND METHODS : Eight patients with cytogenetically confirmed CML who were receiving nilotinib were studied to explore the association of P22309 polymorphisms with severe nilotinib-related toxicity . Genotyping analyses were determined for *6 and *28 . RESULTS : All 3 patients with the *6/*6 or *6/*28 genotype had severe toxicity , including QT interval prolongation ( grade 3 ) , elevated lipase levels ( grade 3 ) plus hyperbilirubinemia ( grade 2 ) , and anemia ( grade 3 ) plus hepatic cyst hemorrhage ( grade 2 ) in 1 patient each . Among the 5 patients with the *6/*1 or *1/*1 genotype , 1 had elevated lipase levels ( grade 3 ) and another had severe pain in the lower extremities ( grade 3 ) . CONCLUSION : These findings suggest that P22309 polymorphisms are important determinants of severe toxicity of nilotinib in Japanese patients .",
+    "DB04868 for the treatment of chronic myeloid leukemia . The introduction of targeted therapy has revolutionized the treatment of chronic myeloid leukemia ( CML ) . The pivotal role of the Philadelphia chromosome , resulting from the breakpoint cluster region-Abelson ( P11274 - P00519 ) translocation , led to the development of imatinib mesylate , a tyrosine kinase inhibitor with significant activity against the P11274 - P00519 oncoprotein . Unprecedented clinical activity in CML led to rapid approval and established first-line therapy with imatinib mesylate as the standard of care in most patients . However , the occurrence of imatinib resistance or intolerance has sparked the development of newer drugs with increased activity or specificity . DB04868 is a second-generation tyrosine kinase inhibitor that has been rationally designed on the basis of imatinib . An overview is given on clinical results in imatinib-resistant or -intolerant patients that led to its current approval as second-line therapy for the chronic and accelerated phases of CML . Future studies will address the role of nilotinib as first-line therapy , in combination strategies and in the context of specific P11274 - P00519 mutations .",
+    "DB00207 selectively reduces tumor necrosis factor alpha levels in cystic fibrosis airway epithelial cells . DB00207 ( AZM ) ameliorates lung function in cystic fibrosis ( CF ) patients . This macrolide has been suggested to have anti-inflammatory properties as well as other effects potentially relevant for therapy of CF . In this study , we utilized three CF ( IB3-1 , 16HBE14o- Q9NTI5 , and 2CFSMEo- ) and two isogenic non-CF ( C38 and 16HBE14o- S1 ) airway epithelial cell lines to investigate whether AZM could reduce tumor necrosis factor alpha ( P01375 ) mRNA and protein levels by real-time quantitative PCR analysis and an enzyme-linked immunosorbent assay ( ELISA ) , respectively . We studied the effects on the DNA binding of NF-kappaB and specificity protein 1 ( Sp1 ) by an ELISA . Non-CF cells express significantly lower P01375 mRNA and protein levels than an isogenic CF cell line . In CF cells , AZM treatment causes a 30 % reduction of P01375 mRNA levels ( P < 0.05 ) and a 45 % decrease in P01375 secretion ( P < 0.05 ) , reaching approximately the levels of the untreated isogenic non-CF cells . In CF cells , NF-kappaB and Sp1 DNA binding activities were also significantly decreased ( about 45 and 60 % , respectively ; P < 0.05 ) after AZM treatment . DB01321 , a macrolide lacking clinically described anti-inflammatory effects , was ineffective . Finally , AZM did not alter the mRNA expression levels of interleukin-6 , a proinflammatory molecule not differentially expressed in CF and isogenic non-CF cells . The results of our study support the anti-inflammatory activities of this macrolide , since we show that AZM reduced the levels of P01375 and propose inhibitions of NF-kappaB and Sp1 DNA binding as possible mechanisms of this effect .",
+    "Evidence for interaction of human anti-idiotypic antibodies with CA 125 determination in a patient after radioimmunodetection . Very high concentrations of CA 125 have been found in some ovarian cancer patients after repeated radioimmunodetection with anti-CA 125 antibodies [ OC125-F(ab')2 ] . In one patient we measured a CA 125 concentration of 135,000 kilo-arb . units/L , using an enzyme immunoassay involving OC125 antibodies . With an immunoradiometric assay involving use of two new anti-CA 125 antibodies ( DB04964 and Q8TCY5 .1 ) , the CA 125 concentration was 34 kilo-arb . units/L , indicating a discrepancy . The component responsible for the high result in the enzyme immunoassay could be purified by immunoaffinity chromatography on Protein A-Sepharose . Furthermore this component bound to anti-human IgG-Sepharose in the same manner as did the serum IgG fraction . Adsorption of human anti-mouse antibodies present in the serum did not decrease the Q8WXI7 -like material . Binding of whole OC125 antibodies to the purified Q8WXI7 -like material was inhibited completely in the presence of CA 125 antigen . We infer that the false-positive CA 125 activity is ascribable to a human IgG directed against an idiotope of the OC125 antibody , which was induced by repeated application of OC125 antibodies . To avoid falsely positive results in patients receiving OC125 antibodies , CA 125 should be measured by an assay in which other antibodies are used .",
+    "Effect of canagliflozin on renal threshold for glucose , glycemia , and body weight in normal and diabetic animal models . BACKGROUND : DB08907 is a sodium glucose co-transporter ( SGLT ) 2 inhibitor in clinical development for the treatment of type 2 diabetes mellitus ( T2DM ) . METHODS : (14)C-alpha-methylglucoside uptake in Chinese hamster ovary-K cells expressing human , rat , or mouse SGLT2 or P13866 ; (3)H-2-deoxy-d-glucose uptake in Q9BTT4 myoblasts ; and 2-electrode voltage clamp recording of oocytes expressing human SGLT3 were analyzed . Graded glucose infusions were performed to determine rate of urinary glucose excretion ( UGE ) at different blood glucose ( BG ) concentrations and the renal threshold for glucose excretion ( RT(G) ) in vehicle or canagliflozin-treated Zucker diabetic fatty ( ZDF ) rats . This study aimed to characterize the pharmacodynamic effects of canagliflozin in vitro and in preclinical models of T2DM and obesity . RESULTS : Treatment with canagliflozin 1 mg/kg lowered RT(G) from 415±12 mg/dl to 94±10 mg/dl in ZDF rats while maintaining a threshold relationship between BG and UGE with virtually no UGE observed when BG was below RT(G) . DB08907 dose-dependently decreased BG concentrations in db/db mice treated acutely . In ZDF rats treated for 4 weeks , canagliflozin decreased glycated hemoglobin ( HbA1c ) and improved measures of insulin secretion . In obese animal models , canagliflozin increased UGE and decreased BG , body weight gain , epididymal fat , liver weight , and the respiratory exchange ratio . CONCLUSIONS : DB08907 lowered RT(G) and increased UGE , improved glycemic control and beta-cell function in rodent models of T2DM , and reduced body weight gain in rodent models of obesity .",
+    "DB04868 and MEK inhibitors induce synthetic lethality through paradoxical activation of RAF in drug-resistant chronic myeloid leukemia . We show that imatinib , nilotinib , and dasatinib possess weak off-target activity against RAF and , therefore , drive paradoxical activation of P15056 and CRAF in a DB01367 -dependent manner . Critically , because DB01367 is activated by P11274 - P00519 , in drug-resistant chronic myeloid leukemia ( CML ) cells , DB01367 activity persists in the presence of these drugs , driving paradoxical activation of P15056 , CRAF , MEK , and P29323 , and leading to an unexpected dependency on the pathway . Consequently , nilotinib synergizes with MEK inhibitors to kill drug-resistant CML cells and block tumor growth in mice . Thus , we show that imatinib , nilotinib , and dasatinib drive paradoxical RAF/MEK/ P29323 pathway activation and have uncovered a synthetic lethal interaction that can be used to kill drug-resistant CML cells in vitro and in vivo .",
+    "Serotonin increases P27361 /2 phosphorylation in astrocytes by stimulation of P41595 and P28335 receptors . We have previously shown that fluoxetine causes P29323 (1/2) phosphorylation in cultured mouse astrocytes mediated exclusively by stimulation of 5-HT(2B) receptors ( Li et al. , 2008b ) . This raises the question whether this is also the case for serotonin ( 5-HT ) itself . In the present study serotonin was found to induce P29323 (1/2) phosphorylation by stimulation of 5-HT(2B) receptors with high affinity ( EC(50) : 20-30 pM ) , and by stimulation of 5-HT(2C) receptor with low affinity ( EC(50) : 1 microM or higher ) . P29323 (1/2) phosphorylation induced by stimulation of either 5-HT(2B) or 5-HT(2C) receptors was mediated by epidermal growth factor ( P01133 ) receptor transactivation ( Peng et al. , this issue ) , shown by the inhibitory effect of AG1478 , an inhibitor of the P01133 receptor tyrosine kinase , and DB02255 , an inhibitor of Zn-dependent metalloproteinases , and thus of 5-HT(2B) receptor-mediated P01133 receptor agonist release . It is discussed that the high potency of the 5-HT(2B)-mediated effect is consistent with literature data for binding affinity of serotonin to cloned human 5-HT(2B) receptors and with observations of low extracellular concentrations of serotonin in brain , which would allow a demonstrated moderate and modality-dependent increase in specific brain areas to activate 5-HT(2B) receptors . In contrast the relevance of the observed 5-HT(2C) receptors on astrocytes is questioned .",
+    "P10646 in activated prothrombin complex concentrates ( aPCC ) moderates the effectiveness of therapy in some severe hemophilia A patients with inhibitor . Some hemophilia A patients who have developed inhibitors are poorly responsive to activated prothrombin complex concentrates ( aPCC ) after daily dosage , but the mechanism(s) underlying this remain unknown . We examined two representative cases . In case 1 , we found that changing to recombinant factor VIIa ( DB00036 ) therapy was more effective , and the response to aPCC was restored within ~2 weeks . P13726 ( TF ) -triggered thrombin generation demonstrated a prolonged lag-time and decreased peak thrombin , and this impairment was focused on TF pathway inhibitor ( P10646 ) . Plasma-free P10646 was elevated post-infusion of aPCC , while this was unaffected by DB00036 . P10646 returned to normal range within 2-3 weeks . Plasmas obtained from patients with poor or good response to aPCC ( aPCC-poor or aPCC-good ) , and good response to DB00036 ( FVIIa-good ) demonstrated that free P10646 levels are increased in both aPCC groups , but not in FVIIa-good . P10646 levels pre- and post-infusion in aPCC-poor were significantly higher than those in aPCC-good . Addition of anti- P10646 antibody to the reaction samples demonstrated a greater increase of peak thrombin in aPCC-poor compared to aPCC-good , showing the higher P10646 activity in aPCC-poor . Free P10646 contained in aPCC corresponded to the increasing levels in plasma . In conclusion , P10646 in aPCC attenuated thrombin generation , and the reduced effectiveness of therapy in these circumstances appeared to be related to P10646 activity .",
+    "Determination of ancestral allele for possible human cancer-associated polymorphisms . To determine ancestral allele in possible cancer-associated polymorphisms , DNA samples from 10 chimpanzees ( Pan troglodytes ) were sequenced for alleles corresponding to 17 polymorphisms : 8 short tandem repeats [ P18510 ( alias IL-1RA ) variable number tandem repeat ( VNTR ) ; P04818 ( previously TS ) VNTR ; AR CAG repeat ; dinucleotide repeats of P22309 , IGF1 , P01579 ( alias P01579 ) , P03372 ( alias P03372 ) , and P00533 ] and 9 single nucleotide polymorphisms ( P03956 -1607 1G/2G , P08254 -1171 5A/6A , O15527 Ser326Cys , P05091 Gly487Lys , P04637 Arg72Pro , Q9UNQ0 Gln141Lys , P16455 Leu84Phe , P04179 Ala-9Val , and P42898 Ala222Val ) . No chimpanzee polymorphism corresponded to human P18510 VNTR ; the ancestral allele was a repeat lost in humans . Dinucleotide repeat polymorphisms of IGF1 , P01579 , P03372 , and P00533 were shared by chimpanzees , but the length of repeats tended to be longer in humans than in chimpanzees . This tendency was particularly evident for IGF1 . All of the SNPs tested are human-specific nucleotide changes . The ancestral allele 7A was shown to be lost in P08254 -1171 5A/6A . Thus , all of the possible cancer-associated polymorphisms tested have human-specific alleles , and the ancestral allele is lost in three polymorphisms ( P18510 VNTR , P22309 CA repeat , and P08254 -1171 5A/6A ) , suggesting a possible involvement of human-specific alleles in cancer susceptibility .",
+    "Anti-allergic effects of nilotinib on mast cell-mediated anaphylaxis like reactions . DB04868 is a new orally bioavailable potent tyrosine kinase inhibitor that is used for the treatment of P11274 - P00519 -positive chronic myelogenous leukemia . However , its effect on mast cell-mediated anaphylactic reaction is still not known . The present study aimed to investigate the effect of nilotinib on the anaphylactic allergic reaction and study its possible mechanism(s) of action . DB04868 administration prevented systemic anaphylaxis in mice , mediated by compound 48/80 , in a dose- and time-dependent manner . Also , nilotinib significantly inhibited ( P < 0.05 ) allergic paw edema in rats . Furthermore , nilotinib significantly decreased ( P < 0.05 ) the IgE-mediated passive cutaneous anaphylaxis in a dose dependent manner . In addition , nilotinib dose-dependently reduced histamine release from the rat peritoneal mast cells activated either by compound 48/80 or by ovalbumin . Moreover , nilotinib attenuated the secretion of pro-inflammatory cytokine , tumor necrosis factor ( P01375 ) -α expression in the rat peritoneal mast cells . These findings provide evidence that nilotinib inhibits mast cell-derived immediate-type allergic reactions and so it could be a candidate as an anti-allergic agent .",
+    "Characterization of novel germline c-kit gene mutation , P10721 -Tyr553Cys , observed in a family with multiple gastrointestinal stromal tumors . We found a novel type germline mutation at exon 11 of the c-kit gene , which results in a substitution of DB00135 to DB00151 at codon 553 of the c-kit gene product ( P10721 -Tyr553Cys ) , in a 68-year-old female patient with multiple gastrointestinal stromal tumors ( GISTs ) . In the present study , we carried out mutational analysis in her family members to determine the carriers and characterized the mutation by introducing the corresponding mutation ( murine P10721 -Tyr552Cys ) into expression vector possessing murine c-kit cDNA . Mutational analysis of peripheral blood leukocytes of her family members revealed that a 44-year-old son had the same mutation , but at present he had neither apparent symptoms nor images of multiple GISTs . By transfection with the expression vector possessing the murine mutant c-kit cDNA , interleukin-3-dependent Ba/ P13726 murine lymphoid cells started growing autonomously without any growth factors , indicating that the mutation was considered to be of gain-of-function . Imatinib , a small molecule of tyrosine kinase inhibitor , effectively inhibited autophosphorylation of P10721 -Tyr552Cys . DB04868 , another small molecule of the P10721 inhibitor , also effectively inhibited autophosphorylation of P10721 -Tyr552Cys . In fact , proliferation of Ba/ P13726 cells expressing P10721 -Tyr552Cys was effectively inhibited by both imatinib and nilotinib . These findings indicate that the novel type human P10721 -Tyr553Cys mutation is the cause of the present familial and multiple GISTs , and that both imatinib and nilotinib might effectively inhibit the growth of GISTs developing in the patients of this family .",
+    "Characterization of antihistamines using biphasic cutaneous reaction in BALB/c mice . Effects of 11 histamine H1 receptor antagonists on IgE-mediated biphasic cutaneous reaction in mice were examined . The immediate phase reaction ( IPR ) assessed at 1 hour after antigen application was significantly inhibited by all antihistamines examined . The inhibition of IPR by cetirizine and mequitazine were potent , but those by cyproheptadine and diphenhydramine were weak . The later phase reaction ( LPR ) assessed at 24 hours after antigen application was inhibited by chlorpheniramine , oxatomide , ketotifen , mequitazine , emedastine , terfenadine and azelastine . The inhibition of LPR by emedastine was potent , but those by ketotifen and terfenadine were only partial . DB01084 inhibited both IPR and LPR comparably . Present results indicate that H1 receptor activation is involved in the IPR of the biphasic cutaneous reaction , and that the blockade of H1 receptors at IPR does not contribute to the attenuation of following LPR . P35367 antagonists inhibiting the LPR have a property distinct from H1 receptor antagonism , which may have an additional benefit for the treatment of allergic diseases .",
+    "Agonism at P41595 receptors is not a class effect of the ergolines . Restrictive cardiac valvulopathies observed in Parkinson patients treated with the ergoline dopamine agonist pergolide have recently been associated with the agonist efficacy of the drug at 5-hydroxytryptamine2B ( P41595 ) receptors . To evaluate whether agonism at P41595 receptors is a phenomenon of the class of the ergolines , we studied P41595 receptor-mediated relaxation in porcine pulmonary arteries to five ergolines which are used as antiparkinsonian drugs . DB01186 and cabergoline were potent full agonists in this tissue ( pEC50 8.42 and 8.72 ) . DB01200 acted as a partial agonist ( pEC50 6.86 ) . Lisuride and terguride , however , failed to relax the arteries but potently antagonized 5-HT-induced relaxation ( pKB 10.32 and 8.49 ) . Thus , agonism at P41595 receptors seems not to be a class effect of the ergolines .",
+    "Multiple structural determinants of voltage-dependent magnesium block in recombinant DB01221 receptors . The voltage-dependent block of DB01221 channels by Mg2+ is an important functional element of DB01221 receptors , since relief of block by depolarization plays a key role in some forms of ischemic neurodegeneration and synaptic plasticity . To identify the relevant structural domains responsible for block by Mg2+ and DB01520 , we used site-directed mutagenesis to change individual amino acids of the rat NR1A subunit in a transmembrane region ( 599-DALTLSSAMWFSWGVLLNSGIGE-621 , mutated residues underlined ) previously shown to donate residues that influence ionic selectivity . Ten mutant NR1A subunits were co-expressed in Xenopus oocytes with either the epsilon 1 or Q12879 subunits , and receptor properties were analyzed under two-electrode voltage clamp . The mutation N616R virtually abolished voltage-dependent Mg2+ block , reduced DB01593 block 5-fold and greatly reduced Ba2+ permeability in confirmation of previous reports . This mutation also reduced the potency of DB01520 as a use-dependent blocker by 200-fold . The remaining low-affinity DB01520 block did not appear to be use-dependent , suggesting two blocking sites for DB01520 . None of the other mutations differed significantly from NR1A itself except S617N , which displayed a 6-fold reduction in Mg2+ block . A well-barrier model of permeation through the DB01221 receptor channel is presented that quantitatively reproduces voltage-dependent Mg2+ block . This model demonstrates that only minimum changes energy profiles experienced by permeating ions , equivalent to the energy of a single hydrogen or ionic bond , are required to abolish Mg2+ block . These findings indicate that only small structural changes are needed to convert a Mg(2+)-insensitive ion channel to a channel with pronounced voltage-dependent Mg2+ block .",
+    "Identification and functional signature of genes regulated by structurally different P00519 kinase inhibitors . Dasatinib is an DB00171 -competitive , multi-targeted P12931 and P00519 kinase inhibitor that can bind P11274 - P00519 in both the active and inactive conformations . From a clinical standpoint , dasatinib is particularly attractive because it has been shown to induce hematologic and cytogenetic responses in imatinib-resistant chronic myeloid leukemia patients . The fact because the combination of imatinib and dasatinib shows the additive/synergistic growth inhibition on wild-type Q92817 P11274 - P00519 -expressing cells , we reasoned that these P00519 kinase inhibitors might induce the different molecular pathways . To address this question , we used DNA microarrays to identify genes whose transcription was altered by imatinib and dasatinib . K562 cells were cultured with imatinib or dasatinib for 16 h , and gene expression data were obtained from three independent microarray hybridizations . Almost all of the imatinib- and dasatinib-responsive genes appeared to be similarly increased or decreased in K562 cells ; however , small subsets of genes were identified as selectively altered expression by either imatinib or dasatinib . The distinct genes that are selectively modulated by dasatinib are cyclin-dependent kinase 2 ( P24941 ) and P49336 , which had a maximal reduction of < 5-fold in microarray screen . To assess the functional importance of dasatinib regulated genes , we used RNA interference to determine whether reduction of P24941 and P49336 affected the growth inhibition . K562 and TF-1BCR- P00519 cells , pretreated with P24941 or P49336 small interfering RNA , showed additive growth inhibition with imatinib , but not with dasatinib . These findings demonstrate that the additive/synergistic growth inhibition by imatinib and dasatinib may be mediated in part by P24941 and P49336 .",
+    "Homology models of the mutated P00533 and their response towards quinazoline analogues . One of the most intensely studied tyrosine kinases is the epidermal growth factor receptor ( P00533 ) . The tyrosine kinase receptors are known to be over expressed in some solid tumors and non-small cell lung cancers , causing differential susceptibility to the quinazoline inhibitors . In this study we have taken P43405 tyrosine kinase coordinates from PDB database to model two new P00533 receptors with these mutations G695S and L834R and conducted all the docking studies of the inhibitors , also evaluated these two models for quality of structure using PROCHECK . Seven quinazoline analogues ( gefitinib , erlotinib , DB05424 , and Q9Y259 -569 and other analogues ) were selected for comparisons among the two new models . This study determined the receptor/inhibitor interactions , at that active domain binding sites consisting of 15 amino acids . We were able to calculate the energy data for each of the seven inhibitors . This data has been important in interpreting the affinity between the inhibitors evaluated against the three models of P00533 ( wild-type and two mutated types ) . \" Affinity \" -based studies have indicated the order of response based on docking energy levels ( Van der Waals and electrostatic interactions ) . The active DB00171 binding sites consisting of 15 amino acid residues were identified and the total energy ( E(total) ) which showed the affinity between the inhibitor molecules and the receptor ( Van der Waals and electrostatic interactions ) . The selection of the quinazoline analogues was purely on their emergence as possible candidates in the drug discovery areas . This study describes the successful application of these models that we constructed for molecular docking studies to rationally design compounds predicted to bind favorably to the modeled P00533 catalytic sites .",
+    "P23945 in felids : intra- and interspecies variation . Assisted reproductive technologies are increasingly applied to support breeding efforts for many endangered felids . To explain the highly variable responses among felids to exogenous gonadotropins ( DB00094 , eCG ) , we analyzed a 567bp fragment spanning a hyper-variable region of the DB00094 receptor in the domestic cat ( catFSHR ) and nine wild felid species/subspecies ( felFSHR ) . Phylogenetic analysis indicated that the newly sequenced felFSHRs , together with the bear P23945 , belong to the carnivore group closely related to the ungulate clade . Within Felidae , genetic distances were 0.0089 +/- 0.0018 for nucleotide and 0.0183 +/- 0.0044 for amino acid ( aa ) sequences . In pairwise comparisons among catFSHR and all new felFSHRs , similarity ranged from 98.6 to 99.5 % for nucleotides and from 97.4 to 98.9 % for aa . Besides interspecies variability , intraspecies variation was also detected on both the cDNA and the protein level . There were no indications for an expression of tissue-specific isoforms of P23945 in testis and ovary .",
+    "Stress-induced phosphoprotein 1 as a secreted biomarker for human ovarian cancer promotes cancer cell proliferation . Ovarian cancers are frequently not diagnosed until advanced stages , resulting in a high case fatality rate . Because of this , more tumor markers , in addition to Q8WXI7 , for detecting and monitoring ovarian cancer are needed . During a systematic search for potential biomarkers of ovarian cancer , we compared the protein profiles between tumor interstitial fluid and normal interstitial fluid of ovaries , rationalizing that abnormal levels of proteins in tumor interstitial fluid may be detected in peripheral blood and thus serve as easily accessible tumor markers . Here , we show that stress-induced phosphoprotein 1 ( P31948 ) was secreted by ovarian cancer tissues into the peripheral blood of patients , resulting in a significant increase of serum levels of P31948 in cancer patients compared with those in age-matched normal controls . Our results further indicated that combined use of Q8WXI7 and P31948 may increase early detection of ovarian cancer . Functionally , recombinant P31948 significantly induced P29323 phosphorylation , promoted DNA synthesis , and increased Ki-67 immunoreactivity in ovarian cancer cells , suggesting that P31948 in vitro promotes cell proliferation . Colocalization of P31948 and phospho- P29323 in human ovarian cancer tissues also supports an in vivo activation of P29323 by P31948 . Further understanding of molecular roles of P31948 in human ovarian cancer may shed light on its pathophysiology and development of novel therapeutic strategies ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB04868 is a tyrosine kinase inhibitor used for treating P11274-P00519-positive chronic myelogenous leukemia.\nDB04868 is also known as nilotinib.\nDB04868 has been shown to inhibit autophosphorylation of P10721-Tyr553Cys in gastrointestinal stromal tumors.\nDB04868 synergizes with MEK inhibitors to kill drug-resistant CML cells.\nDB04868 induces synthetic lethality through paradoxical activation of RAF in drug-resistant CML.\nDB04868 inhibits mast cell-mediated anaphylaxis in mice and rats.\nDB04868 is a second-generation tyrosine kinase inhibitor rationally designed based on imatinib.\nDB04868 is structurally related to other kinase inhibitors like imatinib and dasatinib.\nDB04868 interacts with P11274-P00519 and other kinases such as RAF and CRAF.\nDB04868 is known to activate the RAF/MEK/P29323 pathway in a paradoxical manner.\nDB04868 is effective against P10721-Tyr553Cys mutation in c-kit gene.\nDB04868 is a known inhibitor of P11274-P00519 and related kinases.\nDB04868 interacts with P11274-P00519 and downstream signaling components.\nDB04868 interacts with P11274-P00519 and is involved in synthetic lethality with MEK inhibitors.\nDB04868 interacts with P11274-P00519 and modulates the RAF/MEK/P29323 pathway.\nDB04868 interacts with P11274-P00519 and is effective in drug-resistant CML.\nDB04868 interacts with P11274-P00519 and is a key target in CML therapy.\nDB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase.\nDB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor.\nDB04868 interacts with P11274-P00519 and is used in the treatment of chronic myeloid leukemia.\nDB04868 interacts with P11274-P00519 and is a known target in CML therapy.\nDB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML.\nDB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase.\nDB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor.\nDB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML.\nDB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase.\nDB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor.\nDB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML.\nDB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase.\nDB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor.\nDB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML.\nDB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase.\nDB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor.\nDB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML.\nDB04868 interacts with P11274",
+  "predicted_answer": null,
+  "claims": [
+    "DB04868 is a tyrosine kinase inhibitor used for treating P11274-P00519-positive chronic myelogenous leukemia",
+    "DB04868 is also known as nilotinib",
+    "DB04868 has been shown to inhibit autophosphorylation of P10721-Tyr553Cys in gastrointestinal stromal tumors",
+    "DB04868 synergizes with MEK inhibitors to kill drug-resistant CML cells",
+    "DB04868 induces synthetic lethality through paradoxical activation of RAF in drug-resistant CML",
+    "DB04868 inhibits mast cell-mediated anaphylaxis in mice and rats",
+    "DB04868 is a second-generation tyrosine kinase inhibitor rationally designed based on imatinib",
+    "DB04868 is structurally related to other kinase inhibitors like imatinib and dasatinib",
+    "DB04868 interacts with P11274-P00519 and other kinases such as RAF and CRAF",
+    "DB04868 is known to activate the RAF/MEK/P29323 pathway in a paradoxical manner",
+    "DB04868 is effective against P10721-Tyr553Cys mutation in c-kit gene",
+    "DB04868 is a known inhibitor of P11274-P00519 and related kinases",
+    "DB04868 interacts with P11274-P00519 and downstream signaling components",
+    "DB04868 interacts with P11274-P00519 and is involved in synthetic lethality with MEK inhibitors",
+    "DB04868 interacts with P11274-P00519 and modulates the RAF/MEK/P29323 pathway",
+    "DB04868 interacts with P11274-P00519 and is effective in drug-resistant CML",
+    "DB04868 interacts with P11274-P00519 and is a key target in CML therapy",
+    "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+    "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+    "DB04868 interacts with P11274-P00519 and is used in the treatment of chronic myeloid leukemia",
+    "DB04868 interacts with P11274-P00519 and is a known target in CML therapy",
+    "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+    "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+    "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+    "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+    "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+    "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+    "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+    "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+    "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+    "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+    "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+    "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+    "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+    "DB04868 interacts with P11274"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB04868 is a tyrosine kinase inhibitor used for treating P11274-P00519-positive chronic myelogenous leukemia",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "DB04868 is also known as nilotinib",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "DB04868 has been shown to inhibit autophosphorylation of P10721-Tyr553Cys in gastrointestinal stromal tumors",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "DB04868 synergizes with MEK inhibitors to kill drug-resistant CML cells",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "DB04868 induces synthetic lethality through paradoxical activation of RAF in drug-resistant CML",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "DB04868 inhibits mast cell-mediated anaphylaxis in mice and rats",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "DB04868 is a second-generation tyrosine kinase inhibitor rationally designed based on imatinib",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C8",
+      "text": "DB04868 is structurally related to other kinase inhibitors like imatinib and dasatinib",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C9",
+      "text": "DB04868 interacts with P11274-P00519 and other kinases such as RAF and CRAF",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C10",
+      "text": "DB04868 is known to activate the RAF/MEK/P29323 pathway in a paradoxical manner",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C11",
+      "text": "DB04868 is effective against P10721-Tyr553Cys mutation in c-kit gene",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C12",
+      "text": "DB04868 is a known inhibitor of P11274-P00519 and related kinases",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C13",
+      "text": "DB04868 interacts with P11274-P00519 and downstream signaling components",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C14",
+      "text": "DB04868 interacts with P11274-P00519 and is involved in synthetic lethality with MEK inhibitors",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C15",
+      "text": "DB04868 interacts with P11274-P00519 and modulates the RAF/MEK/P29323 pathway",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C16",
+      "text": "DB04868 interacts with P11274-P00519 and is effective in drug-resistant CML",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C17",
+      "text": "DB04868 interacts with P11274-P00519 and is a key target in CML therapy",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C18",
+      "text": "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C19",
+      "text": "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C20",
+      "text": "DB04868 interacts with P11274-P00519 and is used in the treatment of chronic myeloid leukemia",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C21",
+      "text": "DB04868 interacts with P11274-P00519 and is a known target in CML therapy",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C22",
+      "text": "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C23",
+      "text": "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C24",
+      "text": "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C25",
+      "text": "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C26",
+      "text": "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C27",
+      "text": "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C28",
+      "text": "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C29",
+      "text": "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C30",
+      "text": "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C31",
+      "text": "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C32",
+      "text": "DB04868 interacts with P11274-P00519 and is a known inhibitor of the BCR-ABL kinase",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C33",
+      "text": "DB04868 interacts with P11274-P00519 and is a second-generation tyrosine kinase inhibitor",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C34",
+      "text": "DB04868 interacts with P11274-P00519 and is a key drug in the treatment of CML",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C35",
+      "text": "DB04868 interacts with P11274",
+      "claim_type": "FC"
+    }
+  ]
+}

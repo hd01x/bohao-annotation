@@ -1,0 +1,119 @@
+{
+  "uid": "strategyqa__ff21df087958bda81be8",
+  "sample_id": "ff21df087958bda81be8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Does table tennis use prime numbers?",
+  "gold_answer": "yes",
+  "context": [
+    "A table tennis game is won by the player first scoring 11 points.",
+    "11 is a prime number."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nA table tennis game is won by the player who first scores 11 points.\n11 is a prime number.\nThe winning score in table tennis is based on the number 11.\nThe number 11 is used as the target score in table tennis.\nTable tennis uses the number 11 as the winning score.\nThe number 11 is a prime number.\nTable tennis uses prime numbers.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "A table tennis game is won by the player who first scores 11 points",
+    "11 is a prime number",
+    "The winning score in table tennis is based on the number 11",
+    "The number 11 is used as the target score in table tennis",
+    "Table tennis uses the number 11 as the winning score",
+    "The number 11 is a prime number",
+    "Table tennis uses prime numbers"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "A table tennis game is won by the player who first scores 11 points",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "11 is a prime number",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The winning score in table tennis is based on the number 11",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The number 11 is used as the target score in table tennis",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Table tennis uses the number 11 as the winning score",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The number 11 is a prime number",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Table tennis uses prime numbers",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

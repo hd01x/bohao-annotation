@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__f3fb7e0708b411ebbd88ac1f6bf848b6",
+  "sample_id": "f3fb7e0708b411ebbd88ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?",
+  "gold_answer": "I'Ll Take Sweden",
+  "context": [
+    "Joseph Henabery (January 15, 1888 – February 18, 1976) Omaha, Nebraska, was a film actor, screenplay writer, and director in the United States.",
+    "Frederick Timmins de Cordova( October 27, 1910 – September 15, 2001) was an American stage, motion picture and television director and producer. He is best known for his work on\" The Tonight Show Starring Johnny Carson\".",
+    "His Majesty, the American is a 1919 American comedy film directed by Joseph Henabery and starring Douglas Fairbanks. It was the first film released by United Artists. Several copies of the film exist in archives and collections.",
+    "Rumbi Katedza is a Zimbabwean Film Producer and Director who was born on 17 January 1974.",
+    "His Majesty and Company or His Majesty and Co is a 1935 British musical film directed by Anthony Kimmins and starring John Garrick, Barbara Waring and Morton Selten. It was at Wembley Studios by the British subsidiary of the Fox Film Company.",
+    "Hassan Zee is a Pakistani- American film director who was born in Chakwal, Pakistan.",
+    "William D.\" By\" Dunham( May 2, 1910 – April 12, 2001) was an American songwriter and film producer. Born William Donaldson Dunham in New York City, Dunham wrote songs for the films of many major stars, including John Wayne(\" McLintock!\"), Randolph Scott(\" Seven Men From Now\"), and three Bob Hope films:\" Boy, Did I Get a Wrong Number! I'll Take Sweden,\" and\" Alias Jesse James\". He also wrote the lyrics to the theme song for the\" Flipper\" television series, and for the film,\" The New Adventures of Flipper\". His other films included\" The Young Swingers Surf Party\" and\" Wild on the Beach\", the last of which he also produced. Dunham died in Encinitas, California.",
+    "W. Augustus Barratt( 1873- 1947) was a Scottish- born, later American, songwriter and musician.",
+    "His Majesty the Hypochondriac( German: Durchlaucht Hypochonder) is a 1918 German silent comedy film directed by Frederic Zelnik and starring Lisa Weise, Karl Beckersachs and Grete Diercks.",
+    "I'll Take Sweden is a 1965 comedy film directed by Frederick de Cordova, and starring Bob Hope, Frankie Avalon, and Tuesday Weld."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nI'll Take Sweden was directed by Frederick Timmins de Cordova.\nFrederick Timmins de Cordova was born on October 27, 1910.\nHis Majesty, the American was directed by Joseph Henabery.\nJoseph Henabery was born on January 15, 1888.\n1910 is later than 1888.\nThe director born later is Frederick Timmins de Cordova.\nThe film with the director born later is I'll Take Sweden.\n<answer> I'll Take Sweden",
+  "predicted_answer": "I'll Take Sweden",
+  "claims": [
+    "I'll Take Sweden was directed by Frederick Timmins de Cordova",
+    "Frederick Timmins de Cordova was born on October 27, 1910",
+    "His Majesty, the American was directed by Joseph Henabery",
+    "Joseph Henabery was born on January 15, 1888",
+    "1910 is later than 1888",
+    "The director born later is Frederick Timmins de Cordova",
+    "The film with the director born later is I'll Take Sweden"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "I'll Take Sweden was directed by Frederick Timmins de Cordova",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Frederick Timmins de Cordova was born on October 27, 1910",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "His Majesty, the American was directed by Joseph Henabery",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Joseph Henabery was born on January 15, 1888",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "1910 is later than 1888",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director born later is Frederick Timmins de Cordova",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born later is I'll Take Sweden",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

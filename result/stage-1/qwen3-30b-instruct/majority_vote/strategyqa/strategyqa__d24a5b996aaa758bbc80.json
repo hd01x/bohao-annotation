@@ -1,0 +1,93 @@
+{
+  "uid": "strategyqa__d24a5b996aaa758bbc80",
+  "sample_id": "d24a5b996aaa758bbc80",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Lionel Richie related to Sheila E?",
+  "gold_answer": "no",
+  "context": [
+    "Lionel Richie is an American singer and raised Nicole Richie.",
+    "Nicole Richie was born to Sheila E's brother, Peter Michael Escovedo.",
+    "Lionel Richie adopted Nicole Richie from Peter Michael Escovedo.",
+    "Adoptive parents are not considered related to birth parents."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nLionel Richie adopted Nicole Richie from Peter Michael Escovedo.\nPeter Michael Escovedo is the brother of Sheila E.\nAdoptive parents are not considered related to birth parents.\nLionel Richie is not related to Sheila E by blood.\nLionel Richie is not related to Sheila E.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Lionel Richie adopted Nicole Richie from Peter Michael Escovedo",
+    "Peter Michael Escovedo is the brother of Sheila E",
+    "Adoptive parents are not considered related to birth parents",
+    "Lionel Richie is not related to Sheila E by blood",
+    "Lionel Richie is not related to Sheila E"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Lionel Richie adopted Nicole Richie from Peter Michael Escovedo",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Peter Michael Escovedo is the brother of Sheila E",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Adoptive parents are not considered related to birth parents",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Lionel Richie is not related to Sheila E by blood",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Lionel Richie is not related to Sheila E",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

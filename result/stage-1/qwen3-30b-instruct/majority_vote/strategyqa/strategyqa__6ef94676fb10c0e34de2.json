@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__6ef94676fb10c0e34de2",
+  "sample_id": "6ef94676fb10c0e34de2",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Ivan the Terrible's father and grandfather have nicer nicknames?",
+  "gold_answer": "yes",
+  "context": [
+    "Ivan the Terrible was nicknamed terrible because of his harsh rule.",
+    "Ivan the Terrible's father, Vasili III Ivanovich, was nicknamed Vasili the Adequate.",
+    "Ivan the Terrible's grandfather, Ivan III Vasilyevich, was nicknamed Ivan the Great."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nIvan the Terrible was nicknamed terrible due to his harsh rule.\nIvan the Terrible's father was Vasili III Ivanovich, nicknamed Vasili the Adequate.\nIvan the Terrible's grandfather was Ivan III Vasilyevich, nicknamed Ivan the Great.\nThe nickname \"Vasili the Adequate\" suggests a moderate or acceptable character, not harsh.\nThe nickname \"Ivan the Great\" implies significant achievement and positive legacy.\nBoth nicknames are more favorable than \"Ivan the Terrible.\"\nIvan the Terrible's father and grandfather had nicer nicknames.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Ivan the Terrible was nicknamed terrible due to his harsh rule",
+    "Ivan the Terrible's father was Vasili III Ivanovich, nicknamed Vasili the Adequate",
+    "Ivan the Terrible's grandfather was Ivan III Vasilyevich, nicknamed Ivan the Great",
+    "The nickname \"Vasili the Adequate\" suggests a moderate or acceptable character, not harsh",
+    "The nickname \"Ivan the Great\" implies significant achievement and positive legacy",
+    "Both nicknames are more favorable than \"Ivan the Terrible.\"",
+    "Ivan the Terrible's father and grandfather had nicer nicknames"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Ivan the Terrible was nicknamed terrible due to his harsh rule",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Ivan the Terrible's father was Vasili III Ivanovich, nicknamed Vasili the Adequate",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Ivan the Terrible's grandfather was Ivan III Vasilyevich, nicknamed Ivan the Great",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The nickname \"Vasili the Adequate\" suggests a moderate or acceptable character, not harsh",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "The nickname \"Ivan the Great\" implies significant achievement and positive legacy",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Both nicknames are more favorable than \"Ivan the Terrible.\"",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Ivan the Terrible's father and grandfather had nicer nicknames",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "uid": "medhop__MH_dev_266",
+  "sample_id": "MH_dev_266",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00071\", \"DB00222\", \"DB00513\", \"DB00637\", \"DB04725\", \"DB04875\", \"DB04998\", \"DB05220\", and \"DB06268\" interacts with DB08815?",
+  "gold_answer": "DB00222",
+  "context": [
+    "Modeling of Q14654 and inhibition mechanism of the natural ligand , ellagic acid , using molecular docking . Diabetes mellitus is a disorder in which blood sugar ( glucose ) levels are abnormally high because the body does not produce enough insulin to meet its needs . Post-prandial hyperglycemia ( PPHG ) is an independent risk factor for the development of macro vascular complications . It is now recognized that normalizing post-prandial blood glucose is more difficult than normalizing fasting glucose . DB01345 channels are the most widely distributed type of ion channel and are found in virtually all living organisms . The function of KATP channels is best understood in pancreatic beta cells , the membrane potential of which is responsive to external glucose concentration . Beta cells show a remarkably complex electrical bursting behavior in response to an increase in glucose level . DB00731 and DB00222 are a class of insulin secretagog agents that lowers blood glucose levels by stimulating insulin secretion from the pancreas . These compounds interact with the DB00171 -sensitive potassium ( K+ DB00171 ) channel in pancreatic beta cells . However , the side effects of these drugs overpass their uses , and the need to identify compounds with less adverse effects is exigent . In our research study , we used the natural compound ellagic acid , which is an already proven anti-carcinogen , anti-mutagen , and anticancer initiator , for its anti-diabetic activity in comparison to the two commercial drugs ( DB00731 and DB00222 ) . The drugs and the compounds were docked to the DB00171 -dependent potassium channel and their energy value showed that the compound had higher binding value than the commercial drugs . Then an ADME/Tox analysis for the compound was carried out which showed that ellagic can be a possible lead molecule .",
+    "Acyl substitution at the ortho position of anilides enhances oral bioavailability of thiophene sulfonamides : TBC3214 , an P25101 selective endothelin antagonist . DB06268 ( 3 , TBC11251 ) ( Wu et al. J. Med. Chem. 1997 , 40 , 1690 ) is an orally active ET(A) selective endothelin antagonist that attenuates pulmonary vascular hypertension and cardiac hypertrophy in rats ( Tilton et al. Pulm. Pharmacol. Ther. 2000 , 13 , 87 ) . It has demonstrated efficacy in a phase II clinical trial for congestive heart failure ( Givertz et al. Circulation 2000 , 101 , 2922 ) . During the discovery of 3 , we observed several structure-oral bioavailability relationships . To investigate whether there is any generality in these trends , we synthesized some similar pairs of compounds in the latest series ( Wu et al. J. Med. Chem. 1999 , 42 , 4485 ) and evaluated their oral properties . In both series , an acyl group at the 2-position of the anilide of these thiophene sulfonamides improved oral bioavailability . As a result of this exercise , TBC3214 ( 17 ) was identified as a sitaxsentan follow-on candidate . It is very potent ( IC(50) for ET(A) = 40 pM ) and highly selective for ET(A) vs ET(B) receptors ( 400 000-fold ) , with a half-life of > 4 h and oral bioavailability of 25 % in rats , 42 % in cats , and 70 % in dogs .",
+    "Further characterization of a somatic cell hybrid panel : ten new assignments to the bovine genome . Thirty-six partially characterized hamster-bovine hybrid cell lines were used for the determination of synteny groups . Sixteen additional reference loci , selected for their coverage of the bovine genome , were analysed on these hybrid cells . This increases to 25 the number of synteny groups detected . This panel was then used to make synteny assignments for 10 additional loci , eight by Southern blotting ( P02452 , P08123 , FAS , P07858 , P07711 , P07510 , P07686 and P08908 ) and two by polymerase chain reaction ( PCR ) amplification ( P35367 and ETH1112 ) . These loci were assigned to international synteny groups U12 ( P35367 ) , U13 ( P08123 ) , U17 ( P07510 ) , U21 ( P02452 , FAS ) , U29 ( ETH1112 ) , to chromosome 20 ( U14 or U25 ) for P07686 and P08908 , and to the same local synteny group ( A ) , which is probably U18 , for P07858 and P07711 . For three loci already mapped in humans ( P02452 , P08123 and P07510 ) , the present results are in accordance with the predictions based on comparative mapping between the human and bovine species .",
+    "Inhibition of P08908 receptor-dependent cell survival by DB02527 /protein kinase A : role of protein phosphatase 2A and Bax . Serotonergic 5-HT(1A) receptor signaling leading to nuclear factor-kappaB ( NF-kappaB ) activation appears to be critical for cell survival . Adenylyl cyclase and protein kinase A ( AC/PKA ) are effectors of the 5-HT(1A) receptor that are inhibited by Galpha(i) subunits . Conversely , Gbetagamma(i) subunits downstream from the 5-HT(1A) receptor participate in the activation of extracellular signal-regulated kinases ( P27361 /2 ) , phosphatidylinositol 3-kinase ( PI3K ) , Akt , and NF-kappaB . To model the contribution of pro- and antiapoptotic signaling cascades downstream of activated 5-HT(1A) receptor in cell survival , Chinese hamster ovarian ( CHO ) cells were employed that exogenously overexpress 5-HT(1A) receptors . Stimulation with the 5-HT(1A) receptor agonist 8-OH-DPAT and pharmacological agonists of AC induced PKA and protein phosphatase 2A ( PP2A ) activity , which in turn inhibited : Akt activity , P25963 degradation , nuclear translocation of NF-kappaB , and expression of P98170 ( P98170 / P98170 ) . Pharmacological inhibition of PP2A with calyculin A potentiated Akt activity while attenuating P27361 /2 signaling via increased inhibitory phosphorylation of Raf ( pSer259 ) . In contrast , increased DB02527 levels enhanced Bax translocation to the mitochondria , resulting in the release of cytochrome c , caspase-3 activation , and apoptosis induction . Our data suggest a central role of DB02527 /PKA-dependent PP2A in shifting the homeostasis of intracellular signaling downstream of activated 5-HT(1A) receptor toward cell death in biological systems linked to neuropsychiatric disorders .",
+    "Neuronal ablation of p-Akt at Ser473 leads to altered P08908 /2A receptor function . The serotonergic system regulates a wide range of behavior , including mood and impulsivity , and its dysregulation has been associated with mood disorders , autism spectrum disorder , and addiction . Diabetes is a risk factor for these conditions . P01308 resistance in the brain is specifically associated with susceptibility to psychostimulant abuse . Here , we examined whether phosphorylation of Akt , a key regulator of the insulin signaling pathway , controls serotonin ( 5-HT ) signaling . To explore how impairment in Akt function regulates 5-HT homeostasis , we used a brain-specific rictor knockout ( KO ) mouse model of impaired neuronal phosphorylation of Akt at Ser473 . Cortical P08908 and 5- Q13049 receptor binding was significantly elevated in rictor KO mice . Concomitant with this elevated receptor expression , the P08908 receptor agonist 8-Hydroxy-2-(di-n-propylamino)tetralin ( 8-OH-DPAT ) led to an increased hypothermic response in rictor KO mice . The increased cortical P08908 receptor density was associated with higher P08908 receptor levels on the cortical cell surface . In contrast , rictor KO mice displayed significantly reduced head-twitch response ( HTR ) to the 5- Q13049 /C agonist 2,5-dimethoxy-4-iodoamphetamine ( DOI ) , with evidence of impaired 5- Q13049 /C receptor signaling . In vitro , pharmacological inhibition of Akt significantly increased P08908 receptor expression and attenuated DOI-induced 5- Q13049 receptor signaling , thereby lending credence to the observed in vivo cross-talk between neuronal Akt signaling and 5-HT receptor regulation . These data reveal that defective central Akt function alters 5-HT signaling as well as 5-HT-associated behaviors , demonstrating a novel role for Akt in maintaining neuronal 5-HT receptor function .",
+    "P00747 activation initiated by single-chain urokinase-type plasminogen activator . Potentiation by U937 monocytes . The binding of urokinase-type plasminogen activators ( u-PA ) to receptors on various cell types has been proposed to be an important feature of many cellular processes requiring extracellular proteolysis . We have investigated the effect of single-chain u-PA binding to the monocyte-like cell line U937 on plasminogen activation . A 16-fold acceleration of the activation of plasminogen was observed at optimal concentrations of single-chain u-PA . This potentiation was abolished by the addition of either DB00513 or the amino-terminal fragment of u-PA , thus demonstrating the requirement for specific binding of both single-chain u-PA and plasminogen to the cells . The mechanism of the enhancement of plasmin generation appears to be due primarily to an increase in the rate of feedback activation of single-chain u-PA to the more active two-chain u-PA by cell-bound plasmin , initially generated by single-chain u-PA . This increased activity of the plasminogen activation system in the presence of U937 cells provides a mechanism whereby u-PAs may exert their influence in a variety of cell-associated proteolytic events .",
+    "ICE/ P29466 inhibitors as novel anti-inflammatory drugs . In recent years , several strategies that selectively inhibit pro-inflammatory cytokines , have yielded effective protein-based therapies for inflammatory disorders , validating the therapeutic hypothesis that intervention in cytokine signalling can provide clinical benefit . However , these protein-based products must be administered by injection , a constraint associated with inconvenience , adverse effects and expense for patients , caregivers and insurers . Besides interfering with the effects of cytokines such as P01375 or IL-1beta that have already been produced , inhibition of pro-inflammatory cytokine production or signalling with low-molecular weight orally-active drugs would combine the convenience of conventional pharmaceuticals with the focused efficacy of the protein therapies . Reducing IL-1beta and Q14116 production by inhibition of IL-1beta converting enzyme ( ICE , caspase-1 ) is one promising strategy because of the key roles of these cytokines in many inflammatory diseases . DB04875 , the first orally available , potent and selective ICE inhibitor to enter clinical trials , is currently under investigation in rheumatoid arthritis .",
+    "Gene expression in the anterior cingulate cortex and amygdala of adolescent marmoset monkeys following parental separations in infancy . Early life adversities are risk factors for later mood and emotional disorders . Repeated separation of infant marmosets from their parents provides a validated primate model of depression vulnerability , producing in-vivo biochemical and behavioural effects indicative of persistently altered stress reactivity and mild anhedonia . Here we report the long-term effect ( in adolescence ) of this intervention on the expression of synaptophysin , P20936 -43 , Q9P2U7 , Q9H598 , P11137 , spinophilin , and P08908 and 5- Q13049 receptors , in the anterior cingulate cortex ( ACC ; supragenual and subgenual areas ) and amygdala ( lateral , basal and central nuclei ) . These genes and regions are implicated in the response to stress or in mood disorder . The profile of P08908 receptor binding in ACC was affected by early deprivation , notably in the subgenual region , with a decrease in deep laminae but an increase in superficial laminae . Following early deprivation , spinophilin mRNA was reduced in subgenual ACC . In the amygdala , no significant effects of the manipulation were seen , but expression of several transcripts was sexually dimorphic . There were correlations between expression of some transcripts and in-vivo measurements . The results show that early deprivation in a non-human primate has a selective long-term effect on expression of genes in the ACC , particularly the subgenual area . The results differ from those reported in the hippocampus of the same animals , indicating the presence of limbic region-specific long-term molecular responses to early life stress .",
+    "8-OH-DPAT ( P08908 agonist ) Attenuates 6-Hydroxy- dopamine-induced catalepsy and Modulates Inflammatory Cytokines in Rats . OBJECTIVE(S) : Neuroinflammation in Parkinson disease ( PD ) is associated with glial cells activation and production of different inflammatory cytokines . In this study , we investigated the effect of chronic administration of 8-OH-DPAT on 6-OHDA-induced catalepsy and levels of inflammatory cytokines in cerebrospinal fluid ( P04141 ) . MATERIALS AND METHODS : Catalepsy was induced by unilateral infusion of 6-OHDA ( 8 μg/2 μl/rat ) into the central region of the sabstantia nigra pars compacta ( SNc ) being assessed by the bar-test , 5 , 60 , 120 and 180 min after intraperitoneal ( IP ) administration of 8-OH-DPAT ( P08908 receptor agonist ; 0.25 , 0.5 and 1mg/kg , IP for 10 days ) . P04141 samples were collected on the tenth day of 8-OH-DPAT administration and analyzed by ELISA method to measure levels of P01375 -α , IL-1β and P05231 . RESULTS : Chronic injection of 8-OH-DPAT decreased catalepsy in a dose dependent manner when compared with the control group . The most anti-cataleptic effect was observed at the dose of 1 mg/kg of 8-OH-DPAT . Levels of P01375 -α in P04141 increased three weeks after 6-OHDA injection while there was a significant decrease in P01375 -α level of parkinsonian animals treated with 8-OH-DPAT ( 1 mg/kg , IP for 10 days ) . IL-1β and P05231 decreased and increased in parkinsonian rats and in 8-OH-DPAT-treated parkinsonian rats , respectively . CONCLUSION : Our study indicated that chronic administration of 8-OH-DPAT improves catalepsy in 6-OHDA-induced animal model of PD and restores central concentration of inflammatory cytokines to the basal levels . P08908 receptor agonists can be suggested as potential adjuvant therapy in PD by modulation of cerebral inflammatory cytokines .",
+    "Ca2+-calmodulin and janus kinase 2 are required for activation of sodium-proton exchange by the Gi-coupled 5-hydroxytryptamine 1a receptor . The type 1 sodium-proton exchanger ( P19634 ) is expressed ubiquitously and regulates key cellular functions , including mitogenesis , cell volume , and intracellular pH . Despite its importance , the signaling pathways that regulate P19634 remain incompletely defined . In this work , we present evidence that stimulation of the 5-hydroxytryptamine 1A ( P08908 ) receptor results in the formation of a signaling complex that includes activated O60674 ( Jak2 ) , Ca2+/calmodulin ( P62158 ) , and P19634 , and which involves tyrosine phosphorylation of P62158 . The signaling pathway also involves rapid agonist-induced association of P62158 and P19634 as assessed by coimmunoprecipitation studies and by bioluminescence resonance energy transfer studies in living cells . We propose that P19634 is activated through this pathway : P08908 receptor --> G(i2)alpha and/or G(i3)alpha --> Jak2 activation --> tyrosine phosphorylation of P62158 --> increased binding of P62158 to P19634 --> induction of a conformational change in P19634 that unmasks an obscured proton-sensing and/or proton-transporting region of P19634 --> activation of P19634 . The G(i/o)-coupled P08908 receptor now joins a handful of Gq-coupled receptors and hypertonic shock as upstream activators of this emerging pathway . In the course of this work , we have presented clear evidence that P62158 can be activated through tyrosine phosphorylation in the absence of a significant role for elevated intracellular Ca2+ . We have also shown for the first time that the association of P62158 with P19634 in living cells is a dynamic process .",
+    "P01308 -like growth factor-I is a serum component stimulating growth of human neuroblastoma . Human non-autocrine neuroblastoma cells SK-N-SH and LF require serum for proliferation in vitro . We wished to determine the role of serum-borne insulin-like growth factor I ( P05019 ) as mitogen for these cells . Introduction of the monoclonal antibody alpha-IR3 against human P08069 reduced proliferation in the presence of fetal bovine serum ( FBS ) . P05019 ( 5 nM ) was as effective as FBS ( 10 % ) in stimulating proliferation . DB00071 mimicked the effects of P05019 , but at a 1000-fold higher concentration . The antibody alpha-IR3 reduced growth stimulated by P05019 more effectively than growth stimulated by insulin . Thus , proliferation of human non-autocrine neuroblastoma cells can be effectively manipulated by exogenous P05019 .",
+    "The effectiveness of lurasidone as an adjunct to lithium or divalproex in the treatment of bipolar disorder . The majority of patients with bipolar disorder spend a lot of time in depressive episodes that impose a great burden on patients , caregivers , and society and accounts for the largest part of the morbidity-mortality of the illness . DB08815 is an atypical antipsychotic with a potent binding affinity as antagonist for D2 , 5- Q13049 , P34969 , and partial agonist at P08908 receptors . Affinity for other receptors as H1 and muscarinic were negligible . DB08815 was approved in 2010 for the treatment of schizophrenia and recently , 2013 , for bipolar depression in monotherapy and an adjunct to lithium or valproate . Clinical trials have established that lurasidone adjuvant to lithium or valproate has more efficacy than the placebo and is associated with minimal weight gain and no clinically meaningful alterations in glucose , lipids , or the QT interval . Additional studies are desirable to know the clinical profile of lurasidone in long-term treatment , in patients with bipolar II disorders , and versus other antipsychotic agents .",
+    "The lipoxygenase-cyclooxygenase inhibitor licofelone prevents thromboxane A2-mediated cardiovascular derangement triggered by the inflammatory peptide fMLP in the rabbit . DB04725 is an analogue of arachidonic acid that inhibits P09917 ( P28300 ) , cyclooxygenase ( P36551 ) -1 and P35354 . We investigated the effects of licofelone on cardiovascular derangements and production of thromboxane (Tx)A(2) induced by the inflammatory agonist n-formyl-methionyl-leucyl-phenylalanine ( fMLP ) in the rabbit , in comparison with those of aspirin or rofecoxib , inhibitors of P23219 and P35354 , respectively . In control rabbits , injection of fMLP ( 30 nmol/kg ) in the jugular vein evokes ischemic electrocardiographic ( ECG ) changes in the first 1-5 min , i.e. a profound depression of the ST segment and inversion of the T wave . Simultaneously , fMLP induces bradycardia and hypotension and increases TxB(2) blood levels . All changes are transient . DB04725 ( 60 mg/kg/5 days , p.os ) prevented fMLP-induced ECG ischemic changes in all treated animals , reverted bradycardia and hypotension , and significantly reduced TxB(2) . DB00945 ( 10 mg/kg/5 days , p.os ) prevented ischemic ECG alterations in 2 out of 5 treated animals and did not modify either bradycardia or hypotension . One rabbit died two min after fMLP . In 2 rabbits , aspirin reduced TxB(2) levels by more than 80 % respect to mean control values ; the remaining two rabbits produced an amount of TxB(2) similar to controls . These two rabbits also showed ischemic ECG changes . DB00533 ( 10 mg/kg/5 days , p.os ) did not prevent fMLP-induced ischemic ECG alteration , bradycardia and hypotension , and did not significantly modify the increase of TxB(2) . These results indicate that the capacity of licofelone to efficiently suppress TxA(2) production , is responsible for the protection from the cardiovascular derangement triggered by an inflammatory stimulus .",
+    "P00747 activator dependent pathways in the dissemination of human tumor cells in the chick embryo . We have previously shown that inhibition of uPA activity of a human tumor-HEp3-results in a drastic reduction of its metastasis in the chick embryo . Using 125IUdR-labeled tumor cells , we have now studied the role of uPA in individual steps of tumor metastasis . We found that , 48 hr after inoculation of tumor cells on the P62158 , the organs of the embryos , inoculated with cells in which uPA was inhibited , contained 4-fold less cells than the controls . Neither the initial advance of the tumor mass into the P62158 nor the process of extravasation was affected by the inhibition of tumor uPA . However , the infiltration of the P62158 mesenchyme by individual tumor cells was blocked when tumor uPA activity or production was inhibited . In addition , indirect evidence implicated uPA as an essential factor in the tumor cell intravasation .",
+    "Pathways targeted by antidiabetes drugs are enriched for multiple genes associated with type 2 diabetes risk . Genome-wide association studies ( GWAS ) have uncovered > 65 common variants associated with type 2 diabetes ( T2D ) ; however , their relevance for drug development is not yet clear . Of note , the first two T2D-associated loci ( P37231 and Q14654 / Q09428 ) encode known targets of antidiabetes medications . We therefore tested whether other genes/pathways targeted by antidiabetes drugs are associated with T2D . We compiled a list of 102 genes in pathways targeted by marketed antidiabetic medications and applied Gene Set Enrichment Analysis ( MAGENTA [ Meta-Analysis Gene-set Enrichment of variaNT Associations ] ) to this gene set , using available GWAS meta-analyses for T2D and seven quantitative glycemic traits . We detected a strong enrichment of drug target genes associated with T2D ( P = 2 × 10(-5) ; 14 potential new associations ) , primarily driven by insulin and thiazolidinedione ( TZD ) targets , which was replicated in an independent meta-analysis ( Metabochip ) . The glycemic traits yielded no enrichment . The T2D enrichment signal was largely due to multiple genes of modest effects ( P = 4 × 10(-4) , after removing known loci ) , highlighting new associations for follow-up ( P33121 , P19838 , P11168 , incretin targets ) . Furthermore , we found that TZD targets were enriched for LDL cholesterol associations , illustrating the utility of this approach in identifying potential side effects . These results highlight the potential biomedical relevance of genes revealed by GWAS and may provide new avenues for tailored therapy and T2D treatment design .",
+    "DB08815 ( SM-13496 ) , a novel atypical antipsychotic drug , reverses MK-801-induced impairment of learning and memory in the rat passive-avoidance test . DB08815 ( SM-13496 ) is a novel atypical antipsychotic with high affinities to dopamine D2 , serotonin P34969 , 5- Q13049 , P08908 receptors and alpha2C adrenoceptor . In this study , the effects of lurasidone on the rat passive-avoidance response and its impairment by the N-methyl-D-aspartate ( DB01221 ) receptor antagonist MK-801 ( dizocilpine ) were evaluated and compared with those of other antipsychotics . The passive-avoidance response was examined by measuring the step-through latency , 1 day after the animals received foot-shock training . When given before the training session , lurasidone did not affect the passive-avoidance response at any dose tested ( 1-30 mg/kg , p.o. ) . All the other atypical antipsychotics examined ( i.e. , risperidone , olanzapine , quetiapine , clozapine and aripiprazole ) , however , significantly reduced the step-through latency at relatively high doses . A pre-training administration of lurasidone significantly and dose-dependently reversed the MK-801-induced impairment of the passive-avoidance response . At doses lower than those that affected the passive-avoidance response , risperidone , quetiapine , and clozapine partially reduced the MK-801-induced impairment , whereas haloperidol , olanzapine , and aripiprazole were inactive . In addition , the post-training administration of lurasidone was as effective in countering the MK-801 effect as the pre-training administration , suggesting that lurasidone worked , at least in part , by restoring the memory consolidation process disrupted by MK-801 . These results suggest that lurasidone is superior to other antipsychotics in improving the MK-801-induced memory impairment and may be clinically useful for treating cognitive impairments in schizophrenia .",
+    "2(3H)-benzoxazolone and bioisosters as \" privileged scaffold \" in the design of pharmacological probes . The 2(3H)-benzoxazolone heterocycle and its bioisosteric surrogates ( such as 2(3H)-benzothiazolinone , benzoxazinone , etc. ) have received considerable attention from the medicinal chemists owing to their capacity to mimic a phenol or a catechol moiety in a metabolically stable template . These heterocycles and pyrocatechol have indeed similar pKa 's , electronic charge distribution , and chemical reactivity . Therapeutic applications of this template are very broad , and range from analgesic anti-inflammatory compounds ( including P37231 antagonists ) to antipsychotic and neuroprotective anticonvulsant compounds . High affinity ligands have been obtained also for dopaminergic ( D2 and D4 ) , serotoninergic ( P08908 and P28223 ) , sigma-1 and sigma-2 receptors . Owing to the high number of positive hits encountered with this heterocycle and its congeners , 2(3H)-benzoxazolone template certainly deserves the title of \" privileged scaffold \" in medicinal chemistry .",
+    "DB04998 inhibits activation of nuclear factor-kappaB ( NF-kappaB ) by forming a complex with NF-kappaB essential modulator ( Q9Y6K9 ) and nucleolin . DB04998 , also known as DB04998 , is an experimental anticancer drug that recently entered human clinical trials . It is a member of a novel class of antiproliferative agents known as G-rich oligonucleotides ( P09341 ) , which are non-antisense , guanosine-rich phosphodiester oligodeoxynucleotides that form stable G-quadruplex structures . The biological activity of GROs results from their binding to specific cellular proteins as aptamers . One important target protein of GROs has been previously identified as nucleolin , a multifunctional protein expressed at high levels by cancer cells . Here , we report that DB04998 also associates with nuclear factor-kappaB ( NF-kappaB ) essential modulator ( Q9Y6K9 ) , which is a regulatory subunit of the inhibitor of kappaB ( IkappaB ) kinase ( IKK ) complex , and also called IKKgamma . In the classic NF-kappaB pathway , the IKK complex is required for phosphorylation of P25963 and subsequent activation of the transcription factor NF-kappaB . We found that treatment of cancer cells with DB04998 inhibits IKK activity and reduces phosphorylation of P25963 in response to tumor necrosis factor-alpha stimulation . Using a reporter gene assay , we showed that DB04998 blocks both tumor necrosis factor-alpha-induced and constitutive NF-kappaB activity in human cancer cell lines derived from cervical , prostate , breast , and lung carcinomas . In addition , we showed that , in DB04998 -treated cancer cells , Q9Y6K9 is coprecipitated by nucleolin , indicating that both proteins are present in the same complex . Our studies suggest that abrogation of NF-kappaB activity may contribute to the anticancer effects of DB04998 and that nucleolin may play a previously unknown role in regulating the NF-kappaB pathway .",
+    "Ras-driven transcriptome analysis identifies aurora kinase A as a potential malignant peripheral nerve sheath tumor therapeutic target . PURPOSE : Patients with neurofibromatosis type 1 ( P21359 ) develop malignant peripheral nerve sheath tumors ( MPNST ) , which are often inoperable and do not respond well to current chemotherapies or radiation . The goal of this study was to use comprehensive gene expression analysis to identify novel therapeutic targets . EXPERIMENTAL DESIGN : Nerve Schwann cells and/or their precursors are the tumorigenic cell types in MPNST because of the loss of the P21359 gene , which encodes the P20936 protein neurofibromin . Therefore , we created a transgenic mouse model , P09543 -HRas12V , expressing constitutively active HRas in Schwann cells and defined a Ras-induced gene expression signature to drive a Bayesian factor regression model analysis of differentially expressed genes in mouse and human neurofibromas and MPNSTs . We tested functional significance of Aurora kinase overexpression in MPNST in vitro and in vivo using Aurora kinase short hairpin RNAs ( shRNA ) and compounds that inhibit Aurora kinase . RESULTS : We identified 2,000 genes with probability of linkage to nerve Ras signaling of which 339 were significantly differentially expressed in mouse and human P21359 -related tumor samples relative to normal nerves , including O14965 ( O14965 ) . O14965 was dramatically overexpressed and genomically amplified in MPNSTs but not neurofibromas . Aurora kinase shRNAs and Aurora kinase inhibitors blocked MPNST cell growth in vitro . Furthermore , an O14965 selective inhibitor , DB05220 , stabilized tumor volume and significantly increased survival of mice with MPNST xenografts . CONCLUSION : Integrative cross-species transcriptome analyses combined with preclinical testing has provided an effective method for identifying candidates for molecular-targeted therapeutics . Blocking Aurora kinases may be a viable treatment platform for MPNST .",
+    "Pharmacological profile of astemizole-derived compounds at the histamine H1 and H4 receptor -- H1/H4 receptor selectivity . DB00637 , a P35367 antagonist shows high affinity to the histamine H1 receptor but only a moderate affinity to the histamine H4 receptor . This study aims to modify the astemizole to keep high affinity to the histamine H1 receptor and to increase affinity to the histamine H4 receptor . Therefore , 13 astemizole-derived compounds and astemizole-JNJ7777120-derived hybrid compounds were synthesized and pharmacologically characterized at the histamine H1 and H4 receptors . The new compounds show affinity to the histamine H1 receptor in the pK i range from 5.3 to 8.8 , whereas the affinity of these compounds to the histamine H4 receptor was surprisingly rather low ( pK i from 4.4 to 5.6 ) . Three representative compounds were docked into the histamine H1 receptor and molecular dynamic studies were performed to explain the binding mode and the experimental results on a molecular level . Furthermore , taking into account the binding mode of compounds with high affinity to the histamine H4 receptor , a H1/H4-pharmacophore hypothesis was developed .",
+    "Signaling pathways mediating induction of the early response genes prostaglandin G/H synthase-2 and egr-1 by serotonin via 5- Q13049 receptors . Signaling pathways responsible for serotonin ( 5-HT ) -mediated induction of early response genes prostaglandin G/H synthase-2 ( P35354 , cyclooxygenase-2 ) and egr-1 were investigated in rat mesangial cells . Gene induction by 5-HT was dependent on 5- Q13049 receptors that were pertussis toxin insensitive indicating coupling to a G-protein of the Gq family . Binding of 5-HT to this receptor activates phosphatidylinositol-specific phospholipase C ( P98160 ) and release of Ca2+ from internal stores , but this activation was not related to P35354 mRNA expression . Similarly , P19957 kinase was not involved in 5-HT signaling . Instead , inhibition of phosphatidylcholine-specific P98160 interfered with P35354 and egr-1 mRNA induction , suggesting this enzyme as a link between 5- Q13049 receptors and protein kinase C , an essential part of 5-HT-mediated signaling . The Q96HU1 kinase pathway was identified as common signaling pathway of 5-HT or phorbol ester-induced gene expression . Increase of intracellular DB02527 by forskolin or dibutyryl DB02527 did not induce P35354 or egr-1 mRNA expression by itself , but strongly inhibited 5-HT-mediated mRNA induction . P35354 mRNA and protein induction by 5-HT was also abolished by chelation of Ca2+ ions by EGTA , suggesting involvement of Ca2+-dependent enzymes . In contrast , egr-1 mRNA expression was superinduced in the presence of EGTA . Induction of Egr-1 protein was not changed by EGTA hinting to Ca2+-sensitive posttranscriptional steps . Activation of the Gq-coupled 5- Q13049 receptor thus leads to the expression of the early response genes P35354 and egr-1 , using common as well as differing signaling elements that allow differential regulation of the expression of these genes that are functionally related to renal hemodynamics and proliferation of mesangial cells , respectively .",
+    "Potentiation by neuropeptide Y of 5HT2A receptor-mediated contraction in porcine coronary artery . Potentiation by neuropeptide Y of serotonin ( 5-HT ) -induced vasoconstriction was investigated in porcine coronary artery . 5-HT caused concentration-dependent contraction through 5- Q13049 receptors . Neuropeptide Y ( 30 nM ) significantly increased the 5HT-induced contraction by 16+/-5 % in arteries with intact endothelium . Removal of the endothelium abolished the potentiation . A neuropeptide Q03519 antagonist , BIBP3226 , blocked this neuropeptide Y-induced potentiation . In vessels with intact endothelium , the potentiation by neuropeptide Y was inhibited by in the presence of a cyclo-oxygenase inhibitor , indomethacin ( 30 microM ) , but not by the presence of P25101 or ETB endothelin receptor antagonists or an NO synthase inhibitor , NG-nitro-L-arginine ( DB04223 ) ( 1 mM ) at all . A thromboxane A2 ( TXA2 ) synthase inhibitor , ozagrel , and prostanoid TP receptor antagonists , seratrodast and ONO-3708 , also inhibited the neuropeptide Y-induced potentiation . In the endothelium-denuded arteries , a prostanoid TP receptor agonist , U-46619 ( 0.01-0.1 nM ) , potentiated 5-HT-induced contraction . These results indicate that neuropeptide Y potentiates the 5-HT-induced contraction , due to release of TXA2 from the endothelium via neuropeptide Q03519 receptors , in porcine coronary artery ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB08815 is an atypical antipsychotic with high affinities to dopamine D2, serotonin P34969, 5-Q13049, P08908 receptors, and alpha2C adrenoceptor.\nDB08815 has a partial agonist activity at P08908 receptors.\nDB00222 is a class of insulin secretagog agents that interacts with the DB00171-sensitive potassium (K+) channel in pancreatic beta cells.\nDB00513 is a compound that abolishes the potentiation of plasminogen activation by single-chain u-PA in U937 monocytes.\nDB00637 is a P35367 antagonist with high affinity to the histamine H1 receptor and moderate affinity to the histamine H4 receptor.\nDB04725 is an analogue of arachidonic acid that inhibits P09917, cyclooxygenase-1, and P35354.\nDB04875 is an orally available, potent, and selective ICE inhibitor that entered clinical trials for rheumatoid arthritis.\nDB04998 is an experimental anticancer drug that forms a complex with NF-kappaB essential modulator (Q9Y6K9) and nucleolin.\nDB05220 is an O14965 selective inhibitor used in MPNST treatment.\nDB06268 is an orally active ET(A) selective endothelin antagonist with demonstrated efficacy in a phase II clinical trial for congestive heart failure.\nDB08815 is described as having high affinity for P08908 receptors, which is a serotonin receptor.\nDB00222, DB00513, DB00637, DB04725, DB04875, DB04998, DB05220, and DB06268 are not described as interacting with P08908 receptors.\nDB00071 is a compound that mimics the effects of P05019 (insulin-like growth factor I) in neuroblastoma cells.\nDB00071 is not described as interacting with DB08815.\nDB08815 is not described as interacting with any of the listed compounds except through receptor binding.\nThe only compound among the list that shares a target with DB08815 is DB00222, but it targets a different receptor (K+ channel).\nNo direct interaction between DB08815 and any of the listed compounds is described in the text.\nThe interaction between DB08815 and any of the listed compounds is not specified.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB08815 is an atypical antipsychotic with high affinities to dopamine D2, serotonin P34969, 5-Q13049, P08908 receptors, and alpha2C adrenoceptor",
+    "DB08815 has a partial agonist activity at P08908 receptors",
+    "DB00222 is a class of insulin secretagog agents that interacts with the DB00171-sensitive potassium (K+) channel in pancreatic beta cells",
+    "DB00513 is a compound that abolishes the potentiation of plasminogen activation by single-chain u-PA in U937 monocytes",
+    "DB00637 is a P35367 antagonist with high affinity to the histamine H1 receptor and moderate affinity to the histamine H4 receptor",
+    "DB04725 is an analogue of arachidonic acid that inhibits P09917, cyclooxygenase-1, and P35354",
+    "DB04875 is an orally available, potent, and selective ICE inhibitor that entered clinical trials for rheumatoid arthritis",
+    "DB04998 is an experimental anticancer drug that forms a complex with NF-kappaB essential modulator (Q9Y6K9) and nucleolin",
+    "DB05220 is an O14965 selective inhibitor used in MPNST treatment",
+    "DB06268 is an orally active ET(A) selective endothelin antagonist with demonstrated efficacy in a phase II clinical trial for congestive heart failure",
+    "DB08815 is described as having high affinity for P08908 receptors, which is a serotonin receptor",
+    "DB00222, DB00513, DB00637, DB04725, DB04875, DB04998, DB05220, and DB06268 are not described as interacting with P08908 receptors",
+    "DB00071 is a compound that mimics the effects of P05019 (insulin-like growth factor I) in neuroblastoma cells",
+    "DB00071 is not described as interacting with DB08815",
+    "DB08815 is not described as interacting with any of the listed compounds except through receptor binding",
+    "The only compound among the list that shares a target with DB08815 is DB00222, but it targets a different receptor (K+ channel)",
+    "No direct interaction between DB08815 and any of the listed compounds is described in the text",
+    "The interaction between DB08815 and any of the listed compounds is not specified"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB08815 is an atypical antipsychotic with high affinities to dopamine D2, serotonin P34969, 5-Q13049, P08908 receptors, and alpha2C adrenoceptor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB08815 has a partial agonist activity at P08908 receptors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB00222 is a class of insulin secretagog agents that interacts with the DB00171-sensitive potassium (K+) channel in pancreatic beta cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB00513 is a compound that abolishes the potentiation of plasminogen activation by single-chain u-PA in U937 monocytes",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB00637 is a P35367 antagonist with high affinity to the histamine H1 receptor and moderate affinity to the histamine H4 receptor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB04725 is an analogue of arachidonic acid that inhibits P09917, cyclooxygenase-1, and P35354",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB04875 is an orally available, potent, and selective ICE inhibitor that entered clinical trials for rheumatoid arthritis",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB04998 is an experimental anticancer drug that forms a complex with NF-kappaB essential modulator (Q9Y6K9) and nucleolin",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB05220 is an O14965 selective inhibitor used in MPNST treatment",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB06268 is an orally active ET(A) selective endothelin antagonist with demonstrated efficacy in a phase II clinical trial for congestive heart failure",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB08815 is described as having high affinity for P08908 receptors, which is a serotonin receptor",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00222, DB00513, DB00637, DB04725, DB04875, DB04998, DB05220, and DB06268 are not described as interacting with P08908 receptors",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00071 is a compound that mimics the effects of P05019 (insulin-like growth factor I) in neuroblastoma cells",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB00071 is not described as interacting with DB08815",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB08815 is not described as interacting with any of the listed compounds except through receptor binding",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "The only compound among the list that shares a target with DB08815 is DB00222, but it targets a different receptor (K+ channel)",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "No direct interaction between DB08815 and any of the listed compounds is described in the text",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "The interaction between DB08815 and any of the listed compounds is not specified",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

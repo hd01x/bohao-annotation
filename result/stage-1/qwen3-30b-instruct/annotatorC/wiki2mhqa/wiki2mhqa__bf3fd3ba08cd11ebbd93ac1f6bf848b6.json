@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__bf3fd3ba08cd11ebbd93ac1f6bf848b6",
+  "sample_id": "bf3fd3ba08cd11ebbd93ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director born earlier, Farfallon or Man On The Tracks?",
+  "gold_answer": "Man On The Tracks",
+  "context": [
+    "Joshua Sinclair( born May 7, 1953) is an American writer, producer, actor and director born in New York City.",
+    "Man on the Tracks is a 1956 film by Andrzej Munk. \" Man on the Tracks\" was one of the first films of the Polish Film School and as such influenced the whole generation of young directors who participated in the movement. The film tells the story, mostly in flashback, of a railway worker who is fired from his job for alleged sabotage of the Socialist methods of work.",
+    "Sepideh Farsi is an Iranian film director, born in Tehran in 1965.",
+    "Riccardo Pazzaglia( 12 September 1926 – 4 October 2006) was an Italian actor, film director, screenwriter, songwriter( for Domenico Modugno), TV and radio personality. Born in Naples, Pazzaglia graduated in direction from the Centro Sperimentale di Cinematografia in Rome. He entered the film industry as an assistant director and screenwriter, specializing in adventure and comedy films. Pazzaglia made his directional debut with\" L'onorata società\", starring the comedy duo Franco Franchi and Ciccio Ingrassia, whom he also directed in\" Farfallon\". After some years of hiatus, Pazzaglia got a personal success thanks to his participation to the Renzo Arbore's variety show\" Quelli della notte\". He later reprised his film activities, collaborating to the screenplays of some films by Luciano De Crescenzo and writing, directing and also starring in his last film,\" Separati in casa\".",
+    "Jacques Décombe is a French author, actor and director born in 1953.",
+    "Andrzej Munk( 16 October 1921 – 20 September 1961) was a Polish film director, screen writer and documentalist. He was one of the most influential artists of the post-Stalinist period in the People's Republic of Poland. His feature films\" Man on the Tracks Człowiek na torze\", 1956),\" EroicaHeroism\", 1958),\" Bad LuckZezowate szczęście\", 1960), and\" Passenger Pasażerka\" 1963), are considered classics of the Polish Film School developed in mid-1950s. He died as a result of a car crash in Kompina in a head- on collision with a truck.",
+    "Farfallon is a 1974 Italian comedy film directed by Riccardo Pazzaglia. It is a parody of\" Papillon\".",
+    "Yolonda Ross is an American character actress, writer and director born (31 July 1974).",
+    "Claude Weisz is a French film director born in Paris.",
+    "Fred R. Krug is an American film and television producer- director born in Bern, Switzerland."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nFarfallon is a 1974 Italian comedy film directed by Riccardo Pazzaglia.\nRiccardo Pazzaglia was born on 12 September 1926.\nMan on the Tracks is a 1956 film directed by Andrzej Munk.\nAndrzej Munk was born on 16 October 1921.\n1921 is earlier than 1926.\nThe director of Man on the Tracks was born earlier than the director of Farfallon.\nThe film with the director born earlier is Man on the Tracks.\n<answer> Man on the Tracks",
+  "predicted_answer": "Man on the Tracks",
+  "claims": [
+    "Farfallon is a 1974 Italian comedy film directed by Riccardo Pazzaglia",
+    "Riccardo Pazzaglia was born on 12 September 1926",
+    "Man on the Tracks is a 1956 film directed by Andrzej Munk",
+    "Andrzej Munk was born on 16 October 1921",
+    "1921 is earlier than 1926",
+    "The director of Man on the Tracks was born earlier than the director of Farfallon",
+    "The film with the director born earlier is Man on the Tracks"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Farfallon is a 1974 Italian comedy film directed by Riccardo Pazzaglia",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Riccardo Pazzaglia was born on 12 September 1926",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Man on the Tracks is a 1956 film directed by Andrzej Munk",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Andrzej Munk was born on 16 October 1921",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "1921 is earlier than 1926",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The director of Man on the Tracks was born earlier than the director of Farfallon",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director born earlier is Man on the Tracks",
+      "claim_type": "DR"
+    }
+  ]
+}

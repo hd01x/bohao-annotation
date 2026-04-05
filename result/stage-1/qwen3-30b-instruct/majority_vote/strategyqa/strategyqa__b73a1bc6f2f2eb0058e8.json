@@ -1,0 +1,121 @@
+{
+  "uid": "strategyqa__b73a1bc6f2f2eb0058e8",
+  "sample_id": "b73a1bc6f2f2eb0058e8",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Did Brazilian jiu-jitsu Gracie founders have at least a baker's dozen of kids between them?",
+  "gold_answer": "yes",
+  "context": [
+    "A baker's dozen refers to 13 of anything.",
+    "Brazilian jiu-jitsu was founded by Carlos and Helio Gracie.  ",
+    "Helio Gracie had 9 children.",
+    "Carlos Gracie had 11 children."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBrazilian jiu-jitsu was founded by Carlos and Helio Gracie.\nCarlos Gracie had 11 children.\nHelio Gracie had 9 children.\n11 children plus 9 children equals 20 children.\nA baker's dozen refers to 13 of anything.\n20 is greater than 13.\nThe Brazilian jiu-jitsu Gracie founders had at least a baker's dozen of kids between them.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "Brazilian jiu-jitsu was founded by Carlos and Helio Gracie",
+    "Carlos Gracie had 11 children",
+    "Helio Gracie had 9 children",
+    "11 children plus 9 children equals 20 children",
+    "A baker's dozen refers to 13 of anything",
+    "20 is greater than 13",
+    "The Brazilian jiu-jitsu Gracie founders had at least a baker's dozen of kids between them"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Brazilian jiu-jitsu was founded by Carlos and Helio Gracie",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Carlos Gracie had 11 children",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Helio Gracie had 9 children",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "11 children plus 9 children equals 20 children",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A baker's dozen refers to 13 of anything",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "20 is greater than 13",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The Brazilian jiu-jitsu Gracie founders had at least a baker's dozen of kids between them",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__c5e7570c0bdd11eba7f7acde48001122",
+  "sample_id": "c5e7570c0bdd11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where did the director of film The Marihuana Story die?",
+  "gold_answer": "Madrid",
+  "context": [
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "The Marihuana Story  is a 1950 Argentine film directed by León Klimovsky. It was entered into the 1951 Cannes Film Festival.",
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "S.N. Mathur was the Director of the Indian Intelligence Bureau between September 1975 and February 1980. He was also the Director General of Police in Punjab.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur.",
+    "León Klimovsky (16 October 1906 – 8 April 1996) was an Argentine film director, screenwriter and film producer. A trained dentist, born in Buenos Aires , his real passion was always the cinema. He pioneered Argentine cultural movement known as cineclub and financed the first movie theater to show \"art movies\". He also founded Argentina's first film club in 1929. After participating as scriptwriter and assistant director of 1944's \"Se abre el abismo\", he filmed his first movie, an adaptation of Fyodor Dostoyevsky's \"The Player\". He also worked on adaptations of Alexandre Dumas' \" The Count of Monte Cristo\" and Ernesto Sabato's \"The Tunnel\". During the 1950s, Klimovsky settled in Spain, where he became a full-time \"professional\" director. He directed many spaghetti westerns and \"exploitation films\", filming in Mexico, Italy, Spain and Egypt. Horror film fans best remember him for his contributions to Spain's horror film genre, beginning with \"La Noche de WalpurgisWalpurgis Night\"), the film that is said to have started the Spanish horror film boom of the 1970s. Klimovsky directed famed Spanish horror icon Paul Naschy in no less than 9 films in the 1970s, while also directing other classic horror films such as \"The Strange Love of the VampiresThe Dracula Saga\" and \"The Vampires' Night Orgy\". Naschy complimented Klimovsky's workmanlike attitude and abundant energy, but he always felt that Klimovsky rushed through many of their projects together, never allowing for sufficient retakes. León Klimovsky always dreamt of doing great mainstream movies but ended up doing commercial exploitation films, but he had no remorse, as cinema was a vocational mandate for him. He retired from directing in 1979, at age 73. In 1995, at age 89, he won the \"Honor Award\" from the Spanish Film Directors Association. He died the following year in Madrid from a heart attack. He was the brother of noted Argentinian mathematician and philosopher Gregorio Klimovsky.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Ian Barry is an Australian director of film and TV.",
+    "The Time, the Place and the Girl is a 1946 American musical film directed by David Butler. It is unrelated to the 1929 film\" The Time, the Place and the Girl\"."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Marihuana Story is a 1950 Argentine film directed by León Klimovsky.\nLeón Klimovsky was born in Buenos Aires, Argentina.\nKlimovsky moved to Spain in the 1950s and continued directing films there.\nHe directed numerous films in Spain, Mexico, Italy, and Egypt during his career.\nKlimovsky retired from directing in 1979.\nHe died in Madrid, Spain, from a heart attack in 1996.\nThe director of The Marihuana Story died in Madrid.\n<answer> Madrid",
+  "predicted_answer": "Madrid",
+  "claims": [
+    "The Marihuana Story is a 1950 Argentine film directed by León Klimovsky",
+    "León Klimovsky was born in Buenos Aires, Argentina",
+    "Klimovsky moved to Spain in the 1950s and continued directing films there",
+    "He directed numerous films in Spain, Mexico, Italy, and Egypt during his career",
+    "Klimovsky retired from directing in 1979",
+    "He died in Madrid, Spain, from a heart attack in 1996",
+    "The director of The Marihuana Story died in Madrid"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Marihuana Story is a 1950 Argentine film directed by León Klimovsky",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "León Klimovsky was born in Buenos Aires, Argentina",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Klimovsky moved to Spain in the 1950s and continued directing films there",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "He directed numerous films in Spain, Mexico, Italy, and Egypt during his career",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "Klimovsky retired from directing in 1979",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "He died in Madrid, Spain, from a heart attack in 1996",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "The director of The Marihuana Story died in Madrid",
+      "claim_type": "DR"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "uid": "wiki2mhqa__61c4c7c008de11ebbd9eac1f6bf848b6",
+  "sample_id": "61c4c7c008de11ebbd9eac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film has the director died later, Romeo, Juliet And Darkness or I Can Explain?",
+  "gold_answer": "Romeo, Juliet And Darkness",
+  "context": [
+    "R*, R*, or* R can mean the following:",
+    "Queen of Darkness or variants may refer to:",
+    "George Duane Baker( April 22, 1868 – June 2, 1933) was an American motion picture director whose career began near the dawn of the silent film era.",
+    "Romeo, Juliet and Darkness is a 1960 Czech drama film directed by Jiří Weiss. Inspired by William Shakespeare's\" Romeo and Juliet\", the film is about problems experienced by a young Jewish woman who is hidden from the Gestapo by a student lover. In 1997 a TV adaptation of the same name was directed by Karel Smyczek.",
+    "Jiří Weiss( 29 March 1913 – 9 April 2004) was a film director and screenwriter born to a wealthy Jewish family in Prague. Weiss was born into the German- speaking Jewish community. Against the will of his father he began to shoot documentary and advertisement films in Czechoslovakia and later in England where he fled before the Germans and joined Czechoslovak units in RAF. After the war he returned to Prague and as director- screenwriter made many successful films such as\" Wolf Trap\"( 1957) and\" Romeo, Juliet and Darkness\"( 1959). In 1968 he left Prague again after the Russian occupation and settled in the US. There he taught film at Hunter College, New York and in Santa Barbara. After the Velvet Revolution he shot his last film again in his homeland,\" Martha and I\"( 1991).",
+    "A6, A 6 or A- 6 can refer to:",
+    "USE or U.S.E. can refer to:",
+    "Angel of darkness, or a variation thereof, may refer to:",
+    "I Can Explain is a 1922 American silent comedy film directed by George D. Baker and starring Gareth Hughes, Bartine Burkett, and Grace Darmond.",
+    "Queen of Air and Darkness may refer to:"
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nRomeo, Juliet and Darkness was directed by Jiří Weiss.\nJiří Weiss died on 9 April 2004.\nI Can Explain was directed by George D. Baker.\nGeorge D. Baker died on 2 June 1933.\n2004 is later than 1933.\nThe director of Romeo, Juliet and Darkness died later than the director of I Can Explain.\nThe film with the director who died later is Romeo, Juliet and Darkness.\n<answer> Romeo, Juliet and Darkness",
+  "predicted_answer": "Romeo, Juliet and Darkness",
+  "claims": [
+    "Romeo, Juliet and Darkness was directed by Jiří Weiss",
+    "Jiří Weiss died on 9 April 2004",
+    "I Can Explain was directed by George D. Baker",
+    "George D. Baker died on 2 June 1933",
+    "2004 is later than 1933",
+    "The director of Romeo, Juliet and Darkness died later than the director of I Can Explain",
+    "The film with the director who died later is Romeo, Juliet and Darkness"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Romeo, Juliet and Darkness was directed by Jiří Weiss",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Jiří Weiss died on 9 April 2004",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "I Can Explain was directed by George D. Baker",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "George D. Baker died on 2 June 1933",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "2004 is later than 1933",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The director of Romeo, Juliet and Darkness died later than the director of I Can Explain",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "The film with the director who died later is Romeo, Juliet and Darkness",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

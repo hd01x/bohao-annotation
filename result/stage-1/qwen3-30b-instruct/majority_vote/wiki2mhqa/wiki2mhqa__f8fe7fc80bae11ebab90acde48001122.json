@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__f8fe7fc80bae11ebab90acde48001122",
+  "sample_id": "f8fe7fc80bae11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Shamsher Bahadur I (Krishna Rao)'s maternal grandfather?",
+  "gold_answer": "Chhatrasal",
+  "context": [
+    "A Krishna Rao is an Indian Telugu language journalist and a political analyst.",
+    "Krishna Rao( died 1857) was an Indian administrator who served as the acting Diwan of Travancore from 1842 to 1843 and the full- fledged Diwan from 1846 to 1857. After the death of krishna rao in 1857, T. Madhava Rao was chosen to the high office of dewan by the Maharaja of Travancore.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "Henry J.\" Red\" Krause, Jr.( August 28, 1913 – February 20, 1987) was an American football offensive lineman in the National Football League for the Brooklyn Dodgers and the Washington Redskins. He played college football at St. Louis University. He is the grandfather of Jennifer Krause He is the great grandfather of Payton Hoeing",
+    "Mastani (1699–1740 CE) was the daughter of Maharaja Chhatrasal and the second wife of the Maratha Peshwa Bajirao I.",
+    "Mandali Venkata Krishna Rao( 4 August 1926 – 27 September 1997), shortly M. V. Krishna Rao, was a politician and minister in Andhra Pradesh, India.",
+    "Narayana Ananthaiah Gowda is an Indian social activist who is the current president of the Karnataka Rakshana Vedike based in Karnataka, India. In the\" Kannada Chaluvali\"( Kannada movement) vacuum created after the death of A N Krishna Rao, Gowda started KRV together with Janagere Venkataramaiah.",
+    "Frederick\" Fred\" Le Deux( born 4 December 1934) was an Australian rules footballer who played with Geelong in the Victorian Football League( VFL). He is the grandfather of Tom Hawkins.",
+    "Shamsher Bahadur I (1734 – 14 January 1761), also known as Krishna Rao, was a Maratha ruler of the dominion of Banda in northern India. He was the son of Bajirao I and Mastani.",
+    "Mutnuri Krishna Rao was an Indian freedom fighter, editor, scholar and literary critic. He was the editor of Krishna Patrika, a nationalist publication from 1907 to 1945. He is considered to be the doyen of Telugu journalism."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nShamsher Bahadur I (Krishna Rao) was the son of Bajirao I and Mastani.\nMastani was the daughter of Maharaja Chhatrasal.\nMaharaja Chhatrasal was the father of Mastani.\nThe maternal grandfather of Shamsher Bahadur I (Krishna Rao) is Maharaja Chhatrasal.\n<answer> Maharaja Chhatrasal",
+  "predicted_answer": "Maharaja Chhatrasal",
+  "claims": [
+    "Shamsher Bahadur I (Krishna Rao) was the son of Bajirao I and Mastani",
+    "Mastani was the daughter of Maharaja Chhatrasal",
+    "Maharaja Chhatrasal was the father of Mastani",
+    "The maternal grandfather of Shamsher Bahadur I (Krishna Rao) is Maharaja Chhatrasal"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Shamsher Bahadur I (Krishna Rao) was the son of Bajirao I and Mastani",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Mastani was the daughter of Maharaja Chhatrasal",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Maharaja Chhatrasal was the father of Mastani",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The maternal grandfather of Shamsher Bahadur I (Krishna Rao) is Maharaja Chhatrasal",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

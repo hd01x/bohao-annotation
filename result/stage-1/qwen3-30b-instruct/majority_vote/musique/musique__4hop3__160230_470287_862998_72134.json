@@ -1,0 +1,123 @@
+{
+  "uid": "musique__4hop3__160230_470287_862998_72134",
+  "sample_id": "4hop3__160230_470287_862998_72134",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "When did the city where Hillcrest High School is located become capitol of the state in which a statue of a Latin mother goddess is located?",
+  "gold_answer": "1839",
+  "context": [
+    "Hörnli mountain is located on the territory of the community of Fischenthal, in the Zürcher Oberland, in the eastern part of canton of Zürich, in Switzerland. It is high.",
+    "Port Blair (pronunciation (help info)) is the capital of the Andaman and Nicobar Islands, a union territory of India situated in the Bay of Bengal. It is also the local administrative sub-division (tehsil) of the islands, the headquarters for the district of South Andaman, and is the territory's only notified town. It houses the headquarters of the Andaman and Nicobar Police and the Andaman and Nicobar Command, the first integrated tri-command of the armed forces of India.",
+    "Cyprus Popular Bank (from 2006 to 2011 known as Marfin Popular Bank) was the second largest banking group in Cyprus behind the Bank of Cyprus until it was 'shuttered' in March 2013 and split into two parts. The 'good' Cypriot part was merged into the Bank of Cyprus (including insured deposits under 100,000 Euro) and the 'bad' part or legacy entity holds all the overseas operations as well as uninsured deposits above 100,000 Euro, old shares and bonds. The uninsured depositors were subject to a bail-in and became the new shareholders of the legacy entity. As at May 2017, the legacy entity is one of the largest shareholders of Bank of Cyprus with 4.8% but does not hold a board seat. All the overseas operations, of the now defunct Cyprus Popular Bank, are also held by the legacy entity, until they are sold by the Special Administrator, at first Ms Andri Antoniadou, who ran the legacy entity for two years, from March 2013 until 3 March 2015. She tendered her resignation due to disagreements, with the Governor of the Central Bank of Cyprus and the Central Bank Board members, who amended the lawyers of the legacy entity, without consulting her. Veteran banker Chris Pavlou who is an expert in Treasury and risk management took over as Special Administrator of the legacy entity in April 2015 until December 2016. The legacy entity is pursuing legal action against former major shareholder Marfin Investment Group.",
+    "Ashland Community High School was located in Ashland, Maine, USA. It was part of Maine School Administrative District 32, or MSAD 32, which serves Ashland, Garfield Plantation, Masardis, Oxbow, Portage Lake and Sheridan, Maine. There was a student population of 200 in school grades 7–12, with eighteen faculty members as well as administrators, a counselor and three support personnel. The school had achieved accredited status with the New England Association of Schools and Colleges.",
+    "Before its current usage, alma mater was an honorific title for various Latin mother goddesses, especially Ceres or Cybele, and later in Catholicism for the Virgin Mary. It entered academic usage when the University of Bologna adopted the motto Alma Mater Studiorum (\"nurturing mother of studies\"), which describes its heritage as the oldest operating university in the Western world. It is related to alumnus, a term used for a university graduate that literally means a \"nursling\" or \"one who is nourished\".",
+    "Pangi Territory is an administrative area in Maniema Province of the Democratic Republic of the Congo. The headquarters is the town of Pangi.",
+    "A Nigerian State is a federated political entity, which shares sovereignty with the Federal Government of Nigeria, There are 36 States in Nigeria, which are bound together by a federal agreement. There is also a territory called the Federal Capital Territory (FCT), which is not a state, but a territory, under the direct control of the Federal Government. The States are further divided into a total of 774 Local Government Areas. Under the Nigerian Constitution, states have the power to ratify constitutional amendments.",
+    "The Parliament of India can pass a law to amend the Constitution and provide a Legislature with elected Members and a Chief Minister for a Union Territory, as it has done for Delhi and Puducherry. In general, The President of India appoints an administrator or lieutenant - governor for each UT. There are seven union territories, including Chandigarh, the joint capital of Punjab and Haryana.",
+    "Pesanggrahan is a subdistrict of South Jakarta, one of the administrative city which forms the capital territory of Jakarta, Indonesia. The Pesanggrahan River flows along the eastern edge of Pesanggrahan Subdistrict. To the west of Pesanggrahan Subdistrict is Tangerang Regency, Banten Province.",
+    "Tumaraa is a commune of French Polynesia, an overseas territory of France in the Pacific Ocean. The commune of Tumaraa is located on the island of Raiatea, in the administrative subdivision of the Leeward Islands, themselves part of the Society Islands. At the 2017 census it had a population of 3,721, making it the least populous commune on Raiatea.",
+    "Usually, a federation is formed at two levels: the central government and the regions (states, provinces, territories), and little to nothing is said about second or third level administrative political entities. Brazil is an exception, because the 1988 Constitution included the municipalities as autonomous political entities making the federation tripartite, encompassing the Union, the States, and the municipalities. Each state is divided into municipalities (municípios) with their own legislative council (câmara de vereadores) and a mayor (prefeito), which are partly autonomous from both Federal and State Government. Each municipality has a \"little constitution\", called \"organic law\" (lei orgânica). Mexico is an intermediate case, in that municipalities are granted full-autonomy by the federal constitution and their existence as autonomous entities (municipio libre, \"free municipality\") is established by the federal government and cannot be revoked by the states' constitutions. Moreover, the federal constitution determines which powers and competencies belong exclusively to the municipalities and not to the constituent states. However, municipalities do not have an elected legislative assembly.",
+    "Kis-Küküllő was an administrative county (comitatus) of the Kingdom of Hungary. Its territory is now in central Romania (central Transylvania). Kis-Küküllő is the Hungarian name for the Târnava Mică River. The capital of the county was \"Dicsőszentmárton\" (now Târnăveni).",
+    "Nigeria is divided into thirty-six states and one Federal Capital Territory, which are further sub-divided into 774 Local Government Areas (LGAs). The plethora of states, of which there were only three at independence, reflect the country's tumultuous history and the difficulties of managing such a heterogeneous national entity at all levels of government. In some contexts, the states are aggregated into six geopolitical zones: North West, North East, North Central, South East, South South, and South West.",
+    "The Naas River, a perennial stream of the Murrumbidgee catchment within the Murray-Darling basin, is located in the Australian Capital Territory, Australia.",
+    "The politics pursued by the administrations of heads of government in Mexico City since the second half of the 20th century have usually been more liberal than those of the rest of the country, whether with the support of the federal government—as was the case with the approval of several comprehensive environmental laws in the 1980s—or through laws recently approved by the Legislative Assembly. In April of the same year, the Legislative Assembly expanded provisions on abortions, becoming the first federal entity to expand abortion in Mexico beyond cases of rape and economic reasons, to permit it regardless of the reason should the mother request it before the twelfth week of pregnancy. In December 2009, the Federal District became the first city in Latin America, and one of very few in the world, to legalize same-sex marriage.",
+    "In systems analysis, a one - to - many relationship is a type of cardinality that refers to the relationship between two entities (see also entity -- relationship model) A and B in which an element of A may be linked to many elements of B, but a member of B is linked to only one element of A. For instance, think of A as mothers, and B as children. A mother can have several children, but a child can have only one biological mother.",
+    "Hillcrest High School is a high school located at 3319 N. Grant Avenue in Springfield, Missouri. Hillcrest High School is one of five public high schools in Springfield Public Schools. It is located in the north part of Springfield. It was opened in 1958. As of 2015, there was an enrollment of 1,054 students, making it the smallest of the five public high schools in Springfield.",
+    "The Alma Mater is a bronze statue by sculptor Lorado Taft, a beloved symbol of the University of Illinois at Urbana-Champaign. The 10,000-pound statue depicts a mother-figure wearing academic robes and flanked by two attendant figures representing \"Learning\" and \"Labor\", after the University's motto \"Learning and Labor.\" Sited at the corner of Green and Wright Streets at the heart of the campus, the statue is an iconic figure for the university and a popular backdrop for student graduation photos. It is appreciated for its romantic, heraldic overtones and warmth of pose. The statue was removed from its site at the entrance to the university for restoration in 2012 and was returned to its site in the spring of 2014.",
+    "Springfield's original name was Calhoun, after Senator John C. Calhoun of South Carolina. The land that Springfield now occupies was originally settled by trappers and traders who came to the Sangamon River in 1818. The settlement's first cabin was built in 1820, by John Kelly. It was located at what is now the northwest corner of Second Street and Jefferson Street. In 1821, Calhoun became the county seat of Sangamon County due to fertile soil and trading opportunities. Settlers from Kentucky, Virginia, and as far as North Carolina came to the city. By 1832, Senator Calhoun had fallen out of the favor with the public and the town renamed itself Springfield after Springfield, Massachusetts. At that time, Springfield, Massachusetts was comparable to modern - day Silicon Valley -- known for industrial innovation, concentrated prosperity, and the celebrated Springfield Armory. Most importantly, it was a city that had built itself up from frontier outpost to national power through ingenuity -- an example that the newly named Springfield, Illinois, sought to emulate. Kaskaskia was the first capital of the Illinois Territory from its organization in 1809, continuing through statehood in 1818, and through the first year as a state in 1819. Vandalia was the second state capital of Illinois from 1819 to 1839. Springfield became the third and current capital of Illinois in 1839. The designation was largely due to the efforts of Abraham Lincoln and his associates; nicknamed the ``Long Nine ''for their combined height of 54 feet (16 m).",
+    "Each state and major mainland territory has its own parliament — unicameral in the Northern Territory, the ACT and Queensland, and bicameral in the other states. The states are sovereign entities, although subject to certain powers of the Commonwealth as defined by the Constitution. The lower houses are known as the Legislative Assembly (the House of Assembly in South Australia and Tasmania); the upper houses are known as the Legislative Council. The head of the government in each state is the Premier and in each territory the Chief Minister. The Queen is represented in each state by a governor; and in the Northern Territory, the Administrator. In the Commonwealth, the Queen's representative is the Governor-General.The Commonwealth Parliament also directly administers the following external territories: Ashmore and Cartier Islands; Australian Antarctic Territory; Christmas Island; Cocos (Keeling) Islands; Coral Sea Islands; Heard Island and McDonald Islands; and Jervis Bay Territory, a naval base and sea port for the national capital in land that was formerly part of New South Wales. The external territory of Norfolk Island previously exercised considerable autonomy under the Norfolk Island Act 1979 through its own legislative assembly and an Administrator to represent the Queen. In 2015, the Commonwealth Parliament abolished self-government, integrating Norfolk Island into the Australian tax and welfare systems and replacing its legislative assembly with a council. Macquarie Island is administered by Tasmania, and Lord Howe Island by New South Wales."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nHillcrest High School is located in Springfield, Missouri.\nSpringfield, Missouri is in the state of Missouri.\nThe Alma Mater statue at the University of Illinois at Urbana-Champaign is a bronze statue depicting a mother-figure, symbolizing a Latin mother goddess.\nThe University of Illinois is located in the state of Illinois.\nSpringfield became the capital of Illinois in 1839.\nThe city where Hillcrest High School is located became the capital of Illinois in 1839.\n<answer> 1839",
+  "predicted_answer": "1839",
+  "claims": [
+    "Hillcrest High School is located in Springfield, Missouri",
+    "Springfield, Missouri is in the state of Missouri",
+    "The Alma Mater statue at the University of Illinois at Urbana-Champaign is a bronze statue depicting a mother-figure, symbolizing a Latin mother goddess",
+    "The University of Illinois is located in the state of Illinois",
+    "Springfield became the capital of Illinois in 1839",
+    "The city where Hillcrest High School is located became the capital of Illinois in 1839"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Hillcrest High School is located in Springfield, Missouri",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Springfield, Missouri is in the state of Missouri",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Alma Mater statue at the University of Illinois at Urbana-Champaign is a bronze statue depicting a mother-figure, symbolizing a Latin mother goddess",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The University of Illinois is located in the state of Illinois",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Springfield became the capital of Illinois in 1839",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "The city where Hillcrest High School is located became the capital of Illinois in 1839",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

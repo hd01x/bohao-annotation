@@ -1,0 +1,53 @@
+{
+  "uid": "wiki2mhqa__f6e8ecc80bae11ebab90acde48001122",
+  "sample_id": "f6e8ecc80bae11ebab90acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is Ieuan Ab Owain Glyndŵr's paternal grandfather?",
+  "gold_answer": "Gruffudd Fychan II",
+  "context": [
+    "Sir Owen Tudor (1400 – 2 February 1461) was a Welsh courtier and the second husband of Catherine of Valois (1401–1437), widow of King Henry V of England. He was the grandfather of Henry VII, founder of the Tudor dynasty. Owen was a descendant of a prominent family from Penmynydd on the Isle of Anglesey, which traces its lineage back to Ednyfed Fychan (d. 1246), a Welsh official and seneschal to the Kingdom of Gwynedd. Tudor's grandfather, Tudur ap Goronwy, married Margaret, daughter of Thomas ap Llywelyn ab Owain of Cardiganshire, the last male of the princely house of Deheubarth. Margaret's elder sister married Gruffudd Fychan of Glyndyfrdwy, whose son was Owain Glyndŵr. Owen's father, Maredudd ap Tudur, and his uncles were prominent in Owain Glyndŵr's revolt against English rule, the Glyndŵr Rising.",
+    "Henry J.\" Red\" Krause, Jr.( August 28, 1913 – February 20, 1987) was an American football offensive lineman in the National Football League for the Brooklyn Dodgers and the Washington Redskins. He played college football at St. Louis University. He is the grandfather of Jennifer Krause He is the great grandfather of Payton Hoeing",
+    "Ieuan ab Owain Glyndŵr was reputedly the illegitimate son of the last native Welsh Prince of Wales; Owain Glyndŵr. The possibility of his existence was uncovered through the work of Peter Bartrum which is currently being edited by the University of Wales Aberystwyth. Ieuan ab Owain and his descendants are detailed in \"Peniarth Manuscript 287\" in the hand of Robert Vaughan of Hengwrt (c.1592-1667) and also in the manuscript known as \"Harley 1969\" by Griffith Hughes (1634–1665) - the original manuscripts are kept at the National Library of Wales, Aberystwyth and the British Library respectively. Ieuan, who is thought to have been born around 1380 and to have died around 1430, is thought to have had three sons:",
+    "Catrin ferch Owain Glyndŵr( died 1413) was one of the daughters( probably the eldest) of Margaret Hanmer and Owain Glyndŵr, and her marriage to a claimant on the English throne was used by her father to gain support.",
+    "Kaya Alp was, according to Ottoman tradition, the son of Kızıl Buğa and the father of Suleyman Shah, who was, in turn, the grandfather of Ertuğrul, and the great grandfather of the Ottoman Empire founder, Osman I.",
+    "Gruffudd ap Owain Glyndŵr( c.1375 -c.1412) was the eldest son of Margaret Hanmer and Owain Glyndŵr the disinherited Prince of the old Royal house of Powys Fadog who led a major revolt in Wales between 1400 and c. 1416.",
+    "Frederick\" Fred\" Le Deux( born 4 December 1934) was an Australian rules footballer who played with Geelong in the Victorian Football League( VFL). He is the grandfather of Tom Hawkins.",
+    "Alys ferch Owain Glyndŵr was one of the daughters of Margaret Hanmer and Owain Glyndŵr, the disinherited prince of the old Welsh royal house of Powys Fadog, who led a major revolt in Wales between 1400 and ca. 1416 against King Henry IV of England. Little is known about any of the children of Owain Glyndŵr.",
+    "Maredudd ab Owain Glyndŵr was a son of Margaret Hanmer and Owain Glyndŵr. He was the last significant active participant in the revolt raised by Glyndŵr in Wales between 1400 and c. 1416.",
+    "Owain ab Gruffydd, lord of Glyndyfrdwy (c. 1359 – c. 1415), or simply Owain Glyndŵr or Glyn Dŵr (anglicized to Owen Glendower), was a Welsh leader who instigated a fierce and long-running yet ultimately unsuccessful war of independence with the aim of ending English rule in Wales during the Late Middle Ages. He was the last native Welshman to hold the title Prince of Wales (\"Tywysog Cymru\"). Glyndŵr was a descendant of the Princes of Powys through his father Gruffudd Fychan II, hereditary \"Tywysog\" of Powys Fadog and Lord of Glyndyfrdwy, and of those of Deheubarth through his mother Elen ferch Tomas ap Llywelyn ab Owen. On 16 September 1400, Glyndŵr instigated the Welsh Revolt against the rule of Henry IV of England. The uprising was initially very successful and rapidly gained control of large areas of Wales, but it suffered from key weaknesses – particularly a lack of artillery, which made capturing defended fortresses difficult, and of ships, which made rebel-controlled coastlands vulnerable. The uprising was eventually suppressed by the superior resources of the English. Glyndŵr was driven from his last remaining strongholds in 1409, but he avoided capture; the last documented sighting of him was in 1412. He twice ignored offers of a pardon from his military nemesis, the new king Henry V of England, and despite the large rewards offered, Glyndŵr was never betrayed to the English. His death was recorded by a former follower in the year 1415. With his death Owain acquired a mythical status along with Cadwaladr, Cynan and Arthur as a folk hero awaiting the call to return and liberate his people. In William Shakespeare's play \"Henry IV, Part 1\", the character of Owen Glendower is a wild and exotic king ruled by magic and emotion. In the late 19th century, the Cymru Fydd movement recreated him as the father of Welsh nationalism."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nIeuan ab Owain Glyndŵr is reputedly the illegitimate son of Owain Glyndŵr.\nOwain Glyndŵr was the son of Gruffudd Fychan II.\nGruffudd Fychan II was the hereditary Tywysog of Powys Fadog and Lord of Glyndyfrdwy.\nThe paternal grandfather of Ieuan ab Owain Glyndŵr is Gruffudd Fychan II.\n<answer> Gruffudd Fychan II",
+  "predicted_answer": "Gruffudd Fychan II",
+  "claims": [
+    "Ieuan ab Owain Glyndŵr is reputedly the illegitimate son of Owain Glyndŵr",
+    "Owain Glyndŵr was the son of Gruffudd Fychan II",
+    "Gruffudd Fychan II was the hereditary Tywysog of Powys Fadog and Lord of Glyndyfrdwy",
+    "The paternal grandfather of Ieuan ab Owain Glyndŵr is Gruffudd Fychan II"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Ieuan ab Owain Glyndŵr is reputedly the illegitimate son of Owain Glyndŵr",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Owain Glyndŵr was the son of Gruffudd Fychan II",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "Gruffudd Fychan II was the hereditary Tywysog of Powys Fadog and Lord of Glyndyfrdwy",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The paternal grandfather of Ieuan ab Owain Glyndŵr is Gruffudd Fychan II",
+      "claim_type": "DR"
+    }
+  ]
+}

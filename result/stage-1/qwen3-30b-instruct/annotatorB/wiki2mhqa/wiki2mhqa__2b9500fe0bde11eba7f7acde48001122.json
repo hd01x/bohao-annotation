@@ -1,0 +1,47 @@
+{
+  "uid": "wiki2mhqa__2b9500fe0bde11eba7f7acde48001122",
+  "sample_id": "2b9500fe0bde11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "What is the date of death of George Tryon, 1St Baron Tryon's father?",
+  "gold_answer": "22 June 1893",
+  "context": [
+    "Major George Clement Tryon, 1st Baron Tryon, PC (15 May 1871 – 24 November 1940, Little Court, Sunningdale) was a British Conservative politician who served in a number of ministerial positions in the inter-war years. George Clement Tryon was son of Vice-Admiral Sir George Tryon and Clementina Heathcote, daughter of Gilbert Heathcote, 1st Baron Aveland. Educated at Eton College and the Royal Military College, Sandhurst, Tryon joined the Grenadier Guards in 1890, serving for sixteen years before retiring as Major. Tryon was elected as Member of Parliament (MP) for Brighton in 1910, serving until 1940. He became Under-Secretary of Air in 1919 and Parliamentary Secretary to the Ministry of Pensions in 1920 and in 1922 became a Privy Counsellor. He served as Minister of Pensions himself 1922-24, 1924–29 and 1931–35 and was then appointed Postmaster General in 1935, serving until 1940. He was one of those to appear on the first day of BBC television broadcasts, 2 November 1936. In April 1940, Tryon was elevated to the peerage as Baron Tryon, of Durnford in the County of Wilts and made Chancellor of the Duchy of Lancaster and First Commissioner of Works. However, he was replaced as Chancellor (by Lord Hankey) when Winston Churchill became Prime Minister in May, while retaining the First Commissionership; he relinquished that post the following October, a few weeks before his death, aged 69. He married Averil Vivian, daughter of Colonel Sir Henry Hussey Vivian, 1st Baron Swansea. They had two children, including Charles, 2nd Baron Tryon.",
+    "Vice-Admiral Sir George Tryon (4 January 1832 – 22 June 1893) was a British admiral who died when his flagship HMS \"Victoria\" collided with HMS \"Camperdown\" during manoeuvres off Tripoli, Lebanon.",
+    "Harry Johnson( 1903- date of death unknown) was an English wrestler.",
+    "Thomas Scott( 1907- date of death unknown) was an English diver.",
+    "Harry Wainwright( born 1899; date of death unknown) was an English footballer.",
+    "William Thomas Smith( born 9 April 1897, date of death unknown) was an English professional footballer.",
+    "Albert Thompson( born 1912, date of death unknown) was a Welsh footballer.",
+    "Brigadier Charles George Vivian Tryon, 2nd Baron Tryon,( 24 May 1906 – 9 November 1976) was a British peer, British Army officer, and a member of the Royal Household.",
+    "Theodred II was a medieval Bishop of Elmham. The date of Theodred's consecration unknown, but the date of his death was sometime between 995 and 997.",
+    "Etan Boritzer( born 1950) is an American writer of children ’s literature who is best known for his book\" What is God?\" first published in 1989. His best selling\" What is?\" illustrated children's book series on character education and difficult subjects for children is a popular teaching guide for parents, teachers and child- life professionals. Boritzer gained national critical acclaim after\" What is God?\" was published in 1989 although the book has caused controversy from religious fundamentalists for its universalist views. The other current books in the\" What is?\" series include What is Love?, What is Death?, What is Beautiful?, What is Funny?, What is Right?, What is Peace?, What is Money?, What is Dreaming?, What is a Friend?, What is True?, What is a Family?, What is a Feeling?\" The series is now also translated into 15 languages. Boritzer was first published in 1963 at the age of 13 when he wrote an essay in his English class at Wade Junior High School in the Bronx, New York on the assassination of John F. Kennedy. His essay was included in a special anthology by New York City public school children compiled and published by the New York City Department of Education. Boritzer now lives in Venice, California and maintains his publishing office there also. He has helped numerous other authors to get published through\" How to Get Your Book Published!\" programs. Boritzer is also a yoga teacher who teaches regular classes locally and guest- teaches nationally. He is also recognized nationally as an erudite speaker on\" The Teachings of the Buddha.\""
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGeorge Tryon, 1st Baron Tryon was the son of Vice-Admiral Sir George Tryon.\nVice-Admiral Sir George Tryon died on 22 June 1893.\nThe date of death of George Tryon, 1st Baron Tryon's father is 22 June 1893.\n<answer> 22 June 1893",
+  "predicted_answer": "22 June 1893",
+  "claims": [
+    "George Tryon, 1st Baron Tryon was the son of Vice-Admiral Sir George Tryon",
+    "Vice-Admiral Sir George Tryon died on 22 June 1893",
+    "The date of death of George Tryon, 1st Baron Tryon's father is 22 June 1893"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "George Tryon, 1st Baron Tryon was the son of Vice-Admiral Sir George Tryon",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Vice-Admiral Sir George Tryon died on 22 June 1893",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The date of death of George Tryon, 1st Baron Tryon's father is 22 June 1893",
+      "claim_type": "DR"
+    }
+  ]
+}

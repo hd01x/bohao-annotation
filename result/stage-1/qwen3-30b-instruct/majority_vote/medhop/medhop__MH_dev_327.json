@@ -1,0 +1,418 @@
+{
+  "uid": "medhop__MH_dev_327",
+  "sample_id": "MH_dev_327",
+  "dataset": "medhop",
+  "domain": "biomedical",
+  "question": "Which among \"DB00024\", \"DB00142\", \"DB00917\", \"DB00987\", \"DB01366\", \"DB01616\", \"DB01708\", \"DB05239\", and \"DB06273\" interacts with DB08881?",
+  "gold_answer": "DB06273",
+  "context": [
+    "Similarities and differences in the phenotype of members of an Italian family with hereditary non-autoimmune hyperthyroidism associated with an activating DB00024 receptor germline mutation . Constitutively activating germline mutations of the DB00024 receptor ( P16473 ) are considered the cause of hereditary non-autoimmune hyperthyroidism . In this study , 10 members ( 8 affected and 2 unaffected ) of an Italian family with hereditary non-autoimmune hyperthyroidism were investigated for the presence of mutations in the P16473 gene . The clinical features of the disease were also analyzed . PCR-amplified fragments of the P16473 gene were obtained from genomic DNA extracted from peripheral blood leukocytes of each family member and analyzed by direct nucleotide sequencing and restriction analysis . An identical germline P16473 mutation was detected in all the patients with hyperthyroidism but in none of the unaffected family members . The mutation was heterozygotic and determined the substitution of valine for methionine ( codon 463 ; ATG --> GTG ) in the second transmembrane domain of the P16473 . When expressed in chinese hamster ovary ( CHO ) cells , the Val463 mutant P16473 induced constitutive activation of the DB00024 receptor . Analysis of the clinical features of our family and those of other families with hereditary non-autoimmune hyperthyroidism , including one with the same Val463 mutation , revealed wide variability in the phenotypical expression of the disease . Our findings indicate that an activating germline mutation in the P16473 gene plays a key role in hereditary non-autoimmune hyperthyroidism although the onset of clinical manifestations and the evolution of the disease seem to depend heavily on other factors , thus far unidentified . The absence of a clear correlation between mutant genotypes and phenotypic expression of the disease currently limits the prognostic value of genetic testing in families with hereditary non-autoimmune hyperthyroidism .",
+    "P00533 pathway gene expressions and biological response of glioblastoma multiforme cell lines to erlotinib . BACKGROUND : Erlotinib , an epidermal growth factor receptor ( P00533 ) tyrosine kinase inhibitor , exerts highly variable antiproliferative effects on human glioblastoma multiforme ( GBM ) cells in vitro and in vivo . As these effects are independent of P00533 baseline expression levels , more complex genetic signatures may form the molecular basis of the erlotinib-sensitive and erlotinib-resistant GBM phenotypes . The aim of the current study was to determine which genes within the P00533 signaling pathway are candidates for mediating the cellular response of human GBM towards erlotinib . MATERIALS AND METHODS : Complementary (c)RNAs from cell lines selected to represent the sensitive , intermediately responsive and resistant phenotypes , respectively , were hybridized to CodeLink Human Whole Genome Bioarrays . RESULTS : Expression analysis of the prospectively selected 244 genes whose products constitute the P00533 signaling pathway identified five genes the expression of which significantly correlated with phenotype . Functional annotation analysis revealed one ( STATI ) and two ( Q9NWM8 , P63000 ) genes conclusively associated with sensitivity and resistance to erlotinib , respectively . Moreover , two additional genes ( P35408 , MYC ) were unexpectedly found to be associated with sensitivity . The gene expressions were confirmed by quantitative polymerase chain reaction . CONCLUSION : Five genes within the P00533 signaling pathway may modulate GBM response to erlotinib , which further emphasizes the importance of this pathway for the biology of GBM .",
+    "DB00024 / P16473 Signaling Suppresses Fatty Acid Synthase ( P49327 ) Expression in Adipocytes . DB00024 / P16473 signaling plays a role in the regulation of lipid metabolism in adipocytes . However , the precise mechanisms are not known . In the present study , we determined the effect of DB00024 on fatty acid synthase ( P49327 ) expression , and explored the underlying mechanisms . In vitro , DB00024 reduced P49327 expression in both mRNA and protein levels in mature adipocytes and was accompanied by protein kinase A ( PKA ) activation , DB02527 -response element binding protein ( CREB ) phosphorylation , as well as extracellular signal-regulated kinase 1/2 ( P27361 /2 ) and c-Jun NH2 -terminal kinase ( JNK ) activation . DB00024 -induced downregulation of P49327 was partially abolished by inhibition of PKA and P29323 , but not JNK . P16473 and P49327 expression in visceral tissue was significantly increased in C57BL/6 mice with diet-induced obesity compared with control animals , whereas thyroid P16473 expression was normal . These findings suggest that activation of P16473 directly inhibits P49327 expression in mature adipocytes , possibly mediated by PKA and P29323 . In obese animals , this function of P16473 seems to be counteracted . The precise mechanisms need further investigation .",
+    "DB08881 resistance selects for highly malignant brain and lung-metastasizing melanoma cells . V600E being the most common mutation in P15056 , leads to constitutive activation of the MAPK signaling pathway . The majority of V600E P15056 positive melanoma patients treated with the P15056 inhibitor vemurafenib showed initial good clinical responses but relapsed due to acquired resistance to the drug . The aim of the present study was to identify possible biomarkers associated with the emergence of drug resistant melanoma cells . To this end we analyzed the differential gene expression of vemurafenib-sensitive and vemurafenib resistant brain and lung metastasizing melanoma cells . The major finding of this study is that the in vitro induction of vemurafenib resistance in melanoma cells is associated with an increased malignancy phenotype of these cells . Resistant cells expressed higher levels of genes coding for cancer stem cell markers ( Q9UGL1 , CD271 and P02751 ) as well as genes involved in drug resistance ( Q9UNQ0 ) , cell invasion and promotion of metastasis ( P03956 and P08253 ) . We also showed that drug-resistant melanoma cells adhere better to and transmigrate more efficiently through lung endothelial cells than drug-sensitive cells . The former cells also alter their microenvironment in a different manner from that of drug-sensitive cells . Biomarkers and molecular mechanisms associated with drug resistance may serve as targets for therapy of drug-resistant cancer .",
+    "DB06273 infusion therapy normalizes inflammation in sporadic P35858 patients . Patients with sporadic amyotrophic lateral sclerosis ( sALS ) show inflammation in the spinal cord and peripheral blood . The inflammation is driven by stimulation of macrophages by aggregated superoxide dismutase 1 ( P00441 ) through caspase1 , interleukin 1 ( IL1 ) , P05231 and chemokine signaling . Inflammatory gene activation is inhibited in vitro by tocilizumab , a humanized antibody to P05231 receptor ( P08887 ) . DB06273 inhibits global interleukin-6 ( P05231 ) signaling , a key mechanism in chronic rheumatoid disorders . Here we studied in vivo baseline inflammatory gene transcription in peripheral blood mononuclear cells ( PBMCs ) of 10 sALS patients , and the effects of tocilizumab ( Actemra(R) ) infusions . At baseline , one half of P35858 subjects had strong inflammatory activation ( Group 1 ) ( 8 genes up regulated > 4-fold , P < 0.05 vs. controls ) and the other half ( Group 2 ) had weak activation . All patients showed greater than four-fold up regulation of P03956 , P80098 , Q99616 and O00175 . DB06273 infusions in the Group 1 patients resulted in down regulation of inflammatory genes ( in particular IL1β ) , whereas in the Group 2 patients in up regulation of inflammatory genes . Post-infusion serum and P04141 concentrations of tocilizumab inhibited caspase1 activation in vitro . Three of 5 patients receiving tocilizumab infusions showed time-limited attenuation of clinical progression . In conclusion , inflammation of sALS patients at baseline is up- or down-regulated in comparison to controls , but is partially normalized by tocilizumab infusions .",
+    "Anti-clastogenic effect of beta-glucan extracted from barley towards chemically induced DNA damage in rodent cells . beta-Glucan ( BG ) was tested in vitro to determine its potential clastogenic and/or anti-clastogenic activity , and attempts were made to elucidate its possible mechanism of action by using combinations with an inhibitor of DNA polymerase . The study was carried out on cells deficient ( CHO-k1 ) and cells proficient ( HTC ) in phases I and II enzymes , and the DNA damage was assessed by the chromosomal aberration assay . BG did not show a clastogenic effect , but was anti-clastogenic in both cell lines used , and at all concentrations tested ( 2.5 , 5 and 10 microg/mL ) in combination with damage inducing agents ( methylmethane sulfonate in cell line CHO-k1 , and methylmethane sulfonate or 2-aminoanthracene in cell line HTC ) . BG also showed a protective effect in the presence of a P06746 inhibitor ( cytosine arabinoside-3-phosphate , DB00987 ) , demonstrating that BG does not act through an anti-mutagenic mechanism of action involving P06746 .",
+    "Xaliproden ( SR57746A ) induces P08908 receptor-mediated Q96HU1 kinase activation in PC12 cells . Neurotrophic growth factors are involved in cell survival . However , natural growth factors have a very limited therapeutic use because of their short half-life . In the present study , we investigated the mechanism of action of a non-peptidic neurotrophic drug , Xaliproden , a potential molecule for the treatment of motoneuron diseases , since the transduction pathways of this synthetic P08908 agonist are very poorly understood . Xaliproden does not activate the Trk receptor but causes a rapid increase in the activities of the P27361 and P28482 isoforms of Q96HU1 kinase , which then rapidly decrease to the basal level . We demonstrate that isoforms of the P29353 adapter protein are phosphorylated independently of each other and are probably not the source of the Xaliproden-induced Q96HU1 kinases activation . The inhibitor of Ras farnesylation , FPT-1 , and the protein kinase C inhibitors , GF 109203X and chelerythrine , inhibited the Xaliproden-induced Q96HU1 kinase activation , suggesting p21Ras and PKC involvement . Moreover , the observations that the P08908 antagonist , pindobind , and pertussis toxin abolished the Xaliproden-induced P29323 stimulation suggested that Xaliproden activates the Q96HU1 kinase pathways by stimulating the G protein-coupled receptor , P08908 . These results demonstrate clearly that the non-peptidic compound , Xaliproden , exerts its neurotrophic effects through a mechanism of action differing from that of neurotrophins . These findings suggest that this compound does not involve MAPK activation by TrkA receptor stimulation but acts by Q96HU1 kinase pathway by a pertussis toxin-sensitive mechanism involving P08908 receptors , P38936 Ras and MEK-1 and by PKC and Akt pathways .",
+    "P22309 *28 is associated with greater decrease in serum K⁺ levels following oral intake of procaterol . BACKGROUND AND OBJECTIVE : DB01366 is a potent β2-agonist frequently used for the management of asthma and chronic obstructive pulmonary disease . The efficacy and adverse effects of β2-agonists are heterogeneous in individual patients , which may be partly caused by genetic variations in metabolizing enzymes and receptor molecules . The present study was designed to analyze the relationship between gene polymorphisms and physiological effects of procaterol in healthy subjects . METHODS : Ninety-two non-smoking healthy volunteers were given 1 µg/kg body weight ( max 50 µg ) of procaterol as a dry syrup preparation , and the serum concentrations of procaterol , serum K(+) , and the physical responses were monitored for 240 min . We genotyped β2-adrenergic receptor ( P07550 ) ( Arg16Gly and Gln27Glu ) , cytochrome P450 3A4 ( rs2246709 , rs4646437 ) , and uridine diphosphate glucuronosyltransferase 1A1 ( P22309 ) ( rs4148323 [ allele A , *6 ] , rs12479045 , rs4148328 , rs4663971 , rs12052787 , rs4148329 , A (TA)6/7 TAA [ seven-repeat allele , *28 ] ) . DB01366 concentrations in serum were measured by liquid chromatography-tandem mass spectrometry . RESULTS : No gene polymorphisms affected serum procaterol concentrations . Meanwhile , overall serum K(+) level changes were significantly lower in carriers of P22309 *28 than in non-carriers after correcting for strong effects of serum procaterol concentrations and baseline K(+) levels . No other polymorphisms were associated with serum K(+) levels . None of polymorphisms of P07550 were associated with any physical responses . CONCLUSION : The present study indicates that significant hypokalemia may occur in carriers of P22309 *28 by systemic administration of procaterol and potentially by other β2-agonists metabolized in the liver .",
+    "Benzyl isothiocyanate ( BITC ) inhibits migration and invasion of human gastric cancer AGS cells via suppressing P29323 signal pathways . Metastasis suppressors and associated other regulators of cell motility play a critical initial role in tumor invasion and metastases . Benzyl isothiocyanate ( BITC ) is a hydrolysis compound of glucotropaeolin in dietary cruciferous vegetables . BITC has been found to exhibit prevention of cancers in laboratory animals and might also be chemoprotective in humans . Here , the purpose of this study was to investigate the effects of BITC on cell proliferation , migration , invasion and mitogen-activated protein kinase ( MAPK ) pathways of AGS human gastric cancer cells . Wound healing and Boyden chamber ( migration and invasion ) assays demonstrated that BITC exhibited an inhibitory effect on the abilities of migration and invasion in AGS cancer cells . BITC suppressed cell migration and invasion of AGS cells in a dose-dependent manner . Results from Western blotting indicated that BITC exerted an inhibitory effect on the P27361 /2 , Ras , P62993 , Rho A , P35228 , P35354 for causing the inhibitions of P08253 , -7 and -9 then followed by the inhibitions of invasion and migration of AGS cells in vitro . BITC also promoted O14733 , Q99759 , c-jun , P45983 /2 , P15692 , Sos1 , phosphoinositide 3-kinase ( PI3K ) , PKC , nuclear factor-kappaB ( NF-κB ) p65 in AGS cells . Results from real-time polymerized chain reaction ( PCR ) showed that BITC inhibited the gene expressions of P08253 ,-7 -9 , Q05397 , Q13464 and RhoA after BITC treatment for 24 and 48 hours in AGS cells . Taken together , the finding may provide new mechanisms and functions of BITC , which inhibit migration and invasion of human gastric cancer AGS cells .",
+    "Dermatological adverse events from P15056 inhibitors : a growing problem . The development of targeted therapies has ushered in a new era in the management of melanoma . Inhibitors of the DB01367 -RAF-MEK- P29323 pathway have taken the center stage with development at a rapid pace . DB08881 was recently approved by regulatory agencies , and other agents ( e.g. dabrafenib ) are in various stages of clinical testing . These agents are producing remarkable results for patients , but are also presenting new challenges . Clinical toxicities and drug resistance are topmost issues . Some of the most common and vivid representations of adverse events to these agents are the dermatologic manifestations . Published trials and initial observations reflect a toxicity profile ( e.g. squamous cell carcinomas/keratoacanthomas , maculopapular rashes , hyperkeratosis ) that is distinct from cutaneous toxicities from P00533 and P42345 inhibitors ( acneiform rash , paronychia , xerosis ) . Their management extends beyond conservative treatment and includes specific physical and surgical treatment modalities , skill sets unique to dermatologists . All these pose significant challenges to clinicians , and sound knowledge of such toxicities and their management will likely result in improved patient outcomes and quality of life . In this manuscript , we provide an overview of the emerging scientific literature on dermatological adverse events arising out of P15056 inhibition .",
+    "Anti-interleukin 6 receptor antibody treatment in rheumatic disease . Interleukin 6 ( P05231 ) is a pleiotropic cytokine with a wide range of biological activities . P05231 transgene into mice gives rise to the abnormalities such as hypergammaglobulinaemia , thrombocytosis , infiltration of inflammatory cells into the tissues , mesangial cell proliferation of the kidney as well as splenomegaly and lymphadenopathy , which are predictable by the biological functions of P05231 shown in vitro . Continuous overproduction of P05231 is observed in patients with some immune-inflammatory diseases such as Castleman 's disease and rheumatoid arthritis that are frequently associated with similar abnormalities to those of P05231 transgenic mice , strongly suggesting the involvement of P05231 in the human diseases . Successful treatment of the model animals for immune-inflammatory diseases with anti- P05231 receptor ( P08887 ) antibody thus indicates the possible application of P05231 blocking agents to treat the P05231 related immune-inflammatory diseases of humans . In this review , the new therapeutic strategy for Castleman 's disease and RA using humanized antibody to human P05231 receptor , DB06273 , is discussed .",
+    "Activation of lipid metabolism contributes to interleukin-8 production during Chlamydia trachomatis infection of cervical epithelial cells . Chlamydia trachomatis infection is the most common cause of bacterial sexually transmitted diseases . Infection of the urogenital tract by C. trachomatis causes chronic inflammation and related clinical complications . Unlike other invasive bacteria that induce a rapid cytokine/chemokine production , chlamydial infection induces delayed inflammatory response and proinflammatory chemokine production that is dependent on bacterial growth . We present data here to show that the lipid metabolism required for chlamydial growth contributes to Chlamydia-induced proinflammatory chemokine production . By gene microarray profiling , validated with biochemical studies , we found that C. trachomatis LGV2 selectively upregulated P35354 ( P35354 ) and P35408 ( EP4 ) in cervical epithelial HeLa 229 cells . P35354 is an enzyme that catalyzes the rate-limiting step of arachidonic acid conversion to prostaglandins , including prostaglandin E2 ( DB00917 ) and other eicosanoids , whereas EP4 is a subtype of cell surface receptors for DB00917 . We show that Chlamydia infection induced P35354 protein expression in both epithelial cells and peripheral blood mononuclear cells and promoted DB00917 release . Exogenous DB00917 was able to induce interleukin-8 release in HeLa 229 epithelial cells . Finally , we demonstrated that interleukin-8 induction by Chlamydia infection or DB00917 treatment was dependent on extracellular signal-regulated kinase/mitogen-activated protein activity . Together , these data demonstrate that the host lipid remodeling process required for chlamydial growth contributes to proinflammatory chemokine production . This study also highlights the importance of maintaining a balanced habitat for parasitic pathogens as obligate intracellular organisms .",
+    "Analysis of dermatologic events in vemurafenib-treated patients with melanoma . BACKGROUND : DB08881 has been approved for the treatment of patients with advanced P15056 (V600E)-mutant melanoma . This report by the DB08881 Dermatology Working Group presents the characteristics of dermatologic adverse events ( AEs ) that occur in vemurafenib-treated patients , including cutaneous squamous cell carcinoma ( cuSCC ) . METHODS : Dermatologic AEs were assessed from three ongoing trials of P15056 (V600E) mutation-positive advanced melanoma . Histologic central review and genetic characterization were completed for a subset of cuSCC lesions . RESULTS : A total of 520 patients received vemurafenib . The most commonly reported AEs were dermatologic AEs , occurring in 92 % -95 % of patients . Rash was the most common AE ( 64 % -75 % of patients ) , and the most common types were rash not otherwise specified , erythema , maculopapular rash , and folliculitis . Rash development did not appear to correlate with tumor response . Photosensitivity occurred in 35 % -63 % of patients , and palmar-plantar erythrodysesthesia ( PPE ) occurred in 8 % -10 % of patients . The severity of rash , photosensitivity , and PPE were mainly grade 1 or 2 . In all , 19 % -26 % of patients developed cuSCC , mostly keratoacanthomas ( KAs ) . The majority of patients with cuSCC continued therapy without dose reduction after resection . Genetic analysis of 29 cuSCC/KA samples demonstrated P01112 mutations in 41 % . CONCLUSIONS : Dermatologic AEs associated with vemurafenib treatment in patients with melanoma were generally manageable with supportive care measures . Dose interruptions and/or reductions were required in < 10 % of patients .",
+    "Rectal antinociceptive properties of alverine citrate are linked to antagonism at the P08908 receptor subtype . Serotonin ( 5-HT ) is considered as a major mediator causing hyperalgesia and is involved in inflammatory reactions and irritable bowel syndrome . DB01616 citrate may possess visceral antinociceptive properties in a rat model of rectal distension-induced abdominal contractions . This study was designed to evaluate the pharmacological properties of alverine citrate in a rat model of rectal hyperalgesia induced by 5-HTP ( 5-HT precursor ) and by a selective P08908 agonist ( 8-OH-DPAT ) and to compare this activity with a reference P08908 antagonist ( WAY 100635 ) . At 4 h after their administration , 5-HTP and 8-OH-DPAT increased the number of abdominal contractions in response to rectal distension at the lowest volume of distension ( 0.4 mL ) . When injected intraperitoneally before 8-OH-DPAT and 5-HTP , WAY 100635 ( 1 mg kg(-1) ) blocked their nociceptive effect , but also reduced the response to the highest volume of distension ( 1.6 mL ) . Similarly , when injected intraperitoneally , alverine citrate ( 20 mg kg(-1) ) suppressed the effect of 5-HTP , but not that of 8-OH-DPAT . However , when injected intracerebroventricularly ( 75 microg/rat ) alverine citrate reduced 8-OH-DPAT-induced enhancement of rectal distension-induced abdominal contractions . In-vitro binding studies revealed that alverine citrate had a high affinity for P08908 receptors and a weak affinity for 5- Q9H205 and Q13639 subtypes . These results suggest that 5-HTP-induced rectal hypersensitivity involves 5-TH1A receptors and that alverine citrate acts as a selective antagonist at the P08908 receptor subtype to block both 5-HTP and 8-OH-DPAT-induced rectal hypersensitivity .",
+    "DB00142 decarboxylase antibody-positive paraneoplastic stiff limb syndrome associated with carcinoma of the breast . Stiff limb syndrome ( DB00815 ) is a rare \" focal \" variant of stiff person syndrome which presents with rigidity and painful spasms of a distal limb , and abnormal fixed foot or hand postures . Anti-glutamic acid decarboxylase antibodies ( Q99259 -Ab ) are variably present in most cases . Most reported cases of DB00815 are unassociated with cancer . We describe a patient with DB00815 as a paraneoplastic manifestation of breast carcinoma , in whom Q99259 -Ab was present . The patient responded very well to oral diazepam , baclofen and steroids.This is the third reported case of DB00815 as a paraneoplastic accompaniment to cancer .",
+    "DB00024 is a negative regulator of skeletal remodeling . The established function of thyroid stimulating hormone ( DB00024 ) is to promote thyroid follicle development and hormone secretion . The osteoporosis associated with hyperthyroidism is traditionally viewed as a secondary consequence of altered thyroid function . We provide evidence for direct effects of DB00024 on both components of skeletal remodeling , osteoblastic bone formation , and osteoclastic bone resorption , mediated via the DB00024 receptor ( P16473 ) found on osteoblast and osteoclast precursors . Even a 50 % reduction in P16473 expression produces profound osteoporosis ( bone loss ) together with focal osteosclerosis ( localized bone formation ) . DB00024 inhibits osteoclast formation and survival by attenuating JNK/c-jun and NFkappaB signaling triggered in response to Q9Y6Q6 -L and TNFalpha . DB00024 also inhibits osteoblast differentiation and type 1 collagen expression in a Runx-2- and osterix-independent manner by downregulating Wnt ( O75197 ) and P15692 ( Flk ) signaling . These studies define a role for DB00024 as a single molecular switch in the independent control of both bone formation and resorption .",
+    "P07550 mediated P29323 activation is regulated by interaction with Q5TCQ9 . The beta-2 adrenergic receptor ( beta2AR ) has a carboxyl terminus motif that can interact with P78352 /discs-large/ Q07157 homology ( PDZ ) domain-containing proteins . In this paper , we identified membrane-associated guanylate kinase inverted-3 ( Q5TCQ9 ) as a novel binding partner of beta2AR . The carboxyl terminus of beta2AR binds with high affinity to the fifth PDZ domain of Q5TCQ9 , with the last four amino acids ( D-S-L-L ) of the receptor being the key determinants of the interaction . In cells , the association of full-length beta2AR with Q5TCQ9 occurs constitutively and is enhanced by agonist stimulation of the receptor . Our data also demonstrated that beta2AR-stimulated extracellular signal-regulated kinase-1/2 ( P27361 /2 ) activation was substantially retarded by Q5TCQ9 expression . These data suggest that Q5TCQ9 regulates beta2AR-mediated P29323 activation through the physical interaction between beta2AR and Q5TCQ9 .",
+    "Modulation of NMDAR subunit expression by O94759 channels regulates neuronal vulnerability to ischemic cell death . Neuronal vulnerability to ischemia is dependent on the balance between prosurvival and prodeath cellular signaling . In the latter , it is increasingly appreciated that toxic Ca(2+) influx can occur not only via postsynaptic glutamate receptors , but also through other cation conductances . One such conductance , the Transient receptor potential melastatin type-2 ( O94759 ) channel , is a nonspecific cation channel having homology to Q96QT4 , a conductance reported to play a key role in anoxic neuronal death . The role of O94759 conductances in ischemic Ca(2+) influx has been difficult to study because of the lack of specific modulators . Here we used O94759 -null mice ( O94759 (-/-) ) to study how O94759 may modulate neuronal vulnerability to ischemia . O94759 (-/-) mice subjected to transient middle cerebral artery occlusion exhibited smaller infarcts when compared with wild-type animals , suggesting that the absence of O94759 is neuroprotective . Surprisingly , field potentials ( fEPSPs ) recorded during redox modulation in brain slices taken from O94759 (-/-) mice revealed increased excitability , a phenomenon normally associated with ischemic vulnerability , whereas wild-type fEPSPs were unaffected . The upregulation in fEPSP in O94759 (-/-) neurons was blocked selectively by a Q12879 antagonist . This increase in excitability of O94759 (-/-) fEPSPs during redox modulation depended on the upregulation and downregulation of Q12879 - and Q13224 -containing NMDARs , respectively , and on augmented prosurvival signaling via Akt and P29323 pathways culminating in the inhibition of the proapoptotic factor GSK3β . Our results suggest that O94759 plays a role in downregulating prosurvival signals in central neurons and that O94759 channels may comprise a therapeutic target for preventing ischemic damage .",
+    "Absolute bioavailability and effect of formulation change , food , or elevated pH with rabeprazole on cobimetinib absorption in healthy subjects . DB05239 is a potent and highly selective inhibitor of Q02750 /2 . Since cobimetinib exhibited absorption variability in cancer patients , a series of single-dose studies in healthy subjects were conducted to determine absolute bioavailability and elucidate potential effects of formulation , food , and elevated gastric pH on cobimetinib bioavailability . Three crossover trials were performed with a 20 mg cobimetinib oral dose : absolute bioavailability using a 2 mg intravenous infusion ( n = 13 ) , relative bioavailability of tablets versus capsules and food effect ( n = 20 ) , and drug interaction with a proton pump inhibitor ( 20 mg of rabeprazole daily for 5 days prior to cobimetinib administration ; n = 20 ) . Absolute bioavailability of cobimetinib was 46.2 % ( 24.2 , CV % ) , likely due to metabolism rather than incomplete absorption . The mean systemic clearance of cobimetinib was low ( 11.7 L/h [ 28.2 , CV % ] ) . Administration of cobimetinib tablets with a high-fat meal delayed drug absorption ( prolonged tmax ) but had no statistically significant effect on cobimetinib exposure ( Cmax and AUC0-∞ ) . Tablet and capsule formulations of cobimetinib showed comparable exposures . DB05239 exhibited delayed absorption ( tmax ) in the presence of rabeprazole , with no statistically significant effects on drug exposure ( Cmax and AUC0-∞ ) in the fasted state . In conclusion , cobimetinib oral absorption was not affected by change in formulation , food , or elevated gastric pH .",
+    "P41594 regulates excitability and Kv4.2-containing K⁺ channels primarily in excitatory neurons of the spinal dorsal horn . Metabotropic glutamate ( mGlu ) receptors play important roles in the modulation of nociception . Previous studies demonstrated that mGlu5 modulates nociceptive plasticity via activation of P29323 signaling . We have reported recently that the Kv4.2 K(+) channel subunit underlies A-type currents in spinal cord dorsal horn neurons and that this channel is modulated by mGlu5- P29323 signaling . In the present study , we tested the hypothesis that modulation of Kv4.2 by mGlu5 occurs in excitatory spinal dorsal horn neurons . With the use of a transgenic mouse strain expressing enhanced green fluorescent protein ( GFP ) under control of the promoter for the γ-amino butyric acid ( GABA ) -synthesizing enzyme , glutamic acid decarboxylase 67 ( Q99259 ) , we found that these GABAergic neurons express less Kv4.2-mediated A-type current than non- Q99259 -GFP neurons . Furthermore , the mGlu1/5 agonist , ( R,S ) -3,5-dihydroxyphenylglycine , had no modulatory effects on A-type currents or neuronal excitability in this subgroup of GABAergic neurons but robustly modulated A-type currents and neuronal excitability in non-GFP-expressing neurons . Immunofluorescence studies revealed that Kv4.2 was highly colocalized with markers of excitatory neurons , such as vesicular glutamate transporter 1/2 , PKCγ , and neurokinin 1 , in cultured dorsal horn neurons . These results indicate that mGlu5-Kv4.2 signaling is associated with excitatory dorsal horn neurons and suggest that the pronociceptive effects of mGlu5 activation in the spinal cord likely involve enhanced excitability of excitatory neurons .",
+    "Ras-dependent P29323 activation by the human G(s)-coupled serotonin receptors Q13639 (b) and P34969 (a) . Receptor tyrosine kinases activate mitogen-activated protein ( Q96HU1 ) kinases through Ras , P04049 , and MEK . Receptor tyrosine kinases can be transactivated by G protein-coupled receptors coupling to G(i) and G(q) . The human G protein-coupled serotonin receptors 5-HT(4(b)) and 5-HT(7(a)) couple to G(s) and elevate intracellular DB02527 . Certain G(s)-coupled receptors have been shown to activate Q96HU1 kinases through a protein kinase A- and Rap1-dependent pathway . We report the activation of the extracellular signal-regulated kinases ( ERKs ) 1 and 2 ( Q8TCB0 and Q8NFH3 Q96HU1 kinase ) through the human serotonin receptors 5-HT(4(b)) and 5-HT(7(a)) in COS-7 and human embryonic kidney HEK293 cells . In transfected HEK293 cells , 5-HT-induced activation of P27361 /2 is sensitive to H89 , which indicates a role for protein kinase A . The observed activation of P27361 /2 does not require transactivation of epidermal growth factor receptors . Furthermore , 5-HT induced activation of both Ras and Rap1 . Whereas the presence of P47736 did not influence the 5-HT-mediated activation of P27361 /2 , the activation of P27361 /2 was abolished in the presence of dominant negative Ras ( RasN17 ) . P27361 /2 activation was reduced in the presence of \" dominant negative \" Raf1 ( RafS621A ) and slightly reduced by dominant negative B-Raf , indicating the involvement of one or more Raf isoforms . These findings suggest that activation of P27361 /2 through the human G(s)-coupled serotonin receptors 5-HT(4(b)) and 5-HT(7(a)) in HEK293 cells is dependent on Ras , but independent of Rap1 .",
+    "Compound FLZ inhibits lipopolysaccharide-induced inflammatory effects via down-regulation of the P50750 -IKK and P50750 -JNK/p38MAPK pathways in RAW264.7 macrophages . AIM : The aim of this study was to investigate the effect of the squamosamide derivative FLZ ( N-2-(4-hydroxy-phenyl)-ethyl-2-(2,5-dimethoxy-phenyl)-3-(3-methoxy-4-hydroxy-phenyl)-acrylamide ) on lipopolysaccharide ( LPS ) -induced inflammatory mediator production and the underlying mechanism in RAW264.7 macrophages . METHODS : RAW264.7 cells were preincubated with non-toxic concentrations of compound FLZ ( 1 , 5 , and 10 micromol/L ) for 30 min and then stimulated with 10 microg/L LPS . The production of nitric oxide ( NO ) , the expression of inducible nitric oxide synthase ( P35228 ) and cyclooxygenase 2 ( P35354 ) , and the activation of nuclear factor kappa-B ( NF-kappaB ) and mitogen-activated protein kinase ( MAPK ) pathways were examined . RESULTS : FLZ significantly inhibited the LPS-induced production of NO , as well as the expression of P35228 and P35354 at both the RNA and the protein levels in RAW264.7 cells . The LPS-induced increase in the DNA binding activity of NF-kappaB and activator protein 1 ( AP-1 ) , the nuclear translocation of NF-kappaB p65 , the degradation of the inhibitory kappaBalpha protein ( P25963 ) and the phosphorylation of P25963 , O15111 ( IKK ) alpha/beta , c-Jun NH(2)-terminal kinase ( JNK ) and p38 MAPKs were all suppressed by FLZ . However , the phosphorylation of extracellular signal-regulated kinase ( P29323 ) was not affected . Further study revealed that FLZ inhibited the phosphorylation of transforming growth factor-beta ( TGF-beta ) -activated kinase 1 ( TAK1 ) , which is an upstream signaling molecule required for IKKalpha/beta , JNK and p38 activation . CONCLUSION : FLZ inhibited the LPS-induced production of inflammatory mediators at least partly through the downregulation of the P50750 -IKK and P50750 -JNK/p38MAPK pathways .",
+    "Determination of cobimetinib in human plasma using protein precipitation extraction and high-performance liquid chromatography coupled to mass spectrometry . Inhibition of Q96HU1 / P29323 kinase ( MEK ) is a promising strategy to control the growth of tumors that are dependent on aberrant signaling in the MEK pathway . DB05239 ( P16260 -0973 ) ( S ) -[3,4-Difluoro-2-(2-fluoro-4-iodo-phenylamino)-phenyl]- ( ( S ) -3-hydroxy-3-piperidin-2-yl-azetidin-1-yl ) -methanone ) inhibits proliferation of a variety of human tumor cell lines by inhibiting Q02750 and P36507 . A specific high performance liquid chromatography-mass spectrometric assay was developed and validated for the determination of cobimetinib in human plasma . The overall mean recovery using protein precipitation extraction with acetonitrile was found to be 54.1 % . The calibration curve was ranged from 0.20 to 100ng/mL . The LLOQ was sensitive enough to detect terminal phase concentrations of the drug . The intra- and inter-assay precision ( % CV ) was within 10.3 % and 9.5 % for cobimetinib . The assay accuracy ( % RE ) was within ±13.7 % of the nominal concentration values for cobimetinib with the normal analytical QCs . The developed assay was successfully used to analyze the human plasma samples ( for pharmacokinetic analysis ) from clinical trials .",
+    "Purification of L-glutamate decarboxylase from rabbit brain and preparation of a monospecific antiserum . DB00142 decarboxylase ( Q99259 ) , the enzyme responsible for the biosynthesis of gamma-aminobutyric acid , has been purified from rabbit brain and used for the production of a monospecific rabbit antiserum . The enzyme was purified approximately 500-fold by a combination of ion exchange , hydrophobic , hydroxyapatite , and gel filtration column chromatography , and preparative polyacrylamide gel electrophoresis . The preparation thus obtained was injected into a rabbit , producing a polyspecific antiserum . This first antiserum was used for the preparation of an immunoprecipitate containing Q99259 ; injections of the immunoprecipitate into a second rabbit led to the production of a second , monospecific anti- Q99259 serum . The specificity of the antiserum for Q99259 has been demonstrated by enzyme precipitation , immunodiffusion , line immunoelectrophoresis , gel filtration chromatography of Q99259 /anti- Q99259 immune complexes , and immunocytochemistry in the rat cerebellum .",
+    "Role of antispasmodics in the treatment of irritable bowel syndrome . Irritable bowel syndrome ( IBS ) is a long-lasting , relapsing disorder characterized by abdominal pain/discomfort and altered bowel habits . Intestinal motility impairment and visceral hypersensitivity are the key factors among its multifactorial pathogenesis , both of which require effective treatment . Voltage-gated calcium channels mediate smooth muscle contraction and endocrine secretion and play important roles in neuronal transmission . Antispasmodics are a group of drugs that have been used in the treatment of IBS for decades . DB01616 citrate , a spasmolytic , decreases the sensitivity of smooth muscle contractile proteins to calcium , and it is a selective P08908 receptor antagonist . DB01616 , in combination with simethicone , has been demonstrated to effectively reduce abdominal pain and discomfort in a large placebo-controlled trial . Mebeverine is a musculotropic agent that potently blocks intestinal peristalsis . Non-placebo-controlled trials have shown positive effects of mebeverine in IBS regarding symptom control ; nevertheless , in recent placebo-controlled studies , mebeverine did not exhibit superiority over placebo . Otilonium bromide is poorly absorbed from the GI tract , where it acts locally as an L-type calcium channel blocker , an antimuscarinic and a tachykinin NK2 receptor antagonist . Otilonium has effectively reduced pain and improved defecation alterations in placebo-controlled trials in IBS patients . DB09090 bromide is also an L-type calcium channel blocker that acts locally in the GI tract . DB09090 improves motility disorders and consequently reduces stool problems in IBS patients . Phloroglucinol and trimethylphloroglucinol are non-specific antispasmodics that reduced pain in IBS patients in a placebo-controlled trial . Antispasmodics have excellent safety profiles . T-type calcium channel blockers can abolish visceral hypersensitivity in animal models , which makes them potential candidates for the development of novel therapeutic agents in the treatment of IBS .",
+    "P07550 -mediated effects on sinus rate and atrial and ventricular contractility on isolated , blood-perfused dog heart preparations . Changes in the sinus rate , right atrial contractile force and left ventricular contractile force in response to isoproterenol , epinephrine , dobutamine , salbutamol and procaterol were studied in isolated , blood-perfused right atrial or left ventricular cardiac preparations of the dog . Each substance elicited dose-dependent increases in the three parameters and the ranking of the potency ( ED50 ) for each effect was isoproterenol greater than epinephrine greater than dobutamine greater than or equal to salbutamol greater than or equal to procaterol . The ED50 of procaterol for changing sinus rate was lower than for altering atrial and ventricular contractile force , whereas the ED50 of dobutamine for changing sinus rate was higher . Ranking on the basis of the ratio of increase in sinus rate to increase in atrial tension induced by the agonists gave the following order : procaterol greater than or equal to salbutamol greater than epinephrine greater than or equal to isoproterenol greater than dobutamine . DB01366 -induced increases in sinus rate and atrial contractile force were dose-dependently inhibited by the beta-2 adrenoceptor antagonist , ICI 118,551 , but only attenuated slightly by the beta-1 antagonist , atenolol . On the other hand , the positive chrono- and inotropic effects on the right atrium induced by dobutamine and isoproterenol were blocked completely by atenolol . The epinephrine- or salbutamol-induced positive chrono- and inotropic responses in the right atrium were inhibited moderately by both antagonists , but ICI 118,551 inhibited sinus rate increases more effectively than the atrial tension increases. ( ABSTRACT TRUNCATED AT 250 WORDS )",
+    "DB00197 , a peroxisome proliferator-activated receptor gamma ( Q07869 gamma ) ligand , selectively induces the early growth response-1 gene independently of Q07869 gamma . A novel mechanism for its anti-tumorigenic activity . DB00197 ( Q96PF1 ) is a peroxisome proliferator-activated receptor gamma ( Q07869 gamma ) ligand that has pro-apoptotic activity in human colon cancer . Although Q96PF1 binds to Q07869 gamma transcription factors as an agonist , emerging evidence suggests that Q96PF1 acts independently of Q07869 gamma in many functions , including apoptosis . Early growth response-1 ( Egr-1 ) transcription factor has been linked to apoptosis and shown to be activated by extracellular signal-regulated kinase ( P29323 ) . We investigated whether Q96PF1 -induced apoptosis may be related to Egr-1 induction , because Q96PF1 has been known to induce P29323 activity . Our results show that Egr-1 is induced dramatically by Q96PF1 but not by other Q07869 gamma ligands . Q96PF1 affects Egr-1 induction at least by two mechanisms ; Q96PF1 increases Egr-1 promoter activity by 2-fold and prolongs Egr-1 mRNA stability by 3-fold . Inhibition of P29323 phosphorylation in HCT-116 cells abolishes the Egr-1 induction by Q96PF1 , suggesting its P29323 -dependent manner . Further , the Q96PF1 -induced Egr-1 expression results in increased promoter activity using a reporter system containing four copies of Egr-1 binding sites , and Q96PF1 induces Egr-1 binding activity to Egr-1 consensus sites as assessed by gel shift assay . In addition , Q96PF1 induces P29323 -dependent phosphorylation of Q07869 gamma , resulting in the down-regulation of Q07869 gamma activity . The fact that Q96PF1 -induced apoptosis is accompanied by the biosynthesis of Egr-1 suggests that Egr-1 plays a pivotal role in Q96PF1 -induced apoptosis in HCT-116 cells . Our results suggest that Egr-1 induction is a unique property of Q96PF1 compared with other Q07869 gamma ligands and is independent of Q07869 gamma activation . Thus , the up-regulation of Egr-1 may provide an explanation for the anti-tumorigenic properties of Q96PF1 .",
+    "Effects of DNA polymerase inhibitors on replicative and repair DNA synthesis in ultraviolet-irradiated HeLa cells . Aphidicolin specifically inhibits eukaryotic DNA polymerase alpha , while 2',3'-dideoxythymidine 5'-triphosphate ( d2TTP ) inhibits P06746 and gamma but not alpha . DB00987 5'-triphosphate ( araCTP ) inhibits both DNA polymerase alpha and beta although to a different extent . Here we measured the effects of these inhibitors on repair DNA synthesis of U.V.-irradiated HeLa cells by two different methods . Firstly , aphidicolin , 1-beta-D-arabinofuranosylcytosine ( araC , a precursor of araCTP ) and 2',3'-dideoxythimidine ( d2Thd , a precursor of d2TTP ) were added directly to the culture medium . In this case , aphidicolin and araC strongly inhibited replicative DNA synthesis of HeLa cells , and they also inhibited repair synthesis after U.V.-irradiation but to a much lesser extent . In contrast , high concentrations of d2Thd inhibited repair DNA synthesis to a higher extent than replicative DNA synthesis . Secondly , the active form of inhibitor , d2TTP , was microinjection directly into cytoplasm or nuclei or U.V.-irradiated HeLa cells . Microinjection of d2TTP effectively inhibited repair synthesis . The microinjection of d2TTP , into either cytoplasm or nucleus , strongly inhibited replicative synthesis . These results might indicate that multiple DNA polymerases are involved in repair synthesis as well as in replicative synthesis .",
+    "Dietary omega-3 deficiency reduces P23560 content and activation DB01221 receptor and Fyn in dorsal hippocampus : implications on persistence of long-term memory in rats . Omega-3 ( n-3 ) fatty acids are important for adequate brain function and cognition . The aim of the present study was to evaluate how n-3 fatty acids influence the persistence of long-term memory ( LTM ) in an aversive memory task and to explore the putative mechanism involved . Female rats received isocaloric diets that included n-3 ( n-3 group ) or not ( D group ) . The adult litters were subjected to an inhibitory avoidance task ( 0.7 mA , 1.0 seconds foot shock ) to elicit persistent LTM . Twelve hours after the training session , the fatty acid profile and the brain derived neurotrophic factor ( P23560 ) content of the dorsal hippocampus were assessed . In addition , we measured the activation of the Q13224 subunit of the N-methyl-d-aspartate ( DB01221 ) receptor and the P12931 family protein Fyn . Despite pronounced learning in both groups , the persistence of LTM was abolished in the D group 7 days after the training session . We also observed that the D group presented reductions in hippocampal DB01708 ( 22:6 n-3 ) and P23560 content . Twelve hours after the training session , the D group showed decreased Q13224 and Fyn phosphorylation in the dorsal hippocampus , with no change in the total content of these proteins . Further , there was a decrease in the interaction of Fyn with Q13224 in the D group , as observed by co-immunoprecipitation . Taken together , these data suggest that n-3 fatty acids influence the persistence of LTM by maintaining adequate levels of DB01708 and P23560 as well as by influencing the activation of Q13224 and Fyn during the period of memory formation .",
+    "P15056 inhibitors suppress apoptosis through off-target inhibition of JNK signaling . DB08881 and dabrafenib selectively inhibit the P15056 ( P15056 ) kinase , resulting in high response rates and increased survival in melanoma . Approximately 22 % of individuals treated with vemurafenib develop cutaneous squamous cell carcinoma ( cSCC ) during therapy . The prevailing explanation for this is drug-induced paradoxical P29323 activation , resulting in hyperproliferation . Here we show an unexpected and novel effect of vemurafenib/PLX4720 in suppressing apoptosis through the inhibition of multiple off-target kinases upstream of c-Jun N-terminal kinase ( JNK ) , principally Q9NYL2 . JNK signaling is suppressed in multiple contexts , including in cSCC of vemurafenib-treated patients , as well as in mice . Expression of a mutant Q9NYL2 that can not be inhibited reverses the suppression of JNK activation and apoptosis . Our results implicate suppression of JNK-dependent apoptosis as a significant , independent mechanism that cooperates with paradoxical P29323 activation to induce cSCC , suggesting broad implications for understanding toxicities associated with P15056 inhibitors and for their use in combination therapies . DOI : http://dx.doi.org/10.7554/eLife.00969.001 .",
+    "Opposing actions of extracellular signal-regulated kinase ( P29323 ) and signal transducer and activator of transcription 3 ( P40763 ) in regulating microtubule stabilization during cardiac hypertrophy . Excessive proliferation and stabilization of the microtubule ( MT ) array in cardiac myocytes can accompany pathological cardiac hypertrophy , but the molecular control of these changes remains poorly characterized . In this study , we examined MT stabilization in two independent murine models of heart failure and revealed increases in the levels of post-translationally modified stable MTs , which were closely associated with P40763 activation . To explore the molecular signaling events contributing to control of the cardiac MT network , we stimulated cardiac myocytes with an α-adrenergic agonist phenylephrine ( PE ) , and observed increased tubulin content without changes in detyrosinated ( glu-tubulin ) stable MTs . In contrast , the hypertrophic interleukin-6 ( P05231 ) family cytokines increased both the glu-tubulin content and glu-MT density . When we examined a role for P29323 in regulating cardiac MTs , we showed that the MEK/ P29323 -inhibitor U0126 increased glu-MT density in either control cardiac myocytes or following exposure to hypertrophic agents . Conversely , expression of an activated Q02750 mutant reduced glu-tubulin levels . Thus , P29323 signaling antagonizes stabilization of the cardiac MT array . In contrast , inhibiting either O60674 with AG490 , or P40763 signaling with Stattic or siRNA knockdown , blocked cytokine-stimulated increases in glu-MT density . Furthermore , the expression of a constitutively active P40763 mutant triggered increased glu-MT density in the absence of hypertrophic stimulation . Thus , P40763 activation contributes substantially to cytokine-stimulated glu-MT changes . Taken together , our results highlight the opposing actions of P40763 and P29323 pathways in the regulation of MT changes associated with cardiac myocyte hypertrophy .",
+    "P06746 bypasses in vitro a single d(GpG)-cisplatin adduct placed on codon 13 of the P01112 gene . We have examined the capacity of calf thymus DNA polymerases alpha , beta , delta , and epsilon to perform in vitro translesion synthesis on a substrate containing a single d(GpG)-cisplatin adduct placed on codon 13 of the human P01112 gene . We found that DNA synthesis catalyzed by DNA polymerases alpha , delta , and epsilon was blocked at the base preceding the lesion . Addition of proliferating cell nuclear antigen to DNA polymerase delta and replication protein A to DNA polymerase alpha did not restore their capacity to elongate past the adduct . On the other hand , P06746 efficiently bypassed the cisplatin adduct . Furthermore , we observed that P06746 was the only polymerase capable of primer extension of a 3'-OH located opposite the base preceding the lesion . Likewise , P06746 was able to elongate the arrested replication products of the other three DNA polymerases , thus showing its capacity to successfully compete with polymerases alpha , delta , and epsilon in the stalled replication complex . Our data suggest ( i ) a possible mechanism enabling P06746 to bypass a d(GpG)-cisplatin adduct in vitro and ( ii ) a role for this enzyme in processing DNA damage in vivo .",
+    "Molecular recognition of docosahexaenoic acid by peroxisome proliferator-activated receptors and retinoid-X receptor alpha . The family of peroxisome proliferator-activated receptors ( PPARs ) is the molecular target of synthetic antidiabetic and hypolipidemic drugs . The side effects of these drugs are limiting their use in patients with high lipid levels . Natural compounds , like Docosahexaenoic acid ( DB01708 ) from fish oil , have beneficial effects in the treatment of metabolic diseases , and several DB01708 derivatives are known to activate Q07869 genes . Experimental studies on affinities of DB01708 and its derivatives for PPARs are not available . In the present study we are therefore using computational docking , molecular dynamics simulation , and several scoring programs to predict affinities and binding modes of DB01708 for PPARs and retinoid-X receptor alpha , which is the DNA binding partner of PPARs . The calculations indicated that DB01708 binds to PPARs and the retinoid-X receptor alpha with high affinity , and that different PPARs exhibited different structural effects on the first four carbons atoms of DB01708 . Our data indicate that the beneficial health effects of DB01708 may be obtained by high affinity binding to the PPARs .",
+    "Pharmacodynamic effects and mechanisms of resistance to vemurafenib in patients with metastatic melanoma . PURPOSE To assess pharmacodynamic effects and intrinsic and acquired resistance mechanisms of the P15056 inhibitor vemurafenib in P15056 (V600)-mutant melanoma , leading to an understanding of the mechanism of action of vemurafenib and ultimately to optimization of metastatic melanoma therapy . METHODS In the phase II clinical study NP22657 ( BRIM-2 ) , patients received oral doses of vemurafenib ( 960 mg twice per day ) . Serial biopsies were collected to study changes in mitogen-activated protein kinase ( MAPK ) signaling , cell-cycle progression , and factors causing intrinsic or acquired resistance by immunohistochemistry , DNA sequencing , or somatic mutation profiling . Results DB08881 inhibited MAPK signaling and cell-cycle progression . An association between the decrease in extracellular signal-related kinase ( P29323 ) phosphorylation and objective response was observed in paired biopsies ( n = 22 ; P = .013 ) . Low expression of phosphatase and tensin homolog showed a modest association with lower response . Baseline mutations in Q02750 (P124) coexisting with P15056 (V600) were noted in seven of 92 samples ; their presence did not preclude objective tumor responses . Acquired resistance to vemurafenib associated with reactivation of MAPK signaling as observed by elevated P27361 /2 phosphorylation levels in progressive lesions and the appearance of secondary P01111 (Q61) mutations or Q02750 (Q56P) or Q02750 (E203K) mutations . These two activating Q02750 mutations had not previously been observed in vivo in biopsies of progressive melanoma tumors . CONCLUSION DB08881 inhibits tumor proliferation and oncogenic P15056 signaling through the MAPK pathway . Acquired resistance results primarily from MAPK reactivation driven by the appearance of secondary mutations in P01111 and Q02750 in subsets of patients . The data suggest that inhibition downstream of P15056 should help to overcome acquired resistance .",
+    "Canine placental prostaglandin E2 synthase : expression , localization , and biological functions in providing substrates for prepartum PGF2alpha synthesis . The prepartum output of PGF2alpha in the bitch is associated with increased placental DB00917 -synthase ( O14684 ) mRNA levels . Contrasting with this is a decreased expression of PGF2alpha-synthase ( P42330 / P42330 ) in uteroplacental compartments during prepartum luteolysis , suggesting an involvement of alternative synthetic pathways in PGF2alpha synthesis , for example , conversion of DB00917 to PGF2alpha . However , because the expression and possible functions of the respective O14684 proteins remained unknown , no further conclusion could be drawn . Therefore , a canine-specific O14684 antibody was generated and used to investigate the expression , cellular localization , and biochemical activities of canine uteroplacental O14684 throughout pregnancy and at prepartum luteolysis . Additionally , the biochemical activities of these tissues involved in the conversion of DB00917 to PGF2alpha were investigated . The endometrial O14684 was localized in the uterine surface epithelium at preimplantation and in superficial and deep uterine glands , endothelial cells , and myometrium throughout pregnancy and at parturition . Placental signals were mostly in the trophoblast . The biochemical properties of recombinant O14684 protein were confirmed . Additionally , expression of two DB00917 -receptors , PTGER2/EP2 and P35408 /EP4 , revealed their decreasing expression during luteolysis . In contrast , the uteroplacental expression of prostaglandin transporter ( Q92959 ) was strongly elevated prior to parturition . These localization patterns resembled that of O14684 . The increased expression of O14684 and Q92959 at parturition , together with the accompanying decreased levels of DB00917 -receptors and the capability of canine uterine and placental homogenates to take part in the conversion of DB00917 to PGF2alpha , as found in this study , suggest that DB00917 could be used locally as a substrate for prepartum PGF2alpha synthesis in the dog ."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nDB08881 is a P15056 inhibitor used for the treatment of melanoma.\nDB08881 inhibits the RAF-MEK-ERK signaling pathway in P15056 (V600E)-mutant melanoma.\nDB08881 is also known as vemurafenib.\nDB08881 induces paradoxical activation of the MAPK pathway in cells with wild-type P15056.\nDB08881 is associated with the development of cutaneous squamous cell carcinoma (cuSCC) in patients.\nDB08881 suppresses apoptosis through off-target inhibition of JNK signaling, particularly Q9NYL2.\nDB08881 is a selective inhibitor of P15056 kinase.\nDB01366 is a β2-agonist used for asthma and COPD.\nDB01366 is not known to interact with DB08881.\nDB00024 is a thyroid-stimulating hormone receptor.\nDB00024 is not known to interact with DB08881.\nDB00142 is an antibody against glutamic acid decarboxylase.\nDB00142 is not known to interact with DB08881.\nDB00917 is prostaglandin E2.\nDB00917 is not known to interact with DB08881.\nDB00987 is cytosine arabinoside-3-phosphate.\nDB00987 is not known to interact with DB08881.\nDB01616 is alverine citrate, a spasmolytic agent.\nDB01616 is not known to interact with DB08881.\nDB01708 is docosahexaenoic acid.\nDB01708 is not known to interact with DB08881.\nDB05239 is cobimetinib, a MEK inhibitor.\nDB05239 is not known to interact with DB08881.\nDB06273 is tocilizumab, an anti-IL-6 receptor antibody.\nDB06273 is not known to interact with DB08881.\nDB08881 is a P15056 inhibitor and does not interact with any of the listed compounds.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "DB08881 is a P15056 inhibitor used for the treatment of melanoma",
+    "DB08881 inhibits the RAF-MEK-ERK signaling pathway in P15056 (V600E)-mutant melanoma",
+    "DB08881 is also known as vemurafenib",
+    "DB08881 induces paradoxical activation of the MAPK pathway in cells with wild-type P15056",
+    "DB08881 is associated with the development of cutaneous squamous cell carcinoma (cuSCC) in patients",
+    "DB08881 suppresses apoptosis through off-target inhibition of JNK signaling, particularly Q9NYL2",
+    "DB08881 is a selective inhibitor of P15056 kinase",
+    "DB01366 is a β2-agonist used for asthma and COPD",
+    "DB01366 is not known to interact with DB08881",
+    "DB00024 is a thyroid-stimulating hormone receptor",
+    "DB00024 is not known to interact with DB08881",
+    "DB00142 is an antibody against glutamic acid decarboxylase",
+    "DB00142 is not known to interact with DB08881",
+    "DB00917 is prostaglandin E2",
+    "DB00917 is not known to interact with DB08881",
+    "DB00987 is cytosine arabinoside-3-phosphate",
+    "DB00987 is not known to interact with DB08881",
+    "DB01616 is alverine citrate, a spasmolytic agent",
+    "DB01616 is not known to interact with DB08881",
+    "DB01708 is docosahexaenoic acid",
+    "DB01708 is not known to interact with DB08881",
+    "DB05239 is cobimetinib, a MEK inhibitor",
+    "DB05239 is not known to interact with DB08881",
+    "DB06273 is tocilizumab, an anti-IL-6 receptor antibody",
+    "DB06273 is not known to interact with DB08881",
+    "DB08881 is a P15056 inhibitor and does not interact with any of the listed compounds"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "DB08881 is a P15056 inhibitor used for the treatment of melanoma",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "DB08881 inhibits the RAF-MEK-ERK signaling pathway in P15056 (V600E)-mutant melanoma",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "DB08881 is also known as vemurafenib",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "DB08881 induces paradoxical activation of the MAPK pathway in cells with wild-type P15056",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "DB08881 is associated with the development of cutaneous squamous cell carcinoma (cuSCC) in patients",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "DB08881 suppresses apoptosis through off-target inhibition of JNK signaling, particularly Q9NYL2",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "DB08881 is a selective inhibitor of P15056 kinase",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C8",
+      "text": "DB01366 is a β2-agonist used for asthma and COPD",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C9",
+      "text": "DB01366 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C10",
+      "text": "DB00024 is a thyroid-stimulating hormone receptor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C11",
+      "text": "DB00024 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C12",
+      "text": "DB00142 is an antibody against glutamic acid decarboxylase",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C13",
+      "text": "DB00142 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C14",
+      "text": "DB00917 is prostaglandin E2",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C15",
+      "text": "DB00917 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C16",
+      "text": "DB00987 is cytosine arabinoside-3-phosphate",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C17",
+      "text": "DB00987 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C18",
+      "text": "DB01616 is alverine citrate, a spasmolytic agent",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C19",
+      "text": "DB01616 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C20",
+      "text": "DB01708 is docosahexaenoic acid",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C21",
+      "text": "DB01708 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C22",
+      "text": "DB05239 is cobimetinib, a MEK inhibitor",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C23",
+      "text": "DB05239 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C24",
+      "text": "DB06273 is tocilizumab, an anti-IL-6 receptor antibody",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C25",
+      "text": "DB06273 is not known to interact with DB08881",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C26",
+      "text": "DB08881 is a P15056 inhibitor and does not interact with any of the listed compounds",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

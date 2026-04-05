@@ -1,0 +1,91 @@
+{
+  "uid": "strategyqa__0abc04530e898056a6c4",
+  "sample_id": "0abc04530e898056a6c4",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Are System of a Down opposed to globalization?",
+  "gold_answer": "yes",
+  "context": [
+    "In Boom!, System of a Down condemns globalization.",
+    "The lead vocalist of the band System of a Down is outspoken against globalization. "
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nSystem of a Down is a band that released a song titled Boom!.\nBoom! condemns globalization.\nThe lead vocalist of System of a Down is outspoken against globalization.\nThe band's song Boom! reflects the lead vocalist's opposition to globalization.\nSystem of a Down is opposed to globalization.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "System of a Down is a band that released a song titled Boom!",
+    "Boom! condemns globalization",
+    "The lead vocalist of System of a Down is outspoken against globalization",
+    "The band's song Boom! reflects the lead vocalist's opposition to globalization",
+    "System of a Down is opposed to globalization"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "System of a Down is a band that released a song titled Boom!",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Boom! condemns globalization",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The lead vocalist of System of a Down is outspoken against globalization",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The band's song Boom! reflects the lead vocalist's opposition to globalization",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "System of a Down is opposed to globalization",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

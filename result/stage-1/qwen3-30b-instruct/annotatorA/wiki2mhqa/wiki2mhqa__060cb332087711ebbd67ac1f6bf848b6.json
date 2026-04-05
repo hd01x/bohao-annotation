@@ -1,0 +1,65 @@
+{
+  "uid": "wiki2mhqa__060cb332087711ebbd67ac1f6bf848b6",
+  "sample_id": "060cb332087711ebbd67ac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Who is younger, Empress Xiaoshurui or Goran Veselinovski?",
+  "gold_answer": "Goran Veselinovski",
+  "context": [
+    "Empress Xiaoshurui( 2 October 1760 – 5 March 1797), of the Manchu Plain White Banner Hitara clan, was a consort of the Jiaqing Emperor.",
+    "Roman Smishko is a retired Ukrainian professional footballer who played as a goalkeeper. He is a younger brother of Ukrainian defender Bohdan Smishko.",
+    "Dmitri Nikolayevich Varfolomeyev( born 15 March 1978 in Leningrad) is a former Russian football player. He is a younger brother of Sergei Varfolomeyev.",
+    "Goran Veselinovski( born September 2, 1975) is a former Macedonian professional basketball Swingman who played for Rabotnički.",
+    "Miloš Zličić( born 29 December 1999) is a Serbian football forward. He is a younger brother of Lazar Zličić.",
+    "Alan Chipp( born 9 January 1937) is a former Australian rules footballer who played for the Fitzroy Football Club in the Victorian Football League( VFL). He is a younger brother of politician Don Chipp.",
+    "Markus Weissenberger( born March 8, 1975) is an Austrian former footballer who played as a midfielder. He is a younger brother of former Austria international player Thomas Weissenberger.",
+    "Anton Shunto( born 31 May 1988) is a Belarusian professional footballer. As of 2019, he plays for Molodechno. He is a younger brother of Denis Shunto, who is a founder and former president of Krumkachy Minsk.",
+    "Zoran Švonja( born 4 October 1995) is a Serbian football midfielder who plays for Bulgarian club Lokomotiv Sofia. He is younger brother of Goran Švonja.",
+    "Vadim Nikolayevich Vlasov( born 19 December 1980) is a former Russian football player. He is a younger brother of Dmitri Vlasov."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nEmpress Xiaoshurui was born on 2 October 1760.\nGoran Veselinovski was born on 2 September 1975.\n1760 is earlier than 1975.\nEmpress Xiaoshurui was born in the 18th century.\nGoran Veselinovski was born in the 20th century.\nGoran Veselinovski is younger than Empress Xiaoshurui.\n<answer> Goran Veselinovski",
+  "predicted_answer": "Goran Veselinovski",
+  "claims": [
+    "Empress Xiaoshurui was born on 2 October 1760",
+    "Goran Veselinovski was born on 2 September 1975",
+    "1760 is earlier than 1975",
+    "Empress Xiaoshurui was born in the 18th century",
+    "Goran Veselinovski was born in the 20th century",
+    "Goran Veselinovski is younger than Empress Xiaoshurui"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Empress Xiaoshurui was born on 2 October 1760",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "Goran Veselinovski was born on 2 September 1975",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "1760 is earlier than 1975",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C4",
+      "text": "Empress Xiaoshurui was born in the 18th century",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "Goran Veselinovski was born in the 20th century",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C6",
+      "text": "Goran Veselinovski is younger than Empress Xiaoshurui",
+      "claim_type": "DR"
+    }
+  ]
+}

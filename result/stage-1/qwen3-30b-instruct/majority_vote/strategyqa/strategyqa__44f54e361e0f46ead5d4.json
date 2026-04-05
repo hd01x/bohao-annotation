@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__44f54e361e0f46ead5d4",
+  "sample_id": "44f54e361e0f46ead5d4",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would George Fox support stoning?",
+  "gold_answer": "no",
+  "context": [
+    "George Fox was the founder of the Religious Society of Friends, commonly known as the Quakers or Friends.",
+    "The Quakers advocate for peace and nonviolence.",
+    "Stoning is a particularly violent and brutal method of capital punishment."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nGeorge Fox founded the Religious Society of Friends, commonly known as the Quakers.\nThe Quakers advocate for peace and nonviolence.\nStoning is a particularly violent and brutal method of capital punishment.\nGeorge Fox, as the founder of a peace-oriented religious group, would oppose violent acts.\nGeorge Fox would not support stoning.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "George Fox founded the Religious Society of Friends, commonly known as the Quakers",
+    "The Quakers advocate for peace and nonviolence",
+    "Stoning is a particularly violent and brutal method of capital punishment",
+    "George Fox, as the founder of a peace-oriented religious group, would oppose violent acts",
+    "George Fox would not support stoning"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "George Fox founded the Religious Society of Friends, commonly known as the Quakers",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The Quakers advocate for peace and nonviolence",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Stoning is a particularly violent and brutal method of capital punishment",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "George Fox, as the founder of a peace-oriented religious group, would oppose violent acts",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "George Fox would not support stoning",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

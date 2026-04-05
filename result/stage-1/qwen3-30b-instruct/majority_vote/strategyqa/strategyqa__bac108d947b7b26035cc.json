@@ -1,0 +1,120 @@
+{
+  "uid": "strategyqa__bac108d947b7b26035cc",
+  "sample_id": "bac108d947b7b26035cc",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was Pi an acceptable number of children in 1980s China?",
+  "gold_answer": "no",
+  "context": [
+    "Pi, the ratio of a circle's circumference to diameter, is equal to 3.14.",
+    "In the 1980's China instituted a one-child policy.",
+    "People that violated China's one child policy were fined heavily and some were sterilized."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nPi is approximately 3.14.\nThe one-child policy in China during the 1980s restricted families to one child.\nA number of children greater than one was not permitted under the policy.\n3.14 is greater than one.\nPi, as a number, represents a value greater than one.\nPi is not equal to one.\nPi was not an acceptable number of children under China's one-child policy in the 1980s.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Pi is approximately 3.14",
+    "The one-child policy in China during the 1980s restricted families to one child",
+    "A number of children greater than one was not permitted under the policy",
+    "3.14 is greater than one",
+    "Pi, as a number, represents a value greater than one",
+    "Pi is not equal to one",
+    "Pi was not an acceptable number of children under China's one-child policy in the 1980s"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Pi is approximately 3.14",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "The one-child policy in China during the 1980s restricted families to one child",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "A number of children greater than one was not permitted under the policy",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "3.14 is greater than one",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Pi, as a number, represents a value greater than one",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Pi is not equal to one",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C7",
+      "text": "Pi was not an acceptable number of children under China's one-child policy in the 1980s",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

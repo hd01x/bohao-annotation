@@ -1,0 +1,106 @@
+{
+  "uid": "strategyqa__29574176246ede705240",
+  "sample_id": "29574176246ede705240",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Was England directly involved in the Arab-Israeli conflict?",
+  "gold_answer": "yes",
+  "context": [
+    "The Arab-Israeli conflict began hundreds of years ago.",
+    "England occupied what is now Israel until 1945 when Israel became independent.",
+    "During Israel's war for independence England allied with their Arab neighbors to fight the Israeli rebels."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Arab-Israeli conflict began hundreds of years ago.\nEngland occupied what is now Israel until 1945.\nIsrael became independent in 1945.\nDuring Israel's war for independence, England allied with their Arab neighbors.\nEngland's alliance with Arab neighbors during Israel's war for independence indicates direct involvement.\nEngland was directly involved in the Arab-Israeli conflict.\n<answer> Yes",
+  "predicted_answer": "Yes",
+  "claims": [
+    "The Arab-Israeli conflict began hundreds of years ago",
+    "England occupied what is now Israel until 1945",
+    "Israel became independent in 1945",
+    "During Israel's war for independence, England allied with their Arab neighbors",
+    "England's alliance with Arab neighbors during Israel's war for independence indicates direct involvement",
+    "England was directly involved in the Arab-Israeli conflict"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Arab-Israeli conflict began hundreds of years ago",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "England occupied what is now Israel until 1945",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Israel became independent in 1945",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "During Israel's war for independence, England allied with their Arab neighbors",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "England's alliance with Arab neighbors during Israel's war for independence indicates direct involvement",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "England was directly involved in the Arab-Israeli conflict",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

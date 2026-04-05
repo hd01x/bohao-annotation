@@ -1,0 +1,69 @@
+{
+  "uid": "musique__4hop1__145087_32392_823060_610794",
+  "sample_id": "4hop1__145087_32392_823060_610794",
+  "dataset": "musique",
+  "domain": "general",
+  "question": "What county is the city that shares a border with the state capital of the state where Velma Barfield was born located in?",
+  "gold_answer": "Richland County",
+  "context": [
+    "Chelyabinsk () is a city and the administrative center of Chelyabinsk Oblast, Russia, located in the northeast of the oblast, south of Yekaterinburg, just to the east of the Ural Mountains, on the Miass River, on the border of Europe and Asia. Population:",
+    "Namangan (also in ) is a city in eastern Uzbekistan. It is the administrative, economic, and cultural center of Namangan Region. Namangan is located in the northern edge of the Fergana Valley, less than 30 km from the Kyrgyzstan border. The city is served by Namangan Airport.",
+    "The United States of America (USA), commonly known as the United States (U.S.) or America, is a federal republic composed of 50 states, a federal district, five major self - governing territories, and various possessions. At 3.8 million square miles (9.8 million km) and with over 325 million people, the United States is the world's third - or fourth - largest country by total area and the third-most populous. The capital is Washington, D.C., and the largest city by population is New York City. Forty - eight states and the capital's federal district are contiguous and located in North America between Canada and Mexico. The state of Alaska is in the northwest corner of North America, bordered by Canada to the east and across the Bering Strait from Russia to the west. The state of Hawaii is an archipelago in the mid-Pacific Ocean. The U.S. territories are scattered about the Pacific Ocean and the Caribbean Sea, stretching across nine official time zones. The extremely diverse geography, climate, and wildlife of the United States make it one of the world's 17 megadiverse countries.",
+    "Moscow is situated on the Moskva River in the Central Federal District of European Russia, making it Europe's most populated inland city. The city is well known for its architecture, particularly its historic buildings such as Saint Basil's Cathedral with its brightly coloured domes. With over 40 percent of its territory covered by greenery, it is one of the greenest capitals and major cities in Europe and the world, having the largest forest in an urban area within its borders -- more than any other major city -- even before its expansion in 2012. The city has served as the capital of a progression of states, from the medieval Grand Duchy of Moscow and the subsequent Tsardom of Russia to the Russian Empire to the Soviet Union and the contemporary Russian Federation.",
+    "Israel (/ˈɪzreɪəl/ or /ˈɪzriːəl/; Hebrew: יִשְׂרָאֵל‎ Yisrā'el; Arabic: إِسْرَائِيل‎ Isrāʼīl), officially the State of Israel (Hebrew: מְדִינַת יִשְׂרָאֵל‎ Medīnat Yisrā'el [mediˈnat jisʁaˈʔel] ( listen); Arabic: دولة إِسْرَائِيل‎ Dawlat Isrāʼīl [dawlat ʔisraːˈʔiːl]), is a sovereign state in Western Asia. The country is situated in the Middle East at the southeastern shore of the Mediterranean Sea and the northern shore of the Gulf of Aqaba in the Red Sea. It shares land borders with Lebanon to the north, Syria in the northeast, Jordan on the east, the Palestinian territories (which are claimed by the State of Palestine and are partially controlled by Israel) comprising the West Bank and Gaza Strip to the east and west, respectively, and Egypt to the southwest. It contains geographically diverse features within its relatively small area. Israel's financial and technology center is Tel Aviv while Jerusalem is both the self-designated capital and most populous individual city under the country's governmental administration. Israeli sovereignty over Jerusalem is internationally unrecognized.[note 1]",
+    "Velma Barfield was born in rural South Carolina, but was raised near Fayetteville, North Carolina. Barfield's father reportedly was physically abusive and her mother, Lillian Bullard, did not intervene. She escaped by marrying Thomas Burke in 1949. The couple had two children and were reportedly happy until Barfield had a hysterectomy and developed back pain. These events led to a behavioral change in Barfield and an eventual drug addiction.",
+    "In the U.S., the issuance of birth certificates is a function of the Vital Records Office of the states, capital district, territories and former territories. Birth in the U.S. establishes automatic eligibility for American citizenship, so a birth certificate from a local authority is commonly provided to the federal government to obtain a U.S. passport. However, the U.S. State Department does issue a Consular Report of Birth Abroad for children born to U.S. citizens (who are also eligible for citizenship), including births on military bases in foreign territory.",
+    "Gallaratese is a district (\"quartiere\") of Milan, Italy, part of the Zone 8 administrative division of the city. It is located about 7 km north-west of the city centre. It borders on the \"comune\" of Pero to the north and on the districts of Trenno to the west and Lampugnano to the south; to the east, its ideal border is the eponymous street, which in turn is named after Gallarate, the town it leads to.",
+    "Darwin (/ ˈdɑːrwɪn / (listen) DAR - win) is the capital city of the Northern Territory of Australia. Situated on the Timor Sea, Darwin is the largest city in the sparsely populated Northern Territory, with a population of 142,300. It is the smallest and most northerly of the Australian capital cities, and acts as the Top End's regional centre.",
+    "Tennessee (i/tɛnᵻˈsiː/) (Cherokee: ᏔᎾᏏ, Tanasi) is a state located in the southeastern United States. Tennessee is the 36th largest and the 17th most populous of the 50 United States. Tennessee is bordered by Kentucky and Virginia to the north, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, and Arkansas and Missouri to the west. The Appalachian Mountains dominate the eastern part of the state, and the Mississippi River forms the state's western border. Tennessee's capital and second largest city is Nashville, which has a population of 601,222. Memphis is the state's largest city, with a population of 653,450.",
+    "Strasbourg (/ˈstræzbɜːrɡ/, French pronunciation: ​[stʁaz.buʁ, stʁas.buʁ]; Alsatian: Strossburi; German: Straßburg, [ˈʃtʁaːsbʊɐ̯k]) is the capital and largest city of the Alsace-Champagne-Ardenne-Lorraine (ACAL) region in eastern France and is the official seat of the European Parliament. Located close to the border with Germany, it is the capital of the Bas-Rhin département. The city and the region of Alsace were historically predominantly Alemannic-speaking, hence the city's Germanic name. In 2013, the city proper had 275,718 inhabitants, Eurométropole de Strasbourg (Greater Strasbourg) had 475,934 inhabitants and the Arrondissement of Strasbourg had 482,384 inhabitants. With a population of 768,868 in 2012, Strasbourg's metropolitan area (only the part of the metropolitan area on French territory) is the ninth largest in France and home to 13% of the ACAL region's inhabitants. The transnational Eurodistrict Strasbourg-Ortenau had a population of 915,000 inhabitants in 2014.",
+    "WWNQ is a radio station licensed to Forest Acres, South Carolina, serving the Columbia, South Carolina market. Owned by Midlands Media Group LLC, the station broadcasts a country music format branded as 94.3 The Dude.",
+    "Washington, D.C. is the current federal capital city of the United States, as it has been since 1800. Each U.S. state has its own capital city, as do many of its Insular areas. Historically, most states have not changed their capital city since becoming a state, but the capital cities of their respective preceding colonies, territories, kingdoms, and republics typically changed multiple times. There have also been other governments within the current borders of the United States with their own capitals, such as the Republic of Texas, Native American nations, and other unrecognized governments.",
+    "Guam (i/ˈɡwɑːm/ or /ˈɡwɒm/; Chamorro: Guåhån;[needs IPA] formally the Territory of Guam) is an unincorporated and organized territory of the United States. Located in the northwestern Pacific Ocean, Guam is one of five American territories with an established civilian government. The capital city is Hagåtña, and the most populous city is Dededo. In 2015, 161,785 people resided on Guam. Guamanians are American citizens by birth. Guam has an area of 544 km2 (210 sq mi) and a density of 297/km² (770/sq mi). It is the largest and southernmost of the Mariana Islands, and the largest island in Micronesia. Among its municipalities, Mongmong-Toto-Maite has the highest density at 1,425/km² (3,691/sq mi), whereas Inarajan and Umatac have the lowest density at 47/km² (119/sq mi). The highest point is Mount Lamlam at 406 meters (1,332 ft) above sea level.",
+    "Forest Acres is a city in Richland County, South Carolina, United States. The population was 10,361 at the 2010 census. It is part of the Columbia, South Carolina, Metropolitan Statistical Area.",
+    "Virginia is located in Lempira Honduras and shares a border with El Salvador. Many Virginians travel to El Salvador to do their shopping, because the Honduran cities are far away from Virginia.",
+    "Abuja (/ əˈbuːdʒə /) is the capital city of Nigeria located in the centre of the country within the Federal Capital Territory (FCT). It is a planned city and was built mainly in the 1980s, replacing the country's most populous city of Lagos as the capital on 12 December 1991. Abuja's geography is defined by Aso Rock, a 400 - metre (1,300 ft) monolith left by water erosion. The Presidential Complex, National Assembly, Supreme Court and much of the city extend to the south of the rock. Zuma Rock, a 792 - metre (2,598 ft) monolith, lies just north of the city on the road to Kaduna State.",
+    "Although the city lost the status of state capital to Columbia in 1786, Charleston became even more prosperous in the plantation-dominated economy of the post-Revolutionary years. The invention of the cotton gin in 1793 revolutionized the processing of this crop, making short-staple cotton profitable. It was more easily grown in the upland areas, and cotton quickly became South Carolina's major export commodity. The Piedmont region was developed into cotton plantations, to which the sea islands and Lowcountry were already devoted. Slaves were also the primary labor force within the city, working as domestics, artisans, market workers, and laborers.",
+    "Pesanggrahan is a subdistrict of South Jakarta, one of the administrative city which forms the capital territory of Jakarta, Indonesia. The Pesanggrahan River flows along the eastern edge of Pesanggrahan Subdistrict. To the west of Pesanggrahan Subdistrict is Tangerang Regency, Banten Province.",
+    "The Mormon pioneers organized a new state called Deseret and petitioned for its recognition in 1849. The United States Congress rebuffed the settlers in 1850 and established the Utah Territory, vastly reducing its size, and designated Fillmore as its capital city. Great Salt Lake City replaced Fillmore as the territorial capital in 1858, and the name was later abbreviated to Salt Lake City. The city's population continued to swell with an influx of Mormon converts and Gold Rush gold seekers, making it one of the most populous cities in the American Old West."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nVelma Barfield was born in rural South Carolina.\nThe state capital of South Carolina is Columbia.\nThe city that shares a border with the state capital of South Carolina is Forest Acres.\nForest Acres is located in Richland County, South Carolina.\nThe county of the city that shares a border with the state capital of the state where Velma Barfield was born is Richland County.\n<answer> Richland County",
+  "predicted_answer": "Richland County",
+  "claims": [
+    "Velma Barfield was born in rural South Carolina",
+    "The state capital of South Carolina is Columbia",
+    "The city that shares a border with the state capital of South Carolina is Forest Acres",
+    "Forest Acres is located in Richland County, South Carolina",
+    "The county of the city that shares a border with the state capital of the state where Velma Barfield was born is Richland County"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Velma Barfield was born in rural South Carolina",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "The state capital of South Carolina is Columbia",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "The city that shares a border with the state capital of South Carolina is Forest Acres",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "Forest Acres is located in Richland County, South Carolina",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C5",
+      "text": "The county of the city that shares a border with the state capital of the state where Velma Barfield was born is Richland County",
+      "claim_type": "DR"
+    }
+  ]
+}

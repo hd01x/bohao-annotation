@@ -1,0 +1,85 @@
+{
+  "uid": "wiki2mhqa__08292515088411ebbd6dac1f6bf848b6",
+  "sample_id": "08292515088411ebbd6dac1f6bf848b6",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Which film came out first, Stella'S Oorlog or Sampathige Savaal?",
+  "gold_answer": "Sampathige Savaal",
+  "context": [
+    "Life Is What You Make It is a 2017 documentary film which explores the life of award- winning Filipino theatre producer Jhett Tolentino from his migration into the United States and his entry into theatre production in New York. The film came with a soundtrack album entitled\" Life Is What You Make It: Original Motion Picture Soundtrack\".",
+    "XX/ XY is a 2002 American romantic drama film written and directed by Austin Chick and starring Mark Ruffalo, Kathleen Robertson, and Maya Stange. The title refers to the different chromosome pairings present in men and women. It was nominated for the Grand Jury Prize at the Sundance Film Festival in the year it was released. Although the funding for the film came from the US, the film was produced by British company Natural Nylon.",
+    "My Little Eye is a 2002 British horror film directed by Marc Evans about five adults who agree to spend six months together in an isolated mansion while being filmed at all times. The idea for the film came from reality television shows such as\" Big Brother\". The title refers to the guessing game I spy.",
+    "Sampathige Savaal( lit. A Challenge to Richness) is a 1974 Indian Kannada drama film directed by A. V. Seshagiri Rao and produced by A. N. Murthy, based on a play of the same name written by B. P. Dhuttharagi. The film stars Rajkumar, Vajramuni and Manjula in lead roles. The screenplay, dialogues and lyrics for the soundtracks were written by Chi. Udaya Shankar. The film was a musical blockbuster with all the tracks composed by G. K. Venkatesh considered evergreen hits. Rajkumar debuted as a playback singer with the track\" Yaare Koogadali\" from the film which became an instant hit among the audiences. He would then go on to sing regularly for his films. The movie saw a theatrical run of 38 weeks. The film was remade in Tamil in 1975 as\" Pudhu Vellam\" starring Sivakumar and in Malayalam in 1976 as\" Themmadi Velappan\" starring Prem Nazir.",
+    "The Night of Nights is a 1939 black- and- white drama film written by Donald Ogden Stewart and directed by Lewis Milestone for Paramount Pictures that starred Pat O' Brien, Olympe Bradna, and Roland Young. The film received positive contemporary reviews from publications such as\" The New York Times\". Director Milestone went on to other successful productions after the film came out, including\" Ocean's 11\" and\" Pork Chop Hill\". The movie has no relation to the use of the phrase\" Night of Nights\" for the night of the Academy Awards ceremony, the album by musical group The Seekers, or the Touhou Project song.",
+    "Stella's oorlog( Dutch for Stella's war) is a 2009 Dutch drama film directed by Diederik van Rooijen.",
+    "Kabani Nadi Chuvannappol(\" When the River Kabani Turned Red\") is a 1975 Malayalam feature film directed by P. A. Backer, produced by Pavithran, and starring T. V. Chandran, Shalini, Raveendran and J. Siddiqui. This leftist political drama film came out during the Emergency period. It was the directorial debut of P. A. Backer, who won that year's awards for Best Director and Second Best Film at the Kerala State Film Awards. Pavithran, who later directed many critically acclaimed Malayalam films produced the film. T. V. Chandran, who also later went on to direct a bevy of award- winning films in Malayalam and Tamil, played the lead role. After certain post-production controversies, the film debuted in theatres on 16 July 1976.",
+    "The Fabulous Senorita is a 1952 American musical comedy film directed by R.G. Springsteen and starring Estelita Rodriguez, Robert Clarke and Nestor Paiva. The film came at the tail- end of a cycle of Latin American- themed films, through it did introduce a new star Rita Moreno.",
+    "La légion saute sur Kolwezi also known as\" Operation Leopard\" is a French war film directed by Raoul Coutard filmed in French Guiana. The script is based on the true story of the Battle of Kolwezi that happened in 1978. It was diligently described in a book of the same name by former 1 REP Captain Pierre Sergent. He published his book in 1979; the film came out in 1980. Raoul Coutard shot the film in a documentary style.",
+    "Themmadi Velappan is a 1976 Indian Malayalam film, directed by Hariharan and produced by G. P. Balan. It's remake of Kannada superhit movie Sampathige Saval. The film stars Prem Nazir, Madhu, Jayabharathi and KPAC Lalitha in the lead roles. It was a super hit. The film has a musical score by M. S. Viswanathan. The movie is a remake of 1974 Kannada movie\" Sampathige Savaal\" starring Rajkumar."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nStella's oorlog is a 2009 Dutch drama film directed by Diederik van Rooijen.\nSampathige Savaal is a 1974 Indian Kannada drama film directed by A. V. Seshagiri Rao.\n2009 is later than 1974.\nThe film that came out first is Sampathige Savaal.\n<answer> Sampathige Savaal",
+  "predicted_answer": "Sampathige Savaal",
+  "claims": [
+    "Stella's oorlog is a 2009 Dutch drama film directed by Diederik van Rooijen",
+    "Sampathige Savaal is a 1974 Indian Kannada drama film directed by A. V. Seshagiri Rao",
+    "2009 is later than 1974",
+    "The film that came out first is Sampathige Savaal"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Stella's oorlog is a 2009 Dutch drama film directed by Diederik van Rooijen",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Sampathige Savaal is a 1974 Indian Kannada drama film directed by A. V. Seshagiri Rao",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "2009 is later than 1974",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "The film that came out first is Sampathige Savaal",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

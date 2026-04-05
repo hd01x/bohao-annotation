@@ -1,0 +1,71 @@
+{
+  "uid": "wiki2mhqa__0464f5040bdc11eba7f7acde48001122",
+  "sample_id": "0464f5040bdc11eba7f7acde48001122",
+  "dataset": "wiki2mhqa",
+  "domain": "general",
+  "question": "Where does the director of film The Witnesses work at?",
+  "gold_answer": "Cahiers du cinéma",
+  "context": [
+    "Brian Patrick Kennedy( born 5 November 1961) is an Irish- born art museum director who has worked in Ireland and Australia, and now lives and works in the United States. He is currently the director of the Peabody Essex Museum. He was the director of the Toledo Museum of Art in Ohio from 2010 to 2019. He was the director of the Hood Museum of Art from 2005 to 2010, and the National Gallery of Australia( Canberra) from 1997- 2004.",
+    "Olav Aaraas( born 10 July 1950) is a Norwegian historian and museum director. He was born in Fredrikstad. From 1982 to 1993 he was the director of Sogn Folk Museum, from 1993 to 2010 he was the director of Maihaugen and from 2001 he has been the director of the Norwegian Museum of Cultural History. In 2010 he was decorated with the Royal Norwegian Order of St. Olav.",
+    "Jesse Edward Hobson( May 2, 1911 – November 5, 1970) was the director of SRI International from 1947 to 1955. Prior to SRI, he was the director of the Armour Research Foundation.",
+    "André Téchiné (born 13 March 1943) is a French screenwriter and film director. He has a long and distinguished career that places him among the most accomplished post-New Wave French film directors. Téchiné belongs to a second generation of French film critics associated with \"Cahiers du cinéma\" who followed François Truffaut, Claude Chabrol, Jean-Luc Godard and others from criticism into filmmaking. He is noted for his elegant and emotionally charged films that often delve into the complexities of emotions and the human condition. One of Téchiné's trademarks is the lyrical examination of human relations in a sensitive but unsentimental way, as can be seen in his most acclaimed films: \" My Favorite Season\" (1993) and \"Wild Reeds\" (1994).",
+    "The Witnesses  is a 2007 French drama film directed by André Téchiné, starring Michel Blanc, Sami Bouajila, Emmanuelle Béart and Johan Libéreau. The film, set in Paris in 1984, explores the lives of a closely knit group of friends who are impacted with the sudden outbreak of the AIDS epidemic. \" The Witnesses\" was critically acclaimed.",
+    "Ian Barry is an Australian director of film and TV.",
+    "Jason Moore( born October 22, 1970) is an American director of film, theatre and television.",
+    "Peter Levin is an American director of film, television and theatre.",
+    "Michael Govan( born 1963) is the director of the Los Angeles County Museum of Art since 2006. Prior to this, Govan worked as the director of the Dia Art Foundation in New York City.",
+    "Dana Blankstein- Cohen( born March 3, 1981) is the director of the Israeli Academy of Film and Television. She is a film director, and an Israeli culture entrepreneur."
+  ],
+  "hop_count": 2,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nThe Witnesses is a 2007 French drama film directed by André Téchiné.\nAndré Téchiné is a French screenwriter and film director.\nHe has a long and distinguished career in French cinema.\nThe director of The Witnesses is André Téchiné.\nAndré Téchiné is not mentioned as holding a current institutional directorship in the provided context.\nThe context does not specify where André Téchiné currently works.\nThe director of film The Witnesses works at an unspecified institution.\n<answer> Not specified",
+  "predicted_answer": "Not specified",
+  "claims": [
+    "The Witnesses is a 2007 French drama film directed by André Téchiné",
+    "André Téchiné is a French screenwriter and film director",
+    "He has a long and distinguished career in French cinema",
+    "The director of The Witnesses is André Téchiné",
+    "André Téchiné is not mentioned as holding a current institutional directorship in the provided context",
+    "The context does not specify where André Téchiné currently works",
+    "The director of film The Witnesses works at an unspecified institution"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "The Witnesses is a 2007 French drama film directed by André Téchiné",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C2",
+      "text": "André Téchiné is a French screenwriter and film director",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C3",
+      "text": "He has a long and distinguished career in French cinema",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C4",
+      "text": "The director of The Witnesses is André Téchiné",
+      "claim_type": "DR"
+    },
+    {
+      "id": "C5",
+      "text": "André Téchiné is not mentioned as holding a current institutional directorship in the provided context",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C6",
+      "text": "The context does not specify where André Téchiné currently works",
+      "claim_type": "FC"
+    },
+    {
+      "id": "C7",
+      "text": "The director of film The Witnesses works at an unspecified institution",
+      "claim_type": "DR"
+    }
+  ]
+}

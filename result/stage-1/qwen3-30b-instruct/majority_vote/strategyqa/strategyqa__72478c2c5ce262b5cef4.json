@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__72478c2c5ce262b5cef4",
+  "sample_id": "72478c2c5ce262b5cef4",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is Autumn a good time to collect bear pelts in US?",
+  "gold_answer": "no",
+  "context": [
+    "Autumn runs from September to the end of December in the US.",
+    "Bears go into hibernation from September through April and are scarcely seen."
+  ],
+  "hop_count": 4,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nAutumn in the US runs from September to the end of December.\nBears go into hibernation from September through April.\nBears are scarcely seen during hibernation.\nCollecting bear pelts requires encountering bears.\nBears are scarcely seen during the autumn months.\nAutumn is not a good time to collect bear pelts in the US.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Autumn in the US runs from September to the end of December",
+    "Bears go into hibernation from September through April",
+    "Bears are scarcely seen during hibernation",
+    "Collecting bear pelts requires encountering bears",
+    "Bears are scarcely seen during the autumn months",
+    "Autumn is not a good time to collect bear pelts in the US"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Autumn in the US runs from September to the end of December",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Bears go into hibernation from September through April",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Bears are scarcely seen during hibernation",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Collecting bear pelts requires encountering bears",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Bears are scarcely seen during the autumn months",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "Autumn is not a good time to collect bear pelts in the US",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

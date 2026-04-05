@@ -1,0 +1,92 @@
+{
+  "uid": "strategyqa__b37207ee5c3ebd455355",
+  "sample_id": "b37207ee5c3ebd455355",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Would a Bengal cat be afraid of catching a fish?",
+  "gold_answer": "no",
+  "context": [
+    "Fish live in water. ",
+    "Many Bengal owners say that their Bengal naturally retrieves items.",
+    "Bengal cats often enjoy playing in water."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nBengal cats often enjoy playing in water.\nFish live in water.\nBengal cats are known to naturally retrieve items.\nCats that enjoy water are less likely to be afraid of aquatic animals.\nA Bengal cat would not be afraid of catching a fish.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Bengal cats often enjoy playing in water",
+    "Fish live in water",
+    "Bengal cats are known to naturally retrieve items",
+    "Cats that enjoy water are less likely to be afraid of aquatic animals",
+    "A Bengal cat would not be afraid of catching a fish"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Bengal cats often enjoy playing in water",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Fish live in water",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "Bengal cats are known to naturally retrieve items",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Cats that enjoy water are less likely to be afraid of aquatic animals",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "A Bengal cat would not be afraid of catching a fish",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}

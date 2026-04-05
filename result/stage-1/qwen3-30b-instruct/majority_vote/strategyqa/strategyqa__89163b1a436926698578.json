@@ -1,0 +1,105 @@
+{
+  "uid": "strategyqa__89163b1a436926698578",
+  "sample_id": "89163b1a436926698578",
+  "dataset": "strategyqa",
+  "domain": "general",
+  "question": "Is a Cassowary safer pet than a crane?",
+  "gold_answer": "no",
+  "context": [
+    "Crane's that are fed by humans can exhibit domestic tendencies and rarely peck at humans.",
+    "The Cassowary, known as the world's most dangerous bird, becomes very aggressive and has even killed humans and dogs."
+  ],
+  "hop_count": 3,
+  "model_name": "qwen3-30b-instruct",
+  "model_id": "Qwen/Qwen3-30B-A3B-Instruct-2507",
+  "response": "<reasoning>\nCranes fed by humans can exhibit domestic tendencies.\nCranes rarely peck at humans when fed by humans.\nThe Cassowary is known as the world's most dangerous bird.\nCassowaries have killed humans and dogs.\nCassowaries become very aggressive.\nA Cassowary is not safer than a crane as a pet.\n<answer> No",
+  "predicted_answer": "No",
+  "claims": [
+    "Cranes fed by humans can exhibit domestic tendencies",
+    "Cranes rarely peck at humans when fed by humans",
+    "The Cassowary is known as the world's most dangerous bird",
+    "Cassowaries have killed humans and dogs",
+    "Cassowaries become very aggressive",
+    "A Cassowary is not safer than a crane as a pet"
+  ],
+  "labeled_claims": [
+    {
+      "id": "C1",
+      "text": "Cranes fed by humans can exhibit domestic tendencies",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C2",
+      "text": "Cranes rarely peck at humans when fed by humans",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C3",
+      "text": "The Cassowary is known as the world's most dangerous bird",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C4",
+      "text": "Cassowaries have killed humans and dogs",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C5",
+      "text": "Cassowaries become very aggressive",
+      "claim_type": "FC",
+      "votes": {
+        "FC": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "FC",
+        "annotatorB": "FC",
+        "annotatorC": "FC"
+      }
+    },
+    {
+      "id": "C6",
+      "text": "A Cassowary is not safer than a crane as a pet",
+      "claim_type": "DR",
+      "votes": {
+        "DR": 3
+      },
+      "annotator_labels": {
+        "annotatorA": "DR",
+        "annotatorB": "DR",
+        "annotatorC": "DR"
+      }
+    }
+  ]
+}
