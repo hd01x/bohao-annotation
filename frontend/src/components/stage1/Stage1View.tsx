@@ -42,22 +42,17 @@ export default function Stage1View() {
     setSample(s);
 
     if (existing?.labeled_claims) {
+      // Resume this annotator's own saved work
       setClaims(existing.labeled_claims);
       setExistingAnnotation(existing);
     } else {
-      // Check if majority vote exists
-      const s1 = await api.getStage1(uid!);
-      if (s1?.labeled_claims) {
-        setClaims(s1.labeled_claims.map((c: any) => ({ ...c })));
-      } else {
-        // Fresh annotation from raw claims
-        const raw = s?.claims || [];
-        setClaims(raw.map((text: string, i: number) => ({
-          id: `C${i + 1}`,
-          text,
-          claim_type: undefined,
-        })));
-      }
+      // Fresh annotation — always start blank (no pre-fill from majority vote)
+      const raw = s?.claims || [];
+      setClaims(raw.map((text: string, i: number) => ({
+        id: `C${i + 1}`,
+        text,
+        claim_type: undefined,
+      })));
     }
     setActiveClaim(0);
   }
