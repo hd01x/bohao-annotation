@@ -21,6 +21,4 @@ def get_sample(uid: str):
 @router.get("/samples/{uid}/stage1")
 def get_stage1(uid: str):
     s = data_loader.get_stage1(uid)
-    if not s:
-        raise HTTPException(404, "No Stage 1 annotation for this sample")
-    return s
+    return s  # returns null/None when no stage-1 annotation exists — no 404

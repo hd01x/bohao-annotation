@@ -6,7 +6,6 @@ async function request<T>(path: string, opts?: RequestInit): Promise<T> {
     ...opts,
   });
   if (!res.ok) {
-    if (res.status === 404) return null as T;
     throw new Error(`API ${res.status}: ${await res.text()}`);
   }
   return res.json();
@@ -20,7 +19,7 @@ export const api = {
     request<any>(`/samples/${uid}`),
 
   getStage1: (uid: string) =>
-    request<any>(`/samples/${uid}/stage1`),
+    request<any | null>(`/samples/${uid}/stage1`),
 
   getShuffleOrder: (uid: string, annotator: string) =>
     request<{ order: string[] }>(`/annotations/shuffle/${uid}/${annotator}`),
@@ -32,7 +31,7 @@ export const api = {
     }),
 
   loadAnnotation: (stage: number, annotator: string, uid: string) =>
-    request<any>(`/annotations/${stage}/${annotator}/${uid}`),
+    request<any | null>(`/annotations/${stage}/${annotator}/${uid}`),
 
   getProgress: (stage: number, annotator: string) =>
     request<any>(`/progress/${stage}/${annotator}`),

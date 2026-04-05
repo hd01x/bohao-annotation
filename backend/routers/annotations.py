@@ -42,6 +42,4 @@ def save_stage3(body: dict):
 @router.get("/{stage}/{annotator}/{uid}")
 def load_annotation(stage: int, annotator: str, uid: str):
     ann = annotation_store.load_annotation(stage, annotator, uid)
-    if not ann:
-        raise HTTPException(404, "Annotation not found")
-    return ann
+    return ann  # returns null/None when not yet annotated — no 404
